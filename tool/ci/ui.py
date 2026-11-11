@@ -24,6 +24,27 @@ def adb(*args, timeout=60):
 
 
 def dump():
+    """UI tree of the screen. A system "isn't responding" dialog (the
+    emulator's launcher is often slow right after boot) is answered with
+    "Wait" first, so it never hides the app."""
+    for _ in range(3):
+        root = _dump_once()
+        if root is None:
+            return None
+        texts = [(n.get('text') or '') for n in root.iter('node')]
+        if not any("isn't responding" in t or 'không phản hồi' in t for t in texts):
+            return root
+        for node in root.iter('node'):
+            if (node.get('text') or '') in ('Wait', 'Chờ'):
+                print('dismissed a system "not responding" dialog')
+                x1, y1, x2, y2 = map(int, re.findall(r'-?\d+', node.get('bounds')))
+                adb('shell', 'input', 'tap', str((x1 + x2) // 2), str((y1 + y2) // 2))
+                time.sleep(2)
+                break
+    return _dump_once()
+
+
+def _dump_once():
     try:
         adb('shell', 'rm', '-f', '/sdcard/ui.xml', timeout=20)
         adb('shell', 'uiautomator', 'dump', '/sdcard/ui.xml', timeout=45)

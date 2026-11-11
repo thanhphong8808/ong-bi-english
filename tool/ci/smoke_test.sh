@@ -36,6 +36,11 @@ adb shell getprop ro.product.cpu.abilist
 adb shell getprop ro.build.version.release
 adb shell cat /proc/meminfo | head -2
 
+step "Settle"
+# The emulator's own apps are still starting right after boot.
+sleep 45
+$UI list >/dev/null 2>&1 || true
+
 step "Install"
 adb install -r -g "$APK" || { echo "INSTALL FAILED"; exit 1; }
 adb logcat -c || true
