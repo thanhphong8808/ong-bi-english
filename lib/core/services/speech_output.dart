@@ -49,8 +49,19 @@ class SpeechOutput {
   }) async {
     final token = ++_token;
     await _stopCurrent();
-    final path = await cache.fileFor(AudioRequest.en(text, voice: voice, speed: speed));
-    if (token != _token || path == null) {
+    String? path;
+    try {
+      path = await cache.fileFor(AudioRequest.en(text, voice: voice, speed: speed));
+    } catch (_) {
+      // No built-in English voice (not installed, or switched off after a
+      // crash): the phone's own English voice below is better than silence.
+      path = null;
+    }
+    if (token != _token) {
+      return; // a newer request replaced this one
+    }
+    if (path == null) {
+      await ttsVi.speakWithSystemVoice(text, speed: speed, language: voice.british ? 'en-GB' : 'en-US');
       return;
     }
     await _play(path);

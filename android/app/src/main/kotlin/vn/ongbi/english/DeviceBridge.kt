@@ -57,7 +57,15 @@ class DeviceBridge(
             "cpuMaxFreqsKhz" to cpuMaxFrequencies(),
             "hasOpenCl" to hasOpenCl(),
             "supportedAbis" to Build.SUPPORTED_ABIS.toList(),
+            "appVersionCode" to appVersionCode(),
         )
+    }
+
+    /** Identifies the installed build (the crash guard resets on a new one). */
+    private fun appVersionCode(): Long = try {
+        context.packageManager.getPackageInfo(context.packageName, 0).longVersionCode
+    } catch (_: Throwable) {
+        0L
     }
 
     /** Max frequency per core, used to count "big" cores for thread selection. */

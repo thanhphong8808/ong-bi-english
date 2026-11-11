@@ -78,7 +78,7 @@ jobs:
 
       # arm64 is the phone build; x86_64 is only for the emulator smoke test.
       - name: Build APK
-        run: flutter build apk --release --split-per-abi --target-platform android-arm64,android-x64
+        run: flutter build apk --release --split-per-abi --target-platform android-arm64,android-x64 --build-number ${{ github.run_number }}
 
       - name: Rename APK
         run: |
@@ -86,6 +86,37 @@ jobs:
           cp build/app/outputs/flutter-apk/app-arm64-v8a-release.apk out/OngBiEnglish-arm64-v8a.apk
           ls -la out build/app/outputs/flutter-apk/
           unzip -l build/app/outputs/flutter-apk/app-x86_64-release.apk | grep "\.so$" || true
+
+      # Guard against the Galaxy S26 Ultra crash: ONNX Runtime builds with
+      # KleidiAI SME kernels die with SIGILL on SME-only CPUs.
+      - name: Check native libraries
+        run: |
+          set -e
+          mkdir -p native && cd native
+          unzip -o -q ../out/OngBiEnglish-arm64-v8a.apk 'lib/arm64-v8a/*'
+          ls -la lib/arm64-v8a
+          echo "onnxruntime version: $(strings -n 6 lib/arm64-v8a/libonnxruntime.so | grep -m1 -E '^1\.[0-9]+\.[0-9]+$')"
+          echo "sherpa-onnx version: $(strings -n 6 lib/arm64-v8a/libsherpa-onnx-c-api.so | grep -m1 -E '^1\.[0-9]+\.[0-9]+$')"
+          if strings -n 6 lib/arm64-v8a/libonnxruntime.so | grep -qi kleidiai; then
+            echo "::error::libonnxruntime.so contains KleidiAI SME kernels (SIGILL on SME-only CPUs)"
+            exit 1
+          fi
+          python3 - <<'PY'
+          import glob, struct, sys
+          bad = []
+          for f in sorted(glob.glob('lib/arm64-v8a/*.so')):
+              d = open(f, 'rb').read()
+              phoff = struct.unpack_from('<Q', d, 0x20)[0]
+              size, num = struct.unpack_from('<HH', d, 0x36)
+              aligns = {struct.unpack_from('<Q', d, phoff + i * size + 48)[0]
+                        for i in range(num) if struct.unpack_from('<I', d, phoff + i * size)[0] == 1}
+              print(f, sorted(aligns))
+              if min(aligns) < 16384:
+                  bad.append(f)
+          if bad:
+              print('::error::not 16 KB aligned:', bad)
+              sys.exit(1)
+          PY
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -117,7 +148,7 @@ jobs:
   smoke:
     needs: build
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -141,10 +172,11 @@ jobs:
           target: google_apis
           arch: x86_64
           profile: pixel_6
-          # 6 GB makes the app pick Gemma E2B, so Talk with Bi is tested too.
-          ram-size: 6144M
+          # 4 GB: the app skips Gemma, so the run stays short (about 500 MB of
+          # models). Talk with Bi is still opened and must rest gracefully.
+          ram-size: 4096M
           cores: 4
-          disk-size: 14G
+          disk-size: 8G
           emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -no-snapshot
           disable-animations: true
           script: bash tool/ci/smoke_test.sh smoke/app-x86_64-release.apk

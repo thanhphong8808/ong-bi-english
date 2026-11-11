@@ -220,6 +220,43 @@ class _DiagnosticsScreenState extends ConsumerState<DiagnosticsScreen> {
     );
   }
 
+  /// Engines the crash guard switched off, with a way to switch them back on.
+  Widget _guardCard() {
+    final services = ref.read(appServicesProvider);
+    final off = services.guard.disabled;
+    return Card(
+      margin: const EdgeInsets.symmetric(vertical: 6),
+      child: Padding(
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(S.guardTitle, style: Theme.of(context).textTheme.titleMedium),
+            const SizedBox(height: 6),
+            if (off.isEmpty)
+              const Text(S.guardNone)
+            else ...[
+              for (final engine in off) Text('• ${S.guardEngineName(engine)}'),
+              const SizedBox(height: 8),
+              FilledButton.tonal(
+                onPressed: () async {
+                  await services.guard.enableAll();
+                  await services.refreshCapabilities();
+                  if (!mounted) {
+                    return;
+                  }
+                  setState(() {});
+                  ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text(S.guardEnabled)));
+                },
+                child: const Text(S.guardEnableAll),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -230,6 +267,7 @@ class _DiagnosticsScreenState extends ConsumerState<DiagnosticsScreen> {
           children: [
             const Text(S.diagIntro),
             const SizedBox(height: 8),
+            _guardCard(),
             _card(
               id: 'en',
               icon: Icons.record_voice_over_outlined,

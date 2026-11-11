@@ -10,6 +10,7 @@ import 'dart:typed_data';
 
 import 'package:sherpa_onnx/sherpa_onnx.dart' as sherpa;
 
+import 'native_guard.dart';
 import 'pcm_utils.dart';
 
 class SherpaWorkerException implements Exception {
@@ -22,9 +23,14 @@ class SherpaWorkerException implements Exception {
 
 /// Main-isolate handle to one worker isolate.
 class SherpaWorker {
-  SherpaWorker(this.debugName);
+  SherpaWorker(this.debugName, {NativeGuard? guard, this.guardEngine = ''})
+      : guard = guard ?? NativeGuard.disabled();
 
   final String debugName;
+
+  /// Marks this engine busy during each native call (see [NativeGuard]).
+  final NativeGuard guard;
+  final String guardEngine;
 
   Isolate? _isolate;
   SendPort? _toWorker;
@@ -89,8 +95,17 @@ class SherpaWorker {
     final id = _nextId++;
     final completer = Completer<Object?>();
     _pending[id] = completer;
+    if (guardEngine.isNotEmpty) {
+      guard.begin(guardEngine);
+    }
     _toWorker!.send(<String, Object?>{'id': id, 'op': op, ...args});
-    return completer.future;
+    try {
+      return await completer.future;
+    } finally {
+      if (guardEngine.isNotEmpty) {
+        guard.end(guardEngine);
+      }
+    }
   }
 
   /// Sends a command without waiting (used for audio chunks).

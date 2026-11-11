@@ -3,6 +3,8 @@ import 'dart:ui' show Offset;
 
 import 'package:google_mlkit_digital_ink_recognition/google_mlkit_digital_ink_recognition.dart';
 
+import 'native_guard.dart';
+
 /// One sampled point of a handwriting stroke.
 class InkPoint {
   const InkPoint(this.position, this.timeMs, {this.pressure = 1.0});
@@ -17,7 +19,11 @@ class InkPoint {
 /// Handwriting recognition for free-written letters and words (level 1+).
 /// Letter tracing at level 0 is scored geometrically and never uses this.
 class InkService {
+  InkService({NativeGuard? guard}) : guard = guard ?? NativeGuard.disabled();
+
   static const String languageCode = 'en-US';
+
+  final NativeGuard guard;
 
   final DigitalInkRecognizerModelManager _manager = DigitalInkRecognizerModelManager();
   DigitalInkRecognizer? _recognizer;
@@ -44,9 +50,11 @@ class InkService {
               StrokePoint(x: point.position.dx, y: point.position.dy, t: point.timeMs),
           ],
     ];
-    final recognizer = _recognizer ??= DigitalInkRecognizer(languageCode: languageCode);
-    final candidates = await recognizer.recognize(ink);
-    return [for (final candidate in candidates) candidate.text];
+    return guard.run(NativeGuard.ink, () async {
+      final recognizer = _recognizer ??= DigitalInkRecognizer(languageCode: languageCode);
+      final candidates = await recognizer.recognize(ink);
+      return [for (final candidate in candidates) candidate.text];
+    });
   }
 
   Future<void> dispose() async {

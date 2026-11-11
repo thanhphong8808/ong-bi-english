@@ -27,6 +27,15 @@ dependencies:
   google_mlkit_digital_ink_recognition: ^1.0.2
   crypto: ^3.0.8
 
+# sherpa_onnx 1.12.29 asks for sherpa_onnx_android ^1.12.29, which resolves
+# to 1.12.36+ with ONNX Runtime 1.23.2. That runtime picks SME2 kernels on
+# CPUs that only have SME (Snapdragon 8 Elite Gen 5, e.g. Galaxy S26 Ultra)
+# and the app dies with SIGILL. 1.12.29 ships ONNX Runtime 1.17.1, which has
+# no SME code, and matches the Dart FFI structs of sherpa_onnx 1.12.29.
+# CI checks the APK for this (see .github/workflows/build-apk.yml).
+dependency_overrides:
+  sherpa_onnx_android: 1.12.29
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

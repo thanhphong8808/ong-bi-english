@@ -7,12 +7,15 @@ import '../l10n/strings_vi.dart';
 import 'theme.dart';
 
 class OngBiApp extends StatelessWidget {
-  const OngBiApp({super.key, required this.router, this.lastCrash});
+  const OngBiApp({super.key, required this.router, this.lastCrash, this.switchedOff = const <String>{}});
 
   final GoRouter router;
 
   /// Report of the previous unexpected stop, shown once to the parent.
   final CrashReport? lastCrash;
+
+  /// Native engines switched off at this start (NativeGuard).
+  final Set<String> switchedOff;
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +32,7 @@ class OngBiApp extends StatelessWidget {
           child: child ?? const SizedBox.shrink(),
         );
         final crash = lastCrash;
-        return crash == null ? page : _CrashNotice(report: crash, child: page);
+        return crash == null ? page : _CrashNotice(report: crash, switchedOff: switchedOff, child: page);
       },
     );
   }
@@ -37,9 +40,10 @@ class OngBiApp extends StatelessWidget {
 
 /// One-time notice about the previous crash, drawn above the first screen.
 class _CrashNotice extends StatefulWidget {
-  const _CrashNotice({required this.report, required this.child});
+  const _CrashNotice({required this.report, required this.switchedOff, required this.child});
 
   final CrashReport report;
+  final Set<String> switchedOff;
   final Widget child;
 
   @override
@@ -73,6 +77,13 @@ class _CrashNoticeState extends State<_CrashNotice> {
                       children: [
                         const Text(S.crashTitle, style: TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
                         const SizedBox(height: 8),
+                        if (widget.switchedOff.isNotEmpty) ...[
+                          Text(
+                            S.guardSwitchedOff(widget.switchedOff),
+                            style: const TextStyle(fontWeight: FontWeight.w700),
+                          ),
+                          const SizedBox(height: 8),
+                        ],
                         Text(S.crashBody(widget.report.savedTo)),
                         const SizedBox(height: 8),
                         ConstrainedBox(

@@ -6,6 +6,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:path/path.dart' as p;
 
 import 'model_catalog.dart';
+import 'native_guard.dart';
 import 'sherpa_worker.dart';
 
 /// Vietnamese speech: Piper vi_VN through sherpa-onnx, with the Android
@@ -31,7 +32,9 @@ class TtsViService {
   String get _dir =>
       p.join(modelsRoot, ModelCatalog.piperVi.id, 'vits-piper-vi_VN-vais1000-medium');
 
-  Future<bool> get piperAvailable => File(p.join(_dir, 'vi_VN-vais1000-medium.onnx')).exists();
+  Future<bool> get piperAvailable async =>
+      !worker.guard.isDisabled(NativeGuard.tts) &&
+      await File(p.join(_dir, 'vi_VN-vais1000-medium.onnx')).exists();
 
   Future<T> _serial<T>(Future<T> Function() task) {
     final completer = Completer<T>();
@@ -79,12 +82,12 @@ class TtsViService {
   }
 
   /// Speaks with the Android system voice and waits until it finishes.
-  /// Returns false when no Vietnamese system voice is installed.
-  Future<bool> speakWithSystemVoice(String text, {double speed = 1.0}) async {
+  /// Returns false when no system voice for [language] is installed.
+  Future<bool> speakWithSystemVoice(String text, {double speed = 1.0, String language = 'vi-VN'}) async {
     try {
       final tts = _system ??= FlutterTts();
       await tts.awaitSpeakCompletion(true);
-      await tts.setLanguage('vi-VN');
+      await tts.setLanguage(language);
       // flutter_tts uses 0.5 as the normal Android speaking rate.
       await tts.setSpeechRate(0.5 * speed);
       await tts.speak(text);

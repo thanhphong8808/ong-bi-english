@@ -50,7 +50,7 @@ $UI shot 01-launch
 
 if alive; then
   step "First-time setup (Tải tất cả qua Wi-Fi)"
-  $UI setup 40
+  $UI setup 25
   check "downloads"
   $UI shot 02-setup-done
 fi
@@ -96,7 +96,7 @@ if alive; then
   $UI tap "Nói chuyện" 30 && sleep 10
   $UI shot 08-talk-choose
   $UI tap "Trò chuyện" 20
-  for i in 1 2 3 4 5 6; do sleep 20; check "talk +$((i*20))s"; done
+  for i in 1 2 3; do sleep 15; check "talk +$((i*15))s"; done
   $UI shot 09-talk
   $UI list
 fi

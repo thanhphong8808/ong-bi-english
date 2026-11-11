@@ -6,6 +6,7 @@ import 'package:path/path.dart' as p;
 
 import 'english_voice.dart';
 import 'model_catalog.dart';
+import 'native_guard.dart';
 import 'sherpa_worker.dart';
 
 class TtsUnavailableException implements Exception {
@@ -25,6 +26,8 @@ class TtsEnService {
   });
 
   final SherpaWorker worker;
+
+  NativeGuard get _guard => worker.guard;
   final String modelsRoot;
   final int threads;
 
@@ -39,9 +42,14 @@ class TtsEnService {
   String get _piperDir =>
       p.join(modelsRoot, ModelCatalog.piperEn.id, 'vits-piper-en_US-amy-low');
 
-  Future<bool> _kokoroInstalled() => File(p.join(_kokoroDir, 'model.onnx')).exists();
+  // A voice engine switched off by the crash guard counts as not installed:
+  // the phone's own English voice is used instead.
+  Future<bool> _kokoroInstalled() async =>
+      !_guard.isDisabled(NativeGuard.tts) && await File(p.join(_kokoroDir, 'model.onnx')).exists();
 
-  Future<bool> _piperInstalled() => File(p.join(_piperDir, 'en_US-amy-low.onnx')).exists();
+  Future<bool> _piperInstalled() async =>
+      !_guard.isDisabled(NativeGuard.tts) &&
+      await File(p.join(_piperDir, 'en_US-amy-low.onnx')).exists();
 
   Future<bool> get available async => await _kokoroInstalled() || await _piperInstalled();
 

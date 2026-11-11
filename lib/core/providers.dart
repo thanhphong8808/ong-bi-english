@@ -20,6 +20,7 @@ import 'services/ink_service.dart';
 import 'services/llm_service.dart';
 import 'services/model_catalog.dart';
 import 'services/model_downloader.dart';
+import 'services/native_guard.dart';
 import 'services/parent_settings.dart';
 import 'services/platform_bridge.dart';
 import 'services/recording_janitor.dart';
@@ -36,11 +37,15 @@ class AppPaths {
     required this.modelsRoot,
     required this.audioCacheRoot,
     required this.recordingsRoot,
+    required this.guardRoot,
   });
 
   final String modelsRoot;
   final String audioCacheRoot;
   final String recordingsRoot;
+
+  /// Crash-guard markers (see NativeGuard).
+  final String guardRoot;
 
   static Future<AppPaths> resolve() async {
     final support = await getApplicationSupportDirectory();
@@ -48,6 +53,7 @@ class AppPaths {
       modelsRoot: p.join(support.path, 'models'),
       audioCacheRoot: p.join(support.path, 'audio_cache'),
       recordingsRoot: p.join(support.path, 'recordings'),
+      guardRoot: p.join(support.path, 'native_guard'),
     );
     await Directory(paths.modelsRoot).create(recursive: true);
     await Directory(paths.recordingsRoot).create(recursive: true);
@@ -99,6 +105,8 @@ class AppServices {
     required this.progress,
     required this.studyClock,
     required this.backup,
+    required this.guard,
+    this.switchedOffNow = const <String>{},
   });
 
   final AppPaths paths;
@@ -121,23 +129,38 @@ class AppServices {
   final StudyClock studyClock;
   final BackupService backup;
 
+  /// Native engines switched off after a crash (see NativeGuard).
+  final NativeGuard guard;
+
+  /// Engines switched off at this start, for the parent notice.
+  final Set<String> switchedOffNow;
+
   final ContentFilter contentFilter = const ContentFilter();
 
   final ValueNotifier<Capabilities> capabilities = ValueNotifier<Capabilities>(
     const Capabilities(speech: false, ink: false, llm: false, englishVoice: false),
   );
 
-  static Future<AppServices> create() async {
+  /// [previousNativeCrash]: the last run ended in a native crash, so the
+  /// engine that was busy at that moment is switched off (NativeGuard).
+  static Future<AppServices> create({bool previousNativeCrash = false}) async {
     final paths = await AppPaths.resolve();
     final db = AppDatabase();
     final devicePlatform = DevicePlatform();
     final filesPlatform = FilesPlatform();
-    final profile = DeviceProfile.select(DeviceInfo.fromMap(await devicePlatform.getDeviceInfo()));
+    final rawDeviceInfo = await devicePlatform.getDeviceInfo();
+    final profile = DeviceProfile.select(DeviceInfo.fromMap(rawDeviceInfo));
     final curriculum = await CurriculumLoader.load();
 
+    final guard = NativeGuard(paths.guardRoot);
+    final switchedOff = await guard.start(
+      build: '${rawDeviceInfo['appVersionCode'] ?? ''}',
+      nativeCrash: previousNativeCrash,
+    );
+
     // Worker isolates start lazily, on the first speech call.
-    final sttWorker = SherpaWorker('ongbi-stt');
-    final ttsWorker = SherpaWorker('ongbi-tts');
+    final sttWorker = SherpaWorker('ongbi-stt', guard: guard, guardEngine: NativeGuard.stt);
+    final ttsWorker = SherpaWorker('ongbi-tts', guard: guard, guardEngine: NativeGuard.tts);
 
     final ttsEn = TtsEnService(worker: ttsWorker, modelsRoot: paths.modelsRoot, threads: profile.ttsThreads);
     final ttsVi = TtsViService(worker: ttsWorker, modelsRoot: paths.modelsRoot, threads: profile.ttsThreads);
@@ -163,8 +186,8 @@ class AppServices {
       ttsVi: ttsVi,
       audioCache: audioCache,
       speech: SpeechOutput(cache: audioCache, ttsVi: ttsVi),
-      llm: LlmService(),
-      ink: InkService(),
+      llm: LlmService(guard: guard),
+      ink: InkService(guard: guard),
       settingsStore: ParentSettingsStore(db.settingsRepo),
       janitor: RecordingJanitor(db.mediaRepo),
       files: filesPlatform,
@@ -173,6 +196,8 @@ class AppServices {
       progress: ProgressService(db: db, curriculum: curriculum),
       studyClock: StudyClock(db.studyRepo),
       backup: BackupService(db: db, files: filesPlatform),
+      guard: guard,
+      switchedOffNow: switchedOff,
     );
     await services.refreshCapabilities();
     return services;
@@ -181,16 +206,20 @@ class AppServices {
   /// Re-checks installed models (after setup, downloads or deletions).
   Future<void> refreshCapabilities() async {
     final whisper = ModelCatalog.whisperFor(profile);
-    final speechReady =
-        await downloader.isInstalled(ModelCatalog.vad) && await downloader.isInstalled(whisper);
+    // An engine switched off by the crash guard counts as unavailable, so
+    // the lessons use their built-in fallbacks instead of crashing again.
+    final speechReady = !guard.isDisabled(NativeGuard.stt) &&
+        await downloader.isInstalled(ModelCatalog.vad) &&
+        await downloader.isInstalled(whisper);
     var inkReady = false;
     try {
-      inkReady = await ink.isModelReady();
+      inkReady = !guard.isDisabled(NativeGuard.ink) && await ink.isModelReady();
     } catch (_) {
       inkReady = false;
     }
     final gemma = ModelCatalog.gemmaFor(profile);
-    final llmReady = gemma != null && await downloader.isInstalled(gemma);
+    final llmReady =
+        gemma != null && !guard.isDisabled(NativeGuard.llm) && await downloader.isInstalled(gemma);
     capabilities.value = Capabilities(
       speech: speechReady,
       ink: inkReady,

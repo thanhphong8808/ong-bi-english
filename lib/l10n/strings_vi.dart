@@ -461,4 +461,22 @@ class S {
   static String startupFailedBody(String savedTo) =>
       'Bố mẹ chụp màn hình này gửi người hỗ trợ. ${savedTo.isEmpty ? '' : 'Báo cáo cũng đã lưu ở "$savedTo". '}'
       'Sau đó đóng hẳn app rồi mở lại.';
+
+  // Crash guard (NativeGuard): engines switched off after a native crash.
+  static String guardEngineName(String engine) => switch (engine) {
+        'tts' => 'giọng đọc tích hợp (tạm dùng giọng của điện thoại)',
+        'stt' => 'chấm điểm phát âm (bé vẫn tập nói, chưa chấm điểm)',
+        'ink' => 'nhận dạng chữ viết tay (bé vẫn tập tô chữ)',
+        'llm' => '"Nói chuyện với Bi"',
+        'llm_gpu' => 'tăng tốc GPU cho Bi (Bi chạy bằng CPU, chậm hơn một chút)',
+        _ => engine,
+      };
+  static String guardSwitchedOff(Iterable<String> engines) =>
+      'Để bé học tiếp mà không bị thoát, app đã tạm tắt: '
+      '${engines.map(guardEngineName).join('; ')}. '
+      'Bố mẹ có thể bật lại trong Khu phụ huynh → Kiểm tra hệ thống.';
+  static const guardTitle = 'Tính năng đang tạm tắt sau lỗi';
+  static const guardNone = 'Không có tính năng nào bị tắt.';
+  static const guardEnableAll = 'Bật lại tất cả';
+  static const guardEnabled = 'Đã bật lại. Nếu app lại thoát, tính năng đó sẽ tự tắt lần nữa.';
 }

@@ -3,6 +3,8 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 
+import 'native_guard.dart';
+
 class LlmException implements Exception {
   const LlmException(this.message);
   final String message;
@@ -17,6 +19,11 @@ class LlmException implements Exception {
 /// [unload] when it closes, to save RAM and battery and keep the phone cool.
 /// Nothing outside that feature may depend on this service.
 class LlmService {
+  LlmService({NativeGuard? guard}) : guard = guard ?? NativeGuard.disabled();
+
+  /// Marks Gemma busy while it loads or replies (see [NativeGuard]).
+  final NativeGuard guard;
+
   static const MethodChannel _channel = MethodChannel('ongbi/llm');
   static const EventChannel _events = EventChannel('ongbi/llm/stream');
 
@@ -38,14 +45,22 @@ class LlmService {
   /// Loads the model, trying the GPU first when [preferGpu] is set and
   /// falling back to the CPU when GPU initialisation fails.
   Future<String> load({required String modelPath, required bool preferGpu}) async {
-    final attempts = preferGpu ? const [true, false] : const [false];
+    if (guard.isDisabled(NativeGuard.llm)) {
+      throw const LlmException('switched off after a crash on this phone');
+    }
+    // The GPU path is skipped for good once a GPU start crashed this phone.
+    final gpu = preferGpu && !guard.isDisabled(NativeGuard.llmGpu);
+    final attempts = gpu ? const [true, false] : const [false];
     Object? lastError;
     for (final useGpu in attempts) {
       try {
-        final raw = await _channel.invokeMapMethod<String, Object?>('load', {
-          'modelPath': modelPath,
-          'useGpu': useGpu,
-        });
+        final raw = await guard.run(
+          useGpu ? NativeGuard.llmGpu : NativeGuard.llm,
+          () => _channel.invokeMapMethod<String, Object?>('load', {
+            'modelPath': modelPath,
+            'useGpu': useGpu,
+          }),
+        );
         _backend = (raw?['backend'] as String?) ?? (useGpu ? 'gpu' : 'cpu');
         return _backend!;
       } on PlatformException catch (e) {
@@ -73,21 +88,33 @@ class LlmService {
     final id = _nextId++;
     late final StreamController<String> controller;
     StreamSubscription<Map<String, Object?>>? sub;
+    var busy = false;
+    void idle() {
+      if (busy) {
+        busy = false;
+        guard.end(NativeGuard.llm);
+      }
+    }
 
     controller = StreamController<String>(
       onListen: () {
+        busy = true;
+        guard.begin(NativeGuard.llm);
         sub = _eventStream.where((e) => e['id'] == id).listen((event) {
           switch (event['type']) {
             case 'chunk':
               controller.add((event['text'] as String?) ?? '');
             case 'done':
+              idle();
               controller.close();
             case 'error':
+              idle();
               controller.addError(LlmException((event['text'] as String?) ?? 'error'));
               controller.close();
           }
         });
         _channel.invokeMethod<Object?>('send', {'id': id, 'text': text}).catchError((Object e) {
+          idle();
           if (!controller.isClosed) {
             controller.addError(LlmException(e.toString()));
             controller.close();
@@ -96,6 +123,7 @@ class LlmService {
         });
       },
       onCancel: () async {
+        idle();
         await sub?.cancel();
       },
     );

@@ -49,7 +49,11 @@ Future<void> _start() async {
   final ParentSettings settings;
   final bool ready;
   try {
-    services = await AppServices.create();
+    // After a native crash, the engine that was busy is switched off so the
+    // child is not stuck in a crash loop (see NativeGuard).
+    services = await AppServices.create(
+      previousNativeCrash: lastCrash?.text.contains('CRASH_NATIVE') ?? false,
+    );
     settings = await services.settingsStore.load();
     // The core lessons need every required pack. Gemma is optional by design:
     // deleting it must never block anything except "Talk with Bi".
@@ -88,6 +92,7 @@ Future<void> _start() async {
       child: OngBiApp(
         router: buildRouter(initialLocation: ready ? AppRoutes.home : AppRoutes.setup),
         lastCrash: lastCrash,
+        switchedOff: services.switchedOffNow,
       ),
     ),
   );
