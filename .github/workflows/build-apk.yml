@@ -28,10 +28,13 @@ jobs:
           distribution: temurin
           java-version: "17"
 
-      - name: Set up Flutter (stable)
+      - name: Set up Flutter 3.47.9
         uses: subosito/flutter-action@v2
         with:
+          # Pinned: a new stable Flutter (3.50) raised the minimum Android
+          # Gradle Plugin and broke the build overnight. Upgrade on purpose.
           channel: stable
+          flutter-version: 3.47.9
           cache: true
 
       - name: Show versions
@@ -182,10 +185,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Set up Flutter (stable)
+      - name: Set up Flutter 3.47.9
         uses: subosito/flutter-action@v2
         with:
+          # Pinned: a new stable Flutter (3.50) raised the minimum Android
+          # Gradle Plugin and broke the build overnight. Upgrade on purpose.
           channel: stable
+          flutter-version: 3.47.9
           cache: true
 
       - name: Dump the app's speech settings

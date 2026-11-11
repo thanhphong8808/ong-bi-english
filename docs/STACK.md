@@ -6,7 +6,7 @@ Kiểm tra ngày 2026-11-10, cập nhật 2026-11-11. Cột "Nguồn kiểm tra"
 
 | Thành phần | Phiên bản dùng | Nguồn kiểm tra |
 |---|---|---|
-| Flutter | kênh `stable` mới nhất (CI không ghim số); đã đối chiếu với 3.47.9 | `flutter/flutter` nhánh `stable` |
+| Flutter | 3.47.9 (CI ghim số: Flutter 3.50 nâng mức AGP tối thiểu lên 9.1.1 và làm hỏng build; nâng cấp có chủ đích) | `flutter/flutter` nhánh `stable` |
 | Dart | `^3.13.0` | Đi kèm Flutter 3.47; đáp ứng yêu cầu của go_router 18, record 7, flutter_riverpod 3.5 |
 | Gradle | 9.3.1 | `templateDefaultGradleVersion` trong `gradle_utils.dart` của Flutter stable |
 | Android Gradle Plugin | 9.1.0 | `templateAndroidGradlePluginVersion` (cùng file) |
