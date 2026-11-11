@@ -79,7 +79,7 @@ class _CrashNoticeState extends State<_CrashNotice> {
                           constraints: const BoxConstraints(maxHeight: 320),
                           child: SingleChildScrollView(
                             child: SelectableText(
-                              lines.take(60).join('\n'),
+                              lines.take(300).join('\n'),
                               style: const TextStyle(fontSize: 11, fontFamily: 'monospace'),
                             ),
                           ),

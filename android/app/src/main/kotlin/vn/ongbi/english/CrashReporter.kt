@@ -43,7 +43,7 @@ object CrashReporter {
     fun install(context: Context) {
         if (installed) return
         installed = true
-        val app = context.applicationContext
+        val app = context.applicationContext ?: context
         val previous = Thread.getDefaultUncaughtExceptionHandler()
         Thread.setDefaultUncaughtExceptionHandler { thread, error ->
             try {
@@ -173,8 +173,13 @@ object CrashReporter {
             null
         }
         if (trace != null && trace.isNotEmpty()) {
+            val text = readable(trace)
+            val key = keyLines(text)
+            if (key.isNotEmpty()) {
+                append("Key lines:\n").append(key).append("\n\n")
+            }
             append("Trace:\n")
-            append(readable(trace))
+            append(text)
         }
     }
 
@@ -197,6 +202,32 @@ object CrashReporter {
     }
 
     @TargetApi(30)
+    /**
+     * A native tombstone is protobuf, so its readable strings come out in
+     * file order: header, every thread, memory maps, then recent log lines.
+     * These are the lines that say what crashed and where.
+     */
+    private fun keyLines(text: String): String {
+        val pattern = Regex(
+            "SIG[A-Z]+|SEGV_|BUS_|ILL_|FPE_|TRAP_|[Aa]bort|Cause|signal|fault|" +
+                "\\.so|base\\.apk|\\.oat|\\.odex|Java_|_Z[A-Z0-9]|dart|flutter|sherpa|onnx|litert|espeak|mlkit|" +
+                "JNI|jni|Exception|Error|ongbi",
+        )
+        val skip = Regex("^/(system|apex|vendor|product)/.*\\.(so|jar|apk|oat|art|vdex|odex)$|^\\[anon:|^/dev/")
+        val out = ArrayList<String>()
+        var last = ""
+        for (raw in text.lineSequence()) {
+            val line = raw.trim()
+            if (line.length < 4 || line == last || skip.containsMatchIn(line)) continue
+            if (pattern.containsMatchIn(line)) {
+                out.add(line.take(240))
+                last = line
+                if (out.size >= 120) break
+            }
+        }
+        return out.joinToString("\n")
+    }
+
     private fun reasonName(reason: Int): String = when (reason) {
         ApplicationExitInfo.REASON_CRASH -> "CRASH (Kotlin/Java)"
         ApplicationExitInfo.REASON_CRASH_NATIVE -> "CRASH_NATIVE"

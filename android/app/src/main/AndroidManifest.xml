@@ -18,7 +18,7 @@
 
     <application
         android:label="Ong Bi English"
-        android:name="${applicationName}"
+        android:name=".OngBiApplication"
         android:icon="@mipmap/ic_launcher"
         android:allowBackup="false"
         android:fullBackupContent="false"
