@@ -27,18 +27,18 @@ Kiểm tra ngày 2026-11-10, cập nhật 2026-11-11. Cột "Nguồn kiểm tra"
 | drift | ^2.35.4 (SQL thuần, không sinh mã) | `pubspec.yaml` trong repo drift |
 | drift_flutter | ^0.3.1 | như trên |
 | sherpa_onnx | **1.12.29 (ghim cứng)** | Mã nguồn tag `v1.12.29`; xem ghi chú bên dưới |
-| record | ^7.2.0 | `pubspec.yaml` trong repo record |
+| record | ^7.1.2 | Bản phát hành mới nhất trên pub.dev (repo đã lên 7.2.0 nhưng chưa phát hành) |
 | just_audio | ^0.10.6 | `pubspec.yaml` trong repo just_audio |
-| flutter_svg | ^2.3.2 | `pubspec.yaml` trong `flutter/packages` |
+| flutter_svg | ^2.3.3 | `pubspec.yaml` trong `flutter/packages` |
 | flutter_tts | ^4.2.5 | `pubspec.yaml` trong repo flutter_tts |
-| google_mlkit_digital_ink_recognition | ^1.0.0 | `pubspec.yaml` trong repo google_ml_kit_flutter |
-| crypto | ^3.0.6 | repo `dart-lang/core` (bản hiện tại 3.0.8) |
-| path / path_provider | ^1.9.0 / ^2.1.5 | repo `dart-lang/core`, `flutter/packages` |
+| google_mlkit_digital_ink_recognition | ^1.0.2 | `pubspec.yaml` trong repo google_ml_kit_flutter |
+| crypto | ^3.0.8 | repo `dart-lang/core` |
+| path / path_provider | ^1.9.1 / ^2.1.6 | repo `dart-lang/core`, `flutter/packages` |
 | flutter_lints | ^6.0.0 | `flutter/packages` |
 
-Các số trên đọc từ `pubspec.yaml` ở nhánh chính của từng repo (pub.dev không truy cập
-được từ môi trường soạn code). Dùng ràng buộc `^` nên `flutter pub get` sẽ lấy bản vá
-mới nhất tương thích.
+Các số trên là bản `flutter pub get` thực tế chọn trên GitHub Actions ngày 2026-11-11
+(build-2: phân tích mã không lỗi, 142 test đạt, APK arm64 107,7 MB). Dùng ràng buộc `^`
+nên các lần build sau lấy bản vá mới nhất tương thích.
 
 ## Thư viện Android (Kotlin)
 
