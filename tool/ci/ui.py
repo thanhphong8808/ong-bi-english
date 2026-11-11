@@ -130,12 +130,18 @@ def setup(minutes):
     deadline = time.time() + minutes * 60
     started = 0
     last_progress = ''
+    last_report = 0.0
     while time.time() < deadline:
         to_edge(top=True)
         root = dump()
         if root is None:
+            print('setup: no UI dump')
             time.sleep(5)
             continue
+        if time.time() - last_report > 60:
+            last_report = time.time()
+            visible = [label.replace('\n', ' / ')[:90] for label, _ in labels(root)]
+            print(f'setup: {int(deadline - time.time())} s left; screen:', visible[:8])
         if solve_gate(root):
             continue
         all_labels = [label for label, _ in labels(root)]

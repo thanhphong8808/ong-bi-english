@@ -7,7 +7,7 @@
 set -u
 APK="$1"
 PKG=vn.ongbi.english
-UI="python3 tool/ci/ui.py"
+UI="python3 -u tool/ci/ui.py"
 OUT=smoke-out
 mkdir -p "$OUT"
 FAILED=0
