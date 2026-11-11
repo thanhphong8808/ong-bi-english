@@ -220,6 +220,14 @@ def main():
     seconds = float(sys.argv[3]) if len(sys.argv) > 3 else 30
     node = find(text, seconds)
     if node is None:
+        # Screens with a looping animation never become "idle", so
+        # uiautomator cannot read them; fall back to known coordinates
+        # (pixel_6 profile, 1080 x 2400) when the caller gives them.
+        if cmd == 'tap' and len(sys.argv) > 5:
+            x, y = sys.argv[4], sys.argv[5]
+            adb('shell', 'input', 'tap', x, y)
+            print(f'tapped {text!r} at {x},{y} (by position)')
+            return 0
         print(f'NOT FOUND: {text!r}')
         return 1
     if cmd == 'tap':

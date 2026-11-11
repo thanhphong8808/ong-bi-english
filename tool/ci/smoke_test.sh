@@ -43,9 +43,8 @@ $UI list >/dev/null 2>&1 || true
 
 step "Install"
 adb install -r -g "$APK" || { echo "INSTALL FAILED"; exit 1; }
+adb logcat -G 16M || true
 adb logcat -c || true
-adb logcat -v threadtime > "$OUT/logcat.txt" 2>/dev/null &
-LOGCAT=$!
 
 step "Launch"
 adb shell am start -n "$PKG/.MainActivity" >/dev/null
@@ -73,23 +72,21 @@ fi
 
 if alive; then
   step "Daily lesson"
-  $UI tap "Học hôm nay" 30 && sleep 20
+  $UI tap "Học hôm nay" 10 540 1146 && sleep 25
   check "lesson"
   $UI shot 05-lesson
-  $UI list
-  for i in 1 2 3 4 5 6 7 8; do
-    $UI tap "Tiếp" 6 || $UI tap "Nghe" 4 || true
-    sleep 6
+  # Answer a few steps: tap where answer cards and the big button sit.
+  for xy in "540 1500" "300 1500" "780 1500" "540 2100" "540 1800" "300 1800" "780 1800" "540 2100"; do
+    adb shell input tap $xy; sleep 6
   done
   check "lesson steps"
   $UI shot 06-lesson-later
-  $UI list
 fi
 
 restart 15
 if alive; then
   step "Writing"
-  $UI tap "Tập viết" 30 && sleep 10
+  $UI tap "Tập viết" 10 540 1900 && sleep 10
   check "writing"
   $UI shot 07-write
   $UI list
@@ -98,7 +95,7 @@ fi
 restart 15
 if alive; then
   step "Talk with Bi"
-  $UI tap "Nói chuyện" 30 && sleep 10
+  $UI tap "Nói chuyện" 10 540 1530 && sleep 10
   $UI shot 08-talk-choose
   $UI tap "Trò chuyện" 20
   for i in 1 2 3; do sleep 15; check "talk +$((i*15))s"; done
@@ -110,7 +107,16 @@ step "Restart once more"
 restart 20
 $UI shot 10-restart
 
-kill $LOGCAT 2>/dev/null || true
+step "What the app produced (root on the emulator)"
+adb root >/dev/null 2>&1; sleep 3
+DATA=/data/user/0/$PKG
+echo "built-in voice files (sherpa-onnx TTS):"
+adb shell "find $DATA -path '*audio_cache*' -name '*.wav' | wc -l" || true
+adb shell "find $DATA -path '*audio_cache*' -name '*.wav' | head -5" || true
+echo "crash-guard state:"
+adb shell "ls -la $DATA/files/native_guard 2>/dev/null; cat $DATA/files/native_guard/native_guard.json 2>/dev/null" || true
+adb shell "ls $DATA/files/crash 2>/dev/null" || true
+adb logcat -d -v threadtime > "$OUT/logcat.txt" 2>/dev/null || true
 
 step "Crash buffer"
 adb logcat -d -b crash || true
