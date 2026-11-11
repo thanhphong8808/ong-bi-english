@@ -1,0 +1,1775 @@
+{
+ "id": "L1U09",
+ "level": 1,
+ "unit": 9,
+ "topic_en": "Fruit and vegetables",
+ "topic_vi": "Trái cây và rau củ",
+ "can_do_vi": [
+  "Gọi tên trái cây, rau củ",
+  "Nói \"I like ... but I don't like ...\""
+ ],
+ "items": [
+  {
+   "id": "L1U09-W01",
+   "type": "word",
+   "en": "fruit",
+   "vi": "trái cây",
+   "ipa": "/frut/",
+   "syllables": [
+    "fruit"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F34E"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I eat fruit for breakfast.",
+   "example_vi": "Tớ ăn trái cây vào bữa sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W02",
+   "type": "word",
+   "en": "orange",
+   "vi": "quả cam",
+   "ipa": "/ˈɔrɪndʒ/",
+   "syllables": [
+    "or",
+    "ange"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F34A"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The orange is yummy.",
+   "example_vi": "Quả cam ngon.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W03",
+   "type": "word",
+   "en": "grape",
+   "vi": "quả nho",
+   "ipa": "/ɡreɪp/",
+   "syllables": [
+    "grape"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F347"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I like grapes.",
+   "example_vi": "Tớ thích nho.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W04",
+   "type": "word",
+   "en": "mango",
+   "vi": "quả xoài",
+   "ipa": "/ˈmæŋɡoʊ/",
+   "syllables": [
+    "man",
+    "go"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F96D"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "Mango is my favourite fruit.",
+   "example_vi": "Xoài là quả tớ thích nhất.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W05",
+   "type": "word",
+   "en": "pear",
+   "vi": "quả lê",
+   "ipa": "/pɛr/",
+   "syllables": [
+    "pear"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F350"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "It's a green pear.",
+   "example_vi": "Đó là quả lê xanh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W06",
+   "type": "word",
+   "en": "lemon",
+   "vi": "quả chanh",
+   "ipa": "/ˈlɛmən/",
+   "syllables": [
+    "lemon"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F34B"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The lemon is yellow.",
+   "example_vi": "Quả chanh màu vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W07",
+   "type": "word",
+   "en": "watermelon",
+   "vi": "quả dưa hấu",
+   "ipa": "/ˈwɔtərˌmɛlən/",
+   "syllables": [
+    "wa",
+    "ter",
+    "mel",
+    "on"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F349"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The watermelon is big.",
+   "example_vi": "Quả dưa hấu to.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U09-W08",
+   "type": "word",
+   "en": "pineapple",
+   "vi": "quả dứa",
+   "ipa": "/ˈpaɪˌnæpəl/",
+   "syllables": [
+    "pineapple"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F34D"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I like pineapple.",
+   "example_vi": "Tớ thích dứa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U09-W09",
+   "type": "word",
+   "en": "coconut",
+   "vi": "quả dừa",
+   "ipa": "/ˈkoʊkəˌnət/",
+   "syllables": [
+    "coconut"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F965"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The coconut is brown.",
+   "example_vi": "Quả dừa màu nâu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U09-W10",
+   "type": "word",
+   "en": "strawberry",
+   "vi": "quả dâu tây",
+   "ipa": "/ˈstrɔˌbɛri/",
+   "syllables": [
+    "straw",
+    "ber",
+    "ry"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F353"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The strawberry is red.",
+   "example_vi": "Quả dâu tây màu đỏ.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U09-W11",
+   "type": "word",
+   "en": "vegetable",
+   "vi": "rau củ",
+   "ipa": "/ˈvɛdʒtəbəl/",
+   "syllables": [
+    "vegetable"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F96C"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I eat vegetables for lunch.",
+   "example_vi": "Tớ ăn rau vào bữa trưa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U09-W12",
+   "type": "word",
+   "en": "carrot",
+   "vi": "củ cà rốt",
+   "ipa": "/ˈkɛrət/",
+   "syllables": [
+    "car",
+    "rot"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F955"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The rabbit likes carrots.",
+   "example_vi": "Con thỏ thích cà rốt.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W13",
+   "type": "word",
+   "en": "potato",
+   "vi": "củ khoai tây",
+   "ipa": "/pəˈteɪˌtoʊ/",
+   "syllables": [
+    "potato"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F954"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I like potatoes.",
+   "example_vi": "Tớ thích khoai tây.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W14",
+   "type": "word",
+   "en": "tomato",
+   "vi": "quả cà chua",
+   "ipa": "/təˈmɑˌtoʊ/",
+   "syllables": [
+    "tomato"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F345"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The tomato is red.",
+   "example_vi": "Quả cà chua màu đỏ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W15",
+   "type": "word",
+   "en": "onion",
+   "vi": "củ hành",
+   "ipa": "/ˈʌnjən/",
+   "syllables": [
+    "onion"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F9C5"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I don't like onions.",
+   "example_vi": "Tớ không thích hành.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W16",
+   "type": "word",
+   "en": "bean",
+   "vi": "hạt đậu",
+   "ipa": "/bin/",
+   "syllables": [
+    "bean"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FAD8"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "I eat beans.",
+   "example_vi": "Tớ ăn đậu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W17",
+   "type": "word",
+   "en": "corn",
+   "vi": "bắp ngô",
+   "ipa": "/kɔrn/",
+   "syllables": [
+    "corn"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F33D"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The corn is yellow.",
+   "example_vi": "Bắp ngô màu vàng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W18",
+   "type": "word",
+   "en": "pea",
+   "vi": "hạt đậu Hà Lan",
+   "ipa": "/pi/",
+   "syllables": [
+    "pea"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1FADB"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The peas are green.",
+   "example_vi": "Đậu Hà Lan màu xanh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W19",
+   "type": "word",
+   "en": "sweet",
+   "vi": "ngọt",
+   "ipa": "/swit/",
+   "syllables": [
+    "sweet"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F36D"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The mango is sweet.",
+   "example_vi": "Quả xoài ngọt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U09-W20",
+   "type": "word",
+   "en": "sour",
+   "vi": "chua",
+   "ipa": "/saʊʌr/",
+   "syllables": [
+    "sour"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F616"
+   },
+   "picturable": true,
+   "cat": "L1U09",
+   "example_en": "The lemon is sour.",
+   "example_vi": "Quả chanh chua.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U09-P01",
+   "en": "I like {x} but I don't like onions.",
+   "vi": "Tớ thích {x} nhưng tớ không thích hành.",
+   "slots": {
+    "x": [
+     "grapes",
+     "carrots",
+     "mangoes",
+     "corn"
+    ]
+   }
+  },
+  {
+   "id": "L1U09-P02",
+   "en": "The {x} is sweet.",
+   "vi": "{x} ngọt.",
+   "slots": {
+    "x": [
+     "mango",
+     "strawberry",
+     "watermelon",
+     "pear"
+    ]
+   }
+  },
+  {
+   "id": "L1U09-P03",
+   "en": "Do you like {x}?",
+   "vi": "Cậu có thích {x} không?",
+   "slots": {
+    "x": [
+     "pineapple",
+     "tomatoes",
+     "beans",
+     "coconut"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U09-D01",
+   "title_vi": "Trái cây yêu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite fruit?",
+     "vi": "Cậu thích quả gì nhất?"
+    },
+    {
+     "role": "Kid",
+     "en": "Mango! It's sweet.",
+     "vi": "Xoài! Nó ngọt."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you like lemons?",
+     "vi": "Cậu có thích chanh không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No! Lemons are sour.",
+     "vi": "Không! Chanh chua lắm."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "mango",
+    "options": [
+     "strawberry",
+     "watermelon",
+     "pineapple"
+    ]
+   }
+  },
+  {
+   "id": "L1U09-D02",
+   "title_vi": "Ăn rau nào",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you like vegetables?",
+     "vi": "Cậu có thích rau củ không?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like carrots but I don't like onions.",
+     "vi": "Tớ thích cà rốt nhưng tớ không thích hành."
+    },
+    {
+     "role": "Bi",
+     "en": "Carrots are good for you!",
+     "vi": "Cà rốt tốt cho cậu đấy!"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! Rabbits like carrots too.",
+     "vi": "Ừ! Thỏ cũng thích cà rốt."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "carrots",
+    "options": [
+     "peas",
+     "beans",
+     "corn"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "f"
+  },
+  {
+   "type": "write_letter",
+   "target": "o"
+  },
+  {
+   "type": "write_letter",
+   "target": "g"
+  },
+  {
+   "type": "write_letter",
+   "target": "m"
+  },
+  {
+   "type": "copy_word",
+   "target": "fruit"
+  },
+  {
+   "type": "copy_word",
+   "target": "orange"
+  },
+  {
+   "type": "copy_word",
+   "target": "grape"
+  },
+  {
+   "type": "copy_word",
+   "target": "mango"
+  },
+  {
+   "type": "copy_word",
+   "target": "pear"
+  },
+  {
+   "type": "copy_word",
+   "target": "lemon"
+  },
+  {
+   "type": "copy_word",
+   "target": "carrot"
+  },
+  {
+   "type": "copy_word",
+   "target": "potato"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fruit",
+   "item": "fruit",
+   "options": [
+    "pea",
+    "tomato",
+    "fruit",
+    "carrot"
+   ],
+   "answer": "fruit"
+  },
+  {
+   "id": "L1U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "orange",
+   "item": "orange",
+   "options": [
+    "fruit",
+    "carrot",
+    "orange",
+    "onion"
+   ],
+   "answer": "orange"
+  },
+  {
+   "id": "L1U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "grape",
+   "item": "grape",
+   "options": [
+    "grape",
+    "strawberry",
+    "onion",
+    "carrot"
+   ],
+   "answer": "grape"
+  },
+  {
+   "id": "L1U09-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mango",
+   "item": "mango",
+   "options": [
+    "vegetable",
+    "strawberry",
+    "sweet",
+    "mango"
+   ],
+   "answer": "mango"
+  },
+  {
+   "id": "L1U09-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pear",
+   "item": "pear",
+   "options": [
+    "pear",
+    "sweet",
+    "pineapple",
+    "coconut"
+   ],
+   "answer": "pear"
+  },
+  {
+   "id": "L1U09-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lemon",
+   "item": "lemon",
+   "options": [
+    "corn",
+    "lemon",
+    "tomato",
+    "pineapple"
+   ],
+   "answer": "lemon"
+  },
+  {
+   "id": "L1U09-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "watermelon",
+   "item": "watermelon",
+   "options": [
+    "watermelon",
+    "carrot",
+    "corn",
+    "vegetable"
+   ],
+   "answer": "watermelon"
+  },
+  {
+   "id": "L1U09-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pineapple",
+   "item": "pineapple",
+   "options": [
+    "sour",
+    "bean",
+    "onion",
+    "pineapple"
+   ],
+   "answer": "pineapple"
+  },
+  {
+   "id": "L1U09-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "coconut",
+   "item": "coconut",
+   "options": [
+    "potato",
+    "bean",
+    "coconut",
+    "orange"
+   ],
+   "answer": "coconut"
+  },
+  {
+   "id": "L1U09-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "strawberry",
+   "item": "strawberry",
+   "options": [
+    "coconut",
+    "fruit",
+    "vegetable",
+    "strawberry"
+   ],
+   "answer": "strawberry"
+  },
+  {
+   "id": "L1U09-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "vegetable",
+   "item": "vegetable",
+   "options": [
+    "bean",
+    "carrot",
+    "fruit",
+    "vegetable"
+   ],
+   "answer": "vegetable"
+  },
+  {
+   "id": "L1U09-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "carrot",
+   "item": "carrot",
+   "options": [
+    "fruit",
+    "carrot",
+    "corn",
+    "grape"
+   ],
+   "answer": "carrot"
+  },
+  {
+   "id": "L1U09-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "potato",
+   "item": "potato",
+   "options": [
+    "tomato",
+    "sweet",
+    "potato",
+    "strawberry"
+   ],
+   "answer": "potato"
+  },
+  {
+   "id": "L1U09-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tomato",
+   "item": "tomato",
+   "options": [
+    "bean",
+    "mango",
+    "tomato",
+    "vegetable"
+   ],
+   "answer": "tomato"
+  },
+  {
+   "id": "L1U09-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "onion",
+   "item": "onion",
+   "options": [
+    "onion",
+    "pear",
+    "lemon",
+    "carrot"
+   ],
+   "answer": "onion"
+  },
+  {
+   "id": "L1U09-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bean",
+   "item": "bean",
+   "options": [
+    "potato",
+    "bean",
+    "strawberry",
+    "pineapple"
+   ],
+   "answer": "bean"
+  },
+  {
+   "id": "L1U09-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "corn",
+   "item": "corn",
+   "options": [
+    "fruit",
+    "corn",
+    "coconut",
+    "watermelon"
+   ],
+   "answer": "corn"
+  },
+  {
+   "id": "L1U09-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pea",
+   "item": "pea",
+   "options": [
+    "potato",
+    "pea",
+    "tomato",
+    "pear"
+   ],
+   "answer": "pea"
+  },
+  {
+   "id": "L1U09-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sweet",
+   "item": "sweet",
+   "options": [
+    "sweet",
+    "onion",
+    "lemon",
+    "pea"
+   ],
+   "answer": "sweet"
+  },
+  {
+   "id": "L1U09-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sour",
+   "item": "sour",
+   "options": [
+    "strawberry",
+    "corn",
+    "pear",
+    "sour"
+   ],
+   "answer": "sour"
+  },
+  {
+   "id": "L1U09-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the fruit pink.",
+   "item": "fruit",
+   "options": [
+    "fruit",
+    "strawberry",
+    "pea"
+   ],
+   "answer": "fruit",
+   "color": "pink"
+  },
+  {
+   "id": "L1U09-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the orange red.",
+   "item": "orange",
+   "options": [
+    "bean",
+    "orange",
+    "grape"
+   ],
+   "answer": "orange",
+   "color": "red"
+  },
+  {
+   "id": "L1U09-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the grape green.",
+   "item": "grape",
+   "options": [
+    "sweet",
+    "grape",
+    "carrot"
+   ],
+   "answer": "grape",
+   "color": "green"
+  },
+  {
+   "id": "L1U09-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the mango yellow.",
+   "item": "mango",
+   "options": [
+    "watermelon",
+    "pear",
+    "mango"
+   ],
+   "answer": "mango",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U09-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fruit",
+   "answer": "fruit"
+  },
+  {
+   "id": "L1U09-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "orange",
+   "answer": "orange"
+  },
+  {
+   "id": "L1U09-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "grape",
+   "answer": "grape"
+  },
+  {
+   "id": "L1U09-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mango",
+   "answer": "mango"
+  },
+  {
+   "id": "L1U09-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pear",
+   "answer": "pear"
+  },
+  {
+   "id": "L1U09-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lemon",
+   "answer": "lemon"
+  },
+  {
+   "id": "L1U09-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "watermelon",
+   "answer": "watermelon"
+  },
+  {
+   "id": "L1U09-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pineapple",
+   "answer": "pineapple"
+  },
+  {
+   "id": "L1U09-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "coconut",
+   "answer": "coconut"
+  },
+  {
+   "id": "L1U09-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "strawberry",
+   "answer": "strawberry"
+  },
+  {
+   "id": "L1U09-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "vegetable",
+   "answer": "vegetable"
+  },
+  {
+   "id": "L1U09-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "carrot",
+   "answer": "carrot"
+  },
+  {
+   "id": "L1U09-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "potato",
+   "answer": "potato"
+  },
+  {
+   "id": "L1U09-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tomato",
+   "answer": "tomato"
+  },
+  {
+   "id": "L1U09-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "onion",
+   "answer": "onion"
+  },
+  {
+   "id": "L1U09-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bean",
+   "answer": "bean"
+  },
+  {
+   "id": "L1U09-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "corn",
+   "answer": "corn"
+  },
+  {
+   "id": "L1U09-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pea",
+   "answer": "pea"
+  },
+  {
+   "id": "L1U09-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sweet",
+   "answer": "sweet"
+  },
+  {
+   "id": "L1U09-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sour",
+   "answer": "sour"
+  },
+  {
+   "id": "L1U09-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat fruit for breakfast.",
+   "item": "fruit",
+   "answer": "I eat fruit for breakfast."
+  },
+  {
+   "id": "L1U09-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The orange is yummy.",
+   "item": "orange",
+   "answer": "The orange is yummy."
+  },
+  {
+   "id": "L1U09-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like grapes.",
+   "item": "grape",
+   "answer": "I like grapes."
+  },
+  {
+   "id": "L1U09-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mango is my favourite fruit.",
+   "item": "mango",
+   "answer": "Mango is my favourite fruit."
+  },
+  {
+   "id": "L1U09-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a green pear.",
+   "item": "pear",
+   "answer": "It's a green pear."
+  },
+  {
+   "id": "L1U09-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lemon is yellow.",
+   "item": "lemon",
+   "answer": "The lemon is yellow."
+  },
+  {
+   "id": "L1U09-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The watermelon is big.",
+   "item": "watermelon",
+   "answer": "The watermelon is big."
+  },
+  {
+   "id": "L1U09-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like pineapple.",
+   "item": "pineapple",
+   "answer": "I like pineapple."
+  },
+  {
+   "id": "L1U09-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The coconut is brown.",
+   "item": "coconut",
+   "answer": "The coconut is brown."
+  },
+  {
+   "id": "L1U09-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The strawberry is red.",
+   "item": "strawberry",
+   "answer": "The strawberry is red."
+  },
+  {
+   "id": "L1U09-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat vegetables for lunch.",
+   "item": "vegetable",
+   "answer": "I eat vegetables for lunch."
+  },
+  {
+   "id": "L1U09-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rabbit likes carrots.",
+   "item": "carrot",
+   "answer": "The rabbit likes carrots."
+  },
+  {
+   "id": "L1U09-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like potatoes.",
+   "item": "potato",
+   "answer": "I like potatoes."
+  },
+  {
+   "id": "L1U09-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tomato is red.",
+   "item": "tomato",
+   "answer": "The tomato is red."
+  },
+  {
+   "id": "L1U09-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like onions.",
+   "item": "onion",
+   "answer": "I don't like onions."
+  },
+  {
+   "id": "L1U09-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat beans.",
+   "item": "bean",
+   "answer": "I eat beans."
+  },
+  {
+   "id": "L1U09-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The corn is yellow.",
+   "item": "corn",
+   "answer": "The corn is yellow."
+  },
+  {
+   "id": "L1U09-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The peas are green.",
+   "item": "pea",
+   "answer": "The peas are green."
+  },
+  {
+   "id": "L1U09-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mango is sweet.",
+   "item": "sweet",
+   "answer": "The mango is sweet."
+  },
+  {
+   "id": "L1U09-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lemon is sour.",
+   "item": "sour",
+   "answer": "The lemon is sour."
+  },
+  {
+   "id": "L1U09-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like grapes but I don't like onions.",
+   "answer": "I like grapes but I don't like onions."
+  },
+  {
+   "id": "L1U09-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like carrots but I don't like onions.",
+   "answer": "I like carrots but I don't like onions."
+  },
+  {
+   "id": "L1U09-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like mangoes but I don't like onions.",
+   "answer": "I like mangoes but I don't like onions."
+  },
+  {
+   "id": "L1U09-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mango is sweet.",
+   "answer": "The mango is sweet."
+  },
+  {
+   "id": "L1U09-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The strawberry is sweet.",
+   "answer": "The strawberry is sweet."
+  },
+  {
+   "id": "L1U09-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The watermelon is sweet.",
+   "answer": "The watermelon is sweet."
+  },
+  {
+   "id": "L1U09-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you like pineapple?",
+   "answer": "Do you like pineapple?"
+  },
+  {
+   "id": "L1U09-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you like tomatoes?",
+   "answer": "Do you like tomatoes?"
+  },
+  {
+   "id": "L1U09-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you like beans?",
+   "answer": "Do you like beans?"
+  },
+  {
+   "id": "L1U09-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite fruit?",
+   "answer": "Mango! It's sweet."
+  },
+  {
+   "id": "L1U09-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like lemons?",
+   "answer": "No! Lemons are sour."
+  },
+  {
+   "id": "L1U09-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like vegetables?",
+   "answer": "I like carrots but I don't like onions."
+  },
+  {
+   "id": "L1U09-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fruit",
+   "options": [
+    "sweet",
+    "fruit",
+    "coconut"
+   ],
+   "answer": "fruit"
+  },
+  {
+   "id": "L1U09-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "orange",
+   "options": [
+    "onion",
+    "vegetable",
+    "orange"
+   ],
+   "answer": "orange"
+  },
+  {
+   "id": "L1U09-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "grape",
+   "options": [
+    "grape",
+    "lemon",
+    "carrot"
+   ],
+   "answer": "grape"
+  },
+  {
+   "id": "L1U09-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mango",
+   "options": [
+    "mango",
+    "strawberry",
+    "sweet"
+   ],
+   "answer": "mango"
+  },
+  {
+   "id": "L1U09-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pear",
+   "options": [
+    "orange",
+    "carrot",
+    "pear"
+   ],
+   "answer": "pear"
+  },
+  {
+   "id": "L1U09-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lemon",
+   "options": [
+    "coconut",
+    "lemon",
+    "carrot"
+   ],
+   "answer": "lemon"
+  },
+  {
+   "id": "L1U09-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "watermelon",
+   "options": [
+    "bean",
+    "watermelon",
+    "pea"
+   ],
+   "answer": "watermelon"
+  },
+  {
+   "id": "L1U09-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pineapple",
+   "options": [
+    "strawberry",
+    "pineapple",
+    "grape"
+   ],
+   "answer": "pineapple"
+  },
+  {
+   "id": "L1U09-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "coconut",
+   "options": [
+    "bean",
+    "coconut",
+    "fruit"
+   ],
+   "answer": "coconut"
+  },
+  {
+   "id": "L1U09-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "strawberry",
+   "options": [
+    "corn",
+    "strawberry",
+    "tomato"
+   ],
+   "answer": "strawberry"
+  },
+  {
+   "id": "L1U09-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "vegetable",
+   "options": [
+    "sweet",
+    "vegetable",
+    "corn"
+   ],
+   "answer": "vegetable"
+  },
+  {
+   "id": "L1U09-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "carrot",
+   "options": [
+    "bean",
+    "carrot",
+    "coconut"
+   ],
+   "answer": "carrot"
+  },
+  {
+   "id": "L1U09-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "potato",
+   "options": [
+    "potato",
+    "strawberry",
+    "tomato"
+   ],
+   "answer": "potato"
+  },
+  {
+   "id": "L1U09-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tomato",
+   "options": [
+    "bean",
+    "tomato",
+    "corn"
+   ],
+   "answer": "tomato"
+  },
+  {
+   "id": "L1U09-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "onion",
+   "options": [
+    "carrot",
+    "onion",
+    "corn"
+   ],
+   "answer": "onion"
+  },
+  {
+   "id": "L1U09-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bean",
+   "options": [
+    "mango",
+    "coconut",
+    "bean"
+   ],
+   "answer": "bean"
+  },
+  {
+   "id": "L1U09-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "corn",
+   "options": [
+    "corn",
+    "pea",
+    "onion"
+   ],
+   "answer": "corn"
+  },
+  {
+   "id": "L1U09-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pea",
+   "options": [
+    "mango",
+    "pea",
+    "watermelon"
+   ],
+   "answer": "pea"
+  },
+  {
+   "id": "L1U09-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sweet",
+   "options": [
+    "orange",
+    "pineapple",
+    "sweet"
+   ],
+   "answer": "sweet"
+  },
+  {
+   "id": "L1U09-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sour",
+   "options": [
+    "sweet",
+    "onion",
+    "sour"
+   ],
+   "answer": "sour"
+  },
+  {
+   "id": "L1U09-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "f",
+   "answer": "f"
+  },
+  {
+   "id": "L1U09-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "o",
+   "answer": "o"
+  },
+  {
+   "id": "L1U09-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "g",
+   "answer": "g"
+  },
+  {
+   "id": "L1U09-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "m",
+   "answer": "m"
+  },
+  {
+   "id": "L1U09-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "fruit",
+   "answer": "fruit"
+  },
+  {
+   "id": "L1U09-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "orange",
+   "answer": "orange"
+  },
+  {
+   "id": "L1U09-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "grape",
+   "answer": "grape"
+  },
+  {
+   "id": "L1U09-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "mango",
+   "answer": "mango"
+  },
+  {
+   "id": "L1U09-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "pear",
+   "answer": "pear"
+  },
+  {
+   "id": "L1U09-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "lemon",
+   "answer": "lemon"
+  },
+  {
+   "id": "L1U09-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "carrot",
+   "answer": "carrot"
+  },
+  {
+   "id": "L1U09-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "potato",
+   "answer": "potato"
+  }
+ ]
+}

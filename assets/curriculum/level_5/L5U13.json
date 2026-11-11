@@ -1,0 +1,3162 @@
+{
+ "id": "L5U13",
+ "level": 5,
+ "unit": 13,
+ "topic_en": "Natural disasters",
+ "topic_vi": "Thiên tai",
+ "can_do_vi": [
+  "Nói về các loại thiên tai và cách giữ an toàn",
+  "Kể lại sự việc bằng thì quá khứ tiếp diễn"
+ ],
+ "grammar_note_vi": "Thì quá khứ tiếp diễn (was/were + động từ-ing) kể việc đang diễn ra thì có việc khác xen vào: \"We were having dinner when the earthquake started.\" (Cả nhà đang ăn tối thì động đất xảy ra.)",
+ "items": [
+  {
+   "id": "L5U13-W01",
+   "type": "phrase",
+   "en": "natural disaster",
+   "vi": "thiên tai",
+   "ipa": "/ˈnætʃərəl dɪˈzæstər/",
+   "syllables": [
+    "natural",
+    "dis",
+    "as",
+    "ter"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F32A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Floods and earthquakes are natural disasters.",
+   "example_vi": "Lũ lụt và động đất là thiên tai.",
+   "pron_focus": [
+    "sh_s",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W02",
+   "type": "word",
+   "en": "earthquake",
+   "vi": "động đất",
+   "ipa": "/ˈʌrθkˌweɪk/",
+   "syllables": [
+    "earth",
+    "quake"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F3DA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The earthquake shook the buildings.",
+   "example_vi": "Trận động đất làm rung chuyển các toà nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W03",
+   "type": "word",
+   "en": "tsunami",
+   "vi": "sóng thần",
+   "ipa": "/tsuˈnɑmi/",
+   "syllables": [
+    "tsunami"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "A tsunami is a giant wave from the sea.",
+   "example_vi": "Sóng thần là con sóng khổng lồ từ biển.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W04",
+   "type": "word",
+   "en": "landslide",
+   "vi": "sạt lở đất",
+   "ipa": "/ˈlænsˌlaɪd/",
+   "syllables": [
+    "land",
+    "slide"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "26F0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Heavy rain caused a landslide on the mountain.",
+   "example_vi": "Mưa lớn gây sạt lở đất trên núi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W05",
+   "type": "word",
+   "en": "wildfire",
+   "vi": "cháy rừng",
+   "ipa": "/ˈwaɪldˌfaɪər/",
+   "syllables": [
+    "wild",
+    "fire"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The wildfire burned a large area of forest.",
+   "example_vi": "Cháy rừng thiêu rụi một vùng rừng lớn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W06",
+   "type": "word",
+   "en": "avalanche",
+   "vi": "tuyết lở",
+   "ipa": "/ˈævəˌlæntʃ/",
+   "syllables": [
+    "avalanche"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3D4-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "An avalanche is very dangerous for skiers.",
+   "example_vi": "Tuyết lở rất nguy hiểm với người trượt tuyết.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W07",
+   "type": "word",
+   "en": "hurricane",
+   "vi": "bão lớn (cuồng phong)",
+   "ipa": "/ˈhʌrəˌkeɪnz/",
+   "syllables": [
+    "hurricane"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F300"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The hurricane destroyed many houses.",
+   "example_vi": "Cơn cuồng phong phá huỷ nhiều ngôi nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W08",
+   "type": "word",
+   "en": "shake",
+   "vi": "rung, lắc",
+   "ipa": "/ʃeɪk/",
+   "syllables": [
+    "shake"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4F3"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The ground started to shake.",
+   "example_vi": "Mặt đất bắt đầu rung chuyển.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W09",
+   "type": "word",
+   "en": "collapse",
+   "vi": "sụp đổ",
+   "ipa": "/kəˈlæps/",
+   "syllables": [
+    "col",
+    "lapse"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3DA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The old bridge collapsed in the storm.",
+   "example_vi": "Cây cầu cũ bị sập trong cơn bão.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W10",
+   "type": "word",
+   "en": "crack",
+   "vi": "vết nứt",
+   "ipa": "/kræk/",
+   "syllables": [
+    "crack"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "There is a big crack in the wall.",
+   "example_vi": "Có một vết nứt lớn trên tường.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W11",
+   "type": "word",
+   "en": "wave",
+   "vi": "con sóng",
+   "ipa": "/weɪv/",
+   "syllables": [
+    "wave"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The waves are very big today.",
+   "example_vi": "Hôm nay sóng rất to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W12",
+   "type": "word",
+   "en": "evacuate",
+   "vi": "sơ tán",
+   "ipa": "/ɪˈvækjəˌeɪt/",
+   "syllables": [
+    "evac",
+    "u",
+    "ate"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "People evacuated the town before the typhoon.",
+   "example_vi": "Người dân sơ tán khỏi thị trấn trước cơn bão.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W13",
+   "type": "phrase",
+   "en": "emergency kit",
+   "vi": "bộ đồ dùng khẩn cấp",
+   "ipa": "/ˈimərdʒənsi kɪt/",
+   "syllables": [
+    "emergency",
+    "kit"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9F0"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Our emergency kit has water, food and a torch.",
+   "example_vi": "Bộ đồ khẩn cấp nhà tớ có nước, thức ăn và đèn pin.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W14",
+   "type": "word",
+   "en": "survivor",
+   "vi": "người sống sót",
+   "ipa": "/sərˈvaɪvər/",
+   "syllables": [
+    "survivor"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The rescue team found two survivors.",
+   "example_vi": "Đội cứu hộ tìm thấy hai người sống sót.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W15",
+   "type": "word",
+   "en": "rebuild",
+   "vi": "xây dựng lại",
+   "ipa": "/riˈbɪld/",
+   "syllables": [
+    "re",
+    "build"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9F1"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "They will rebuild the school after the flood.",
+   "example_vi": "Họ sẽ xây lại trường học sau trận lũ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W16",
+   "type": "word",
+   "en": "aid",
+   "vi": "viện trợ",
+   "ipa": "/eɪd/",
+   "syllables": [
+    "aid"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F198"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Many countries sent aid after the earthquake.",
+   "example_vi": "Nhiều nước gửi viện trợ sau trận động đất.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W17",
+   "type": "word",
+   "en": "supplies",
+   "vi": "đồ tiếp tế",
+   "ipa": "/səˈplaɪz/",
+   "syllables": [
+    "sup",
+    "plies"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The helicopter brought food supplies.",
+   "example_vi": "Trực thăng mang đồ tiếp tế lương thực đến.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W18",
+   "type": "phrase",
+   "en": "rescue team",
+   "vi": "đội cứu hộ",
+   "ipa": "/ˈrɛskju tim/",
+   "syllables": [
+    "res",
+    "cue",
+    "team"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F681"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The rescue team worked all night.",
+   "example_vi": "Đội cứu hộ làm việc suốt đêm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W19",
+   "type": "word",
+   "en": "siren",
+   "vi": "còi báo động",
+   "ipa": "/ˈsaɪrən/",
+   "syllables": [
+    "siren"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6A8"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "We heard the siren of an ambulance.",
+   "example_vi": "Bọn tớ nghe thấy tiếng còi xe cứu thương.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W20",
+   "type": "word",
+   "en": "alarm",
+   "vi": "chuông báo",
+   "ipa": "/əˈlɑrm/",
+   "syllables": [
+    "alarm"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "23F0"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The fire alarm is very loud.",
+   "example_vi": "Chuông báo cháy rất to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W21",
+   "type": "word",
+   "en": "drill",
+   "vi": "buổi diễn tập",
+   "ipa": "/drɪl/",
+   "syllables": [
+    "drill"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F514"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "We had a fire drill at school today.",
+   "example_vi": "Hôm nay trường tớ diễn tập phòng cháy.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W22",
+   "type": "word",
+   "en": "panic",
+   "vi": "hoảng loạn",
+   "ipa": "/ˈpænɪk/",
+   "syllables": [
+    "pan",
+    "ic"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F631"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Don't panic. Stay calm and listen.",
+   "example_vi": "Đừng hoảng loạn. Hãy bình tĩnh và lắng nghe.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W23",
+   "type": "word",
+   "en": "trapped",
+   "vi": "bị mắc kẹt",
+   "ipa": "/træpt/",
+   "syllables": [
+    "trapped"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F6A7"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "A cat was trapped in the tree.",
+   "example_vi": "Một con mèo bị mắc kẹt trên cây.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W24",
+   "type": "word",
+   "en": "scale",
+   "vi": "thang đo",
+   "ipa": "/skeɪl/",
+   "syllables": [
+    "scale"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Scientists measure earthquakes on a scale.",
+   "example_vi": "Các nhà khoa học đo động đất bằng một thang đo.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W25",
+   "type": "word",
+   "en": "warn",
+   "vi": "cảnh báo",
+   "ipa": "/wɔrn/",
+   "syllables": [
+    "warn"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The radio warned people about the storm.",
+   "example_vi": "Đài phát thanh cảnh báo mọi người về cơn bão.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W26",
+   "type": "word",
+   "en": "sudden",
+   "vi": "bất ngờ",
+   "ipa": "/ˈsʌdən/",
+   "syllables": [
+    "sud",
+    "den"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "There was a sudden noise.",
+   "example_vi": "Có một tiếng động bất ngờ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W27",
+   "type": "word",
+   "en": "powerful",
+   "vi": "mạnh mẽ",
+   "ipa": "/ˈpaʊərfəl/",
+   "syllables": [
+    "powerful"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The typhoon was very powerful.",
+   "example_vi": "Cơn bão rất mạnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W28",
+   "type": "word",
+   "en": "region",
+   "vi": "vùng",
+   "ipa": "/ˈridʒən/",
+   "syllables": [
+    "re",
+    "gion"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "This region has a lot of rain.",
+   "example_vi": "Vùng này mưa nhiều.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W29",
+   "type": "word",
+   "en": "sandbag",
+   "vi": "bao cát",
+   "ipa": "/ˈsændˌbæɡ/",
+   "syllables": [
+    "sand",
+    "bag"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F1"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "They put sandbags in front of the door.",
+   "example_vi": "Họ đặt bao cát trước cửa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W30",
+   "type": "word",
+   "en": "courage",
+   "vi": "lòng dũng cảm",
+   "ipa": "/kərɪdʒ/",
+   "syllables": [
+    "courage"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F981"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The firefighters showed great courage.",
+   "example_vi": "Lính cứu hoả đã thể hiện lòng dũng cảm lớn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W31",
+   "type": "word",
+   "en": "fallen",
+   "vi": "đã đổ, đã rơi",
+   "ipa": "/ˈfɑlən/",
+   "syllables": [
+    "fall",
+    "en"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "A fallen tree blocked the road.",
+   "example_vi": "Một cây đổ chắn ngang đường.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W32",
+   "type": "phrase",
+   "en": "fire engine",
+   "vi": "xe cứu hoả",
+   "ipa": "/faɪʌr ˈɪndʒən/",
+   "syllables": [
+    "fire",
+    "en",
+    "gine"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F692"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The fire engine arrived very fast.",
+   "example_vi": "Xe cứu hoả đến rất nhanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W33",
+   "type": "phrase",
+   "en": "smoke alarm",
+   "vi": "thiết bị báo khói",
+   "ipa": "/smoʊk əˈlɑrm/",
+   "syllables": [
+    "smoke",
+    "alarm"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6A8"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Every home should have a smoke alarm.",
+   "example_vi": "Nhà nào cũng nên có thiết bị báo khói.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W34",
+   "type": "phrase",
+   "en": "dry season",
+   "vi": "mùa khô",
+   "ipa": "/draɪ ˈsizən/",
+   "syllables": [
+    "dry",
+    "sea",
+    "son"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Wildfires happen in the dry season.",
+   "example_vi": "Cháy rừng xảy ra vào mùa khô.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W35",
+   "type": "phrase",
+   "en": "rainy season",
+   "vi": "mùa mưa",
+   "ipa": "/ˈreɪni ˈsizən/",
+   "syllables": [
+    "rainy",
+    "sea",
+    "son"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F327-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Floods often happen in the rainy season.",
+   "example_vi": "Lũ lụt thường xảy ra vào mùa mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W36",
+   "type": "word",
+   "en": "rainfall",
+   "vi": "lượng mưa",
+   "ipa": "/ˈreɪnˌfɔl/",
+   "syllables": [
+    "rain",
+    "fall"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F327-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "There was heavy rainfall last night.",
+   "example_vi": "Đêm qua có mưa lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W37",
+   "type": "word",
+   "en": "slope",
+   "vi": "sườn dốc",
+   "ipa": "/sloʊp/",
+   "syllables": [
+    "slope"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26F0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "Don't build houses on steep slopes.",
+   "example_vi": "Đừng xây nhà trên sườn dốc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W38",
+   "type": "word",
+   "en": "temporary",
+   "vi": "tạm thời",
+   "ipa": "/ˈtɛmpərˌɛri/",
+   "syllables": [
+    "temporary"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "They lived in a temporary shelter.",
+   "example_vi": "Họ sống trong nơi trú ẩn tạm thời.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W39",
+   "type": "word",
+   "en": "government",
+   "vi": "chính phủ",
+   "ipa": "/ˈɡʌvərnmənt/",
+   "syllables": [
+    "gov",
+    "ern",
+    "ment"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The government sent soldiers to help.",
+   "example_vi": "Chính phủ cử binh lính đến giúp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W40",
+   "type": "word",
+   "en": "disaster",
+   "vi": "thảm hoạ",
+   "ipa": "/dɪˈzæstər/",
+   "syllables": [
+    "dis",
+    "as",
+    "ter"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The flood was a disaster for the farmers.",
+   "example_vi": "Trận lũ là thảm hoạ với nông dân.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W41",
+   "type": "word",
+   "en": "affect",
+   "vi": "ảnh hưởng",
+   "ipa": "/əˈfɛkt/",
+   "syllables": [
+    "af",
+    "fect"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "The storm affected thousands of people.",
+   "example_vi": "Cơn bão ảnh hưởng đến hàng nghìn người.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W42",
+   "type": "word",
+   "en": "risk",
+   "vi": "nguy cơ",
+   "ipa": "/rɪsk/",
+   "syllables": [
+    "risk"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "There is a high risk of floods.",
+   "example_vi": "Có nguy cơ lũ lụt cao.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W43",
+   "type": "word",
+   "en": "terrified",
+   "vi": "vô cùng sợ hãi",
+   "ipa": "/ˈtɛrəˌfaɪd/",
+   "syllables": [
+    "ter",
+    "ri",
+    "fied"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F631"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "I was terrified during the storm.",
+   "example_vi": "Tớ vô cùng sợ hãi trong cơn bão.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U13-W44",
+   "type": "word",
+   "en": "relief",
+   "vi": "sự nhẹ nhõm, cứu trợ",
+   "ipa": "/rɪˈlif/",
+   "syllables": [
+    "re",
+    "lief"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F60C"
+   },
+   "picturable": false,
+   "cat": "L5U13",
+   "example_en": "It was a relief when the storm ended.",
+   "example_vi": "Thật nhẹ nhõm khi cơn bão qua đi.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U13-P01",
+   "en": "We were {x} when the earthquake started.",
+   "vi": "Cả nhà đang {x} thì động đất xảy ra.",
+   "slots": {
+    "x": [
+     "having dinner",
+     "sleeping",
+     "watching TV",
+     "doing homework"
+    ]
+   }
+  },
+  {
+   "id": "L5U13-P02",
+   "en": "In an earthquake, you should {x}.",
+   "vi": "Khi có động đất, bạn nên {x}.",
+   "slots": {
+    "x": [
+     "get under a table",
+     "stay calm",
+     "keep away from windows"
+    ]
+   }
+  },
+  {
+   "id": "L5U13-P03",
+   "en": "Our emergency kit has {x}.",
+   "vi": "Bộ đồ khẩn cấp có {x}.",
+   "slots": {
+    "x": [
+     "a torch",
+     "water",
+     "a first aid kit",
+     "a radio"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U13-D01",
+   "title_vi": "Diễn tập động đất",
+   "roles": [
+    "Teacher",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Teacher",
+     "en": "This is an earthquake drill. What should you do?",
+     "vi": "Đây là diễn tập động đất. Các em nên làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "Get under the desk and hold on.",
+     "vi": "Chui xuống gầm bàn và bám chặt."
+    },
+    {
+     "role": "Teacher",
+     "en": "Good. Why shouldn't we use the lift?",
+     "vi": "Tốt. Tại sao không nên đi thang máy?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because it can stop, and we can get trapped.",
+     "vi": "Vì nó có thể dừng lại, và mình bị mắc kẹt."
+    },
+    {
+     "role": "Teacher",
+     "en": "Excellent. And when the shaking stops?",
+     "vi": "Rất tốt. Còn khi hết rung thì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "We walk calmly to the playground.",
+     "vi": "Mình bình tĩnh đi ra sân trường."
+    }
+   ]
+  },
+  {
+   "id": "L5U13-D02",
+   "title_vi": "Bộ đồ khẩn cấp",
+   "roles": [
+    "Dad",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Dad",
+     "en": "Let's make an emergency kit for the rainy season.",
+     "vi": "Mình chuẩn bị bộ đồ khẩn cấp cho mùa mưa nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "What do we need?",
+     "vi": "Mình cần những gì ạ?"
+    },
+    {
+     "role": "Dad",
+     "en": "Water, food, a torch and a first aid kit.",
+     "vi": "Nước, thức ăn, đèn pin và hộp sơ cứu."
+    },
+    {
+     "role": "Kid",
+     "en": "Should we pack a radio too?",
+     "vi": "Mình có nên mang theo đài không ạ?"
+    },
+    {
+     "role": "Dad",
+     "en": "Yes. The radio will warn us if there's a flood.",
+     "vi": "Có. Đài sẽ cảnh báo nếu có lũ."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "earthquake"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tsunami"
+  },
+  {
+   "type": "dictate_word",
+   "target": "landslide"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wildfire"
+  },
+  {
+   "type": "dictate_word",
+   "target": "avalanche"
+  },
+  {
+   "type": "dictate_word",
+   "target": "hurricane"
+  },
+  {
+   "type": "dictate_word",
+   "target": "shake"
+  },
+  {
+   "type": "dictate_word",
+   "target": "collapse"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Floods and earthquakes are natural disasters."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The earthquake shook the buildings."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "An avalanche is very dangerous for skiers."
+  },
+  {
+   "type": "write_sentences",
+   "target": "In an earthquake, you should|We were|Our emergency kit has"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U13-R01",
+   "title_en": "The earthquake drill",
+   "text_en": [
+    "Last Tuesday, Nam's class was having a maths lesson when the alarm rang.",
+    "It was an earthquake drill.",
+    "The teacher told everyone not to panic.",
+    "All the children got under their desks and held on to the legs.",
+    "After one minute, the teacher told them to leave the classroom.",
+    "They walked calmly down the stairs.",
+    "Nobody used the lift.",
+    "In the playground, the teacher counted the students.",
+    "Everyone was safe.",
+    "The headteacher explained that earthquakes are sudden, so we must practise what to do.",
+    "Nam felt a little nervous, but he knew he would be ready."
+   ],
+   "questions": [
+    {
+     "q": "What were the children doing when the alarm rang?",
+     "options": [
+      "Having a maths lesson.",
+      "Eating lunch.",
+      "Playing football."
+     ],
+     "answer": "Having a maths lesson."
+    },
+    {
+     "q": "Where did the children go first?",
+     "options": [
+      "Under their desks.",
+      "To the lift.",
+      "Home."
+     ],
+     "answer": "Under their desks."
+    },
+    {
+     "q": "Why must we practise?",
+     "options": [
+      "Earthquakes are sudden.",
+      "It is fun.",
+      "The teacher is bored."
+     ],
+     "answer": "Earthquakes are sudden."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U13-Q001",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "natural disaster",
+   "item": "natural disaster",
+   "options": [
+    "temporary",
+    "natural disaster",
+    "trapped",
+    "earthquake"
+   ],
+   "answer": "natural disaster"
+  },
+  {
+   "id": "L5U13-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "earthquake",
+   "item": "earthquake",
+   "options": [
+    "government",
+    "scale",
+    "temporary",
+    "earthquake"
+   ],
+   "answer": "earthquake"
+  },
+  {
+   "id": "L5U13-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tsunami",
+   "item": "tsunami",
+   "options": [
+    "warn",
+    "risk",
+    "tsunami",
+    "emergency kit"
+   ],
+   "answer": "tsunami"
+  },
+  {
+   "id": "L5U13-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "landslide",
+   "item": "landslide",
+   "options": [
+    "evacuate",
+    "smoke alarm",
+    "landslide",
+    "drill"
+   ],
+   "answer": "landslide"
+  },
+  {
+   "id": "L5U13-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wildfire",
+   "item": "wildfire",
+   "options": [
+    "alarm",
+    "collapse",
+    "region",
+    "wildfire"
+   ],
+   "answer": "wildfire"
+  },
+  {
+   "id": "L5U13-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "avalanche",
+   "item": "avalanche",
+   "options": [
+    "avalanche",
+    "trapped",
+    "supplies",
+    "rainy season"
+   ],
+   "answer": "avalanche"
+  },
+  {
+   "id": "L5U13-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hurricane",
+   "item": "hurricane",
+   "options": [
+    "avalanche",
+    "hurricane",
+    "affect",
+    "supplies"
+   ],
+   "answer": "hurricane"
+  },
+  {
+   "id": "L5U13-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shake",
+   "item": "shake",
+   "options": [
+    "rescue team",
+    "shake",
+    "trapped",
+    "affect"
+   ],
+   "answer": "shake"
+  },
+  {
+   "id": "L5U13-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "collapse",
+   "item": "collapse",
+   "options": [
+    "smoke alarm",
+    "wave",
+    "collapse",
+    "tsunami"
+   ],
+   "answer": "collapse"
+  },
+  {
+   "id": "L5U13-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crack",
+   "item": "crack",
+   "options": [
+    "fire engine",
+    "tsunami",
+    "crack",
+    "region"
+   ],
+   "answer": "crack"
+  },
+  {
+   "id": "L5U13-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wave",
+   "item": "wave",
+   "options": [
+    "rescue team",
+    "wave",
+    "slope",
+    "aid"
+   ],
+   "answer": "wave"
+  },
+  {
+   "id": "L5U13-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "evacuate",
+   "item": "evacuate",
+   "options": [
+    "evacuate",
+    "hurricane",
+    "affect",
+    "powerful"
+   ],
+   "answer": "evacuate"
+  },
+  {
+   "id": "L5U13-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "emergency kit",
+   "item": "emergency kit",
+   "options": [
+    "affect",
+    "fallen",
+    "slope",
+    "emergency kit"
+   ],
+   "answer": "emergency kit"
+  },
+  {
+   "id": "L5U13-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "survivor",
+   "item": "survivor",
+   "options": [
+    "aid",
+    "survivor",
+    "temporary",
+    "dry season"
+   ],
+   "answer": "survivor"
+  },
+  {
+   "id": "L5U13-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rebuild",
+   "item": "rebuild",
+   "options": [
+    "fallen",
+    "collapse",
+    "rebuild",
+    "drill"
+   ],
+   "answer": "rebuild"
+  },
+  {
+   "id": "L5U13-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "aid",
+   "item": "aid",
+   "options": [
+    "aid",
+    "fallen",
+    "dry season",
+    "wildfire"
+   ],
+   "answer": "aid"
+  },
+  {
+   "id": "L5U13-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "supplies",
+   "item": "supplies",
+   "options": [
+    "emergency kit",
+    "supplies",
+    "rescue team",
+    "survivor"
+   ],
+   "answer": "supplies"
+  },
+  {
+   "id": "L5U13-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rescue team",
+   "item": "rescue team",
+   "options": [
+    "sandbag",
+    "rescue team",
+    "fire engine",
+    "government"
+   ],
+   "answer": "rescue team"
+  },
+  {
+   "id": "L5U13-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "siren",
+   "item": "siren",
+   "options": [
+    "fire engine",
+    "disaster",
+    "siren",
+    "rainfall"
+   ],
+   "answer": "siren"
+  },
+  {
+   "id": "L5U13-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "alarm",
+   "item": "alarm",
+   "options": [
+    "trapped",
+    "alarm",
+    "disaster",
+    "aid"
+   ],
+   "answer": "alarm"
+  },
+  {
+   "id": "L5U13-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drill",
+   "item": "drill",
+   "options": [
+    "drill",
+    "slope",
+    "government",
+    "warn"
+   ],
+   "answer": "drill"
+  },
+  {
+   "id": "L5U13-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "panic",
+   "item": "panic",
+   "options": [
+    "trapped",
+    "temporary",
+    "drill",
+    "panic"
+   ],
+   "answer": "panic"
+  },
+  {
+   "id": "L5U13-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trapped",
+   "item": "trapped",
+   "options": [
+    "siren",
+    "wildfire",
+    "trapped",
+    "evacuate"
+   ],
+   "answer": "trapped"
+  },
+  {
+   "id": "L5U13-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "scale",
+   "item": "scale",
+   "options": [
+    "scale",
+    "slope",
+    "avalanche",
+    "sandbag"
+   ],
+   "answer": "scale"
+  },
+  {
+   "id": "L5U13-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "warn",
+   "item": "warn",
+   "options": [
+    "warn",
+    "supplies",
+    "slope",
+    "drill"
+   ],
+   "answer": "warn"
+  },
+  {
+   "id": "L5U13-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sudden",
+   "item": "sudden",
+   "options": [
+    "avalanche",
+    "sudden",
+    "rescue team",
+    "hurricane"
+   ],
+   "answer": "sudden"
+  },
+  {
+   "id": "L5U13-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "powerful",
+   "item": "powerful",
+   "options": [
+    "scale",
+    "survivor",
+    "powerful",
+    "siren"
+   ],
+   "answer": "powerful"
+  },
+  {
+   "id": "L5U13-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "region",
+   "item": "region",
+   "options": [
+    "wave",
+    "region",
+    "evacuate",
+    "wildfire"
+   ],
+   "answer": "region"
+  },
+  {
+   "id": "L5U13-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sandbag",
+   "item": "sandbag",
+   "options": [
+    "sandbag",
+    "rainfall",
+    "evacuate",
+    "region"
+   ],
+   "answer": "sandbag"
+  },
+  {
+   "id": "L5U13-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "courage",
+   "item": "courage",
+   "options": [
+    "rainfall",
+    "sandbag",
+    "rebuild",
+    "courage"
+   ],
+   "answer": "courage"
+  },
+  {
+   "id": "L5U13-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fallen",
+   "item": "fallen",
+   "options": [
+    "survivor",
+    "fallen",
+    "siren",
+    "slope"
+   ],
+   "answer": "fallen"
+  },
+  {
+   "id": "L5U13-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fire engine",
+   "item": "fire engine",
+   "options": [
+    "scale",
+    "tsunami",
+    "sandbag",
+    "fire engine"
+   ],
+   "answer": "fire engine"
+  },
+  {
+   "id": "L5U13-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smoke alarm",
+   "item": "smoke alarm",
+   "options": [
+    "siren",
+    "smoke alarm",
+    "alarm",
+    "dry season"
+   ],
+   "answer": "smoke alarm"
+  },
+  {
+   "id": "L5U13-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dry season",
+   "item": "dry season",
+   "options": [
+    "smoke alarm",
+    "dry season",
+    "wave",
+    "crack"
+   ],
+   "answer": "dry season"
+  },
+  {
+   "id": "L5U13-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rainy season",
+   "item": "rainy season",
+   "options": [
+    "avalanche",
+    "emergency kit",
+    "rainy season",
+    "government"
+   ],
+   "answer": "rainy season"
+  },
+  {
+   "id": "L5U13-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rainfall",
+   "item": "rainfall",
+   "options": [
+    "affect",
+    "collapse",
+    "rainfall",
+    "smoke alarm"
+   ],
+   "answer": "rainfall"
+  },
+  {
+   "id": "L5U13-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "slope",
+   "item": "slope",
+   "options": [
+    "region",
+    "fallen",
+    "landslide",
+    "slope"
+   ],
+   "answer": "slope"
+  },
+  {
+   "id": "L5U13-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "temporary",
+   "item": "temporary",
+   "options": [
+    "smoke alarm",
+    "region",
+    "temporary",
+    "evacuate"
+   ],
+   "answer": "temporary"
+  },
+  {
+   "id": "L5U13-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "government",
+   "item": "government",
+   "options": [
+    "government",
+    "sudden",
+    "warn",
+    "region"
+   ],
+   "answer": "government"
+  },
+  {
+   "id": "L5U13-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "disaster",
+   "item": "disaster",
+   "options": [
+    "disaster",
+    "terrified",
+    "survivor",
+    "sudden"
+   ],
+   "answer": "disaster"
+  },
+  {
+   "id": "L5U13-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "affect",
+   "item": "affect",
+   "options": [
+    "powerful",
+    "wildfire",
+    "affect",
+    "drill"
+   ],
+   "answer": "affect"
+  },
+  {
+   "id": "L5U13-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "risk",
+   "item": "risk",
+   "options": [
+    "landslide",
+    "risk",
+    "avalanche",
+    "slope"
+   ],
+   "answer": "risk"
+  },
+  {
+   "id": "L5U13-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "terrified",
+   "item": "terrified",
+   "options": [
+    "terrified",
+    "earthquake",
+    "region",
+    "avalanche"
+   ],
+   "answer": "terrified"
+  },
+  {
+   "id": "L5U13-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "relief",
+   "item": "relief",
+   "options": [
+    "panic",
+    "relief",
+    "earthquake",
+    "emergency kit"
+   ],
+   "answer": "relief"
+  },
+  {
+   "id": "L5U13-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Floods and earthquakes are natural disasters.",
+   "item": "natural disaster",
+   "answer": "Floods and earthquakes are natural disasters."
+  },
+  {
+   "id": "L5U13-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The earthquake shook the buildings.",
+   "item": "earthquake",
+   "answer": "The earthquake shook the buildings."
+  },
+  {
+   "id": "L5U13-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A tsunami is a giant wave from the sea.",
+   "item": "tsunami",
+   "answer": "A tsunami is a giant wave from the sea."
+  },
+  {
+   "id": "L5U13-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Heavy rain caused a landslide on the mountain.",
+   "item": "landslide",
+   "answer": "Heavy rain caused a landslide on the mountain."
+  },
+  {
+   "id": "L5U13-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The wildfire burned a large area of forest.",
+   "item": "wildfire",
+   "answer": "The wildfire burned a large area of forest."
+  },
+  {
+   "id": "L5U13-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An avalanche is very dangerous for skiers.",
+   "item": "avalanche",
+   "answer": "An avalanche is very dangerous for skiers."
+  },
+  {
+   "id": "L5U13-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hurricane destroyed many houses.",
+   "item": "hurricane",
+   "answer": "The hurricane destroyed many houses."
+  },
+  {
+   "id": "L5U13-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ground started to shake.",
+   "item": "shake",
+   "answer": "The ground started to shake."
+  },
+  {
+   "id": "L5U13-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The old bridge collapsed in the storm.",
+   "item": "collapse",
+   "answer": "The old bridge collapsed in the storm."
+  },
+  {
+   "id": "L5U13-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a big crack in the wall.",
+   "item": "crack",
+   "answer": "There is a big crack in the wall."
+  },
+  {
+   "id": "L5U13-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The waves are very big today.",
+   "item": "wave",
+   "answer": "The waves are very big today."
+  },
+  {
+   "id": "L5U13-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People evacuated the town before the typhoon.",
+   "item": "evacuate",
+   "answer": "People evacuated the town before the typhoon."
+  },
+  {
+   "id": "L5U13-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our emergency kit has water, food and a torch.",
+   "item": "emergency kit",
+   "answer": "Our emergency kit has water, food and a torch."
+  },
+  {
+   "id": "L5U13-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rescue team found two survivors.",
+   "item": "survivor",
+   "answer": "The rescue team found two survivors."
+  },
+  {
+   "id": "L5U13-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They will rebuild the school after the flood.",
+   "item": "rebuild",
+   "answer": "They will rebuild the school after the flood."
+  },
+  {
+   "id": "L5U13-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many countries sent aid after the earthquake.",
+   "item": "aid",
+   "answer": "Many countries sent aid after the earthquake."
+  },
+  {
+   "id": "L5U13-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The helicopter brought food supplies.",
+   "item": "supplies",
+   "answer": "The helicopter brought food supplies."
+  },
+  {
+   "id": "L5U13-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rescue team worked all night.",
+   "item": "rescue team",
+   "answer": "The rescue team worked all night."
+  },
+  {
+   "id": "L5U13-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We heard the siren of an ambulance.",
+   "item": "siren",
+   "answer": "We heard the siren of an ambulance."
+  },
+  {
+   "id": "L5U13-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fire alarm is very loud.",
+   "item": "alarm",
+   "answer": "The fire alarm is very loud."
+  },
+  {
+   "id": "L5U13-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had a fire drill at school today.",
+   "item": "drill",
+   "answer": "We had a fire drill at school today."
+  },
+  {
+   "id": "L5U13-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't panic. Stay calm and listen.",
+   "item": "panic",
+   "answer": "Don't panic. Stay calm and listen."
+  },
+  {
+   "id": "L5U13-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A cat was trapped in the tree.",
+   "item": "trapped",
+   "answer": "A cat was trapped in the tree."
+  },
+  {
+   "id": "L5U13-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Scientists measure earthquakes on a scale.",
+   "item": "scale",
+   "answer": "Scientists measure earthquakes on a scale."
+  },
+  {
+   "id": "L5U13-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The radio warned people about the storm.",
+   "item": "warn",
+   "answer": "The radio warned people about the storm."
+  },
+  {
+   "id": "L5U13-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There was a sudden noise.",
+   "item": "sudden",
+   "answer": "There was a sudden noise."
+  },
+  {
+   "id": "L5U13-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The typhoon was very powerful.",
+   "item": "powerful",
+   "answer": "The typhoon was very powerful."
+  },
+  {
+   "id": "L5U13-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This region has a lot of rain.",
+   "item": "region",
+   "answer": "This region has a lot of rain."
+  },
+  {
+   "id": "L5U13-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They put sandbags in front of the door.",
+   "item": "sandbag",
+   "answer": "They put sandbags in front of the door."
+  },
+  {
+   "id": "L5U13-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The firefighters showed great courage.",
+   "item": "courage",
+   "answer": "The firefighters showed great courage."
+  },
+  {
+   "id": "L5U13-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A fallen tree blocked the road.",
+   "item": "fallen",
+   "answer": "A fallen tree blocked the road."
+  },
+  {
+   "id": "L5U13-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fire engine arrived very fast.",
+   "item": "fire engine",
+   "answer": "The fire engine arrived very fast."
+  },
+  {
+   "id": "L5U13-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Every home should have a smoke alarm.",
+   "item": "smoke alarm",
+   "answer": "Every home should have a smoke alarm."
+  },
+  {
+   "id": "L5U13-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wildfires happen in the dry season.",
+   "item": "dry season",
+   "answer": "Wildfires happen in the dry season."
+  },
+  {
+   "id": "L5U13-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Floods often happen in the rainy season.",
+   "item": "rainy season",
+   "answer": "Floods often happen in the rainy season."
+  },
+  {
+   "id": "L5U13-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There was heavy rainfall last night.",
+   "item": "rainfall",
+   "answer": "There was heavy rainfall last night."
+  },
+  {
+   "id": "L5U13-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't build houses on steep slopes.",
+   "item": "slope",
+   "answer": "Don't build houses on steep slopes."
+  },
+  {
+   "id": "L5U13-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They lived in a temporary shelter.",
+   "item": "temporary",
+   "answer": "They lived in a temporary shelter."
+  },
+  {
+   "id": "L5U13-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The government sent soldiers to help.",
+   "item": "government",
+   "answer": "The government sent soldiers to help."
+  },
+  {
+   "id": "L5U13-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The flood was a disaster for the farmers.",
+   "item": "disaster",
+   "answer": "The flood was a disaster for the farmers."
+  },
+  {
+   "id": "L5U13-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The storm affected thousands of people.",
+   "item": "affect",
+   "answer": "The storm affected thousands of people."
+  },
+  {
+   "id": "L5U13-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a high risk of floods.",
+   "item": "risk",
+   "answer": "There is a high risk of floods."
+  },
+  {
+   "id": "L5U13-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was terrified during the storm.",
+   "item": "terrified",
+   "answer": "I was terrified during the storm."
+  },
+  {
+   "id": "L5U13-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was a relief when the storm ended.",
+   "item": "relief",
+   "answer": "It was a relief when the storm ended."
+  },
+  {
+   "id": "L5U13-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We were having dinner when the earthquake started.",
+   "answer": "We were having dinner when the earthquake started."
+  },
+  {
+   "id": "L5U13-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We were sleeping when the earthquake started.",
+   "answer": "We were sleeping when the earthquake started."
+  },
+  {
+   "id": "L5U13-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We were watching TV when the earthquake started.",
+   "answer": "We were watching TV when the earthquake started."
+  },
+  {
+   "id": "L5U13-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In an earthquake, you should get under a table.",
+   "answer": "In an earthquake, you should get under a table."
+  },
+  {
+   "id": "L5U13-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In an earthquake, you should stay calm.",
+   "answer": "In an earthquake, you should stay calm."
+  },
+  {
+   "id": "L5U13-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In an earthquake, you should keep away from windows.",
+   "answer": "In an earthquake, you should keep away from windows."
+  },
+  {
+   "id": "L5U13-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our emergency kit has a torch.",
+   "answer": "Our emergency kit has a torch."
+  },
+  {
+   "id": "L5U13-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our emergency kit has water.",
+   "answer": "Our emergency kit has water."
+  },
+  {
+   "id": "L5U13-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our emergency kit has a first aid kit.",
+   "answer": "Our emergency kit has a first aid kit."
+  },
+  {
+   "id": "L5U13-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "This is an earthquake drill. What should you do?",
+   "answer": "Get under the desk and hold on."
+  },
+  {
+   "id": "L5U13-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Good. Why shouldn't we use the lift?",
+   "answer": "Because it can stop, and we can get trapped."
+  },
+  {
+   "id": "L5U13-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excellent. And when the shaking stops?",
+   "answer": "We walk calmly to the playground."
+  },
+  {
+   "id": "L5U13-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do we need?",
+   "answer": "Water, food, a torch and a first aid kit."
+  },
+  {
+   "id": "L5U13-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Should we pack a radio too?",
+   "answer": "Yes. The radio will warn us if there's a flood."
+  },
+  {
+   "id": "L5U13-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ shook the buildings.",
+   "item": "earthquake",
+   "options": [
+    "trapped",
+    "alarm",
+    "earthquake"
+   ],
+   "answer": "earthquake"
+  },
+  {
+   "id": "L5U13-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is a giant wave from the sea.",
+   "item": "tsunami",
+   "options": [
+    "tsunami",
+    "alarm",
+    "warn"
+   ],
+   "answer": "tsunami"
+  },
+  {
+   "id": "L5U13-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Heavy rain caused a ___ on the mountain.",
+   "item": "landslide",
+   "options": [
+    "landslide",
+    "warn",
+    "shake"
+   ],
+   "answer": "landslide"
+  },
+  {
+   "id": "L5U13-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ burned a large area of forest.",
+   "item": "wildfire",
+   "options": [
+    "trapped",
+    "wildfire",
+    "courage"
+   ],
+   "answer": "wildfire"
+  },
+  {
+   "id": "L5U13-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ is very dangerous for skiers.",
+   "item": "avalanche",
+   "options": [
+    "shake",
+    "avalanche",
+    "supplies"
+   ],
+   "answer": "avalanche"
+  },
+  {
+   "id": "L5U13-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ destroyed many houses.",
+   "item": "hurricane",
+   "options": [
+    "crack",
+    "powerful",
+    "hurricane"
+   ],
+   "answer": "hurricane"
+  },
+  {
+   "id": "L5U13-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ground started to ___.",
+   "item": "shake",
+   "options": [
+    "shake",
+    "alarm",
+    "hurricane"
+   ],
+   "answer": "shake"
+  },
+  {
+   "id": "L5U13-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The old bridge ___ in the storm.",
+   "item": "collapse",
+   "options": [
+    "rainfalled",
+    "sandbaged",
+    "collapsed"
+   ],
+   "answer": "collapsed"
+  },
+  {
+   "id": "L5U13-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a big ___ in the wall.",
+   "item": "crack",
+   "options": [
+    "crack",
+    "earthquake",
+    "slope"
+   ],
+   "answer": "crack"
+  },
+  {
+   "id": "L5U13-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ are very big today.",
+   "item": "wave",
+   "options": [
+    "warns",
+    "waves",
+    "rainfalls"
+   ],
+   "answer": "waves"
+  },
+  {
+   "id": "L5U13-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People ___ the town before the typhoon.",
+   "item": "evacuate",
+   "options": [
+    "evacuated",
+    "sirened",
+    "trappeded"
+   ],
+   "answer": "evacuated"
+  },
+  {
+   "id": "L5U13-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rescue team found two ___.",
+   "item": "survivor",
+   "options": [
+    "warns",
+    "supplieses",
+    "survivors"
+   ],
+   "answer": "survivors"
+  },
+  {
+   "id": "L5U13-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They will ___ the school after the flood.",
+   "item": "rebuild",
+   "options": [
+    "alarm",
+    "disaster",
+    "rebuild"
+   ],
+   "answer": "rebuild"
+  },
+  {
+   "id": "L5U13-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many countries sent ___ after the earthquake.",
+   "item": "aid",
+   "options": [
+    "affect",
+    "temporary",
+    "aid"
+   ],
+   "answer": "aid"
+  },
+  {
+   "id": "L5U13-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The helicopter brought food ___.",
+   "item": "supplies",
+   "options": [
+    "supplies",
+    "crack",
+    "government"
+   ],
+   "answer": "supplies"
+  },
+  {
+   "id": "L5U13-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We heard the ___ of an ambulance.",
+   "item": "siren",
+   "options": [
+    "crack",
+    "siren",
+    "warn"
+   ],
+   "answer": "siren"
+  },
+  {
+   "id": "L5U13-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The fire ___ is very loud.",
+   "item": "alarm",
+   "options": [
+    "wildfire",
+    "alarm",
+    "government"
+   ],
+   "answer": "alarm"
+  },
+  {
+   "id": "L5U13-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had a fire ___ at school today.",
+   "item": "drill",
+   "options": [
+    "supplies",
+    "drill",
+    "government"
+   ],
+   "answer": "drill"
+  },
+  {
+   "id": "L5U13-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___. Stay calm and listen.",
+   "item": "panic",
+   "options": [
+    "scale",
+    "sudden",
+    "panic"
+   ],
+   "answer": "panic"
+  },
+  {
+   "id": "L5U13-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A cat was ___ in the tree.",
+   "item": "trapped",
+   "options": [
+    "trapped",
+    "supplies",
+    "drill"
+   ],
+   "answer": "trapped"
+  },
+  {
+   "id": "L5U13-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Scientists measure earthquakes on a ___.",
+   "item": "scale",
+   "options": [
+    "shake",
+    "scale",
+    "crack"
+   ],
+   "answer": "scale"
+  },
+  {
+   "id": "L5U13-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The radio ___ people about the storm.",
+   "item": "warn",
+   "options": [
+    "warned",
+    "collapsed",
+    "hurricaned"
+   ],
+   "answer": "warned"
+  },
+  {
+   "id": "L5U13-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There was a ___ noise.",
+   "item": "sudden",
+   "options": [
+    "warn",
+    "aid",
+    "sudden"
+   ],
+   "answer": "sudden"
+  },
+  {
+   "id": "L5U13-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The typhoon was very ___.",
+   "item": "powerful",
+   "options": [
+    "powerful",
+    "panic",
+    "tsunami"
+   ],
+   "answer": "powerful"
+  },
+  {
+   "id": "L5U13-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ has a lot of rain.",
+   "item": "region",
+   "options": [
+    "drill",
+    "courage",
+    "region"
+   ],
+   "answer": "region"
+  },
+  {
+   "id": "L5U13-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They put ___ in front of the door.",
+   "item": "sandbag",
+   "options": [
+    "sandbags",
+    "alarms",
+    "collapses"
+   ],
+   "answer": "sandbags"
+  },
+  {
+   "id": "L5U13-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The firefighters showed great ___.",
+   "item": "courage",
+   "options": [
+    "courage",
+    "region",
+    "warn"
+   ],
+   "answer": "courage"
+  },
+  {
+   "id": "L5U13-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ tree blocked the road.",
+   "item": "fallen",
+   "options": [
+    "fallen",
+    "aid",
+    "risk"
+   ],
+   "answer": "fallen"
+  },
+  {
+   "id": "L5U13-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There was heavy ___ last night.",
+   "item": "rainfall",
+   "options": [
+    "courage",
+    "rainfall",
+    "panic"
+   ],
+   "answer": "rainfall"
+  },
+  {
+   "id": "L5U13-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't build houses on steep ___.",
+   "item": "slope",
+   "options": [
+    "panics",
+    "risks",
+    "slopes"
+   ],
+   "answer": "slopes"
+  },
+  {
+   "id": "L5U13-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They lived in a ___ shelter.",
+   "item": "temporary",
+   "options": [
+    "alarm",
+    "evacuate",
+    "temporary"
+   ],
+   "answer": "temporary"
+  },
+  {
+   "id": "L5U13-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ sent soldiers to help.",
+   "item": "government",
+   "options": [
+    "panic",
+    "government",
+    "rainfall"
+   ],
+   "answer": "government"
+  },
+  {
+   "id": "L5U13-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The flood was a ___ for the farmers.",
+   "item": "disaster",
+   "options": [
+    "shake",
+    "collapse",
+    "disaster"
+   ],
+   "answer": "disaster"
+  },
+  {
+   "id": "L5U13-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The storm ___ thousands of people.",
+   "item": "affect",
+   "options": [
+    "rebuilded",
+    "landslided",
+    "affected"
+   ],
+   "answer": "affected"
+  },
+  {
+   "id": "L5U13-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a high ___ of floods.",
+   "item": "risk",
+   "options": [
+    "risk",
+    "earthquake",
+    "supplies"
+   ],
+   "answer": "risk"
+  },
+  {
+   "id": "L5U13-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I was ___ during the storm.",
+   "item": "terrified",
+   "options": [
+    "terrified",
+    "warn",
+    "alarm"
+   ],
+   "answer": "terrified"
+  },
+  {
+   "id": "L5U13-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was a ___ when the storm ended.",
+   "item": "relief",
+   "options": [
+    "courage",
+    "relief",
+    "trapped"
+   ],
+   "answer": "relief"
+  },
+  {
+   "id": "L5U13-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U13-R01",
+   "text_en": "What were the children doing when the alarm rang?",
+   "options": [
+    "Playing football.",
+    "Eating lunch.",
+    "Having a maths lesson."
+   ],
+   "answer": "Having a maths lesson."
+  },
+  {
+   "id": "L5U13-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U13-R01",
+   "text_en": "Where did the children go first?",
+   "options": [
+    "Home.",
+    "Under their desks.",
+    "To the lift."
+   ],
+   "answer": "Under their desks."
+  },
+  {
+   "id": "L5U13-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U13-R01",
+   "text_en": "Why must we practise?",
+   "options": [
+    "Earthquakes are sudden.",
+    "It is fun.",
+    "The teacher is bored."
+   ],
+   "answer": "Earthquakes are sudden."
+  },
+  {
+   "id": "L5U13-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "earthquake",
+   "item": "earthquake",
+   "answer": "earthquake"
+  },
+  {
+   "id": "L5U13-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tsunami",
+   "item": "tsunami",
+   "answer": "tsunami"
+  },
+  {
+   "id": "L5U13-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "landslide",
+   "item": "landslide",
+   "answer": "landslide"
+  },
+  {
+   "id": "L5U13-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wildfire",
+   "item": "wildfire",
+   "answer": "wildfire"
+  },
+  {
+   "id": "L5U13-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "avalanche",
+   "item": "avalanche",
+   "answer": "avalanche"
+  },
+  {
+   "id": "L5U13-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "hurricane",
+   "item": "hurricane",
+   "answer": "hurricane"
+  },
+  {
+   "id": "L5U13-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "shake",
+   "item": "shake",
+   "answer": "shake"
+  },
+  {
+   "id": "L5U13-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "collapse",
+   "item": "collapse",
+   "answer": "collapse"
+  },
+  {
+   "id": "L5U13-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Floods and earthquakes are natural disasters.",
+   "answer": "Floods and earthquakes are natural disasters."
+  },
+  {
+   "id": "L5U13-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The earthquake shook the buildings.",
+   "answer": "The earthquake shook the buildings."
+  },
+  {
+   "id": "L5U13-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "An avalanche is very dangerous for skiers.",
+   "answer": "An avalanche is very dangerous for skiers."
+  }
+ ]
+}

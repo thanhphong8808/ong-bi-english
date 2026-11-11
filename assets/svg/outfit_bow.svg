@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Outfit layer for Bi (original drawing). -->
+  <path d="M120 150 L96 138 L96 162 Z" fill="#4361EE" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M120 150 L144 138 L144 162 Z" fill="#4361EE" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="120" cy="150" r="7" fill="#4CC9F0" stroke="#3A2A1A" stroke-width="3"/>
+</svg>

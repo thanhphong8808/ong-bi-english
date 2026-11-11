@@ -1,0 +1,2599 @@
+{
+ "id": "L3U11",
+ "level": 3,
+ "unit": 11,
+ "topic_en": "Festivals",
+ "topic_vi": "Lễ hội",
+ "can_do_vi": [
+  "Kể về Tết và Trung thu",
+  "Nói lời chúc mừng trong các dịp lễ"
+ ],
+ "grammar_note_vi": "Hỏi hoạt động trong lễ hội: \"What do you do at Tet?\" – \"We visit our grandparents.\" Dùng \"at\" trước tên dịp lễ: at Tet, at Christmas.",
+ "items": [
+  {
+   "id": "L3U11-W01",
+   "type": "word",
+   "en": "festival",
+   "vi": "lễ hội",
+   "ipa": "/ˈfɛstɪvəl/",
+   "syllables": [
+    "fes",
+    "ti",
+    "val"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F38A"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "There is a music festival in the park.",
+   "example_vi": "Có lễ hội âm nhạc ở công viên.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W02",
+   "type": "word",
+   "en": "Tet",
+   "vi": "Tết",
+   "ipa": "/tɛt/",
+   "syllables": [
+    "Tet"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F9E7"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Tet is my favourite festival.",
+   "example_vi": "Tết là lễ hội tớ thích nhất.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W03",
+   "type": "phrase",
+   "en": "Lunar New Year",
+   "vi": "Tết Âm lịch",
+   "ipa": "/ˈlunər nu jɪr/",
+   "syllables": [
+    "Lu",
+    "nar",
+    "New",
+    "Year"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F386"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "We celebrate Lunar New Year with our family.",
+   "example_vi": "Nhà tớ đón Tết Âm lịch cùng gia đình.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W04",
+   "type": "phrase",
+   "en": "Mid-Autumn Festival",
+   "vi": "Tết Trung thu",
+   "ipa": "/mɪd ˈɔtəm ˈfɛstɪvəl/",
+   "syllables": [
+    "Mid-Autumn",
+    "Fes",
+    "ti",
+    "val"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F96E"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Children love the Mid-Autumn Festival.",
+   "example_vi": "Trẻ em rất thích Tết Trung thu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W05",
+   "type": "word",
+   "en": "lantern",
+   "vi": "đèn lồng",
+   "ipa": "/ˈlæntərn/",
+   "syllables": [
+    "lantern"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3EE"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "My lantern is a red star.",
+   "example_vi": "Đèn lồng của tớ là ngôi sao đỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W06",
+   "type": "word",
+   "en": "mooncake",
+   "vi": "bánh trung thu",
+   "ipa": "/mooncake/",
+   "syllables": [
+    "mooncake"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F96E"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "Mooncakes are sweet.",
+   "example_vi": "Bánh trung thu ngọt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W07",
+   "type": "word",
+   "en": "firework",
+   "vi": "pháo hoa",
+   "ipa": "/ˈfaɪrˌwərk/",
+   "syllables": [
+    "fire",
+    "work"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F386"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "We watch the fireworks at night.",
+   "example_vi": "Bọn tớ xem pháo hoa vào buổi tối.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W08",
+   "type": "word",
+   "en": "celebrate",
+   "vi": "ăn mừng, tổ chức",
+   "ipa": "/ˈsɛləˌbreɪt/",
+   "syllables": [
+    "cel",
+    "e",
+    "brate"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F973"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "How do you celebrate your birthday?",
+   "example_vi": "Cậu tổ chức sinh nhật thế nào?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W09",
+   "type": "word",
+   "en": "decorate",
+   "vi": "trang trí",
+   "ipa": "/ˈdɛkərˌeɪt/",
+   "syllables": [
+    "decorate"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F380"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Let's decorate the house!",
+   "example_vi": "Mình trang trí nhà nhé!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W10",
+   "type": "word",
+   "en": "decoration",
+   "vi": "đồ trang trí",
+   "ipa": "/ˌdɛkərˈeɪʃən/",
+   "syllables": [
+    "decoration"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F380"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "The decorations are red and gold.",
+   "example_vi": "Đồ trang trí màu đỏ và vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W11",
+   "type": "phrase",
+   "en": "lucky money",
+   "vi": "tiền lì xì",
+   "ipa": "/ˈlʌki ˈmʌni/",
+   "syllables": [
+    "lucky",
+    "mon",
+    "ey"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9E7"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "Grandma gives me lucky money at Tet.",
+   "example_vi": "Tết nào bà cũng lì xì cho tớ.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W12",
+   "type": "phrase",
+   "en": "peach blossom",
+   "vi": "hoa đào",
+   "ipa": "/pitʃ ˈblɑsəm/",
+   "syllables": [
+    "peach",
+    "blos",
+    "som"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F338"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Peach blossoms are pink.",
+   "example_vi": "Hoa đào màu hồng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W13",
+   "type": "phrase",
+   "en": "lion dance",
+   "vi": "múa lân",
+   "ipa": "/laɪʌn dæns/",
+   "syllables": [
+    "lion",
+    "dance"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F981"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "The lion dance is very noisy!",
+   "example_vi": "Múa lân ồn ào lắm!",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W14",
+   "type": "word",
+   "en": "parade",
+   "vi": "cuộc diễu hành",
+   "ipa": "/pəreɪd/",
+   "syllables": [
+    "parade"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3BA"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "We watched the parade in the street.",
+   "example_vi": "Bọn tớ xem diễu hành trên phố.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W15",
+   "type": "word",
+   "en": "costume",
+   "vi": "đồ hoá trang",
+   "ipa": "/ˈkɑstum/",
+   "syllables": [
+    "cos",
+    "tume"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "I'm wearing a dragon costume.",
+   "example_vi": "Tớ đang mặc bộ đồ hoá trang rồng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W16",
+   "type": "word",
+   "en": "mask",
+   "vi": "mặt nạ",
+   "ipa": "/mæsk/",
+   "syllables": [
+    "mask"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "The lion dancer has a big mask.",
+   "example_vi": "Người múa lân đội chiếc mặt nạ to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W17",
+   "type": "phrase",
+   "en": "Happy New Year",
+   "vi": "Chúc mừng năm mới",
+   "ipa": "/ˈhæpi nu jɪr/",
+   "syllables": [
+    "Hap",
+    "py",
+    "New",
+    "Year"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F389"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Happy New Year, Grandpa!",
+   "example_vi": "Chúc mừng năm mới ông ạ!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W18",
+   "type": "word",
+   "en": "Christmas",
+   "vi": "Giáng sinh",
+   "ipa": "/ˈkrɪsməs/",
+   "syllables": [
+    "Christ",
+    "mas"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F384"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "We have a Christmas tree at school.",
+   "example_vi": "Trường tớ có một cây thông Noel.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W19",
+   "type": "word",
+   "en": "grandparents",
+   "vi": "ông bà",
+   "ipa": "/ˈɡrændˌpɛrənts/",
+   "syllables": [
+    "grand",
+    "par",
+    "ents"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F474"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "I visit my grandparents at Tet.",
+   "example_vi": "Tết tớ đi thăm ông bà.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W20",
+   "type": "word",
+   "en": "relative",
+   "vi": "họ hàng",
+   "ipa": "/ˈrɛlətɪv/",
+   "syllables": [
+    "rel",
+    "a",
+    "tive"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F46A"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Many relatives come to our house.",
+   "example_vi": "Nhiều họ hàng đến nhà tớ chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W21",
+   "type": "word",
+   "en": "special",
+   "vi": "đặc biệt",
+   "ipa": "/ˈspɛʃəl/",
+   "syllables": [
+    "spe",
+    "cial"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Today is a special day.",
+   "example_vi": "Hôm nay là một ngày đặc biệt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W22",
+   "type": "word",
+   "en": "traditional",
+   "vi": "truyền thống",
+   "ipa": "/trəˈdɪʃənəl/",
+   "syllables": [
+    "tra",
+    "di",
+    "tion",
+    "al"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3EE"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "The ao dai is a traditional Vietnamese dress.",
+   "example_vi": "Áo dài là trang phục truyền thống của Việt Nam.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W23",
+   "type": "phrase",
+   "en": "sticky rice cake",
+   "vi": "bánh chưng",
+   "ipa": "/ˈstɪki raɪs keɪk/",
+   "syllables": [
+    "sticky",
+    "rice",
+    "cake"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F359"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "We make sticky rice cakes for Tet.",
+   "example_vi": "Nhà tớ gói bánh chưng đón Tết.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W24",
+   "type": "phrase",
+   "en": "spring roll",
+   "vi": "nem rán, chả giò",
+   "ipa": "/spərɪŋ roʊl/",
+   "syllables": [
+    "spring",
+    "roll"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F32F"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Spring rolls are delicious.",
+   "example_vi": "Nem rán rất ngon.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W25",
+   "type": "phrase",
+   "en": "ao dai",
+   "vi": "áo dài",
+   "ipa": "/ao daɪ/",
+   "syllables": [
+    "ao",
+    "dai"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F458"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Mum wears an ao dai at Tet.",
+   "example_vi": "Tết mẹ mặc áo dài.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W26",
+   "type": "phrase",
+   "en": "full moon",
+   "vi": "trăng tròn",
+   "ipa": "/fʊl mun/",
+   "syllables": [
+    "full",
+    "moon"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F315"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "There is a full moon tonight.",
+   "example_vi": "Tối nay trăng tròn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W27",
+   "type": "word",
+   "en": "pumpkin",
+   "vi": "quả bí ngô",
+   "ipa": "/ˈpʌmpkɪn/",
+   "syllables": [
+    "pump",
+    "kin"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F383"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "We made a lantern from a pumpkin.",
+   "example_vi": "Bọn tớ làm đèn lồng từ quả bí ngô.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W28",
+   "type": "word",
+   "en": "Halloween",
+   "vi": "lễ hội Halloween",
+   "ipa": "/ˌhæləˈwin/",
+   "syllables": [
+    "Halloween"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F47B"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "I wore a cat costume at Halloween.",
+   "example_vi": "Halloween tớ mặc đồ hoá trang mèo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W29",
+   "type": "phrase",
+   "en": "Children's Day",
+   "vi": "ngày Quốc tế Thiếu nhi",
+   "ipa": "/ˈtʃɪldrənz deɪ/",
+   "syllables": [
+    "Chil",
+    "dren's",
+    "Day"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F388"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Children's Day is in June.",
+   "example_vi": "Ngày Quốc tế Thiếu nhi vào tháng Sáu.",
+   "pron_focus": [
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W30",
+   "type": "phrase",
+   "en": "kumquat tree",
+   "vi": "cây quất",
+   "ipa": "/ˈkʌmkwɑt tri/",
+   "syllables": [
+    "kumquat",
+    "tree"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F34A"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "We put a kumquat tree in the living room.",
+   "example_vi": "Nhà tớ đặt cây quất ở phòng khách.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W31",
+   "type": "word",
+   "en": "bell",
+   "vi": "cái chuông",
+   "ipa": "/bɛl/",
+   "syllables": [
+    "bell"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F514"
+   },
+   "picturable": true,
+   "cat": "L3U11",
+   "example_en": "Ring the bell!",
+   "example_vi": "Rung chuông đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U11-W32",
+   "type": "word",
+   "en": "hang",
+   "vi": "treo",
+   "ipa": "/hæŋ/",
+   "syllables": [
+    "hang"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1FA9D"
+   },
+   "picturable": false,
+   "cat": "L3U11",
+   "example_en": "Let's hang the lanterns.",
+   "example_vi": "Mình treo đèn lồng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U11-P01",
+   "en": "What do you do at {x}?",
+   "vi": "Cậu làm gì vào dịp {x}?",
+   "slots": {
+    "x": [
+     "Tet",
+     "Christmas",
+     "Halloween"
+    ]
+   }
+  },
+  {
+   "id": "L3U11-P02",
+   "en": "We {x} at Tet.",
+   "vi": "Tết nhà tớ {x}.",
+   "slots": {
+    "x": [
+     "visit our grandparents",
+     "make sticky rice cakes",
+     "watch fireworks",
+     "get lucky money"
+    ]
+   }
+  },
+  {
+   "id": "L3U11-P03",
+   "en": "Happy {x}!",
+   "vi": "Chúc mừng {x}!",
+   "slots": {
+    "x": [
+     "New Year",
+     "birthday",
+     "Children's Day"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U11-D01",
+   "title_vi": "Tết đến rồi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Tet is coming! What do you do at Tet?",
+     "vi": "Tết sắp đến rồi! Tết cậu làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I visit my grandparents and get lucky money.",
+     "vi": "Tớ đi thăm ông bà và được lì xì."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you watch the fireworks?",
+     "vi": "Cậu có xem pháo hoa không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! They are so beautiful.",
+     "vi": "Có! Đẹp lắm."
+    },
+    {
+     "role": "Bi",
+     "en": "Happy New Year!",
+     "vi": "Chúc mừng năm mới!"
+    },
+    {
+     "role": "Kid",
+     "en": "Happy New Year, Bi!",
+     "vi": "Chúc mừng năm mới, Bi!"
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "fireworks",
+    "options": [
+     "lanterns",
+     "decorations"
+    ]
+   }
+  },
+  {
+   "id": "L3U11-D02",
+   "title_vi": "Đêm Trung thu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What a beautiful lantern!",
+     "vi": "Đèn lồng đẹp quá!"
+    },
+    {
+     "role": "Kid",
+     "en": "Thanks! My lantern is a star.",
+     "vi": "Cảm ơn! Đèn lồng của tớ hình ngôi sao."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's look at the full moon.",
+     "vi": "Mình cùng ngắm trăng tròn nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "And eat some mooncakes!",
+     "vi": "Và ăn bánh trung thu nữa!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "star",
+    "options": [
+     "fish",
+     "rabbit"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "festival"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Tet"
+  },
+  {
+   "type": "dictate_word",
+   "target": "lantern"
+  },
+  {
+   "type": "dictate_word",
+   "target": "mooncake"
+  },
+  {
+   "type": "dictate_word",
+   "target": "firework"
+  },
+  {
+   "type": "dictate_word",
+   "target": "celebrate"
+  },
+  {
+   "type": "dictate_word",
+   "target": "decorate"
+  },
+  {
+   "type": "dictate_word",
+   "target": "decoration"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Tet is my favourite festival."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Children love the Mid-Autumn Festival."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My lantern is a red star."
+  },
+  {
+   "type": "write_sentences",
+   "target": "At Tet, we|My favourite festival is|On Children's Day, I"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U11-R01",
+   "title_en": "Tet at Grandma's house",
+   "text_en": [
+    "Every year, Minh's family goes to his grandparents' house for Tet.",
+    "Before Tet, they clean the house and decorate it with peach blossoms and red lanterns.",
+    "Grandma and Mum make sticky rice cakes.",
+    "On the first day of the new year, Minh wears new clothes.",
+    "He says Happy New Year to his grandparents, and they give him lucky money.",
+    "In the evening, the family watches the fireworks.",
+    "Minh thinks Tet is the best festival of the year."
+   ],
+   "questions": [
+    {
+     "q": "Where does Minh's family go for Tet?",
+     "options": [
+      "To his grandparents' house.",
+      "To the beach.",
+      "To a hotel."
+     ],
+     "answer": "To his grandparents' house."
+    },
+    {
+     "q": "Who makes sticky rice cakes?",
+     "options": [
+      "Grandma and Mum.",
+      "Minh.",
+      "Grandpa."
+     ],
+     "answer": "Grandma and Mum."
+    },
+    {
+     "q": "What do the grandparents give Minh?",
+     "options": [
+      "Lucky money.",
+      "A lantern.",
+      "New clothes."
+     ],
+     "answer": "Lucky money."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U11-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lantern",
+   "item": "lantern",
+   "options": [
+    "lucky money",
+    "lantern",
+    "mooncake",
+    "bell"
+   ],
+   "answer": "lantern"
+  },
+  {
+   "id": "L3U11-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mooncake",
+   "item": "mooncake",
+   "options": [
+    "mooncake",
+    "Christmas",
+    "bell",
+    "lucky money"
+   ],
+   "answer": "mooncake"
+  },
+  {
+   "id": "L3U11-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "firework",
+   "item": "firework",
+   "options": [
+    "lucky money",
+    "firework",
+    "mask",
+    "lantern"
+   ],
+   "answer": "firework"
+  },
+  {
+   "id": "L3U11-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "decoration",
+   "item": "decoration",
+   "options": [
+    "decoration",
+    "mask",
+    "mooncake",
+    "pumpkin"
+   ],
+   "answer": "decoration"
+  },
+  {
+   "id": "L3U11-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lucky money",
+   "item": "lucky money",
+   "options": [
+    "lucky money",
+    "mooncake",
+    "lantern",
+    "Christmas"
+   ],
+   "answer": "lucky money"
+  },
+  {
+   "id": "L3U11-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mask",
+   "item": "mask",
+   "options": [
+    "decoration",
+    "mask",
+    "mooncake",
+    "firework"
+   ],
+   "answer": "mask"
+  },
+  {
+   "id": "L3U11-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Christmas",
+   "item": "Christmas",
+   "options": [
+    "Christmas",
+    "pumpkin",
+    "mask",
+    "mooncake"
+   ],
+   "answer": "Christmas"
+  },
+  {
+   "id": "L3U11-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "full moon",
+   "item": "full moon",
+   "options": [
+    "bell",
+    "Christmas",
+    "firework",
+    "full moon"
+   ],
+   "answer": "full moon"
+  },
+  {
+   "id": "L3U11-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pumpkin",
+   "item": "pumpkin",
+   "options": [
+    "decoration",
+    "pumpkin",
+    "full moon",
+    "lucky money"
+   ],
+   "answer": "pumpkin"
+  },
+  {
+   "id": "L3U11-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bell",
+   "item": "bell",
+   "options": [
+    "mooncake",
+    "full moon",
+    "mask",
+    "bell"
+   ],
+   "answer": "bell"
+  },
+  {
+   "id": "L3U11-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "festival",
+   "item": "festival",
+   "options": [
+    "relative",
+    "parade",
+    "bell",
+    "festival"
+   ],
+   "answer": "festival"
+  },
+  {
+   "id": "L3U11-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Tet",
+   "item": "Tet",
+   "options": [
+    "grandparents",
+    "Tet",
+    "sticky rice cake",
+    "decorate"
+   ],
+   "answer": "Tet"
+  },
+  {
+   "id": "L3U11-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Lunar New Year",
+   "item": "Lunar New Year",
+   "options": [
+    "celebrate",
+    "Lunar New Year",
+    "sticky rice cake",
+    "Halloween"
+   ],
+   "answer": "Lunar New Year"
+  },
+  {
+   "id": "L3U11-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Mid-Autumn Festival",
+   "item": "Mid-Autumn Festival",
+   "options": [
+    "lion dance",
+    "pumpkin",
+    "parade",
+    "Mid-Autumn Festival"
+   ],
+   "answer": "Mid-Autumn Festival"
+  },
+  {
+   "id": "L3U11-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "celebrate",
+   "item": "celebrate",
+   "options": [
+    "celebrate",
+    "lion dance",
+    "Mid-Autumn Festival",
+    "relative"
+   ],
+   "answer": "celebrate"
+  },
+  {
+   "id": "L3U11-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "decorate",
+   "item": "decorate",
+   "options": [
+    "traditional",
+    "decorate",
+    "Happy New Year",
+    "mask"
+   ],
+   "answer": "decorate"
+  },
+  {
+   "id": "L3U11-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "peach blossom",
+   "item": "peach blossom",
+   "options": [
+    "peach blossom",
+    "ao dai",
+    "celebrate",
+    "pumpkin"
+   ],
+   "answer": "peach blossom"
+  },
+  {
+   "id": "L3U11-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lion dance",
+   "item": "lion dance",
+   "options": [
+    "Christmas",
+    "lion dance",
+    "hang",
+    "lucky money"
+   ],
+   "answer": "lion dance"
+  },
+  {
+   "id": "L3U11-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "parade",
+   "item": "parade",
+   "options": [
+    "relative",
+    "parade",
+    "sticky rice cake",
+    "firework"
+   ],
+   "answer": "parade"
+  },
+  {
+   "id": "L3U11-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "costume",
+   "item": "costume",
+   "options": [
+    "costume",
+    "bell",
+    "full moon",
+    "grandparents"
+   ],
+   "answer": "costume"
+  },
+  {
+   "id": "L3U11-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Happy New Year",
+   "item": "Happy New Year",
+   "options": [
+    "traditional",
+    "spring roll",
+    "kumquat tree",
+    "Happy New Year"
+   ],
+   "answer": "Happy New Year"
+  },
+  {
+   "id": "L3U11-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grandparents",
+   "item": "grandparents",
+   "options": [
+    "grandparents",
+    "Christmas",
+    "mooncake",
+    "special"
+   ],
+   "answer": "grandparents"
+  },
+  {
+   "id": "L3U11-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "relative",
+   "item": "relative",
+   "options": [
+    "Happy New Year",
+    "relative",
+    "mooncake",
+    "ao dai"
+   ],
+   "answer": "relative"
+  },
+  {
+   "id": "L3U11-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "special",
+   "item": "special",
+   "options": [
+    "grandparents",
+    "parade",
+    "special",
+    "Lunar New Year"
+   ],
+   "answer": "special"
+  },
+  {
+   "id": "L3U11-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "traditional",
+   "item": "traditional",
+   "options": [
+    "hang",
+    "decorate",
+    "traditional",
+    "pumpkin"
+   ],
+   "answer": "traditional"
+  },
+  {
+   "id": "L3U11-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sticky rice cake",
+   "item": "sticky rice cake",
+   "options": [
+    "Happy New Year",
+    "lantern",
+    "sticky rice cake",
+    "lucky money"
+   ],
+   "answer": "sticky rice cake"
+  },
+  {
+   "id": "L3U11-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spring roll",
+   "item": "spring roll",
+   "options": [
+    "decoration",
+    "ao dai",
+    "spring roll",
+    "Mid-Autumn Festival"
+   ],
+   "answer": "spring roll"
+  },
+  {
+   "id": "L3U11-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ao dai",
+   "item": "ao dai",
+   "options": [
+    "ao dai",
+    "costume",
+    "lucky money",
+    "pumpkin"
+   ],
+   "answer": "ao dai"
+  },
+  {
+   "id": "L3U11-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Halloween",
+   "item": "Halloween",
+   "options": [
+    "celebrate",
+    "Lunar New Year",
+    "special",
+    "Halloween"
+   ],
+   "answer": "Halloween"
+  },
+  {
+   "id": "L3U11-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Children's Day",
+   "item": "Children's Day",
+   "options": [
+    "Mid-Autumn Festival",
+    "Children's Day",
+    "festival",
+    "Happy New Year"
+   ],
+   "answer": "Children's Day"
+  },
+  {
+   "id": "L3U11-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "kumquat tree",
+   "item": "kumquat tree",
+   "options": [
+    "lucky money",
+    "kumquat tree",
+    "spring roll",
+    "special"
+   ],
+   "answer": "kumquat tree"
+  },
+  {
+   "id": "L3U11-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hang",
+   "item": "hang",
+   "options": [
+    "Happy New Year",
+    "hang",
+    "celebrate",
+    "lion dance"
+   ],
+   "answer": "hang"
+  },
+  {
+   "id": "L3U11-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lantern",
+   "answer": "lantern"
+  },
+  {
+   "id": "L3U11-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mooncake",
+   "answer": "mooncake"
+  },
+  {
+   "id": "L3U11-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "firework",
+   "answer": "firework"
+  },
+  {
+   "id": "L3U11-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "decoration",
+   "answer": "decoration"
+  },
+  {
+   "id": "L3U11-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lucky money",
+   "answer": "lucky money"
+  },
+  {
+   "id": "L3U11-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mask",
+   "answer": "mask"
+  },
+  {
+   "id": "L3U11-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Christmas",
+   "answer": "Christmas"
+  },
+  {
+   "id": "L3U11-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "full moon",
+   "answer": "full moon"
+  },
+  {
+   "id": "L3U11-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pumpkin",
+   "answer": "pumpkin"
+  },
+  {
+   "id": "L3U11-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bell",
+   "answer": "bell"
+  },
+  {
+   "id": "L3U11-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a music festival in the park.",
+   "item": "festival",
+   "answer": "There is a music festival in the park."
+  },
+  {
+   "id": "L3U11-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tet is my favourite festival.",
+   "item": "Tet",
+   "answer": "Tet is my favourite festival."
+  },
+  {
+   "id": "L3U11-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We celebrate Lunar New Year with our family.",
+   "item": "Lunar New Year",
+   "answer": "We celebrate Lunar New Year with our family."
+  },
+  {
+   "id": "L3U11-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Children love the Mid-Autumn Festival.",
+   "item": "Mid-Autumn Festival",
+   "answer": "Children love the Mid-Autumn Festival."
+  },
+  {
+   "id": "L3U11-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My lantern is a red star.",
+   "item": "lantern",
+   "answer": "My lantern is a red star."
+  },
+  {
+   "id": "L3U11-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mooncakes are sweet.",
+   "item": "mooncake",
+   "answer": "Mooncakes are sweet."
+  },
+  {
+   "id": "L3U11-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We watch the fireworks at night.",
+   "item": "firework",
+   "answer": "We watch the fireworks at night."
+  },
+  {
+   "id": "L3U11-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How do you celebrate your birthday?",
+   "item": "celebrate",
+   "answer": "How do you celebrate your birthday?"
+  },
+  {
+   "id": "L3U11-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's decorate the house!",
+   "item": "decorate",
+   "answer": "Let's decorate the house!"
+  },
+  {
+   "id": "L3U11-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The decorations are red and gold.",
+   "item": "decoration",
+   "answer": "The decorations are red and gold."
+  },
+  {
+   "id": "L3U11-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma gives me lucky money at Tet.",
+   "item": "lucky money",
+   "answer": "Grandma gives me lucky money at Tet."
+  },
+  {
+   "id": "L3U11-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Peach blossoms are pink.",
+   "item": "peach blossom",
+   "answer": "Peach blossoms are pink."
+  },
+  {
+   "id": "L3U11-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lion dance is very noisy!",
+   "item": "lion dance",
+   "answer": "The lion dance is very noisy!"
+  },
+  {
+   "id": "L3U11-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We watched the parade in the street.",
+   "item": "parade",
+   "answer": "We watched the parade in the street."
+  },
+  {
+   "id": "L3U11-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing a dragon costume.",
+   "item": "costume",
+   "answer": "I'm wearing a dragon costume."
+  },
+  {
+   "id": "L3U11-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lion dancer has a big mask.",
+   "item": "mask",
+   "answer": "The lion dancer has a big mask."
+  },
+  {
+   "id": "L3U11-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Happy New Year, Grandpa!",
+   "item": "Happy New Year",
+   "answer": "Happy New Year, Grandpa!"
+  },
+  {
+   "id": "L3U11-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a Christmas tree at school.",
+   "item": "Christmas",
+   "answer": "We have a Christmas tree at school."
+  },
+  {
+   "id": "L3U11-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I visit my grandparents at Tet.",
+   "item": "grandparents",
+   "answer": "I visit my grandparents at Tet."
+  },
+  {
+   "id": "L3U11-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many relatives come to our house.",
+   "item": "relative",
+   "answer": "Many relatives come to our house."
+  },
+  {
+   "id": "L3U11-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Today is a special day.",
+   "item": "special",
+   "answer": "Today is a special day."
+  },
+  {
+   "id": "L3U11-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ao dai is a traditional Vietnamese dress.",
+   "item": "traditional",
+   "answer": "The ao dai is a traditional Vietnamese dress."
+  },
+  {
+   "id": "L3U11-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We make sticky rice cakes for Tet.",
+   "item": "sticky rice cake",
+   "answer": "We make sticky rice cakes for Tet."
+  },
+  {
+   "id": "L3U11-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Spring rolls are delicious.",
+   "item": "spring roll",
+   "answer": "Spring rolls are delicious."
+  },
+  {
+   "id": "L3U11-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum wears an ao dai at Tet.",
+   "item": "ao dai",
+   "answer": "Mum wears an ao dai at Tet."
+  },
+  {
+   "id": "L3U11-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a full moon tonight.",
+   "item": "full moon",
+   "answer": "There is a full moon tonight."
+  },
+  {
+   "id": "L3U11-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We made a lantern from a pumpkin.",
+   "item": "pumpkin",
+   "answer": "We made a lantern from a pumpkin."
+  },
+  {
+   "id": "L3U11-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wore a cat costume at Halloween.",
+   "item": "Halloween",
+   "answer": "I wore a cat costume at Halloween."
+  },
+  {
+   "id": "L3U11-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Children's Day is in June.",
+   "item": "Children's Day",
+   "answer": "Children's Day is in June."
+  },
+  {
+   "id": "L3U11-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We put a kumquat tree in the living room.",
+   "item": "kumquat tree",
+   "answer": "We put a kumquat tree in the living room."
+  },
+  {
+   "id": "L3U11-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ring the bell!",
+   "item": "bell",
+   "answer": "Ring the bell!"
+  },
+  {
+   "id": "L3U11-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's hang the lanterns.",
+   "item": "hang",
+   "answer": "Let's hang the lanterns."
+  },
+  {
+   "id": "L3U11-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What do you do at Tet?",
+   "answer": "What do you do at Tet?"
+  },
+  {
+   "id": "L3U11-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What do you do at Christmas?",
+   "answer": "What do you do at Christmas?"
+  },
+  {
+   "id": "L3U11-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What do you do at Halloween?",
+   "answer": "What do you do at Halloween?"
+  },
+  {
+   "id": "L3U11-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We visit our grandparents at Tet.",
+   "answer": "We visit our grandparents at Tet."
+  },
+  {
+   "id": "L3U11-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We make sticky rice cakes at Tet.",
+   "answer": "We make sticky rice cakes at Tet."
+  },
+  {
+   "id": "L3U11-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We watch fireworks at Tet.",
+   "answer": "We watch fireworks at Tet."
+  },
+  {
+   "id": "L3U11-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Happy New Year!",
+   "answer": "Happy New Year!"
+  },
+  {
+   "id": "L3U11-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Happy birthday!",
+   "answer": "Happy birthday!"
+  },
+  {
+   "id": "L3U11-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Happy Children's Day!",
+   "answer": "Happy Children's Day!"
+  },
+  {
+   "id": "L3U11-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Tet is coming! What do you do at Tet?",
+   "answer": "I visit my grandparents and get lucky money."
+  },
+  {
+   "id": "L3U11-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you watch the fireworks?",
+   "answer": "Yes! They are so beautiful."
+  },
+  {
+   "id": "L3U11-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lantern",
+   "options": [
+    "lantern",
+    "lucky money",
+    "firework"
+   ],
+   "answer": "lantern"
+  },
+  {
+   "id": "L3U11-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mooncake",
+   "options": [
+    "lantern",
+    "full moon",
+    "mooncake"
+   ],
+   "answer": "mooncake"
+  },
+  {
+   "id": "L3U11-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "firework",
+   "options": [
+    "decoration",
+    "lantern",
+    "firework"
+   ],
+   "answer": "firework"
+  },
+  {
+   "id": "L3U11-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "decoration",
+   "options": [
+    "mask",
+    "mooncake",
+    "decoration"
+   ],
+   "answer": "decoration"
+  },
+  {
+   "id": "L3U11-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lucky money",
+   "options": [
+    "firework",
+    "mooncake",
+    "lucky money"
+   ],
+   "answer": "lucky money"
+  },
+  {
+   "id": "L3U11-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mask",
+   "options": [
+    "Christmas",
+    "bell",
+    "mask"
+   ],
+   "answer": "mask"
+  },
+  {
+   "id": "L3U11-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Christmas",
+   "options": [
+    "bell",
+    "Christmas",
+    "mask"
+   ],
+   "answer": "Christmas"
+  },
+  {
+   "id": "L3U11-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "full moon",
+   "options": [
+    "mooncake",
+    "lucky money",
+    "full moon"
+   ],
+   "answer": "full moon"
+  },
+  {
+   "id": "L3U11-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pumpkin",
+   "options": [
+    "pumpkin",
+    "bell",
+    "lantern"
+   ],
+   "answer": "pumpkin"
+  },
+  {
+   "id": "L3U11-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bell",
+   "options": [
+    "pumpkin",
+    "bell",
+    "Christmas"
+   ],
+   "answer": "bell"
+  },
+  {
+   "id": "L3U11-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a music ___ in the park.",
+   "item": "festival",
+   "options": [
+    "festival",
+    "grandparents",
+    "decoration"
+   ],
+   "answer": "festival"
+  },
+  {
+   "id": "L3U11-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is a red star.",
+   "item": "lantern",
+   "options": [
+    "decorate",
+    "mask",
+    "lantern"
+   ],
+   "answer": "lantern"
+  },
+  {
+   "id": "L3U11-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are sweet.",
+   "item": "mooncake",
+   "options": [
+    "Masks",
+    "Decorations",
+    "Mooncakes"
+   ],
+   "answer": "Mooncakes"
+  },
+  {
+   "id": "L3U11-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We watch the ___ at night.",
+   "item": "firework",
+   "options": [
+    "mooncakes",
+    "masks",
+    "fireworks"
+   ],
+   "answer": "fireworks"
+  },
+  {
+   "id": "L3U11-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "How do you ___ your birthday?",
+   "item": "celebrate",
+   "options": [
+    "celebrate",
+    "parade",
+    "mask"
+   ],
+   "answer": "celebrate"
+  },
+  {
+   "id": "L3U11-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the house!",
+   "item": "decorate",
+   "options": [
+    "mask",
+    "festival",
+    "decorate"
+   ],
+   "answer": "decorate"
+  },
+  {
+   "id": "L3U11-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ are red and gold.",
+   "item": "decoration",
+   "options": [
+    "decorations",
+    "mooncakes",
+    "masks"
+   ],
+   "answer": "decorations"
+  },
+  {
+   "id": "L3U11-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We watched the ___ in the street.",
+   "item": "parade",
+   "options": [
+    "mooncake",
+    "parade",
+    "celebrate"
+   ],
+   "answer": "parade"
+  },
+  {
+   "id": "L3U11-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm wearing a dragon ___.",
+   "item": "costume",
+   "options": [
+    "parade",
+    "grandparents",
+    "costume"
+   ],
+   "answer": "costume"
+  },
+  {
+   "id": "L3U11-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The lion dancer has a big ___.",
+   "item": "mask",
+   "options": [
+    "mask",
+    "decorate",
+    "hang"
+   ],
+   "answer": "mask"
+  },
+  {
+   "id": "L3U11-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I visit my ___ at Tet.",
+   "item": "grandparents",
+   "options": [
+    "grandparents",
+    "mask",
+    "decorate"
+   ],
+   "answer": "grandparents"
+  },
+  {
+   "id": "L3U11-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many ___ come to our house.",
+   "item": "relative",
+   "options": [
+    "mooncakes",
+    "masks",
+    "relatives"
+   ],
+   "answer": "relatives"
+  },
+  {
+   "id": "L3U11-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Today is a ___ day.",
+   "item": "special",
+   "options": [
+    "special",
+    "costume",
+    "mooncake"
+   ],
+   "answer": "special"
+  },
+  {
+   "id": "L3U11-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ao dai is a ___ Vietnamese dress.",
+   "item": "traditional",
+   "options": [
+    "celebrate",
+    "traditional",
+    "mask"
+   ],
+   "answer": "traditional"
+  },
+  {
+   "id": "L3U11-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We made a lantern from a ___.",
+   "item": "pumpkin",
+   "options": [
+    "decorate",
+    "festival",
+    "pumpkin"
+   ],
+   "answer": "pumpkin"
+  },
+  {
+   "id": "L3U11-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ring the ___!",
+   "item": "bell",
+   "options": [
+    "bell",
+    "festival",
+    "hang"
+   ],
+   "answer": "bell"
+  },
+  {
+   "id": "L3U11-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the lanterns.",
+   "item": "hang",
+   "options": [
+    "hang",
+    "bell",
+    "relative"
+   ],
+   "answer": "hang"
+  },
+  {
+   "id": "L3U11-Q113",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My lantern is a red star.",
+   "item": "lantern",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U11-Q114",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mooncakes are sweet.",
+   "item": "firework",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U11-Q115",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We watch the fireworks at night.",
+   "item": "firework",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U11-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The decorations are red and gold.",
+   "item": "lucky money",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U11-Q117",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Grandma gives me lucky money at Tet.",
+   "item": "lucky money",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U11-Q118",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The lion dancer has a big mask.",
+   "item": "Christmas",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U11-Q119",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We have a Christmas tree at school.",
+   "item": "Christmas",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U11-Q120",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There is a full moon tonight.",
+   "item": "pumpkin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U11-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We made a lantern from a pumpkin.",
+   "item": "pumpkin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U11-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Ring the bell!",
+   "item": "lantern",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U11-Q123",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U11-R01",
+   "text_en": "Where does Minh's family go for Tet?",
+   "options": [
+    "To his grandparents' house.",
+    "To a hotel.",
+    "To the beach."
+   ],
+   "answer": "To his grandparents' house."
+  },
+  {
+   "id": "L3U11-Q124",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U11-R01",
+   "text_en": "Who makes sticky rice cakes?",
+   "options": [
+    "Grandma and Mum.",
+    "Minh.",
+    "Grandpa."
+   ],
+   "answer": "Grandma and Mum."
+  },
+  {
+   "id": "L3U11-Q125",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U11-R01",
+   "text_en": "What do the grandparents give Minh?",
+   "options": [
+    "Lucky money.",
+    "A lantern.",
+    "New clothes."
+   ],
+   "answer": "Lucky money."
+  },
+  {
+   "id": "L3U11-Q126",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "festival",
+   "item": "festival",
+   "answer": "festival"
+  },
+  {
+   "id": "L3U11-Q127",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Tet",
+   "item": "Tet",
+   "answer": "Tet"
+  },
+  {
+   "id": "L3U11-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "lantern",
+   "item": "lantern",
+   "answer": "lantern"
+  },
+  {
+   "id": "L3U11-Q129",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "mooncake",
+   "item": "mooncake",
+   "answer": "mooncake"
+  },
+  {
+   "id": "L3U11-Q130",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "firework",
+   "item": "firework",
+   "answer": "firework"
+  },
+  {
+   "id": "L3U11-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "celebrate",
+   "item": "celebrate",
+   "answer": "celebrate"
+  },
+  {
+   "id": "L3U11-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "decorate",
+   "item": "decorate",
+   "answer": "decorate"
+  },
+  {
+   "id": "L3U11-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "decoration",
+   "item": "decoration",
+   "answer": "decoration"
+  },
+  {
+   "id": "L3U11-Q134",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Tet is my favourite festival.",
+   "answer": "Tet is my favourite festival."
+  },
+  {
+   "id": "L3U11-Q135",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Children love the Mid-Autumn Festival.",
+   "answer": "Children love the Mid-Autumn Festival."
+  },
+  {
+   "id": "L3U11-Q136",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My lantern is a red star.",
+   "answer": "My lantern is a red star."
+  }
+ ]
+}

@@ -1,0 +1,1796 @@
+{
+ "id": "L1U05",
+ "level": 1,
+ "unit": 5,
+ "topic_en": "My house",
+ "topic_vi": "Ngôi nhà của bé",
+ "can_do_vi": [
+  "Gọi tên các phòng và đồ đạc",
+  "Nói đồ vật ở đâu với in, on, under"
+ ],
+ "items": [
+  {
+   "id": "L1U05-W01",
+   "type": "word",
+   "en": "house",
+   "vi": "ngôi nhà",
+   "ipa": "/haʊs/",
+   "syllables": [
+    "house"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3E1"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "This is my house.",
+   "example_vi": "Đây là nhà tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W02",
+   "type": "word",
+   "en": "room",
+   "vi": "căn phòng",
+   "ipa": "/rum/",
+   "syllables": [
+    "room"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "This is my room.",
+   "example_vi": "Đây là phòng tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W03",
+   "type": "word",
+   "en": "bedroom",
+   "vi": "phòng ngủ",
+   "ipa": "/ˈbɛˌdrum/",
+   "syllables": [
+    "bed",
+    "room"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "My bed is in my bedroom.",
+   "example_vi": "Giường tớ ở trong phòng ngủ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U05-W04",
+   "type": "word",
+   "en": "kitchen",
+   "vi": "nhà bếp",
+   "ipa": "/ˈkɪtʃən/",
+   "syllables": [
+    "kitchen"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F373"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "Mum is in the kitchen.",
+   "example_vi": "Mẹ đang ở trong bếp.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U05-W05",
+   "type": "word",
+   "en": "bathroom",
+   "vi": "phòng tắm",
+   "ipa": "/ˈbæθˌrum/",
+   "syllables": [
+    "bath",
+    "room"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6C1"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The bathroom is small.",
+   "example_vi": "Phòng tắm nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U05-W06",
+   "type": "phrase",
+   "en": "living room",
+   "vi": "phòng khách",
+   "ipa": "/ˈlɪvɪŋ rum/",
+   "syllables": [
+    "liv",
+    "ing",
+    "room"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "Dad is in the living room.",
+   "example_vi": "Bố đang ở phòng khách.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U05-W07",
+   "type": "word",
+   "en": "garden",
+   "vi": "khu vườn",
+   "ipa": "/ˈɡɑrdən/",
+   "syllables": [
+    "gar",
+    "den"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F337"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The dog is in the garden.",
+   "example_vi": "Chú chó ở trong vườn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W08",
+   "type": "word",
+   "en": "table",
+   "vi": "cái bàn",
+   "ipa": "/ˈteɪbəl/",
+   "syllables": [
+    "ta",
+    "ble"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The cake is on the table.",
+   "example_vi": "Cái bánh ở trên bàn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W09",
+   "type": "word",
+   "en": "chair",
+   "vi": "cái ghế",
+   "ipa": "/tʃɛr/",
+   "syllables": [
+    "chair"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FA91"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "Sit on the chair.",
+   "example_vi": "Ngồi lên ghế đi.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W10",
+   "type": "word",
+   "en": "sofa",
+   "vi": "ghế sô-pha",
+   "ipa": "/ˈsoʊfə/",
+   "syllables": [
+    "so",
+    "fa"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6CB-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The cat is on the sofa.",
+   "example_vi": "Con mèo ở trên ghế sô-pha.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W11",
+   "type": "word",
+   "en": "lamp",
+   "vi": "cái đèn",
+   "ipa": "/læmp/",
+   "syllables": [
+    "lamp"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The lamp is on the desk.",
+   "example_vi": "Cái đèn ở trên bàn học.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W12",
+   "type": "word",
+   "en": "clock",
+   "vi": "đồng hồ",
+   "ipa": "/klɑk/",
+   "syllables": [
+    "clock"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F570-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "Look at the clock.",
+   "example_vi": "Nhìn đồng hồ kìa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W13",
+   "type": "word",
+   "en": "TV",
+   "vi": "ti vi",
+   "ipa": "/ˌtɛləˈvɪʒən/",
+   "syllables": [
+    "TV"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The TV is in the living room.",
+   "example_vi": "Ti vi ở trong phòng khách.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W14",
+   "type": "word",
+   "en": "phone",
+   "vi": "điện thoại",
+   "ipa": "/foʊn/",
+   "syllables": [
+    "phone"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "Where is my phone?",
+   "example_vi": "Điện thoại của tớ đâu rồi?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W15",
+   "type": "word",
+   "en": "wall",
+   "vi": "bức tường",
+   "ipa": "/wɔl/",
+   "syllables": [
+    "wall"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9F1"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The clock is on the wall.",
+   "example_vi": "Đồng hồ ở trên tường.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W16",
+   "type": "word",
+   "en": "floor",
+   "vi": "sàn nhà",
+   "ipa": "/flɔr/",
+   "syllables": [
+    "floor"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9F9"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The ball is on the floor.",
+   "example_vi": "Quả bóng ở trên sàn.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W17",
+   "type": "word",
+   "en": "in",
+   "vi": "ở trong",
+   "ipa": "/ɪn/",
+   "syllables": [
+    "in"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "svg": "prep_in.svg"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The ball is in the box.",
+   "example_vi": "Quả bóng ở trong hộp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W18",
+   "type": "word",
+   "en": "on",
+   "vi": "ở trên",
+   "ipa": "/ɔn/",
+   "syllables": [
+    "on"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "svg": "prep_on.svg"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The ball is on the box.",
+   "example_vi": "Quả bóng ở trên hộp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W19",
+   "type": "word",
+   "en": "under",
+   "vi": "ở dưới",
+   "ipa": "/ˈʌndər/",
+   "syllables": [
+    "un",
+    "der"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "svg": "prep_under.svg"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The ball is under the table.",
+   "example_vi": "Quả bóng ở dưới bàn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U05-W20",
+   "type": "phrase",
+   "en": "next to",
+   "vi": "bên cạnh",
+   "ipa": "/nɛkst tɪ/",
+   "syllables": [
+    "next",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "svg": "prep_next_to.svg"
+   },
+   "picturable": true,
+   "cat": "L1U05",
+   "example_en": "The ball is next to the box.",
+   "example_vi": "Quả bóng ở cạnh cái hộp.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U05-P01",
+   "en": "Where is the {x}?",
+   "vi": "{x} ở đâu?",
+   "slots": {
+    "x": [
+     "ball",
+     "cat",
+     "phone",
+     "lamp"
+    ]
+   }
+  },
+  {
+   "id": "L1U05-P02",
+   "en": "It's {x} the table.",
+   "vi": "Nó ở {x} cái bàn.",
+   "slots": {
+    "x": [
+     "on",
+     "under",
+     "next to"
+    ]
+   }
+  },
+  {
+   "id": "L1U05-P03",
+   "en": "Mum is in the {x}.",
+   "vi": "Mẹ đang ở trong {x}.",
+   "slots": {
+    "x": [
+     "kitchen",
+     "garden",
+     "living room",
+     "bedroom"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U05-D01",
+   "title_vi": "Tìm đồ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Where is my ball?",
+     "vi": "Quả bóng của tớ đâu rồi?"
+    },
+    {
+     "role": "Bi",
+     "en": "Is it under the table?",
+     "vi": "Nó có ở dưới bàn không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No.",
+     "vi": "Không có."
+    },
+    {
+     "role": "Bi",
+     "en": "Look! It's next to the sofa.",
+     "vi": "Nhìn kìa! Nó ở cạnh ghế sô-pha."
+    },
+    {
+     "role": "Kid",
+     "en": "Oh yes! Thank you!",
+     "vi": "Ồ đúng rồi! Cảm ơn cậu!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "ball",
+    "options": [
+     "teddy",
+     "book",
+     "phone"
+    ]
+   }
+  },
+  {
+   "id": "L1U05-D02",
+   "title_vi": "Nhà tớ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Is this your house?",
+     "vi": "Đây là nhà cậu à?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! This is my bedroom.",
+     "vi": "Ừ! Đây là phòng ngủ của tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Where is your mum?",
+     "vi": "Mẹ cậu đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "She is in the kitchen.",
+     "vi": "Mẹ đang ở trong bếp."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "kitchen",
+    "options": [
+     "garden",
+     "bedroom"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "h"
+  },
+  {
+   "type": "write_letter",
+   "target": "r"
+  },
+  {
+   "type": "write_letter",
+   "target": "b"
+  },
+  {
+   "type": "write_letter",
+   "target": "k"
+  },
+  {
+   "type": "copy_word",
+   "target": "house"
+  },
+  {
+   "type": "copy_word",
+   "target": "room"
+  },
+  {
+   "type": "copy_word",
+   "target": "garden"
+  },
+  {
+   "type": "copy_word",
+   "target": "table"
+  },
+  {
+   "type": "copy_word",
+   "target": "chair"
+  },
+  {
+   "type": "copy_word",
+   "target": "sofa"
+  },
+  {
+   "type": "copy_word",
+   "target": "lamp"
+  },
+  {
+   "type": "copy_word",
+   "target": "clock"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "house",
+   "item": "house",
+   "options": [
+    "clock",
+    "bedroom",
+    "kitchen",
+    "house"
+   ],
+   "answer": "house"
+  },
+  {
+   "id": "L1U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "room",
+   "item": "room",
+   "options": [
+    "room",
+    "kitchen",
+    "chair",
+    "lamp"
+   ],
+   "answer": "room"
+  },
+  {
+   "id": "L1U05-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bedroom",
+   "item": "bedroom",
+   "options": [
+    "bedroom",
+    "lamp",
+    "garden",
+    "clock"
+   ],
+   "answer": "bedroom"
+  },
+  {
+   "id": "L1U05-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kitchen",
+   "item": "kitchen",
+   "options": [
+    "house",
+    "kitchen",
+    "sofa",
+    "under"
+   ],
+   "answer": "kitchen"
+  },
+  {
+   "id": "L1U05-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bathroom",
+   "item": "bathroom",
+   "options": [
+    "clock",
+    "TV",
+    "bathroom",
+    "garden"
+   ],
+   "answer": "bathroom"
+  },
+  {
+   "id": "L1U05-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "living room",
+   "item": "living room",
+   "options": [
+    "living room",
+    "kitchen",
+    "house",
+    "on"
+   ],
+   "answer": "living room"
+  },
+  {
+   "id": "L1U05-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "garden",
+   "item": "garden",
+   "options": [
+    "phone",
+    "garden",
+    "sofa",
+    "room"
+   ],
+   "answer": "garden"
+  },
+  {
+   "id": "L1U05-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "table",
+   "item": "table",
+   "options": [
+    "phone",
+    "TV",
+    "table",
+    "in"
+   ],
+   "answer": "table"
+  },
+  {
+   "id": "L1U05-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chair",
+   "item": "chair",
+   "options": [
+    "chair",
+    "wall",
+    "next to",
+    "table"
+   ],
+   "answer": "chair"
+  },
+  {
+   "id": "L1U05-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sofa",
+   "item": "sofa",
+   "options": [
+    "chair",
+    "bedroom",
+    "under",
+    "sofa"
+   ],
+   "answer": "sofa"
+  },
+  {
+   "id": "L1U05-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lamp",
+   "item": "lamp",
+   "options": [
+    "wall",
+    "in",
+    "phone",
+    "lamp"
+   ],
+   "answer": "lamp"
+  },
+  {
+   "id": "L1U05-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clock",
+   "item": "clock",
+   "options": [
+    "table",
+    "under",
+    "floor",
+    "clock"
+   ],
+   "answer": "clock"
+  },
+  {
+   "id": "L1U05-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "TV",
+   "item": "TV",
+   "options": [
+    "floor",
+    "under",
+    "TV",
+    "clock"
+   ],
+   "answer": "TV"
+  },
+  {
+   "id": "L1U05-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "phone",
+   "item": "phone",
+   "options": [
+    "room",
+    "table",
+    "phone",
+    "chair"
+   ],
+   "answer": "phone"
+  },
+  {
+   "id": "L1U05-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wall",
+   "item": "wall",
+   "options": [
+    "wall",
+    "kitchen",
+    "garden",
+    "room"
+   ],
+   "answer": "wall"
+  },
+  {
+   "id": "L1U05-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "floor",
+   "item": "floor",
+   "options": [
+    "floor",
+    "garden",
+    "TV",
+    "sofa"
+   ],
+   "answer": "floor"
+  },
+  {
+   "id": "L1U05-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "in",
+   "item": "in",
+   "options": [
+    "lamp",
+    "living room",
+    "clock",
+    "in"
+   ],
+   "answer": "in"
+  },
+  {
+   "id": "L1U05-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "on",
+   "item": "on",
+   "options": [
+    "on",
+    "table",
+    "wall",
+    "bedroom"
+   ],
+   "answer": "on"
+  },
+  {
+   "id": "L1U05-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "under",
+   "item": "under",
+   "options": [
+    "under",
+    "in",
+    "garden",
+    "floor"
+   ],
+   "answer": "under"
+  },
+  {
+   "id": "L1U05-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "next to",
+   "item": "next to",
+   "options": [
+    "clock",
+    "next to",
+    "room",
+    "kitchen"
+   ],
+   "answer": "next to"
+  },
+  {
+   "id": "L1U05-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the house blue.",
+   "item": "house",
+   "options": [
+    "living room",
+    "next to",
+    "house"
+   ],
+   "answer": "house",
+   "color": "blue"
+  },
+  {
+   "id": "L1U05-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the room pink.",
+   "item": "room",
+   "options": [
+    "room",
+    "house",
+    "clock"
+   ],
+   "answer": "room",
+   "color": "pink"
+  },
+  {
+   "id": "L1U05-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the bedroom blue.",
+   "item": "bedroom",
+   "options": [
+    "bedroom",
+    "house",
+    "chair"
+   ],
+   "answer": "bedroom",
+   "color": "blue"
+  },
+  {
+   "id": "L1U05-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the kitchen red.",
+   "item": "kitchen",
+   "options": [
+    "TV",
+    "kitchen",
+    "table"
+   ],
+   "answer": "kitchen",
+   "color": "red"
+  },
+  {
+   "id": "L1U05-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "house",
+   "answer": "house"
+  },
+  {
+   "id": "L1U05-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "room",
+   "answer": "room"
+  },
+  {
+   "id": "L1U05-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bedroom",
+   "answer": "bedroom"
+  },
+  {
+   "id": "L1U05-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kitchen",
+   "answer": "kitchen"
+  },
+  {
+   "id": "L1U05-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bathroom",
+   "answer": "bathroom"
+  },
+  {
+   "id": "L1U05-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "living room",
+   "answer": "living room"
+  },
+  {
+   "id": "L1U05-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "garden",
+   "answer": "garden"
+  },
+  {
+   "id": "L1U05-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "table",
+   "answer": "table"
+  },
+  {
+   "id": "L1U05-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chair",
+   "answer": "chair"
+  },
+  {
+   "id": "L1U05-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sofa",
+   "answer": "sofa"
+  },
+  {
+   "id": "L1U05-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lamp",
+   "answer": "lamp"
+  },
+  {
+   "id": "L1U05-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clock",
+   "answer": "clock"
+  },
+  {
+   "id": "L1U05-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "TV",
+   "answer": "TV"
+  },
+  {
+   "id": "L1U05-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "phone",
+   "answer": "phone"
+  },
+  {
+   "id": "L1U05-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wall",
+   "answer": "wall"
+  },
+  {
+   "id": "L1U05-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "floor",
+   "answer": "floor"
+  },
+  {
+   "id": "L1U05-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "in",
+   "answer": "in"
+  },
+  {
+   "id": "L1U05-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "on",
+   "answer": "on"
+  },
+  {
+   "id": "L1U05-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "under",
+   "answer": "under"
+  },
+  {
+   "id": "L1U05-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "next to",
+   "answer": "next to"
+  },
+  {
+   "id": "L1U05-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my house.",
+   "item": "house",
+   "answer": "This is my house."
+  },
+  {
+   "id": "L1U05-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my room.",
+   "item": "room",
+   "answer": "This is my room."
+  },
+  {
+   "id": "L1U05-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bed is in my bedroom.",
+   "item": "bedroom",
+   "answer": "My bed is in my bedroom."
+  },
+  {
+   "id": "L1U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is in the kitchen.",
+   "item": "kitchen",
+   "answer": "Mum is in the kitchen."
+  },
+  {
+   "id": "L1U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bathroom is small.",
+   "item": "bathroom",
+   "answer": "The bathroom is small."
+  },
+  {
+   "id": "L1U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad is in the living room.",
+   "item": "living room",
+   "answer": "Dad is in the living room."
+  },
+  {
+   "id": "L1U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dog is in the garden.",
+   "item": "garden",
+   "answer": "The dog is in the garden."
+  },
+  {
+   "id": "L1U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cake is on the table.",
+   "item": "table",
+   "answer": "The cake is on the table."
+  },
+  {
+   "id": "L1U05-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sit on the chair.",
+   "item": "chair",
+   "answer": "Sit on the chair."
+  },
+  {
+   "id": "L1U05-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cat is on the sofa.",
+   "item": "sofa",
+   "answer": "The cat is on the sofa."
+  },
+  {
+   "id": "L1U05-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lamp is on the desk.",
+   "item": "lamp",
+   "answer": "The lamp is on the desk."
+  },
+  {
+   "id": "L1U05-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the clock.",
+   "item": "clock",
+   "answer": "Look at the clock."
+  },
+  {
+   "id": "L1U05-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The TV is in the living room.",
+   "item": "TV",
+   "answer": "The TV is in the living room."
+  },
+  {
+   "id": "L1U05-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is my phone?",
+   "item": "phone",
+   "answer": "Where is my phone?"
+  },
+  {
+   "id": "L1U05-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The clock is on the wall.",
+   "item": "wall",
+   "answer": "The clock is on the wall."
+  },
+  {
+   "id": "L1U05-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is on the floor.",
+   "item": "floor",
+   "answer": "The ball is on the floor."
+  },
+  {
+   "id": "L1U05-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is in the box.",
+   "item": "in",
+   "answer": "The ball is in the box."
+  },
+  {
+   "id": "L1U05-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is on the box.",
+   "item": "on",
+   "answer": "The ball is on the box."
+  },
+  {
+   "id": "L1U05-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is under the table.",
+   "item": "under",
+   "answer": "The ball is under the table."
+  },
+  {
+   "id": "L1U05-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is next to the box.",
+   "item": "next to",
+   "answer": "The ball is next to the box."
+  },
+  {
+   "id": "L1U05-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the ball?",
+   "answer": "Where is the ball?"
+  },
+  {
+   "id": "L1U05-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the cat?",
+   "answer": "Where is the cat?"
+  },
+  {
+   "id": "L1U05-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the phone?",
+   "answer": "Where is the phone?"
+  },
+  {
+   "id": "L1U05-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's on the table.",
+   "answer": "It's on the table."
+  },
+  {
+   "id": "L1U05-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's under the table.",
+   "answer": "It's under the table."
+  },
+  {
+   "id": "L1U05-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's next to the table.",
+   "answer": "It's next to the table."
+  },
+  {
+   "id": "L1U05-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is in the kitchen.",
+   "answer": "Mum is in the kitchen."
+  },
+  {
+   "id": "L1U05-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is in the garden.",
+   "answer": "Mum is in the garden."
+  },
+  {
+   "id": "L1U05-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is in the living room.",
+   "answer": "Mum is in the living room."
+  },
+  {
+   "id": "L1U05-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where is my ball?",
+   "answer": "Is it under the table?"
+  },
+  {
+   "id": "L1U05-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it under the table?",
+   "answer": "No."
+  },
+  {
+   "id": "L1U05-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is this your house?",
+   "answer": "Yes! This is my bedroom."
+  },
+  {
+   "id": "L1U05-Q077",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where is your mum?",
+   "answer": "She is in the kitchen."
+  },
+  {
+   "id": "L1U05-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "house",
+   "options": [
+    "house",
+    "chair",
+    "table"
+   ],
+   "answer": "house"
+  },
+  {
+   "id": "L1U05-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "room",
+   "options": [
+    "bedroom",
+    "garden",
+    "room"
+   ],
+   "answer": "room"
+  },
+  {
+   "id": "L1U05-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bedroom",
+   "options": [
+    "lamp",
+    "bedroom",
+    "on"
+   ],
+   "answer": "bedroom"
+  },
+  {
+   "id": "L1U05-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kitchen",
+   "options": [
+    "living room",
+    "kitchen",
+    "on"
+   ],
+   "answer": "kitchen"
+  },
+  {
+   "id": "L1U05-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bathroom",
+   "options": [
+    "bathroom",
+    "in",
+    "living room"
+   ],
+   "answer": "bathroom"
+  },
+  {
+   "id": "L1U05-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "living room",
+   "options": [
+    "living room",
+    "sofa",
+    "bathroom"
+   ],
+   "answer": "living room"
+  },
+  {
+   "id": "L1U05-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "garden",
+   "options": [
+    "living room",
+    "sofa",
+    "garden"
+   ],
+   "answer": "garden"
+  },
+  {
+   "id": "L1U05-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "table",
+   "options": [
+    "sofa",
+    "table",
+    "in"
+   ],
+   "answer": "table"
+  },
+  {
+   "id": "L1U05-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chair",
+   "options": [
+    "sofa",
+    "house",
+    "chair"
+   ],
+   "answer": "chair"
+  },
+  {
+   "id": "L1U05-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sofa",
+   "options": [
+    "house",
+    "kitchen",
+    "sofa"
+   ],
+   "answer": "sofa"
+  },
+  {
+   "id": "L1U05-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lamp",
+   "options": [
+    "on",
+    "lamp",
+    "table"
+   ],
+   "answer": "lamp"
+  },
+  {
+   "id": "L1U05-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clock",
+   "options": [
+    "garden",
+    "clock",
+    "bedroom"
+   ],
+   "answer": "clock"
+  },
+  {
+   "id": "L1U05-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "TV",
+   "options": [
+    "TV",
+    "phone",
+    "next to"
+   ],
+   "answer": "TV"
+  },
+  {
+   "id": "L1U05-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "phone",
+   "options": [
+    "sofa",
+    "chair",
+    "phone"
+   ],
+   "answer": "phone"
+  },
+  {
+   "id": "L1U05-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wall",
+   "options": [
+    "in",
+    "TV",
+    "wall"
+   ],
+   "answer": "wall"
+  },
+  {
+   "id": "L1U05-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "floor",
+   "options": [
+    "house",
+    "bedroom",
+    "floor"
+   ],
+   "answer": "floor"
+  },
+  {
+   "id": "L1U05-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "in",
+   "options": [
+    "floor",
+    "in",
+    "table"
+   ],
+   "answer": "in"
+  },
+  {
+   "id": "L1U05-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "on",
+   "options": [
+    "under",
+    "on",
+    "kitchen"
+   ],
+   "answer": "on"
+  },
+  {
+   "id": "L1U05-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "under",
+   "options": [
+    "next to",
+    "bathroom",
+    "under"
+   ],
+   "answer": "under"
+  },
+  {
+   "id": "L1U05-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "next to",
+   "options": [
+    "wall",
+    "table",
+    "next to"
+   ],
+   "answer": "next to"
+  },
+  {
+   "id": "L1U05-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "h",
+   "answer": "h"
+  },
+  {
+   "id": "L1U05-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "r",
+   "answer": "r"
+  },
+  {
+   "id": "L1U05-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "b",
+   "answer": "b"
+  },
+  {
+   "id": "L1U05-Q101",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "k",
+   "answer": "k"
+  },
+  {
+   "id": "L1U05-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "house",
+   "answer": "house"
+  },
+  {
+   "id": "L1U05-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "room",
+   "answer": "room"
+  },
+  {
+   "id": "L1U05-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "garden",
+   "answer": "garden"
+  },
+  {
+   "id": "L1U05-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "table",
+   "answer": "table"
+  },
+  {
+   "id": "L1U05-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "chair",
+   "answer": "chair"
+  },
+  {
+   "id": "L1U05-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sofa",
+   "answer": "sofa"
+  },
+  {
+   "id": "L1U05-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "lamp",
+   "answer": "lamp"
+  },
+  {
+   "id": "L1U05-Q109",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "clock",
+   "answer": "clock"
+  }
+ ]
+}

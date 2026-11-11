@@ -1,0 +1,3139 @@
+{
+ "id": "L5U02",
+ "level": 5,
+ "unit": 2,
+ "topic_en": "Our environment",
+ "topic_vi": "Môi trường quanh ta",
+ "can_do_vi": [
+  "Nói về vấn đề môi trường và giải pháp",
+  "Dùng câu \"If we..., we will...\""
+ ],
+ "grammar_note_vi": "Câu điều kiện loại 1 nói về điều có thể xảy ra: \"If we plant more trees, the air will be cleaner.\" (Nếu..., thì sẽ...). Phần có \"if\" dùng thì hiện tại, phần còn lại dùng \"will\".",
+ "items": [
+  {
+   "id": "L5U02-W01",
+   "type": "word",
+   "en": "climate",
+   "vi": "khí hậu",
+   "ipa": "/ˈklaɪmɪt/",
+   "syllables": [
+    "cli",
+    "mate"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F321-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Vietnam has a hot climate.",
+   "example_vi": "Việt Nam có khí hậu nóng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W02",
+   "type": "phrase",
+   "en": "climate change",
+   "vi": "biến đổi khí hậu",
+   "ipa": "/ˈklaɪmɪt tʃeɪndʒ/",
+   "syllables": [
+    "cli",
+    "mate",
+    "change"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Climate change is a big problem.",
+   "example_vi": "Biến đổi khí hậu là một vấn đề lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W03",
+   "type": "phrase",
+   "en": "global warming",
+   "vi": "sự nóng lên toàn cầu",
+   "ipa": "/ˈɡloʊbəl ˈwɔrmɪŋ/",
+   "syllables": [
+    "glob",
+    "al",
+    "warm",
+    "ing"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Global warming makes the ice melt.",
+   "example_vi": "Sự nóng lên toàn cầu làm băng tan.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W04",
+   "type": "phrase",
+   "en": "sea level",
+   "vi": "mực nước biển",
+   "ipa": "/si ˈlɛvəl/",
+   "syllables": [
+    "sea",
+    "lev",
+    "el"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "The sea level is rising.",
+   "example_vi": "Mực nước biển đang dâng lên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W05",
+   "type": "word",
+   "en": "rise",
+   "vi": "tăng lên, dâng lên",
+   "ipa": "/raɪz/",
+   "syllables": [
+    "rise"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Prices rise every year.",
+   "example_vi": "Giá cả tăng mỗi năm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W06",
+   "type": "word",
+   "en": "fuel",
+   "vi": "nhiên liệu",
+   "ipa": "/fjuʌl/",
+   "syllables": [
+    "fuel"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26FD"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Cars use fuel to move.",
+   "example_vi": "Ô tô dùng nhiên liệu để chạy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W07",
+   "type": "word",
+   "en": "coal",
+   "vi": "than đá",
+   "ipa": "/koʊl/",
+   "syllables": [
+    "coal"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "26AB"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Burning coal makes the air dirty.",
+   "example_vi": "Đốt than làm bẩn không khí.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W08",
+   "type": "phrase",
+   "en": "solar panel",
+   "vi": "tấm pin mặt trời",
+   "ipa": "/ˈsoʊlər ˈpænəl/",
+   "syllables": [
+    "so",
+    "lar",
+    "pan",
+    "el"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2600-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We have solar panels on our roof.",
+   "example_vi": "Nhà tớ có tấm pin mặt trời trên mái.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W09",
+   "type": "phrase",
+   "en": "wind turbine",
+   "vi": "tua-bin gió",
+   "ipa": "/wɪnd ˈtʌrbaɪn/",
+   "syllables": [
+    "wind",
+    "tur",
+    "bine"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F32C-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Wind turbines make electricity.",
+   "example_vi": "Tua-bin gió tạo ra điện.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W10",
+   "type": "word",
+   "en": "renewable",
+   "vi": "có thể tái tạo",
+   "ipa": "/riˈnuəbəl/",
+   "syllables": [
+    "re",
+    "new",
+    "able"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "267B-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Sun and wind are renewable energy.",
+   "example_vi": "Mặt trời và gió là năng lượng tái tạo.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W11",
+   "type": "word",
+   "en": "reduce",
+   "vi": "giảm bớt",
+   "ipa": "/rɪˈdus/",
+   "syllables": [
+    "re",
+    "duce"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4C9"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We should reduce plastic waste.",
+   "example_vi": "Chúng ta nên giảm rác thải nhựa.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W12",
+   "type": "word",
+   "en": "litter",
+   "vi": "rác vứt bừa",
+   "ipa": "/ˈlɪtər/",
+   "syllables": [
+    "lit",
+    "ter"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F6AF"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Please don't drop litter.",
+   "example_vi": "Đừng vứt rác bừa bãi.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W13",
+   "type": "word",
+   "en": "landfill",
+   "vi": "bãi chôn rác",
+   "ipa": "/ˈlændˌfɪl/",
+   "syllables": [
+    "land",
+    "fill"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F5D1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "A lot of rubbish goes to landfill.",
+   "example_vi": "Rất nhiều rác được đưa đến bãi chôn lấp.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W14",
+   "type": "word",
+   "en": "compost",
+   "vi": "phân trộn",
+   "ipa": "/ˈkɑmpoʊst/",
+   "syllables": [
+    "com",
+    "post"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F331"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We make compost from fruit and vegetable waste.",
+   "example_vi": "Nhà tớ ủ phân từ rác hoa quả và rau.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W15",
+   "type": "word",
+   "en": "organic",
+   "vi": "hữu cơ",
+   "ipa": "/ɔrˈɡænɪk/",
+   "syllables": [
+    "or",
+    "gan",
+    "ic"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F96C"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Mum buys organic vegetables.",
+   "example_vi": "Mẹ mua rau hữu cơ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W16",
+   "type": "word",
+   "en": "chemical",
+   "vi": "hoá chất",
+   "ipa": "/ˈkɛmɪkəl/",
+   "syllables": [
+    "chem",
+    "i",
+    "cal"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9EA"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Some chemicals are bad for rivers.",
+   "example_vi": "Một số hoá chất có hại cho sông ngòi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W17",
+   "type": "phrase",
+   "en": "coral reef",
+   "vi": "rạn san hô",
+   "ipa": "/ˈkɔrəl rif/",
+   "syllables": [
+    "coral",
+    "reef"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F420"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Many fish live on the coral reef.",
+   "example_vi": "Nhiều loài cá sống ở rạn san hô.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W18",
+   "type": "word",
+   "en": "harmful",
+   "vi": "có hại",
+   "ipa": "/ˈhɑrmfəl/",
+   "syllables": [
+    "harm",
+    "ful"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Plastic is harmful to sea animals.",
+   "example_vi": "Nhựa có hại cho động vật biển.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W19",
+   "type": "word",
+   "en": "harm",
+   "vi": "làm hại",
+   "ipa": "/hɑrm/",
+   "syllables": [
+    "harm"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Don't harm the animals.",
+   "example_vi": "Đừng làm hại động vật.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W20",
+   "type": "word",
+   "en": "toxic",
+   "vi": "độc hại",
+   "ipa": "/ˈtɑksɪk/",
+   "syllables": [
+    "tox",
+    "ic"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Smoke from factories can be toxic.",
+   "example_vi": "Khói từ nhà máy có thể độc hại.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W21",
+   "type": "word",
+   "en": "disposable",
+   "vi": "dùng một lần",
+   "ipa": "/dɪˈspoʊzəbəl/",
+   "syllables": [
+    "disposable"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Don't use disposable cups.",
+   "example_vi": "Đừng dùng cốc dùng một lần.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W22",
+   "type": "word",
+   "en": "packaging",
+   "vi": "bao bì",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "syllables": [
+    "pack",
+    "ag",
+    "ing"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "This toy has too much packaging.",
+   "example_vi": "Món đồ chơi này có quá nhiều bao bì.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W23",
+   "type": "word",
+   "en": "reusable",
+   "vi": "có thể dùng lại",
+   "ipa": "/riˈuzəbəl/",
+   "syllables": [
+    "re",
+    "us",
+    "able"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Take a reusable bag to the market.",
+   "example_vi": "Mang túi dùng lại khi đi chợ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W24",
+   "type": "word",
+   "en": "bamboo",
+   "vi": "tre",
+   "ipa": "/bæmˈbu/",
+   "syllables": [
+    "bam",
+    "boo"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F38B"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "This straw is made of bamboo.",
+   "example_vi": "Ống hút này làm bằng tre.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W25",
+   "type": "word",
+   "en": "eco-friendly",
+   "vi": "thân thiện với môi trường",
+   "ipa": "/ˈɛkoʊ ˈfrɛndli/",
+   "syllables": [
+    "eco-friendly"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F33F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Bikes are eco-friendly.",
+   "example_vi": "Xe đạp thân thiện với môi trường.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W26",
+   "type": "word",
+   "en": "natural",
+   "vi": "tự nhiên",
+   "ipa": "/ˈnætʃərəl/",
+   "syllables": [
+    "natural"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F343"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We should protect natural places.",
+   "example_vi": "Chúng ta nên bảo vệ những nơi tự nhiên.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W27",
+   "type": "word",
+   "en": "resource",
+   "vi": "tài nguyên",
+   "ipa": "/ˈrisɔrs/",
+   "syllables": [
+    "re",
+    "source"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Water is an important resource.",
+   "example_vi": "Nước là một tài nguyên quan trọng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W28",
+   "type": "word",
+   "en": "generation",
+   "vi": "thế hệ",
+   "ipa": "/ˌdʒɛnərˈeɪʃən/",
+   "syllables": [
+    "generation"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F46A"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We must protect the Earth for the next generation.",
+   "example_vi": "Chúng ta phải bảo vệ Trái Đất cho thế hệ sau.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W29",
+   "type": "word",
+   "en": "solution",
+   "vi": "giải pháp",
+   "ipa": "/səˈluʃən/",
+   "syllables": [
+    "so",
+    "lu",
+    "tion"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "What is the solution to this problem?",
+   "example_vi": "Giải pháp cho vấn đề này là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W30",
+   "type": "word",
+   "en": "cause",
+   "vi": "nguyên nhân, gây ra",
+   "ipa": "/kɔz/",
+   "syllables": [
+    "cause"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Cars cause air pollution.",
+   "example_vi": "Ô tô gây ô nhiễm không khí.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W31",
+   "type": "word",
+   "en": "effect",
+   "vi": "ảnh hưởng",
+   "ipa": "/ˈifɛkt/",
+   "syllables": [
+    "ef",
+    "fect"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4A5"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Pollution has a bad effect on animals.",
+   "example_vi": "Ô nhiễm có ảnh hưởng xấu đến động vật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W32",
+   "type": "word",
+   "en": "serious",
+   "vi": "nghiêm trọng",
+   "ipa": "/ˈsɪriəs/",
+   "syllables": [
+    "se",
+    "ri",
+    "ous"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F610"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Pollution is a serious problem.",
+   "example_vi": "Ô nhiễm là vấn đề nghiêm trọng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W33",
+   "type": "word",
+   "en": "action",
+   "vi": "hành động",
+   "ipa": "/ˈækʃən/",
+   "syllables": [
+    "ac",
+    "tion"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We need to take action now.",
+   "example_vi": "Chúng ta cần hành động ngay.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W34",
+   "type": "word",
+   "en": "campaign",
+   "vi": "chiến dịch",
+   "ipa": "/kæmˈpeɪn/",
+   "syllables": [
+    "cam",
+    "paign"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4E3"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Our school has a campaign to save water.",
+   "example_vi": "Trường tớ có chiến dịch tiết kiệm nước.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W35",
+   "type": "phrase",
+   "en": "public transport",
+   "vi": "phương tiện công cộng",
+   "ipa": "/ˈpʌblɪk ˈtrænspɔrt/",
+   "syllables": [
+    "pub",
+    "lic",
+    "trans",
+    "port"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F68C"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Use public transport instead of cars.",
+   "example_vi": "Hãy dùng phương tiện công cộng thay vì ô tô.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W36",
+   "type": "phrase",
+   "en": "electric car",
+   "vi": "ô tô điện",
+   "ipa": "/ɪˈlɛktrɪk kɑr/",
+   "syllables": [
+    "electric",
+    "car"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F697"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Electric cars don't make smoke.",
+   "example_vi": "Ô tô điện không thải khói.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W37",
+   "type": "word",
+   "en": "glacier",
+   "vi": "sông băng",
+   "ipa": "/ˈɡleɪʃər/",
+   "syllables": [
+    "glacier"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F3D4-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "The glacier is melting.",
+   "example_vi": "Sông băng đang tan.",
+   "pron_focus": [
+    "cluster",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W38",
+   "type": "word",
+   "en": "carbon",
+   "vi": "các-bon",
+   "ipa": "/ˈkɑrbən/",
+   "syllables": [
+    "car",
+    "bon"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "26AB"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Trees take in carbon from the air.",
+   "example_vi": "Cây hấp thụ các-bon từ không khí.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W39",
+   "type": "word",
+   "en": "footprint",
+   "vi": "dấu chân",
+   "ipa": "/ˈfʊtˌprɪnt/",
+   "syllables": [
+    "foot",
+    "print"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": true,
+   "cat": "L5U02",
+   "example_en": "There are footprints in the sand.",
+   "example_vi": "Có những dấu chân trên cát.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W40",
+   "type": "word",
+   "en": "increase",
+   "vi": "tăng",
+   "ipa": "/ˌɪnˈkris/",
+   "syllables": [
+    "in",
+    "crease"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "The number of cars is increasing.",
+   "example_vi": "Số lượng ô tô đang tăng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W41",
+   "type": "word",
+   "en": "decrease",
+   "vi": "giảm",
+   "ipa": "/ˈdiˌkris/",
+   "syllables": [
+    "de",
+    "crease"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4C9"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "The number of tigers is decreasing.",
+   "example_vi": "Số lượng hổ đang giảm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W42",
+   "type": "word",
+   "en": "amount",
+   "vi": "lượng",
+   "ipa": "/əˈmaʊnt/",
+   "syllables": [
+    "amount"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "We use a large amount of water.",
+   "example_vi": "Chúng ta dùng một lượng nước lớn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W43",
+   "type": "word",
+   "en": "atmosphere",
+   "vi": "bầu khí quyển",
+   "ipa": "/ˈætməsˌfɪr/",
+   "syllables": [
+    "at",
+    "mos",
+    "phere"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F32B-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "The Earth's atmosphere protects us.",
+   "example_vi": "Bầu khí quyển bảo vệ chúng ta.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U02-W44",
+   "type": "word",
+   "en": "replace",
+   "vi": "thay thế",
+   "ipa": "/ˌriˈpleɪs/",
+   "syllables": [
+    "re",
+    "place"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L5U02",
+   "example_en": "Replace plastic bags with cloth bags.",
+   "example_vi": "Thay túi nhựa bằng túi vải.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U02-P01",
+   "en": "If we {x}, the Earth will be cleaner.",
+   "vi": "Nếu chúng ta {x}, Trái Đất sẽ sạch hơn.",
+   "slots": {
+    "x": [
+     "plant more trees",
+     "recycle more",
+     "use public transport",
+     "reduce plastic"
+    ]
+   }
+  },
+  {
+   "id": "L5U02-P02",
+   "en": "We should reduce {x}.",
+   "vi": "Chúng ta nên giảm {x}.",
+   "slots": {
+    "x": [
+     "plastic waste",
+     "pollution",
+     "packaging"
+    ]
+   }
+  },
+  {
+   "id": "L5U02-P03",
+   "en": "{x} is harmful to the environment.",
+   "vi": "{x} có hại cho môi trường.",
+   "slots": {
+    "x": [
+     "Plastic",
+     "Smoke",
+     "Litter",
+     "Coal"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U02-D01",
+   "title_vi": "Dự án môi trường",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Our class project is about climate change.",
+     "vi": "Dự án của lớp mình là về biến đổi khí hậu."
+    },
+    {
+     "role": "Kid",
+     "en": "What causes climate change?",
+     "vi": "Nguyên nhân gây biến đổi khí hậu là gì?"
+    },
+    {
+     "role": "Bi",
+     "en": "Burning coal and oil makes the planet warmer.",
+     "vi": "Đốt than và dầu làm hành tinh nóng lên."
+    },
+    {
+     "role": "Kid",
+     "en": "What can we do?",
+     "vi": "Mình có thể làm gì?"
+    },
+    {
+     "role": "Bi",
+     "en": "If we use renewable energy, we will reduce pollution.",
+     "vi": "Nếu dùng năng lượng tái tạo, mình sẽ giảm ô nhiễm."
+    },
+    {
+     "role": "Kid",
+     "en": "And if we walk or cycle, we will help too!",
+     "vi": "Và nếu mình đi bộ hoặc đạp xe, mình cũng sẽ giúp được!"
+    }
+   ]
+  },
+  {
+   "id": "L5U02-D02",
+   "title_vi": "Đi chợ xanh",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "Let's go to the market.",
+     "vi": "Mình đi chợ nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Don't forget the reusable bags!",
+     "vi": "Mẹ đừng quên túi dùng lại nhé!"
+    },
+    {
+     "role": "Mum",
+     "en": "Good idea. Plastic bags are harmful to animals.",
+     "vi": "Ý hay đấy. Túi nhựa có hại cho động vật."
+    },
+    {
+     "role": "Kid",
+     "en": "And let's buy fruit without packaging.",
+     "vi": "Và mình mua hoa quả không có bao bì nhé."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "climate"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rise"
+  },
+  {
+   "type": "dictate_word",
+   "target": "fuel"
+  },
+  {
+   "type": "dictate_word",
+   "target": "coal"
+  },
+  {
+   "type": "dictate_word",
+   "target": "renewable"
+  },
+  {
+   "type": "dictate_word",
+   "target": "reduce"
+  },
+  {
+   "type": "dictate_word",
+   "target": "litter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "landfill"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Vietnam has a hot climate."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Climate change is a big problem."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Global warming makes the ice melt."
+  },
+  {
+   "type": "write_sentences",
+   "target": "If we|We should|One solution is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U02-R01",
+   "title_en": "Save the coral reef",
+   "text_en": [
+    "Coral reefs are very important.",
+    "Thousands of colourful fish and sea animals live there.",
+    "However, many reefs are in danger.",
+    "Global warming is making the sea warmer, and the coral is turning white.",
+    "Plastic and chemicals from rivers also harm the reefs.",
+    "If we don't take action, many reefs will disappear.",
+    "There are some simple solutions.",
+    "We can reduce plastic waste and use reusable bottles.",
+    "We can save energy at home.",
+    "When we visit the beach, we should never touch the coral or leave litter.",
+    "If everyone helps, the reefs will have a future."
+   ],
+   "questions": [
+    {
+     "q": "Why is the coral turning white?",
+     "options": [
+      "The sea is getting warmer.",
+      "There are too many fish.",
+      "It is too dark."
+     ],
+     "answer": "The sea is getting warmer."
+    },
+    {
+     "q": "What also harms the reefs?",
+     "options": [
+      "Plastic and chemicals.",
+      "Sunlight.",
+      "Sand."
+     ],
+     "answer": "Plastic and chemicals."
+    },
+    {
+     "q": "What should we never do at the beach?",
+     "options": [
+      "Touch the coral or leave litter.",
+      "Swim in the sea.",
+      "Build sandcastles."
+     ],
+     "answer": "Touch the coral or leave litter."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U02-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "footprint",
+   "item": "footprint",
+   "options": [
+    "banana",
+    "footprint",
+    "cup",
+    "try"
+   ],
+   "answer": "footprint"
+  },
+  {
+   "id": "L5U02-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "climate",
+   "item": "climate",
+   "options": [
+    "climate",
+    "toxic",
+    "cause",
+    "replace"
+   ],
+   "answer": "climate"
+  },
+  {
+   "id": "L5U02-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "climate change",
+   "item": "climate change",
+   "options": [
+    "climate change",
+    "reduce",
+    "atmosphere",
+    "solution"
+   ],
+   "answer": "climate change"
+  },
+  {
+   "id": "L5U02-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "global warming",
+   "item": "global warming",
+   "options": [
+    "carbon",
+    "coal",
+    "serious",
+    "global warming"
+   ],
+   "answer": "global warming"
+  },
+  {
+   "id": "L5U02-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sea level",
+   "item": "sea level",
+   "options": [
+    "packaging",
+    "climate change",
+    "sea level",
+    "global warming"
+   ],
+   "answer": "sea level"
+  },
+  {
+   "id": "L5U02-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rise",
+   "item": "rise",
+   "options": [
+    "toxic",
+    "chemical",
+    "electric car",
+    "rise"
+   ],
+   "answer": "rise"
+  },
+  {
+   "id": "L5U02-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fuel",
+   "item": "fuel",
+   "options": [
+    "fuel",
+    "serious",
+    "landfill",
+    "eco-friendly"
+   ],
+   "answer": "fuel"
+  },
+  {
+   "id": "L5U02-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "coal",
+   "item": "coal",
+   "options": [
+    "packaging",
+    "chemical",
+    "compost",
+    "coal"
+   ],
+   "answer": "coal"
+  },
+  {
+   "id": "L5U02-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "solar panel",
+   "item": "solar panel",
+   "options": [
+    "solar panel",
+    "litter",
+    "reusable",
+    "reduce"
+   ],
+   "answer": "solar panel"
+  },
+  {
+   "id": "L5U02-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wind turbine",
+   "item": "wind turbine",
+   "options": [
+    "bamboo",
+    "wind turbine",
+    "litter",
+    "cause"
+   ],
+   "answer": "wind turbine"
+  },
+  {
+   "id": "L5U02-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "renewable",
+   "item": "renewable",
+   "options": [
+    "renewable",
+    "solution",
+    "coral reef",
+    "climate"
+   ],
+   "answer": "renewable"
+  },
+  {
+   "id": "L5U02-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reduce",
+   "item": "reduce",
+   "options": [
+    "harm",
+    "electric car",
+    "reduce",
+    "fuel"
+   ],
+   "answer": "reduce"
+  },
+  {
+   "id": "L5U02-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "litter",
+   "item": "litter",
+   "options": [
+    "carbon",
+    "climate",
+    "litter",
+    "renewable"
+   ],
+   "answer": "litter"
+  },
+  {
+   "id": "L5U02-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "landfill",
+   "item": "landfill",
+   "options": [
+    "atmosphere",
+    "resource",
+    "landfill",
+    "eco-friendly"
+   ],
+   "answer": "landfill"
+  },
+  {
+   "id": "L5U02-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "compost",
+   "item": "compost",
+   "options": [
+    "eco-friendly",
+    "action",
+    "compost",
+    "packaging"
+   ],
+   "answer": "compost"
+  },
+  {
+   "id": "L5U02-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "organic",
+   "item": "organic",
+   "options": [
+    "atmosphere",
+    "organic",
+    "wind turbine",
+    "coal"
+   ],
+   "answer": "organic"
+  },
+  {
+   "id": "L5U02-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chemical",
+   "item": "chemical",
+   "options": [
+    "bamboo",
+    "cause",
+    "chemical",
+    "public transport"
+   ],
+   "answer": "chemical"
+  },
+  {
+   "id": "L5U02-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "coral reef",
+   "item": "coral reef",
+   "options": [
+    "packaging",
+    "coral reef",
+    "disposable",
+    "cause"
+   ],
+   "answer": "coral reef"
+  },
+  {
+   "id": "L5U02-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "harmful",
+   "item": "harmful",
+   "options": [
+    "increase",
+    "decrease",
+    "solar panel",
+    "harmful"
+   ],
+   "answer": "harmful"
+  },
+  {
+   "id": "L5U02-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "harm",
+   "item": "harm",
+   "options": [
+    "replace",
+    "fuel",
+    "organic",
+    "harm"
+   ],
+   "answer": "harm"
+  },
+  {
+   "id": "L5U02-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "toxic",
+   "item": "toxic",
+   "options": [
+    "toxic",
+    "public transport",
+    "eco-friendly",
+    "action"
+   ],
+   "answer": "toxic"
+  },
+  {
+   "id": "L5U02-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "disposable",
+   "item": "disposable",
+   "options": [
+    "chemical",
+    "disposable",
+    "effect",
+    "amount"
+   ],
+   "answer": "disposable"
+  },
+  {
+   "id": "L5U02-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "packaging",
+   "item": "packaging",
+   "options": [
+    "bamboo",
+    "chemical",
+    "fuel",
+    "packaging"
+   ],
+   "answer": "packaging"
+  },
+  {
+   "id": "L5U02-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reusable",
+   "item": "reusable",
+   "options": [
+    "bamboo",
+    "solar panel",
+    "decrease",
+    "reusable"
+   ],
+   "answer": "reusable"
+  },
+  {
+   "id": "L5U02-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bamboo",
+   "item": "bamboo",
+   "options": [
+    "action",
+    "bamboo",
+    "reduce",
+    "renewable"
+   ],
+   "answer": "bamboo"
+  },
+  {
+   "id": "L5U02-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "eco-friendly",
+   "item": "eco-friendly",
+   "options": [
+    "eco-friendly",
+    "chemical",
+    "harmful",
+    "electric car"
+   ],
+   "answer": "eco-friendly"
+  },
+  {
+   "id": "L5U02-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "natural",
+   "item": "natural",
+   "options": [
+    "cause",
+    "harm",
+    "carbon",
+    "natural"
+   ],
+   "answer": "natural"
+  },
+  {
+   "id": "L5U02-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "resource",
+   "item": "resource",
+   "options": [
+    "wind turbine",
+    "serious",
+    "coral reef",
+    "resource"
+   ],
+   "answer": "resource"
+  },
+  {
+   "id": "L5U02-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "generation",
+   "item": "generation",
+   "options": [
+    "landfill",
+    "generation",
+    "rise",
+    "footprint"
+   ],
+   "answer": "generation"
+  },
+  {
+   "id": "L5U02-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "solution",
+   "item": "solution",
+   "options": [
+    "solution",
+    "climate",
+    "toxic",
+    "litter"
+   ],
+   "answer": "solution"
+  },
+  {
+   "id": "L5U02-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cause",
+   "item": "cause",
+   "options": [
+    "decrease",
+    "global warming",
+    "renewable",
+    "cause"
+   ],
+   "answer": "cause"
+  },
+  {
+   "id": "L5U02-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "effect",
+   "item": "effect",
+   "options": [
+    "generation",
+    "reduce",
+    "rise",
+    "effect"
+   ],
+   "answer": "effect"
+  },
+  {
+   "id": "L5U02-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "serious",
+   "item": "serious",
+   "options": [
+    "toxic",
+    "landfill",
+    "chemical",
+    "serious"
+   ],
+   "answer": "serious"
+  },
+  {
+   "id": "L5U02-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "action",
+   "item": "action",
+   "options": [
+    "chemical",
+    "campaign",
+    "action",
+    "eco-friendly"
+   ],
+   "answer": "action"
+  },
+  {
+   "id": "L5U02-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "campaign",
+   "item": "campaign",
+   "options": [
+    "campaign",
+    "solar panel",
+    "serious",
+    "organic"
+   ],
+   "answer": "campaign"
+  },
+  {
+   "id": "L5U02-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "public transport",
+   "item": "public transport",
+   "options": [
+    "replace",
+    "serious",
+    "public transport",
+    "compost"
+   ],
+   "answer": "public transport"
+  },
+  {
+   "id": "L5U02-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "electric car",
+   "item": "electric car",
+   "options": [
+    "decrease",
+    "litter",
+    "electric car",
+    "packaging"
+   ],
+   "answer": "electric car"
+  },
+  {
+   "id": "L5U02-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "glacier",
+   "item": "glacier",
+   "options": [
+    "reusable",
+    "glacier",
+    "fuel",
+    "footprint"
+   ],
+   "answer": "glacier"
+  },
+  {
+   "id": "L5U02-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "carbon",
+   "item": "carbon",
+   "options": [
+    "climate",
+    "compost",
+    "sea level",
+    "carbon"
+   ],
+   "answer": "carbon"
+  },
+  {
+   "id": "L5U02-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "increase",
+   "item": "increase",
+   "options": [
+    "landfill",
+    "compost",
+    "amount",
+    "increase"
+   ],
+   "answer": "increase"
+  },
+  {
+   "id": "L5U02-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "decrease",
+   "item": "decrease",
+   "options": [
+    "amount",
+    "serious",
+    "decrease",
+    "climate change"
+   ],
+   "answer": "decrease"
+  },
+  {
+   "id": "L5U02-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "amount",
+   "item": "amount",
+   "options": [
+    "climate",
+    "cause",
+    "renewable",
+    "amount"
+   ],
+   "answer": "amount"
+  },
+  {
+   "id": "L5U02-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "atmosphere",
+   "item": "atmosphere",
+   "options": [
+    "decrease",
+    "atmosphere",
+    "solar panel",
+    "glacier"
+   ],
+   "answer": "atmosphere"
+  },
+  {
+   "id": "L5U02-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "replace",
+   "item": "replace",
+   "options": [
+    "eco-friendly",
+    "compost",
+    "chemical",
+    "replace"
+   ],
+   "answer": "replace"
+  },
+  {
+   "id": "L5U02-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "footprint",
+   "answer": "footprint"
+  },
+  {
+   "id": "L5U02-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam has a hot climate.",
+   "item": "climate",
+   "answer": "Vietnam has a hot climate."
+  },
+  {
+   "id": "L5U02-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Climate change is a big problem.",
+   "item": "climate change",
+   "answer": "Climate change is a big problem."
+  },
+  {
+   "id": "L5U02-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Global warming makes the ice melt.",
+   "item": "global warming",
+   "answer": "Global warming makes the ice melt."
+  },
+  {
+   "id": "L5U02-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sea level is rising.",
+   "item": "sea level",
+   "answer": "The sea level is rising."
+  },
+  {
+   "id": "L5U02-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Prices rise every year.",
+   "item": "rise",
+   "answer": "Prices rise every year."
+  },
+  {
+   "id": "L5U02-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cars use fuel to move.",
+   "item": "fuel",
+   "answer": "Cars use fuel to move."
+  },
+  {
+   "id": "L5U02-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Burning coal makes the air dirty.",
+   "item": "coal",
+   "answer": "Burning coal makes the air dirty."
+  },
+  {
+   "id": "L5U02-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have solar panels on our roof.",
+   "item": "solar panel",
+   "answer": "We have solar panels on our roof."
+  },
+  {
+   "id": "L5U02-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wind turbines make electricity.",
+   "item": "wind turbine",
+   "answer": "Wind turbines make electricity."
+  },
+  {
+   "id": "L5U02-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sun and wind are renewable energy.",
+   "item": "renewable",
+   "answer": "Sun and wind are renewable energy."
+  },
+  {
+   "id": "L5U02-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should reduce plastic waste.",
+   "item": "reduce",
+   "answer": "We should reduce plastic waste."
+  },
+  {
+   "id": "L5U02-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please don't drop litter.",
+   "item": "litter",
+   "answer": "Please don't drop litter."
+  },
+  {
+   "id": "L5U02-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A lot of rubbish goes to landfill.",
+   "item": "landfill",
+   "answer": "A lot of rubbish goes to landfill."
+  },
+  {
+   "id": "L5U02-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We make compost from fruit and vegetable waste.",
+   "item": "compost",
+   "answer": "We make compost from fruit and vegetable waste."
+  },
+  {
+   "id": "L5U02-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum buys organic vegetables.",
+   "item": "organic",
+   "answer": "Mum buys organic vegetables."
+  },
+  {
+   "id": "L5U02-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Some chemicals are bad for rivers.",
+   "item": "chemical",
+   "answer": "Some chemicals are bad for rivers."
+  },
+  {
+   "id": "L5U02-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many fish live on the coral reef.",
+   "item": "coral reef",
+   "answer": "Many fish live on the coral reef."
+  },
+  {
+   "id": "L5U02-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plastic is harmful to sea animals.",
+   "item": "harmful",
+   "answer": "Plastic is harmful to sea animals."
+  },
+  {
+   "id": "L5U02-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't harm the animals.",
+   "item": "harm",
+   "answer": "Don't harm the animals."
+  },
+  {
+   "id": "L5U02-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Smoke from factories can be toxic.",
+   "item": "toxic",
+   "answer": "Smoke from factories can be toxic."
+  },
+  {
+   "id": "L5U02-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't use disposable cups.",
+   "item": "disposable",
+   "answer": "Don't use disposable cups."
+  },
+  {
+   "id": "L5U02-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This toy has too much packaging.",
+   "item": "packaging",
+   "answer": "This toy has too much packaging."
+  },
+  {
+   "id": "L5U02-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Take a reusable bag to the market.",
+   "item": "reusable",
+   "answer": "Take a reusable bag to the market."
+  },
+  {
+   "id": "L5U02-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This straw is made of bamboo.",
+   "item": "bamboo",
+   "answer": "This straw is made of bamboo."
+  },
+  {
+   "id": "L5U02-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bikes are eco-friendly.",
+   "item": "eco-friendly",
+   "answer": "Bikes are eco-friendly."
+  },
+  {
+   "id": "L5U02-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should protect natural places.",
+   "item": "natural",
+   "answer": "We should protect natural places."
+  },
+  {
+   "id": "L5U02-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water is an important resource.",
+   "item": "resource",
+   "answer": "Water is an important resource."
+  },
+  {
+   "id": "L5U02-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We must protect the Earth for the next generation.",
+   "item": "generation",
+   "answer": "We must protect the Earth for the next generation."
+  },
+  {
+   "id": "L5U02-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What is the solution to this problem?",
+   "item": "solution",
+   "answer": "What is the solution to this problem?"
+  },
+  {
+   "id": "L5U02-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cars cause air pollution.",
+   "item": "cause",
+   "answer": "Cars cause air pollution."
+  },
+  {
+   "id": "L5U02-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pollution has a bad effect on animals.",
+   "item": "effect",
+   "answer": "Pollution has a bad effect on animals."
+  },
+  {
+   "id": "L5U02-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pollution is a serious problem.",
+   "item": "serious",
+   "answer": "Pollution is a serious problem."
+  },
+  {
+   "id": "L5U02-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We need to take action now.",
+   "item": "action",
+   "answer": "We need to take action now."
+  },
+  {
+   "id": "L5U02-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our school has a campaign to save water.",
+   "item": "campaign",
+   "answer": "Our school has a campaign to save water."
+  },
+  {
+   "id": "L5U02-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Use public transport instead of cars.",
+   "item": "public transport",
+   "answer": "Use public transport instead of cars."
+  },
+  {
+   "id": "L5U02-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Electric cars don't make smoke.",
+   "item": "electric car",
+   "answer": "Electric cars don't make smoke."
+  },
+  {
+   "id": "L5U02-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The glacier is melting.",
+   "item": "glacier",
+   "answer": "The glacier is melting."
+  },
+  {
+   "id": "L5U02-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Trees take in carbon from the air.",
+   "item": "carbon",
+   "answer": "Trees take in carbon from the air."
+  },
+  {
+   "id": "L5U02-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are footprints in the sand.",
+   "item": "footprint",
+   "answer": "There are footprints in the sand."
+  },
+  {
+   "id": "L5U02-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The number of cars is increasing.",
+   "item": "increase",
+   "answer": "The number of cars is increasing."
+  },
+  {
+   "id": "L5U02-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The number of tigers is decreasing.",
+   "item": "decrease",
+   "answer": "The number of tigers is decreasing."
+  },
+  {
+   "id": "L5U02-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We use a large amount of water.",
+   "item": "amount",
+   "answer": "We use a large amount of water."
+  },
+  {
+   "id": "L5U02-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The Earth's atmosphere protects us.",
+   "item": "atmosphere",
+   "answer": "The Earth's atmosphere protects us."
+  },
+  {
+   "id": "L5U02-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Replace plastic bags with cloth bags.",
+   "item": "replace",
+   "answer": "Replace plastic bags with cloth bags."
+  },
+  {
+   "id": "L5U02-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If we plant more trees, the Earth will be cleaner.",
+   "answer": "If we plant more trees, the Earth will be cleaner."
+  },
+  {
+   "id": "L5U02-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If we recycle more, the Earth will be cleaner.",
+   "answer": "If we recycle more, the Earth will be cleaner."
+  },
+  {
+   "id": "L5U02-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If we use public transport, the Earth will be cleaner.",
+   "answer": "If we use public transport, the Earth will be cleaner."
+  },
+  {
+   "id": "L5U02-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should reduce plastic waste.",
+   "answer": "We should reduce plastic waste."
+  },
+  {
+   "id": "L5U02-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should reduce pollution.",
+   "answer": "We should reduce pollution."
+  },
+  {
+   "id": "L5U02-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should reduce packaging.",
+   "answer": "We should reduce packaging."
+  },
+  {
+   "id": "L5U02-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plastic is harmful to the environment.",
+   "answer": "Plastic is harmful to the environment."
+  },
+  {
+   "id": "L5U02-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Smoke is harmful to the environment.",
+   "answer": "Smoke is harmful to the environment."
+  },
+  {
+   "id": "L5U02-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Litter is harmful to the environment.",
+   "answer": "Litter is harmful to the environment."
+  },
+  {
+   "id": "L5U02-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What causes climate change?",
+   "answer": "Burning coal and oil makes the planet warmer."
+  },
+  {
+   "id": "L5U02-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What can we do?",
+   "answer": "If we use renewable energy, we will reduce pollution."
+  },
+  {
+   "id": "L5U02-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "footprint",
+   "options": [
+    "wallet",
+    "footprint",
+    "oil"
+   ],
+   "answer": "footprint"
+  },
+  {
+   "id": "L5U02-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Vietnam has a hot ___.",
+   "item": "climate",
+   "options": [
+    "climate",
+    "reduce",
+    "harmful"
+   ],
+   "answer": "climate"
+  },
+  {
+   "id": "L5U02-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Prices ___ every year.",
+   "item": "rise",
+   "options": [
+    "litter",
+    "fuel",
+    "rise"
+   ],
+   "answer": "rise"
+  },
+  {
+   "id": "L5U02-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cars use ___ to move.",
+   "item": "fuel",
+   "options": [
+    "fuel",
+    "packaging",
+    "footprint"
+   ],
+   "answer": "fuel"
+  },
+  {
+   "id": "L5U02-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Burning ___ makes the air dirty.",
+   "item": "coal",
+   "options": [
+    "action",
+    "coal",
+    "harm"
+   ],
+   "answer": "coal"
+  },
+  {
+   "id": "L5U02-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sun and wind are ___ energy.",
+   "item": "renewable",
+   "options": [
+    "generation",
+    "renewable",
+    "bamboo"
+   ],
+   "answer": "renewable"
+  },
+  {
+   "id": "L5U02-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should ___ plastic waste.",
+   "item": "reduce",
+   "options": [
+    "reduce",
+    "amount",
+    "resource"
+   ],
+   "answer": "reduce"
+  },
+  {
+   "id": "L5U02-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please don't drop ___.",
+   "item": "litter",
+   "options": [
+    "generation",
+    "cause",
+    "litter"
+   ],
+   "answer": "litter"
+  },
+  {
+   "id": "L5U02-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A lot of rubbish goes to ___.",
+   "item": "landfill",
+   "options": [
+    "eco-friendly",
+    "landfill",
+    "chemical"
+   ],
+   "answer": "landfill"
+  },
+  {
+   "id": "L5U02-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We make ___ from fruit and vegetable waste.",
+   "item": "compost",
+   "options": [
+    "footprint",
+    "organic",
+    "compost"
+   ],
+   "answer": "compost"
+  },
+  {
+   "id": "L5U02-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum buys ___ vegetables.",
+   "item": "organic",
+   "options": [
+    "fuel",
+    "organic",
+    "increase"
+   ],
+   "answer": "organic"
+  },
+  {
+   "id": "L5U02-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Some ___ are bad for rivers.",
+   "item": "chemical",
+   "options": [
+    "causes",
+    "footprints",
+    "chemicals"
+   ],
+   "answer": "chemicals"
+  },
+  {
+   "id": "L5U02-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plastic is ___ to sea animals.",
+   "item": "harmful",
+   "options": [
+    "increase",
+    "generation",
+    "harmful"
+   ],
+   "answer": "harmful"
+  },
+  {
+   "id": "L5U02-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ the animals.",
+   "item": "harm",
+   "options": [
+    "bamboo",
+    "serious",
+    "harm"
+   ],
+   "answer": "harm"
+  },
+  {
+   "id": "L5U02-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Smoke from factories can be ___.",
+   "item": "toxic",
+   "options": [
+    "toxic",
+    "packaging",
+    "atmosphere"
+   ],
+   "answer": "toxic"
+  },
+  {
+   "id": "L5U02-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't use ___ cups.",
+   "item": "disposable",
+   "options": [
+    "amount",
+    "bamboo",
+    "disposable"
+   ],
+   "answer": "disposable"
+  },
+  {
+   "id": "L5U02-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This toy has too much ___.",
+   "item": "packaging",
+   "options": [
+    "resource",
+    "harm",
+    "packaging"
+   ],
+   "answer": "packaging"
+  },
+  {
+   "id": "L5U02-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Take a ___ bag to the market.",
+   "item": "reusable",
+   "options": [
+    "cause",
+    "natural",
+    "reusable"
+   ],
+   "answer": "reusable"
+  },
+  {
+   "id": "L5U02-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This straw is made of ___.",
+   "item": "bamboo",
+   "options": [
+    "action",
+    "bamboo",
+    "fuel"
+   ],
+   "answer": "bamboo"
+  },
+  {
+   "id": "L5U02-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Bikes are ___.",
+   "item": "eco-friendly",
+   "options": [
+    "serious",
+    "campaign",
+    "eco-friendly"
+   ],
+   "answer": "eco-friendly"
+  },
+  {
+   "id": "L5U02-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should protect ___ places.",
+   "item": "natural",
+   "options": [
+    "fuel",
+    "natural",
+    "serious"
+   ],
+   "answer": "natural"
+  },
+  {
+   "id": "L5U02-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Water is an important ___.",
+   "item": "resource",
+   "options": [
+    "resource",
+    "campaign",
+    "harmful"
+   ],
+   "answer": "resource"
+  },
+  {
+   "id": "L5U02-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We must protect the Earth for the next ___.",
+   "item": "generation",
+   "options": [
+    "action",
+    "generation",
+    "bamboo"
+   ],
+   "answer": "generation"
+  },
+  {
+   "id": "L5U02-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What is the ___ to this problem?",
+   "item": "solution",
+   "options": [
+    "generation",
+    "solution",
+    "litter"
+   ],
+   "answer": "solution"
+  },
+  {
+   "id": "L5U02-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cars ___ air pollution.",
+   "item": "cause",
+   "options": [
+    "cause",
+    "effect",
+    "generation"
+   ],
+   "answer": "cause"
+  },
+  {
+   "id": "L5U02-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Pollution has a bad ___ on animals.",
+   "item": "effect",
+   "options": [
+    "footprint",
+    "atmosphere",
+    "effect"
+   ],
+   "answer": "effect"
+  },
+  {
+   "id": "L5U02-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Pollution is a ___ problem.",
+   "item": "serious",
+   "options": [
+    "atmosphere",
+    "serious",
+    "resource"
+   ],
+   "answer": "serious"
+  },
+  {
+   "id": "L5U02-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We need to take ___ now.",
+   "item": "action",
+   "options": [
+    "carbon",
+    "atmosphere",
+    "action"
+   ],
+   "answer": "action"
+  },
+  {
+   "id": "L5U02-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our school has a ___ to save water.",
+   "item": "campaign",
+   "options": [
+    "campaign",
+    "organic",
+    "fuel"
+   ],
+   "answer": "campaign"
+  },
+  {
+   "id": "L5U02-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is melting.",
+   "item": "glacier",
+   "options": [
+    "toxic",
+    "glacier",
+    "generation"
+   ],
+   "answer": "glacier"
+  },
+  {
+   "id": "L5U02-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Trees take in ___ from the air.",
+   "item": "carbon",
+   "options": [
+    "replace",
+    "carbon",
+    "eco-friendly"
+   ],
+   "answer": "carbon"
+  },
+  {
+   "id": "L5U02-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are ___ in the sand.",
+   "item": "footprint",
+   "options": [
+    "reusables",
+    "actions",
+    "footprints"
+   ],
+   "answer": "footprints"
+  },
+  {
+   "id": "L5U02-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We use a large ___ of water.",
+   "item": "amount",
+   "options": [
+    "amount",
+    "chemical",
+    "increase"
+   ],
+   "answer": "amount"
+  },
+  {
+   "id": "L5U02-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The Earth's ___ protects us.",
+   "item": "atmosphere",
+   "options": [
+    "bamboo",
+    "coal",
+    "atmosphere"
+   ],
+   "answer": "atmosphere"
+  },
+  {
+   "id": "L5U02-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ plastic bags with cloth bags.",
+   "item": "replace",
+   "options": [
+    "Organic",
+    "Carbon",
+    "Replace"
+   ],
+   "answer": "Replace"
+  },
+  {
+   "id": "L5U02-Q136",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U02-R01",
+   "text_en": "Why is the coral turning white?",
+   "options": [
+    "There are too many fish.",
+    "The sea is getting warmer.",
+    "It is too dark."
+   ],
+   "answer": "The sea is getting warmer."
+  },
+  {
+   "id": "L5U02-Q137",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U02-R01",
+   "text_en": "What also harms the reefs?",
+   "options": [
+    "Plastic and chemicals.",
+    "Sand.",
+    "Sunlight."
+   ],
+   "answer": "Plastic and chemicals."
+  },
+  {
+   "id": "L5U02-Q138",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U02-R01",
+   "text_en": "What should we never do at the beach?",
+   "options": [
+    "Touch the coral or leave litter.",
+    "Swim in the sea.",
+    "Build sandcastles."
+   ],
+   "answer": "Touch the coral or leave litter."
+  },
+  {
+   "id": "L5U02-Q139",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "climate",
+   "item": "climate",
+   "answer": "climate"
+  },
+  {
+   "id": "L5U02-Q140",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rise",
+   "item": "rise",
+   "answer": "rise"
+  },
+  {
+   "id": "L5U02-Q141",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "fuel",
+   "item": "fuel",
+   "answer": "fuel"
+  },
+  {
+   "id": "L5U02-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "coal",
+   "item": "coal",
+   "answer": "coal"
+  },
+  {
+   "id": "L5U02-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "renewable",
+   "item": "renewable",
+   "answer": "renewable"
+  },
+  {
+   "id": "L5U02-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "reduce",
+   "item": "reduce",
+   "answer": "reduce"
+  },
+  {
+   "id": "L5U02-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "litter",
+   "item": "litter",
+   "answer": "litter"
+  },
+  {
+   "id": "L5U02-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "landfill",
+   "item": "landfill",
+   "answer": "landfill"
+  },
+  {
+   "id": "L5U02-Q147",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Vietnam has a hot climate.",
+   "answer": "Vietnam has a hot climate."
+  },
+  {
+   "id": "L5U02-Q148",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Climate change is a big problem.",
+   "answer": "Climate change is a big problem."
+  },
+  {
+   "id": "L5U02-Q149",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Global warming makes the ice melt.",
+   "answer": "Global warming makes the ice melt."
+  }
+ ]
+}

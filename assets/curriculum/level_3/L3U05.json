@@ -1,0 +1,2826 @@
+{
+ "id": "L3U05",
+ "level": 3,
+ "unit": 5,
+ "topic_en": "Once upon a time",
+ "topic_vi": "Ngày xửa ngày xưa",
+ "can_do_vi": [
+  "Kể một câu chuyện ngắn theo thứ tự: first, then, after that, finally",
+  "Nghe hiểu và kể lại truyện cổ tích ngắn"
+ ],
+ "grammar_note_vi": "Kể chuyện theo thứ tự dùng: First (Đầu tiên), Then (Rồi), After that (Sau đó), Finally (Cuối cùng). Truyện cổ tích hay mở đầu bằng \"Once upon a time...\" (Ngày xửa ngày xưa...).",
+ "items": [
+  {
+   "id": "L3U05-W01",
+   "type": "word",
+   "en": "story",
+   "vi": "câu chuyện",
+   "ipa": "/ˈstɔri/",
+   "syllables": [
+    "sto",
+    "ry"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "Grandma tells me a story every night.",
+   "example_vi": "Tối nào bà cũng kể chuyện cho tớ.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W02",
+   "type": "phrase",
+   "en": "once upon a time",
+   "vi": "ngày xửa ngày xưa",
+   "ipa": "/wʌns əˈpɑn ə taɪm/",
+   "syllables": [
+    "once",
+    "up",
+    "on",
+    "a",
+    "time"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "Once upon a time, there was a little dragon.",
+   "example_vi": "Ngày xửa ngày xưa, có một chú rồng nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W03",
+   "type": "word",
+   "en": "king",
+   "vi": "nhà vua",
+   "ipa": "/kɪŋ/",
+   "syllables": [
+    "king"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F451"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The king lives in a big castle.",
+   "example_vi": "Nhà vua sống trong một lâu đài lớn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W04",
+   "type": "word",
+   "en": "prince",
+   "vi": "hoàng tử",
+   "ipa": "/prɪns/",
+   "syllables": [
+    "prince"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F934"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The prince has a white horse.",
+   "example_vi": "Hoàng tử có một con ngựa trắng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W05",
+   "type": "word",
+   "en": "princess",
+   "vi": "công chúa",
+   "ipa": "/ˈprɪnsɛs/",
+   "syllables": [
+    "princess"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F478"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The princess can climb trees.",
+   "example_vi": "Công chúa biết trèo cây.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W06",
+   "type": "word",
+   "en": "castle",
+   "vi": "lâu đài",
+   "ipa": "/ˈkæsəl/",
+   "syllables": [
+    "cas",
+    "tle"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3F0"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "Let's build a sand castle!",
+   "example_vi": "Mình xây lâu đài cát nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W07",
+   "type": "word",
+   "en": "tower",
+   "vi": "toà tháp",
+   "ipa": "/taʊʌr/",
+   "syllables": [
+    "tower"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5FC"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The princess is in the tower.",
+   "example_vi": "Công chúa ở trong toà tháp.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W08",
+   "type": "word",
+   "en": "dragon",
+   "vi": "con rồng",
+   "ipa": "/ˈdræɡən/",
+   "syllables": [
+    "drag",
+    "on"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F409"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The dragon is green and friendly.",
+   "example_vi": "Chú rồng màu xanh và thân thiện.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W09",
+   "type": "word",
+   "en": "giant",
+   "vi": "người khổng lồ",
+   "ipa": "/dʒaɪʌnt/",
+   "syllables": [
+    "giant"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The giant has very big feet.",
+   "example_vi": "Người khổng lồ có bàn chân rất to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W10",
+   "type": "word",
+   "en": "fairy",
+   "vi": "nàng tiên",
+   "ipa": "/ˈfɛri/",
+   "syllables": [
+    "fairy"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9DA"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The fairy has small wings.",
+   "example_vi": "Nàng tiên có đôi cánh nhỏ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W11",
+   "type": "word",
+   "en": "wizard",
+   "vi": "ông phù thuỷ",
+   "ipa": "/ˈwɪzərd/",
+   "syllables": [
+    "wiz",
+    "ard"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9D9"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The wizard has a tall hat.",
+   "example_vi": "Ông phù thuỷ đội chiếc mũ cao.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W12",
+   "type": "word",
+   "en": "unicorn",
+   "vi": "kỳ lân",
+   "ipa": "/ˈjunɪˌkɔrn/",
+   "syllables": [
+    "unicorn"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F984"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The unicorn is white with a pink tail.",
+   "example_vi": "Con kỳ lân màu trắng, đuôi hồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W13",
+   "type": "word",
+   "en": "magic",
+   "vi": "phép thuật",
+   "ipa": "/ˈmædʒɪk/",
+   "syllables": [
+    "mag",
+    "ic"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The fairy can do magic.",
+   "example_vi": "Nàng tiên biết làm phép.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W14",
+   "type": "word",
+   "en": "crown",
+   "vi": "vương miện",
+   "ipa": "/kraʊn/",
+   "syllables": [
+    "crown"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F451"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The king wears a gold crown.",
+   "example_vi": "Nhà vua đội vương miện vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W15",
+   "type": "word",
+   "en": "treasure",
+   "vi": "kho báu",
+   "ipa": "/ˈtrɛʒər/",
+   "syllables": [
+    "trea",
+    "sure"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4B0"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The map shows the treasure.",
+   "example_vi": "Tấm bản đồ chỉ chỗ kho báu.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W16",
+   "type": "word",
+   "en": "gold",
+   "vi": "vàng",
+   "ipa": "/ɡoʊld/",
+   "syllables": [
+    "gold"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F7E1"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The box is full of gold.",
+   "example_vi": "Cái hộp đầy vàng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W17",
+   "type": "word",
+   "en": "silver",
+   "vi": "bạc",
+   "ipa": "/ˈsɪlvər/",
+   "syllables": [
+    "sil",
+    "ver"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F948"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "She has a silver ring.",
+   "example_vi": "Cô ấy có chiếc nhẫn bạc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W18",
+   "type": "word",
+   "en": "poor",
+   "vi": "nghèo",
+   "ipa": "/pur/",
+   "syllables": [
+    "poor"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F97A"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The poor man has no money.",
+   "example_vi": "Người đàn ông nghèo không có tiền.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W19",
+   "type": "word",
+   "en": "rich",
+   "vi": "giàu",
+   "ipa": "/rɪtʃ/",
+   "syllables": [
+    "rich"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The rich king has a lot of gold.",
+   "example_vi": "Ông vua giàu có rất nhiều vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W20",
+   "type": "word",
+   "en": "lucky",
+   "vi": "may mắn",
+   "ipa": "/ˈlʌki/",
+   "syllables": [
+    "lucky"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F340"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "I found a coin. I'm lucky!",
+   "example_vi": "Tớ nhặt được đồng xu. Tớ may mắn quá!",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W21",
+   "type": "word",
+   "en": "strange",
+   "vi": "lạ",
+   "ipa": "/streɪndʒ/",
+   "syllables": [
+    "strange"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F300"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "What a strange animal!",
+   "example_vi": "Con vật lạ quá!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W22",
+   "type": "word",
+   "en": "noise",
+   "vi": "tiếng động",
+   "ipa": "/nɔɪz/",
+   "syllables": [
+    "noise"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F50A"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "I heard a noise in the kitchen.",
+   "example_vi": "Tớ nghe thấy tiếng động trong bếp.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W23",
+   "type": "word",
+   "en": "suddenly",
+   "vi": "bỗng nhiên",
+   "ipa": "/ˈsʌdənli/",
+   "syllables": [
+    "sud",
+    "den",
+    "ly"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "Suddenly, it began to rain.",
+   "example_vi": "Bỗng nhiên trời đổ mưa.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W24",
+   "type": "word",
+   "en": "finally",
+   "vi": "cuối cùng",
+   "ipa": "/ˈfaɪnəli/",
+   "syllables": [
+    "fi",
+    "nal",
+    "ly"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3C1"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "Finally, they found the treasure.",
+   "example_vi": "Cuối cùng, họ đã tìm thấy kho báu.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W25",
+   "type": "phrase",
+   "en": "after that",
+   "vi": "sau đó",
+   "ipa": "/ˈæftər ðʌt/",
+   "syllables": [
+    "af",
+    "ter",
+    "that"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23ED-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "After that, we had lunch.",
+   "example_vi": "Sau đó, bọn tớ ăn trưa.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W26",
+   "type": "phrase",
+   "en": "the end",
+   "vi": "hết (truyện)",
+   "ipa": "/ðə ɛnd/",
+   "syllables": [
+    "the",
+    "end"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F51A"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "And they were friends. The end!",
+   "example_vi": "Và họ trở thành bạn. Hết!",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W27",
+   "type": "word",
+   "en": "save",
+   "vi": "cứu",
+   "ipa": "/seɪv/",
+   "syllables": [
+    "save"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The hero saves the town.",
+   "example_vi": "Người anh hùng cứu thị trấn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W28",
+   "type": "word",
+   "en": "escape",
+   "vi": "trốn thoát",
+   "ipa": "/ɪˈskeɪp/",
+   "syllables": [
+    "es",
+    "cape"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The bird escaped from the cage.",
+   "example_vi": "Con chim trốn khỏi lồng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W29",
+   "type": "phrase",
+   "en": "happily ever after",
+   "vi": "hạnh phúc mãi mãi",
+   "ipa": "/ˈhæpəli ˈɛvər ˈæftər/",
+   "syllables": [
+    "hap",
+    "pi",
+    "ly",
+    "ev",
+    "er",
+    "af",
+    "ter"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F496"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "They lived happily ever after.",
+   "example_vi": "Họ sống hạnh phúc mãi mãi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W30",
+   "type": "word",
+   "en": "hero",
+   "vi": "người anh hùng",
+   "ipa": "/ˈhɪroʊ/",
+   "syllables": [
+    "hero"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "You are my hero!",
+   "example_vi": "Cậu là người hùng của tớ!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W31",
+   "type": "word",
+   "en": "wand",
+   "vi": "đũa phép",
+   "ipa": "/wɑnd/",
+   "syllables": [
+    "wand"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FA84"
+   },
+   "picturable": true,
+   "cat": "L3U05",
+   "example_en": "The fairy waves her wand.",
+   "example_vi": "Nàng tiên vẫy đũa phép.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W32",
+   "type": "word",
+   "en": "bad",
+   "vi": "xấu, tệ",
+   "ipa": "/bæd/",
+   "syllables": [
+    "bad"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F44E"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "It's a bad idea.",
+   "example_vi": "Đó là ý không hay.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U05-W33",
+   "type": "word",
+   "en": "scary",
+   "vi": "đáng sợ",
+   "ipa": "/ˈskɛri/",
+   "syllables": [
+    "scary"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F631"
+   },
+   "picturable": false,
+   "cat": "L3U05",
+   "example_en": "The giant is not scary. He is kind.",
+   "example_vi": "Người khổng lồ không đáng sợ. Ông ấy tốt bụng.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U05-P01",
+   "en": "Once upon a time, there was a {x}.",
+   "vi": "Ngày xửa ngày xưa, có một {x}.",
+   "slots": {
+    "x": [
+     "king",
+     "dragon",
+     "giant",
+     "princess"
+    ]
+   }
+  },
+  {
+   "id": "L3U05-P02",
+   "en": "Suddenly, the {x} saw a dragon.",
+   "vi": "Bỗng nhiên, {x} nhìn thấy một con rồng.",
+   "slots": {
+    "x": [
+     "prince",
+     "princess",
+     "wizard",
+     "fairy"
+    ]
+   }
+  },
+  {
+   "id": "L3U05-P03",
+   "en": "{x}, the hero found the map.",
+   "vi": "{x}, người anh hùng tìm thấy tấm bản đồ.",
+   "slots": {
+    "x": [
+     "First",
+     "Then",
+     "After that",
+     "Finally"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U05-D01",
+   "title_vi": "Kể chuyện cùng Bi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's tell a story! You start.",
+     "vi": "Mình cùng kể chuyện nhé! Cậu bắt đầu đi."
+    },
+    {
+     "role": "Kid",
+     "en": "Once upon a time, there was a little dragon.",
+     "vi": "Ngày xửa ngày xưa, có một chú rồng nhỏ."
+    },
+    {
+     "role": "Bi",
+     "en": "Was it scary?",
+     "vi": "Nó có đáng sợ không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No! It was friendly and it liked apples.",
+     "vi": "Không! Nó thân thiện và thích ăn táo."
+    },
+    {
+     "role": "Bi",
+     "en": "Then what happened?",
+     "vi": "Rồi chuyện gì xảy ra?"
+    },
+    {
+     "role": "Kid",
+     "en": "It found a magic apple tree. The end!",
+     "vi": "Nó tìm thấy một cây táo thần. Hết!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "dragon",
+    "options": [
+     "giant",
+     "unicorn"
+    ]
+   }
+  },
+  {
+   "id": "L3U05-D02",
+   "title_vi": "Tìm kho báu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Look! I found an old map.",
+     "vi": "Nhìn này! Tớ tìm thấy một tấm bản đồ cũ."
+    },
+    {
+     "role": "Bi",
+     "en": "Is it a treasure map?",
+     "vi": "Có phải bản đồ kho báu không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! The treasure is in the cave.",
+     "vi": "Đúng! Kho báu ở trong hang."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's go! Take a torch.",
+     "vi": "Đi thôi! Mang đèn pin nhé."
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "treasure",
+    "options": [
+     "crown",
+     "gold"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "story"
+  },
+  {
+   "type": "dictate_word",
+   "target": "king"
+  },
+  {
+   "type": "dictate_word",
+   "target": "prince"
+  },
+  {
+   "type": "dictate_word",
+   "target": "princess"
+  },
+  {
+   "type": "dictate_word",
+   "target": "castle"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tower"
+  },
+  {
+   "type": "dictate_word",
+   "target": "dragon"
+  },
+  {
+   "type": "dictate_word",
+   "target": "giant"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Grandma tells me a story every night."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The king lives in a big castle."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The prince has a white horse."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Once upon a time|Suddenly|Finally"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U05-R01",
+   "title_en": "The kind giant",
+   "text_en": [
+    "Once upon a time, there was a poor girl called Hoa.",
+    "She lived near a big forest.",
+    "One day, she heard a strange noise.",
+    "It was a giant!",
+    "He was crying.",
+    "Hoa was afraid, but she was brave.",
+    "She asked him what was wrong.",
+    "He said that he lost his little dog.",
+    "Hoa looked everywhere.",
+    "Finally, she found the dog under a tree.",
+    "The giant was very happy.",
+    "He gave Hoa a bag of gold.",
+    "After that, they were best friends, and they lived happily ever after."
+   ],
+   "questions": [
+    {
+     "q": "Why was the giant crying?",
+     "options": [
+      "He lost his dog.",
+      "He was hungry.",
+      "He was lonely."
+     ],
+     "answer": "He lost his dog."
+    },
+    {
+     "q": "Where did Hoa find the dog?",
+     "options": [
+      "Under a tree.",
+      "In a cave.",
+      "In the castle."
+     ],
+     "answer": "Under a tree."
+    },
+    {
+     "q": "What did the giant give Hoa?",
+     "options": [
+      "A bag of gold.",
+      "A crown.",
+      "A magic wand."
+     ],
+     "answer": "A bag of gold."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "prince",
+   "item": "prince",
+   "options": [
+    "dragon",
+    "crown",
+    "prince",
+    "unicorn"
+   ],
+   "answer": "prince"
+  },
+  {
+   "id": "L3U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "castle",
+   "item": "castle",
+   "options": [
+    "castle",
+    "dragon",
+    "wand",
+    "fairy"
+   ],
+   "answer": "castle"
+  },
+  {
+   "id": "L3U05-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dragon",
+   "item": "dragon",
+   "options": [
+    "hero",
+    "unicorn",
+    "dragon",
+    "prince"
+   ],
+   "answer": "dragon"
+  },
+  {
+   "id": "L3U05-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fairy",
+   "item": "fairy",
+   "options": [
+    "treasure",
+    "lucky",
+    "hero",
+    "fairy"
+   ],
+   "answer": "fairy"
+  },
+  {
+   "id": "L3U05-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wizard",
+   "item": "wizard",
+   "options": [
+    "wizard",
+    "unicorn",
+    "treasure",
+    "dragon"
+   ],
+   "answer": "wizard"
+  },
+  {
+   "id": "L3U05-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "unicorn",
+   "item": "unicorn",
+   "options": [
+    "dragon",
+    "wand",
+    "castle",
+    "unicorn"
+   ],
+   "answer": "unicorn"
+  },
+  {
+   "id": "L3U05-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "crown",
+   "item": "crown",
+   "options": [
+    "wizard",
+    "crown",
+    "wand",
+    "castle"
+   ],
+   "answer": "crown"
+  },
+  {
+   "id": "L3U05-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "treasure",
+   "item": "treasure",
+   "options": [
+    "crown",
+    "treasure",
+    "castle",
+    "wizard"
+   ],
+   "answer": "treasure"
+  },
+  {
+   "id": "L3U05-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lucky",
+   "item": "lucky",
+   "options": [
+    "hero",
+    "castle",
+    "prince",
+    "lucky"
+   ],
+   "answer": "lucky"
+  },
+  {
+   "id": "L3U05-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hero",
+   "item": "hero",
+   "options": [
+    "prince",
+    "castle",
+    "hero",
+    "wizard"
+   ],
+   "answer": "hero"
+  },
+  {
+   "id": "L3U05-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wand",
+   "item": "wand",
+   "options": [
+    "crown",
+    "fairy",
+    "dragon",
+    "wand"
+   ],
+   "answer": "wand"
+  },
+  {
+   "id": "L3U05-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "story",
+   "item": "story",
+   "options": [
+    "lucky",
+    "rich",
+    "story",
+    "magic"
+   ],
+   "answer": "story"
+  },
+  {
+   "id": "L3U05-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "once upon a time",
+   "item": "once upon a time",
+   "options": [
+    "bad",
+    "giant",
+    "once upon a time",
+    "fairy"
+   ],
+   "answer": "once upon a time"
+  },
+  {
+   "id": "L3U05-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "king",
+   "item": "king",
+   "options": [
+    "rich",
+    "king",
+    "fairy",
+    "noise"
+   ],
+   "answer": "king"
+  },
+  {
+   "id": "L3U05-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "princess",
+   "item": "princess",
+   "options": [
+    "gold",
+    "princess",
+    "wizard",
+    "castle"
+   ],
+   "answer": "princess"
+  },
+  {
+   "id": "L3U05-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tower",
+   "item": "tower",
+   "options": [
+    "prince",
+    "tower",
+    "save",
+    "lucky"
+   ],
+   "answer": "tower"
+  },
+  {
+   "id": "L3U05-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "giant",
+   "item": "giant",
+   "options": [
+    "giant",
+    "scary",
+    "treasure",
+    "princess"
+   ],
+   "answer": "giant"
+  },
+  {
+   "id": "L3U05-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "magic",
+   "item": "magic",
+   "options": [
+    "king",
+    "suddenly",
+    "gold",
+    "magic"
+   ],
+   "answer": "magic"
+  },
+  {
+   "id": "L3U05-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gold",
+   "item": "gold",
+   "options": [
+    "magic",
+    "gold",
+    "the end",
+    "fairy"
+   ],
+   "answer": "gold"
+  },
+  {
+   "id": "L3U05-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "silver",
+   "item": "silver",
+   "options": [
+    "escape",
+    "silver",
+    "once upon a time",
+    "strange"
+   ],
+   "answer": "silver"
+  },
+  {
+   "id": "L3U05-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "poor",
+   "item": "poor",
+   "options": [
+    "poor",
+    "escape",
+    "the end",
+    "dragon"
+   ],
+   "answer": "poor"
+  },
+  {
+   "id": "L3U05-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rich",
+   "item": "rich",
+   "options": [
+    "giant",
+    "gold",
+    "rich",
+    "escape"
+   ],
+   "answer": "rich"
+  },
+  {
+   "id": "L3U05-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "strange",
+   "item": "strange",
+   "options": [
+    "finally",
+    "strange",
+    "gold",
+    "tower"
+   ],
+   "answer": "strange"
+  },
+  {
+   "id": "L3U05-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "noise",
+   "item": "noise",
+   "options": [
+    "noise",
+    "king",
+    "magic",
+    "prince"
+   ],
+   "answer": "noise"
+  },
+  {
+   "id": "L3U05-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "suddenly",
+   "item": "suddenly",
+   "options": [
+    "dragon",
+    "escape",
+    "suddenly",
+    "prince"
+   ],
+   "answer": "suddenly"
+  },
+  {
+   "id": "L3U05-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "finally",
+   "item": "finally",
+   "options": [
+    "castle",
+    "finally",
+    "story",
+    "princess"
+   ],
+   "answer": "finally"
+  },
+  {
+   "id": "L3U05-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "after that",
+   "item": "after that",
+   "options": [
+    "dragon",
+    "after that",
+    "princess",
+    "the end"
+   ],
+   "answer": "after that"
+  },
+  {
+   "id": "L3U05-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "the end",
+   "item": "the end",
+   "options": [
+    "once upon a time",
+    "dragon",
+    "wand",
+    "the end"
+   ],
+   "answer": "the end"
+  },
+  {
+   "id": "L3U05-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "save",
+   "item": "save",
+   "options": [
+    "save",
+    "wand",
+    "treasure",
+    "gold"
+   ],
+   "answer": "save"
+  },
+  {
+   "id": "L3U05-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "escape",
+   "item": "escape",
+   "options": [
+    "unicorn",
+    "king",
+    "escape",
+    "suddenly"
+   ],
+   "answer": "escape"
+  },
+  {
+   "id": "L3U05-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "happily ever after",
+   "item": "happily ever after",
+   "options": [
+    "king",
+    "crown",
+    "silver",
+    "happily ever after"
+   ],
+   "answer": "happily ever after"
+  },
+  {
+   "id": "L3U05-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bad",
+   "item": "bad",
+   "options": [
+    "king",
+    "bad",
+    "rich",
+    "wand"
+   ],
+   "answer": "bad"
+  },
+  {
+   "id": "L3U05-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "scary",
+   "item": "scary",
+   "options": [
+    "scary",
+    "king",
+    "castle",
+    "hero"
+   ],
+   "answer": "scary"
+  },
+  {
+   "id": "L3U05-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "prince",
+   "answer": "prince"
+  },
+  {
+   "id": "L3U05-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "castle",
+   "answer": "castle"
+  },
+  {
+   "id": "L3U05-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dragon",
+   "answer": "dragon"
+  },
+  {
+   "id": "L3U05-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fairy",
+   "answer": "fairy"
+  },
+  {
+   "id": "L3U05-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wizard",
+   "answer": "wizard"
+  },
+  {
+   "id": "L3U05-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "unicorn",
+   "answer": "unicorn"
+  },
+  {
+   "id": "L3U05-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "crown",
+   "answer": "crown"
+  },
+  {
+   "id": "L3U05-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "treasure",
+   "answer": "treasure"
+  },
+  {
+   "id": "L3U05-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lucky",
+   "answer": "lucky"
+  },
+  {
+   "id": "L3U05-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hero",
+   "answer": "hero"
+  },
+  {
+   "id": "L3U05-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wand",
+   "answer": "wand"
+  },
+  {
+   "id": "L3U05-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma tells me a story every night.",
+   "item": "story",
+   "answer": "Grandma tells me a story every night."
+  },
+  {
+   "id": "L3U05-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Once upon a time, there was a little dragon.",
+   "item": "once upon a time",
+   "answer": "Once upon a time, there was a little dragon."
+  },
+  {
+   "id": "L3U05-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king lives in a big castle.",
+   "item": "king",
+   "answer": "The king lives in a big castle."
+  },
+  {
+   "id": "L3U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The prince has a white horse.",
+   "item": "prince",
+   "answer": "The prince has a white horse."
+  },
+  {
+   "id": "L3U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The princess can climb trees.",
+   "item": "princess",
+   "answer": "The princess can climb trees."
+  },
+  {
+   "id": "L3U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's build a sand castle!",
+   "item": "castle",
+   "answer": "Let's build a sand castle!"
+  },
+  {
+   "id": "L3U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The princess is in the tower.",
+   "item": "tower",
+   "answer": "The princess is in the tower."
+  },
+  {
+   "id": "L3U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dragon is green and friendly.",
+   "item": "dragon",
+   "answer": "The dragon is green and friendly."
+  },
+  {
+   "id": "L3U05-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The giant has very big feet.",
+   "item": "giant",
+   "answer": "The giant has very big feet."
+  },
+  {
+   "id": "L3U05-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fairy has small wings.",
+   "item": "fairy",
+   "answer": "The fairy has small wings."
+  },
+  {
+   "id": "L3U05-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The wizard has a tall hat.",
+   "item": "wizard",
+   "answer": "The wizard has a tall hat."
+  },
+  {
+   "id": "L3U05-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The unicorn is white with a pink tail.",
+   "item": "unicorn",
+   "answer": "The unicorn is white with a pink tail."
+  },
+  {
+   "id": "L3U05-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fairy can do magic.",
+   "item": "magic",
+   "answer": "The fairy can do magic."
+  },
+  {
+   "id": "L3U05-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king wears a gold crown.",
+   "item": "crown",
+   "answer": "The king wears a gold crown."
+  },
+  {
+   "id": "L3U05-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The map shows the treasure.",
+   "item": "treasure",
+   "answer": "The map shows the treasure."
+  },
+  {
+   "id": "L3U05-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The box is full of gold.",
+   "item": "gold",
+   "answer": "The box is full of gold."
+  },
+  {
+   "id": "L3U05-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has a silver ring.",
+   "item": "silver",
+   "answer": "She has a silver ring."
+  },
+  {
+   "id": "L3U05-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The poor man has no money.",
+   "item": "poor",
+   "answer": "The poor man has no money."
+  },
+  {
+   "id": "L3U05-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rich king has a lot of gold.",
+   "item": "rich",
+   "answer": "The rich king has a lot of gold."
+  },
+  {
+   "id": "L3U05-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I found a coin. I'm lucky!",
+   "item": "lucky",
+   "answer": "I found a coin. I'm lucky!"
+  },
+  {
+   "id": "L3U05-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What a strange animal!",
+   "item": "strange",
+   "answer": "What a strange animal!"
+  },
+  {
+   "id": "L3U05-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I heard a noise in the kitchen.",
+   "item": "noise",
+   "answer": "I heard a noise in the kitchen."
+  },
+  {
+   "id": "L3U05-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Suddenly, it began to rain.",
+   "item": "suddenly",
+   "answer": "Suddenly, it began to rain."
+  },
+  {
+   "id": "L3U05-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Finally, they found the treasure.",
+   "item": "finally",
+   "answer": "Finally, they found the treasure."
+  },
+  {
+   "id": "L3U05-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "After that, we had lunch.",
+   "item": "after that",
+   "answer": "After that, we had lunch."
+  },
+  {
+   "id": "L3U05-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "And they were friends. The end!",
+   "item": "the end",
+   "answer": "And they were friends. The end!"
+  },
+  {
+   "id": "L3U05-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hero saves the town.",
+   "item": "save",
+   "answer": "The hero saves the town."
+  },
+  {
+   "id": "L3U05-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird escaped from the cage.",
+   "item": "escape",
+   "answer": "The bird escaped from the cage."
+  },
+  {
+   "id": "L3U05-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They lived happily ever after.",
+   "item": "happily ever after",
+   "answer": "They lived happily ever after."
+  },
+  {
+   "id": "L3U05-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You are my hero!",
+   "item": "hero",
+   "answer": "You are my hero!"
+  },
+  {
+   "id": "L3U05-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fairy waves her wand.",
+   "item": "wand",
+   "answer": "The fairy waves her wand."
+  },
+  {
+   "id": "L3U05-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a bad idea.",
+   "item": "bad",
+   "answer": "It's a bad idea."
+  },
+  {
+   "id": "L3U05-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The giant is not scary. He is kind.",
+   "item": "scary",
+   "answer": "The giant is not scary. He is kind."
+  },
+  {
+   "id": "L3U05-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Once upon a time, there was a king.",
+   "answer": "Once upon a time, there was a king."
+  },
+  {
+   "id": "L3U05-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Once upon a time, there was a dragon.",
+   "answer": "Once upon a time, there was a dragon."
+  },
+  {
+   "id": "L3U05-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Once upon a time, there was a giant.",
+   "answer": "Once upon a time, there was a giant."
+  },
+  {
+   "id": "L3U05-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Suddenly, the prince saw a dragon.",
+   "answer": "Suddenly, the prince saw a dragon."
+  },
+  {
+   "id": "L3U05-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Suddenly, the princess saw a dragon.",
+   "answer": "Suddenly, the princess saw a dragon."
+  },
+  {
+   "id": "L3U05-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Suddenly, the wizard saw a dragon.",
+   "answer": "Suddenly, the wizard saw a dragon."
+  },
+  {
+   "id": "L3U05-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, the hero found the map.",
+   "answer": "First, the hero found the map."
+  },
+  {
+   "id": "L3U05-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Then, the hero found the map.",
+   "answer": "Then, the hero found the map."
+  },
+  {
+   "id": "L3U05-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "After that, the hero found the map.",
+   "answer": "After that, the hero found the map."
+  },
+  {
+   "id": "L3U05-Q087",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Was it scary?",
+   "answer": "No! It was friendly and it liked apples."
+  },
+  {
+   "id": "L3U05-Q088",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Then what happened?",
+   "answer": "It found a magic apple tree. The end!"
+  },
+  {
+   "id": "L3U05-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it a treasure map?",
+   "answer": "Yes! The treasure is in the cave."
+  },
+  {
+   "id": "L3U05-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "prince",
+   "options": [
+    "hero",
+    "crown",
+    "prince"
+   ],
+   "answer": "prince"
+  },
+  {
+   "id": "L3U05-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "castle",
+   "options": [
+    "treasure",
+    "dragon",
+    "castle"
+   ],
+   "answer": "castle"
+  },
+  {
+   "id": "L3U05-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dragon",
+   "options": [
+    "wand",
+    "treasure",
+    "dragon"
+   ],
+   "answer": "dragon"
+  },
+  {
+   "id": "L3U05-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fairy",
+   "options": [
+    "wizard",
+    "treasure",
+    "fairy"
+   ],
+   "answer": "fairy"
+  },
+  {
+   "id": "L3U05-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wizard",
+   "options": [
+    "unicorn",
+    "wizard",
+    "crown"
+   ],
+   "answer": "wizard"
+  },
+  {
+   "id": "L3U05-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "unicorn",
+   "options": [
+    "wizard",
+    "unicorn",
+    "castle"
+   ],
+   "answer": "unicorn"
+  },
+  {
+   "id": "L3U05-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "crown",
+   "options": [
+    "fairy",
+    "crown",
+    "unicorn"
+   ],
+   "answer": "crown"
+  },
+  {
+   "id": "L3U05-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "treasure",
+   "options": [
+    "treasure",
+    "wizard",
+    "unicorn"
+   ],
+   "answer": "treasure"
+  },
+  {
+   "id": "L3U05-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lucky",
+   "options": [
+    "fairy",
+    "dragon",
+    "lucky"
+   ],
+   "answer": "lucky"
+  },
+  {
+   "id": "L3U05-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hero",
+   "options": [
+    "fairy",
+    "wand",
+    "hero"
+   ],
+   "answer": "hero"
+  },
+  {
+   "id": "L3U05-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wand",
+   "options": [
+    "castle",
+    "fairy",
+    "wand"
+   ],
+   "answer": "wand"
+  },
+  {
+   "id": "L3U05-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma tells me a ___ every night.",
+   "item": "story",
+   "options": [
+    "story",
+    "castle",
+    "crown"
+   ],
+   "answer": "story"
+  },
+  {
+   "id": "L3U05-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ lives in a big castle.",
+   "item": "king",
+   "options": [
+    "king",
+    "finally",
+    "lucky"
+   ],
+   "answer": "king"
+  },
+  {
+   "id": "L3U05-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has a white horse.",
+   "item": "prince",
+   "options": [
+    "prince",
+    "scary",
+    "save"
+   ],
+   "answer": "prince"
+  },
+  {
+   "id": "L3U05-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ can climb trees.",
+   "item": "princess",
+   "options": [
+    "crown",
+    "castle",
+    "princess"
+   ],
+   "answer": "princess"
+  },
+  {
+   "id": "L3U05-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's build a sand ___!",
+   "item": "castle",
+   "options": [
+    "castle",
+    "story",
+    "silver"
+   ],
+   "answer": "castle"
+  },
+  {
+   "id": "L3U05-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The princess is in the ___.",
+   "item": "tower",
+   "options": [
+    "tower",
+    "lucky",
+    "suddenly"
+   ],
+   "answer": "tower"
+  },
+  {
+   "id": "L3U05-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is green and friendly.",
+   "item": "dragon",
+   "options": [
+    "dragon",
+    "save",
+    "magic"
+   ],
+   "answer": "dragon"
+  },
+  {
+   "id": "L3U05-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has very big feet.",
+   "item": "giant",
+   "options": [
+    "escape",
+    "giant",
+    "suddenly"
+   ],
+   "answer": "giant"
+  },
+  {
+   "id": "L3U05-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has small wings.",
+   "item": "fairy",
+   "options": [
+    "lucky",
+    "suddenly",
+    "fairy"
+   ],
+   "answer": "fairy"
+  },
+  {
+   "id": "L3U05-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has a tall hat.",
+   "item": "wizard",
+   "options": [
+    "wizard",
+    "suddenly",
+    "save"
+   ],
+   "answer": "wizard"
+  },
+  {
+   "id": "L3U05-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is white with a pink tail.",
+   "item": "unicorn",
+   "options": [
+    "finally",
+    "crown",
+    "unicorn"
+   ],
+   "answer": "unicorn"
+  },
+  {
+   "id": "L3U05-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The fairy can do ___.",
+   "item": "magic",
+   "options": [
+    "suddenly",
+    "save",
+    "magic"
+   ],
+   "answer": "magic"
+  },
+  {
+   "id": "L3U05-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The king wears a gold ___.",
+   "item": "crown",
+   "options": [
+    "crown",
+    "dragon",
+    "finally"
+   ],
+   "answer": "crown"
+  },
+  {
+   "id": "L3U05-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The map shows the ___.",
+   "item": "treasure",
+   "options": [
+    "save",
+    "treasure",
+    "crown"
+   ],
+   "answer": "treasure"
+  },
+  {
+   "id": "L3U05-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The box is full of ___.",
+   "item": "gold",
+   "options": [
+    "lucky",
+    "gold",
+    "finally"
+   ],
+   "answer": "gold"
+  },
+  {
+   "id": "L3U05-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has a ___ ring.",
+   "item": "silver",
+   "options": [
+    "silver",
+    "crown",
+    "magic"
+   ],
+   "answer": "silver"
+  },
+  {
+   "id": "L3U05-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ man has no money.",
+   "item": "poor",
+   "options": [
+    "poor",
+    "castle",
+    "suddenly"
+   ],
+   "answer": "poor"
+  },
+  {
+   "id": "L3U05-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ king has a lot of gold.",
+   "item": "rich",
+   "options": [
+    "rich",
+    "suddenly",
+    "escape"
+   ],
+   "answer": "rich"
+  },
+  {
+   "id": "L3U05-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I found a coin. I'm ___!",
+   "item": "lucky",
+   "options": [
+    "wand",
+    "lucky",
+    "silver"
+   ],
+   "answer": "lucky"
+  },
+  {
+   "id": "L3U05-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What a ___ animal!",
+   "item": "strange",
+   "options": [
+    "strange",
+    "escape",
+    "suddenly"
+   ],
+   "answer": "strange"
+  },
+  {
+   "id": "L3U05-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I heard a ___ in the kitchen.",
+   "item": "noise",
+   "options": [
+    "suddenly",
+    "noise",
+    "magic"
+   ],
+   "answer": "noise"
+  },
+  {
+   "id": "L3U05-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, it began to rain.",
+   "item": "suddenly",
+   "options": [
+    "Tower",
+    "Lucky",
+    "Suddenly"
+   ],
+   "answer": "Suddenly"
+  },
+  {
+   "id": "L3U05-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, they found the treasure.",
+   "item": "finally",
+   "options": [
+    "Finally",
+    "Unicorn",
+    "Bad"
+   ],
+   "answer": "Finally"
+  },
+  {
+   "id": "L3U05-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The hero ___ the town.",
+   "item": "save",
+   "options": [
+    "saves",
+    "unicorns",
+    "dragons"
+   ],
+   "answer": "saves"
+  },
+  {
+   "id": "L3U05-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird ___ from the cage.",
+   "item": "escape",
+   "options": [
+    "escaped",
+    "stranged",
+    "golded"
+   ],
+   "answer": "escaped"
+  },
+  {
+   "id": "L3U05-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You are my ___!",
+   "item": "hero",
+   "options": [
+    "castle",
+    "hero",
+    "crown"
+   ],
+   "answer": "hero"
+  },
+  {
+   "id": "L3U05-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The fairy waves her ___.",
+   "item": "wand",
+   "options": [
+    "wand",
+    "suddenly",
+    "save"
+   ],
+   "answer": "wand"
+  },
+  {
+   "id": "L3U05-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's a ___ idea.",
+   "item": "bad",
+   "options": [
+    "castle",
+    "bad",
+    "escape"
+   ],
+   "answer": "bad"
+  },
+  {
+   "id": "L3U05-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The giant is not ___. He is kind.",
+   "item": "scary",
+   "options": [
+    "escape",
+    "scary",
+    "princess"
+   ],
+   "answer": "scary"
+  },
+  {
+   "id": "L3U05-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The prince has a white horse.",
+   "item": "prince",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's build a sand castle!",
+   "item": "dragon",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U05-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The dragon is green and friendly.",
+   "item": "dragon",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The fairy has small wings.",
+   "item": "wizard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U05-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The wizard has a tall hat.",
+   "item": "wizard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The unicorn is white with a pink tail.",
+   "item": "crown",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U05-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The king wears a gold crown.",
+   "item": "crown",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The map shows the treasure.",
+   "item": "lucky",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U05-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I found a coin. I'm lucky!",
+   "item": "lucky",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "You are my hero!",
+   "item": "wand",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U05-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The fairy waves her wand.",
+   "item": "wand",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U05-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U05-R01",
+   "text_en": "Why was the giant crying?",
+   "options": [
+    "He was lonely.",
+    "He lost his dog.",
+    "He was hungry."
+   ],
+   "answer": "He lost his dog."
+  },
+  {
+   "id": "L3U05-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U05-R01",
+   "text_en": "Where did Hoa find the dog?",
+   "options": [
+    "In the castle.",
+    "In a cave.",
+    "Under a tree."
+   ],
+   "answer": "Under a tree."
+  },
+  {
+   "id": "L3U05-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U05-R01",
+   "text_en": "What did the giant give Hoa?",
+   "options": [
+    "A bag of gold.",
+    "A magic wand.",
+    "A crown."
+   ],
+   "answer": "A bag of gold."
+  },
+  {
+   "id": "L3U05-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "story",
+   "item": "story",
+   "answer": "story"
+  },
+  {
+   "id": "L3U05-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "king",
+   "item": "king",
+   "answer": "king"
+  },
+  {
+   "id": "L3U05-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "prince",
+   "item": "prince",
+   "answer": "prince"
+  },
+  {
+   "id": "L3U05-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "princess",
+   "item": "princess",
+   "answer": "princess"
+  },
+  {
+   "id": "L3U05-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "castle",
+   "item": "castle",
+   "answer": "castle"
+  },
+  {
+   "id": "L3U05-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tower",
+   "item": "tower",
+   "answer": "tower"
+  },
+  {
+   "id": "L3U05-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "dragon",
+   "item": "dragon",
+   "answer": "dragon"
+  },
+  {
+   "id": "L3U05-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "giant",
+   "item": "giant",
+   "answer": "giant"
+  },
+  {
+   "id": "L3U05-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Grandma tells me a story every night.",
+   "answer": "Grandma tells me a story every night."
+  },
+  {
+   "id": "L3U05-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The king lives in a big castle.",
+   "answer": "The king lives in a big castle."
+  },
+  {
+   "id": "L3U05-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The prince has a white horse.",
+   "answer": "The prince has a white horse."
+  }
+ ]
+}

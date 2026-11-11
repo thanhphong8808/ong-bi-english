@@ -1,0 +1,554 @@
+# Level 1 - Starters (Pre-A1)
+@U 1 | My family | Gia đình của bé | Giới thiệu được các thành viên trong gia đình ; Hỏi và trả lời "Who's that?"
+W mother | mẹ | 👩 | This is my mother. | Đây là mẹ tớ.
+W father | bố | 👨 | This is my father. | Đây là bố tớ.
+W parents | bố mẹ | 👫 | I love my parents. | Tớ yêu bố mẹ.
+W grandmother | bà | 👵 | My grandmother is happy. | Bà tớ đang vui.
+W grandfather | ông | 👴 | My grandfather is funny. | Ông tớ vui tính.
+W aunt | cô, dì | 👩‍🦰 | This is my aunt. | Đây là cô tớ.
+W uncle | chú, bác | 🧔 | This is my uncle. | Đây là chú tớ.
+W cousin | anh chị em họ | 🧒 | I have a cousin. | Tớ có một người em họ.
+W son | con trai | 👦 | He is my son. | Thằng bé là con trai tôi.
+W daughter | con gái | 👧 | She is my daughter. | Con bé là con gái tôi.
+W boy | bạn trai, cậu bé | 🧑 | He is a boy. | Bạn ấy là con trai.
+W girl | bạn gái, cô bé | 👱‍♀️ | She is a girl. | Bạn ấy là con gái.
+W man | người đàn ông | 👨‍🦱 | That man is my uncle. | Người đàn ông đó là chú tớ.
+W woman | người phụ nữ | 👩‍🦱 | That woman is my aunt. | Người phụ nữ đó là cô tớ.
+W child | đứa trẻ | 👶 | The child is happy. | Đứa trẻ đang vui.
+W old | già | 🧓 | My grandfather is old. | Ông tớ già rồi.
+W young | trẻ | 🙋‍♂️ | My aunt is young. | Cô tớ còn trẻ.
+W he | anh ấy, bạn ấy (nam) | 👉 | He is my brother. | Anh ấy là anh trai tớ.
+W she | cô ấy, bạn ấy (nữ) | 👈 | She is my sister. | Chị ấy là chị gái tớ.
+W photo | bức ảnh | 🖼️ | This is a photo of my family. | Đây là ảnh gia đình tớ.
+P This is my {x}. | Đây là {x} tớ. | mother,father,aunt,uncle
+P Who's that? That's my {x}. | Ai kia? Đó là {x} tớ. | cousin,grandmother,grandfather,sister
+P He is my {x}. | Anh ấy là {x} tớ. | brother,father,uncle,cousin
+D Giới thiệu gia đình | Bi,Kid | mother,father,aunt,grandmother
+> Bi: Hi! Who's that? | Chào! Ai kia thế?
+> Kid: That's my mother. | Đó là mẹ tớ.
+> Bi: Oh, hello! She's so nice! | Ồ, chào cô ạ! Mẹ cậu hiền quá!
+> Kid: Thank you! | Cảm ơn cậu!
+D Xem ảnh | Bi,Kid | uncle,cousin,brother,grandfather
+> Bi: Is this a photo of your family? | Đây là ảnh gia đình cậu à?
+> Kid: Yes! This is my uncle. | Ừ! Đây là chú tớ.
+> Bi: And who's that boy? | Thế cậu bé kia là ai?
+> Kid: He is my cousin. | Em ấy là em họ tớ.
+> Bi: He's funny! | Em ấy trông vui quá!
+D Ông bà | Bi,Kid
+> Bi: Is your grandfather old? | Ông cậu già chưa?
+> Kid: Yes. He's old and happy. | Rồi. Ông già và vui vẻ.
+> Bi: Do you love your grandparents? | Cậu có yêu ông bà không?
+> Kid: Yes! I love my grandmother and grandfather. | Có! Tớ yêu bà và ông.
+
+@U 2 | My body | Cơ thể của bé | Gọi tên các bộ phận cơ thể ; Nói "I have two eyes."
+W head | cái đầu | 🗣️ | This is my head. | Đây là đầu của tớ.
+W hair | tóc | 💇 | I have black hair. | Tớ có tóc đen.
+W face | khuôn mặt | 🙂 | This is my face. | Đây là mặt của tớ.
+W eye | mắt | 👁️ | I have two eyes. | Tớ có hai mắt.
+W ear | tai | 👂 | I have two ears. | Tớ có hai tai.
+W mouth | miệng | 👄 | This is my mouth. | Đây là miệng của tớ.
+W tooth | cái răng | 🦷 | I have a white tooth. | Tớ có một cái răng trắng.
+W arm | cánh tay | 💪 | This is my arm. | Đây là cánh tay tớ.
+W hand | bàn tay | ✋ | I have two hands. | Tớ có hai bàn tay.
+W finger | ngón tay | ☝️ | I have ten fingers. | Tớ có mười ngón tay.
+W foot | bàn chân | 🦶 | This is my foot. | Đây là bàn chân tớ.
+W knee | đầu gối | 🧎 | This is my knee. | Đây là đầu gối tớ.
+W tummy | cái bụng | 🫃 | My tummy is big. | Bụng tớ to.
+W back | cái lưng | 🔙 | This is my back. | Đây là lưng tớ.
+W long | dài | 📏 | She has long hair. | Bạn ấy có tóc dài.
+W short | ngắn | 🤏 | He has short hair. | Bạn ấy có tóc ngắn.
+W touch | chạm | 👆 | Touch your nose! | Chạm vào mũi nào!
+W clap | vỗ tay | 👏 | Clap your hands! | Vỗ tay nào!
+W wave | vẫy tay | 🙋 | Wave your hand! | Vẫy tay nào!
+W body | cơ thể | 🧍 | This is my body. | Đây là cơ thể tớ.
+P I have two {x}. | Tớ có hai {x}. | eyes,ears,hands,arms
+P Touch your {x}! | Chạm vào {x} nào! | nose,head,knee,tummy
+P She has {x} hair. | Bạn ấy có tóc {x}. | long,short,black,brown
+D Trò chơi chạm | Bi,Kid | nose,head,ear,knee
+> Bi: Let's play! Touch your nose! | Mình chơi nhé! Chạm vào mũi nào!
+> Kid: This is my nose! | Đây là mũi tớ!
+> Bi: Good! Clap your hands! | Giỏi lắm! Vỗ tay nào!
+> Kid: Okay! Clap, clap! | Được! Vỗ, vỗ!
+D Tả bạn | Bi,Kid
+> Bi: Do you have long hair? | Cậu có tóc dài không?
+> Kid: No. I have short hair. | Không. Tớ có tóc ngắn.
+> Bi: I have two big eyes. | Tớ có hai mắt to.
+> Kid: And I have two small ears! | Còn tớ có hai tai nhỏ!
+
+@U 3 | My toys | Đồ chơi của bé | Nói về đồ chơi mình có ; Hỏi "Do you have a ...?"
+W toy | đồ chơi | 🧸 | I have a new toy. | Tớ có đồ chơi mới.
+W puzzle | trò xếp hình | 🧩 | I like my puzzle. | Tớ thích bộ xếp hình của tớ.
+W game | trò chơi | 🎮 | Let's play a game! | Mình chơi một trò nhé!
+W plane | máy bay | ✈️ | I have a toy plane. | Tớ có máy bay đồ chơi.
+W boat | cái thuyền | ⛵ | It's a small boat. | Đó là chiếc thuyền nhỏ.
+W truck | xe tải | 🚚 | I have a big truck. | Tớ có một chiếc xe tải to.
+W drum | cái trống | 🥁 | I can play the drum. | Tớ biết chơi trống.
+W guitar | đàn ghi-ta | 🎸 | It's my guitar. | Đó là đàn ghi-ta của tớ.
+W crayon | bút sáp màu | 🖍️ | I have a red crayon. | Tớ có bút sáp màu đỏ.
+W paint | sơn, màu vẽ | 🎨 | I like to paint. | Tớ thích vẽ màu.
+W monster | quái vật (đồ chơi) | 👾 | It's a funny monster. | Đó là con quái vật ngộ nghĩnh.
+W dinosaur | khủng long | 🦖 | I have a green dinosaur. | Tớ có con khủng long xanh.
+W rocket | tên lửa | 🚀 | The rocket is up! | Tên lửa bay lên rồi!
+W skateboard | ván trượt | 🛹 | I have a skateboard. | Tớ có một cái ván trượt.
+W camera | máy ảnh | 📷 | It's my toy camera. | Đó là máy ảnh đồ chơi của tớ.
+W new | mới | ✨ | My bike is new. | Xe đạp của tớ mới.
+W favourite | yêu thích nhất | 🥇 | It's my favourite toy. | Đó là đồ chơi tớ thích nhất.
+W share | chia sẻ | 🤲 | Let's share the toys. | Mình chơi chung đồ chơi nhé.
+W want | muốn | 🫳 | I want the robot. | Tớ muốn con rô bốt.
+W box | cái hộp | 📦 | The toys are in the box. | Đồ chơi ở trong hộp.
+P I have a {x}. | Tớ có {x}. | puzzle,plane,truck,dinosaur
+P Do you have a {x}? | Cậu có {x} không? | boat,drum,rocket,camera
+P My favourite toy is my {x}. | Đồ chơi tớ thích nhất là {x}. | robot,teddy,dinosaur,guitar
+D Đồ chơi yêu thích | Bi,Kid | dinosaur,robot,rocket,truck
+> Bi: What's your favourite toy? | Đồ chơi cậu thích nhất là gì?
+> Kid: My favourite toy is my dinosaur. | Đồ chơi tớ thích nhất là con khủng long.
+> Bi: Wow! Is it big? | Chà! Nó có to không?
+> Kid: Yes! It's big and green. | Có! Nó to và màu xanh.
+D Chơi chung | Bi,Kid | puzzle,game,drum
+> Kid: Do you have a puzzle? | Cậu có bộ xếp hình không?
+> Bi: Yes, I have a new puzzle. | Có, tớ có một bộ xếp hình mới.
+> Kid: Can I play too? | Tớ chơi cùng được không?
+> Bi: Sure! Let's share. | Được chứ! Mình chơi chung nhé.
+
+@U 4 | At school | Ở trường | Gọi tên đồ dùng học tập ; Nói "Can I have a pencil, please?"
+W school | trường học | 🏫 | I like my school. | Tớ thích trường của tớ.
+W teacher | cô giáo, thầy giáo | 🧑‍🏫 | My teacher is nice. | Cô giáo tớ rất hiền.
+W classroom | lớp học | 🧑‍🎓 | This is my classroom. | Đây là lớp học của tớ.
+W desk | bàn học | 🪑 | The book is on my desk. | Quyển sách ở trên bàn tớ.
+W pencil | bút chì | ✏️ | Can I have a pencil, please? | Cho tớ xin một cái bút chì được không?
+W rubber | cục tẩy | 🧽 | I have a small rubber. | Tớ có một cục tẩy nhỏ.
+W ruler | thước kẻ | 📏 | It's a long ruler. | Đó là cái thước dài.
+W paper | tờ giấy | 📄 | Can I have paper, please? | Cho tớ xin giấy được không?
+W board | cái bảng | 🪧 | Look at the board. | Nhìn lên bảng nào.
+W door | cửa ra vào | 🚪 | Open the door, please. | Mở cửa giúp tớ với.
+W window | cửa sổ | 🪟 | Close the window, please. | Đóng cửa sổ giúp tớ với.
+W read | đọc | 📖 | I can read a book. | Tớ biết đọc sách.
+W write | viết | ✍️ | I can write my name. | Tớ biết viết tên mình.
+W draw | vẽ | 🖌️ | I like to draw. | Tớ thích vẽ.
+W count | đếm | 🔢 | I can count to ten. | Tớ đếm được đến mười.
+W open | mở | 📂 | Open your book. | Mở sách ra nào.
+W close | đóng | 📕 | Close your book. | Gấp sách lại nào.
+W sit | ngồi | 🧘 | Sit down, please. | Mời cả lớp ngồi xuống.
+W stand | đứng | 🧍 | Stand up, please. | Mời cả lớp đứng lên.
+W lesson | bài học | 📚 | I like this lesson. | Tớ thích bài học này.
+P Can I have a {x}, please? | Cho tớ xin {x} được không? | pencil,rubber,ruler,book
+P Open the {x}, please. | Mở {x} giúp tớ với. | door,window,book,box
+P I can {x}. | Tớ biết {x}. | read,write,draw,count
+D Mượn đồ | Bi,Kid | pencil,rubber,ruler,crayon
+> Kid: Can I have a pencil, please? | Cho tớ xin một cái bút chì được không?
+> Bi: Sure! Here you are. | Được chứ! Của cậu đây.
+> Kid: Thank you, Bi! | Cảm ơn Bi!
+> Bi: You're welcome! | Không có gì!
+D Trong lớp | Bi,Kid
+> Bi: Sit down, please. Open your book. | Mời cậu ngồi. Mở sách ra nào.
+> Kid: Okay! Can I read? | Vâng! Tớ đọc được không?
+> Bi: Yes, you can. | Được, cậu đọc đi.
+> Kid: I like this lesson! | Tớ thích bài học này!
+D Cô giáo | Bi,Kid
+> Bi: Who's that woman? | Người phụ nữ kia là ai?
+> Kid: She is my teacher. | Đó là cô giáo tớ.
+> Bi: Is she nice? | Cô có hiền không?
+> Kid: Yes! I like my teacher. | Có! Tớ quý cô giáo tớ.
+
+@U 5 | My house | Ngôi nhà của bé | Gọi tên các phòng và đồ đạc ; Nói đồ vật ở đâu với in, on, under
+W house | ngôi nhà | 🏡 | This is my house. | Đây là nhà tớ.
+W room | căn phòng | 🚪 | This is my room. | Đây là phòng tớ.
+W bedroom | phòng ngủ | 🛏️ | My bed is in my bedroom. | Giường tớ ở trong phòng ngủ.
+W kitchen | nhà bếp | 🍳 | Mum is in the kitchen. | Mẹ đang ở trong bếp.
+W bathroom | phòng tắm | 🛁 | The bathroom is small. | Phòng tắm nhỏ.
+W living room | phòng khách | 🖼️ | Dad is in the living room. | Bố đang ở phòng khách.
+W garden | khu vườn | 🌷 | The dog is in the garden. | Chú chó ở trong vườn.
+W table | cái bàn | 🍽️ | The cake is on the table. | Cái bánh ở trên bàn.
+W chair | cái ghế | 🪑 | Sit on the chair. | Ngồi lên ghế đi.
+W sofa | ghế sô-pha | 🛋️ | The cat is on the sofa. | Con mèo ở trên ghế sô-pha.
+W lamp | cái đèn | 💡 | The lamp is on the desk. | Cái đèn ở trên bàn học.
+W clock | đồng hồ | 🕰️ | Look at the clock. | Nhìn đồng hồ kìa.
+W TV | ti vi | 📺 | The TV is in the living room. | Ti vi ở trong phòng khách.
+W phone | điện thoại | 📱 | Where is my phone? | Điện thoại của tớ đâu rồi?
+W wall | bức tường | 🧱 | The clock is on the wall. | Đồng hồ ở trên tường.
+W floor | sàn nhà | 🧹 | The ball is on the floor. | Quả bóng ở trên sàn.
+W in | ở trong | prep_in.svg | The ball is in the box. | Quả bóng ở trong hộp.
+W on | ở trên | prep_on.svg | The ball is on the box. | Quả bóng ở trên hộp.
+W under | ở dưới | prep_under.svg | The ball is under the table. | Quả bóng ở dưới bàn.
+W next to | bên cạnh | prep_next_to.svg | The ball is next to the box. | Quả bóng ở cạnh cái hộp.
+P Where is the {x}? | {x} ở đâu? | ball,cat,phone,lamp
+P It's {x} the table. | Nó ở {x} cái bàn. | on,under,next to
+P Mum is in the {x}. | Mẹ đang ở trong {x}. | kitchen,garden,living room,bedroom
+D Tìm đồ | Bi,Kid | ball,teddy,book,phone
+> Kid: Where is my ball? | Quả bóng của tớ đâu rồi?
+> Bi: Is it under the table? | Nó có ở dưới bàn không?
+> Kid: No. | Không có.
+> Bi: Look! It's next to the sofa. | Nhìn kìa! Nó ở cạnh ghế sô-pha.
+> Kid: Oh yes! Thank you! | Ồ đúng rồi! Cảm ơn cậu!
+D Nhà tớ | Bi,Kid | kitchen,garden,bedroom
+> Bi: Is this your house? | Đây là nhà cậu à?
+> Kid: Yes! This is my bedroom. | Ừ! Đây là phòng ngủ của tớ.
+> Bi: Where is your mum? | Mẹ cậu đâu?
+> Kid: She is in the kitchen. | Mẹ đang ở trong bếp.
+
+@U 6 | My clothes | Quần áo của bé | Gọi tên quần áo ; Nói "I'm wearing ..."
+W clothes | quần áo | 👚 | I like my new clothes. | Tớ thích quần áo mới của tớ.
+W T-shirt | áo phông | 👕 | I'm wearing a red T-shirt. | Tớ đang mặc áo phông đỏ.
+W shirt | áo sơ mi | 👔 | Dad has a white shirt. | Bố có áo sơ mi trắng.
+W dress | cái váy | 👗 | She's wearing a pink dress. | Bạn ấy đang mặc váy hồng.
+W skirt | chân váy | 🩱 | I have a blue skirt. | Tớ có chân váy xanh.
+W trousers | quần dài | 👖 | He's wearing black trousers. | Bạn ấy đang mặc quần dài đen.
+W shorts | quần đùi | 🩳 | I'm wearing shorts. | Tớ đang mặc quần đùi.
+W jacket | áo khoác | 🧥 | It's cold. Wear your jacket. | Trời lạnh. Mặc áo khoác vào nhé.
+W shoes | đôi giày | 👟 | Where are my shoes? | Giày của tớ đâu rồi?
+W socks | đôi tất | 🧦 | I have yellow socks. | Tớ có đôi tất vàng.
+W boots | đôi ủng | 🥾 | I'm wearing my boots. | Tớ đang đi ủng.
+W cap | mũ lưỡi trai | 🧢 | I have a green cap. | Tớ có mũ lưỡi trai xanh.
+W scarf | khăn quàng | 🧣 | The scarf is long. | Cái khăn dài.
+W glasses | kính mắt | 👓 | Grandpa has glasses. | Ông đeo kính.
+W pocket | cái túi (quần áo) | 👝 | The key is in my pocket. | Chìa khoá ở trong túi tớ.
+W wear | mặc, đội, đi | 🧍‍♂️ | I wear a hat. | Tớ đội mũ.
+W put on | mặc vào | ➕ | Put on your shoes. | Đi giày vào nào.
+W take off | cởi ra | ➖ | Take off your jacket. | Cởi áo khoác ra nào.
+W clean | sạch | 🫧 | My shirt is clean. | Áo sơ mi của tớ sạch.
+W dirty | bẩn | 💩 | My shoes are dirty. | Giày của tớ bẩn.
+P I'm wearing a {x}. | Tớ đang mặc {x}. | T-shirt,dress,jacket,skirt
+P Put on your {x}. | Mặc {x} vào nào. | shoes,socks,jacket,cap
+P Where are my {x}? | {x} của tớ đâu? | shoes,socks,boots,glasses
+D Mặc gì hôm nay | Bi,Kid | T-shirt,dress,jacket
+> Bi: What are you wearing? | Cậu đang mặc gì thế?
+> Kid: I'm wearing a red T-shirt. | Tớ đang mặc áo phông đỏ.
+> Bi: I like your T-shirt! | Tớ thích áo của cậu!
+> Kid: Thank you! It's new. | Cảm ơn cậu! Áo mới đấy.
+D Tìm giày | Bi,Kid | shoes,socks,boots
+> Kid: Where are my shoes? | Giày của tớ đâu rồi?
+> Bi: Are they under the bed? | Chúng có ở dưới giường không?
+> Kid: Yes! Oh no, they are dirty. | Có! Ôi không, chúng bẩn rồi.
+> Bi: Put on your boots. | Thế cậu đi ủng vào đi.
+
+@U 7 | Farm and zoo | Nông trại và sở thú | Gọi tên con vật ở nông trại và sở thú ; Nói con vật làm được gì
+W animal | con vật | 🐾 | I love animals. | Tớ yêu các con vật.
+W chicken | con gà | 🐔 | The chicken is small. | Con gà nhỏ.
+W sheep | con cừu | 🐑 | The sheep is white. | Con cừu màu trắng.
+W goat | con dê | 🐐 | The goat is funny. | Con dê ngộ nghĩnh.
+W mouse | con chuột | 🐭 | The mouse is very small. | Con chuột rất nhỏ.
+W frog | con ếch | 🐸 | The frog can jump. | Con ếch biết nhảy.
+W monkey | con khỉ | 🐒 | The monkey is funny. | Con khỉ ngộ nghĩnh.
+W tiger | con hổ | 🐯 | The tiger is big. | Con hổ to.
+W lion | sư tử | 🦁 | I see a lion. | Tớ thấy một con sư tử.
+W bear | con gấu | 🐻 | The bear is brown. | Con gấu màu nâu.
+W giraffe | hươu cao cổ | 🦒 | The giraffe is tall. | Hươu cao cổ cao lắm.
+W hippo | hà mã | 🦛 | The hippo is in the water. | Hà mã ở trong nước.
+W crocodile | cá sấu | 🐊 | The crocodile has big teeth. | Cá sấu có răng to.
+W snake | con rắn | 🐍 | The snake is long. | Con rắn dài.
+W spider | con nhện | 🕷️ | The spider is on the wall. | Con nhện ở trên tường.
+W tail | cái đuôi | 🐕 | The monkey has a long tail. | Con khỉ có đuôi dài.
+W farm | nông trại | 🚜 | The cow is on the farm. | Con bò ở nông trại.
+W tall | cao | 🗼 | The tree is tall. | Cái cây cao.
+W fast | nhanh | ⚡ | The horse is fast. | Con ngựa chạy nhanh.
+W slow | chậm | 🐢 | The hippo is slow. | Hà mã đi chậm.
+P The {x} is big. | {x} to. | tiger,bear,hippo,lion
+P I see a {x}. | Tớ thấy {x}. | monkey,giraffe,snake,frog
+P The {x} can jump. | {x} biết nhảy. | frog,monkey,rabbit,horse
+D Ở sở thú | Bi,Kid | giraffe,tiger,bear,lion
+> Bi: Look! What's that? | Nhìn kìa! Con gì thế kia?
+> Kid: It's a giraffe! | Đó là hươu cao cổ!
+> Bi: Wow! It's so tall! | Chà! Nó cao quá!
+> Kid: I like the giraffe. | Tớ thích hươu cao cổ.
+D Ở nông trại | Bi,Kid | sheep,chicken,goat
+> Bi: Do you like the farm? | Cậu có thích nông trại không?
+> Kid: Yes! I see a sheep. | Có! Tớ thấy một con cừu.
+> Bi: Is it fast? | Nó có nhanh không?
+> Kid: No. It's slow and funny. | Không. Nó chậm và ngộ nghĩnh.
+
+@U 8 | Mealtime | Giờ ăn | Gọi tên món ăn trong bữa ; Nói "Can I have some ..., please?"
+W breakfast | bữa sáng | 🍳 | I have eggs for breakfast. | Tớ ăn trứng vào bữa sáng.
+W lunch | bữa trưa | 🍱 | I have rice for lunch. | Tớ ăn cơm vào bữa trưa.
+W dinner | bữa tối | 🍲 | Dinner is on the table. | Bữa tối ở trên bàn rồi.
+W chicken | thịt gà | 🍗 | I like chicken. | Tớ thích thịt gà.
+W meat | thịt | 🥩 | Dad likes meat. | Bố thích thịt.
+W soup | canh, súp | 🥣 | The soup is hot. | Canh nóng.
+W cheese | phô mai | 🧀 | I like cheese. | Tớ thích phô mai.
+W pizza | bánh pizza | 🍕 | Pizza is my favourite. | Pizza là món tớ thích nhất.
+W burger | bánh mì kẹp thịt | 🍔 | Can I have a burger, please? | Cho tớ một cái bánh kẹp được không?
+W chips | khoai tây chiên | 🍟 | I like chips. | Tớ thích khoai tây chiên.
+W sausage | xúc xích | 🌭 | I want a sausage. | Tớ muốn một cái xúc xích.
+W ice cream | kem | 🍦 | Can I have ice cream, please? | Cho tớ xin kem được không?
+W sweets | kẹo | 🍬 | I have two sweets. | Tớ có hai cái kẹo.
+W chocolate | sô-cô-la | 🍫 | I love chocolate. | Tớ mê sô-cô-la.
+W tea | trà | 🍵 | Grandma likes tea. | Bà thích trà.
+W lemonade | nước chanh | 🍋 | Can I have lemonade, please? | Cho tớ xin nước chanh được không?
+W spoon | cái thìa | 🥄 | I eat soup with a spoon. | Tớ ăn canh bằng thìa.
+W bowl | cái bát | 🍚 | The rice is in the bowl. | Cơm ở trong bát.
+W thirsty | khát | 🥤 | I'm thirsty. | Tớ khát.
+W yummy | ngon | 😋 | This cake is yummy! | Bánh này ngon quá!
+P Can I have some {x}, please? | Cho tớ xin ít {x} được không? | soup,cheese,chips,chocolate
+P I have {x} for breakfast. | Tớ ăn {x} vào bữa sáng. | eggs,bread,milk,noodles
+P This {x} is yummy! | {x} này ngon quá! | pizza,burger,cake,soup
+D Xin đồ ăn | Bi,Kid | soup,pizza,chips,ice cream
+> Bi: Are you hungry? | Cậu có đói không?
+> Kid: Yes! Can I have some soup, please? | Có! Cho tớ xin ít canh được không?
+> Bi: Sure! Here you are. | Được chứ! Của cậu đây.
+> Kid: Thank you! It's yummy! | Cảm ơn cậu! Ngon quá!
+D Bữa sáng | Bi,Kid | eggs,bread,noodles
+> Bi: What do you have for breakfast? | Bữa sáng cậu ăn gì?
+> Kid: I have eggs for breakfast. | Bữa sáng tớ ăn trứng.
+> Bi: Do you drink milk? | Cậu có uống sữa không?
+> Kid: Yes, I do. I like milk. | Có. Tớ thích sữa.
+D Tớ khát | Bi,Kid | lemonade,water,juice
+> Kid: I'm thirsty, Bi. | Bi ơi, tớ khát.
+> Bi: Do you want lemonade? | Cậu có muốn nước chanh không?
+> Kid: Yes, please! | Có ạ!
+> Bi: Here you are. | Của cậu đây.
+
+@U 9 | Fruit and vegetables | Trái cây và rau củ | Gọi tên trái cây, rau củ ; Nói "I like ... but I don't like ..."
+W fruit | trái cây | 🍎 | I eat fruit for breakfast. | Tớ ăn trái cây vào bữa sáng.
+W orange | quả cam | 🍊 | The orange is yummy. | Quả cam ngon.
+W grape | quả nho | 🍇 | I like grapes. | Tớ thích nho.
+W mango | quả xoài | 🥭 | Mango is my favourite fruit. | Xoài là quả tớ thích nhất.
+W pear | quả lê | 🍐 | It's a green pear. | Đó là quả lê xanh.
+W lemon | quả chanh | 🍋 | The lemon is yellow. | Quả chanh màu vàng.
+W watermelon | quả dưa hấu | 🍉 | The watermelon is big. | Quả dưa hấu to.
+W pineapple | quả dứa | 🍍 | I like pineapple. | Tớ thích dứa.
+W coconut | quả dừa | 🥥 | The coconut is brown. | Quả dừa màu nâu.
+W strawberry | quả dâu tây | 🍓 | The strawberry is red. | Quả dâu tây màu đỏ.
+W vegetable | rau củ | 🥬 | I eat vegetables for lunch. | Tớ ăn rau vào bữa trưa.
+W carrot | củ cà rốt | 🥕 | The rabbit likes carrots. | Con thỏ thích cà rốt.
+W potato | củ khoai tây | 🥔 | I like potatoes. | Tớ thích khoai tây.
+W tomato | quả cà chua | 🍅 | The tomato is red. | Quả cà chua màu đỏ.
+W onion | củ hành | 🧅 | I don't like onions. | Tớ không thích hành.
+W bean | hạt đậu | 🫘 | I eat beans. | Tớ ăn đậu.
+W corn | bắp ngô | 🌽 | The corn is yellow. | Bắp ngô màu vàng.
+W pea | hạt đậu Hà Lan | 🫛 | The peas are green. | Đậu Hà Lan màu xanh.
+W sweet | ngọt | 🍭 | The mango is sweet. | Quả xoài ngọt.
+W sour | chua | 😖 | The lemon is sour. | Quả chanh chua.
+P I like {x} but I don't like onions. | Tớ thích {x} nhưng tớ không thích hành. | grapes,carrots,mangoes,corn
+P The {x} is sweet. | {x} ngọt. | mango,strawberry,watermelon,pear
+P Do you like {x}? | Cậu có thích {x} không? | pineapple,tomatoes,beans,coconut
+D Trái cây yêu thích | Bi,Kid | mango,strawberry,watermelon,pineapple
+> Bi: What's your favourite fruit? | Cậu thích quả gì nhất?
+> Kid: Mango! It's sweet. | Xoài! Nó ngọt.
+> Bi: Do you like lemons? | Cậu có thích chanh không?
+> Kid: No! Lemons are sour. | Không! Chanh chua lắm.
+D Ăn rau nào | Bi,Kid | carrots,peas,beans,corn
+> Bi: Do you like vegetables? | Cậu có thích rau củ không?
+> Kid: I like carrots but I don't like onions. | Tớ thích cà rốt nhưng tớ không thích hành.
+> Bi: Carrots are good for you! | Cà rốt tốt cho cậu đấy!
+> Kid: Yes! Rabbits like carrots too. | Ừ! Thỏ cũng thích cà rốt.
+
+@U 10 | I can do it! | Tớ làm được! | Nói mình làm được gì với "I can ..." ; Hỏi "Can you ...?"
+W run | chạy | 🏃 | I can run fast. | Tớ chạy nhanh được.
+W walk | đi bộ | 🚶 | I walk to school. | Tớ đi bộ đến trường.
+W swim | bơi | 🏊 | I can swim. | Tớ biết bơi.
+W fly | bay | 🕊️ | A bird can fly. | Chim biết bay.
+W climb | trèo | 🧗 | The monkey can climb. | Con khỉ biết trèo.
+W dance | nhảy múa | 💃 | I can dance. | Tớ biết nhảy múa.
+W sing | hát | 🎤 | I like to sing. | Tớ thích hát.
+W kick | đá | 🦵 | Kick the ball! | Đá bóng đi!
+W throw | ném | 🤾 | Throw the ball to me. | Ném bóng cho tớ đi.
+W catch | bắt | 🧤 | I can catch the ball. | Tớ bắt được bóng.
+W ride | đi (xe), cưỡi | 🚴 | I can ride a bike. | Tớ biết đi xe đạp.
+W hop | nhảy lò cò | 🐇 | The rabbit can hop. | Con thỏ biết nhảy.
+W skip | nhảy dây | 🪢 | I can skip. | Tớ biết nhảy dây.
+W cook | nấu ăn | 🧑‍🍳 | Mum can cook. | Mẹ biết nấu ăn.
+W help | giúp | 🆘 | Can you help me? | Cậu giúp tớ được không?
+W carry | mang, bê | 🏋️ | I can carry the box. | Tớ bê được cái hộp.
+W can't | không thể | 🚫 | A fish can't walk. | Cá không đi bộ được.
+W try | thử | 💪 | Let's try! | Mình thử nhé!
+W again | lần nữa | 🔁 | Try again! | Thử lại nào!
+W well | giỏi, tốt | 👌 | You can sing well. | Cậu hát hay đấy.
+P I can {x}. | Tớ biết {x}. | swim,dance,sing,climb
+P Can you {x}? | Cậu có biết {x} không? | swim,fly,ride a bike,cook
+P A fish can't {x}. | Cá không {x} được. | walk,fly,climb,sing
+D Cậu biết làm gì? | Bi,Kid | swim,dance,sing,skip
+> Bi: Can you swim? | Cậu có biết bơi không?
+> Kid: Yes, I can. Can you swim? | Có. Cậu có biết bơi không?
+> Bi: No, I can't. But I can fly! | Tớ không biết. Nhưng tớ biết bay!
+> Kid: Wow! I can't fly. | Chà! Tớ không biết bay.
+D Thử lại nào | Bi,Kid | catch,kick,throw
+> Bi: Can you catch the ball? | Cậu bắt được bóng không?
+> Kid: Oh no! I can't. | Ôi không! Tớ không bắt được.
+> Bi: It's okay. Try again! | Không sao. Thử lại nào!
+> Kid: Yay! I can catch it! | Hoan hô! Tớ bắt được rồi!
+
+@U 11 | Numbers and shapes | Số và hình | Đếm từ 11 đến 20 ; Hỏi "How many ...?"
+W eleven | số mười một | 🕚 | I have eleven crayons. | Tớ có mười một bút sáp màu.
+W twelve | số mười hai | 🕛 | I see twelve stars. | Tớ thấy mười hai ngôi sao.
+W thirteen | số mười ba | 🎂 | My cousin is thirteen. | Anh họ tớ mười ba tuổi.
+W fourteen | số mười bốn | 📅 | I have fourteen sweets. | Tớ có mười bốn cái kẹo.
+W fifteen | số mười lăm | 🖐️ | I can count to fifteen. | Tớ đếm được đến mười lăm.
+W sixteen | số mười sáu | 🎲 | I see sixteen birds. | Tớ thấy mười sáu con chim.
+W seventeen | số mười bảy | 🧮 | I have seventeen pencils. | Tớ có mười bảy cái bút chì.
+W eighteen | số mười tám | 🎳 | I see eighteen fish. | Tớ thấy mười tám con cá.
+W nineteen | số mười chín | 🔢 | I have nineteen balloons. | Tớ có mười chín quả bóng bay.
+W twenty | số hai mươi | 💯 | I can count to twenty. | Tớ đếm được đến hai mươi.
+W circle | hình tròn | ⭕ | The ball is a circle. | Quả bóng là hình tròn.
+W square | hình vuông | 🟦 | The box is a square. | Cái hộp là hình vuông.
+W triangle | hình tam giác | 🔺 | I can draw a triangle. | Tớ vẽ được hình tam giác.
+W heart | hình trái tim | 💗 | I can draw a heart. | Tớ vẽ được hình trái tim.
+W line | đường thẳng | ➖ | Draw a long line. | Vẽ một đường dài nào.
+W shape | hình dạng | 🔷 | What shape is it? | Nó là hình gì?
+W number | con số | #️⃣ | What number is it? | Đó là số mấy?
+W many | nhiều | 🧺 | I have many toys. | Tớ có nhiều đồ chơi.
+W more | thêm, nhiều hơn | ➕ | Can I have more, please? | Cho tớ xin thêm được không?
+W all | tất cả | 🌐 | I like all animals. | Tớ thích tất cả các con vật.
+P How many {x} do you have? | Cậu có bao nhiêu {x}? | pencils,crayons,toys,books
+P I can count to {x}. | Tớ đếm được đến {x}. | twelve,fifteen,eighteen,twenty
+P It's a {x}. | Đó là {x}. | circle,square,triangle,heart
+D Có bao nhiêu? | Bi,Kid | pencils,crayons,books
+> Bi: How many pencils do you have? | Cậu có bao nhiêu cái bút chì?
+> Kid: I have twelve pencils. | Tớ có mười hai cái bút chì.
+> Bi: Wow! So many! | Chà! Nhiều thế!
+> Kid: Do you want one? | Cậu có muốn một cái không?
+> Bi: Yes, please! | Có ạ!
+D Hình gì đây? | Bi,Kid | circle,square,triangle,heart
+> Bi: What shape is it? | Nó là hình gì?
+> Kid: It's a circle. | Đó là hình tròn.
+> Bi: Good! Can you draw a heart? | Giỏi lắm! Cậu vẽ hình trái tim được không?
+> Kid: Yes, I can! | Tớ vẽ được!
+
+@U 12 | In the park | Ở công viên | Gọi tên những thứ ở công viên ; Rủ bạn chơi với "Let's ..."
+W park | công viên | 🏞️ | Let's go to the park! | Mình đi công viên đi!
+W playground | sân chơi | 🤸 | I like the playground. | Tớ thích sân chơi.
+W slide | cầu trượt | 🛝 | The slide is fun. | Cầu trượt vui lắm.
+W swing | xích đu | 🎠 | I'm on the swing. | Tớ đang ngồi xích đu.
+W grass | cỏ | 🌿 | The grass is green. | Cỏ màu xanh.
+W bench | ghế dài | 🪑 | Grandma is on the bench. | Bà đang ngồi trên ghế dài.
+W lake | cái hồ | 🏝️ | The ducks are on the lake. | Đàn vịt ở trên hồ.
+W bridge | cây cầu | 🌉 | Walk on the bridge. | Đi bộ trên cầu nào.
+W rock | hòn đá | 🪨 | The frog is on the rock. | Con ếch ở trên hòn đá.
+W leaf | chiếc lá | 🍃 | The leaf is green. | Chiếc lá màu xanh.
+W butterfly | con bướm | 🦋 | I see a butterfly. | Tớ thấy một con bướm.
+W sky | bầu trời | 🌤️ | The sky is blue. | Bầu trời màu xanh.
+W cloud | đám mây | ☁️ | The cloud is white. | Đám mây màu trắng.
+W rain | mưa | 🌧️ | Oh no! Rain! | Ôi không! Mưa rồi!
+W picnic | buổi dã ngoại | 🧺 | Let's have a picnic! | Mình đi dã ngoại nhé!
+W fun | vui | 🎉 | The park is fun. | Công viên vui lắm.
+W hide | trốn | 🫣 | Let's hide! | Mình trốn đi!
+W find | tìm thấy | 🔎 | I can't find Bi. | Tớ không tìm thấy Bi.
+W turn | lượt | 🔄 | It's my turn. | Đến lượt tớ.
+W together | cùng nhau | 👭 | Let's play together. | Mình chơi cùng nhau nhé.
+P Let's go to the {x}! | Mình đi {x} đi! | park,playground,lake,zoo
+P Let's {x}! | Mình {x} đi! | hide,play together,have a picnic,run
+P It's {x} turn. | Đến lượt {x}. | my,your
+D Rủ đi công viên | Bi,Kid | park,playground,lake
+> Bi: Let's go to the park! | Mình đi công viên đi!
+> Kid: Okay! Can I go on the slide? | Được! Tớ chơi cầu trượt được không?
+> Bi: Sure! Let's play together. | Được chứ! Mình chơi cùng nhau nhé.
+> Kid: Yay! It's fun! | Hoan hô! Vui quá!
+D Giờ ra chơi | Bi,Kid
+> Kid: Can I play too? | Tớ chơi cùng được không?
+> Bi: Sure! It's your turn. | Được chứ! Đến lượt cậu đấy.
+> Kid: Thank you! Look, I'm on the swing! | Cảm ơn cậu! Nhìn này, tớ đang ngồi xích đu!
+> Bi: Good! Now it's my turn. | Giỏi lắm! Giờ đến lượt tớ.
+D Trốn tìm | Bi,Kid
+> Bi: Let's hide! One, two, three! | Mình chơi trốn tìm nhé! Một, hai, ba!
+> Kid: Where is Bi? I can't find Bi. | Bi đâu rồi? Tớ không tìm thấy Bi.
+> Bi: I'm here! Under the bench! | Tớ ở đây! Dưới ghế dài!
+> Kid: Oh! You are funny, Bi. | Ồ! Bi buồn cười thật.
+
+@U 13 | On the move | Đi lại | Gọi tên phương tiện và nơi chốn ; Nói "I go to school by bus."
+W bus | xe buýt | 🚌 | I go to school by bus. | Tớ đi học bằng xe buýt.
+W taxi | xe taxi | 🚕 | It's a yellow taxi. | Đó là chiếc taxi vàng.
+W motorbike | xe máy | 🏍️ | Dad has a motorbike. | Bố có một chiếc xe máy.
+W lorry | xe tải lớn | 🚛 | The lorry is big. | Chiếc xe tải to.
+W ship | con tàu | 🚢 | The ship is on the water. | Con tàu ở trên mặt nước.
+W helicopter | máy bay trực thăng | 🚁 | The helicopter can fly. | Trực thăng biết bay.
+W street | đường phố | 🛣️ | The bus is on the street. | Xe buýt ở trên đường.
+W shop | cửa hàng | 🏪 | Mum is at the shop. | Mẹ đang ở cửa hàng.
+W market | chợ | 🛒 | Let's go to the market. | Mình đi chợ nhé.
+W hospital | bệnh viện | 🏥 | The hospital is big. | Bệnh viện to.
+W beach | bãi biển | 🏖️ | I like the beach. | Tớ thích bãi biển.
+W sea | biển | 🌊 | The sea is blue. | Biển màu xanh.
+W town | thị trấn | 🏘️ | I live in a small town. | Tớ sống ở một thị trấn nhỏ.
+W city | thành phố | 🏙️ | The city is big. | Thành phố lớn.
+W driver | người lái xe | 🧑‍✈️ | The bus driver is nice. | Bác lái xe buýt rất hiền.
+W ticket | cái vé | 🎫 | I have a bus ticket. | Tớ có vé xe buýt.
+W near | gần | 📍 | The park is near my house. | Công viên gần nhà tớ.
+W far | xa | 🔭 | The beach is far. | Bãi biển ở xa.
+W by | bằng (phương tiện) | ➡️ | I go by bike. | Tớ đi bằng xe đạp.
+W live | sống | 🏠 | I live in a house. | Tớ sống trong một ngôi nhà.
+P I go to school by {x}. | Tớ đi học bằng {x}. | bus,bike,car,motorbike
+P Let's go to the {x}. | Mình đi {x} nhé. | market,beach,shop,park
+P The {x} is near my house. | {x} gần nhà tớ. | school,park,shop,market
+D Đi học bằng gì? | Bi,Kid | bus,bike,motorbike,car
+> Bi: How do you go to school? | Cậu đi học bằng gì?
+> Kid: I go to school by bus. | Tớ đi học bằng xe buýt.
+> Bi: Is your school far? | Trường cậu có xa không?
+> Kid: No. It's near my house. | Không. Nó gần nhà tớ.
+D Đi chợ | Bi,Kid | market,shop,beach
+> Bi: Let's go to the market. | Mình đi chợ nhé.
+> Kid: Okay! Can I have a mango? | Được! Tớ mua một quả xoài được không?
+> Bi: Yes! And I want some carrots. | Được! Còn tớ muốn mua ít cà rốt.
+> Kid: Let's go by bike! | Mình đi bằng xe đạp đi!
+
+@U 14 | How do you feel? | Cảm xúc của bé | Nói về cảm xúc ; Nói cảm ơn và xin lỗi đúng lúc
+W feel | cảm thấy | 🫀 | I feel happy. | Tớ thấy vui.
+W angry | tức giận | 😠 | The lion is angry. | Sư tử đang tức giận.
+W scared | sợ | 😨 | I'm scared of snakes. | Tớ sợ rắn.
+W excited | hào hứng | 🤩 | I'm excited! | Tớ háo hức quá!
+W bored | chán | 😑 | I'm bored. | Tớ chán quá.
+W sleepy | buồn ngủ | 🥱 | The baby is sleepy. | Em bé buồn ngủ.
+W sick | ốm | 🤒 | I feel sick. | Tớ thấy ốm.
+W fine | khoẻ, ổn | 🙆 | I'm fine, thank you. | Tớ khoẻ, cảm ơn cậu.
+W great | tuyệt | 🌟 | That's great! | Tuyệt quá!
+W nice | tốt bụng, đẹp | 🥰 | My teacher is nice. | Cô giáo tớ rất hiền.
+W kind | tốt bụng | 😇 | You are very kind. | Cậu tốt bụng quá.
+W cry | khóc | 😭 | The baby can cry. | Em bé biết khóc.
+W laugh | cười to | 😂 | Bi makes me laugh. | Bi làm tớ cười.
+W smile | mỉm cười | 😁 | Smile, please! | Cười lên nào!
+W hug | ôm | 🫂 | I hug my mum. | Tớ ôm mẹ.
+W kiss | hôn (má) | 😘 | I kiss my grandma. | Tớ hôn má bà.
+W problem | vấn đề | ⚠️ | No problem! | Không sao đâu!
+W welcome | chào mừng | 🤗 | You're welcome! | Không có gì!
+W okay | ổn, được | 🆗 | Are you okay? | Cậu ổn chứ?
+W today | hôm nay | 📆 | I'm happy today. | Hôm nay tớ vui.
+P I feel {x}. | Tớ thấy {x}. | happy,sad,sick,excited
+P Are you {x}? | Cậu có {x} không? | okay,scared,sleepy,bored
+P I'm {x} today. | Hôm nay tớ {x}. | fine,tired,happy,excited
+D Cậu ổn chứ? | Bi,Kid | sad,scared,sick,tired
+> Bi: Are you okay? | Cậu ổn chứ?
+> Kid: No. I feel sad. | Không. Tớ thấy buồn.
+> Bi: Oh no! Do you want a hug? | Ôi! Cậu có muốn ôm một cái không?
+> Kid: Yes, please. Thank you, Bi. | Có. Cảm ơn Bi.
+> Bi: You're welcome. | Không có gì.
+D Xin lỗi | Bi,Kid
+> Kid: Oh no! I'm sorry, Bi. | Ôi không! Tớ xin lỗi Bi.
+> Bi: It's okay. No problem! | Không sao. Không vấn đề gì đâu!
+> Kid: You are very kind. | Cậu tốt bụng quá.
+> Bi: Thank you! Let's play again. | Cảm ơn cậu! Mình chơi tiếp nhé.
+D Ốm rồi | Bi,Kid
+> Bi: How are you today? | Hôm nay cậu thế nào?
+> Kid: I feel sick. My head is hot. | Tớ thấy ốm. Đầu tớ nóng.
+> Bi: Oh no! Tell your mum. | Ôi! Cậu nói với mẹ đi.
+> Kid: Okay. Thank you, Bi. | Ừ. Cảm ơn Bi.
+
+@U 15 | My pets | Thú cưng của bé | Nói về thú cưng ; Xin phép với "Can I ...?"
+W pet | thú cưng | 🐕‍🦺 | I have a pet. | Tớ có một con thú cưng.
+W puppy | chó con | 🐶 | The puppy is small. | Chú chó con nhỏ xíu.
+W kitten | mèo con | 🐱 | The kitten is sleepy. | Chú mèo con buồn ngủ.
+W hamster | chuột hamster | 🐹 | I have a hamster. | Tớ có một con chuột hamster.
+W parrot | con vẹt | 🦜 | The parrot can talk. | Con vẹt biết nói.
+W turtle | con rùa | 🐢 | The turtle is slow. | Con rùa đi chậm.
+W goldfish | cá vàng | 🐠 | My goldfish is orange. | Cá vàng của tớ màu cam.
+W feed | cho ăn | 🥫 | Can I feed the cat? | Tớ cho mèo ăn được không?
+W wash | tắm, rửa | 🧼 | I wash my dog. | Tớ tắm cho chó.
+W brush | chải | 🪮 | I brush my puppy. | Tớ chải lông cho chó con.
+W hold | bế, cầm | 🤱 | Can I hold the kitten? | Tớ bế mèo con được không?
+W talk | nói chuyện | 💬 | The parrot can talk. | Con vẹt biết nói.
+W soft | mềm | 🧶 | The kitten is soft. | Mèo con mềm mại.
+W cute | đáng yêu | 🐥 | The puppy is cute. | Chó con đáng yêu.
+W quiet | yên lặng | 🤫 | Be quiet, please. | Giữ yên lặng nào.
+W noisy | ồn ào | 📢 | The parrot is noisy. | Con vẹt ồn ào.
+W careful | cẩn thận | 🚧 | Be careful! | Cẩn thận nhé!
+W gentle | nhẹ nhàng | 🪶 | Be gentle with the kitten. | Nhẹ nhàng với mèo con nhé.
+W cage | cái lồng | 🪺 | The hamster is in the cage. | Chuột hamster ở trong lồng.
+W food | thức ăn | 🍲 | The dog wants food. | Chú chó muốn ăn.
+P Can I {x} the kitten? | Tớ {x} mèo con được không? | hold,feed,brush,wash
+P The {x} is cute. | {x} đáng yêu. | puppy,kitten,hamster,turtle
+P Be {x}, please. | Hãy {x} nhé. | quiet,careful,gentle
+D Xin bế mèo | Bi,Kid | kitten,puppy,hamster
+> Kid: Can I hold the kitten? | Tớ bế mèo con được không?
+> Bi: Yes, but be gentle. | Được, nhưng nhẹ nhàng nhé.
+> Kid: Okay. Oh, it's so soft! | Ừ. Ồ, nó mềm quá!
+> Bi: Yes! It's very cute. | Ừ! Nó đáng yêu lắm.
+D Thú cưng của cậu | Bi,Kid | hamster,parrot,turtle,goldfish
+> Bi: Do you have a pet? | Cậu có thú cưng không?
+> Kid: Yes! I have a hamster. | Có! Tớ có một con chuột hamster.
+> Bi: Can I feed it? | Tớ cho nó ăn được không?
+> Kid: Sure! Here is the food. | Được chứ! Thức ăn đây.

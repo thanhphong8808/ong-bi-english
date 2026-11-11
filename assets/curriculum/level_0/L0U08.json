@@ -1,0 +1,1116 @@
+{
+ "id": "L0U08",
+ "level": 0,
+ "unit": 8,
+ "topic_en": "Big and small",
+ "topic_vi": "To và nhỏ",
+ "can_do_vi": [
+  "Nói về cảm xúc và kích thước",
+  "Nói \"I'm happy.\""
+ ],
+ "items": [
+  {
+   "id": "L0U08-W01",
+   "type": "word",
+   "en": "happy",
+   "vi": "vui",
+   "ipa": "/ˈhæpi/",
+   "syllables": [
+    "hap",
+    "py"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F60A"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "I'm happy.",
+   "example_vi": "Tớ vui.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W02",
+   "type": "word",
+   "en": "sad",
+   "vi": "buồn",
+   "ipa": "/sæd/",
+   "syllables": [
+    "sad"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F622"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "The baby is sad.",
+   "example_vi": "Em bé buồn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W03",
+   "type": "word",
+   "en": "big",
+   "vi": "to",
+   "ipa": "/bɪɡ/",
+   "syllables": [
+    "big"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F418"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "It's a big dog.",
+   "example_vi": "Đó là một con chó to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-L01",
+   "type": "letter",
+   "en": "z",
+   "vi": "chữ z",
+   "letter": "z",
+   "sound": "/z/",
+   "tip_vi": "Âm \"z\": giống âm \"s\" nhưng rung cổ như tiếng ong bay: zzz.",
+   "sound_words": [
+    "zoo",
+    "zip"
+   ],
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/z/",
+   "syllables": [
+    "z"
+   ],
+   "phonics": "sound_z",
+   "example_en": "",
+   "example_vi": "Âm \"z\": giống âm \"s\" nhưng rung cổ như tiếng ong bay: zzz.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U08-W04",
+   "type": "word",
+   "en": "zoo",
+   "vi": "sở thú",
+   "ipa": "/zu/",
+   "syllables": [
+    "zoo"
+   ],
+   "phonics": "initial_z",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "I like the zoo.",
+   "example_vi": "Tớ thích sở thú.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W05",
+   "type": "word",
+   "en": "zip",
+   "vi": "khoá kéo",
+   "ipa": "/zɪp/",
+   "syllables": [
+    "zip"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F910"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "It's a zip.",
+   "example_vi": "Đó là cái khoá kéo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W06",
+   "type": "word",
+   "en": "small",
+   "vi": "nhỏ",
+   "ipa": "/smɔl/",
+   "syllables": [
+    "small"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F42D"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "It's a small cat.",
+   "example_vi": "Đó là một con mèo nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W07",
+   "type": "word",
+   "en": "hot",
+   "vi": "nóng",
+   "ipa": "/hɑt/",
+   "syllables": [
+    "hot"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F975"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "The rice is hot.",
+   "example_vi": "Cơm nóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W08",
+   "type": "word",
+   "en": "cold",
+   "vi": "lạnh",
+   "ipa": "/koʊld/",
+   "syllables": [
+    "cold"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F976"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "The water is cold.",
+   "example_vi": "Nước lạnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-L02",
+   "type": "letter",
+   "en": "w",
+   "vi": "chữ w",
+   "letter": "w",
+   "sound": "/w/",
+   "tip_vi": "Âm \"w\": chu môi tròn rồi mở ra nhanh: w-w.",
+   "sound_words": [
+    "water",
+    "web"
+   ],
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/w/",
+   "syllables": [
+    "w"
+   ],
+   "phonics": "sound_w",
+   "example_en": "",
+   "example_vi": "Âm \"w\": chu môi tròn rồi mở ra nhanh: w-w.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U08-W09",
+   "type": "word",
+   "en": "web",
+   "vi": "mạng nhện",
+   "ipa": "/wɛb/",
+   "syllables": [
+    "web"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F578-FE0F"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "It's a big web.",
+   "example_vi": "Đó là cái mạng nhện to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W10",
+   "type": "word",
+   "en": "hungry",
+   "vi": "đói",
+   "ipa": "/ˈhʌŋɡri/",
+   "syllables": [
+    "hun",
+    "gry"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F924"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "I'm hungry.",
+   "example_vi": "Tớ đói.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W11",
+   "type": "word",
+   "en": "tired",
+   "vi": "mệt",
+   "ipa": "/taɪʌrd/",
+   "syllables": [
+    "tired"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F634"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "I'm tired.",
+   "example_vi": "Tớ mệt.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W12",
+   "type": "word",
+   "en": "good",
+   "vi": "tốt, ngoan",
+   "ipa": "/ɡʊd/",
+   "syllables": [
+    "good"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "Good dog!",
+   "example_vi": "Chú chó ngoan!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U08-W13",
+   "type": "word",
+   "en": "funny",
+   "vi": "buồn cười",
+   "ipa": "/ˈfʌni/",
+   "syllables": [
+    "fun",
+    "ny"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F923"
+   },
+   "picturable": true,
+   "cat": "L0U08",
+   "example_en": "The duck is funny.",
+   "example_vi": "Con vịt buồn cười quá.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U08-P01",
+   "en": "I'm {x}.",
+   "vi": "Tớ {x}.",
+   "slots": {
+    "x": [
+     "happy",
+     "sad",
+     "hungry",
+     "tired"
+    ]
+   }
+  },
+  {
+   "id": "L0U08-P02",
+   "en": "It's {x}.",
+   "vi": "Nó {x}.",
+   "slots": {
+    "x": [
+     "big",
+     "small",
+     "hot",
+     "cold"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U08-D01",
+   "title_vi": "Cậu thế nào?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "How are you?",
+     "vi": "Cậu thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm happy!",
+     "vi": "Tớ vui!"
+    },
+    {
+     "role": "Bi",
+     "en": "Good! I'm happy too.",
+     "vi": "Tốt quá! Tớ cũng vui."
+    },
+    {
+     "role": "Kid",
+     "en": "Yay!",
+     "vi": "Hoan hô!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "happy",
+    "options": [
+     "tired",
+     "hungry"
+    ]
+   }
+  },
+  {
+   "id": "L0U08-D02",
+   "title_vi": "Tớ đói",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, I'm hungry.",
+     "vi": "Bi ơi, tớ đói."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you like cake?",
+     "vi": "Cậu có thích bánh ngọt không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, please!",
+     "vi": "Có ạ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Here you are. A big cake!",
+     "vi": "Của cậu đây. Một cái bánh to!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "cake",
+    "options": [
+     "bread",
+     "rice",
+     "noodles"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "Z"
+  },
+  {
+   "type": "trace_letter",
+   "target": "z"
+  },
+  {
+   "type": "trace_letter",
+   "target": "W"
+  },
+  {
+   "type": "trace_letter",
+   "target": "w"
+  },
+  {
+   "type": "trace_letter",
+   "target": "h"
+  },
+  {
+   "type": "trace_letter",
+   "target": "s"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  },
+  {
+   "type": "trace_letter",
+   "target": "c"
+  },
+  {
+   "type": "trace_letter",
+   "target": "t"
+  },
+  {
+   "type": "trace_letter",
+   "target": "g"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "happy",
+   "item": "happy",
+   "options": [
+    "happy",
+    "hungry",
+    "tired"
+   ],
+   "answer": "happy"
+  },
+  {
+   "id": "L0U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sad",
+   "item": "sad",
+   "options": [
+    "big",
+    "sad",
+    "funny"
+   ],
+   "answer": "sad"
+  },
+  {
+   "id": "L0U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "big",
+   "item": "big",
+   "options": [
+    "sad",
+    "cold",
+    "big"
+   ],
+   "answer": "big"
+  },
+  {
+   "id": "L0U08-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "zoo",
+   "item": "zoo",
+   "options": [
+    "zoo",
+    "cold",
+    "funny"
+   ],
+   "answer": "zoo"
+  },
+  {
+   "id": "L0U08-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "zip",
+   "item": "zip",
+   "options": [
+    "zoo",
+    "zip",
+    "good"
+   ],
+   "answer": "zip"
+  },
+  {
+   "id": "L0U08-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "small",
+   "item": "small",
+   "options": [
+    "hungry",
+    "zip",
+    "small"
+   ],
+   "answer": "small"
+  },
+  {
+   "id": "L0U08-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hot",
+   "item": "hot",
+   "options": [
+    "good",
+    "hot",
+    "small"
+   ],
+   "answer": "hot"
+  },
+  {
+   "id": "L0U08-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cold",
+   "item": "cold",
+   "options": [
+    "zoo",
+    "zip",
+    "cold"
+   ],
+   "answer": "cold"
+  },
+  {
+   "id": "L0U08-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "web",
+   "item": "web",
+   "options": [
+    "cold",
+    "web",
+    "good"
+   ],
+   "answer": "web"
+  },
+  {
+   "id": "L0U08-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hungry",
+   "item": "hungry",
+   "options": [
+    "big",
+    "hot",
+    "hungry"
+   ],
+   "answer": "hungry"
+  },
+  {
+   "id": "L0U08-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tired",
+   "item": "tired",
+   "options": [
+    "zip",
+    "big",
+    "tired"
+   ],
+   "answer": "tired"
+  },
+  {
+   "id": "L0U08-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "good",
+   "item": "good",
+   "options": [
+    "tired",
+    "happy",
+    "good"
+   ],
+   "answer": "good"
+  },
+  {
+   "id": "L0U08-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "funny",
+   "item": "funny",
+   "options": [
+    "small",
+    "funny",
+    "cold"
+   ],
+   "answer": "funny"
+  },
+  {
+   "id": "L0U08-Q014",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the happy green.",
+   "item": "happy",
+   "options": [
+    "big",
+    "happy",
+    "sad"
+   ],
+   "answer": "happy",
+   "color": "green"
+  },
+  {
+   "id": "L0U08-Q015",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the sad red.",
+   "item": "sad",
+   "options": [
+    "sad",
+    "good",
+    "tired"
+   ],
+   "answer": "sad",
+   "color": "red"
+  },
+  {
+   "id": "L0U08-Q016",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the big orange.",
+   "item": "big",
+   "options": [
+    "hot",
+    "big",
+    "zip"
+   ],
+   "answer": "big",
+   "color": "orange"
+  },
+  {
+   "id": "L0U08-Q017",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the zoo green.",
+   "item": "zoo",
+   "options": [
+    "small",
+    "zoo",
+    "tired"
+   ],
+   "answer": "zoo",
+   "color": "green"
+  },
+  {
+   "id": "L0U08-Q018",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "happy",
+   "answer": "happy"
+  },
+  {
+   "id": "L0U08-Q019",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sad",
+   "answer": "sad"
+  },
+  {
+   "id": "L0U08-Q020",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "big",
+   "answer": "big"
+  },
+  {
+   "id": "L0U08-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "zoo",
+   "answer": "zoo"
+  },
+  {
+   "id": "L0U08-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "zip",
+   "answer": "zip"
+  },
+  {
+   "id": "L0U08-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "small",
+   "answer": "small"
+  },
+  {
+   "id": "L0U08-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hot",
+   "answer": "hot"
+  },
+  {
+   "id": "L0U08-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cold",
+   "answer": "cold"
+  },
+  {
+   "id": "L0U08-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "web",
+   "answer": "web"
+  },
+  {
+   "id": "L0U08-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hungry",
+   "answer": "hungry"
+  },
+  {
+   "id": "L0U08-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tired",
+   "answer": "tired"
+  },
+  {
+   "id": "L0U08-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "good",
+   "answer": "good"
+  },
+  {
+   "id": "L0U08-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "funny",
+   "answer": "funny"
+  },
+  {
+   "id": "L0U08-Q031",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm happy.",
+   "item": "happy",
+   "answer": "I'm happy."
+  },
+  {
+   "id": "L0U08-Q032",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby is sad.",
+   "item": "sad",
+   "answer": "The baby is sad."
+  },
+  {
+   "id": "L0U08-Q033",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a big dog.",
+   "item": "big",
+   "answer": "It's a big dog."
+  },
+  {
+   "id": "L0U08-Q034",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the zoo.",
+   "item": "zoo",
+   "answer": "I like the zoo."
+  },
+  {
+   "id": "L0U08-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a zip.",
+   "item": "zip",
+   "answer": "It's a zip."
+  },
+  {
+   "id": "L0U08-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a small cat.",
+   "item": "small",
+   "answer": "It's a small cat."
+  },
+  {
+   "id": "L0U08-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rice is hot.",
+   "item": "hot",
+   "answer": "The rice is hot."
+  },
+  {
+   "id": "L0U08-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The water is cold.",
+   "item": "cold",
+   "answer": "The water is cold."
+  },
+  {
+   "id": "L0U08-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a big web.",
+   "item": "web",
+   "answer": "It's a big web."
+  },
+  {
+   "id": "L0U08-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm hungry.",
+   "item": "hungry",
+   "answer": "I'm hungry."
+  },
+  {
+   "id": "L0U08-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm tired.",
+   "item": "tired",
+   "answer": "I'm tired."
+  },
+  {
+   "id": "L0U08-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Good dog!",
+   "item": "good",
+   "answer": "Good dog!"
+  },
+  {
+   "id": "L0U08-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The duck is funny.",
+   "item": "funny",
+   "answer": "The duck is funny."
+  },
+  {
+   "id": "L0U08-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm happy.",
+   "answer": "I'm happy."
+  },
+  {
+   "id": "L0U08-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sad.",
+   "answer": "I'm sad."
+  },
+  {
+   "id": "L0U08-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm hungry.",
+   "answer": "I'm hungry."
+  },
+  {
+   "id": "L0U08-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's big.",
+   "answer": "It's big."
+  },
+  {
+   "id": "L0U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's small.",
+   "answer": "It's small."
+  },
+  {
+   "id": "L0U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's hot.",
+   "answer": "It's hot."
+  },
+  {
+   "id": "L0U08-Q050",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How are you?",
+   "answer": "I'm happy!"
+  },
+  {
+   "id": "L0U08-Q051",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like cake?",
+   "answer": "Yes, please!"
+  },
+  {
+   "id": "L0U08-Q052",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "z",
+   "options": [
+    "n",
+    "s",
+    "z"
+   ],
+   "answer": "z"
+  },
+  {
+   "id": "L0U08-Q053",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "w",
+   "options": [
+    "w",
+    "b",
+    "s"
+   ],
+   "answer": "w"
+  },
+  {
+   "id": "L0U08-Q054",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "Z"
+  },
+  {
+   "id": "L0U08-Q055",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "z"
+  },
+  {
+   "id": "L0U08-Q056",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "W"
+  },
+  {
+   "id": "L0U08-Q057",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "w"
+  },
+  {
+   "id": "L0U08-Q058",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "h"
+  },
+  {
+   "id": "L0U08-Q059",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "s"
+  },
+  {
+   "id": "L0U08-Q060",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  },
+  {
+   "id": "L0U08-Q061",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "c"
+  },
+  {
+   "id": "L0U08-Q062",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "t"
+  },
+  {
+   "id": "L0U08-Q063",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "g"
+  }
+ ]
+}

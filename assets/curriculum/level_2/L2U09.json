@@ -1,0 +1,2357 @@
+{
+ "id": "L2U09",
+ "level": 2,
+ "unit": 9,
+ "topic_en": "Yesterday",
+ "topic_vi": "Hôm qua",
+ "can_do_vi": [
+  "Kể về hôm qua bằng thì quá khứ đơn",
+  "Hỏi \"What did you do?\""
+ ],
+ "items": [
+  {
+   "id": "L2U09-W01",
+   "type": "word",
+   "en": "was",
+   "vi": "đã là, đã ở (I/he/she)",
+   "ipa": "/wɑz/",
+   "syllables": [
+    "was"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "23EA"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I was at home yesterday.",
+   "example_vi": "Hôm qua tớ ở nhà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W02",
+   "type": "word",
+   "en": "were",
+   "vi": "đã là, đã ở (you/we/they)",
+   "ipa": "/wʌr/",
+   "syllables": [
+    "were"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "23EA"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "We were at the beach.",
+   "example_vi": "Nhà tớ đã ở bãi biển.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W03",
+   "type": "word",
+   "en": "went",
+   "vi": "đã đi",
+   "ipa": "/wɛnt/",
+   "syllables": [
+    "went"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I went to the zoo.",
+   "example_vi": "Tớ đã đi sở thú.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W04",
+   "type": "word",
+   "en": "saw",
+   "vi": "đã nhìn thấy",
+   "ipa": "/sɔ/",
+   "syllables": [
+    "saw"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "I saw a big elephant.",
+   "example_vi": "Tớ đã thấy một con voi to.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W05",
+   "type": "word",
+   "en": "ate",
+   "vi": "đã ăn",
+   "ipa": "/eɪt/",
+   "syllables": [
+    "ate"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "We ate pizza for dinner.",
+   "example_vi": "Nhà tớ ăn pi-za vào bữa tối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W06",
+   "type": "word",
+   "en": "drank",
+   "vi": "đã uống",
+   "ipa": "/dræŋk/",
+   "syllables": [
+    "drank"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I drank some juice.",
+   "example_vi": "Tớ đã uống nước hoa quả.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W07",
+   "type": "word",
+   "en": "did",
+   "vi": "đã làm",
+   "ipa": "/dɪd/",
+   "syllables": [
+    "did"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "What did you do yesterday?",
+   "example_vi": "Hôm qua cậu đã làm gì?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W08",
+   "type": "word",
+   "en": "made",
+   "vi": "đã làm ra",
+   "ipa": "/meɪd/",
+   "syllables": [
+    "made"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F6E0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I made a card for Mum.",
+   "example_vi": "Tớ đã làm một tấm thiệp tặng mẹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W09",
+   "type": "word",
+   "en": "took",
+   "vi": "đã lấy, đã mang",
+   "ipa": "/tʊk/",
+   "syllables": [
+    "took"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4F8"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "Dad took a photo.",
+   "example_vi": "Bố đã chụp một bức ảnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W10",
+   "type": "word",
+   "en": "gave",
+   "vi": "đã đưa, đã tặng",
+   "ipa": "/ɡeɪv/",
+   "syllables": [
+    "gave"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "Grandma gave me a present.",
+   "example_vi": "Bà đã tặng tớ một món quà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W11",
+   "type": "word",
+   "en": "came",
+   "vi": "đã đến",
+   "ipa": "/keɪm/",
+   "syllables": [
+    "came"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F44B"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "My cousin came to my house.",
+   "example_vi": "Em họ tớ đã đến nhà tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W12",
+   "type": "word",
+   "en": "got",
+   "vi": "đã nhận được",
+   "ipa": "/ɡɑt/",
+   "syllables": [
+    "got"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F4EC"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I got a new book.",
+   "example_vi": "Tớ đã nhận được một quyển sách mới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W13",
+   "type": "word",
+   "en": "ran",
+   "vi": "đã chạy",
+   "ipa": "/ræn/",
+   "syllables": [
+    "ran"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "The dog ran in the park.",
+   "example_vi": "Con chó đã chạy trong công viên.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W14",
+   "type": "word",
+   "en": "swam",
+   "vi": "đã bơi",
+   "ipa": "/swæm/",
+   "syllables": [
+    "swam"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3CA-200D-2640-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "We swam in the sea.",
+   "example_vi": "Nhà tớ đã bơi ở biển.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W15",
+   "type": "word",
+   "en": "sat",
+   "vi": "đã ngồi",
+   "ipa": "/sæt/",
+   "syllables": [
+    "sat"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1FA91"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "I sat next to my friend.",
+   "example_vi": "Tớ đã ngồi cạnh bạn tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W16",
+   "type": "word",
+   "en": "said",
+   "vi": "đã nói",
+   "ipa": "/sɛd/",
+   "syllables": [
+    "said"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "Mum said, \"Good job!\"",
+   "example_vi": "Mẹ đã nói: \"Giỏi lắm!\"",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W17",
+   "type": "word",
+   "en": "played",
+   "vi": "đã chơi",
+   "ipa": "/pleɪd/",
+   "syllables": [
+    "played"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3B2"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I played with my sister.",
+   "example_vi": "Tớ đã chơi với chị gái.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W18",
+   "type": "word",
+   "en": "visit",
+   "vi": "thăm",
+   "ipa": "/ˈvɪzɪt/",
+   "syllables": [
+    "vis",
+    "it"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F3E1"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "We visit Grandma on Sunday.",
+   "example_vi": "Chủ nhật nhà tớ đi thăm bà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W19",
+   "type": "word",
+   "en": "stay",
+   "vi": "ở lại",
+   "ipa": "/steɪ/",
+   "syllables": [
+    "stay"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3E8"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "We stay at home when it rains.",
+   "example_vi": "Trời mưa thì nhà tớ ở nhà.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W20",
+   "type": "word",
+   "en": "holiday",
+   "vi": "kỳ nghỉ",
+   "ipa": "/ˈhɑlɪˌdeɪ/",
+   "syllables": [
+    "hol",
+    "i",
+    "day"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F9F3"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "We went on holiday in the summer.",
+   "example_vi": "Mùa hè nhà tớ đã đi nghỉ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W21",
+   "type": "word",
+   "en": "trip",
+   "vi": "chuyến đi",
+   "ipa": "/trɪp/",
+   "syllables": [
+    "trip"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F690"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "The school trip was fun.",
+   "example_vi": "Chuyến đi của trường rất vui.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W22",
+   "type": "word",
+   "en": "ago",
+   "vi": "cách đây",
+   "ipa": "/əˈɡoʊ/",
+   "syllables": [
+    "ago"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I saw a whale two days ago.",
+   "example_vi": "Hai ngày trước tớ đã thấy cá voi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W23",
+   "type": "word",
+   "en": "really",
+   "vi": "thật sự",
+   "ipa": "/ˈrɪli/",
+   "syllables": [
+    "really"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F62E"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "It was really fun!",
+   "example_vi": "Thật sự rất vui!",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W24",
+   "type": "word",
+   "en": "wonderful",
+   "vi": "tuyệt vời",
+   "ipa": "/ˈwʌndərfəl/",
+   "syllables": [
+    "won",
+    "der",
+    "ful"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F929"
+   },
+   "picturable": true,
+   "cat": "L2U09",
+   "example_en": "We had a wonderful day.",
+   "example_vi": "Nhà tớ đã có một ngày tuyệt vời.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W25",
+   "type": "word",
+   "en": "terrible",
+   "vi": "tệ hại",
+   "ipa": "/ˈtɛrəbəl/",
+   "syllables": [
+    "ter",
+    "ri",
+    "ble"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F616"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "The weather was terrible.",
+   "example_vi": "Thời tiết đã rất tệ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W26",
+   "type": "word",
+   "en": "bring",
+   "vi": "mang theo",
+   "ipa": "/brɪŋ/",
+   "syllables": [
+    "bring"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F392"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "Bring your hat to the beach.",
+   "example_vi": "Mang mũ đi biển nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U09-W27",
+   "type": "phrase",
+   "en": "last night",
+   "vi": "tối qua",
+   "ipa": "/læst naɪt/",
+   "syllables": [
+    "last",
+    "night"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F319"
+   },
+   "picturable": false,
+   "cat": "L2U09",
+   "example_en": "I read a book last night.",
+   "example_vi": "Tối qua tớ đã đọc sách.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U09-P01",
+   "en": "Yesterday I {x}.",
+   "vi": "Hôm qua tớ {x}.",
+   "slots": {
+    "x": [
+     "went to the park",
+     "played football",
+     "visited Grandma",
+     "made a cake"
+    ]
+   }
+  },
+  {
+   "id": "L2U09-P02",
+   "en": "I was at {x} yesterday.",
+   "vi": "Hôm qua tớ ở {x}.",
+   "slots": {
+    "x": [
+     "home",
+     "school",
+     "the beach",
+     "the zoo"
+    ]
+   }
+  },
+  {
+   "id": "L2U09-P03",
+   "en": "Did you {x}?",
+   "vi": "Cậu có {x} không?",
+   "slots": {
+    "x": [
+     "go to the zoo",
+     "see a lion",
+     "eat ice cream"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U09-D01",
+   "title_vi": "Hôm qua cậu làm gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What did you do yesterday?",
+     "vi": "Hôm qua cậu đã làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I went to the zoo.",
+     "vi": "Tớ đã đi sở thú."
+    },
+    {
+     "role": "Bi",
+     "en": "What did you see?",
+     "vi": "Cậu đã thấy gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I saw a lion and two zebras.",
+     "vi": "Tớ đã thấy một con sư tử và hai con ngựa vằn."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! Was it fun?",
+     "vi": "Ồ! Có vui không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, it was really fun!",
+     "vi": "Có, vui thật sự!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "zoo",
+    "options": [
+     "park",
+     "beach"
+    ]
+   }
+  },
+  {
+   "id": "L2U09-D02",
+   "title_vi": "Kỳ nghỉ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Where did you go on holiday?",
+     "vi": "Cậu đi nghỉ ở đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "We went to the beach.",
+     "vi": "Nhà tớ đi biển."
+    },
+    {
+     "role": "Bi",
+     "en": "Did you swim?",
+     "vi": "Cậu có bơi không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I swam every day.",
+     "vi": "Có! Ngày nào tớ cũng bơi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "beach",
+    "options": [
+     "lake",
+     "farm"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "was"
+  },
+  {
+   "type": "dictate_word",
+   "target": "were"
+  },
+  {
+   "type": "dictate_word",
+   "target": "went"
+  },
+  {
+   "type": "dictate_word",
+   "target": "saw"
+  },
+  {
+   "type": "dictate_word",
+   "target": "ate"
+  },
+  {
+   "type": "dictate_word",
+   "target": "drank"
+  },
+  {
+   "type": "dictate_word",
+   "target": "did"
+  },
+  {
+   "type": "dictate_word",
+   "target": "made"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I was at home yesterday."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We were at the beach."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I went to the zoo."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U09-R01",
+   "title_en": "A day at the zoo",
+   "text_en": [
+    "Last Sunday, Ben went to the zoo with his dad.",
+    "They saw a big elephant and some funny monkeys.",
+    "Ben took a photo of a tiger.",
+    "They ate ice cream.",
+    "Ben was tired but happy."
+   ],
+   "questions": [
+    {
+     "q": "Who went to the zoo with Ben?",
+     "options": [
+      "His dad.",
+      "His mum.",
+      "His teacher."
+     ],
+     "answer": "His dad."
+    },
+    {
+     "q": "What did Ben take a photo of?",
+     "options": [
+      "A tiger.",
+      "A monkey.",
+      "An elephant."
+     ],
+     "answer": "A tiger."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "saw",
+   "item": "saw",
+   "options": [
+    "ran",
+    "holiday",
+    "saw",
+    "swam"
+   ],
+   "answer": "saw"
+  },
+  {
+   "id": "L2U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ran",
+   "item": "ran",
+   "options": [
+    "ran",
+    "trip",
+    "said",
+    "saw"
+   ],
+   "answer": "ran"
+  },
+  {
+   "id": "L2U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "swam",
+   "item": "swam",
+   "options": [
+    "swam",
+    "sat",
+    "trip",
+    "saw"
+   ],
+   "answer": "swam"
+  },
+  {
+   "id": "L2U09-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sat",
+   "item": "sat",
+   "options": [
+    "wonderful",
+    "sat",
+    "said",
+    "ran"
+   ],
+   "answer": "sat"
+  },
+  {
+   "id": "L2U09-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "said",
+   "item": "said",
+   "options": [
+    "trip",
+    "said",
+    "swam",
+    "saw"
+   ],
+   "answer": "said"
+  },
+  {
+   "id": "L2U09-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "holiday",
+   "item": "holiday",
+   "options": [
+    "wonderful",
+    "said",
+    "holiday",
+    "ran"
+   ],
+   "answer": "holiday"
+  },
+  {
+   "id": "L2U09-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "trip",
+   "item": "trip",
+   "options": [
+    "said",
+    "ran",
+    "wonderful",
+    "trip"
+   ],
+   "answer": "trip"
+  },
+  {
+   "id": "L2U09-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wonderful",
+   "item": "wonderful",
+   "options": [
+    "sat",
+    "swam",
+    "saw",
+    "wonderful"
+   ],
+   "answer": "wonderful"
+  },
+  {
+   "id": "L2U09-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "was",
+   "item": "was",
+   "options": [
+    "said",
+    "was",
+    "got",
+    "visit"
+   ],
+   "answer": "was"
+  },
+  {
+   "id": "L2U09-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "were",
+   "item": "were",
+   "options": [
+    "were",
+    "did",
+    "visit",
+    "gave"
+   ],
+   "answer": "were"
+  },
+  {
+   "id": "L2U09-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "went",
+   "item": "went",
+   "options": [
+    "terrible",
+    "drank",
+    "went",
+    "last night"
+   ],
+   "answer": "went"
+  },
+  {
+   "id": "L2U09-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ate",
+   "item": "ate",
+   "options": [
+    "visit",
+    "swam",
+    "gave",
+    "ate"
+   ],
+   "answer": "ate"
+  },
+  {
+   "id": "L2U09-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drank",
+   "item": "drank",
+   "options": [
+    "came",
+    "got",
+    "were",
+    "drank"
+   ],
+   "answer": "drank"
+  },
+  {
+   "id": "L2U09-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "did",
+   "item": "did",
+   "options": [
+    "sat",
+    "holiday",
+    "made",
+    "did"
+   ],
+   "answer": "did"
+  },
+  {
+   "id": "L2U09-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "made",
+   "item": "made",
+   "options": [
+    "went",
+    "stay",
+    "made",
+    "sat"
+   ],
+   "answer": "made"
+  },
+  {
+   "id": "L2U09-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "took",
+   "item": "took",
+   "options": [
+    "bring",
+    "took",
+    "visit",
+    "made"
+   ],
+   "answer": "took"
+  },
+  {
+   "id": "L2U09-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gave",
+   "item": "gave",
+   "options": [
+    "gave",
+    "swam",
+    "holiday",
+    "said"
+   ],
+   "answer": "gave"
+  },
+  {
+   "id": "L2U09-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "came",
+   "item": "came",
+   "options": [
+    "came",
+    "stay",
+    "swam",
+    "drank"
+   ],
+   "answer": "came"
+  },
+  {
+   "id": "L2U09-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "got",
+   "item": "got",
+   "options": [
+    "got",
+    "bring",
+    "trip",
+    "ate"
+   ],
+   "answer": "got"
+  },
+  {
+   "id": "L2U09-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "played",
+   "item": "played",
+   "options": [
+    "terrible",
+    "sat",
+    "played",
+    "made"
+   ],
+   "answer": "played"
+  },
+  {
+   "id": "L2U09-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "visit",
+   "item": "visit",
+   "options": [
+    "stay",
+    "visit",
+    "went",
+    "wonderful"
+   ],
+   "answer": "visit"
+  },
+  {
+   "id": "L2U09-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stay",
+   "item": "stay",
+   "options": [
+    "swam",
+    "visit",
+    "made",
+    "stay"
+   ],
+   "answer": "stay"
+  },
+  {
+   "id": "L2U09-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ago",
+   "item": "ago",
+   "options": [
+    "got",
+    "ago",
+    "was",
+    "terrible"
+   ],
+   "answer": "ago"
+  },
+  {
+   "id": "L2U09-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "really",
+   "item": "really",
+   "options": [
+    "really",
+    "came",
+    "visit",
+    "ago"
+   ],
+   "answer": "really"
+  },
+  {
+   "id": "L2U09-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "terrible",
+   "item": "terrible",
+   "options": [
+    "got",
+    "terrible",
+    "played",
+    "wonderful"
+   ],
+   "answer": "terrible"
+  },
+  {
+   "id": "L2U09-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bring",
+   "item": "bring",
+   "options": [
+    "stay",
+    "terrible",
+    "bring",
+    "made"
+   ],
+   "answer": "bring"
+  },
+  {
+   "id": "L2U09-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "last night",
+   "item": "last night",
+   "options": [
+    "last night",
+    "terrible",
+    "wonderful",
+    "was"
+   ],
+   "answer": "last night"
+  },
+  {
+   "id": "L2U09-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "saw",
+   "answer": "saw"
+  },
+  {
+   "id": "L2U09-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ran",
+   "answer": "ran"
+  },
+  {
+   "id": "L2U09-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "swam",
+   "answer": "swam"
+  },
+  {
+   "id": "L2U09-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sat",
+   "answer": "sat"
+  },
+  {
+   "id": "L2U09-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "said",
+   "answer": "said"
+  },
+  {
+   "id": "L2U09-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "holiday",
+   "answer": "holiday"
+  },
+  {
+   "id": "L2U09-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "trip",
+   "answer": "trip"
+  },
+  {
+   "id": "L2U09-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wonderful",
+   "answer": "wonderful"
+  },
+  {
+   "id": "L2U09-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was at home yesterday.",
+   "item": "was",
+   "answer": "I was at home yesterday."
+  },
+  {
+   "id": "L2U09-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We were at the beach.",
+   "item": "were",
+   "answer": "We were at the beach."
+  },
+  {
+   "id": "L2U09-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I went to the zoo.",
+   "item": "went",
+   "answer": "I went to the zoo."
+  },
+  {
+   "id": "L2U09-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I saw a big elephant.",
+   "item": "saw",
+   "answer": "I saw a big elephant."
+  },
+  {
+   "id": "L2U09-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We ate pizza for dinner.",
+   "item": "ate",
+   "answer": "We ate pizza for dinner."
+  },
+  {
+   "id": "L2U09-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I drank some juice.",
+   "item": "drank",
+   "answer": "I drank some juice."
+  },
+  {
+   "id": "L2U09-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What did you do yesterday?",
+   "item": "did",
+   "answer": "What did you do yesterday?"
+  },
+  {
+   "id": "L2U09-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I made a card for Mum.",
+   "item": "made",
+   "answer": "I made a card for Mum."
+  },
+  {
+   "id": "L2U09-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad took a photo.",
+   "item": "took",
+   "answer": "Dad took a photo."
+  },
+  {
+   "id": "L2U09-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma gave me a present.",
+   "item": "gave",
+   "answer": "Grandma gave me a present."
+  },
+  {
+   "id": "L2U09-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin came to my house.",
+   "item": "came",
+   "answer": "My cousin came to my house."
+  },
+  {
+   "id": "L2U09-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got a new book.",
+   "item": "got",
+   "answer": "I got a new book."
+  },
+  {
+   "id": "L2U09-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dog ran in the park.",
+   "item": "ran",
+   "answer": "The dog ran in the park."
+  },
+  {
+   "id": "L2U09-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We swam in the sea.",
+   "item": "swam",
+   "answer": "We swam in the sea."
+  },
+  {
+   "id": "L2U09-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I sat next to my friend.",
+   "item": "sat",
+   "answer": "I sat next to my friend."
+  },
+  {
+   "id": "L2U09-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum said, \"Good job!\"",
+   "item": "said",
+   "answer": "Mum said, \"Good job!\""
+  },
+  {
+   "id": "L2U09-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I played with my sister.",
+   "item": "played",
+   "answer": "I played with my sister."
+  },
+  {
+   "id": "L2U09-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We visit Grandma on Sunday.",
+   "item": "visit",
+   "answer": "We visit Grandma on Sunday."
+  },
+  {
+   "id": "L2U09-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We stay at home when it rains.",
+   "item": "stay",
+   "answer": "We stay at home when it rains."
+  },
+  {
+   "id": "L2U09-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went on holiday in the summer.",
+   "item": "holiday",
+   "answer": "We went on holiday in the summer."
+  },
+  {
+   "id": "L2U09-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The school trip was fun.",
+   "item": "trip",
+   "answer": "The school trip was fun."
+  },
+  {
+   "id": "L2U09-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I saw a whale two days ago.",
+   "item": "ago",
+   "answer": "I saw a whale two days ago."
+  },
+  {
+   "id": "L2U09-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was really fun!",
+   "item": "really",
+   "answer": "It was really fun!"
+  },
+  {
+   "id": "L2U09-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had a wonderful day.",
+   "item": "wonderful",
+   "answer": "We had a wonderful day."
+  },
+  {
+   "id": "L2U09-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The weather was terrible.",
+   "item": "terrible",
+   "answer": "The weather was terrible."
+  },
+  {
+   "id": "L2U09-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bring your hat to the beach.",
+   "item": "bring",
+   "answer": "Bring your hat to the beach."
+  },
+  {
+   "id": "L2U09-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read a book last night.",
+   "item": "last night",
+   "answer": "I read a book last night."
+  },
+  {
+   "id": "L2U09-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I went to the park.",
+   "answer": "Yesterday I went to the park."
+  },
+  {
+   "id": "L2U09-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I played football.",
+   "answer": "Yesterday I played football."
+  },
+  {
+   "id": "L2U09-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I visited Grandma.",
+   "answer": "Yesterday I visited Grandma."
+  },
+  {
+   "id": "L2U09-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was at home yesterday.",
+   "answer": "I was at home yesterday."
+  },
+  {
+   "id": "L2U09-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was at school yesterday.",
+   "answer": "I was at school yesterday."
+  },
+  {
+   "id": "L2U09-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was at the beach yesterday.",
+   "answer": "I was at the beach yesterday."
+  },
+  {
+   "id": "L2U09-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Did you go to the zoo?",
+   "answer": "Did you go to the zoo?"
+  },
+  {
+   "id": "L2U09-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Did you see a lion?",
+   "answer": "Did you see a lion?"
+  },
+  {
+   "id": "L2U09-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Did you eat ice cream?",
+   "answer": "Did you eat ice cream?"
+  },
+  {
+   "id": "L2U09-Q072",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What did you do yesterday?",
+   "answer": "I went to the zoo."
+  },
+  {
+   "id": "L2U09-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What did you see?",
+   "answer": "I saw a lion and two zebras."
+  },
+  {
+   "id": "L2U09-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow! Was it fun?",
+   "answer": "Yes, it was really fun!"
+  },
+  {
+   "id": "L2U09-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where did you go on holiday?",
+   "answer": "We went to the beach."
+  },
+  {
+   "id": "L2U09-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Did you swim?",
+   "answer": "Yes! I swam every day."
+  },
+  {
+   "id": "L2U09-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "saw",
+   "options": [
+    "saw",
+    "holiday",
+    "ran"
+   ],
+   "answer": "saw"
+  },
+  {
+   "id": "L2U09-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ran",
+   "options": [
+    "ran",
+    "said",
+    "trip"
+   ],
+   "answer": "ran"
+  },
+  {
+   "id": "L2U09-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "swam",
+   "options": [
+    "said",
+    "swam",
+    "saw"
+   ],
+   "answer": "swam"
+  },
+  {
+   "id": "L2U09-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sat",
+   "options": [
+    "wonderful",
+    "sat",
+    "ran"
+   ],
+   "answer": "sat"
+  },
+  {
+   "id": "L2U09-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "said",
+   "options": [
+    "said",
+    "swam",
+    "holiday"
+   ],
+   "answer": "said"
+  },
+  {
+   "id": "L2U09-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "holiday",
+   "options": [
+    "trip",
+    "holiday",
+    "ran"
+   ],
+   "answer": "holiday"
+  },
+  {
+   "id": "L2U09-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "trip",
+   "options": [
+    "holiday",
+    "trip",
+    "saw"
+   ],
+   "answer": "trip"
+  },
+  {
+   "id": "L2U09-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wonderful",
+   "options": [
+    "trip",
+    "saw",
+    "wonderful"
+   ],
+   "answer": "wonderful"
+  },
+  {
+   "id": "L2U09-Q085",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ at home yesterday.",
+   "item": "was",
+   "options": [
+    "terrible",
+    "holiday",
+    "was"
+   ],
+   "answer": "was"
+  },
+  {
+   "id": "L2U09-Q086",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ at the beach.",
+   "item": "were",
+   "options": [
+    "terrible",
+    "were",
+    "really"
+   ],
+   "answer": "were"
+  },
+  {
+   "id": "L2U09-Q087",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ to the zoo.",
+   "item": "went",
+   "options": [
+    "did",
+    "wonderful",
+    "went"
+   ],
+   "answer": "went"
+  },
+  {
+   "id": "L2U09-Q088",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a big elephant.",
+   "item": "saw",
+   "options": [
+    "took",
+    "saw",
+    "wonderful"
+   ],
+   "answer": "saw"
+  },
+  {
+   "id": "L2U09-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ pizza for dinner.",
+   "item": "ate",
+   "options": [
+    "wonderful",
+    "ate",
+    "took"
+   ],
+   "answer": "ate"
+  },
+  {
+   "id": "L2U09-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ some juice.",
+   "item": "drank",
+   "options": [
+    "terrible",
+    "ago",
+    "drank"
+   ],
+   "answer": "drank"
+  },
+  {
+   "id": "L2U09-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ you do yesterday?",
+   "item": "did",
+   "options": [
+    "played",
+    "stay",
+    "did"
+   ],
+   "answer": "did"
+  },
+  {
+   "id": "L2U09-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a card for Mum.",
+   "item": "made",
+   "options": [
+    "made",
+    "said",
+    "ran"
+   ],
+   "answer": "made"
+  },
+  {
+   "id": "L2U09-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad ___ a photo.",
+   "item": "took",
+   "options": [
+    "came",
+    "took",
+    "drank"
+   ],
+   "answer": "took"
+  },
+  {
+   "id": "L2U09-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma ___ me a present.",
+   "item": "gave",
+   "options": [
+    "ago",
+    "gave",
+    "played"
+   ],
+   "answer": "gave"
+  },
+  {
+   "id": "L2U09-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin ___ to my house.",
+   "item": "came",
+   "options": [
+    "came",
+    "got",
+    "saw"
+   ],
+   "answer": "came"
+  },
+  {
+   "id": "L2U09-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a new book.",
+   "item": "got",
+   "options": [
+    "said",
+    "did",
+    "got"
+   ],
+   "answer": "got"
+  },
+  {
+   "id": "L2U09-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The dog ___ in the park.",
+   "item": "ran",
+   "options": [
+    "was",
+    "gave",
+    "ran"
+   ],
+   "answer": "ran"
+  },
+  {
+   "id": "L2U09-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ in the sea.",
+   "item": "swam",
+   "options": [
+    "swam",
+    "trip",
+    "really"
+   ],
+   "answer": "swam"
+  },
+  {
+   "id": "L2U09-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ next to my friend.",
+   "item": "sat",
+   "options": [
+    "sat",
+    "came",
+    "ago"
+   ],
+   "answer": "sat"
+  },
+  {
+   "id": "L2U09-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum ___, \"Good job!\"",
+   "item": "said",
+   "options": [
+    "said",
+    "wonderful",
+    "got"
+   ],
+   "answer": "said"
+  },
+  {
+   "id": "L2U09-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ with my sister.",
+   "item": "played",
+   "options": [
+    "played",
+    "came",
+    "ago"
+   ],
+   "answer": "played"
+  },
+  {
+   "id": "L2U09-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ Grandma on Sunday.",
+   "item": "visit",
+   "options": [
+    "really",
+    "wonderful",
+    "visit"
+   ],
+   "answer": "visit"
+  },
+  {
+   "id": "L2U09-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ at home when it rains.",
+   "item": "stay",
+   "options": [
+    "trip",
+    "ago",
+    "stay"
+   ],
+   "answer": "stay"
+  },
+  {
+   "id": "L2U09-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went on ___ in the summer.",
+   "item": "holiday",
+   "options": [
+    "stay",
+    "holiday",
+    "gave"
+   ],
+   "answer": "holiday"
+  },
+  {
+   "id": "L2U09-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The school ___ was fun.",
+   "item": "trip",
+   "options": [
+    "trip",
+    "got",
+    "were"
+   ],
+   "answer": "trip"
+  },
+  {
+   "id": "L2U09-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I saw a whale two days ___.",
+   "item": "ago",
+   "options": [
+    "ago",
+    "made",
+    "sat"
+   ],
+   "answer": "ago"
+  },
+  {
+   "id": "L2U09-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was ___ fun!",
+   "item": "really",
+   "options": [
+    "really",
+    "ran",
+    "were"
+   ],
+   "answer": "really"
+  },
+  {
+   "id": "L2U09-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had a ___ day.",
+   "item": "wonderful",
+   "options": [
+    "terrible",
+    "stay",
+    "wonderful"
+   ],
+   "answer": "wonderful"
+  },
+  {
+   "id": "L2U09-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The weather was ___.",
+   "item": "terrible",
+   "options": [
+    "said",
+    "trip",
+    "terrible"
+   ],
+   "answer": "terrible"
+  },
+  {
+   "id": "L2U09-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your hat to the beach.",
+   "item": "bring",
+   "options": [
+    "Holiday",
+    "Bring",
+    "Ran"
+   ],
+   "answer": "Bring"
+  },
+  {
+   "id": "L2U09-Q111",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I saw a big elephant.",
+   "item": "saw",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U09-Q112",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The dog ran in the park.",
+   "item": "swam",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U09-Q113",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We swam in the sea.",
+   "item": "swam",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U09-Q114",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I sat next to my friend.",
+   "item": "said",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U09-Q115",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mum said, \"Good job!\"",
+   "item": "said",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U09-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We went on holiday in the summer.",
+   "item": "trip",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U09-Q117",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The school trip was fun.",
+   "item": "trip",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U09-Q118",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We had a wonderful day.",
+   "item": "saw",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U09-Q119",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U09-R01",
+   "text_en": "Who went to the zoo with Ben?",
+   "options": [
+    "His teacher.",
+    "His dad.",
+    "His mum."
+   ],
+   "answer": "His dad."
+  },
+  {
+   "id": "L2U09-Q120",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U09-R01",
+   "text_en": "What did Ben take a photo of?",
+   "options": [
+    "An elephant.",
+    "A tiger.",
+    "A monkey."
+   ],
+   "answer": "A tiger."
+  },
+  {
+   "id": "L2U09-Q121",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "was",
+   "item": "was",
+   "answer": "was"
+  },
+  {
+   "id": "L2U09-Q122",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "were",
+   "item": "were",
+   "answer": "were"
+  },
+  {
+   "id": "L2U09-Q123",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "went",
+   "item": "went",
+   "answer": "went"
+  },
+  {
+   "id": "L2U09-Q124",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "saw",
+   "item": "saw",
+   "answer": "saw"
+  },
+  {
+   "id": "L2U09-Q125",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "ate",
+   "item": "ate",
+   "answer": "ate"
+  },
+  {
+   "id": "L2U09-Q126",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "drank",
+   "item": "drank",
+   "answer": "drank"
+  },
+  {
+   "id": "L2U09-Q127",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "did",
+   "item": "did",
+   "answer": "did"
+  },
+  {
+   "id": "L2U09-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "made",
+   "item": "made",
+   "answer": "made"
+  },
+  {
+   "id": "L2U09-Q129",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I was at home yesterday.",
+   "answer": "I was at home yesterday."
+  },
+  {
+   "id": "L2U09-Q130",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We were at the beach.",
+   "answer": "We were at the beach."
+  },
+  {
+   "id": "L2U09-Q131",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I went to the zoo.",
+   "answer": "I went to the zoo."
+  }
+ ]
+}

@@ -1,0 +1,1815 @@
+{
+ "id": "L1U04",
+ "level": 1,
+ "unit": 4,
+ "topic_en": "At school",
+ "topic_vi": "Ở trường",
+ "can_do_vi": [
+  "Gọi tên đồ dùng học tập",
+  "Nói \"Can I have a pencil, please?\""
+ ],
+ "items": [
+  {
+   "id": "L1U04-W01",
+   "type": "word",
+   "en": "school",
+   "vi": "trường học",
+   "ipa": "/skul/",
+   "syllables": [
+    "school"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3EB"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I like my school.",
+   "example_vi": "Tớ thích trường của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W02",
+   "type": "word",
+   "en": "teacher",
+   "vi": "cô giáo, thầy giáo",
+   "ipa": "/ˈtitʃər/",
+   "syllables": [
+    "teach",
+    "er"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9D1-200D-1F3EB"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "My teacher is nice.",
+   "example_vi": "Cô giáo tớ rất hiền.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U04-W03",
+   "type": "word",
+   "en": "classroom",
+   "vi": "lớp học",
+   "ipa": "/ˈklæsˌrum/",
+   "syllables": [
+    "class",
+    "room"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F393"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "This is my classroom.",
+   "example_vi": "Đây là lớp học của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U04-W04",
+   "type": "word",
+   "en": "desk",
+   "vi": "bàn học",
+   "ipa": "/dɛsk/",
+   "syllables": [
+    "desk"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1FA91"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "The book is on my desk.",
+   "example_vi": "Quyển sách ở trên bàn tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W05",
+   "type": "word",
+   "en": "pencil",
+   "vi": "bút chì",
+   "ipa": "/ˈpɛnsəl/",
+   "syllables": [
+    "pen",
+    "cil"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "270F-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Can I have a pencil, please?",
+   "example_vi": "Cho tớ xin một cái bút chì được không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W06",
+   "type": "word",
+   "en": "rubber",
+   "vi": "cục tẩy",
+   "ipa": "/ˈrʌbər/",
+   "syllables": [
+    "rub",
+    "ber"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9FD"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I have a small rubber.",
+   "example_vi": "Tớ có một cục tẩy nhỏ.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W07",
+   "type": "word",
+   "en": "ruler",
+   "vi": "thước kẻ",
+   "ipa": "/ˈrulər/",
+   "syllables": [
+    "ruler"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "It's a long ruler.",
+   "example_vi": "Đó là cái thước dài.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W08",
+   "type": "word",
+   "en": "paper",
+   "vi": "tờ giấy",
+   "ipa": "/ˈpeɪpər/",
+   "syllables": [
+    "pa",
+    "per"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Can I have paper, please?",
+   "example_vi": "Cho tớ xin giấy được không?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W09",
+   "type": "word",
+   "en": "board",
+   "vi": "cái bảng",
+   "ipa": "/bɔrd/",
+   "syllables": [
+    "board"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FAA7"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Look at the board.",
+   "example_vi": "Nhìn lên bảng nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W10",
+   "type": "word",
+   "en": "door",
+   "vi": "cửa ra vào",
+   "ipa": "/dɔr/",
+   "syllables": [
+    "door"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Open the door, please.",
+   "example_vi": "Mở cửa giúp tớ với.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W11",
+   "type": "word",
+   "en": "window",
+   "vi": "cửa sổ",
+   "ipa": "/ˈwɪndoʊ/",
+   "syllables": [
+    "win",
+    "dow"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FA9F"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Close the window, please.",
+   "example_vi": "Đóng cửa sổ giúp tớ với.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W12",
+   "type": "word",
+   "en": "read",
+   "vi": "đọc",
+   "ipa": "/rɛd/",
+   "syllables": [
+    "read"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I can read a book.",
+   "example_vi": "Tớ biết đọc sách.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W13",
+   "type": "word",
+   "en": "write",
+   "vi": "viết",
+   "ipa": "/raɪt/",
+   "syllables": [
+    "write"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I can write my name.",
+   "example_vi": "Tớ biết viết tên mình.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W14",
+   "type": "word",
+   "en": "draw",
+   "vi": "vẽ",
+   "ipa": "/drɔ/",
+   "syllables": [
+    "draw"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F58C-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I like to draw.",
+   "example_vi": "Tớ thích vẽ.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W15",
+   "type": "word",
+   "en": "count",
+   "vi": "đếm",
+   "ipa": "/kaʊnt/",
+   "syllables": [
+    "count"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I can count to ten.",
+   "example_vi": "Tớ đếm được đến mười.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W16",
+   "type": "word",
+   "en": "open",
+   "vi": "mở",
+   "ipa": "/ˈoʊpən/",
+   "syllables": [
+    "open"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4C2"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Open your book.",
+   "example_vi": "Mở sách ra nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W17",
+   "type": "word",
+   "en": "close",
+   "vi": "đóng",
+   "ipa": "/kloʊz/",
+   "syllables": [
+    "close"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4D5"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Close your book.",
+   "example_vi": "Gấp sách lại nào.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W18",
+   "type": "word",
+   "en": "sit",
+   "vi": "ngồi",
+   "ipa": "/sɪt/",
+   "syllables": [
+    "sit"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F9D8"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Sit down, please.",
+   "example_vi": "Mời cả lớp ngồi xuống.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W19",
+   "type": "word",
+   "en": "stand",
+   "vi": "đứng",
+   "ipa": "/stænd/",
+   "syllables": [
+    "stand"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "Stand up, please.",
+   "example_vi": "Mời cả lớp đứng lên.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U04-W20",
+   "type": "word",
+   "en": "lesson",
+   "vi": "bài học",
+   "ipa": "/ˈlɛsən/",
+   "syllables": [
+    "les",
+    "son"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": true,
+   "cat": "L1U04",
+   "example_en": "I like this lesson.",
+   "example_vi": "Tớ thích bài học này.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U04-P01",
+   "en": "Can I have a {x}, please?",
+   "vi": "Cho tớ xin {x} được không?",
+   "slots": {
+    "x": [
+     "pencil",
+     "rubber",
+     "ruler",
+     "book"
+    ]
+   }
+  },
+  {
+   "id": "L1U04-P02",
+   "en": "Open the {x}, please.",
+   "vi": "Mở {x} giúp tớ với.",
+   "slots": {
+    "x": [
+     "door",
+     "window",
+     "book",
+     "box"
+    ]
+   }
+  },
+  {
+   "id": "L1U04-P03",
+   "en": "I can {x}.",
+   "vi": "Tớ biết {x}.",
+   "slots": {
+    "x": [
+     "read",
+     "write",
+     "draw",
+     "count"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U04-D01",
+   "title_vi": "Mượn đồ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Can I have a pencil, please?",
+     "vi": "Cho tớ xin một cái bút chì được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! Here you are.",
+     "vi": "Được chứ! Của cậu đây."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, Bi!",
+     "vi": "Cảm ơn Bi!"
+    },
+    {
+     "role": "Bi",
+     "en": "You're welcome!",
+     "vi": "Không có gì!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "pencil",
+    "options": [
+     "rubber",
+     "ruler",
+     "crayon"
+    ]
+   }
+  },
+  {
+   "id": "L1U04-D02",
+   "title_vi": "Trong lớp",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Sit down, please. Open your book.",
+     "vi": "Mời cậu ngồi. Mở sách ra nào."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Can I read?",
+     "vi": "Vâng! Tớ đọc được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes, you can.",
+     "vi": "Được, cậu đọc đi."
+    },
+    {
+     "role": "Kid",
+     "en": "I like this lesson!",
+     "vi": "Tớ thích bài học này!"
+    }
+   ]
+  },
+  {
+   "id": "L1U04-D03",
+   "title_vi": "Cô giáo",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Who's that woman?",
+     "vi": "Người phụ nữ kia là ai?"
+    },
+    {
+     "role": "Kid",
+     "en": "She is my teacher.",
+     "vi": "Đó là cô giáo tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Is she nice?",
+     "vi": "Cô có hiền không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I like my teacher.",
+     "vi": "Có! Tớ quý cô giáo tớ."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "t"
+  },
+  {
+   "type": "write_letter",
+   "target": "c"
+  },
+  {
+   "type": "write_letter",
+   "target": "d"
+  },
+  {
+   "type": "copy_word",
+   "target": "school"
+  },
+  {
+   "type": "copy_word",
+   "target": "desk"
+  },
+  {
+   "type": "copy_word",
+   "target": "pencil"
+  },
+  {
+   "type": "copy_word",
+   "target": "rubber"
+  },
+  {
+   "type": "copy_word",
+   "target": "ruler"
+  },
+  {
+   "type": "copy_word",
+   "target": "paper"
+  },
+  {
+   "type": "copy_word",
+   "target": "board"
+  },
+  {
+   "type": "copy_word",
+   "target": "door"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "school",
+   "item": "school",
+   "options": [
+    "school",
+    "desk",
+    "teacher",
+    "classroom"
+   ],
+   "answer": "school"
+  },
+  {
+   "id": "L1U04-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "teacher",
+   "item": "teacher",
+   "options": [
+    "write",
+    "board",
+    "stand",
+    "teacher"
+   ],
+   "answer": "teacher"
+  },
+  {
+   "id": "L1U04-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "classroom",
+   "item": "classroom",
+   "options": [
+    "desk",
+    "classroom",
+    "open",
+    "count"
+   ],
+   "answer": "classroom"
+  },
+  {
+   "id": "L1U04-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "desk",
+   "item": "desk",
+   "options": [
+    "desk",
+    "stand",
+    "draw",
+    "door"
+   ],
+   "answer": "desk"
+  },
+  {
+   "id": "L1U04-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pencil",
+   "item": "pencil",
+   "options": [
+    "desk",
+    "pencil",
+    "paper",
+    "school"
+   ],
+   "answer": "pencil"
+  },
+  {
+   "id": "L1U04-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rubber",
+   "item": "rubber",
+   "options": [
+    "rubber",
+    "ruler",
+    "open",
+    "board"
+   ],
+   "answer": "rubber"
+  },
+  {
+   "id": "L1U04-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ruler",
+   "item": "ruler",
+   "options": [
+    "rubber",
+    "lesson",
+    "pencil",
+    "ruler"
+   ],
+   "answer": "ruler"
+  },
+  {
+   "id": "L1U04-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "paper",
+   "item": "paper",
+   "options": [
+    "close",
+    "paper",
+    "window",
+    "sit"
+   ],
+   "answer": "paper"
+  },
+  {
+   "id": "L1U04-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "board",
+   "item": "board",
+   "options": [
+    "board",
+    "teacher",
+    "lesson",
+    "pencil"
+   ],
+   "answer": "board"
+  },
+  {
+   "id": "L1U04-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "door",
+   "item": "door",
+   "options": [
+    "door",
+    "sit",
+    "board",
+    "teacher"
+   ],
+   "answer": "door"
+  },
+  {
+   "id": "L1U04-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "window",
+   "item": "window",
+   "options": [
+    "board",
+    "window",
+    "open",
+    "read"
+   ],
+   "answer": "window"
+  },
+  {
+   "id": "L1U04-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "read",
+   "item": "read",
+   "options": [
+    "read",
+    "write",
+    "count",
+    "sit"
+   ],
+   "answer": "read"
+  },
+  {
+   "id": "L1U04-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "write",
+   "item": "write",
+   "options": [
+    "draw",
+    "write",
+    "sit",
+    "stand"
+   ],
+   "answer": "write"
+  },
+  {
+   "id": "L1U04-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "draw",
+   "item": "draw",
+   "options": [
+    "desk",
+    "count",
+    "classroom",
+    "draw"
+   ],
+   "answer": "draw"
+  },
+  {
+   "id": "L1U04-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "count",
+   "item": "count",
+   "options": [
+    "classroom",
+    "open",
+    "lesson",
+    "count"
+   ],
+   "answer": "count"
+  },
+  {
+   "id": "L1U04-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "open",
+   "item": "open",
+   "options": [
+    "read",
+    "ruler",
+    "rubber",
+    "open"
+   ],
+   "answer": "open"
+  },
+  {
+   "id": "L1U04-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "close",
+   "item": "close",
+   "options": [
+    "ruler",
+    "window",
+    "close",
+    "count"
+   ],
+   "answer": "close"
+  },
+  {
+   "id": "L1U04-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sit",
+   "item": "sit",
+   "options": [
+    "rubber",
+    "classroom",
+    "sit",
+    "open"
+   ],
+   "answer": "sit"
+  },
+  {
+   "id": "L1U04-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "stand",
+   "item": "stand",
+   "options": [
+    "stand",
+    "rubber",
+    "close",
+    "draw"
+   ],
+   "answer": "stand"
+  },
+  {
+   "id": "L1U04-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lesson",
+   "item": "lesson",
+   "options": [
+    "stand",
+    "paper",
+    "lesson",
+    "close"
+   ],
+   "answer": "lesson"
+  },
+  {
+   "id": "L1U04-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the school yellow.",
+   "item": "school",
+   "options": [
+    "stand",
+    "write",
+    "school"
+   ],
+   "answer": "school",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U04-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the teacher green.",
+   "item": "teacher",
+   "options": [
+    "door",
+    "teacher",
+    "school"
+   ],
+   "answer": "teacher",
+   "color": "green"
+  },
+  {
+   "id": "L1U04-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the classroom yellow.",
+   "item": "classroom",
+   "options": [
+    "read",
+    "desk",
+    "classroom"
+   ],
+   "answer": "classroom",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U04-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the desk blue.",
+   "item": "desk",
+   "options": [
+    "lesson",
+    "pencil",
+    "desk"
+   ],
+   "answer": "desk",
+   "color": "blue"
+  },
+  {
+   "id": "L1U04-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "school",
+   "answer": "school"
+  },
+  {
+   "id": "L1U04-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "teacher",
+   "answer": "teacher"
+  },
+  {
+   "id": "L1U04-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "classroom",
+   "answer": "classroom"
+  },
+  {
+   "id": "L1U04-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "desk",
+   "answer": "desk"
+  },
+  {
+   "id": "L1U04-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pencil",
+   "answer": "pencil"
+  },
+  {
+   "id": "L1U04-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rubber",
+   "answer": "rubber"
+  },
+  {
+   "id": "L1U04-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ruler",
+   "answer": "ruler"
+  },
+  {
+   "id": "L1U04-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "paper",
+   "answer": "paper"
+  },
+  {
+   "id": "L1U04-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "board",
+   "answer": "board"
+  },
+  {
+   "id": "L1U04-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "door",
+   "answer": "door"
+  },
+  {
+   "id": "L1U04-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "window",
+   "answer": "window"
+  },
+  {
+   "id": "L1U04-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "read",
+   "answer": "read"
+  },
+  {
+   "id": "L1U04-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "write",
+   "answer": "write"
+  },
+  {
+   "id": "L1U04-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "draw",
+   "answer": "draw"
+  },
+  {
+   "id": "L1U04-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "count",
+   "answer": "count"
+  },
+  {
+   "id": "L1U04-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "open",
+   "answer": "open"
+  },
+  {
+   "id": "L1U04-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "close",
+   "answer": "close"
+  },
+  {
+   "id": "L1U04-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sit",
+   "answer": "sit"
+  },
+  {
+   "id": "L1U04-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "stand",
+   "answer": "stand"
+  },
+  {
+   "id": "L1U04-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lesson",
+   "answer": "lesson"
+  },
+  {
+   "id": "L1U04-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like my school.",
+   "item": "school",
+   "answer": "I like my school."
+  },
+  {
+   "id": "L1U04-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My teacher is nice.",
+   "item": "teacher",
+   "answer": "My teacher is nice."
+  },
+  {
+   "id": "L1U04-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my classroom.",
+   "item": "classroom",
+   "answer": "This is my classroom."
+  },
+  {
+   "id": "L1U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The book is on my desk.",
+   "item": "desk",
+   "answer": "The book is on my desk."
+  },
+  {
+   "id": "L1U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a pencil, please?",
+   "item": "pencil",
+   "answer": "Can I have a pencil, please?"
+  },
+  {
+   "id": "L1U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a small rubber.",
+   "item": "rubber",
+   "answer": "I have a small rubber."
+  },
+  {
+   "id": "L1U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a long ruler.",
+   "item": "ruler",
+   "answer": "It's a long ruler."
+  },
+  {
+   "id": "L1U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have paper, please?",
+   "item": "paper",
+   "answer": "Can I have paper, please?"
+  },
+  {
+   "id": "L1U04-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the board.",
+   "item": "board",
+   "answer": "Look at the board."
+  },
+  {
+   "id": "L1U04-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open the door, please.",
+   "item": "door",
+   "answer": "Open the door, please."
+  },
+  {
+   "id": "L1U04-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Close the window, please.",
+   "item": "window",
+   "answer": "Close the window, please."
+  },
+  {
+   "id": "L1U04-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can read a book.",
+   "item": "read",
+   "answer": "I can read a book."
+  },
+  {
+   "id": "L1U04-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can write my name.",
+   "item": "write",
+   "answer": "I can write my name."
+  },
+  {
+   "id": "L1U04-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like to draw.",
+   "item": "draw",
+   "answer": "I like to draw."
+  },
+  {
+   "id": "L1U04-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can count to ten.",
+   "item": "count",
+   "answer": "I can count to ten."
+  },
+  {
+   "id": "L1U04-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open your book.",
+   "item": "open",
+   "answer": "Open your book."
+  },
+  {
+   "id": "L1U04-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Close your book.",
+   "item": "close",
+   "answer": "Close your book."
+  },
+  {
+   "id": "L1U04-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sit down, please.",
+   "item": "sit",
+   "answer": "Sit down, please."
+  },
+  {
+   "id": "L1U04-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stand up, please.",
+   "item": "stand",
+   "answer": "Stand up, please."
+  },
+  {
+   "id": "L1U04-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like this lesson.",
+   "item": "lesson",
+   "answer": "I like this lesson."
+  },
+  {
+   "id": "L1U04-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a pencil, please?",
+   "answer": "Can I have a pencil, please?"
+  },
+  {
+   "id": "L1U04-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a rubber, please?",
+   "answer": "Can I have a rubber, please?"
+  },
+  {
+   "id": "L1U04-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a ruler, please?",
+   "answer": "Can I have a ruler, please?"
+  },
+  {
+   "id": "L1U04-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open the door, please.",
+   "answer": "Open the door, please."
+  },
+  {
+   "id": "L1U04-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open the window, please.",
+   "answer": "Open the window, please."
+  },
+  {
+   "id": "L1U04-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open the book, please.",
+   "answer": "Open the book, please."
+  },
+  {
+   "id": "L1U04-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can read.",
+   "answer": "I can read."
+  },
+  {
+   "id": "L1U04-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can write.",
+   "answer": "I can write."
+  },
+  {
+   "id": "L1U04-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can draw.",
+   "answer": "I can draw."
+  },
+  {
+   "id": "L1U04-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I have a pencil, please?",
+   "answer": "Sure! Here you are."
+  },
+  {
+   "id": "L1U04-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay! Can I read?",
+   "answer": "Yes, you can."
+  },
+  {
+   "id": "L1U04-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Who's that woman?",
+   "answer": "She is my teacher."
+  },
+  {
+   "id": "L1U04-Q077",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is she nice?",
+   "answer": "Yes! I like my teacher."
+  },
+  {
+   "id": "L1U04-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "school",
+   "options": [
+    "ruler",
+    "close",
+    "school"
+   ],
+   "answer": "school"
+  },
+  {
+   "id": "L1U04-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "teacher",
+   "options": [
+    "ruler",
+    "pencil",
+    "teacher"
+   ],
+   "answer": "teacher"
+  },
+  {
+   "id": "L1U04-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "classroom",
+   "options": [
+    "close",
+    "pencil",
+    "classroom"
+   ],
+   "answer": "classroom"
+  },
+  {
+   "id": "L1U04-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "desk",
+   "options": [
+    "board",
+    "pencil",
+    "desk"
+   ],
+   "answer": "desk"
+  },
+  {
+   "id": "L1U04-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pencil",
+   "options": [
+    "open",
+    "lesson",
+    "pencil"
+   ],
+   "answer": "pencil"
+  },
+  {
+   "id": "L1U04-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rubber",
+   "options": [
+    "teacher",
+    "rubber",
+    "window"
+   ],
+   "answer": "rubber"
+  },
+  {
+   "id": "L1U04-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ruler",
+   "options": [
+    "ruler",
+    "classroom",
+    "teacher"
+   ],
+   "answer": "ruler"
+  },
+  {
+   "id": "L1U04-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "paper",
+   "options": [
+    "paper",
+    "desk",
+    "write"
+   ],
+   "answer": "paper"
+  },
+  {
+   "id": "L1U04-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "board",
+   "options": [
+    "board",
+    "close",
+    "desk"
+   ],
+   "answer": "board"
+  },
+  {
+   "id": "L1U04-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "door",
+   "options": [
+    "stand",
+    "door",
+    "ruler"
+   ],
+   "answer": "door"
+  },
+  {
+   "id": "L1U04-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "window",
+   "options": [
+    "stand",
+    "pencil",
+    "window"
+   ],
+   "answer": "window"
+  },
+  {
+   "id": "L1U04-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "read",
+   "options": [
+    "board",
+    "read",
+    "stand"
+   ],
+   "answer": "read"
+  },
+  {
+   "id": "L1U04-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "write",
+   "options": [
+    "write",
+    "board",
+    "window"
+   ],
+   "answer": "write"
+  },
+  {
+   "id": "L1U04-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "draw",
+   "options": [
+    "draw",
+    "classroom",
+    "count"
+   ],
+   "answer": "draw"
+  },
+  {
+   "id": "L1U04-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "count",
+   "options": [
+    "pencil",
+    "count",
+    "read"
+   ],
+   "answer": "count"
+  },
+  {
+   "id": "L1U04-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "open",
+   "options": [
+    "school",
+    "open",
+    "rubber"
+   ],
+   "answer": "open"
+  },
+  {
+   "id": "L1U04-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "close",
+   "options": [
+    "draw",
+    "close",
+    "rubber"
+   ],
+   "answer": "close"
+  },
+  {
+   "id": "L1U04-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sit",
+   "options": [
+    "ruler",
+    "sit",
+    "open"
+   ],
+   "answer": "sit"
+  },
+  {
+   "id": "L1U04-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "stand",
+   "options": [
+    "teacher",
+    "open",
+    "stand"
+   ],
+   "answer": "stand"
+  },
+  {
+   "id": "L1U04-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lesson",
+   "options": [
+    "sit",
+    "lesson",
+    "open"
+   ],
+   "answer": "lesson"
+  },
+  {
+   "id": "L1U04-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U04-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "t",
+   "answer": "t"
+  },
+  {
+   "id": "L1U04-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "c",
+   "answer": "c"
+  },
+  {
+   "id": "L1U04-Q101",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "d",
+   "answer": "d"
+  },
+  {
+   "id": "L1U04-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "school",
+   "answer": "school"
+  },
+  {
+   "id": "L1U04-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "desk",
+   "answer": "desk"
+  },
+  {
+   "id": "L1U04-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "pencil",
+   "answer": "pencil"
+  },
+  {
+   "id": "L1U04-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "rubber",
+   "answer": "rubber"
+  },
+  {
+   "id": "L1U04-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "ruler",
+   "answer": "ruler"
+  },
+  {
+   "id": "L1U04-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "paper",
+   "answer": "paper"
+  },
+  {
+   "id": "L1U04-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "board",
+   "answer": "board"
+  },
+  {
+   "id": "L1U04-Q109",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "door",
+   "answer": "door"
+  }
+ ]
+}

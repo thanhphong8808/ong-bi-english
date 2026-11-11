@@ -1,0 +1,2591 @@
+{
+ "id": "L2U06",
+ "level": 2,
+ "unit": 6,
+ "topic_en": "Places in town",
+ "topic_vi": "Nơi chốn trong thành phố",
+ "can_do_vi": [
+  "Gọi tên các nơi trong thành phố",
+  "Chỉ đường đơn giản: left, right, opposite"
+ ],
+ "items": [
+  {
+   "id": "L2U06-W01",
+   "type": "word",
+   "en": "library",
+   "vi": "thư viện",
+   "ipa": "/ˈlaɪbrɛˌri/",
+   "syllables": [
+    "library"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "I read books in the library.",
+   "example_vi": "Tớ đọc sách ở thư viện.",
+   "pron_focus": [
+    "r_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W02",
+   "type": "word",
+   "en": "cinema",
+   "vi": "rạp chiếu phim",
+   "ipa": "/ˈsɪnəmə/",
+   "syllables": [
+    "cin",
+    "e",
+    "ma"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3AC"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Let's go to the cinema!",
+   "example_vi": "Mình đi xem phim đi!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W03",
+   "type": "word",
+   "en": "restaurant",
+   "vi": "nhà hàng",
+   "ipa": "/ˈrɛˌstrɑnt/",
+   "syllables": [
+    "restau",
+    "rant"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U06",
+   "example_en": "We have dinner at a restaurant.",
+   "example_vi": "Nhà tớ ăn tối ở nhà hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W04",
+   "type": "word",
+   "en": "café",
+   "vi": "quán cà phê",
+   "ipa": "/caf/",
+   "syllables": [
+    "café"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2615"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Mum has tea at the café.",
+   "example_vi": "Mẹ uống trà ở quán cà phê.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W05",
+   "type": "word",
+   "en": "bank",
+   "vi": "ngân hàng",
+   "ipa": "/bæŋk/",
+   "syllables": [
+    "bank"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3E6"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The bank is next to the park.",
+   "example_vi": "Ngân hàng ở cạnh công viên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W06",
+   "type": "phrase",
+   "en": "post office",
+   "vi": "bưu điện",
+   "ipa": "/poʊst ˈɔfəs/",
+   "syllables": [
+    "post",
+    "of",
+    "fice"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3E4"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "I send a card at the post office.",
+   "example_vi": "Tớ gửi thiệp ở bưu điện.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W07",
+   "type": "phrase",
+   "en": "police station",
+   "vi": "đồn cảnh sát",
+   "ipa": "/pəˈlis ˈsteɪʃən/",
+   "syllables": [
+    "po",
+    "lice",
+    "sta",
+    "tion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F693"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The police station is on this street.",
+   "example_vi": "Đồn cảnh sát ở phố này.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W08",
+   "type": "phrase",
+   "en": "fire station",
+   "vi": "trạm cứu hoả",
+   "ipa": "/faɪʌr ˈsteɪʃən/",
+   "syllables": [
+    "fire",
+    "sta",
+    "tion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F692"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "There are big red trucks at the fire station.",
+   "example_vi": "Ở trạm cứu hoả có những chiếc xe tải đỏ to.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W09",
+   "type": "phrase",
+   "en": "swimming pool",
+   "vi": "bể bơi",
+   "ipa": "/sˈwɪmɪŋ pul/",
+   "syllables": [
+    "swim",
+    "ming",
+    "pool"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3CA"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "I swim at the swimming pool.",
+   "example_vi": "Tớ bơi ở bể bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W10",
+   "type": "phrase",
+   "en": "sports centre",
+   "vi": "trung tâm thể thao",
+   "ipa": "/spɔrts ˈsɛntər/",
+   "syllables": [
+    "sports",
+    "cen",
+    "tre"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3DF-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "We play badminton at the sports centre.",
+   "example_vi": "Bọn tớ chơi cầu lông ở trung tâm thể thao.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W11",
+   "type": "word",
+   "en": "museum",
+   "vi": "bảo tàng",
+   "ipa": "/mˈjuziəm/",
+   "syllables": [
+    "mu",
+    "se",
+    "um"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F5FF"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "There are dinosaurs in the museum.",
+   "example_vi": "Trong bảo tàng có khủng long.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W12",
+   "type": "word",
+   "en": "building",
+   "vi": "toà nhà",
+   "ipa": "/ˈbɪldɪŋ/",
+   "syllables": [
+    "build",
+    "ing"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3E2"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "That building is very tall.",
+   "example_vi": "Toà nhà kia cao lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W13",
+   "type": "word",
+   "en": "road",
+   "vi": "con đường",
+   "ipa": "/roʊd/",
+   "syllables": [
+    "road"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6E3-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Don't play on the road.",
+   "example_vi": "Đừng chơi dưới lòng đường.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W14",
+   "type": "phrase",
+   "en": "bus stop",
+   "vi": "bến xe buýt",
+   "ipa": "/bʌs stɑp/",
+   "syllables": [
+    "bus",
+    "stop"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F68F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "I wait at the bus stop.",
+   "example_vi": "Tớ chờ ở bến xe buýt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W15",
+   "type": "word",
+   "en": "corner",
+   "vi": "góc phố",
+   "ipa": "/ˈkɔrnər/",
+   "syllables": [
+    "cor",
+    "ner"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4D0"
+   },
+   "picturable": false,
+   "cat": "L2U06",
+   "example_en": "The shop is on the corner.",
+   "example_vi": "Cửa hàng ở góc phố.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W16",
+   "type": "word",
+   "en": "left",
+   "vi": "bên trái",
+   "ipa": "/lɛft/",
+   "syllables": [
+    "left"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "2B05-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Turn left at the bank.",
+   "example_vi": "Rẽ trái ở ngân hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W17",
+   "type": "word",
+   "en": "right",
+   "vi": "bên phải",
+   "ipa": "/raɪt/",
+   "syllables": [
+    "right"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The café is on the right.",
+   "example_vi": "Quán cà phê ở bên phải.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W18",
+   "type": "word",
+   "en": "straight",
+   "vi": "thẳng",
+   "ipa": "/streɪt/",
+   "syllables": [
+    "straight"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2B06-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Go straight on.",
+   "example_vi": "Đi thẳng nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W19",
+   "type": "word",
+   "en": "behind",
+   "vi": "phía sau",
+   "ipa": "/bɪˈhaɪnd/",
+   "syllables": [
+    "be",
+    "hind"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "svg": "prep_behind.svg"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The cat is behind the box.",
+   "example_vi": "Con mèo ở sau cái hộp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W20",
+   "type": "phrase",
+   "en": "in front of",
+   "vi": "phía trước",
+   "ipa": "/ɪn frʌnt əv/",
+   "syllables": [
+    "in",
+    "front",
+    "of"
+   ],
+   "phonics": "",
+   "image": {
+    "svg": "prep_in_front_of.svg"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The bus stop is in front of the school.",
+   "example_vi": "Bến xe buýt ở trước trường.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W21",
+   "type": "word",
+   "en": "between",
+   "vi": "ở giữa",
+   "ipa": "/bɪtˈwin/",
+   "syllables": [
+    "be",
+    "tween"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "svg": "prep_between.svg"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The bank is between the café and the shop.",
+   "example_vi": "Ngân hàng ở giữa quán cà phê và cửa hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W22",
+   "type": "word",
+   "en": "opposite",
+   "vi": "đối diện",
+   "ipa": "/ˈɑpəzɪt/",
+   "syllables": [
+    "op",
+    "po",
+    "site"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U06",
+   "example_en": "The park is opposite the library.",
+   "example_vi": "Công viên ở đối diện thư viện.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W23",
+   "type": "word",
+   "en": "above",
+   "vi": "phía trên",
+   "ipa": "/əˈbʌv/",
+   "syllables": [
+    "above"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "svg": "prep_above.svg"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "The bird is above the tree.",
+   "example_vi": "Con chim ở phía trên cái cây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W24",
+   "type": "word",
+   "en": "cross",
+   "vi": "băng qua",
+   "ipa": "/krɔs/",
+   "syllables": [
+    "cross"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6B8"
+   },
+   "picturable": true,
+   "cat": "L2U06",
+   "example_en": "Cross the road with Mum.",
+   "example_vi": "Đi qua đường cùng mẹ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W25",
+   "type": "word",
+   "en": "way",
+   "vi": "đường đi",
+   "ipa": "/weɪ/",
+   "syllables": [
+    "way"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L2U06",
+   "example_en": "Is this the way to the zoo?",
+   "example_vi": "Đây có phải đường đến sở thú không?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U06-W26",
+   "type": "phrase",
+   "en": "go past",
+   "vi": "đi qua",
+   "ipa": "/ɡoʊ pæst/",
+   "syllables": [
+    "go",
+    "past"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": false,
+   "cat": "L2U06",
+   "example_en": "Go past the bank.",
+   "example_vi": "Đi qua ngân hàng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U06-P01",
+   "en": "Where is the {x}?",
+   "vi": "{x} ở đâu?",
+   "slots": {
+    "x": [
+     "library",
+     "cinema",
+     "bank",
+     "museum"
+    ]
+   }
+  },
+  {
+   "id": "L2U06-P02",
+   "en": "It's {x} the park.",
+   "vi": "Nó ở {x} công viên.",
+   "slots": {
+    "x": [
+     "behind",
+     "opposite",
+     "in front of",
+     "next to"
+    ]
+   }
+  },
+  {
+   "id": "L2U06-P03",
+   "en": "Turn {x} at the corner.",
+   "vi": "Rẽ {x} ở góc phố.",
+   "slots": {
+    "x": [
+     "left",
+     "right"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U06-D01",
+   "title_vi": "Đường đến thư viện",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Excuse me, where is the library?",
+     "vi": "Xin lỗi, thư viện ở đâu ạ?"
+    },
+    {
+     "role": "Bi",
+     "en": "Go straight on. Then turn left.",
+     "vi": "Đi thẳng. Rồi rẽ trái."
+    },
+    {
+     "role": "Kid",
+     "en": "Is it next to the bank?",
+     "vi": "Nó ở cạnh ngân hàng à?"
+    },
+    {
+     "role": "Bi",
+     "en": "No. It's opposite the bank.",
+     "vi": "Không. Nó ở đối diện ngân hàng."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you!",
+     "vi": "Cảm ơn cậu!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "library",
+    "options": [
+     "museum",
+     "cinema"
+    ]
+   }
+  },
+  {
+   "id": "L2U06-D02",
+   "title_vi": "Đi đâu cuối tuần?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Where do you want to go on Saturday?",
+     "vi": "Thứ Bảy cậu muốn đi đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "I want to go to the cinema.",
+     "vi": "Tớ muốn đi xem phim."
+    },
+    {
+     "role": "Bi",
+     "en": "Me too! Where is it?",
+     "vi": "Tớ cũng thế! Rạp ở đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's behind the supermarket.",
+     "vi": "Nó ở sau siêu thị."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "cinema",
+    "options": [
+     "museum",
+     "swimming pool"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "library"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cinema"
+  },
+  {
+   "type": "dictate_word",
+   "target": "restaurant"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bank"
+  },
+  {
+   "type": "dictate_word",
+   "target": "museum"
+  },
+  {
+   "type": "dictate_word",
+   "target": "building"
+  },
+  {
+   "type": "dictate_word",
+   "target": "road"
+  },
+  {
+   "type": "dictate_word",
+   "target": "corner"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I read books in the library."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Let's go to the cinema!"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We have dinner at a restaurant."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U06-R01",
+   "title_en": "My town",
+   "text_en": [
+    "I live in a small town.",
+    "There is a big park in the middle.",
+    "The library is opposite the park.",
+    "Next to the library, there is a café.",
+    "The swimming pool is behind the school.",
+    "I love my town!"
+   ],
+   "questions": [
+    {
+     "q": "Where is the library?",
+     "options": [
+      "Opposite the park.",
+      "Behind the school.",
+      "Next to the pool."
+     ],
+     "answer": "Opposite the park."
+    },
+    {
+     "q": "What is next to the library?",
+     "options": [
+      "A café.",
+      "A bank.",
+      "A cinema."
+     ],
+     "answer": "A café."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U06-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "library",
+   "item": "library",
+   "options": [
+    "police station",
+    "bus stop",
+    "building",
+    "library"
+   ],
+   "answer": "library"
+  },
+  {
+   "id": "L2U06-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cinema",
+   "item": "cinema",
+   "options": [
+    "above",
+    "café",
+    "cinema",
+    "behind"
+   ],
+   "answer": "cinema"
+  },
+  {
+   "id": "L2U06-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "café",
+   "item": "café",
+   "options": [
+    "café",
+    "straight",
+    "between",
+    "police station"
+   ],
+   "answer": "café"
+  },
+  {
+   "id": "L2U06-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bank",
+   "item": "bank",
+   "options": [
+    "sports centre",
+    "bank",
+    "cross",
+    "straight"
+   ],
+   "answer": "bank"
+  },
+  {
+   "id": "L2U06-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "post office",
+   "item": "post office",
+   "options": [
+    "museum",
+    "police station",
+    "between",
+    "post office"
+   ],
+   "answer": "post office"
+  },
+  {
+   "id": "L2U06-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "police station",
+   "item": "police station",
+   "options": [
+    "police station",
+    "bank",
+    "library",
+    "bus stop"
+   ],
+   "answer": "police station"
+  },
+  {
+   "id": "L2U06-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fire station",
+   "item": "fire station",
+   "options": [
+    "cross",
+    "fire station",
+    "bus stop",
+    "café"
+   ],
+   "answer": "fire station"
+  },
+  {
+   "id": "L2U06-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "swimming pool",
+   "item": "swimming pool",
+   "options": [
+    "road",
+    "swimming pool",
+    "above",
+    "museum"
+   ],
+   "answer": "swimming pool"
+  },
+  {
+   "id": "L2U06-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sports centre",
+   "item": "sports centre",
+   "options": [
+    "swimming pool",
+    "cinema",
+    "museum",
+    "sports centre"
+   ],
+   "answer": "sports centre"
+  },
+  {
+   "id": "L2U06-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "museum",
+   "item": "museum",
+   "options": [
+    "road",
+    "behind",
+    "museum",
+    "police station"
+   ],
+   "answer": "museum"
+  },
+  {
+   "id": "L2U06-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "building",
+   "item": "building",
+   "options": [
+    "above",
+    "right",
+    "café",
+    "building"
+   ],
+   "answer": "building"
+  },
+  {
+   "id": "L2U06-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "road",
+   "item": "road",
+   "options": [
+    "road",
+    "straight",
+    "swimming pool",
+    "right"
+   ],
+   "answer": "road"
+  },
+  {
+   "id": "L2U06-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bus stop",
+   "item": "bus stop",
+   "options": [
+    "library",
+    "fire station",
+    "bus stop",
+    "café"
+   ],
+   "answer": "bus stop"
+  },
+  {
+   "id": "L2U06-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "left",
+   "item": "left",
+   "options": [
+    "swimming pool",
+    "left",
+    "right",
+    "post office"
+   ],
+   "answer": "left"
+  },
+  {
+   "id": "L2U06-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "right",
+   "item": "right",
+   "options": [
+    "between",
+    "right",
+    "in front of",
+    "left"
+   ],
+   "answer": "right"
+  },
+  {
+   "id": "L2U06-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "straight",
+   "item": "straight",
+   "options": [
+    "police station",
+    "sports centre",
+    "between",
+    "straight"
+   ],
+   "answer": "straight"
+  },
+  {
+   "id": "L2U06-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "behind",
+   "item": "behind",
+   "options": [
+    "fire station",
+    "road",
+    "museum",
+    "behind"
+   ],
+   "answer": "behind"
+  },
+  {
+   "id": "L2U06-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "in front of",
+   "item": "in front of",
+   "options": [
+    "fire station",
+    "in front of",
+    "café",
+    "left"
+   ],
+   "answer": "in front of"
+  },
+  {
+   "id": "L2U06-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "between",
+   "item": "between",
+   "options": [
+    "behind",
+    "left",
+    "between",
+    "road"
+   ],
+   "answer": "between"
+  },
+  {
+   "id": "L2U06-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "above",
+   "item": "above",
+   "options": [
+    "café",
+    "above",
+    "post office",
+    "library"
+   ],
+   "answer": "above"
+  },
+  {
+   "id": "L2U06-Q021",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cross",
+   "item": "cross",
+   "options": [
+    "cross",
+    "above",
+    "behind",
+    "museum"
+   ],
+   "answer": "cross"
+  },
+  {
+   "id": "L2U06-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "restaurant",
+   "item": "restaurant",
+   "options": [
+    "above",
+    "between",
+    "restaurant",
+    "cinema"
+   ],
+   "answer": "restaurant"
+  },
+  {
+   "id": "L2U06-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "corner",
+   "item": "corner",
+   "options": [
+    "straight",
+    "corner",
+    "swimming pool",
+    "between"
+   ],
+   "answer": "corner"
+  },
+  {
+   "id": "L2U06-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "opposite",
+   "item": "opposite",
+   "options": [
+    "opposite",
+    "café",
+    "bus stop",
+    "left"
+   ],
+   "answer": "opposite"
+  },
+  {
+   "id": "L2U06-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "way",
+   "item": "way",
+   "options": [
+    "way",
+    "road",
+    "straight",
+    "cross"
+   ],
+   "answer": "way"
+  },
+  {
+   "id": "L2U06-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "go past",
+   "item": "go past",
+   "options": [
+    "post office",
+    "right",
+    "above",
+    "go past"
+   ],
+   "answer": "go past"
+  },
+  {
+   "id": "L2U06-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "library",
+   "answer": "library"
+  },
+  {
+   "id": "L2U06-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cinema",
+   "answer": "cinema"
+  },
+  {
+   "id": "L2U06-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "café",
+   "answer": "café"
+  },
+  {
+   "id": "L2U06-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bank",
+   "answer": "bank"
+  },
+  {
+   "id": "L2U06-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "post office",
+   "answer": "post office"
+  },
+  {
+   "id": "L2U06-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "police station",
+   "answer": "police station"
+  },
+  {
+   "id": "L2U06-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fire station",
+   "answer": "fire station"
+  },
+  {
+   "id": "L2U06-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "swimming pool",
+   "answer": "swimming pool"
+  },
+  {
+   "id": "L2U06-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sports centre",
+   "answer": "sports centre"
+  },
+  {
+   "id": "L2U06-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "museum",
+   "answer": "museum"
+  },
+  {
+   "id": "L2U06-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "building",
+   "answer": "building"
+  },
+  {
+   "id": "L2U06-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "road",
+   "answer": "road"
+  },
+  {
+   "id": "L2U06-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bus stop",
+   "answer": "bus stop"
+  },
+  {
+   "id": "L2U06-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "left",
+   "answer": "left"
+  },
+  {
+   "id": "L2U06-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "right",
+   "answer": "right"
+  },
+  {
+   "id": "L2U06-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "straight",
+   "answer": "straight"
+  },
+  {
+   "id": "L2U06-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "behind",
+   "answer": "behind"
+  },
+  {
+   "id": "L2U06-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "in front of",
+   "answer": "in front of"
+  },
+  {
+   "id": "L2U06-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "between",
+   "answer": "between"
+  },
+  {
+   "id": "L2U06-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "above",
+   "answer": "above"
+  },
+  {
+   "id": "L2U06-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cross",
+   "answer": "cross"
+  },
+  {
+   "id": "L2U06-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read books in the library.",
+   "item": "library",
+   "answer": "I read books in the library."
+  },
+  {
+   "id": "L2U06-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the cinema!",
+   "item": "cinema",
+   "answer": "Let's go to the cinema!"
+  },
+  {
+   "id": "L2U06-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have dinner at a restaurant.",
+   "item": "restaurant",
+   "answer": "We have dinner at a restaurant."
+  },
+  {
+   "id": "L2U06-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum has tea at the café.",
+   "item": "café",
+   "answer": "Mum has tea at the café."
+  },
+  {
+   "id": "L2U06-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bank is next to the park.",
+   "item": "bank",
+   "answer": "The bank is next to the park."
+  },
+  {
+   "id": "L2U06-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I send a card at the post office.",
+   "item": "post office",
+   "answer": "I send a card at the post office."
+  },
+  {
+   "id": "L2U06-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The police station is on this street.",
+   "item": "police station",
+   "answer": "The police station is on this street."
+  },
+  {
+   "id": "L2U06-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I swim at the swimming pool.",
+   "item": "swimming pool",
+   "answer": "I swim at the swimming pool."
+  },
+  {
+   "id": "L2U06-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We play badminton at the sports centre.",
+   "item": "sports centre",
+   "answer": "We play badminton at the sports centre."
+  },
+  {
+   "id": "L2U06-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are dinosaurs in the museum.",
+   "item": "museum",
+   "answer": "There are dinosaurs in the museum."
+  },
+  {
+   "id": "L2U06-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That building is very tall.",
+   "item": "building",
+   "answer": "That building is very tall."
+  },
+  {
+   "id": "L2U06-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't play on the road.",
+   "item": "road",
+   "answer": "Don't play on the road."
+  },
+  {
+   "id": "L2U06-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wait at the bus stop.",
+   "item": "bus stop",
+   "answer": "I wait at the bus stop."
+  },
+  {
+   "id": "L2U06-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shop is on the corner.",
+   "item": "corner",
+   "answer": "The shop is on the corner."
+  },
+  {
+   "id": "L2U06-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn left at the bank.",
+   "item": "left",
+   "answer": "Turn left at the bank."
+  },
+  {
+   "id": "L2U06-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The café is on the right.",
+   "item": "right",
+   "answer": "The café is on the right."
+  },
+  {
+   "id": "L2U06-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Go straight on.",
+   "item": "straight",
+   "answer": "Go straight on."
+  },
+  {
+   "id": "L2U06-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cat is behind the box.",
+   "item": "behind",
+   "answer": "The cat is behind the box."
+  },
+  {
+   "id": "L2U06-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is opposite the library.",
+   "item": "opposite",
+   "answer": "The park is opposite the library."
+  },
+  {
+   "id": "L2U06-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird is above the tree.",
+   "item": "above",
+   "answer": "The bird is above the tree."
+  },
+  {
+   "id": "L2U06-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cross the road with Mum.",
+   "item": "cross",
+   "answer": "Cross the road with Mum."
+  },
+  {
+   "id": "L2U06-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is this the way to the zoo?",
+   "item": "way",
+   "answer": "Is this the way to the zoo?"
+  },
+  {
+   "id": "L2U06-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Go past the bank.",
+   "item": "go past",
+   "answer": "Go past the bank."
+  },
+  {
+   "id": "L2U06-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the library?",
+   "answer": "Where is the library?"
+  },
+  {
+   "id": "L2U06-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the cinema?",
+   "answer": "Where is the cinema?"
+  },
+  {
+   "id": "L2U06-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the bank?",
+   "answer": "Where is the bank?"
+  },
+  {
+   "id": "L2U06-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's behind the park.",
+   "answer": "It's behind the park."
+  },
+  {
+   "id": "L2U06-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's opposite the park.",
+   "answer": "It's opposite the park."
+  },
+  {
+   "id": "L2U06-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's in front of the park.",
+   "answer": "It's in front of the park."
+  },
+  {
+   "id": "L2U06-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn left at the corner.",
+   "answer": "Turn left at the corner."
+  },
+  {
+   "id": "L2U06-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn right at the corner.",
+   "answer": "Turn right at the corner."
+  },
+  {
+   "id": "L2U06-Q079",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me, where is the library?",
+   "answer": "Go straight on. Then turn left."
+  },
+  {
+   "id": "L2U06-Q080",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it next to the bank?",
+   "answer": "No. It's opposite the bank."
+  },
+  {
+   "id": "L2U06-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where do you want to go on Saturday?",
+   "answer": "I want to go to the cinema."
+  },
+  {
+   "id": "L2U06-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Me too! Where is it?",
+   "answer": "It's behind the supermarket."
+  },
+  {
+   "id": "L2U06-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "library",
+   "options": [
+    "sports centre",
+    "library",
+    "fire station"
+   ],
+   "answer": "library"
+  },
+  {
+   "id": "L2U06-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cinema",
+   "options": [
+    "post office",
+    "cinema",
+    "between"
+   ],
+   "answer": "cinema"
+  },
+  {
+   "id": "L2U06-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "café",
+   "options": [
+    "café",
+    "police station",
+    "library"
+   ],
+   "answer": "café"
+  },
+  {
+   "id": "L2U06-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bank",
+   "options": [
+    "behind",
+    "bank",
+    "police station"
+   ],
+   "answer": "bank"
+  },
+  {
+   "id": "L2U06-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "post office",
+   "options": [
+    "swimming pool",
+    "post office",
+    "museum"
+   ],
+   "answer": "post office"
+  },
+  {
+   "id": "L2U06-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "police station",
+   "options": [
+    "between",
+    "police station",
+    "café"
+   ],
+   "answer": "police station"
+  },
+  {
+   "id": "L2U06-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fire station",
+   "options": [
+    "cinema",
+    "fire station",
+    "right"
+   ],
+   "answer": "fire station"
+  },
+  {
+   "id": "L2U06-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "swimming pool",
+   "options": [
+    "swimming pool",
+    "library",
+    "fire station"
+   ],
+   "answer": "swimming pool"
+  },
+  {
+   "id": "L2U06-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sports centre",
+   "options": [
+    "left",
+    "sports centre",
+    "behind"
+   ],
+   "answer": "sports centre"
+  },
+  {
+   "id": "L2U06-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "museum",
+   "options": [
+    "museum",
+    "cross",
+    "building"
+   ],
+   "answer": "museum"
+  },
+  {
+   "id": "L2U06-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "building",
+   "options": [
+    "straight",
+    "building",
+    "in front of"
+   ],
+   "answer": "building"
+  },
+  {
+   "id": "L2U06-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "road",
+   "options": [
+    "sports centre",
+    "left",
+    "road"
+   ],
+   "answer": "road"
+  },
+  {
+   "id": "L2U06-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bus stop",
+   "options": [
+    "swimming pool",
+    "bus stop",
+    "above"
+   ],
+   "answer": "bus stop"
+  },
+  {
+   "id": "L2U06-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "left",
+   "options": [
+    "straight",
+    "café",
+    "left"
+   ],
+   "answer": "left"
+  },
+  {
+   "id": "L2U06-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "right",
+   "options": [
+    "straight",
+    "café",
+    "right"
+   ],
+   "answer": "right"
+  },
+  {
+   "id": "L2U06-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "straight",
+   "options": [
+    "straight",
+    "cinema",
+    "left"
+   ],
+   "answer": "straight"
+  },
+  {
+   "id": "L2U06-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "behind",
+   "options": [
+    "left",
+    "police station",
+    "behind"
+   ],
+   "answer": "behind"
+  },
+  {
+   "id": "L2U06-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "in front of",
+   "options": [
+    "in front of",
+    "café",
+    "between"
+   ],
+   "answer": "in front of"
+  },
+  {
+   "id": "L2U06-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "between",
+   "options": [
+    "bank",
+    "behind",
+    "between"
+   ],
+   "answer": "between"
+  },
+  {
+   "id": "L2U06-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "above",
+   "options": [
+    "police station",
+    "swimming pool",
+    "above"
+   ],
+   "answer": "above"
+  },
+  {
+   "id": "L2U06-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cross",
+   "options": [
+    "fire station",
+    "in front of",
+    "cross"
+   ],
+   "answer": "cross"
+  },
+  {
+   "id": "L2U06-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read books in the ___.",
+   "item": "library",
+   "options": [
+    "library",
+    "behind",
+    "above"
+   ],
+   "answer": "library"
+  },
+  {
+   "id": "L2U06-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's go to the ___!",
+   "item": "cinema",
+   "options": [
+    "cinema",
+    "straight",
+    "above"
+   ],
+   "answer": "cinema"
+  },
+  {
+   "id": "L2U06-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have dinner at a ___.",
+   "item": "restaurant",
+   "options": [
+    "straight",
+    "behind",
+    "restaurant"
+   ],
+   "answer": "restaurant"
+  },
+  {
+   "id": "L2U06-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum has tea at the ___.",
+   "item": "café",
+   "options": [
+    "café",
+    "above",
+    "restaurant"
+   ],
+   "answer": "café"
+  },
+  {
+   "id": "L2U06-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is next to the park.",
+   "item": "bank",
+   "options": [
+    "bank",
+    "cross",
+    "above"
+   ],
+   "answer": "bank"
+  },
+  {
+   "id": "L2U06-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are dinosaurs in the ___.",
+   "item": "museum",
+   "options": [
+    "museum",
+    "cross",
+    "left"
+   ],
+   "answer": "museum"
+  },
+  {
+   "id": "L2U06-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That ___ is very tall.",
+   "item": "building",
+   "options": [
+    "opposite",
+    "behind",
+    "building"
+   ],
+   "answer": "building"
+  },
+  {
+   "id": "L2U06-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't play on the ___.",
+   "item": "road",
+   "options": [
+    "road",
+    "opposite",
+    "left"
+   ],
+   "answer": "road"
+  },
+  {
+   "id": "L2U06-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The shop is on the ___.",
+   "item": "corner",
+   "options": [
+    "straight",
+    "between",
+    "corner"
+   ],
+   "answer": "corner"
+  },
+  {
+   "id": "L2U06-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Turn ___ at the bank.",
+   "item": "left",
+   "options": [
+    "straight",
+    "left",
+    "museum"
+   ],
+   "answer": "left"
+  },
+  {
+   "id": "L2U06-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The café is on the ___.",
+   "item": "right",
+   "options": [
+    "cross",
+    "right",
+    "left"
+   ],
+   "answer": "right"
+  },
+  {
+   "id": "L2U06-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Go ___ on.",
+   "item": "straight",
+   "options": [
+    "above",
+    "straight",
+    "left"
+   ],
+   "answer": "straight"
+  },
+  {
+   "id": "L2U06-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cat is ___ the box.",
+   "item": "behind",
+   "options": [
+    "behind",
+    "road",
+    "building"
+   ],
+   "answer": "behind"
+  },
+  {
+   "id": "L2U06-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bank is ___ the café and the shop.",
+   "item": "between",
+   "options": [
+    "right",
+    "between",
+    "restaurant"
+   ],
+   "answer": "between"
+  },
+  {
+   "id": "L2U06-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The park is ___ the library.",
+   "item": "opposite",
+   "options": [
+    "museum",
+    "building",
+    "opposite"
+   ],
+   "answer": "opposite"
+  },
+  {
+   "id": "L2U06-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird is ___ the tree.",
+   "item": "above",
+   "options": [
+    "way",
+    "above",
+    "library"
+   ],
+   "answer": "above"
+  },
+  {
+   "id": "L2U06-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the road with Mum.",
+   "item": "cross",
+   "options": [
+    "Above",
+    "Behind",
+    "Cross"
+   ],
+   "answer": "Cross"
+  },
+  {
+   "id": "L2U06-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is this the ___ to the zoo?",
+   "item": "way",
+   "options": [
+    "opposite",
+    "way",
+    "behind"
+   ],
+   "answer": "way"
+  },
+  {
+   "id": "L2U06-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I read books in the library.",
+   "item": "library",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's go to the cinema!",
+   "item": "café",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mum has tea at the café.",
+   "item": "café",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bank is next to the park.",
+   "item": "post office",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I send a card at the post office.",
+   "item": "post office",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The police station is on this street.",
+   "item": "fire station",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are big red trucks at the fire station.",
+   "item": "fire station",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I swim at the swimming pool.",
+   "item": "sports centre",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We play badminton at the sports centre.",
+   "item": "sports centre",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are dinosaurs in the museum.",
+   "item": "building",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "That building is very tall.",
+   "item": "building",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Don't play on the road.",
+   "item": "bus stop",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I wait at the bus stop.",
+   "item": "bus stop",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Turn left at the bank.",
+   "item": "right",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The café is on the right.",
+   "item": "right",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Go straight on.",
+   "item": "behind",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The cat is behind the box.",
+   "item": "behind",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bus stop is in front of the school.",
+   "item": "between",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bank is between the café and the shop.",
+   "item": "between",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bird is above the tree.",
+   "item": "cross",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U06-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Cross the road with Mum.",
+   "item": "cross",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U06-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U06-R01",
+   "text_en": "Where is the library?",
+   "options": [
+    "Next to the pool.",
+    "Opposite the park.",
+    "Behind the school."
+   ],
+   "answer": "Opposite the park."
+  },
+  {
+   "id": "L2U06-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U06-R01",
+   "text_en": "What is next to the library?",
+   "options": [
+    "A café.",
+    "A bank.",
+    "A cinema."
+   ],
+   "answer": "A café."
+  },
+  {
+   "id": "L2U06-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "library",
+   "item": "library",
+   "answer": "library"
+  },
+  {
+   "id": "L2U06-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cinema",
+   "item": "cinema",
+   "answer": "cinema"
+  },
+  {
+   "id": "L2U06-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "restaurant",
+   "item": "restaurant",
+   "answer": "restaurant"
+  },
+  {
+   "id": "L2U06-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bank",
+   "item": "bank",
+   "answer": "bank"
+  },
+  {
+   "id": "L2U06-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "museum",
+   "item": "museum",
+   "answer": "museum"
+  },
+  {
+   "id": "L2U06-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "building",
+   "item": "building",
+   "answer": "building"
+  },
+  {
+   "id": "L2U06-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "road",
+   "item": "road",
+   "answer": "road"
+  },
+  {
+   "id": "L2U06-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "corner",
+   "item": "corner",
+   "answer": "corner"
+  },
+  {
+   "id": "L2U06-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I read books in the library.",
+   "answer": "I read books in the library."
+  },
+  {
+   "id": "L2U06-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Let's go to the cinema!",
+   "answer": "Let's go to the cinema!"
+  },
+  {
+   "id": "L2U06-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We have dinner at a restaurant.",
+   "answer": "We have dinner at a restaurant."
+  }
+ ]
+}

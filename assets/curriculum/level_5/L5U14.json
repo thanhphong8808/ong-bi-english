@@ -1,0 +1,3263 @@
+{
+ "id": "L5U14",
+ "level": 5,
+ "unit": 14,
+ "topic_en": "Inventions and the future",
+ "topic_vi": "Phát minh và tương lai",
+ "can_do_vi": [
+  "Nói về các phát minh quan trọng",
+  "Dự đoán cuộc sống trong tương lai với \"will\" và \"might\""
+ ],
+ "grammar_note_vi": "Dự đoán chắc chắn dùng \"will\": \"People will use more robots.\" Không chắc chắn dùng \"might\" (có thể): \"We might have flying cars.\"",
+ "items": [
+  {
+   "id": "L5U14-W01",
+   "type": "word",
+   "en": "technology",
+   "vi": "công nghệ",
+   "ipa": "/tɛkˈnɑlədʒi/",
+   "syllables": [
+    "tech",
+    "nol",
+    "o",
+    "gy"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4BB"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Technology changes our lives every day.",
+   "example_vi": "Công nghệ thay đổi cuộc sống của chúng ta mỗi ngày.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W02",
+   "type": "word",
+   "en": "smart",
+   "vi": "thông minh",
+   "ipa": "/smɑrt/",
+   "syllables": [
+    "smart"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "My uncle has a smart TV.",
+   "example_vi": "Chú tớ có một cái TV thông minh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W03",
+   "type": "word",
+   "en": "might",
+   "vi": "có thể (không chắc)",
+   "ipa": "/maɪt/",
+   "syllables": [
+    "might"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F914"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "It might rain this afternoon.",
+   "example_vi": "Chiều nay trời có thể mưa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W04",
+   "type": "phrase",
+   "en": "artificial intelligence",
+   "vi": "trí tuệ nhân tạo",
+   "ipa": "/ˌɑrtəˈfɪʃəl ˌɪnˈtɛlədʒəns/",
+   "syllables": [
+    "ar",
+    "ti",
+    "fi",
+    "cial",
+    "in",
+    "tel",
+    "li",
+    "gence"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F916"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Artificial intelligence helps computers learn.",
+   "example_vi": "Trí tuệ nhân tạo giúp máy tính học.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W05",
+   "type": "word",
+   "en": "drone",
+   "vi": "máy bay không người lái",
+   "ipa": "/droʊn/",
+   "syllables": [
+    "drone"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F6F8"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The drone took photos of the forest.",
+   "example_vi": "Máy bay không người lái chụp ảnh khu rừng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W06",
+   "type": "phrase",
+   "en": "flying car",
+   "vi": "ô tô bay",
+   "ipa": "/flaɪɪŋ kɑr/",
+   "syllables": [
+    "flying",
+    "car"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F697"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "In the future, we might have flying cars.",
+   "example_vi": "Trong tương lai, có thể chúng ta sẽ có ô tô bay.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W07",
+   "type": "phrase",
+   "en": "virtual reality",
+   "vi": "thực tế ảo",
+   "ipa": "/ˈvʌrtʃuəl ˌriˈæləˌti/",
+   "syllables": [
+    "virtual",
+    "reality"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F97D"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "With virtual reality, you can visit the moon at home.",
+   "example_vi": "Với thực tế ảo, bạn có thể thăm mặt trăng ngay tại nhà.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W08",
+   "type": "word",
+   "en": "hologram",
+   "vi": "hình ảnh ba chiều",
+   "ipa": "/ˈhɔloʊˌɡræm/",
+   "syllables": [
+    "hologram"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The teacher showed us a hologram of a dinosaur.",
+   "example_vi": "Cô giáo cho bọn tớ xem hình ba chiều của khủng long.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W09",
+   "type": "word",
+   "en": "wireless",
+   "vi": "không dây",
+   "ipa": "/ˈwaɪrlɪs/",
+   "syllables": [
+    "wire",
+    "less"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4F6"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "These headphones are wireless.",
+   "example_vi": "Tai nghe này không dây.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W10",
+   "type": "word",
+   "en": "smartwatch",
+   "vi": "đồng hồ thông minh",
+   "ipa": "/smartwatch/",
+   "syllables": [
+    "smartwatch"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "231A"
+   },
+   "picturable": true,
+   "cat": "L5U14",
+   "example_en": "My smartwatch counts my steps.",
+   "example_vi": "Đồng hồ thông minh đếm số bước chân của tớ.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W11",
+   "type": "word",
+   "en": "smartphone",
+   "vi": "điện thoại thông minh",
+   "ipa": "/smartphone/",
+   "syllables": [
+    "smartphone"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "My mum uses her smartphone for work.",
+   "example_vi": "Mẹ dùng điện thoại thông minh để làm việc.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W12",
+   "type": "word",
+   "en": "GPS",
+   "vi": "định vị GPS",
+   "ipa": "/ˈɡipiˈɛs/",
+   "syllables": [
+    "GPS"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F6F0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The GPS shows us the way.",
+   "example_vi": "GPS chỉ đường cho chúng ta.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W13",
+   "type": "word",
+   "en": "self-driving",
+   "vi": "tự lái",
+   "ipa": "/sɛlf ˈdraɪvɪŋ/",
+   "syllables": [
+    "self-driving"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F698"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "A self-driving car doesn't need a driver.",
+   "example_vi": "Ô tô tự lái không cần tài xế.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W14",
+   "type": "word",
+   "en": "engine",
+   "vi": "động cơ",
+   "ipa": "/ˈɪndʒən/",
+   "syllables": [
+    "en",
+    "gine"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2699-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The car engine is very loud.",
+   "example_vi": "Động cơ ô tô rất ồn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W15",
+   "type": "word",
+   "en": "printing",
+   "vi": "việc in ấn",
+   "ipa": "/ˈprɪnɪŋ/",
+   "syllables": [
+    "print",
+    "ing"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5A8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Printing made books cheaper.",
+   "example_vi": "Việc in ấn làm sách rẻ hơn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W16",
+   "type": "word",
+   "en": "compass",
+   "vi": "la bàn",
+   "ipa": "/ˈkʌmpəs/",
+   "syllables": [
+    "com",
+    "pass"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": true,
+   "cat": "L5U14",
+   "example_en": "A compass helps you find north.",
+   "example_vi": "La bàn giúp bạn tìm hướng bắc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W17",
+   "type": "word",
+   "en": "vaccine",
+   "vi": "vắc-xin",
+   "ipa": "/ˌvækˈsin/",
+   "syllables": [
+    "vac",
+    "cine"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F489"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Vaccines protect us from illness.",
+   "example_vi": "Vắc-xin bảo vệ chúng ta khỏi bệnh tật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W18",
+   "type": "word",
+   "en": "create",
+   "vi": "tạo ra",
+   "ipa": "/kriˈeɪt/",
+   "syllables": [
+    "cre",
+    "ate"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Artists create beautiful things.",
+   "example_vi": "Nghệ sĩ tạo ra những thứ đẹp đẽ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W19",
+   "type": "word",
+   "en": "develop",
+   "vi": "phát triển",
+   "ipa": "/dɪˈvɛləp/",
+   "syllables": [
+    "de",
+    "vel",
+    "op"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Scientists are developing new medicines.",
+   "example_vi": "Các nhà khoa học đang phát triển thuốc mới.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W20",
+   "type": "word",
+   "en": "convenient",
+   "vi": "tiện lợi",
+   "ipa": "/kənˈvinjənt/",
+   "syllables": [
+    "con",
+    "ve",
+    "nient"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Online shopping is very convenient.",
+   "example_vi": "Mua sắm trực tuyến rất tiện lợi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W21",
+   "type": "word",
+   "en": "human",
+   "vi": "con người",
+   "ipa": "/ˈjumən/",
+   "syllables": [
+    "hu",
+    "man"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Robots can do some jobs better than humans.",
+   "example_vi": "Rô-bốt có thể làm vài việc tốt hơn con người.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W22",
+   "type": "word",
+   "en": "daily",
+   "vi": "hằng ngày",
+   "ipa": "/ˈdeɪli/",
+   "syllables": [
+    "dai",
+    "ly"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Phones are part of our daily life.",
+   "example_vi": "Điện thoại là một phần trong cuộc sống hằng ngày.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W23",
+   "type": "word",
+   "en": "automatic",
+   "vi": "tự động",
+   "ipa": "/ˌɔtəˈmætɪk/",
+   "syllables": [
+    "au",
+    "to",
+    "mat",
+    "ic"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The doors are automatic.",
+   "example_vi": "Cửa này tự động.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W24",
+   "type": "word",
+   "en": "voice",
+   "vi": "giọng nói",
+   "ipa": "/vɔɪs/",
+   "syllables": [
+    "voice"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "You can control the TV with your voice.",
+   "example_vi": "Bạn có thể điều khiển TV bằng giọng nói.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W25",
+   "type": "word",
+   "en": "command",
+   "vi": "mệnh lệnh",
+   "ipa": "/kəˈmænd/",
+   "syllables": [
+    "com",
+    "mand"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The robot follows my commands.",
+   "example_vi": "Rô-bốt làm theo lệnh của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W26",
+   "type": "word",
+   "en": "connect",
+   "vi": "kết nối",
+   "ipa": "/kəˈnɛkt/",
+   "syllables": [
+    "con",
+    "nect"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F517"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Connect the tablet to the internet.",
+   "example_vi": "Kết nối máy tính bảng với mạng internet.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W27",
+   "type": "word",
+   "en": "digital",
+   "vi": "kỹ thuật số",
+   "ipa": "/ˈdɪdʒɪtəl/",
+   "syllables": [
+    "dig",
+    "i",
+    "tal"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4BB"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "I have a digital camera.",
+   "example_vi": "Tớ có một máy ảnh kỹ thuật số.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W28",
+   "type": "word",
+   "en": "code",
+   "vi": "mã lệnh",
+   "ipa": "/koʊd/",
+   "syllables": [
+    "code"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F469-200D-1F4BB"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Programmers write code.",
+   "example_vi": "Lập trình viên viết mã lệnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W29",
+   "type": "word",
+   "en": "program",
+   "vi": "lập trình",
+   "ipa": "/ˈproʊˌɡræm/",
+   "syllables": [
+    "pro",
+    "gram"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4BB"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "I can program a small robot.",
+   "example_vi": "Tớ có thể lập trình một rô-bốt nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W30",
+   "type": "word",
+   "en": "coding",
+   "vi": "lập trình",
+   "ipa": "/ˈkoʊdɪŋ/",
+   "syllables": [
+    "cod",
+    "ing"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F4BB"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "We learn coding at school.",
+   "example_vi": "Ở trường bọn tớ học lập trình.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W31",
+   "type": "phrase",
+   "en": "time machine",
+   "vi": "cỗ máy thời gian",
+   "ipa": "/taɪm məˈʃin/",
+   "syllables": [
+    "time",
+    "ma",
+    "chine"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "If I had a time machine, I'd visit the dinosaurs.",
+   "example_vi": "Nếu có cỗ máy thời gian, tớ sẽ đi thăm khủng long.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W32",
+   "type": "word",
+   "en": "teleport",
+   "vi": "dịch chuyển tức thời",
+   "ipa": "/ˈtɛləˈpɔrt/",
+   "syllables": [
+    "teleport"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "In the film, people can teleport to other planets.",
+   "example_vi": "Trong phim, người ta có thể dịch chuyển tức thời đến hành tinh khác.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W33",
+   "type": "word",
+   "en": "genius",
+   "vi": "thiên tài",
+   "ipa": "/ˈdʒinjəs/",
+   "syllables": [
+    "ge",
+    "nius"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "She is a genius at maths.",
+   "example_vi": "Bạn ấy là thiên tài toán học.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W34",
+   "type": "word",
+   "en": "underwater",
+   "vi": "dưới nước",
+   "ipa": "/ˈʌndərˌwɔtər/",
+   "syllables": [
+    "un",
+    "der",
+    "wa",
+    "ter"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F93F"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Scientists made an underwater laboratory.",
+   "example_vi": "Các nhà khoa học làm một phòng thí nghiệm dưới nước.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W35",
+   "type": "word",
+   "en": "jetpack",
+   "vi": "ba lô phản lực",
+   "ipa": "/jetpack/",
+   "syllables": [
+    "jetpack"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F680"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "With a jetpack, you can fly like a bird.",
+   "example_vi": "Với ba lô phản lực, bạn có thể bay như chim.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W36",
+   "type": "word",
+   "en": "headset",
+   "vi": "bộ tai nghe",
+   "ipa": "/ˈhɛdˌsɛt/",
+   "syllables": [
+    "head",
+    "set"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3A7"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Put on the headset to play the game.",
+   "example_vi": "Đeo bộ tai nghe vào để chơi trò chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W37",
+   "type": "word",
+   "en": "recognise",
+   "vi": "nhận ra",
+   "ipa": "/ˈrɛkəɡˌnaɪz/",
+   "syllables": [
+    "recognise"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "My phone can recognise my face.",
+   "example_vi": "Điện thoại có thể nhận ra khuôn mặt tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W38",
+   "type": "word",
+   "en": "translate",
+   "vi": "dịch",
+   "ipa": "/trænzˈleɪt/",
+   "syllables": [
+    "trans",
+    "late"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F524"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "This app can translate Vietnamese into English.",
+   "example_vi": "Ứng dụng này có thể dịch tiếng Việt sang tiếng Anh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W39",
+   "type": "word",
+   "en": "parcel",
+   "vi": "bưu kiện",
+   "ipa": "/ˈpɑrsəl/",
+   "syllables": [
+    "par",
+    "cel"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "A drone delivered the parcel.",
+   "example_vi": "Một máy bay không người lái giao bưu kiện.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W40",
+   "type": "word",
+   "en": "intelligent",
+   "vi": "thông minh",
+   "ipa": "/ˌɪnˈtɛlədʒənt/",
+   "syllables": [
+    "in",
+    "tel",
+    "li",
+    "gent"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "Dolphins are very intelligent animals.",
+   "example_vi": "Cá heo là loài vật rất thông minh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W41",
+   "type": "word",
+   "en": "power",
+   "vi": "năng lượng, sức mạnh",
+   "ipa": "/paʊʌr/",
+   "syllables": [
+    "power"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "The car uses solar power.",
+   "example_vi": "Ô tô dùng năng lượng mặt trời.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W42",
+   "type": "word",
+   "en": "gadget",
+   "vi": "đồ công nghệ nhỏ",
+   "ipa": "/ˈɡædʒət/",
+   "syllables": [
+    "gad",
+    "get"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "My dad loves new gadgets.",
+   "example_vi": "Bố tớ rất thích đồ công nghệ mới.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W43",
+   "type": "word",
+   "en": "version",
+   "vi": "phiên bản",
+   "ipa": "/ˈvʌrʒən/",
+   "syllables": [
+    "ver",
+    "sion"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "This is the newest version of the game.",
+   "example_vi": "Đây là phiên bản mới nhất của trò chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U14-W44",
+   "type": "word",
+   "en": "advanced",
+   "vi": "tiên tiến",
+   "ipa": "/ədˈvænst/",
+   "syllables": [
+    "ad",
+    "vanced"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F680"
+   },
+   "picturable": false,
+   "cat": "L5U14",
+   "example_en": "This is a very advanced robot.",
+   "example_vi": "Đây là một rô-bốt rất tiên tiến.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U14-P01",
+   "en": "In the future, people will {x}.",
+   "vi": "Trong tương lai, con người sẽ {x}.",
+   "slots": {
+    "x": [
+     "live on Mars",
+     "drive flying cars",
+     "have robot teachers"
+    ]
+   }
+  },
+  {
+   "id": "L5U14-P02",
+   "en": "Robots might {x}.",
+   "vi": "Rô-bốt có thể sẽ {x}.",
+   "slots": {
+    "x": [
+     "cook our dinner",
+     "clean our homes",
+     "teach in schools"
+    ]
+   }
+  },
+  {
+   "id": "L5U14-P03",
+   "en": "The {x} was a great invention.",
+   "vi": "{x} là một phát minh vĩ đại.",
+   "slots": {
+    "x": [
+     "telephone",
+     "light bulb",
+     "computer",
+     "internet"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U14-D01",
+   "title_vi": "Tương lai sẽ ra sao?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, what will life be like in fifty years?",
+     "vi": "Bi ơi, năm mươi năm nữa cuộc sống sẽ thế nào?"
+    },
+    {
+     "role": "Bi",
+     "en": "I think people will drive self-driving cars.",
+     "vi": "Tớ nghĩ mọi người sẽ đi ô tô tự lái."
+    },
+    {
+     "role": "Kid",
+     "en": "Will there be flying cars?",
+     "vi": "Sẽ có ô tô bay chứ?"
+    },
+    {
+     "role": "Bi",
+     "en": "Maybe! And robots might help us at home.",
+     "vi": "Có thể! Và rô-bốt có thể sẽ giúp việc nhà."
+    },
+    {
+     "role": "Kid",
+     "en": "I hope robots will do my homework!",
+     "vi": "Tớ mong rô-bốt sẽ làm bài tập cho tớ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Ha ha! I don't think so. You still need to learn!",
+     "vi": "Ha ha! Tớ không nghĩ vậy đâu. Cậu vẫn phải học chứ!"
+    }
+   ]
+  },
+  {
+   "id": "L5U14-D02",
+   "title_vi": "Phát minh vĩ đại nhất",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What is the greatest invention in history?",
+     "vi": "Phát minh vĩ đại nhất trong lịch sử là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "In my opinion, it's the internet.",
+     "vi": "Theo tớ, đó là mạng internet."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because people can learn and talk to each other everywhere.",
+     "vi": "Vì mọi người có thể học và trò chuyện với nhau ở mọi nơi."
+    },
+    {
+     "role": "Bi",
+     "en": "I agree. But I think the light bulb is important too.",
+     "vi": "Tớ đồng ý. Nhưng tớ nghĩ bóng đèn cũng quan trọng."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "internet",
+    "options": [
+     "telephone",
+     "computer"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "technology"
+  },
+  {
+   "type": "dictate_word",
+   "target": "smart"
+  },
+  {
+   "type": "dictate_word",
+   "target": "might"
+  },
+  {
+   "type": "dictate_word",
+   "target": "drone"
+  },
+  {
+   "type": "dictate_word",
+   "target": "hologram"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wireless"
+  },
+  {
+   "type": "dictate_word",
+   "target": "smartwatch"
+  },
+  {
+   "type": "dictate_word",
+   "target": "smartphone"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Technology changes our lives every day."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My uncle has a smart TV."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "It might rain this afternoon."
+  },
+  {
+   "type": "write_sentences",
+   "target": "In the future, people will|Robots might|The greatest invention is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U14-R01",
+   "title_en": "Schools of the future",
+   "text_en": [
+    "What will schools be like in the future?",
+    "Some people think that students might not go to school at all.",
+    "They might learn at home with virtual reality headsets.",
+    "With virtual reality, students could visit ancient Egypt or walk on Mars during a history or science lesson.",
+    "Artificial intelligence might help each student learn at their own speed.",
+    "Robots might help teachers in the classroom.",
+    "However, many people believe that schools will still be important.",
+    "Students need to meet their friends, play together and learn teamwork.",
+    "In my opinion, technology will make schools better, but it will never replace good teachers."
+   ],
+   "questions": [
+    {
+     "q": "How might students learn at home?",
+     "options": [
+      "With virtual reality headsets.",
+      "With old books only.",
+      "They won't learn."
+     ],
+     "answer": "With virtual reality headsets."
+    },
+    {
+     "q": "What might artificial intelligence do?",
+     "options": [
+      "Help each student learn at their own speed.",
+      "Cook lunch.",
+      "Drive the school bus."
+     ],
+     "answer": "Help each student learn at their own speed."
+    },
+    {
+     "q": "What does the writer think?",
+     "options": [
+      "Technology won't replace good teachers.",
+      "Schools will close.",
+      "Robots are better than teachers."
+     ],
+     "answer": "Technology won't replace good teachers."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U14-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "smartwatch",
+   "item": "smartwatch",
+   "options": [
+    "compass",
+    "smartwatch",
+    "pink",
+    "stone"
+   ],
+   "answer": "smartwatch"
+  },
+  {
+   "id": "L5U14-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "compass",
+   "item": "compass",
+   "options": [
+    "soup",
+    "smartwatch",
+    "in front of",
+    "compass"
+   ],
+   "answer": "compass"
+  },
+  {
+   "id": "L5U14-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "technology",
+   "item": "technology",
+   "options": [
+    "engine",
+    "technology",
+    "wireless",
+    "intelligent"
+   ],
+   "answer": "technology"
+  },
+  {
+   "id": "L5U14-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smart",
+   "item": "smart",
+   "options": [
+    "smart",
+    "virtual reality",
+    "power",
+    "headset"
+   ],
+   "answer": "smart"
+  },
+  {
+   "id": "L5U14-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "might",
+   "item": "might",
+   "options": [
+    "might",
+    "time machine",
+    "technology",
+    "printing"
+   ],
+   "answer": "might"
+  },
+  {
+   "id": "L5U14-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "artificial intelligence",
+   "item": "artificial intelligence",
+   "options": [
+    "automatic",
+    "power",
+    "artificial intelligence",
+    "wireless"
+   ],
+   "answer": "artificial intelligence"
+  },
+  {
+   "id": "L5U14-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drone",
+   "item": "drone",
+   "options": [
+    "voice",
+    "program",
+    "compass",
+    "drone"
+   ],
+   "answer": "drone"
+  },
+  {
+   "id": "L5U14-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flying car",
+   "item": "flying car",
+   "options": [
+    "recognise",
+    "flying car",
+    "genius",
+    "voice"
+   ],
+   "answer": "flying car"
+  },
+  {
+   "id": "L5U14-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "virtual reality",
+   "item": "virtual reality",
+   "options": [
+    "gadget",
+    "compass",
+    "translate",
+    "virtual reality"
+   ],
+   "answer": "virtual reality"
+  },
+  {
+   "id": "L5U14-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hologram",
+   "item": "hologram",
+   "options": [
+    "underwater",
+    "coding",
+    "hologram",
+    "code"
+   ],
+   "answer": "hologram"
+  },
+  {
+   "id": "L5U14-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wireless",
+   "item": "wireless",
+   "options": [
+    "teleport",
+    "wireless",
+    "jetpack",
+    "develop"
+   ],
+   "answer": "wireless"
+  },
+  {
+   "id": "L5U14-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smartphone",
+   "item": "smartphone",
+   "options": [
+    "create",
+    "smartphone",
+    "wireless",
+    "artificial intelligence"
+   ],
+   "answer": "smartphone"
+  },
+  {
+   "id": "L5U14-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "GPS",
+   "item": "GPS",
+   "options": [
+    "smartphone",
+    "GPS",
+    "jetpack",
+    "parcel"
+   ],
+   "answer": "GPS"
+  },
+  {
+   "id": "L5U14-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "self-driving",
+   "item": "self-driving",
+   "options": [
+    "self-driving",
+    "wireless",
+    "develop",
+    "smart"
+   ],
+   "answer": "self-driving"
+  },
+  {
+   "id": "L5U14-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "engine",
+   "item": "engine",
+   "options": [
+    "connect",
+    "wireless",
+    "gadget",
+    "engine"
+   ],
+   "answer": "engine"
+  },
+  {
+   "id": "L5U14-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "printing",
+   "item": "printing",
+   "options": [
+    "wireless",
+    "printing",
+    "hologram",
+    "drone"
+   ],
+   "answer": "printing"
+  },
+  {
+   "id": "L5U14-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "vaccine",
+   "item": "vaccine",
+   "options": [
+    "flying car",
+    "program",
+    "vaccine",
+    "power"
+   ],
+   "answer": "vaccine"
+  },
+  {
+   "id": "L5U14-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "create",
+   "item": "create",
+   "options": [
+    "advanced",
+    "daily",
+    "smart",
+    "create"
+   ],
+   "answer": "create"
+  },
+  {
+   "id": "L5U14-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "develop",
+   "item": "develop",
+   "options": [
+    "time machine",
+    "daily",
+    "advanced",
+    "develop"
+   ],
+   "answer": "develop"
+  },
+  {
+   "id": "L5U14-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "convenient",
+   "item": "convenient",
+   "options": [
+    "printing",
+    "create",
+    "technology",
+    "convenient"
+   ],
+   "answer": "convenient"
+  },
+  {
+   "id": "L5U14-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "human",
+   "item": "human",
+   "options": [
+    "smartphone",
+    "code",
+    "human",
+    "might"
+   ],
+   "answer": "human"
+  },
+  {
+   "id": "L5U14-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "daily",
+   "item": "daily",
+   "options": [
+    "flying car",
+    "human",
+    "daily",
+    "jetpack"
+   ],
+   "answer": "daily"
+  },
+  {
+   "id": "L5U14-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "automatic",
+   "item": "automatic",
+   "options": [
+    "smartphone",
+    "automatic",
+    "connect",
+    "recognise"
+   ],
+   "answer": "automatic"
+  },
+  {
+   "id": "L5U14-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "voice",
+   "item": "voice",
+   "options": [
+    "command",
+    "power",
+    "time machine",
+    "voice"
+   ],
+   "answer": "voice"
+  },
+  {
+   "id": "L5U14-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "command",
+   "item": "command",
+   "options": [
+    "command",
+    "translate",
+    "artificial intelligence",
+    "time machine"
+   ],
+   "answer": "command"
+  },
+  {
+   "id": "L5U14-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "connect",
+   "item": "connect",
+   "options": [
+    "daily",
+    "smartphone",
+    "connect",
+    "flying car"
+   ],
+   "answer": "connect"
+  },
+  {
+   "id": "L5U14-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "digital",
+   "item": "digital",
+   "options": [
+    "drone",
+    "program",
+    "digital",
+    "version"
+   ],
+   "answer": "digital"
+  },
+  {
+   "id": "L5U14-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "code",
+   "item": "code",
+   "options": [
+    "code",
+    "advanced",
+    "automatic",
+    "compass"
+   ],
+   "answer": "code"
+  },
+  {
+   "id": "L5U14-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "program",
+   "item": "program",
+   "options": [
+    "voice",
+    "program",
+    "drone",
+    "version"
+   ],
+   "answer": "program"
+  },
+  {
+   "id": "L5U14-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "coding",
+   "item": "coding",
+   "options": [
+    "develop",
+    "printing",
+    "coding",
+    "create"
+   ],
+   "answer": "coding"
+  },
+  {
+   "id": "L5U14-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "time machine",
+   "item": "time machine",
+   "options": [
+    "daily",
+    "hologram",
+    "time machine",
+    "parcel"
+   ],
+   "answer": "time machine"
+  },
+  {
+   "id": "L5U14-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "teleport",
+   "item": "teleport",
+   "options": [
+    "coding",
+    "drone",
+    "teleport",
+    "parcel"
+   ],
+   "answer": "teleport"
+  },
+  {
+   "id": "L5U14-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "genius",
+   "item": "genius",
+   "options": [
+    "headset",
+    "code",
+    "genius",
+    "parcel"
+   ],
+   "answer": "genius"
+  },
+  {
+   "id": "L5U14-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "underwater",
+   "item": "underwater",
+   "options": [
+    "intelligent",
+    "smartwatch",
+    "time machine",
+    "underwater"
+   ],
+   "answer": "underwater"
+  },
+  {
+   "id": "L5U14-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jetpack",
+   "item": "jetpack",
+   "options": [
+    "gadget",
+    "jetpack",
+    "create",
+    "automatic"
+   ],
+   "answer": "jetpack"
+  },
+  {
+   "id": "L5U14-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "headset",
+   "item": "headset",
+   "options": [
+    "technology",
+    "headset",
+    "command",
+    "translate"
+   ],
+   "answer": "headset"
+  },
+  {
+   "id": "L5U14-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "recognise",
+   "item": "recognise",
+   "options": [
+    "recognise",
+    "engine",
+    "compass",
+    "voice"
+   ],
+   "answer": "recognise"
+  },
+  {
+   "id": "L5U14-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "translate",
+   "item": "translate",
+   "options": [
+    "time machine",
+    "translate",
+    "human",
+    "voice"
+   ],
+   "answer": "translate"
+  },
+  {
+   "id": "L5U14-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "parcel",
+   "item": "parcel",
+   "options": [
+    "program",
+    "jetpack",
+    "coding",
+    "parcel"
+   ],
+   "answer": "parcel"
+  },
+  {
+   "id": "L5U14-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "intelligent",
+   "item": "intelligent",
+   "options": [
+    "wireless",
+    "intelligent",
+    "version",
+    "parcel"
+   ],
+   "answer": "intelligent"
+  },
+  {
+   "id": "L5U14-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "power",
+   "item": "power",
+   "options": [
+    "intelligent",
+    "time machine",
+    "power",
+    "convenient"
+   ],
+   "answer": "power"
+  },
+  {
+   "id": "L5U14-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gadget",
+   "item": "gadget",
+   "options": [
+    "smartphone",
+    "human",
+    "gadget",
+    "drone"
+   ],
+   "answer": "gadget"
+  },
+  {
+   "id": "L5U14-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "version",
+   "item": "version",
+   "options": [
+    "smart",
+    "version",
+    "automatic",
+    "human"
+   ],
+   "answer": "version"
+  },
+  {
+   "id": "L5U14-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "advanced",
+   "item": "advanced",
+   "options": [
+    "power",
+    "flying car",
+    "advanced",
+    "engine"
+   ],
+   "answer": "advanced"
+  },
+  {
+   "id": "L5U14-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "smartwatch",
+   "answer": "smartwatch"
+  },
+  {
+   "id": "L5U14-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "compass",
+   "answer": "compass"
+  },
+  {
+   "id": "L5U14-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Technology changes our lives every day.",
+   "item": "technology",
+   "answer": "Technology changes our lives every day."
+  },
+  {
+   "id": "L5U14-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle has a smart TV.",
+   "item": "smart",
+   "answer": "My uncle has a smart TV."
+  },
+  {
+   "id": "L5U14-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It might rain this afternoon.",
+   "item": "might",
+   "answer": "It might rain this afternoon."
+  },
+  {
+   "id": "L5U14-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Artificial intelligence helps computers learn.",
+   "item": "artificial intelligence",
+   "answer": "Artificial intelligence helps computers learn."
+  },
+  {
+   "id": "L5U14-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The drone took photos of the forest.",
+   "item": "drone",
+   "answer": "The drone took photos of the forest."
+  },
+  {
+   "id": "L5U14-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the future, we might have flying cars.",
+   "item": "flying car",
+   "answer": "In the future, we might have flying cars."
+  },
+  {
+   "id": "L5U14-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "With virtual reality, you can visit the moon at home.",
+   "item": "virtual reality",
+   "answer": "With virtual reality, you can visit the moon at home."
+  },
+  {
+   "id": "L5U14-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The teacher showed us a hologram of a dinosaur.",
+   "item": "hologram",
+   "answer": "The teacher showed us a hologram of a dinosaur."
+  },
+  {
+   "id": "L5U14-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "These headphones are wireless.",
+   "item": "wireless",
+   "answer": "These headphones are wireless."
+  },
+  {
+   "id": "L5U14-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My smartwatch counts my steps.",
+   "item": "smartwatch",
+   "answer": "My smartwatch counts my steps."
+  },
+  {
+   "id": "L5U14-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum uses her smartphone for work.",
+   "item": "smartphone",
+   "answer": "My mum uses her smartphone for work."
+  },
+  {
+   "id": "L5U14-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The GPS shows us the way.",
+   "item": "GPS",
+   "answer": "The GPS shows us the way."
+  },
+  {
+   "id": "L5U14-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A self-driving car doesn't need a driver.",
+   "item": "self-driving",
+   "answer": "A self-driving car doesn't need a driver."
+  },
+  {
+   "id": "L5U14-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The car engine is very loud.",
+   "item": "engine",
+   "answer": "The car engine is very loud."
+  },
+  {
+   "id": "L5U14-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Printing made books cheaper.",
+   "item": "printing",
+   "answer": "Printing made books cheaper."
+  },
+  {
+   "id": "L5U14-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A compass helps you find north.",
+   "item": "compass",
+   "answer": "A compass helps you find north."
+  },
+  {
+   "id": "L5U14-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vaccines protect us from illness.",
+   "item": "vaccine",
+   "answer": "Vaccines protect us from illness."
+  },
+  {
+   "id": "L5U14-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Artists create beautiful things.",
+   "item": "create",
+   "answer": "Artists create beautiful things."
+  },
+  {
+   "id": "L5U14-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Scientists are developing new medicines.",
+   "item": "develop",
+   "answer": "Scientists are developing new medicines."
+  },
+  {
+   "id": "L5U14-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Online shopping is very convenient.",
+   "item": "convenient",
+   "answer": "Online shopping is very convenient."
+  },
+  {
+   "id": "L5U14-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Robots can do some jobs better than humans.",
+   "item": "human",
+   "answer": "Robots can do some jobs better than humans."
+  },
+  {
+   "id": "L5U14-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Phones are part of our daily life.",
+   "item": "daily",
+   "answer": "Phones are part of our daily life."
+  },
+  {
+   "id": "L5U14-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The doors are automatic.",
+   "item": "automatic",
+   "answer": "The doors are automatic."
+  },
+  {
+   "id": "L5U14-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You can control the TV with your voice.",
+   "item": "voice",
+   "answer": "You can control the TV with your voice."
+  },
+  {
+   "id": "L5U14-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The robot follows my commands.",
+   "item": "command",
+   "answer": "The robot follows my commands."
+  },
+  {
+   "id": "L5U14-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Connect the tablet to the internet.",
+   "item": "connect",
+   "answer": "Connect the tablet to the internet."
+  },
+  {
+   "id": "L5U14-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a digital camera.",
+   "item": "digital",
+   "answer": "I have a digital camera."
+  },
+  {
+   "id": "L5U14-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Programmers write code.",
+   "item": "code",
+   "answer": "Programmers write code."
+  },
+  {
+   "id": "L5U14-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can program a small robot.",
+   "item": "program",
+   "answer": "I can program a small robot."
+  },
+  {
+   "id": "L5U14-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We learn coding at school.",
+   "item": "coding",
+   "answer": "We learn coding at school."
+  },
+  {
+   "id": "L5U14-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If I had a time machine, I'd visit the dinosaurs.",
+   "item": "time machine",
+   "answer": "If I had a time machine, I'd visit the dinosaurs."
+  },
+  {
+   "id": "L5U14-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the film, people can teleport to other planets.",
+   "item": "teleport",
+   "answer": "In the film, people can teleport to other planets."
+  },
+  {
+   "id": "L5U14-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a genius at maths.",
+   "item": "genius",
+   "answer": "She is a genius at maths."
+  },
+  {
+   "id": "L5U14-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Scientists made an underwater laboratory.",
+   "item": "underwater",
+   "answer": "Scientists made an underwater laboratory."
+  },
+  {
+   "id": "L5U14-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "With a jetpack, you can fly like a bird.",
+   "item": "jetpack",
+   "answer": "With a jetpack, you can fly like a bird."
+  },
+  {
+   "id": "L5U14-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on the headset to play the game.",
+   "item": "headset",
+   "answer": "Put on the headset to play the game."
+  },
+  {
+   "id": "L5U14-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My phone can recognise my face.",
+   "item": "recognise",
+   "answer": "My phone can recognise my face."
+  },
+  {
+   "id": "L5U14-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This app can translate Vietnamese into English.",
+   "item": "translate",
+   "answer": "This app can translate Vietnamese into English."
+  },
+  {
+   "id": "L5U14-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A drone delivered the parcel.",
+   "item": "parcel",
+   "answer": "A drone delivered the parcel."
+  },
+  {
+   "id": "L5U14-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dolphins are very intelligent animals.",
+   "item": "intelligent",
+   "answer": "Dolphins are very intelligent animals."
+  },
+  {
+   "id": "L5U14-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The car uses solar power.",
+   "item": "power",
+   "answer": "The car uses solar power."
+  },
+  {
+   "id": "L5U14-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad loves new gadgets.",
+   "item": "gadget",
+   "answer": "My dad loves new gadgets."
+  },
+  {
+   "id": "L5U14-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is the newest version of the game.",
+   "item": "version",
+   "answer": "This is the newest version of the game."
+  },
+  {
+   "id": "L5U14-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is a very advanced robot.",
+   "item": "advanced",
+   "answer": "This is a very advanced robot."
+  },
+  {
+   "id": "L5U14-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the future, people will live on Mars.",
+   "answer": "In the future, people will live on Mars."
+  },
+  {
+   "id": "L5U14-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the future, people will drive flying cars.",
+   "answer": "In the future, people will drive flying cars."
+  },
+  {
+   "id": "L5U14-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the future, people will have robot teachers.",
+   "answer": "In the future, people will have robot teachers."
+  },
+  {
+   "id": "L5U14-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Robots might cook our dinner.",
+   "answer": "Robots might cook our dinner."
+  },
+  {
+   "id": "L5U14-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Robots might clean our homes.",
+   "answer": "Robots might clean our homes."
+  },
+  {
+   "id": "L5U14-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Robots might teach in schools.",
+   "answer": "Robots might teach in schools."
+  },
+  {
+   "id": "L5U14-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The telephone was a great invention.",
+   "answer": "The telephone was a great invention."
+  },
+  {
+   "id": "L5U14-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The light bulb was a great invention.",
+   "answer": "The light bulb was a great invention."
+  },
+  {
+   "id": "L5U14-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The computer was a great invention.",
+   "answer": "The computer was a great invention."
+  },
+  {
+   "id": "L5U14-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Bi, what will life be like in fifty years?",
+   "answer": "I think people will drive self-driving cars."
+  },
+  {
+   "id": "L5U14-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Will there be flying cars?",
+   "answer": "Maybe! And robots might help us at home."
+  },
+  {
+   "id": "L5U14-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What is the greatest invention in history?",
+   "answer": "In my opinion, it's the internet."
+  },
+  {
+   "id": "L5U14-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "Because people can learn and talk to each other everywhere."
+  },
+  {
+   "id": "L5U14-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "smartwatch",
+   "options": [
+    "fruit",
+    "compass",
+    "smartwatch"
+   ],
+   "answer": "smartwatch"
+  },
+  {
+   "id": "L5U14-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "compass",
+   "options": [
+    "smartwatch",
+    "gorilla",
+    "compass"
+   ],
+   "answer": "compass"
+  },
+  {
+   "id": "L5U14-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ changes our lives every day.",
+   "item": "technology",
+   "options": [
+    "Coding",
+    "Daily",
+    "Technology"
+   ],
+   "answer": "Technology"
+  },
+  {
+   "id": "L5U14-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle has a ___ TV.",
+   "item": "smart",
+   "options": [
+    "human",
+    "smart",
+    "wireless"
+   ],
+   "answer": "smart"
+  },
+  {
+   "id": "L5U14-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It ___ rain this afternoon.",
+   "item": "might",
+   "options": [
+    "might",
+    "voice",
+    "version"
+   ],
+   "answer": "might"
+  },
+  {
+   "id": "L5U14-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ took photos of the forest.",
+   "item": "drone",
+   "options": [
+    "drone",
+    "connect",
+    "human"
+   ],
+   "answer": "drone"
+  },
+  {
+   "id": "L5U14-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The teacher showed us a ___ of a dinosaur.",
+   "item": "hologram",
+   "options": [
+    "technology",
+    "hologram",
+    "printing"
+   ],
+   "answer": "hologram"
+  },
+  {
+   "id": "L5U14-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "These headphones are ___.",
+   "item": "wireless",
+   "options": [
+    "genius",
+    "wireless",
+    "smartphone"
+   ],
+   "answer": "wireless"
+  },
+  {
+   "id": "L5U14-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ counts my steps.",
+   "item": "smartwatch",
+   "options": [
+    "wireless",
+    "develop",
+    "smartwatch"
+   ],
+   "answer": "smartwatch"
+  },
+  {
+   "id": "L5U14-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum uses her ___ for work.",
+   "item": "smartphone",
+   "options": [
+    "smartphone",
+    "engine",
+    "connect"
+   ],
+   "answer": "smartphone"
+  },
+  {
+   "id": "L5U14-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ car doesn't need a driver.",
+   "item": "self-driving",
+   "options": [
+    "teleport",
+    "jetpack",
+    "self-driving"
+   ],
+   "answer": "self-driving"
+  },
+  {
+   "id": "L5U14-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The car ___ is very loud.",
+   "item": "engine",
+   "options": [
+    "headset",
+    "engine",
+    "smartwatch"
+   ],
+   "answer": "engine"
+  },
+  {
+   "id": "L5U14-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ made books cheaper.",
+   "item": "printing",
+   "options": [
+    "Genius",
+    "Printing",
+    "Coding"
+   ],
+   "answer": "Printing"
+  },
+  {
+   "id": "L5U14-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ helps you find north.",
+   "item": "compass",
+   "options": [
+    "compass",
+    "power",
+    "human"
+   ],
+   "answer": "compass"
+  },
+  {
+   "id": "L5U14-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ protect us from illness.",
+   "item": "vaccine",
+   "options": [
+    "Vaccines",
+    "Smartwatches",
+    "Compasses"
+   ],
+   "answer": "Vaccines"
+  },
+  {
+   "id": "L5U14-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Artists ___ beautiful things.",
+   "item": "create",
+   "options": [
+    "create",
+    "power",
+    "self-driving"
+   ],
+   "answer": "create"
+  },
+  {
+   "id": "L5U14-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Scientists are ___ new medicines.",
+   "item": "develop",
+   "options": [
+    "gadgeting",
+    "developing",
+    "creating"
+   ],
+   "answer": "developing"
+  },
+  {
+   "id": "L5U14-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Online shopping is very ___.",
+   "item": "convenient",
+   "options": [
+    "smart",
+    "parcel",
+    "convenient"
+   ],
+   "answer": "convenient"
+  },
+  {
+   "id": "L5U14-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Robots can do some jobs better than ___.",
+   "item": "human",
+   "options": [
+    "smartwatches",
+    "humans",
+    "compasses"
+   ],
+   "answer": "humans"
+  },
+  {
+   "id": "L5U14-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Phones are part of our ___ life.",
+   "item": "daily",
+   "options": [
+    "wireless",
+    "technology",
+    "daily"
+   ],
+   "answer": "daily"
+  },
+  {
+   "id": "L5U14-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The doors are ___.",
+   "item": "automatic",
+   "options": [
+    "parcel",
+    "might",
+    "automatic"
+   ],
+   "answer": "automatic"
+  },
+  {
+   "id": "L5U14-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You can control the TV with your ___.",
+   "item": "voice",
+   "options": [
+    "technology",
+    "voice",
+    "convenient"
+   ],
+   "answer": "voice"
+  },
+  {
+   "id": "L5U14-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The robot follows my ___.",
+   "item": "command",
+   "options": [
+    "translates",
+    "printings",
+    "commands"
+   ],
+   "answer": "commands"
+  },
+  {
+   "id": "L5U14-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the tablet to the internet.",
+   "item": "connect",
+   "options": [
+    "Might",
+    "Engine",
+    "Connect"
+   ],
+   "answer": "Connect"
+  },
+  {
+   "id": "L5U14-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have a ___ camera.",
+   "item": "digital",
+   "options": [
+    "printing",
+    "digital",
+    "coding"
+   ],
+   "answer": "digital"
+  },
+  {
+   "id": "L5U14-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Programmers write ___.",
+   "item": "code",
+   "options": [
+    "gadget",
+    "code",
+    "hologram"
+   ],
+   "answer": "code"
+  },
+  {
+   "id": "L5U14-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___ a small robot.",
+   "item": "program",
+   "options": [
+    "program",
+    "convenient",
+    "might"
+   ],
+   "answer": "program"
+  },
+  {
+   "id": "L5U14-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We learn ___ at school.",
+   "item": "coding",
+   "options": [
+    "power",
+    "coding",
+    "teleport"
+   ],
+   "answer": "coding"
+  },
+  {
+   "id": "L5U14-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In the film, people can ___ to other planets.",
+   "item": "teleport",
+   "options": [
+    "version",
+    "teleport",
+    "develop"
+   ],
+   "answer": "teleport"
+  },
+  {
+   "id": "L5U14-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She is a ___ at maths.",
+   "item": "genius",
+   "options": [
+    "version",
+    "human",
+    "genius"
+   ],
+   "answer": "genius"
+  },
+  {
+   "id": "L5U14-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Scientists made an ___ laboratory.",
+   "item": "underwater",
+   "options": [
+    "create",
+    "version",
+    "underwater"
+   ],
+   "answer": "underwater"
+  },
+  {
+   "id": "L5U14-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "With a ___, you can fly like a bird.",
+   "item": "jetpack",
+   "options": [
+    "jetpack",
+    "convenient",
+    "might"
+   ],
+   "answer": "jetpack"
+  },
+  {
+   "id": "L5U14-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on the ___ to play the game.",
+   "item": "headset",
+   "options": [
+    "headset",
+    "intelligent",
+    "power"
+   ],
+   "answer": "headset"
+  },
+  {
+   "id": "L5U14-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My phone can ___ my face.",
+   "item": "recognise",
+   "options": [
+    "recognise",
+    "automatic",
+    "smartwatch"
+   ],
+   "answer": "recognise"
+  },
+  {
+   "id": "L5U14-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This app can ___ Vietnamese into English.",
+   "item": "translate",
+   "options": [
+    "human",
+    "translate",
+    "command"
+   ],
+   "answer": "translate"
+  },
+  {
+   "id": "L5U14-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A drone delivered the ___.",
+   "item": "parcel",
+   "options": [
+    "printing",
+    "parcel",
+    "convenient"
+   ],
+   "answer": "parcel"
+  },
+  {
+   "id": "L5U14-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dolphins are very ___ animals.",
+   "item": "intelligent",
+   "options": [
+    "intelligent",
+    "hologram",
+    "power"
+   ],
+   "answer": "intelligent"
+  },
+  {
+   "id": "L5U14-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The car uses solar ___.",
+   "item": "power",
+   "options": [
+    "power",
+    "digital",
+    "advanced"
+   ],
+   "answer": "power"
+  },
+  {
+   "id": "L5U14-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad loves new ___.",
+   "item": "gadget",
+   "options": [
+    "compasses",
+    "gadgets",
+    "smartwatches"
+   ],
+   "answer": "gadgets"
+  },
+  {
+   "id": "L5U14-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is the newest ___ of the game.",
+   "item": "version",
+   "options": [
+    "version",
+    "code",
+    "hologram"
+   ],
+   "answer": "version"
+  },
+  {
+   "id": "L5U14-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is a very ___ robot.",
+   "item": "advanced",
+   "options": [
+    "headset",
+    "vaccine",
+    "advanced"
+   ],
+   "answer": "advanced"
+  },
+  {
+   "id": "L5U14-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My smartwatch counts my steps.",
+   "item": "smartwatch",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U14-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A compass helps you find north.",
+   "item": "smartwatch",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U14-Q147",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U14-R01",
+   "text_en": "How might students learn at home?",
+   "options": [
+    "With old books only.",
+    "They won't learn.",
+    "With virtual reality headsets."
+   ],
+   "answer": "With virtual reality headsets."
+  },
+  {
+   "id": "L5U14-Q148",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U14-R01",
+   "text_en": "What might artificial intelligence do?",
+   "options": [
+    "Drive the school bus.",
+    "Cook lunch.",
+    "Help each student learn at their own speed."
+   ],
+   "answer": "Help each student learn at their own speed."
+  },
+  {
+   "id": "L5U14-Q149",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U14-R01",
+   "text_en": "What does the writer think?",
+   "options": [
+    "Robots are better than teachers.",
+    "Technology won't replace good teachers.",
+    "Schools will close."
+   ],
+   "answer": "Technology won't replace good teachers."
+  },
+  {
+   "id": "L5U14-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "technology",
+   "item": "technology",
+   "answer": "technology"
+  },
+  {
+   "id": "L5U14-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "smart",
+   "item": "smart",
+   "answer": "smart"
+  },
+  {
+   "id": "L5U14-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "might",
+   "item": "might",
+   "answer": "might"
+  },
+  {
+   "id": "L5U14-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "drone",
+   "item": "drone",
+   "answer": "drone"
+  },
+  {
+   "id": "L5U14-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "hologram",
+   "item": "hologram",
+   "answer": "hologram"
+  },
+  {
+   "id": "L5U14-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wireless",
+   "item": "wireless",
+   "answer": "wireless"
+  },
+  {
+   "id": "L5U14-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "smartwatch",
+   "item": "smartwatch",
+   "answer": "smartwatch"
+  },
+  {
+   "id": "L5U14-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "smartphone",
+   "item": "smartphone",
+   "answer": "smartphone"
+  },
+  {
+   "id": "L5U14-Q158",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Technology changes our lives every day.",
+   "answer": "Technology changes our lives every day."
+  },
+  {
+   "id": "L5U14-Q159",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My uncle has a smart TV.",
+   "answer": "My uncle has a smart TV."
+  },
+  {
+   "id": "L5U14-Q160",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "It might rain this afternoon.",
+   "answer": "It might rain this afternoon."
+  }
+ ]
+}

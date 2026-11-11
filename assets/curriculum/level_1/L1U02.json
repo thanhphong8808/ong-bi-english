@@ -1,0 +1,1745 @@
+{
+ "id": "L1U02",
+ "level": 1,
+ "unit": 2,
+ "topic_en": "My body",
+ "topic_vi": "Cơ thể của bé",
+ "can_do_vi": [
+  "Gọi tên các bộ phận cơ thể",
+  "Nói \"I have two eyes.\""
+ ],
+ "items": [
+  {
+   "id": "L1U02-W01",
+   "type": "word",
+   "en": "head",
+   "vi": "cái đầu",
+   "ipa": "/hɛd/",
+   "syllables": [
+    "head"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my head.",
+   "example_vi": "Đây là đầu của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W02",
+   "type": "word",
+   "en": "hair",
+   "vi": "tóc",
+   "ipa": "/hɛr/",
+   "syllables": [
+    "hair"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F487"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have black hair.",
+   "example_vi": "Tớ có tóc đen.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W03",
+   "type": "word",
+   "en": "face",
+   "vi": "khuôn mặt",
+   "ipa": "/feɪs/",
+   "syllables": [
+    "face"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F642"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my face.",
+   "example_vi": "Đây là mặt của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W04",
+   "type": "word",
+   "en": "eye",
+   "vi": "mắt",
+   "ipa": "/aɪ/",
+   "syllables": [
+    "eye"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F441-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have two eyes.",
+   "example_vi": "Tớ có hai mắt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W05",
+   "type": "word",
+   "en": "ear",
+   "vi": "tai",
+   "ipa": "/ɪr/",
+   "syllables": [
+    "ear"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have two ears.",
+   "example_vi": "Tớ có hai tai.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W06",
+   "type": "word",
+   "en": "mouth",
+   "vi": "miệng",
+   "ipa": "/maʊθ/",
+   "syllables": [
+    "mouth"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F444"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my mouth.",
+   "example_vi": "Đây là miệng của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W07",
+   "type": "word",
+   "en": "tooth",
+   "vi": "cái răng",
+   "ipa": "/tuθ/",
+   "syllables": [
+    "tooth"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9B7"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have a white tooth.",
+   "example_vi": "Tớ có một cái răng trắng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W08",
+   "type": "word",
+   "en": "arm",
+   "vi": "cánh tay",
+   "ipa": "/ɑrm/",
+   "syllables": [
+    "arm"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my arm.",
+   "example_vi": "Đây là cánh tay tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W09",
+   "type": "word",
+   "en": "hand",
+   "vi": "bàn tay",
+   "ipa": "/hænd/",
+   "syllables": [
+    "hand"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have two hands.",
+   "example_vi": "Tớ có hai bàn tay.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W10",
+   "type": "word",
+   "en": "finger",
+   "vi": "ngón tay",
+   "ipa": "/ˈfɪŋɡər/",
+   "syllables": [
+    "fin",
+    "ger"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "261D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "I have ten fingers.",
+   "example_vi": "Tớ có mười ngón tay.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W11",
+   "type": "word",
+   "en": "foot",
+   "vi": "bàn chân",
+   "ipa": "/fʊt/",
+   "syllables": [
+    "foot"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9B6"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my foot.",
+   "example_vi": "Đây là bàn chân tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W12",
+   "type": "word",
+   "en": "knee",
+   "vi": "đầu gối",
+   "ipa": "/ni/",
+   "syllables": [
+    "knee"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F9CE"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my knee.",
+   "example_vi": "Đây là đầu gối tớ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W13",
+   "type": "word",
+   "en": "tummy",
+   "vi": "cái bụng",
+   "ipa": "/ˈtʌmi/",
+   "syllables": [
+    "tum",
+    "my"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1FAC3"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "My tummy is big.",
+   "example_vi": "Bụng tớ to.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W14",
+   "type": "word",
+   "en": "back",
+   "vi": "cái lưng",
+   "ipa": "/bæk/",
+   "syllables": [
+    "back"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F519"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my back.",
+   "example_vi": "Đây là lưng tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W15",
+   "type": "word",
+   "en": "long",
+   "vi": "dài",
+   "ipa": "/lɔŋ/",
+   "syllables": [
+    "long"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "She has long hair.",
+   "example_vi": "Bạn ấy có tóc dài.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W16",
+   "type": "word",
+   "en": "short",
+   "vi": "ngắn",
+   "ipa": "/ʃɔrt/",
+   "syllables": [
+    "short"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "He has short hair.",
+   "example_vi": "Bạn ấy có tóc ngắn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W17",
+   "type": "word",
+   "en": "touch",
+   "vi": "chạm",
+   "ipa": "/tʌtʃ/",
+   "syllables": [
+    "touch"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F446"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "Touch your nose!",
+   "example_vi": "Chạm vào mũi nào!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W18",
+   "type": "word",
+   "en": "clap",
+   "vi": "vỗ tay",
+   "ipa": "/klæp/",
+   "syllables": [
+    "clap"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F44F"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "Clap your hands!",
+   "example_vi": "Vỗ tay nào!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W19",
+   "type": "word",
+   "en": "wave",
+   "vi": "vẫy tay",
+   "ipa": "/weɪv/",
+   "syllables": [
+    "wave"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "Wave your hand!",
+   "example_vi": "Vẫy tay nào!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U02-W20",
+   "type": "word",
+   "en": "body",
+   "vi": "cơ thể",
+   "ipa": "/ˈbɑdi/",
+   "syllables": [
+    "body"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": true,
+   "cat": "L1U02",
+   "example_en": "This is my body.",
+   "example_vi": "Đây là cơ thể tớ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U02-P01",
+   "en": "I have two {x}.",
+   "vi": "Tớ có hai {x}.",
+   "slots": {
+    "x": [
+     "eyes",
+     "ears",
+     "hands",
+     "arms"
+    ]
+   }
+  },
+  {
+   "id": "L1U02-P02",
+   "en": "Touch your {x}!",
+   "vi": "Chạm vào {x} nào!",
+   "slots": {
+    "x": [
+     "nose",
+     "head",
+     "knee",
+     "tummy"
+    ]
+   }
+  },
+  {
+   "id": "L1U02-P03",
+   "en": "She has {x} hair.",
+   "vi": "Bạn ấy có tóc {x}.",
+   "slots": {
+    "x": [
+     "long",
+     "short",
+     "black",
+     "brown"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U02-D01",
+   "title_vi": "Trò chơi chạm",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's play! Touch your nose!",
+     "vi": "Mình chơi nhé! Chạm vào mũi nào!"
+    },
+    {
+     "role": "Kid",
+     "en": "This is my nose!",
+     "vi": "Đây là mũi tớ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Good! Clap your hands!",
+     "vi": "Giỏi lắm! Vỗ tay nào!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Clap, clap!",
+     "vi": "Được! Vỗ, vỗ!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "nose",
+    "options": [
+     "head",
+     "ear",
+     "knee"
+    ]
+   }
+  },
+  {
+   "id": "L1U02-D02",
+   "title_vi": "Tả bạn",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you have long hair?",
+     "vi": "Cậu có tóc dài không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. I have short hair.",
+     "vi": "Không. Tớ có tóc ngắn."
+    },
+    {
+     "role": "Bi",
+     "en": "I have two big eyes.",
+     "vi": "Tớ có hai mắt to."
+    },
+    {
+     "role": "Kid",
+     "en": "And I have two small ears!",
+     "vi": "Còn tớ có hai tai nhỏ!"
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "h"
+  },
+  {
+   "type": "write_letter",
+   "target": "f"
+  },
+  {
+   "type": "write_letter",
+   "target": "e"
+  },
+  {
+   "type": "write_letter",
+   "target": "m"
+  },
+  {
+   "type": "copy_word",
+   "target": "head"
+  },
+  {
+   "type": "copy_word",
+   "target": "hair"
+  },
+  {
+   "type": "copy_word",
+   "target": "face"
+  },
+  {
+   "type": "copy_word",
+   "target": "eye"
+  },
+  {
+   "type": "copy_word",
+   "target": "ear"
+  },
+  {
+   "type": "copy_word",
+   "target": "mouth"
+  },
+  {
+   "type": "copy_word",
+   "target": "tooth"
+  },
+  {
+   "type": "copy_word",
+   "target": "arm"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U02-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "head",
+   "item": "head",
+   "options": [
+    "head",
+    "clap",
+    "long",
+    "back"
+   ],
+   "answer": "head"
+  },
+  {
+   "id": "L1U02-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hair",
+   "item": "hair",
+   "options": [
+    "hand",
+    "hair",
+    "long",
+    "clap"
+   ],
+   "answer": "hair"
+  },
+  {
+   "id": "L1U02-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "face",
+   "item": "face",
+   "options": [
+    "knee",
+    "hand",
+    "face",
+    "mouth"
+   ],
+   "answer": "face"
+  },
+  {
+   "id": "L1U02-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "eye",
+   "item": "eye",
+   "options": [
+    "tummy",
+    "eye",
+    "ear",
+    "head"
+   ],
+   "answer": "eye"
+  },
+  {
+   "id": "L1U02-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ear",
+   "item": "ear",
+   "options": [
+    "arm",
+    "tooth",
+    "long",
+    "ear"
+   ],
+   "answer": "ear"
+  },
+  {
+   "id": "L1U02-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mouth",
+   "item": "mouth",
+   "options": [
+    "head",
+    "long",
+    "mouth",
+    "foot"
+   ],
+   "answer": "mouth"
+  },
+  {
+   "id": "L1U02-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tooth",
+   "item": "tooth",
+   "options": [
+    "tooth",
+    "short",
+    "hand",
+    "foot"
+   ],
+   "answer": "tooth"
+  },
+  {
+   "id": "L1U02-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "arm",
+   "item": "arm",
+   "options": [
+    "wave",
+    "hand",
+    "touch",
+    "arm"
+   ],
+   "answer": "arm"
+  },
+  {
+   "id": "L1U02-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hand",
+   "item": "hand",
+   "options": [
+    "hand",
+    "tummy",
+    "touch",
+    "hair"
+   ],
+   "answer": "hand"
+  },
+  {
+   "id": "L1U02-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "finger",
+   "item": "finger",
+   "options": [
+    "arm",
+    "knee",
+    "back",
+    "finger"
+   ],
+   "answer": "finger"
+  },
+  {
+   "id": "L1U02-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "foot",
+   "item": "foot",
+   "options": [
+    "arm",
+    "tummy",
+    "clap",
+    "foot"
+   ],
+   "answer": "foot"
+  },
+  {
+   "id": "L1U02-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "knee",
+   "item": "knee",
+   "options": [
+    "back",
+    "tummy",
+    "wave",
+    "knee"
+   ],
+   "answer": "knee"
+  },
+  {
+   "id": "L1U02-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tummy",
+   "item": "tummy",
+   "options": [
+    "mouth",
+    "back",
+    "tummy",
+    "wave"
+   ],
+   "answer": "tummy"
+  },
+  {
+   "id": "L1U02-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "back",
+   "item": "back",
+   "options": [
+    "hair",
+    "ear",
+    "back",
+    "short"
+   ],
+   "answer": "back"
+  },
+  {
+   "id": "L1U02-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "long",
+   "item": "long",
+   "options": [
+    "body",
+    "eye",
+    "long",
+    "hair"
+   ],
+   "answer": "long"
+  },
+  {
+   "id": "L1U02-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "short",
+   "item": "short",
+   "options": [
+    "eye",
+    "tooth",
+    "short",
+    "arm"
+   ],
+   "answer": "short"
+  },
+  {
+   "id": "L1U02-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "touch",
+   "item": "touch",
+   "options": [
+    "clap",
+    "body",
+    "mouth",
+    "touch"
+   ],
+   "answer": "touch"
+  },
+  {
+   "id": "L1U02-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clap",
+   "item": "clap",
+   "options": [
+    "body",
+    "short",
+    "arm",
+    "clap"
+   ],
+   "answer": "clap"
+  },
+  {
+   "id": "L1U02-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wave",
+   "item": "wave",
+   "options": [
+    "hair",
+    "face",
+    "wave",
+    "hand"
+   ],
+   "answer": "wave"
+  },
+  {
+   "id": "L1U02-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "body",
+   "item": "body",
+   "options": [
+    "eye",
+    "foot",
+    "body",
+    "clap"
+   ],
+   "answer": "body"
+  },
+  {
+   "id": "L1U02-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the head yellow.",
+   "item": "head",
+   "options": [
+    "arm",
+    "short",
+    "head"
+   ],
+   "answer": "head",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U02-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hair green.",
+   "item": "hair",
+   "options": [
+    "hair",
+    "foot",
+    "head"
+   ],
+   "answer": "hair",
+   "color": "green"
+  },
+  {
+   "id": "L1U02-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the face yellow.",
+   "item": "face",
+   "options": [
+    "long",
+    "face",
+    "hand"
+   ],
+   "answer": "face",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U02-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the eye blue.",
+   "item": "eye",
+   "options": [
+    "back",
+    "eye",
+    "tummy"
+   ],
+   "answer": "eye",
+   "color": "blue"
+  },
+  {
+   "id": "L1U02-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "head",
+   "answer": "head"
+  },
+  {
+   "id": "L1U02-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hair",
+   "answer": "hair"
+  },
+  {
+   "id": "L1U02-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "face",
+   "answer": "face"
+  },
+  {
+   "id": "L1U02-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "eye",
+   "answer": "eye"
+  },
+  {
+   "id": "L1U02-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ear",
+   "answer": "ear"
+  },
+  {
+   "id": "L1U02-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mouth",
+   "answer": "mouth"
+  },
+  {
+   "id": "L1U02-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tooth",
+   "answer": "tooth"
+  },
+  {
+   "id": "L1U02-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "arm",
+   "answer": "arm"
+  },
+  {
+   "id": "L1U02-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hand",
+   "answer": "hand"
+  },
+  {
+   "id": "L1U02-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "finger",
+   "answer": "finger"
+  },
+  {
+   "id": "L1U02-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "foot",
+   "answer": "foot"
+  },
+  {
+   "id": "L1U02-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "knee",
+   "answer": "knee"
+  },
+  {
+   "id": "L1U02-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tummy",
+   "answer": "tummy"
+  },
+  {
+   "id": "L1U02-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "back",
+   "answer": "back"
+  },
+  {
+   "id": "L1U02-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "long",
+   "answer": "long"
+  },
+  {
+   "id": "L1U02-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "short",
+   "answer": "short"
+  },
+  {
+   "id": "L1U02-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "touch",
+   "answer": "touch"
+  },
+  {
+   "id": "L1U02-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clap",
+   "answer": "clap"
+  },
+  {
+   "id": "L1U02-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wave",
+   "answer": "wave"
+  },
+  {
+   "id": "L1U02-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "body",
+   "answer": "body"
+  },
+  {
+   "id": "L1U02-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my head.",
+   "item": "head",
+   "answer": "This is my head."
+  },
+  {
+   "id": "L1U02-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have black hair.",
+   "item": "hair",
+   "answer": "I have black hair."
+  },
+  {
+   "id": "L1U02-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my face.",
+   "item": "face",
+   "answer": "This is my face."
+  },
+  {
+   "id": "L1U02-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two eyes.",
+   "item": "eye",
+   "answer": "I have two eyes."
+  },
+  {
+   "id": "L1U02-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two ears.",
+   "item": "ear",
+   "answer": "I have two ears."
+  },
+  {
+   "id": "L1U02-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my mouth.",
+   "item": "mouth",
+   "answer": "This is my mouth."
+  },
+  {
+   "id": "L1U02-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a white tooth.",
+   "item": "tooth",
+   "answer": "I have a white tooth."
+  },
+  {
+   "id": "L1U02-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my arm.",
+   "item": "arm",
+   "answer": "This is my arm."
+  },
+  {
+   "id": "L1U02-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two hands.",
+   "item": "hand",
+   "answer": "I have two hands."
+  },
+  {
+   "id": "L1U02-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have ten fingers.",
+   "item": "finger",
+   "answer": "I have ten fingers."
+  },
+  {
+   "id": "L1U02-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my foot.",
+   "item": "foot",
+   "answer": "This is my foot."
+  },
+  {
+   "id": "L1U02-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my knee.",
+   "item": "knee",
+   "answer": "This is my knee."
+  },
+  {
+   "id": "L1U02-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My tummy is big.",
+   "item": "tummy",
+   "answer": "My tummy is big."
+  },
+  {
+   "id": "L1U02-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my back.",
+   "item": "back",
+   "answer": "This is my back."
+  },
+  {
+   "id": "L1U02-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has long hair.",
+   "item": "long",
+   "answer": "She has long hair."
+  },
+  {
+   "id": "L1U02-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He has short hair.",
+   "item": "short",
+   "answer": "He has short hair."
+  },
+  {
+   "id": "L1U02-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Touch your nose!",
+   "item": "touch",
+   "answer": "Touch your nose!"
+  },
+  {
+   "id": "L1U02-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Clap your hands!",
+   "item": "clap",
+   "answer": "Clap your hands!"
+  },
+  {
+   "id": "L1U02-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wave your hand!",
+   "item": "wave",
+   "answer": "Wave your hand!"
+  },
+  {
+   "id": "L1U02-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my body.",
+   "item": "body",
+   "answer": "This is my body."
+  },
+  {
+   "id": "L1U02-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two eyes.",
+   "answer": "I have two eyes."
+  },
+  {
+   "id": "L1U02-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two ears.",
+   "answer": "I have two ears."
+  },
+  {
+   "id": "L1U02-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two hands.",
+   "answer": "I have two hands."
+  },
+  {
+   "id": "L1U02-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Touch your nose!",
+   "answer": "Touch your nose!"
+  },
+  {
+   "id": "L1U02-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Touch your head!",
+   "answer": "Touch your head!"
+  },
+  {
+   "id": "L1U02-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Touch your knee!",
+   "answer": "Touch your knee!"
+  },
+  {
+   "id": "L1U02-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has long hair.",
+   "answer": "She has long hair."
+  },
+  {
+   "id": "L1U02-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has short hair.",
+   "answer": "She has short hair."
+  },
+  {
+   "id": "L1U02-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has black hair.",
+   "answer": "She has black hair."
+  },
+  {
+   "id": "L1U02-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you have long hair?",
+   "answer": "No. I have short hair."
+  },
+  {
+   "id": "L1U02-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "head",
+   "options": [
+    "back",
+    "head",
+    "hand"
+   ],
+   "answer": "head"
+  },
+  {
+   "id": "L1U02-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hair",
+   "options": [
+    "short",
+    "long",
+    "hair"
+   ],
+   "answer": "hair"
+  },
+  {
+   "id": "L1U02-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "face",
+   "options": [
+    "eye",
+    "knee",
+    "face"
+   ],
+   "answer": "face"
+  },
+  {
+   "id": "L1U02-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "eye",
+   "options": [
+    "back",
+    "eye",
+    "short"
+   ],
+   "answer": "eye"
+  },
+  {
+   "id": "L1U02-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ear",
+   "options": [
+    "finger",
+    "ear",
+    "face"
+   ],
+   "answer": "ear"
+  },
+  {
+   "id": "L1U02-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mouth",
+   "options": [
+    "mouth",
+    "arm",
+    "touch"
+   ],
+   "answer": "mouth"
+  },
+  {
+   "id": "L1U02-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tooth",
+   "options": [
+    "foot",
+    "wave",
+    "tooth"
+   ],
+   "answer": "tooth"
+  },
+  {
+   "id": "L1U02-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "arm",
+   "options": [
+    "wave",
+    "tooth",
+    "arm"
+   ],
+   "answer": "arm"
+  },
+  {
+   "id": "L1U02-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hand",
+   "options": [
+    "ear",
+    "foot",
+    "hand"
+   ],
+   "answer": "hand"
+  },
+  {
+   "id": "L1U02-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "finger",
+   "options": [
+    "tummy",
+    "ear",
+    "finger"
+   ],
+   "answer": "finger"
+  },
+  {
+   "id": "L1U02-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "foot",
+   "options": [
+    "foot",
+    "body",
+    "back"
+   ],
+   "answer": "foot"
+  },
+  {
+   "id": "L1U02-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "knee",
+   "options": [
+    "short",
+    "long",
+    "knee"
+   ],
+   "answer": "knee"
+  },
+  {
+   "id": "L1U02-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tummy",
+   "options": [
+    "foot",
+    "tummy",
+    "short"
+   ],
+   "answer": "tummy"
+  },
+  {
+   "id": "L1U02-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "back",
+   "options": [
+    "tooth",
+    "back",
+    "tummy"
+   ],
+   "answer": "back"
+  },
+  {
+   "id": "L1U02-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "long",
+   "options": [
+    "eye",
+    "short",
+    "long"
+   ],
+   "answer": "long"
+  },
+  {
+   "id": "L1U02-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "short",
+   "options": [
+    "hand",
+    "arm",
+    "short"
+   ],
+   "answer": "short"
+  },
+  {
+   "id": "L1U02-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "touch",
+   "options": [
+    "body",
+    "touch",
+    "ear"
+   ],
+   "answer": "touch"
+  },
+  {
+   "id": "L1U02-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clap",
+   "options": [
+    "tummy",
+    "clap",
+    "wave"
+   ],
+   "answer": "clap"
+  },
+  {
+   "id": "L1U02-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wave",
+   "options": [
+    "wave",
+    "foot",
+    "back"
+   ],
+   "answer": "wave"
+  },
+  {
+   "id": "L1U02-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "body",
+   "options": [
+    "touch",
+    "body",
+    "eye"
+   ],
+   "answer": "body"
+  },
+  {
+   "id": "L1U02-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "h",
+   "answer": "h"
+  },
+  {
+   "id": "L1U02-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "f",
+   "answer": "f"
+  },
+  {
+   "id": "L1U02-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "e",
+   "answer": "e"
+  },
+  {
+   "id": "L1U02-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "m",
+   "answer": "m"
+  },
+  {
+   "id": "L1U02-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "head",
+   "answer": "head"
+  },
+  {
+   "id": "L1U02-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "hair",
+   "answer": "hair"
+  },
+  {
+   "id": "L1U02-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "face",
+   "answer": "face"
+  },
+  {
+   "id": "L1U02-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "eye",
+   "answer": "eye"
+  },
+  {
+   "id": "L1U02-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "ear",
+   "answer": "ear"
+  },
+  {
+   "id": "L1U02-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "mouth",
+   "answer": "mouth"
+  },
+  {
+   "id": "L1U02-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "tooth",
+   "answer": "tooth"
+  },
+  {
+   "id": "L1U02-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "arm",
+   "answer": "arm"
+  }
+ ]
+}

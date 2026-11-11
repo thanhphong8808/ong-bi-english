@@ -1,0 +1,2581 @@
+{
+ "id": "L3U02",
+ "level": 3,
+ "unit": 2,
+ "topic_en": "Feelings",
+ "topic_vi": "Cảm xúc",
+ "can_do_vi": [
+  "Nói cảm xúc của mình và lý do",
+  "Hỏi bạn \"What's wrong?\" và an ủi bạn"
+ ],
+ "grammar_note_vi": "Nói cảm xúc dùng \"feel + từ chỉ cảm xúc\": \"I feel nervous.\" Hỏi bạn: \"How do you feel?\" (Cậu thấy thế nào?) hoặc \"What's wrong?\" (Có chuyện gì vậy?).",
+ "items": [
+  {
+   "id": "L3U02-W01",
+   "type": "word",
+   "en": "feeling",
+   "vi": "cảm xúc",
+   "ipa": "/ˈfilɪŋ/",
+   "syllables": [
+    "feel",
+    "ing"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "It's okay to talk about your feelings.",
+   "example_vi": "Nói về cảm xúc của mình là điều bình thường.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W02",
+   "type": "word",
+   "en": "nervous",
+   "vi": "hồi hộp, lo lắng",
+   "ipa": "/ˈnʌrvəs/",
+   "syllables": [
+    "ner",
+    "vous"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F62C"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "I feel nervous before a test.",
+   "example_vi": "Tớ thấy hồi hộp trước bài kiểm tra.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W03",
+   "type": "word",
+   "en": "proud",
+   "vi": "tự hào",
+   "ipa": "/praʊd/",
+   "syllables": [
+    "proud"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3C5"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Mum is proud of me.",
+   "example_vi": "Mẹ tự hào về tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W04",
+   "type": "word",
+   "en": "worried",
+   "vi": "lo lắng",
+   "ipa": "/ˈwʌrid/",
+   "syllables": [
+    "wor",
+    "ried"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F61F"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "Dad is worried because I'm ill.",
+   "example_vi": "Bố lo vì tớ bị ốm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W05",
+   "type": "word",
+   "en": "surprised",
+   "vi": "ngạc nhiên",
+   "ipa": "/səˈpraɪzd/",
+   "syllables": [
+    "sur",
+    "prised"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F632"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "I was surprised by the present.",
+   "example_vi": "Tớ ngạc nhiên vì món quà.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W06",
+   "type": "word",
+   "en": "lonely",
+   "vi": "cô đơn",
+   "ipa": "/ˈloʊnli/",
+   "syllables": [
+    "lone",
+    "ly"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F614"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "The little bird feels lonely.",
+   "example_vi": "Chú chim nhỏ thấy cô đơn.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W07",
+   "type": "word",
+   "en": "upset",
+   "vi": "buồn bực",
+   "ipa": "/ˈʌpˌsɛt/",
+   "syllables": [
+    "up",
+    "set"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F61E"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Lan is upset because her kite is broken.",
+   "example_vi": "Lan buồn vì con diều bị hỏng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W08",
+   "type": "word",
+   "en": "jealous",
+   "vi": "ghen tị",
+   "ipa": "/ˈdʒɛləs/",
+   "syllables": [
+    "jeal",
+    "ous"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F612"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Don't be jealous. Let's share!",
+   "example_vi": "Đừng ghen tị. Mình chia sẻ nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W09",
+   "type": "word",
+   "en": "embarrassed",
+   "vi": "xấu hổ",
+   "ipa": "/ɪmˈbɛrəst/",
+   "syllables": [
+    "em",
+    "bar",
+    "rassed"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F633"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "I feel embarrassed when I make a mistake.",
+   "example_vi": "Tớ thấy xấu hổ khi làm sai.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W10",
+   "type": "word",
+   "en": "glad",
+   "vi": "vui mừng",
+   "ipa": "/ɡlæd/",
+   "syllables": [
+    "glad"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F600"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "I'm glad you are here.",
+   "example_vi": "Tớ mừng vì cậu ở đây.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W11",
+   "type": "word",
+   "en": "relaxed",
+   "vi": "thư giãn",
+   "ipa": "/rɪˈlækst/",
+   "syllables": [
+    "re",
+    "laxed"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F60E"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "I feel relaxed after a warm bath.",
+   "example_vi": "Tớ thấy thư giãn sau khi tắm nước ấm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W12",
+   "type": "word",
+   "en": "afraid",
+   "vi": "sợ",
+   "ipa": "/əˈfreɪd/",
+   "syllables": [
+    "afraid"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F628"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Are you afraid of the dark?",
+   "example_vi": "Cậu có sợ bóng tối không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W13",
+   "type": "word",
+   "en": "confused",
+   "vi": "bối rối",
+   "ipa": "/kənfˈjuzd/",
+   "syllables": [
+    "con",
+    "fused"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F615"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "I'm confused. Can you say it again?",
+   "example_vi": "Tớ chưa hiểu. Cậu nói lại được không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W14",
+   "type": "word",
+   "en": "grumpy",
+   "vi": "cáu kỉnh",
+   "ipa": "/ˈɡrʌmpi/",
+   "syllables": [
+    "grumpy"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F624"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Grandpa is grumpy in the morning.",
+   "example_vi": "Ông hay cáu vào buổi sáng.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W15",
+   "type": "word",
+   "en": "wrong",
+   "vi": "sai, có chuyện",
+   "ipa": "/rɔŋ/",
+   "syllables": [
+    "wrong"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "What's wrong? Why are you crying?",
+   "example_vi": "Có chuyện gì vậy? Sao cậu khóc?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W16",
+   "type": "word",
+   "en": "alone",
+   "vi": "một mình",
+   "ipa": "/əˈloʊn/",
+   "syllables": [
+    "alone"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Don't walk home alone.",
+   "example_vi": "Đừng đi bộ về nhà một mình.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W17",
+   "type": "word",
+   "en": "shout",
+   "vi": "hét",
+   "ipa": "/ʃaʊt/",
+   "syllables": [
+    "shout"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Please don't shout.",
+   "example_vi": "Đừng hét nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W18",
+   "type": "word",
+   "en": "frown",
+   "vi": "cau mày",
+   "ipa": "/fraʊn/",
+   "syllables": [
+    "frown"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2639-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "Smile! Don't frown.",
+   "example_vi": "Cười lên! Đừng cau mày.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W19",
+   "type": "word",
+   "en": "worry",
+   "vi": "lo lắng",
+   "ipa": "/ˈwʌri/",
+   "syllables": [
+    "wor",
+    "ry"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F630"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Don't worry. I can help you.",
+   "example_vi": "Đừng lo. Tớ giúp cậu được.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W20",
+   "type": "phrase",
+   "en": "cheer up",
+   "vi": "vui lên",
+   "ipa": "/tʃɪr ʌp/",
+   "syllables": [
+    "cheer",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F308"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Cheer up! It's only a game.",
+   "example_vi": "Vui lên nào! Chỉ là trò chơi thôi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W21",
+   "type": "phrase",
+   "en": "calm down",
+   "vi": "bình tĩnh lại",
+   "ipa": "/kɑm daʊn/",
+   "syllables": [
+    "calm",
+    "down"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9D8"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Calm down and take a deep breath.",
+   "example_vi": "Bình tĩnh lại và hít thở sâu nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W22",
+   "type": "word",
+   "en": "tear",
+   "vi": "nước mắt",
+   "ipa": "/tɪr/",
+   "syllables": [
+    "tear"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "She has tears on her face.",
+   "example_vi": "Bạn ấy có nước mắt trên mặt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W23",
+   "type": "word",
+   "en": "mood",
+   "vi": "tâm trạng",
+   "ipa": "/mud/",
+   "syllables": [
+    "mood"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Dad is in a good mood today.",
+   "example_vi": "Hôm nay bố vui.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W24",
+   "type": "word",
+   "en": "secret",
+   "vi": "bí mật",
+   "ipa": "/ˈsikrɪt/",
+   "syllables": [
+    "se",
+    "cret"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F92B"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "Can you keep a secret?",
+   "example_vi": "Cậu giữ bí mật được không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W25",
+   "type": "word",
+   "en": "dream",
+   "vi": "giấc mơ, mơ",
+   "ipa": "/drim/",
+   "syllables": [
+    "dream"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": true,
+   "cat": "L3U02",
+   "example_en": "I had a funny dream.",
+   "example_vi": "Tớ có một giấc mơ buồn cười.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W26",
+   "type": "word",
+   "en": "nightmare",
+   "vi": "ác mộng",
+   "ipa": "/ˈnaɪtˌmɛr/",
+   "syllables": [
+    "night",
+    "mare"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F47B"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "I had a nightmare about a monster.",
+   "example_vi": "Tớ gặp ác mộng về quái vật.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W27",
+   "type": "word",
+   "en": "fight",
+   "vi": "đánh nhau, cãi nhau",
+   "ipa": "/faɪt/",
+   "syllables": [
+    "fight"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F94A"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Don't fight. Be friends!",
+   "example_vi": "Đừng đánh nhau. Làm bạn đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W28",
+   "type": "word",
+   "en": "promise",
+   "vi": "hứa",
+   "ipa": "/ˈprɑməs/",
+   "syllables": [
+    "prom",
+    "ise"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F91E"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "I promise to help you.",
+   "example_vi": "Tớ hứa sẽ giúp cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W29",
+   "type": "word",
+   "en": "joke",
+   "vi": "chuyện cười",
+   "ipa": "/dʒoʊk/",
+   "syllables": [
+    "joke"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F602"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "Tell me a joke!",
+   "example_vi": "Kể chuyện cười cho tớ nghe đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U02-W30",
+   "type": "word",
+   "en": "hate",
+   "vi": "ghét",
+   "ipa": "/heɪt/",
+   "syllables": [
+    "hate"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F44E"
+   },
+   "picturable": false,
+   "cat": "L3U02",
+   "example_en": "I hate rainy days.",
+   "example_vi": "Tớ ghét ngày mưa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U02-P01",
+   "en": "I feel {x} today.",
+   "vi": "Hôm nay tớ thấy {x}.",
+   "slots": {
+    "x": [
+     "nervous",
+     "proud",
+     "relaxed",
+     "lonely"
+    ]
+   }
+  },
+  {
+   "id": "L3U02-P02",
+   "en": "Don't {x}.",
+   "vi": "Đừng {x}.",
+   "slots": {
+    "x": [
+     "worry",
+     "shout",
+     "fight",
+     "frown"
+    ]
+   }
+  },
+  {
+   "id": "L3U02-P03",
+   "en": "Are you {x}?",
+   "vi": "Cậu có {x} không?",
+   "slots": {
+    "x": [
+     "worried",
+     "afraid",
+     "upset",
+     "confused"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U02-D01",
+   "title_vi": "Có chuyện gì vậy?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's wrong? You look sad.",
+     "vi": "Có chuyện gì vậy? Trông cậu buồn thế."
+    },
+    {
+     "role": "Kid",
+     "en": "I'm worried. My dog is ill.",
+     "vi": "Tớ lo lắm. Con chó của tớ bị ốm."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Is it at the vet?",
+     "vi": "Ôi không! Nó có ở chỗ bác sĩ thú y không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. The vet is very kind.",
+     "vi": "Có. Bác sĩ thú y rất tốt."
+    },
+    {
+     "role": "Bi",
+     "en": "Don't worry. The vet can help.",
+     "vi": "Đừng lo. Bác sĩ thú y sẽ giúp được."
+    },
+    {
+     "role": "Kid",
+     "en": "Thanks, Bi. I feel better now.",
+     "vi": "Cảm ơn Bi. Giờ tớ thấy đỡ hơn."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "dog",
+    "options": [
+     "cat",
+     "rabbit"
+    ]
+   }
+  },
+  {
+   "id": "L3U02-D02",
+   "title_vi": "Tự hào",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Look! I made a kite.",
+     "vi": "Nhìn này! Tớ làm được con diều."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! It's beautiful. Are you proud?",
+     "vi": "Oa! Đẹp quá. Cậu có tự hào không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I'm very proud.",
+     "vi": "Có! Tớ tự hào lắm."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's fly it in the park!",
+     "vi": "Mình mang ra công viên thả nhé!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "kite",
+    "options": [
+     "plane",
+     "rocket"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "feeling"
+  },
+  {
+   "type": "dictate_word",
+   "target": "nervous"
+  },
+  {
+   "type": "dictate_word",
+   "target": "proud"
+  },
+  {
+   "type": "dictate_word",
+   "target": "worried"
+  },
+  {
+   "type": "dictate_word",
+   "target": "surprised"
+  },
+  {
+   "type": "dictate_word",
+   "target": "lonely"
+  },
+  {
+   "type": "dictate_word",
+   "target": "upset"
+  },
+  {
+   "type": "dictate_word",
+   "target": "jealous"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "It's okay to talk about your feelings."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I feel nervous before a test."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Mum is proud of me."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Today I feel|I feel happy when|I don't like it when"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U02-R01",
+   "title_en": "A nervous day",
+   "text_en": [
+    "Today is Nam's first day at a new school.",
+    "He feels nervous and a little shy.",
+    "His mum says, Don't worry, you can make new friends.",
+    "In the classroom, a girl smiles at him.",
+    "Hi, I'm Linh.",
+    "Do you want to sit with me?",
+    "Nam is surprised and glad.",
+    "At lunch, they share a sandwich and tell jokes.",
+    "After school, Nam runs to his mum.",
+    "I have a new friend!",
+    "His mum is very proud."
+   ],
+   "questions": [
+    {
+     "q": "How does Nam feel in the morning?",
+     "options": [
+      "Nervous.",
+      "Angry.",
+      "Grumpy."
+     ],
+     "answer": "Nervous."
+    },
+    {
+     "q": "Who smiles at Nam?",
+     "options": [
+      "Linh.",
+      "His mum.",
+      "The teacher."
+     ],
+     "answer": "Linh."
+    },
+    {
+     "q": "What do Nam and Linh share at lunch?",
+     "options": [
+      "A sandwich.",
+      "A cake.",
+      "An apple."
+     ],
+     "answer": "A sandwich."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U02-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "nervous",
+   "item": "nervous",
+   "options": [
+    "embarrassed",
+    "worried",
+    "nervous",
+    "dream"
+   ],
+   "answer": "nervous"
+  },
+  {
+   "id": "L3U02-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "worried",
+   "item": "worried",
+   "options": [
+    "worried",
+    "embarrassed",
+    "dream",
+    "secret"
+   ],
+   "answer": "worried"
+  },
+  {
+   "id": "L3U02-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "surprised",
+   "item": "surprised",
+   "options": [
+    "surprised",
+    "embarrassed",
+    "secret",
+    "dream"
+   ],
+   "answer": "surprised"
+  },
+  {
+   "id": "L3U02-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "embarrassed",
+   "item": "embarrassed",
+   "options": [
+    "worried",
+    "embarrassed",
+    "nervous",
+    "secret"
+   ],
+   "answer": "embarrassed"
+  },
+  {
+   "id": "L3U02-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "confused",
+   "item": "confused",
+   "options": [
+    "dream",
+    "surprised",
+    "confused",
+    "embarrassed"
+   ],
+   "answer": "confused"
+  },
+  {
+   "id": "L3U02-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "frown",
+   "item": "frown",
+   "options": [
+    "frown",
+    "secret",
+    "embarrassed",
+    "nervous"
+   ],
+   "answer": "frown"
+  },
+  {
+   "id": "L3U02-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "secret",
+   "item": "secret",
+   "options": [
+    "dream",
+    "secret",
+    "frown",
+    "worried"
+   ],
+   "answer": "secret"
+  },
+  {
+   "id": "L3U02-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dream",
+   "item": "dream",
+   "options": [
+    "dream",
+    "worried",
+    "confused",
+    "frown"
+   ],
+   "answer": "dream"
+  },
+  {
+   "id": "L3U02-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "feeling",
+   "item": "feeling",
+   "options": [
+    "joke",
+    "upset",
+    "embarrassed",
+    "feeling"
+   ],
+   "answer": "feeling"
+  },
+  {
+   "id": "L3U02-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "proud",
+   "item": "proud",
+   "options": [
+    "proud",
+    "lonely",
+    "grumpy",
+    "dream"
+   ],
+   "answer": "proud"
+  },
+  {
+   "id": "L3U02-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lonely",
+   "item": "lonely",
+   "options": [
+    "lonely",
+    "confused",
+    "worry",
+    "embarrassed"
+   ],
+   "answer": "lonely"
+  },
+  {
+   "id": "L3U02-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "upset",
+   "item": "upset",
+   "options": [
+    "grumpy",
+    "tear",
+    "upset",
+    "afraid"
+   ],
+   "answer": "upset"
+  },
+  {
+   "id": "L3U02-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jealous",
+   "item": "jealous",
+   "options": [
+    "upset",
+    "worry",
+    "jealous",
+    "glad"
+   ],
+   "answer": "jealous"
+  },
+  {
+   "id": "L3U02-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "glad",
+   "item": "glad",
+   "options": [
+    "promise",
+    "hate",
+    "glad",
+    "mood"
+   ],
+   "answer": "glad"
+  },
+  {
+   "id": "L3U02-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "relaxed",
+   "item": "relaxed",
+   "options": [
+    "nervous",
+    "shout",
+    "relaxed",
+    "surprised"
+   ],
+   "answer": "relaxed"
+  },
+  {
+   "id": "L3U02-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "afraid",
+   "item": "afraid",
+   "options": [
+    "worried",
+    "hate",
+    "afraid",
+    "upset"
+   ],
+   "answer": "afraid"
+  },
+  {
+   "id": "L3U02-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grumpy",
+   "item": "grumpy",
+   "options": [
+    "dream",
+    "hate",
+    "grumpy",
+    "promise"
+   ],
+   "answer": "grumpy"
+  },
+  {
+   "id": "L3U02-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wrong",
+   "item": "wrong",
+   "options": [
+    "wrong",
+    "calm down",
+    "nervous",
+    "tear"
+   ],
+   "answer": "wrong"
+  },
+  {
+   "id": "L3U02-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "alone",
+   "item": "alone",
+   "options": [
+    "alone",
+    "embarrassed",
+    "wrong",
+    "glad"
+   ],
+   "answer": "alone"
+  },
+  {
+   "id": "L3U02-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shout",
+   "item": "shout",
+   "options": [
+    "worried",
+    "fight",
+    "shout",
+    "joke"
+   ],
+   "answer": "shout"
+  },
+  {
+   "id": "L3U02-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "worry",
+   "item": "worry",
+   "options": [
+    "frown",
+    "embarrassed",
+    "mood",
+    "worry"
+   ],
+   "answer": "worry"
+  },
+  {
+   "id": "L3U02-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cheer up",
+   "item": "cheer up",
+   "options": [
+    "tear",
+    "cheer up",
+    "wrong",
+    "worried"
+   ],
+   "answer": "cheer up"
+  },
+  {
+   "id": "L3U02-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "calm down",
+   "item": "calm down",
+   "options": [
+    "jealous",
+    "calm down",
+    "surprised",
+    "proud"
+   ],
+   "answer": "calm down"
+  },
+  {
+   "id": "L3U02-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tear",
+   "item": "tear",
+   "options": [
+    "alone",
+    "promise",
+    "glad",
+    "tear"
+   ],
+   "answer": "tear"
+  },
+  {
+   "id": "L3U02-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mood",
+   "item": "mood",
+   "options": [
+    "lonely",
+    "mood",
+    "worry",
+    "nervous"
+   ],
+   "answer": "mood"
+  },
+  {
+   "id": "L3U02-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nightmare",
+   "item": "nightmare",
+   "options": [
+    "worry",
+    "nightmare",
+    "jealous",
+    "glad"
+   ],
+   "answer": "nightmare"
+  },
+  {
+   "id": "L3U02-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fight",
+   "item": "fight",
+   "options": [
+    "fight",
+    "worried",
+    "afraid",
+    "embarrassed"
+   ],
+   "answer": "fight"
+  },
+  {
+   "id": "L3U02-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "promise",
+   "item": "promise",
+   "options": [
+    "worried",
+    "mood",
+    "promise",
+    "fight"
+   ],
+   "answer": "promise"
+  },
+  {
+   "id": "L3U02-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "joke",
+   "item": "joke",
+   "options": [
+    "joke",
+    "feeling",
+    "mood",
+    "nightmare"
+   ],
+   "answer": "joke"
+  },
+  {
+   "id": "L3U02-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hate",
+   "item": "hate",
+   "options": [
+    "confused",
+    "hate",
+    "frown",
+    "joke"
+   ],
+   "answer": "hate"
+  },
+  {
+   "id": "L3U02-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "nervous",
+   "answer": "nervous"
+  },
+  {
+   "id": "L3U02-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "worried",
+   "answer": "worried"
+  },
+  {
+   "id": "L3U02-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "surprised",
+   "answer": "surprised"
+  },
+  {
+   "id": "L3U02-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "embarrassed",
+   "answer": "embarrassed"
+  },
+  {
+   "id": "L3U02-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "confused",
+   "answer": "confused"
+  },
+  {
+   "id": "L3U02-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "frown",
+   "answer": "frown"
+  },
+  {
+   "id": "L3U02-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "secret",
+   "answer": "secret"
+  },
+  {
+   "id": "L3U02-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dream",
+   "answer": "dream"
+  },
+  {
+   "id": "L3U02-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's okay to talk about your feelings.",
+   "item": "feeling",
+   "answer": "It's okay to talk about your feelings."
+  },
+  {
+   "id": "L3U02-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel nervous before a test.",
+   "item": "nervous",
+   "answer": "I feel nervous before a test."
+  },
+  {
+   "id": "L3U02-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is proud of me.",
+   "item": "proud",
+   "answer": "Mum is proud of me."
+  },
+  {
+   "id": "L3U02-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad is worried because I'm ill.",
+   "item": "worried",
+   "answer": "Dad is worried because I'm ill."
+  },
+  {
+   "id": "L3U02-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was surprised by the present.",
+   "item": "surprised",
+   "answer": "I was surprised by the present."
+  },
+  {
+   "id": "L3U02-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The little bird feels lonely.",
+   "item": "lonely",
+   "answer": "The little bird feels lonely."
+  },
+  {
+   "id": "L3U02-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lan is upset because her kite is broken.",
+   "item": "upset",
+   "answer": "Lan is upset because her kite is broken."
+  },
+  {
+   "id": "L3U02-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't be jealous. Let's share!",
+   "item": "jealous",
+   "answer": "Don't be jealous. Let's share!"
+  },
+  {
+   "id": "L3U02-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel embarrassed when I make a mistake.",
+   "item": "embarrassed",
+   "answer": "I feel embarrassed when I make a mistake."
+  },
+  {
+   "id": "L3U02-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm glad you are here.",
+   "item": "glad",
+   "answer": "I'm glad you are here."
+  },
+  {
+   "id": "L3U02-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel relaxed after a warm bath.",
+   "item": "relaxed",
+   "answer": "I feel relaxed after a warm bath."
+  },
+  {
+   "id": "L3U02-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you afraid of the dark?",
+   "item": "afraid",
+   "answer": "Are you afraid of the dark?"
+  },
+  {
+   "id": "L3U02-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm confused. Can you say it again?",
+   "item": "confused",
+   "answer": "I'm confused. Can you say it again?"
+  },
+  {
+   "id": "L3U02-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa is grumpy in the morning.",
+   "item": "grumpy",
+   "answer": "Grandpa is grumpy in the morning."
+  },
+  {
+   "id": "L3U02-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's wrong? Why are you crying?",
+   "item": "wrong",
+   "answer": "What's wrong? Why are you crying?"
+  },
+  {
+   "id": "L3U02-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't walk home alone.",
+   "item": "alone",
+   "answer": "Don't walk home alone."
+  },
+  {
+   "id": "L3U02-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please don't shout.",
+   "item": "shout",
+   "answer": "Please don't shout."
+  },
+  {
+   "id": "L3U02-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Smile! Don't frown.",
+   "item": "frown",
+   "answer": "Smile! Don't frown."
+  },
+  {
+   "id": "L3U02-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't worry. I can help you.",
+   "item": "worry",
+   "answer": "Don't worry. I can help you."
+  },
+  {
+   "id": "L3U02-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cheer up! It's only a game.",
+   "item": "cheer up",
+   "answer": "Cheer up! It's only a game."
+  },
+  {
+   "id": "L3U02-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Calm down and take a deep breath.",
+   "item": "calm down",
+   "answer": "Calm down and take a deep breath."
+  },
+  {
+   "id": "L3U02-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has tears on her face.",
+   "item": "tear",
+   "answer": "She has tears on her face."
+  },
+  {
+   "id": "L3U02-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad is in a good mood today.",
+   "item": "mood",
+   "answer": "Dad is in a good mood today."
+  },
+  {
+   "id": "L3U02-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you keep a secret?",
+   "item": "secret",
+   "answer": "Can you keep a secret?"
+  },
+  {
+   "id": "L3U02-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I had a funny dream.",
+   "item": "dream",
+   "answer": "I had a funny dream."
+  },
+  {
+   "id": "L3U02-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I had a nightmare about a monster.",
+   "item": "nightmare",
+   "answer": "I had a nightmare about a monster."
+  },
+  {
+   "id": "L3U02-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't fight. Be friends!",
+   "item": "fight",
+   "answer": "Don't fight. Be friends!"
+  },
+  {
+   "id": "L3U02-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I promise to help you.",
+   "item": "promise",
+   "answer": "I promise to help you."
+  },
+  {
+   "id": "L3U02-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tell me a joke!",
+   "item": "joke",
+   "answer": "Tell me a joke!"
+  },
+  {
+   "id": "L3U02-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hate rainy days.",
+   "item": "hate",
+   "answer": "I hate rainy days."
+  },
+  {
+   "id": "L3U02-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel nervous today.",
+   "answer": "I feel nervous today."
+  },
+  {
+   "id": "L3U02-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel proud today.",
+   "answer": "I feel proud today."
+  },
+  {
+   "id": "L3U02-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel relaxed today.",
+   "answer": "I feel relaxed today."
+  },
+  {
+   "id": "L3U02-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't worry.",
+   "answer": "Don't worry."
+  },
+  {
+   "id": "L3U02-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't shout.",
+   "answer": "Don't shout."
+  },
+  {
+   "id": "L3U02-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't fight.",
+   "answer": "Don't fight."
+  },
+  {
+   "id": "L3U02-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you worried?",
+   "answer": "Are you worried?"
+  },
+  {
+   "id": "L3U02-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you afraid?",
+   "answer": "Are you afraid?"
+  },
+  {
+   "id": "L3U02-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you upset?",
+   "answer": "Are you upset?"
+  },
+  {
+   "id": "L3U02-Q078",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Oh no! Is it at the vet?",
+   "answer": "Yes. The vet is very kind."
+  },
+  {
+   "id": "L3U02-Q079",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow! It's beautiful. Are you proud?",
+   "answer": "Yes! I'm very proud."
+  },
+  {
+   "id": "L3U02-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "nervous",
+   "options": [
+    "worried",
+    "nervous",
+    "secret"
+   ],
+   "answer": "nervous"
+  },
+  {
+   "id": "L3U02-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "worried",
+   "options": [
+    "secret",
+    "worried",
+    "confused"
+   ],
+   "answer": "worried"
+  },
+  {
+   "id": "L3U02-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "surprised",
+   "options": [
+    "secret",
+    "embarrassed",
+    "surprised"
+   ],
+   "answer": "surprised"
+  },
+  {
+   "id": "L3U02-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "embarrassed",
+   "options": [
+    "dream",
+    "confused",
+    "embarrassed"
+   ],
+   "answer": "embarrassed"
+  },
+  {
+   "id": "L3U02-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "confused",
+   "options": [
+    "embarrassed",
+    "frown",
+    "confused"
+   ],
+   "answer": "confused"
+  },
+  {
+   "id": "L3U02-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "frown",
+   "options": [
+    "surprised",
+    "dream",
+    "frown"
+   ],
+   "answer": "frown"
+  },
+  {
+   "id": "L3U02-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "secret",
+   "options": [
+    "embarrassed",
+    "frown",
+    "secret"
+   ],
+   "answer": "secret"
+  },
+  {
+   "id": "L3U02-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dream",
+   "options": [
+    "dream",
+    "nervous",
+    "embarrassed"
+   ],
+   "answer": "dream"
+  },
+  {
+   "id": "L3U02-Q088",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's okay to talk about your ___.",
+   "item": "feeling",
+   "options": [
+    "nervouses",
+    "confuseds",
+    "feelings"
+   ],
+   "answer": "feelings"
+  },
+  {
+   "id": "L3U02-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I feel ___ before a test.",
+   "item": "nervous",
+   "options": [
+    "glad",
+    "nervous",
+    "shout"
+   ],
+   "answer": "nervous"
+  },
+  {
+   "id": "L3U02-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum is ___ of me.",
+   "item": "proud",
+   "options": [
+    "joke",
+    "mood",
+    "proud"
+   ],
+   "answer": "proud"
+  },
+  {
+   "id": "L3U02-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad is ___ because I'm ill.",
+   "item": "worried",
+   "options": [
+    "mood",
+    "worried",
+    "afraid"
+   ],
+   "answer": "worried"
+  },
+  {
+   "id": "L3U02-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I was ___ by the present.",
+   "item": "surprised",
+   "options": [
+    "wrong",
+    "surprised",
+    "nightmare"
+   ],
+   "answer": "surprised"
+  },
+  {
+   "id": "L3U02-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The little bird feels ___.",
+   "item": "lonely",
+   "options": [
+    "dream",
+    "secret",
+    "lonely"
+   ],
+   "answer": "lonely"
+  },
+  {
+   "id": "L3U02-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lan is ___ because her kite is broken.",
+   "item": "upset",
+   "options": [
+    "upset",
+    "nightmare",
+    "wrong"
+   ],
+   "answer": "upset"
+  },
+  {
+   "id": "L3U02-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't be ___. Let's share!",
+   "item": "jealous",
+   "options": [
+    "secret",
+    "mood",
+    "jealous"
+   ],
+   "answer": "jealous"
+  },
+  {
+   "id": "L3U02-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I feel ___ when I make a mistake.",
+   "item": "embarrassed",
+   "options": [
+    "promise",
+    "embarrassed",
+    "mood"
+   ],
+   "answer": "embarrassed"
+  },
+  {
+   "id": "L3U02-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm ___ you are here.",
+   "item": "glad",
+   "options": [
+    "shout",
+    "jealous",
+    "glad"
+   ],
+   "answer": "glad"
+  },
+  {
+   "id": "L3U02-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I feel ___ after a warm bath.",
+   "item": "relaxed",
+   "options": [
+    "relaxed",
+    "shout",
+    "nightmare"
+   ],
+   "answer": "relaxed"
+  },
+  {
+   "id": "L3U02-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Are you ___ of the dark?",
+   "item": "afraid",
+   "options": [
+    "afraid",
+    "upset",
+    "nightmare"
+   ],
+   "answer": "afraid"
+  },
+  {
+   "id": "L3U02-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm ___. Can you say it again?",
+   "item": "confused",
+   "options": [
+    "nervous",
+    "embarrassed",
+    "confused"
+   ],
+   "answer": "confused"
+  },
+  {
+   "id": "L3U02-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa is ___ in the morning.",
+   "item": "grumpy",
+   "options": [
+    "grumpy",
+    "frown",
+    "worry"
+   ],
+   "answer": "grumpy"
+  },
+  {
+   "id": "L3U02-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's ___? Why are you crying?",
+   "item": "wrong",
+   "options": [
+    "wrong",
+    "shout",
+    "relaxed"
+   ],
+   "answer": "wrong"
+  },
+  {
+   "id": "L3U02-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't walk home ___.",
+   "item": "alone",
+   "options": [
+    "nightmare",
+    "alone",
+    "tear"
+   ],
+   "answer": "alone"
+  },
+  {
+   "id": "L3U02-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please don't ___.",
+   "item": "shout",
+   "options": [
+    "nightmare",
+    "mood",
+    "shout"
+   ],
+   "answer": "shout"
+  },
+  {
+   "id": "L3U02-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Smile! Don't ___.",
+   "item": "frown",
+   "options": [
+    "frown",
+    "alone",
+    "mood"
+   ],
+   "answer": "frown"
+  },
+  {
+   "id": "L3U02-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___. I can help you.",
+   "item": "worry",
+   "options": [
+    "glad",
+    "worry",
+    "wrong"
+   ],
+   "answer": "worry"
+  },
+  {
+   "id": "L3U02-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has ___ on her face.",
+   "item": "tear",
+   "options": [
+    "confuseds",
+    "tears",
+    "surpriseds"
+   ],
+   "answer": "tears"
+  },
+  {
+   "id": "L3U02-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad is in a good ___ today.",
+   "item": "mood",
+   "options": [
+    "frown",
+    "alone",
+    "mood"
+   ],
+   "answer": "mood"
+  },
+  {
+   "id": "L3U02-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you keep a ___?",
+   "item": "secret",
+   "options": [
+    "grumpy",
+    "frown",
+    "secret"
+   ],
+   "answer": "secret"
+  },
+  {
+   "id": "L3U02-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I had a funny ___.",
+   "item": "dream",
+   "options": [
+    "tear",
+    "nervous",
+    "dream"
+   ],
+   "answer": "dream"
+  },
+  {
+   "id": "L3U02-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I had a ___ about a monster.",
+   "item": "nightmare",
+   "options": [
+    "worried",
+    "nightmare",
+    "worry"
+   ],
+   "answer": "nightmare"
+  },
+  {
+   "id": "L3U02-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___. Be friends!",
+   "item": "fight",
+   "options": [
+    "mood",
+    "fight",
+    "alone"
+   ],
+   "answer": "fight"
+  },
+  {
+   "id": "L3U02-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ to help you.",
+   "item": "promise",
+   "options": [
+    "dream",
+    "glad",
+    "promise"
+   ],
+   "answer": "promise"
+  },
+  {
+   "id": "L3U02-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Tell me a ___!",
+   "item": "joke",
+   "options": [
+    "glad",
+    "lonely",
+    "joke"
+   ],
+   "answer": "joke"
+  },
+  {
+   "id": "L3U02-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ rainy days.",
+   "item": "hate",
+   "options": [
+    "secret",
+    "dream",
+    "hate"
+   ],
+   "answer": "hate"
+  },
+  {
+   "id": "L3U02-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I feel nervous before a test.",
+   "item": "nervous",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U02-Q117",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad is worried because I'm ill.",
+   "item": "surprised",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U02-Q118",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I was surprised by the present.",
+   "item": "surprised",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U02-Q119",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I feel embarrassed when I make a mistake.",
+   "item": "confused",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U02-Q120",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I'm confused. Can you say it again?",
+   "item": "confused",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U02-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Smile! Don't frown.",
+   "item": "secret",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U02-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Can you keep a secret?",
+   "item": "secret",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U02-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I had a funny dream.",
+   "item": "nervous",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U02-Q124",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U02-R01",
+   "text_en": "How does Nam feel in the morning?",
+   "options": [
+    "Nervous.",
+    "Angry.",
+    "Grumpy."
+   ],
+   "answer": "Nervous."
+  },
+  {
+   "id": "L3U02-Q125",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U02-R01",
+   "text_en": "Who smiles at Nam?",
+   "options": [
+    "His mum.",
+    "Linh.",
+    "The teacher."
+   ],
+   "answer": "Linh."
+  },
+  {
+   "id": "L3U02-Q126",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U02-R01",
+   "text_en": "What do Nam and Linh share at lunch?",
+   "options": [
+    "An apple.",
+    "A cake.",
+    "A sandwich."
+   ],
+   "answer": "A sandwich."
+  },
+  {
+   "id": "L3U02-Q127",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "feeling",
+   "item": "feeling",
+   "answer": "feeling"
+  },
+  {
+   "id": "L3U02-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "nervous",
+   "item": "nervous",
+   "answer": "nervous"
+  },
+  {
+   "id": "L3U02-Q129",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "proud",
+   "item": "proud",
+   "answer": "proud"
+  },
+  {
+   "id": "L3U02-Q130",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "worried",
+   "item": "worried",
+   "answer": "worried"
+  },
+  {
+   "id": "L3U02-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "surprised",
+   "item": "surprised",
+   "answer": "surprised"
+  },
+  {
+   "id": "L3U02-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "lonely",
+   "item": "lonely",
+   "answer": "lonely"
+  },
+  {
+   "id": "L3U02-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "upset",
+   "item": "upset",
+   "answer": "upset"
+  },
+  {
+   "id": "L3U02-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "jealous",
+   "item": "jealous",
+   "answer": "jealous"
+  },
+  {
+   "id": "L3U02-Q135",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "It's okay to talk about your feelings.",
+   "answer": "It's okay to talk about your feelings."
+  },
+  {
+   "id": "L3U02-Q136",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I feel nervous before a test.",
+   "answer": "I feel nervous before a test."
+  },
+  {
+   "id": "L3U02-Q137",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Mum is proud of me.",
+   "answer": "Mum is proud of me."
+  }
+ ]
+}

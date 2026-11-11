@@ -1,0 +1,2750 @@
+{
+ "id": "L2U12",
+ "level": 2,
+ "unit": 12,
+ "topic_en": "Jobs",
+ "topic_vi": "Nghề nghiệp",
+ "can_do_vi": [
+  "Gọi tên các nghề",
+  "Nói \"My mum is a ...\" và \"I want to be a ...\""
+ ],
+ "items": [
+  {
+   "id": "L2U12-W01",
+   "type": "word",
+   "en": "job",
+   "vi": "công việc",
+   "ipa": "/dʒɑb/",
+   "syllables": [
+    "job"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F4BC"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "What's your mum's job?",
+   "example_vi": "Mẹ cậu làm nghề gì?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W02",
+   "type": "word",
+   "en": "work",
+   "vi": "làm việc",
+   "ipa": "/wʌrk/",
+   "syllables": [
+    "work"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6E0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "My dad works in a bank.",
+   "example_vi": "Bố tớ làm việc ở ngân hàng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W03",
+   "type": "word",
+   "en": "people",
+   "vi": "mọi người",
+   "ipa": "/ˈpipəl/",
+   "syllables": [
+    "peo",
+    "ple"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "Many people work here.",
+   "example_vi": "Nhiều người làm việc ở đây.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W04",
+   "type": "word",
+   "en": "person",
+   "vi": "người",
+   "ipa": "/ˈpʌrsən/",
+   "syllables": [
+    "per",
+    "son"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "She is a kind person.",
+   "example_vi": "Cô ấy là một người tốt bụng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W05",
+   "type": "word",
+   "en": "farmer",
+   "vi": "nông dân",
+   "ipa": "/ˈfɑrmər/",
+   "syllables": [
+    "farmer"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9D1-200D-1F33E"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The farmer grows rice.",
+   "example_vi": "Người nông dân trồng lúa.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W06",
+   "type": "word",
+   "en": "pilot",
+   "vi": "phi công",
+   "ipa": "/ˈpaɪlət/",
+   "syllables": [
+    "pi",
+    "lot"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9D1-200D-2708-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The pilot flies the plane.",
+   "example_vi": "Phi công lái máy bay.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W07",
+   "type": "word",
+   "en": "waiter",
+   "vi": "bồi bàn",
+   "ipa": "/ˈweɪtər/",
+   "syllables": [
+    "wait",
+    "er"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9D1-200D-1F373"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "The waiter brings our food.",
+   "example_vi": "Bồi bàn mang đồ ăn đến cho nhà tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W08",
+   "type": "word",
+   "en": "firefighter",
+   "vi": "lính cứu hoả",
+   "ipa": "/ˈfaɪrˌfaɪtər/",
+   "syllables": [
+    "fire",
+    "fight",
+    "er"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9D1-200D-1F692"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "Firefighters are brave.",
+   "example_vi": "Lính cứu hoả rất dũng cảm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W09",
+   "type": "phrase",
+   "en": "police officer",
+   "vi": "cảnh sát",
+   "ipa": "/pəˈlis ˈɔfɪsər/",
+   "syllables": [
+    "po",
+    "lice",
+    "of",
+    "fi",
+    "cer"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F46E"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The police officer helps people.",
+   "example_vi": "Chú cảnh sát giúp đỡ mọi người.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W10",
+   "type": "word",
+   "en": "singer",
+   "vi": "ca sĩ",
+   "ipa": "/ˈsɪŋər/",
+   "syllables": [
+    "singer"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "She is a famous singer.",
+   "example_vi": "Cô ấy là một ca sĩ nổi tiếng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W11",
+   "type": "word",
+   "en": "dancer",
+   "vi": "vũ công",
+   "ipa": "/ˈdænsər/",
+   "syllables": [
+    "dancer"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F483"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The dancer dances on the stage.",
+   "example_vi": "Vũ công nhảy trên sân khấu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W12",
+   "type": "word",
+   "en": "artist",
+   "vi": "hoạ sĩ",
+   "ipa": "/ˈɑrtɪst/",
+   "syllables": [
+    "artist"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9D1-200D-1F3A8"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The artist paints a picture.",
+   "example_vi": "Hoạ sĩ vẽ một bức tranh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W13",
+   "type": "word",
+   "en": "writer",
+   "vi": "nhà văn",
+   "ipa": "/ˈraɪtər/",
+   "syllables": [
+    "writ",
+    "er"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The writer writes books.",
+   "example_vi": "Nhà văn viết sách.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W14",
+   "type": "word",
+   "en": "builder",
+   "vi": "thợ xây",
+   "ipa": "/ˈbɪldər/",
+   "syllables": [
+    "builder"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F477"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The builder makes houses.",
+   "example_vi": "Thợ xây làm nhà.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W15",
+   "type": "word",
+   "en": "mechanic",
+   "vi": "thợ sửa xe",
+   "ipa": "/mɪˈkænɪk/",
+   "syllables": [
+    "me",
+    "chan",
+    "ic"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F9D1-200D-1F527"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The mechanic fixes cars.",
+   "example_vi": "Thợ sửa xe sửa ô tô.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W16",
+   "type": "word",
+   "en": "hairdresser",
+   "vi": "thợ cắt tóc",
+   "ipa": "/ˈhɛrˌdrɛsər/",
+   "syllables": [
+    "hair",
+    "dress",
+    "er"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F487-200D-2640-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The hairdresser cuts my hair.",
+   "example_vi": "Cô thợ cắt tóc cho tớ.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W17",
+   "type": "word",
+   "en": "baker",
+   "vi": "thợ làm bánh",
+   "ipa": "/ˈbeɪkər/",
+   "syllables": [
+    "bak",
+    "er"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9D1-200D-1F373"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The baker makes bread.",
+   "example_vi": "Thợ làm bánh làm bánh mì.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W18",
+   "type": "word",
+   "en": "fisherman",
+   "vi": "ngư dân",
+   "ipa": "/ˈfɪʃərˌmæn/",
+   "syllables": [
+    "fish",
+    "er",
+    "man"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F6A3"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The fisherman catches fish.",
+   "example_vi": "Ngư dân đánh bắt cá.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W19",
+   "type": "word",
+   "en": "postman",
+   "vi": "người đưa thư",
+   "ipa": "/ˈpoʊstmən/",
+   "syllables": [
+    "post",
+    "man"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4EE"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The postman brings letters.",
+   "example_vi": "Người đưa thư mang thư đến.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W20",
+   "type": "word",
+   "en": "clown",
+   "vi": "chú hề",
+   "ipa": "/klaʊn/",
+   "syllables": [
+    "clown"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F921"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "The clown is very funny.",
+   "example_vi": "Chú hề rất vui nhộn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W21",
+   "type": "word",
+   "en": "office",
+   "vi": "văn phòng",
+   "ipa": "/ˈɔfəs/",
+   "syllables": [
+    "of",
+    "fice"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F3E2"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "My mum works in an office.",
+   "example_vi": "Mẹ tớ làm việc ở văn phòng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W22",
+   "type": "word",
+   "en": "factory",
+   "vi": "nhà máy",
+   "ipa": "/ˈfæktəri/",
+   "syllables": [
+    "fac",
+    "to",
+    "ry"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3ED"
+   },
+   "picturable": true,
+   "cat": "L2U12",
+   "example_en": "They make cars in the factory.",
+   "example_vi": "Người ta làm ô tô trong nhà máy.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W23",
+   "type": "word",
+   "en": "uniform",
+   "vi": "đồng phục",
+   "ipa": "/ˈjunəˌfɔrm/",
+   "syllables": [
+    "uniform"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F454"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "Nurses wear a uniform.",
+   "example_vi": "Y tá mặc đồng phục.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W24",
+   "type": "word",
+   "en": "important",
+   "vi": "quan trọng",
+   "ipa": "/ˌɪmˈpɔrtənt/",
+   "syllables": [
+    "im",
+    "por",
+    "tant"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "Doctors do important work.",
+   "example_vi": "Bác sĩ làm công việc quan trọng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W25",
+   "type": "word",
+   "en": "busy",
+   "vi": "bận rộn",
+   "ipa": "/ˈbɪzi/",
+   "syllables": [
+    "busy"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F41D"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "My dad is very busy.",
+   "example_vi": "Bố tớ rất bận.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W26",
+   "type": "word",
+   "en": "interesting",
+   "vi": "thú vị",
+   "ipa": "/ˈɪntəˌrɛstɪŋ/",
+   "syllables": [
+    "in",
+    "ter",
+    "est",
+    "ing"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "This job is interesting.",
+   "example_vi": "Nghề này thú vị.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W27",
+   "type": "word",
+   "en": "boring",
+   "vi": "nhàm chán",
+   "ipa": "/ˈbɔrɪŋ/",
+   "syllables": [
+    "bor",
+    "ing"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F971"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "The film was boring.",
+   "example_vi": "Bộ phim chán quá.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U12-W28",
+   "type": "phrase",
+   "en": "want to be",
+   "vi": "muốn trở thành",
+   "ipa": "/wɔnt tɪ bi/",
+   "syllables": [
+    "want",
+    "to",
+    "be"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L2U12",
+   "example_en": "I want to be a pilot.",
+   "example_vi": "Tớ muốn trở thành phi công.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U12-P01",
+   "en": "I want to be a {x}.",
+   "vi": "Tớ muốn trở thành {x}.",
+   "slots": {
+    "x": [
+     "pilot",
+     "doctor",
+     "singer",
+     "farmer"
+    ]
+   }
+  },
+  {
+   "id": "L2U12-P02",
+   "en": "My mum is a {x}.",
+   "vi": "Mẹ tớ là {x}.",
+   "slots": {
+    "x": [
+     "teacher",
+     "nurse",
+     "doctor",
+     "baker"
+    ]
+   }
+  },
+  {
+   "id": "L2U12-P03",
+   "en": "The {x} is very busy.",
+   "vi": "{x} rất bận rộn.",
+   "slots": {
+    "x": [
+     "doctor",
+     "farmer",
+     "baker",
+     "pilot"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U12-D01",
+   "title_vi": "Lớn lên cậu muốn làm gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What do you want to be?",
+     "vi": "Cậu muốn làm nghề gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I want to be a pilot.",
+     "vi": "Tớ muốn làm phi công."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "I want to fly a plane!",
+     "vi": "Tớ muốn lái máy bay!"
+    },
+    {
+     "role": "Bi",
+     "en": "Great! I want to be a singer.",
+     "vi": "Tuyệt! Tớ muốn làm ca sĩ."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "pilot",
+    "options": [
+     "doctor",
+     "artist"
+    ]
+   }
+  },
+  {
+   "id": "L2U12-D02",
+   "title_vi": "Nghề của bố mẹ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your dad's job?",
+     "vi": "Bố cậu làm nghề gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "He's a mechanic. He fixes cars.",
+     "vi": "Bố tớ là thợ sửa xe. Bố sửa ô tô."
+    },
+    {
+     "role": "Bi",
+     "en": "And your mum?",
+     "vi": "Còn mẹ cậu?"
+    },
+    {
+     "role": "Kid",
+     "en": "She works in an office.",
+     "vi": "Mẹ tớ làm ở văn phòng."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "office",
+    "options": [
+     "hospital",
+     "bank"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "job"
+  },
+  {
+   "type": "dictate_word",
+   "target": "work"
+  },
+  {
+   "type": "dictate_word",
+   "target": "people"
+  },
+  {
+   "type": "dictate_word",
+   "target": "person"
+  },
+  {
+   "type": "dictate_word",
+   "target": "farmer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "pilot"
+  },
+  {
+   "type": "dictate_word",
+   "target": "waiter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "firefighter"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's your mum's job?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My dad works in a bank."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Many people work here."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U12-R01",
+   "title_en": "People at work",
+   "text_en": [
+    "Many people work in our town.",
+    "The baker gets up early and makes bread.",
+    "The postman brings our letters.",
+    "The doctor works at the clinic.",
+    "The firefighters are brave.",
+    "I want to be a firefighter too!"
+   ],
+   "questions": [
+    {
+     "q": "Who gets up early and makes bread?",
+     "options": [
+      "The baker.",
+      "The postman.",
+      "The doctor."
+     ],
+     "answer": "The baker."
+    },
+    {
+     "q": "What does the writer of this text want to be?",
+     "options": [
+      "A firefighter.",
+      "A baker.",
+      "A doctor."
+     ],
+     "answer": "A firefighter."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U12-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "job",
+   "item": "job",
+   "options": [
+    "job",
+    "firefighter",
+    "hairdresser",
+    "office"
+   ],
+   "answer": "job"
+  },
+  {
+   "id": "L2U12-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "people",
+   "item": "people",
+   "options": [
+    "builder",
+    "people",
+    "hairdresser",
+    "clown"
+   ],
+   "answer": "people"
+  },
+  {
+   "id": "L2U12-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "farmer",
+   "item": "farmer",
+   "options": [
+    "fisherman",
+    "writer",
+    "job",
+    "farmer"
+   ],
+   "answer": "farmer"
+  },
+  {
+   "id": "L2U12-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pilot",
+   "item": "pilot",
+   "options": [
+    "fisherman",
+    "singer",
+    "hairdresser",
+    "pilot"
+   ],
+   "answer": "pilot"
+  },
+  {
+   "id": "L2U12-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "firefighter",
+   "item": "firefighter",
+   "options": [
+    "baker",
+    "writer",
+    "job",
+    "firefighter"
+   ],
+   "answer": "firefighter"
+  },
+  {
+   "id": "L2U12-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "police officer",
+   "item": "police officer",
+   "options": [
+    "people",
+    "police officer",
+    "farmer",
+    "fisherman"
+   ],
+   "answer": "police officer"
+  },
+  {
+   "id": "L2U12-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "singer",
+   "item": "singer",
+   "options": [
+    "artist",
+    "baker",
+    "singer",
+    "mechanic"
+   ],
+   "answer": "singer"
+  },
+  {
+   "id": "L2U12-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dancer",
+   "item": "dancer",
+   "options": [
+    "pilot",
+    "fisherman",
+    "job",
+    "dancer"
+   ],
+   "answer": "dancer"
+  },
+  {
+   "id": "L2U12-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "artist",
+   "item": "artist",
+   "options": [
+    "builder",
+    "office",
+    "job",
+    "artist"
+   ],
+   "answer": "artist"
+  },
+  {
+   "id": "L2U12-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "writer",
+   "item": "writer",
+   "options": [
+    "writer",
+    "job",
+    "builder",
+    "pilot"
+   ],
+   "answer": "writer"
+  },
+  {
+   "id": "L2U12-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "builder",
+   "item": "builder",
+   "options": [
+    "firefighter",
+    "hairdresser",
+    "dancer",
+    "builder"
+   ],
+   "answer": "builder"
+  },
+  {
+   "id": "L2U12-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mechanic",
+   "item": "mechanic",
+   "options": [
+    "factory",
+    "hairdresser",
+    "mechanic",
+    "pilot"
+   ],
+   "answer": "mechanic"
+  },
+  {
+   "id": "L2U12-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hairdresser",
+   "item": "hairdresser",
+   "options": [
+    "hairdresser",
+    "job",
+    "singer",
+    "artist"
+   ],
+   "answer": "hairdresser"
+  },
+  {
+   "id": "L2U12-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "baker",
+   "item": "baker",
+   "options": [
+    "baker",
+    "mechanic",
+    "fisherman",
+    "dancer"
+   ],
+   "answer": "baker"
+  },
+  {
+   "id": "L2U12-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fisherman",
+   "item": "fisherman",
+   "options": [
+    "writer",
+    "fisherman",
+    "artist",
+    "people"
+   ],
+   "answer": "fisherman"
+  },
+  {
+   "id": "L2U12-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "postman",
+   "item": "postman",
+   "options": [
+    "postman",
+    "artist",
+    "office",
+    "factory"
+   ],
+   "answer": "postman"
+  },
+  {
+   "id": "L2U12-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clown",
+   "item": "clown",
+   "options": [
+    "pilot",
+    "writer",
+    "mechanic",
+    "clown"
+   ],
+   "answer": "clown"
+  },
+  {
+   "id": "L2U12-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "office",
+   "item": "office",
+   "options": [
+    "people",
+    "office",
+    "job",
+    "clown"
+   ],
+   "answer": "office"
+  },
+  {
+   "id": "L2U12-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "factory",
+   "item": "factory",
+   "options": [
+    "dancer",
+    "job",
+    "factory",
+    "pilot"
+   ],
+   "answer": "factory"
+  },
+  {
+   "id": "L2U12-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "work",
+   "item": "work",
+   "options": [
+    "work",
+    "boring",
+    "factory",
+    "firefighter"
+   ],
+   "answer": "work"
+  },
+  {
+   "id": "L2U12-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "person",
+   "item": "person",
+   "options": [
+    "writer",
+    "factory",
+    "person",
+    "dancer"
+   ],
+   "answer": "person"
+  },
+  {
+   "id": "L2U12-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "waiter",
+   "item": "waiter",
+   "options": [
+    "police officer",
+    "job",
+    "writer",
+    "waiter"
+   ],
+   "answer": "waiter"
+  },
+  {
+   "id": "L2U12-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "uniform",
+   "item": "uniform",
+   "options": [
+    "uniform",
+    "mechanic",
+    "builder",
+    "office"
+   ],
+   "answer": "uniform"
+  },
+  {
+   "id": "L2U12-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "important",
+   "item": "important",
+   "options": [
+    "office",
+    "clown",
+    "important",
+    "busy"
+   ],
+   "answer": "important"
+  },
+  {
+   "id": "L2U12-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "busy",
+   "item": "busy",
+   "options": [
+    "hairdresser",
+    "mechanic",
+    "busy",
+    "baker"
+   ],
+   "answer": "busy"
+  },
+  {
+   "id": "L2U12-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "interesting",
+   "item": "interesting",
+   "options": [
+    "interesting",
+    "work",
+    "mechanic",
+    "hairdresser"
+   ],
+   "answer": "interesting"
+  },
+  {
+   "id": "L2U12-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "boring",
+   "item": "boring",
+   "options": [
+    "postman",
+    "interesting",
+    "boring",
+    "baker"
+   ],
+   "answer": "boring"
+  },
+  {
+   "id": "L2U12-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "want to be",
+   "item": "want to be",
+   "options": [
+    "uniform",
+    "busy",
+    "police officer",
+    "want to be"
+   ],
+   "answer": "want to be"
+  },
+  {
+   "id": "L2U12-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "job",
+   "answer": "job"
+  },
+  {
+   "id": "L2U12-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "people",
+   "answer": "people"
+  },
+  {
+   "id": "L2U12-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "farmer",
+   "answer": "farmer"
+  },
+  {
+   "id": "L2U12-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pilot",
+   "answer": "pilot"
+  },
+  {
+   "id": "L2U12-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "firefighter",
+   "answer": "firefighter"
+  },
+  {
+   "id": "L2U12-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "police officer",
+   "answer": "police officer"
+  },
+  {
+   "id": "L2U12-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "singer",
+   "answer": "singer"
+  },
+  {
+   "id": "L2U12-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dancer",
+   "answer": "dancer"
+  },
+  {
+   "id": "L2U12-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "artist",
+   "answer": "artist"
+  },
+  {
+   "id": "L2U12-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "writer",
+   "answer": "writer"
+  },
+  {
+   "id": "L2U12-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "builder",
+   "answer": "builder"
+  },
+  {
+   "id": "L2U12-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mechanic",
+   "answer": "mechanic"
+  },
+  {
+   "id": "L2U12-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hairdresser",
+   "answer": "hairdresser"
+  },
+  {
+   "id": "L2U12-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "baker",
+   "answer": "baker"
+  },
+  {
+   "id": "L2U12-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fisherman",
+   "answer": "fisherman"
+  },
+  {
+   "id": "L2U12-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "postman",
+   "answer": "postman"
+  },
+  {
+   "id": "L2U12-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clown",
+   "answer": "clown"
+  },
+  {
+   "id": "L2U12-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "office",
+   "answer": "office"
+  },
+  {
+   "id": "L2U12-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "factory",
+   "answer": "factory"
+  },
+  {
+   "id": "L2U12-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your mum's job?",
+   "item": "job",
+   "answer": "What's your mum's job?"
+  },
+  {
+   "id": "L2U12-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad works in a bank.",
+   "item": "work",
+   "answer": "My dad works in a bank."
+  },
+  {
+   "id": "L2U12-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many people work here.",
+   "item": "people",
+   "answer": "Many people work here."
+  },
+  {
+   "id": "L2U12-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a kind person.",
+   "item": "person",
+   "answer": "She is a kind person."
+  },
+  {
+   "id": "L2U12-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The farmer grows rice.",
+   "item": "farmer",
+   "answer": "The farmer grows rice."
+  },
+  {
+   "id": "L2U12-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pilot flies the plane.",
+   "item": "pilot",
+   "answer": "The pilot flies the plane."
+  },
+  {
+   "id": "L2U12-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The waiter brings our food.",
+   "item": "waiter",
+   "answer": "The waiter brings our food."
+  },
+  {
+   "id": "L2U12-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Firefighters are brave.",
+   "item": "firefighter",
+   "answer": "Firefighters are brave."
+  },
+  {
+   "id": "L2U12-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The police officer helps people.",
+   "item": "police officer",
+   "answer": "The police officer helps people."
+  },
+  {
+   "id": "L2U12-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a famous singer.",
+   "item": "singer",
+   "answer": "She is a famous singer."
+  },
+  {
+   "id": "L2U12-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dancer dances on the stage.",
+   "item": "dancer",
+   "answer": "The dancer dances on the stage."
+  },
+  {
+   "id": "L2U12-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The artist paints a picture.",
+   "item": "artist",
+   "answer": "The artist paints a picture."
+  },
+  {
+   "id": "L2U12-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The writer writes books.",
+   "item": "writer",
+   "answer": "The writer writes books."
+  },
+  {
+   "id": "L2U12-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The builder makes houses.",
+   "item": "builder",
+   "answer": "The builder makes houses."
+  },
+  {
+   "id": "L2U12-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mechanic fixes cars.",
+   "item": "mechanic",
+   "answer": "The mechanic fixes cars."
+  },
+  {
+   "id": "L2U12-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hairdresser cuts my hair.",
+   "item": "hairdresser",
+   "answer": "The hairdresser cuts my hair."
+  },
+  {
+   "id": "L2U12-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baker makes bread.",
+   "item": "baker",
+   "answer": "The baker makes bread."
+  },
+  {
+   "id": "L2U12-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fisherman catches fish.",
+   "item": "fisherman",
+   "answer": "The fisherman catches fish."
+  },
+  {
+   "id": "L2U12-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The postman brings letters.",
+   "item": "postman",
+   "answer": "The postman brings letters."
+  },
+  {
+   "id": "L2U12-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The clown is very funny.",
+   "item": "clown",
+   "answer": "The clown is very funny."
+  },
+  {
+   "id": "L2U12-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum works in an office.",
+   "item": "office",
+   "answer": "My mum works in an office."
+  },
+  {
+   "id": "L2U12-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They make cars in the factory.",
+   "item": "factory",
+   "answer": "They make cars in the factory."
+  },
+  {
+   "id": "L2U12-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nurses wear a uniform.",
+   "item": "uniform",
+   "answer": "Nurses wear a uniform."
+  },
+  {
+   "id": "L2U12-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Doctors do important work.",
+   "item": "important",
+   "answer": "Doctors do important work."
+  },
+  {
+   "id": "L2U12-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad is very busy.",
+   "item": "busy",
+   "answer": "My dad is very busy."
+  },
+  {
+   "id": "L2U12-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This job is interesting.",
+   "item": "interesting",
+   "answer": "This job is interesting."
+  },
+  {
+   "id": "L2U12-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The film was boring.",
+   "item": "boring",
+   "answer": "The film was boring."
+  },
+  {
+   "id": "L2U12-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a pilot.",
+   "item": "want to be",
+   "answer": "I want to be a pilot."
+  },
+  {
+   "id": "L2U12-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a pilot.",
+   "answer": "I want to be a pilot."
+  },
+  {
+   "id": "L2U12-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a doctor.",
+   "answer": "I want to be a doctor."
+  },
+  {
+   "id": "L2U12-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a singer.",
+   "answer": "I want to be a singer."
+  },
+  {
+   "id": "L2U12-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum is a teacher.",
+   "answer": "My mum is a teacher."
+  },
+  {
+   "id": "L2U12-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum is a nurse.",
+   "answer": "My mum is a nurse."
+  },
+  {
+   "id": "L2U12-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum is a doctor.",
+   "answer": "My mum is a doctor."
+  },
+  {
+   "id": "L2U12-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The doctor is very busy.",
+   "answer": "The doctor is very busy."
+  },
+  {
+   "id": "L2U12-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The farmer is very busy.",
+   "answer": "The farmer is very busy."
+  },
+  {
+   "id": "L2U12-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baker is very busy.",
+   "answer": "The baker is very busy."
+  },
+  {
+   "id": "L2U12-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do you want to be?",
+   "answer": "I want to be a pilot."
+  },
+  {
+   "id": "L2U12-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "I want to fly a plane!"
+  },
+  {
+   "id": "L2U12-Q087",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your dad's job?",
+   "answer": "He's a mechanic. He fixes cars."
+  },
+  {
+   "id": "L2U12-Q088",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "And your mum?",
+   "answer": "She works in an office."
+  },
+  {
+   "id": "L2U12-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "job",
+   "options": [
+    "job",
+    "writer",
+    "firefighter"
+   ],
+   "answer": "job"
+  },
+  {
+   "id": "L2U12-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "people",
+   "options": [
+    "people",
+    "job",
+    "artist"
+   ],
+   "answer": "people"
+  },
+  {
+   "id": "L2U12-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "farmer",
+   "options": [
+    "farmer",
+    "writer",
+    "baker"
+   ],
+   "answer": "farmer"
+  },
+  {
+   "id": "L2U12-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pilot",
+   "options": [
+    "hairdresser",
+    "pilot",
+    "office"
+   ],
+   "answer": "pilot"
+  },
+  {
+   "id": "L2U12-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "firefighter",
+   "options": [
+    "firefighter",
+    "clown",
+    "singer"
+   ],
+   "answer": "firefighter"
+  },
+  {
+   "id": "L2U12-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "police officer",
+   "options": [
+    "hairdresser",
+    "police officer",
+    "builder"
+   ],
+   "answer": "police officer"
+  },
+  {
+   "id": "L2U12-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "singer",
+   "options": [
+    "writer",
+    "mechanic",
+    "singer"
+   ],
+   "answer": "singer"
+  },
+  {
+   "id": "L2U12-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dancer",
+   "options": [
+    "farmer",
+    "dancer",
+    "artist"
+   ],
+   "answer": "dancer"
+  },
+  {
+   "id": "L2U12-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "artist",
+   "options": [
+    "artist",
+    "factory",
+    "builder"
+   ],
+   "answer": "artist"
+  },
+  {
+   "id": "L2U12-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "writer",
+   "options": [
+    "hairdresser",
+    "writer",
+    "pilot"
+   ],
+   "answer": "writer"
+  },
+  {
+   "id": "L2U12-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "builder",
+   "options": [
+    "clown",
+    "builder",
+    "singer"
+   ],
+   "answer": "builder"
+  },
+  {
+   "id": "L2U12-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mechanic",
+   "options": [
+    "pilot",
+    "police officer",
+    "mechanic"
+   ],
+   "answer": "mechanic"
+  },
+  {
+   "id": "L2U12-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hairdresser",
+   "options": [
+    "hairdresser",
+    "builder",
+    "baker"
+   ],
+   "answer": "hairdresser"
+  },
+  {
+   "id": "L2U12-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "baker",
+   "options": [
+    "farmer",
+    "factory",
+    "baker"
+   ],
+   "answer": "baker"
+  },
+  {
+   "id": "L2U12-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fisherman",
+   "options": [
+    "firefighter",
+    "postman",
+    "fisherman"
+   ],
+   "answer": "fisherman"
+  },
+  {
+   "id": "L2U12-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "postman",
+   "options": [
+    "builder",
+    "postman",
+    "mechanic"
+   ],
+   "answer": "postman"
+  },
+  {
+   "id": "L2U12-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clown",
+   "options": [
+    "clown",
+    "police officer",
+    "people"
+   ],
+   "answer": "clown"
+  },
+  {
+   "id": "L2U12-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "office",
+   "options": [
+    "office",
+    "writer",
+    "clown"
+   ],
+   "answer": "office"
+  },
+  {
+   "id": "L2U12-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "factory",
+   "options": [
+    "fisherman",
+    "factory",
+    "singer"
+   ],
+   "answer": "factory"
+  },
+  {
+   "id": "L2U12-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's your mum's ___?",
+   "item": "job",
+   "options": [
+    "baker",
+    "job",
+    "firefighter"
+   ],
+   "answer": "job"
+  },
+  {
+   "id": "L2U12-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad ___ in a bank.",
+   "item": "work",
+   "options": [
+    "builders",
+    "works",
+    "artists"
+   ],
+   "answer": "works"
+  },
+  {
+   "id": "L2U12-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many ___ work here.",
+   "item": "people",
+   "options": [
+    "person",
+    "people",
+    "firefighter"
+   ],
+   "answer": "people"
+  },
+  {
+   "id": "L2U12-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She is a kind ___.",
+   "item": "person",
+   "options": [
+    "person",
+    "dancer",
+    "singer"
+   ],
+   "answer": "person"
+  },
+  {
+   "id": "L2U12-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ grows rice.",
+   "item": "farmer",
+   "options": [
+    "farmer",
+    "important",
+    "interesting"
+   ],
+   "answer": "farmer"
+  },
+  {
+   "id": "L2U12-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ flies the plane.",
+   "item": "pilot",
+   "options": [
+    "person",
+    "pilot",
+    "job"
+   ],
+   "answer": "pilot"
+  },
+  {
+   "id": "L2U12-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ brings our food.",
+   "item": "waiter",
+   "options": [
+    "job",
+    "waiter",
+    "interesting"
+   ],
+   "answer": "waiter"
+  },
+  {
+   "id": "L2U12-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are brave.",
+   "item": "firefighter",
+   "options": [
+    "Firefighters",
+    "Factorys",
+    "Offices"
+   ],
+   "answer": "Firefighters"
+  },
+  {
+   "id": "L2U12-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She is a famous ___.",
+   "item": "singer",
+   "options": [
+    "uniform",
+    "artist",
+    "singer"
+   ],
+   "answer": "singer"
+  },
+  {
+   "id": "L2U12-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ dances on the stage.",
+   "item": "dancer",
+   "options": [
+    "singer",
+    "work",
+    "dancer"
+   ],
+   "answer": "dancer"
+  },
+  {
+   "id": "L2U12-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ paints a picture.",
+   "item": "artist",
+   "options": [
+    "work",
+    "artist",
+    "important"
+   ],
+   "answer": "artist"
+  },
+  {
+   "id": "L2U12-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ writes books.",
+   "item": "writer",
+   "options": [
+    "busy",
+    "important",
+    "writer"
+   ],
+   "answer": "writer"
+  },
+  {
+   "id": "L2U12-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ makes houses.",
+   "item": "builder",
+   "options": [
+    "singer",
+    "interesting",
+    "builder"
+   ],
+   "answer": "builder"
+  },
+  {
+   "id": "L2U12-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ fixes cars.",
+   "item": "mechanic",
+   "options": [
+    "boring",
+    "busy",
+    "mechanic"
+   ],
+   "answer": "mechanic"
+  },
+  {
+   "id": "L2U12-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ cuts my hair.",
+   "item": "hairdresser",
+   "options": [
+    "hairdresser",
+    "singer",
+    "person"
+   ],
+   "answer": "hairdresser"
+  },
+  {
+   "id": "L2U12-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ makes bread.",
+   "item": "baker",
+   "options": [
+    "busy",
+    "person",
+    "baker"
+   ],
+   "answer": "baker"
+  },
+  {
+   "id": "L2U12-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ catches fish.",
+   "item": "fisherman",
+   "options": [
+    "boring",
+    "fisherman",
+    "job"
+   ],
+   "answer": "fisherman"
+  },
+  {
+   "id": "L2U12-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ brings letters.",
+   "item": "postman",
+   "options": [
+    "postman",
+    "singer",
+    "interesting"
+   ],
+   "answer": "postman"
+  },
+  {
+   "id": "L2U12-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very funny.",
+   "item": "clown",
+   "options": [
+    "clown",
+    "interesting",
+    "firefighter"
+   ],
+   "answer": "clown"
+  },
+  {
+   "id": "L2U12-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum works in an ___.",
+   "item": "office",
+   "options": [
+    "office",
+    "singer",
+    "firefighter"
+   ],
+   "answer": "office"
+  },
+  {
+   "id": "L2U12-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They make cars in the ___.",
+   "item": "factory",
+   "options": [
+    "person",
+    "factory",
+    "job"
+   ],
+   "answer": "factory"
+  },
+  {
+   "id": "L2U12-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Nurses wear a ___.",
+   "item": "uniform",
+   "options": [
+    "person",
+    "job",
+    "uniform"
+   ],
+   "answer": "uniform"
+  },
+  {
+   "id": "L2U12-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Doctors do ___ work.",
+   "item": "important",
+   "options": [
+    "important",
+    "dancer",
+    "farmer"
+   ],
+   "answer": "important"
+  },
+  {
+   "id": "L2U12-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad is very ___.",
+   "item": "busy",
+   "options": [
+    "busy",
+    "postman",
+    "important"
+   ],
+   "answer": "busy"
+  },
+  {
+   "id": "L2U12-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This job is ___.",
+   "item": "interesting",
+   "options": [
+    "work",
+    "interesting",
+    "baker"
+   ],
+   "answer": "interesting"
+  },
+  {
+   "id": "L2U12-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The film was ___.",
+   "item": "boring",
+   "options": [
+    "farmer",
+    "boring",
+    "office"
+   ],
+   "answer": "boring"
+  },
+  {
+   "id": "L2U12-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What's your mum's job?",
+   "item": "job",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Many people work here.",
+   "item": "farmer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The farmer grows rice.",
+   "item": "farmer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The pilot flies the plane.",
+   "item": "firefighter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Firefighters are brave.",
+   "item": "firefighter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The police officer helps people.",
+   "item": "singer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "She is a famous singer.",
+   "item": "singer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The dancer dances on the stage.",
+   "item": "artist",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The artist paints a picture.",
+   "item": "artist",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The writer writes books.",
+   "item": "builder",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The builder makes houses.",
+   "item": "builder",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The mechanic fixes cars.",
+   "item": "hairdresser",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The hairdresser cuts my hair.",
+   "item": "hairdresser",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The baker makes bread.",
+   "item": "fisherman",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The fisherman catches fish.",
+   "item": "fisherman",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The postman brings letters.",
+   "item": "clown",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The clown is very funny.",
+   "item": "clown",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My mum works in an office.",
+   "item": "factory",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U12-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "They make cars in the factory.",
+   "item": "factory",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U12-Q153",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U12-R01",
+   "text_en": "Who gets up early and makes bread?",
+   "options": [
+    "The postman.",
+    "The doctor.",
+    "The baker."
+   ],
+   "answer": "The baker."
+  },
+  {
+   "id": "L2U12-Q154",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U12-R01",
+   "text_en": "What does the writer of this text want to be?",
+   "options": [
+    "A firefighter.",
+    "A doctor.",
+    "A baker."
+   ],
+   "answer": "A firefighter."
+  },
+  {
+   "id": "L2U12-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "job",
+   "item": "job",
+   "answer": "job"
+  },
+  {
+   "id": "L2U12-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "work",
+   "item": "work",
+   "answer": "work"
+  },
+  {
+   "id": "L2U12-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "people",
+   "item": "people",
+   "answer": "people"
+  },
+  {
+   "id": "L2U12-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "person",
+   "item": "person",
+   "answer": "person"
+  },
+  {
+   "id": "L2U12-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "farmer",
+   "item": "farmer",
+   "answer": "farmer"
+  },
+  {
+   "id": "L2U12-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "pilot",
+   "item": "pilot",
+   "answer": "pilot"
+  },
+  {
+   "id": "L2U12-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "waiter",
+   "item": "waiter",
+   "answer": "waiter"
+  },
+  {
+   "id": "L2U12-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "firefighter",
+   "item": "firefighter",
+   "answer": "firefighter"
+  },
+  {
+   "id": "L2U12-Q163",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's your mum's job?",
+   "answer": "What's your mum's job?"
+  },
+  {
+   "id": "L2U12-Q164",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My dad works in a bank.",
+   "answer": "My dad works in a bank."
+  },
+  {
+   "id": "L2U12-Q165",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Many people work here.",
+   "answer": "Many people work here."
+  }
+ ]
+}

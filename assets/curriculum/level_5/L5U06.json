@@ -1,0 +1,3238 @@
+{
+ "id": "L5U06",
+ "level": 5,
+ "unit": 6,
+ "topic_en": "Amazing places",
+ "topic_vi": "Những nơi kỳ thú",
+ "can_do_vi": [
+  "Mô tả một địa danh nổi tiếng",
+  "Hỏi và kể trải nghiệm: \"Have you ever been to...?\""
+ ],
+ "grammar_note_vi": "Hỏi trải nghiệm dùng thì hiện tại hoàn thành: \"Have you ever been to Ha Long Bay?\" – \"Yes, I have.\" / \"No, I haven't.\" Sau \"have\" dùng dạng đặc biệt của động từ: be → been, see → seen, go → gone, do → done.",
+ "items": [
+  {
+   "id": "L5U06-W01",
+   "type": "word",
+   "en": "been",
+   "vi": "đã đến (be)",
+   "ipa": "/bɪn/",
+   "syllables": [
+    "been"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2708-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Have you ever been to Hanoi?",
+   "example_vi": "Cậu đã bao giờ đến Hà Nội chưa?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W02",
+   "type": "word",
+   "en": "seen",
+   "vi": "đã thấy (see)",
+   "ipa": "/sin/",
+   "syllables": [
+    "seen"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "I have seen a volcano on TV.",
+   "example_vi": "Tớ đã thấy núi lửa trên TV.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W03",
+   "type": "word",
+   "en": "gone",
+   "vi": "đã đi (go)",
+   "ipa": "/ɡɔn/",
+   "syllables": [
+    "gone"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Dad has gone to work.",
+   "example_vi": "Bố đã đi làm rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W04",
+   "type": "word",
+   "en": "done",
+   "vi": "đã làm (do)",
+   "ipa": "/dʌn/",
+   "syllables": [
+    "done"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "I have done my homework.",
+   "example_vi": "Tớ đã làm bài tập rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W05",
+   "type": "word",
+   "en": "bay",
+   "vi": "vịnh",
+   "ipa": "/beɪ/",
+   "syllables": [
+    "bay"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3DD-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Ha Long Bay has many islands.",
+   "example_vi": "Vịnh Hạ Long có rất nhiều đảo.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W06",
+   "type": "word",
+   "en": "volcano",
+   "vi": "núi lửa",
+   "ipa": "/vɑlˈkeɪnoʊ/",
+   "syllables": [
+    "volcano"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F30B"
+   },
+   "picturable": true,
+   "cat": "L5U06",
+   "example_en": "The volcano is very high.",
+   "example_vi": "Ngọn núi lửa rất cao.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W07",
+   "type": "word",
+   "en": "canyon",
+   "vi": "hẻm núi",
+   "ipa": "/ˈkænjən/",
+   "syllables": [
+    "canyon"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "A river runs through the canyon.",
+   "example_vi": "Một dòng sông chảy qua hẻm núi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W08",
+   "type": "word",
+   "en": "continent",
+   "vi": "châu lục",
+   "ipa": "/ˈkɑntənənt/",
+   "syllables": [
+    "con",
+    "ti",
+    "nent"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Asia is the biggest continent.",
+   "example_vi": "Châu Á là châu lục lớn nhất.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W09",
+   "type": "word",
+   "en": "valley",
+   "vi": "thung lũng",
+   "ipa": "/ˈvæli/",
+   "syllables": [
+    "val",
+    "ley"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "There is a village in the valley.",
+   "example_vi": "Có một ngôi làng trong thung lũng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W10",
+   "type": "word",
+   "en": "peak",
+   "vi": "đỉnh núi",
+   "ipa": "/pik/",
+   "syllables": [
+    "peak"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3D4-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "We climbed to the peak.",
+   "example_vi": "Bọn tớ leo lên đỉnh núi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W11",
+   "type": "word",
+   "en": "landscape",
+   "vi": "phong cảnh",
+   "ipa": "/ˈlænˌskeɪp/",
+   "syllables": [
+    "land",
+    "scape"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The landscape in Sa Pa is beautiful.",
+   "example_vi": "Phong cảnh ở Sa Pa rất đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W12",
+   "type": "word",
+   "en": "scenery",
+   "vi": "cảnh vật",
+   "ipa": "/ˈsinəri/",
+   "syllables": [
+    "scenery"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "We enjoyed the scenery from the train.",
+   "example_vi": "Bọn tớ ngắm cảnh từ trên tàu.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W13",
+   "type": "word",
+   "en": "wonder",
+   "vi": "kỳ quan",
+   "ipa": "/ˈwʌndər/",
+   "syllables": [
+    "won",
+    "der"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "It is one of the wonders of the world.",
+   "example_vi": "Đó là một trong những kỳ quan thế giới.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W14",
+   "type": "word",
+   "en": "heritage",
+   "vi": "di sản",
+   "ipa": "/ˈhɛrɪtɪdʒ/",
+   "syllables": [
+    "heritage"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Hue is a world heritage site.",
+   "example_vi": "Huế là một di sản thế giới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W15",
+   "type": "word",
+   "en": "site",
+   "vi": "địa điểm",
+   "ipa": "/saɪt/",
+   "syllables": [
+    "site"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "This is a famous site.",
+   "example_vi": "Đây là một địa điểm nổi tiếng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W16",
+   "type": "word",
+   "en": "attraction",
+   "vi": "điểm thu hút khách",
+   "ipa": "/əˈtrækʃən/",
+   "syllables": [
+    "at",
+    "trac",
+    "tion"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3A1"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The zoo is a popular attraction.",
+   "example_vi": "Sở thú là điểm tham quan được yêu thích.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W17",
+   "type": "word",
+   "en": "landmark",
+   "vi": "địa danh",
+   "ipa": "/ˈlændˌmɑrk/",
+   "syllables": [
+    "land",
+    "mark"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F5FC"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The old bridge is a famous landmark.",
+   "example_vi": "Cây cầu cổ là một địa danh nổi tiếng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W18",
+   "type": "word",
+   "en": "population",
+   "vi": "dân số",
+   "ipa": "/ˌpɑpjəˈleɪʃən/",
+   "syllables": [
+    "pop",
+    "u",
+    "la",
+    "tion"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The population of the city is very large.",
+   "example_vi": "Dân số thành phố rất đông.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W19",
+   "type": "word",
+   "en": "border",
+   "vi": "biên giới",
+   "ipa": "/ˈbɔrdər/",
+   "syllables": [
+    "bor",
+    "der"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6A7"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Vietnam has a border with China.",
+   "example_vi": "Việt Nam có đường biên giới với Trung Quốc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W20",
+   "type": "word",
+   "en": "area",
+   "vi": "khu vực",
+   "ipa": "/ˈɛriə/",
+   "syllables": [
+    "area"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "This area has many parks.",
+   "example_vi": "Khu vực này có nhiều công viên.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W21",
+   "type": "word",
+   "en": "enormous",
+   "vi": "khổng lồ",
+   "ipa": "/ɪˈnɔrmɪs/",
+   "syllables": [
+    "enormous"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F418"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The cave is enormous.",
+   "example_vi": "Hang động rộng khổng lồ.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W22",
+   "type": "word",
+   "en": "height",
+   "vi": "chiều cao",
+   "ipa": "/haɪt/",
+   "syllables": [
+    "height"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "What is the height of the mountain?",
+   "example_vi": "Ngọn núi cao bao nhiêu?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W23",
+   "type": "word",
+   "en": "length",
+   "vi": "chiều dài",
+   "ipa": "/lɛŋθ/",
+   "syllables": [
+    "length"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The length of the river is four thousand kilometres.",
+   "example_vi": "Con sông dài bốn nghìn ki-lô-mét.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W24",
+   "type": "word",
+   "en": "unique",
+   "vi": "độc đáo",
+   "ipa": "/juˈnik/",
+   "syllables": [
+    "unique"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "This island has unique animals.",
+   "example_vi": "Hòn đảo này có những loài vật độc đáo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W25",
+   "type": "word",
+   "en": "rare",
+   "vi": "hiếm",
+   "ipa": "/rɛr/",
+   "syllables": [
+    "rare"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "This flower is very rare.",
+   "example_vi": "Loài hoa này rất hiếm.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W26",
+   "type": "word",
+   "en": "photograph",
+   "vi": "bức ảnh",
+   "ipa": "/ˈfoʊtəˌɡræf/",
+   "syllables": [
+    "pho",
+    "to",
+    "graph"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4F7"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "I took a photograph of the waterfall.",
+   "example_vi": "Tớ chụp một bức ảnh thác nước.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W27",
+   "type": "word",
+   "en": "skyscraper",
+   "vi": "toà nhà chọc trời",
+   "ipa": "/ˈskaɪˌskreɪpər/",
+   "syllables": [
+    "skyscraper"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3D9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "There are many skyscrapers in big cities.",
+   "example_vi": "Các thành phố lớn có nhiều toà nhà chọc trời.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W28",
+   "type": "word",
+   "en": "lava",
+   "vi": "dung nham",
+   "ipa": "/ˈlɑvə/",
+   "syllables": [
+    "la",
+    "va"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F30B"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Hot lava comes out of the volcano.",
+   "example_vi": "Dung nham nóng phun ra từ núi lửa.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W29",
+   "type": "word",
+   "en": "erupt",
+   "vi": "phun trào",
+   "ipa": "/ˈirəpt/",
+   "syllables": [
+    "erupt"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4A5"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The volcano erupted last year.",
+   "example_vi": "Núi lửa phun trào năm ngoái.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W30",
+   "type": "phrase",
+   "en": "hot spring",
+   "vi": "suối nước nóng",
+   "ipa": "/hɑt spərɪŋ/",
+   "syllables": [
+    "hot",
+    "spring"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U06",
+   "example_en": "We swam in a hot spring.",
+   "example_vi": "Bọn tớ tắm suối nước nóng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W31",
+   "type": "word",
+   "en": "limestone",
+   "vi": "đá vôi",
+   "ipa": "/ˈlaɪmˌstoʊn/",
+   "syllables": [
+    "lime",
+    "stone"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1FAA8"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The islands in Ha Long Bay are made of limestone.",
+   "example_vi": "Các đảo ở vịnh Hạ Long được tạo thành từ đá vôi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W32",
+   "type": "word",
+   "en": "terrace",
+   "vi": "ruộng bậc thang",
+   "ipa": "/ˈtɛrəs/",
+   "syllables": [
+    "ter",
+    "race"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F33E"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The rice terraces look like big stairs.",
+   "example_vi": "Ruộng bậc thang trông như những bậc cầu thang lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W33",
+   "type": "word",
+   "en": "delta",
+   "vi": "đồng bằng châu thổ",
+   "ipa": "/ˈdɛltə/",
+   "syllables": [
+    "delta"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "The Mekong Delta has many rivers.",
+   "example_vi": "Đồng bằng sông Cửu Long có nhiều sông ngòi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W34",
+   "type": "word",
+   "en": "stream",
+   "vi": "con suối",
+   "ipa": "/strim/",
+   "syllables": [
+    "stream"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "We walked along a small stream.",
+   "example_vi": "Bọn tớ đi dọc một con suối nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W35",
+   "type": "word",
+   "en": "popular",
+   "vi": "được ưa chuộng",
+   "ipa": "/ˈpɑpjələr/",
+   "syllables": [
+    "pop",
+    "u",
+    "lar"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Football is very popular in Vietnam.",
+   "example_vi": "Bóng đá rất được ưa chuộng ở Việt Nam.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W36",
+   "type": "phrase",
+   "en": "sand dune",
+   "vi": "đồi cát",
+   "ipa": "/sænd dun/",
+   "syllables": [
+    "sand",
+    "dune"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "We ran down the sand dunes.",
+   "example_vi": "Bọn tớ chạy xuống đồi cát.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W37",
+   "type": "word",
+   "en": "iceberg",
+   "vi": "tảng băng trôi",
+   "ipa": "/ˈaɪsbərɡ/",
+   "syllables": [
+    "ice",
+    "berg"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "An iceberg is a huge piece of ice.",
+   "example_vi": "Tảng băng trôi là một khối băng khổng lồ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W38",
+   "type": "phrase",
+   "en": "North Pole",
+   "vi": "Bắc Cực",
+   "ipa": "/nɔrθ poʊl/",
+   "syllables": [
+    "North",
+    "Pole"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "It's very cold at the North Pole.",
+   "example_vi": "Ở Bắc Cực rất lạnh.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W39",
+   "type": "phrase",
+   "en": "South Pole",
+   "vi": "Nam Cực",
+   "ipa": "/saʊθ poʊl/",
+   "syllables": [
+    "South",
+    "Pole"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F427"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Penguins live near the South Pole.",
+   "example_vi": "Chim cánh cụt sống gần Nam Cực.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W40",
+   "type": "word",
+   "en": "equator",
+   "vi": "đường xích đạo",
+   "ipa": "/ɪkˈweɪtər/",
+   "syllables": [
+    "equator"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F310"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "It's hot near the equator.",
+   "example_vi": "Gần xích đạo trời nóng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W41",
+   "type": "word",
+   "en": "culture",
+   "vi": "văn hoá",
+   "ipa": "/ˈkʌltʃər/",
+   "syllables": [
+    "cul",
+    "ture"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F38E"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "I want to learn about Japanese culture.",
+   "example_vi": "Tớ muốn tìm hiểu văn hoá Nhật Bản.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W42",
+   "type": "word",
+   "en": "tradition",
+   "vi": "truyền thống",
+   "ipa": "/trəˈdɪʃən/",
+   "syllables": [
+    "tra",
+    "di",
+    "tion"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3EE"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "Making sticky rice cakes is a Tet tradition.",
+   "example_vi": "Gói bánh chưng là truyền thống ngày Tết.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W43",
+   "type": "word",
+   "en": "crowd",
+   "vi": "đám đông",
+   "ipa": "/kraʊd/",
+   "syllables": [
+    "crowd"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "There was a big crowd at the festival.",
+   "example_vi": "Có một đám đông lớn ở lễ hội.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U06-W44",
+   "type": "word",
+   "en": "admire",
+   "vi": "ngắm nhìn, ngưỡng mộ",
+   "ipa": "/ædˈmaɪr/",
+   "syllables": [
+    "ad",
+    "mire"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F60D"
+   },
+   "picturable": false,
+   "cat": "L5U06",
+   "example_en": "We admired the view from the top.",
+   "example_vi": "Bọn tớ ngắm cảnh từ trên đỉnh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U06-P01",
+   "en": "Have you ever been to {x}?",
+   "vi": "Cậu đã bao giờ đến {x} chưa?",
+   "slots": {
+    "x": [
+     "Ha Long Bay",
+     "Hue",
+     "Sa Pa",
+     "the Mekong Delta"
+    ]
+   }
+  },
+  {
+   "id": "L5U06-P02",
+   "en": "I have never seen a {x}.",
+   "vi": "Tớ chưa bao giờ thấy {x}.",
+   "slots": {
+    "x": [
+     "volcano",
+     "iceberg",
+     "canyon",
+     "hot spring"
+    ]
+   }
+  },
+  {
+   "id": "L5U06-P03",
+   "en": "The {x} is very famous.",
+   "vi": "{x} rất nổi tiếng.",
+   "slots": {
+    "x": [
+     "bay",
+     "landmark",
+     "palace",
+     "temple"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U06-D01",
+   "title_vi": "Cậu đã từng đến chưa?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Have you ever been to Sa Pa?",
+     "vi": "Cậu đã bao giờ đến Sa Pa chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, I have. I went there last winter.",
+     "vi": "Rồi. Tớ đến đó mùa đông năm ngoái."
+    },
+    {
+     "role": "Bi",
+     "en": "What was it like?",
+     "vi": "Ở đó thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "It was cold, but the scenery was amazing.",
+     "vi": "Trời lạnh, nhưng cảnh đẹp tuyệt."
+    },
+    {
+     "role": "Bi",
+     "en": "Did you see the rice terraces?",
+     "vi": "Cậu có thấy ruộng bậc thang không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! They look like big green stairs.",
+     "vi": "Có! Trông như những bậc cầu thang xanh khổng lồ."
+    }
+   ]
+  },
+  {
+   "id": "L5U06-D02",
+   "title_vi": "Núi lửa",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Have you ever seen a volcano, Bi?",
+     "vi": "Bi đã bao giờ thấy núi lửa chưa?"
+    },
+    {
+     "role": "Bi",
+     "en": "Only in a documentary. It erupted, and hot lava came out.",
+     "vi": "Chỉ trong phim tài liệu thôi. Nó phun trào và dung nham nóng chảy ra."
+    },
+    {
+     "role": "Kid",
+     "en": "Wow! Is it dangerous to live near a volcano?",
+     "vi": "Oa! Sống gần núi lửa có nguy hiểm không?"
+    },
+    {
+     "role": "Bi",
+     "en": "It can be. But the land near volcanoes is good for farming.",
+     "vi": "Có thể. Nhưng đất gần núi lửa rất tốt cho trồng trọt."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "been"
+  },
+  {
+   "type": "dictate_word",
+   "target": "seen"
+  },
+  {
+   "type": "dictate_word",
+   "target": "gone"
+  },
+  {
+   "type": "dictate_word",
+   "target": "done"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bay"
+  },
+  {
+   "type": "dictate_word",
+   "target": "volcano"
+  },
+  {
+   "type": "dictate_word",
+   "target": "canyon"
+  },
+  {
+   "type": "dictate_word",
+   "target": "continent"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Have you ever been to Hanoi?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I have seen a volcano on TV."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Dad has gone to work."
+  },
+  {
+   "type": "write_sentences",
+   "target": "I have been to|I have never|The most amazing place I know is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U06-R01",
+   "title_en": "Ha Long Bay",
+   "text_en": [
+    "Ha Long Bay is one of the most famous landmarks in Vietnam.",
+    "It is in the north of the country, near the Chinese border.",
+    "The bay has nearly two thousand islands.",
+    "Most of them are made of limestone, and some have enormous caves inside.",
+    "Ha Long Bay is a world heritage site, and millions of tourists visit it every year.",
+    "Visitors can take a boat trip, swim, or go in a kayak between the islands.",
+    "There is a legend that a family of dragons made the bay.",
+    "Have you ever been there?",
+    "If not, you should definitely go!"
+   ],
+   "questions": [
+    {
+     "q": "Where is Ha Long Bay?",
+     "options": [
+      "In the north of Vietnam.",
+      "In the south of Vietnam.",
+      "In Thailand."
+     ],
+     "answer": "In the north of Vietnam."
+    },
+    {
+     "q": "What are most of the islands made of?",
+     "options": [
+      "Limestone.",
+      "Sand.",
+      "Ice."
+     ],
+     "answer": "Limestone."
+    },
+    {
+     "q": "What does the legend say made the bay?",
+     "options": [
+      "A family of dragons.",
+      "A giant.",
+      "An emperor."
+     ],
+     "answer": "A family of dragons."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U06-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "volcano",
+   "item": "volcano",
+   "options": [
+    "volcano",
+    "chocolate",
+    "noisy",
+    "hot spring"
+   ],
+   "answer": "volcano"
+  },
+  {
+   "id": "L5U06-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hot spring",
+   "item": "hot spring",
+   "options": [
+    "shell",
+    "hot spring",
+    "volcano",
+    "ox"
+   ],
+   "answer": "hot spring"
+  },
+  {
+   "id": "L5U06-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "been",
+   "item": "been",
+   "options": [
+    "area",
+    "been",
+    "site",
+    "volcano"
+   ],
+   "answer": "been"
+  },
+  {
+   "id": "L5U06-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "seen",
+   "item": "seen",
+   "options": [
+    "heritage",
+    "attraction",
+    "North Pole",
+    "seen"
+   ],
+   "answer": "seen"
+  },
+  {
+   "id": "L5U06-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gone",
+   "item": "gone",
+   "options": [
+    "gone",
+    "been",
+    "skyscraper",
+    "enormous"
+   ],
+   "answer": "gone"
+  },
+  {
+   "id": "L5U06-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "done",
+   "item": "done",
+   "options": [
+    "border",
+    "iceberg",
+    "bay",
+    "done"
+   ],
+   "answer": "done"
+  },
+  {
+   "id": "L5U06-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bay",
+   "item": "bay",
+   "options": [
+    "popular",
+    "equator",
+    "volcano",
+    "bay"
+   ],
+   "answer": "bay"
+  },
+  {
+   "id": "L5U06-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "canyon",
+   "item": "canyon",
+   "options": [
+    "canyon",
+    "South Pole",
+    "valley",
+    "peak"
+   ],
+   "answer": "canyon"
+  },
+  {
+   "id": "L5U06-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "continent",
+   "item": "continent",
+   "options": [
+    "bay",
+    "enormous",
+    "continent",
+    "rare"
+   ],
+   "answer": "continent"
+  },
+  {
+   "id": "L5U06-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "valley",
+   "item": "valley",
+   "options": [
+    "population",
+    "peak",
+    "valley",
+    "scenery"
+   ],
+   "answer": "valley"
+  },
+  {
+   "id": "L5U06-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "peak",
+   "item": "peak",
+   "options": [
+    "wonder",
+    "peak",
+    "volcano",
+    "heritage"
+   ],
+   "answer": "peak"
+  },
+  {
+   "id": "L5U06-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "landscape",
+   "item": "landscape",
+   "options": [
+    "delta",
+    "admire",
+    "height",
+    "landscape"
+   ],
+   "answer": "landscape"
+  },
+  {
+   "id": "L5U06-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "scenery",
+   "item": "scenery",
+   "options": [
+    "enormous",
+    "gone",
+    "scenery",
+    "culture"
+   ],
+   "answer": "scenery"
+  },
+  {
+   "id": "L5U06-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wonder",
+   "item": "wonder",
+   "options": [
+    "wonder",
+    "lava",
+    "heritage",
+    "photograph"
+   ],
+   "answer": "wonder"
+  },
+  {
+   "id": "L5U06-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "heritage",
+   "item": "heritage",
+   "options": [
+    "culture",
+    "heritage",
+    "iceberg",
+    "hot spring"
+   ],
+   "answer": "heritage"
+  },
+  {
+   "id": "L5U06-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "site",
+   "item": "site",
+   "options": [
+    "bay",
+    "site",
+    "length",
+    "peak"
+   ],
+   "answer": "site"
+  },
+  {
+   "id": "L5U06-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "attraction",
+   "item": "attraction",
+   "options": [
+    "rare",
+    "South Pole",
+    "been",
+    "attraction"
+   ],
+   "answer": "attraction"
+  },
+  {
+   "id": "L5U06-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "landmark",
+   "item": "landmark",
+   "options": [
+    "photograph",
+    "lava",
+    "North Pole",
+    "landmark"
+   ],
+   "answer": "landmark"
+  },
+  {
+   "id": "L5U06-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "population",
+   "item": "population",
+   "options": [
+    "wonder",
+    "population",
+    "admire",
+    "seen"
+   ],
+   "answer": "population"
+  },
+  {
+   "id": "L5U06-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "border",
+   "item": "border",
+   "options": [
+    "population",
+    "border",
+    "heritage",
+    "South Pole"
+   ],
+   "answer": "border"
+  },
+  {
+   "id": "L5U06-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "area",
+   "item": "area",
+   "options": [
+    "culture",
+    "skyscraper",
+    "area",
+    "attraction"
+   ],
+   "answer": "area"
+  },
+  {
+   "id": "L5U06-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "enormous",
+   "item": "enormous",
+   "options": [
+    "sand dune",
+    "enormous",
+    "hot spring",
+    "culture"
+   ],
+   "answer": "enormous"
+  },
+  {
+   "id": "L5U06-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "height",
+   "item": "height",
+   "options": [
+    "iceberg",
+    "border",
+    "height",
+    "area"
+   ],
+   "answer": "height"
+  },
+  {
+   "id": "L5U06-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "length",
+   "item": "length",
+   "options": [
+    "delta",
+    "length",
+    "lava",
+    "South Pole"
+   ],
+   "answer": "length"
+  },
+  {
+   "id": "L5U06-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "unique",
+   "item": "unique",
+   "options": [
+    "site",
+    "seen",
+    "unique",
+    "been"
+   ],
+   "answer": "unique"
+  },
+  {
+   "id": "L5U06-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rare",
+   "item": "rare",
+   "options": [
+    "iceberg",
+    "culture",
+    "height",
+    "rare"
+   ],
+   "answer": "rare"
+  },
+  {
+   "id": "L5U06-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "photograph",
+   "item": "photograph",
+   "options": [
+    "height",
+    "area",
+    "photograph",
+    "North Pole"
+   ],
+   "answer": "photograph"
+  },
+  {
+   "id": "L5U06-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "skyscraper",
+   "item": "skyscraper",
+   "options": [
+    "North Pole",
+    "enormous",
+    "skyscraper",
+    "hot spring"
+   ],
+   "answer": "skyscraper"
+  },
+  {
+   "id": "L5U06-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lava",
+   "item": "lava",
+   "options": [
+    "hot spring",
+    "limestone",
+    "lava",
+    "popular"
+   ],
+   "answer": "lava"
+  },
+  {
+   "id": "L5U06-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "erupt",
+   "item": "erupt",
+   "options": [
+    "height",
+    "stream",
+    "erupt",
+    "seen"
+   ],
+   "answer": "erupt"
+  },
+  {
+   "id": "L5U06-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "limestone",
+   "item": "limestone",
+   "options": [
+    "sand dune",
+    "attraction",
+    "population",
+    "limestone"
+   ],
+   "answer": "limestone"
+  },
+  {
+   "id": "L5U06-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "terrace",
+   "item": "terrace",
+   "options": [
+    "terrace",
+    "attraction",
+    "site",
+    "enormous"
+   ],
+   "answer": "terrace"
+  },
+  {
+   "id": "L5U06-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "delta",
+   "item": "delta",
+   "options": [
+    "delta",
+    "area",
+    "lava",
+    "terrace"
+   ],
+   "answer": "delta"
+  },
+  {
+   "id": "L5U06-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stream",
+   "item": "stream",
+   "options": [
+    "delta",
+    "gone",
+    "stream",
+    "enormous"
+   ],
+   "answer": "stream"
+  },
+  {
+   "id": "L5U06-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "popular",
+   "item": "popular",
+   "options": [
+    "culture",
+    "admire",
+    "popular",
+    "scenery"
+   ],
+   "answer": "popular"
+  },
+  {
+   "id": "L5U06-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sand dune",
+   "item": "sand dune",
+   "options": [
+    "canyon",
+    "sand dune",
+    "volcano",
+    "landscape"
+   ],
+   "answer": "sand dune"
+  },
+  {
+   "id": "L5U06-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "iceberg",
+   "item": "iceberg",
+   "options": [
+    "tradition",
+    "scenery",
+    "iceberg",
+    "terrace"
+   ],
+   "answer": "iceberg"
+  },
+  {
+   "id": "L5U06-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "North Pole",
+   "item": "North Pole",
+   "options": [
+    "peak",
+    "photograph",
+    "North Pole",
+    "unique"
+   ],
+   "answer": "North Pole"
+  },
+  {
+   "id": "L5U06-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "South Pole",
+   "item": "South Pole",
+   "options": [
+    "South Pole",
+    "scenery",
+    "delta",
+    "limestone"
+   ],
+   "answer": "South Pole"
+  },
+  {
+   "id": "L5U06-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "equator",
+   "item": "equator",
+   "options": [
+    "culture",
+    "stream",
+    "equator",
+    "erupt"
+   ],
+   "answer": "equator"
+  },
+  {
+   "id": "L5U06-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "culture",
+   "item": "culture",
+   "options": [
+    "tradition",
+    "terrace",
+    "culture",
+    "unique"
+   ],
+   "answer": "culture"
+  },
+  {
+   "id": "L5U06-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tradition",
+   "item": "tradition",
+   "options": [
+    "canyon",
+    "tradition",
+    "heritage",
+    "sand dune"
+   ],
+   "answer": "tradition"
+  },
+  {
+   "id": "L5U06-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crowd",
+   "item": "crowd",
+   "options": [
+    "tradition",
+    "attraction",
+    "South Pole",
+    "crowd"
+   ],
+   "answer": "crowd"
+  },
+  {
+   "id": "L5U06-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "admire",
+   "item": "admire",
+   "options": [
+    "admire",
+    "peak",
+    "delta",
+    "volcano"
+   ],
+   "answer": "admire"
+  },
+  {
+   "id": "L5U06-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "volcano",
+   "answer": "volcano"
+  },
+  {
+   "id": "L5U06-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hot spring",
+   "answer": "hot spring"
+  },
+  {
+   "id": "L5U06-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Have you ever been to Hanoi?",
+   "item": "been",
+   "answer": "Have you ever been to Hanoi?"
+  },
+  {
+   "id": "L5U06-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have seen a volcano on TV.",
+   "item": "seen",
+   "answer": "I have seen a volcano on TV."
+  },
+  {
+   "id": "L5U06-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad has gone to work.",
+   "item": "gone",
+   "answer": "Dad has gone to work."
+  },
+  {
+   "id": "L5U06-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have done my homework.",
+   "item": "done",
+   "answer": "I have done my homework."
+  },
+  {
+   "id": "L5U06-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ha Long Bay has many islands.",
+   "item": "bay",
+   "answer": "Ha Long Bay has many islands."
+  },
+  {
+   "id": "L5U06-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The volcano is very high.",
+   "item": "volcano",
+   "answer": "The volcano is very high."
+  },
+  {
+   "id": "L5U06-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A river runs through the canyon.",
+   "item": "canyon",
+   "answer": "A river runs through the canyon."
+  },
+  {
+   "id": "L5U06-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Asia is the biggest continent.",
+   "item": "continent",
+   "answer": "Asia is the biggest continent."
+  },
+  {
+   "id": "L5U06-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a village in the valley.",
+   "item": "valley",
+   "answer": "There is a village in the valley."
+  },
+  {
+   "id": "L5U06-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We climbed to the peak.",
+   "item": "peak",
+   "answer": "We climbed to the peak."
+  },
+  {
+   "id": "L5U06-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The landscape in Sa Pa is beautiful.",
+   "item": "landscape",
+   "answer": "The landscape in Sa Pa is beautiful."
+  },
+  {
+   "id": "L5U06-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We enjoyed the scenery from the train.",
+   "item": "scenery",
+   "answer": "We enjoyed the scenery from the train."
+  },
+  {
+   "id": "L5U06-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It is one of the wonders of the world.",
+   "item": "wonder",
+   "answer": "It is one of the wonders of the world."
+  },
+  {
+   "id": "L5U06-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hue is a world heritage site.",
+   "item": "heritage",
+   "answer": "Hue is a world heritage site."
+  },
+  {
+   "id": "L5U06-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is a famous site.",
+   "item": "site",
+   "answer": "This is a famous site."
+  },
+  {
+   "id": "L5U06-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The zoo is a popular attraction.",
+   "item": "attraction",
+   "answer": "The zoo is a popular attraction."
+  },
+  {
+   "id": "L5U06-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The old bridge is a famous landmark.",
+   "item": "landmark",
+   "answer": "The old bridge is a famous landmark."
+  },
+  {
+   "id": "L5U06-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The population of the city is very large.",
+   "item": "population",
+   "answer": "The population of the city is very large."
+  },
+  {
+   "id": "L5U06-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam has a border with China.",
+   "item": "border",
+   "answer": "Vietnam has a border with China."
+  },
+  {
+   "id": "L5U06-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This area has many parks.",
+   "item": "area",
+   "answer": "This area has many parks."
+  },
+  {
+   "id": "L5U06-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cave is enormous.",
+   "item": "enormous",
+   "answer": "The cave is enormous."
+  },
+  {
+   "id": "L5U06-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What is the height of the mountain?",
+   "item": "height",
+   "answer": "What is the height of the mountain?"
+  },
+  {
+   "id": "L5U06-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The length of the river is four thousand kilometres.",
+   "item": "length",
+   "answer": "The length of the river is four thousand kilometres."
+  },
+  {
+   "id": "L5U06-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This island has unique animals.",
+   "item": "unique",
+   "answer": "This island has unique animals."
+  },
+  {
+   "id": "L5U06-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This flower is very rare.",
+   "item": "rare",
+   "answer": "This flower is very rare."
+  },
+  {
+   "id": "L5U06-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I took a photograph of the waterfall.",
+   "item": "photograph",
+   "answer": "I took a photograph of the waterfall."
+  },
+  {
+   "id": "L5U06-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are many skyscrapers in big cities.",
+   "item": "skyscraper",
+   "answer": "There are many skyscrapers in big cities."
+  },
+  {
+   "id": "L5U06-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hot lava comes out of the volcano.",
+   "item": "lava",
+   "answer": "Hot lava comes out of the volcano."
+  },
+  {
+   "id": "L5U06-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The volcano erupted last year.",
+   "item": "erupt",
+   "answer": "The volcano erupted last year."
+  },
+  {
+   "id": "L5U06-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We swam in a hot spring.",
+   "item": "hot spring",
+   "answer": "We swam in a hot spring."
+  },
+  {
+   "id": "L5U06-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The islands in Ha Long Bay are made of limestone.",
+   "item": "limestone",
+   "answer": "The islands in Ha Long Bay are made of limestone."
+  },
+  {
+   "id": "L5U06-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rice terraces look like big stairs.",
+   "item": "terrace",
+   "answer": "The rice terraces look like big stairs."
+  },
+  {
+   "id": "L5U06-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The Mekong Delta has many rivers.",
+   "item": "delta",
+   "answer": "The Mekong Delta has many rivers."
+  },
+  {
+   "id": "L5U06-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We walked along a small stream.",
+   "item": "stream",
+   "answer": "We walked along a small stream."
+  },
+  {
+   "id": "L5U06-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Football is very popular in Vietnam.",
+   "item": "popular",
+   "answer": "Football is very popular in Vietnam."
+  },
+  {
+   "id": "L5U06-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We ran down the sand dunes.",
+   "item": "sand dune",
+   "answer": "We ran down the sand dunes."
+  },
+  {
+   "id": "L5U06-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An iceberg is a huge piece of ice.",
+   "item": "iceberg",
+   "answer": "An iceberg is a huge piece of ice."
+  },
+  {
+   "id": "L5U06-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's very cold at the North Pole.",
+   "item": "North Pole",
+   "answer": "It's very cold at the North Pole."
+  },
+  {
+   "id": "L5U06-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Penguins live near the South Pole.",
+   "item": "South Pole",
+   "answer": "Penguins live near the South Pole."
+  },
+  {
+   "id": "L5U06-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's hot near the equator.",
+   "item": "equator",
+   "answer": "It's hot near the equator."
+  },
+  {
+   "id": "L5U06-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to learn about Japanese culture.",
+   "item": "culture",
+   "answer": "I want to learn about Japanese culture."
+  },
+  {
+   "id": "L5U06-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Making sticky rice cakes is a Tet tradition.",
+   "item": "tradition",
+   "answer": "Making sticky rice cakes is a Tet tradition."
+  },
+  {
+   "id": "L5U06-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There was a big crowd at the festival.",
+   "item": "crowd",
+   "answer": "There was a big crowd at the festival."
+  },
+  {
+   "id": "L5U06-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We admired the view from the top.",
+   "item": "admire",
+   "answer": "We admired the view from the top."
+  },
+  {
+   "id": "L5U06-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Have you ever been to Ha Long Bay?",
+   "answer": "Have you ever been to Ha Long Bay?"
+  },
+  {
+   "id": "L5U06-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Have you ever been to Hue?",
+   "answer": "Have you ever been to Hue?"
+  },
+  {
+   "id": "L5U06-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Have you ever been to Sa Pa?",
+   "answer": "Have you ever been to Sa Pa?"
+  },
+  {
+   "id": "L5U06-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have never seen a volcano.",
+   "answer": "I have never seen a volcano."
+  },
+  {
+   "id": "L5U06-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have never seen a iceberg.",
+   "answer": "I have never seen a iceberg."
+  },
+  {
+   "id": "L5U06-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have never seen a canyon.",
+   "answer": "I have never seen a canyon."
+  },
+  {
+   "id": "L5U06-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bay is very famous.",
+   "answer": "The bay is very famous."
+  },
+  {
+   "id": "L5U06-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The landmark is very famous.",
+   "answer": "The landmark is very famous."
+  },
+  {
+   "id": "L5U06-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The palace is very famous.",
+   "answer": "The palace is very famous."
+  },
+  {
+   "id": "L5U06-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Have you ever been to Sa Pa?",
+   "answer": "Yes, I have. I went there last winter."
+  },
+  {
+   "id": "L5U06-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What was it like?",
+   "answer": "It was cold, but the scenery was amazing."
+  },
+  {
+   "id": "L5U06-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Did you see the rice terraces?",
+   "answer": "Yes! They look like big green stairs."
+  },
+  {
+   "id": "L5U06-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Have you ever seen a volcano, Bi?",
+   "answer": "Only in a documentary. It erupted, and hot lava came out."
+  },
+  {
+   "id": "L5U06-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow! Is it dangerous to live near a volcano?",
+   "answer": "It can be. But the land near volcanoes is good for farming."
+  },
+  {
+   "id": "L5U06-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "volcano",
+   "options": [
+    "carrot",
+    "volcano",
+    "hot spring"
+   ],
+   "answer": "volcano"
+  },
+  {
+   "id": "L5U06-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hot spring",
+   "options": [
+    "plane",
+    "volcano",
+    "hot spring"
+   ],
+   "answer": "hot spring"
+  },
+  {
+   "id": "L5U06-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Have you ever ___ to Hanoi?",
+   "item": "been",
+   "options": [
+    "skyscraper",
+    "population",
+    "been"
+   ],
+   "answer": "been"
+  },
+  {
+   "id": "L5U06-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ___ a volcano on TV.",
+   "item": "seen",
+   "options": [
+    "tradition",
+    "seen",
+    "photograph"
+   ],
+   "answer": "seen"
+  },
+  {
+   "id": "L5U06-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad has ___ to work.",
+   "item": "gone",
+   "options": [
+    "gone",
+    "border",
+    "photograph"
+   ],
+   "answer": "gone"
+  },
+  {
+   "id": "L5U06-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ___ my homework.",
+   "item": "done",
+   "options": [
+    "popular",
+    "done",
+    "iceberg"
+   ],
+   "answer": "done"
+  },
+  {
+   "id": "L5U06-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ha Long ___ has many islands.",
+   "item": "bay",
+   "options": [
+    "enormous",
+    "Bay",
+    "limestone"
+   ],
+   "answer": "Bay"
+  },
+  {
+   "id": "L5U06-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very high.",
+   "item": "volcano",
+   "options": [
+    "tradition",
+    "volcano",
+    "erupt"
+   ],
+   "answer": "volcano"
+  },
+  {
+   "id": "L5U06-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A river runs through the ___.",
+   "item": "canyon",
+   "options": [
+    "stream",
+    "tradition",
+    "canyon"
+   ],
+   "answer": "canyon"
+  },
+  {
+   "id": "L5U06-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Asia is the biggest ___.",
+   "item": "continent",
+   "options": [
+    "canyon",
+    "continent",
+    "photograph"
+   ],
+   "answer": "continent"
+  },
+  {
+   "id": "L5U06-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a village in the ___.",
+   "item": "valley",
+   "options": [
+    "tradition",
+    "erupt",
+    "valley"
+   ],
+   "answer": "valley"
+  },
+  {
+   "id": "L5U06-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We climbed to the ___.",
+   "item": "peak",
+   "options": [
+    "been",
+    "bay",
+    "peak"
+   ],
+   "answer": "peak"
+  },
+  {
+   "id": "L5U06-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ in Sa Pa is beautiful.",
+   "item": "landscape",
+   "options": [
+    "popular",
+    "enormous",
+    "landscape"
+   ],
+   "answer": "landscape"
+  },
+  {
+   "id": "L5U06-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We enjoyed the ___ from the train.",
+   "item": "scenery",
+   "options": [
+    "heritage",
+    "scenery",
+    "admire"
+   ],
+   "answer": "scenery"
+  },
+  {
+   "id": "L5U06-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It is one of the ___ of the world.",
+   "item": "wonder",
+   "options": [
+    "wonders",
+    "rares",
+    "deltas"
+   ],
+   "answer": "wonders"
+  },
+  {
+   "id": "L5U06-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hue is a world ___ site.",
+   "item": "heritage",
+   "options": [
+    "heritage",
+    "peak",
+    "skyscraper"
+   ],
+   "answer": "heritage"
+  },
+  {
+   "id": "L5U06-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is a famous ___.",
+   "item": "site",
+   "options": [
+    "length",
+    "site",
+    "bay"
+   ],
+   "answer": "site"
+  },
+  {
+   "id": "L5U06-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The zoo is a popular ___.",
+   "item": "attraction",
+   "options": [
+    "attraction",
+    "admire",
+    "gone"
+   ],
+   "answer": "attraction"
+  },
+  {
+   "id": "L5U06-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The old bridge is a famous ___.",
+   "item": "landmark",
+   "options": [
+    "rare",
+    "enormous",
+    "landmark"
+   ],
+   "answer": "landmark"
+  },
+  {
+   "id": "L5U06-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the city is very large.",
+   "item": "population",
+   "options": [
+    "population",
+    "rare",
+    "erupt"
+   ],
+   "answer": "population"
+  },
+  {
+   "id": "L5U06-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Vietnam has a ___ with China.",
+   "item": "border",
+   "options": [
+    "gone",
+    "seen",
+    "border"
+   ],
+   "answer": "border"
+  },
+  {
+   "id": "L5U06-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ has many parks.",
+   "item": "area",
+   "options": [
+    "delta",
+    "stream",
+    "area"
+   ],
+   "answer": "area"
+  },
+  {
+   "id": "L5U06-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cave is ___.",
+   "item": "enormous",
+   "options": [
+    "landmark",
+    "done",
+    "enormous"
+   ],
+   "answer": "enormous"
+  },
+  {
+   "id": "L5U06-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What is the ___ of the mountain?",
+   "item": "height",
+   "options": [
+    "bay",
+    "delta",
+    "height"
+   ],
+   "answer": "height"
+  },
+  {
+   "id": "L5U06-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the river is four thousand kilometres.",
+   "item": "length",
+   "options": [
+    "tradition",
+    "length",
+    "crowd"
+   ],
+   "answer": "length"
+  },
+  {
+   "id": "L5U06-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This island has ___ animals.",
+   "item": "unique",
+   "options": [
+    "bay",
+    "unique",
+    "crowd"
+   ],
+   "answer": "unique"
+  },
+  {
+   "id": "L5U06-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This flower is very ___.",
+   "item": "rare",
+   "options": [
+    "rare",
+    "population",
+    "gone"
+   ],
+   "answer": "rare"
+  },
+  {
+   "id": "L5U06-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I took a ___ of the waterfall.",
+   "item": "photograph",
+   "options": [
+    "photograph",
+    "delta",
+    "terrace"
+   ],
+   "answer": "photograph"
+  },
+  {
+   "id": "L5U06-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are many ___ in big cities.",
+   "item": "skyscraper",
+   "options": [
+    "skyscrapers",
+    "uniques",
+    "lavas"
+   ],
+   "answer": "skyscrapers"
+  },
+  {
+   "id": "L5U06-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hot ___ comes out of the volcano.",
+   "item": "lava",
+   "options": [
+    "rare",
+    "lava",
+    "wonder"
+   ],
+   "answer": "lava"
+  },
+  {
+   "id": "L5U06-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The volcano ___ last year.",
+   "item": "erupt",
+   "options": [
+    "erupted",
+    "bayed",
+    "uniqued"
+   ],
+   "answer": "erupted"
+  },
+  {
+   "id": "L5U06-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The islands in Ha Long Bay are made of ___.",
+   "item": "limestone",
+   "options": [
+    "lava",
+    "erupt",
+    "limestone"
+   ],
+   "answer": "limestone"
+  },
+  {
+   "id": "L5U06-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rice ___ look like big stairs.",
+   "item": "terrace",
+   "options": [
+    "terraces",
+    "uniques",
+    "volcanos"
+   ],
+   "answer": "terraces"
+  },
+  {
+   "id": "L5U06-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The Mekong ___ has many rivers.",
+   "item": "delta",
+   "options": [
+    "Delta",
+    "heritage",
+    "bay"
+   ],
+   "answer": "Delta"
+  },
+  {
+   "id": "L5U06-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We walked along a small ___.",
+   "item": "stream",
+   "options": [
+    "limestone",
+    "stream",
+    "tradition"
+   ],
+   "answer": "stream"
+  },
+  {
+   "id": "L5U06-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Football is very ___ in Vietnam.",
+   "item": "popular",
+   "options": [
+    "equator",
+    "site",
+    "popular"
+   ],
+   "answer": "popular"
+  },
+  {
+   "id": "L5U06-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ is a huge piece of ice.",
+   "item": "iceberg",
+   "options": [
+    "iceberg",
+    "gone",
+    "stream"
+   ],
+   "answer": "iceberg"
+  },
+  {
+   "id": "L5U06-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's hot near the ___.",
+   "item": "equator",
+   "options": [
+    "equator",
+    "seen",
+    "tradition"
+   ],
+   "answer": "equator"
+  },
+  {
+   "id": "L5U06-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to learn about Japanese ___.",
+   "item": "culture",
+   "options": [
+    "height",
+    "limestone",
+    "culture"
+   ],
+   "answer": "culture"
+  },
+  {
+   "id": "L5U06-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Making sticky rice cakes is a Tet ___.",
+   "item": "tradition",
+   "options": [
+    "population",
+    "unique",
+    "tradition"
+   ],
+   "answer": "tradition"
+  },
+  {
+   "id": "L5U06-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There was a big ___ at the festival.",
+   "item": "crowd",
+   "options": [
+    "unique",
+    "limestone",
+    "crowd"
+   ],
+   "answer": "crowd"
+  },
+  {
+   "id": "L5U06-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ the view from the top.",
+   "item": "admire",
+   "options": [
+    "lengthed",
+    "admired",
+    "limestoned"
+   ],
+   "answer": "admired"
+  },
+  {
+   "id": "L5U06-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The volcano is very high.",
+   "item": "volcano",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U06-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We swam in a hot spring.",
+   "item": "volcano",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U06-Q149",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U06-R01",
+   "text_en": "Where is Ha Long Bay?",
+   "options": [
+    "In Thailand.",
+    "In the north of Vietnam.",
+    "In the south of Vietnam."
+   ],
+   "answer": "In the north of Vietnam."
+  },
+  {
+   "id": "L5U06-Q150",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U06-R01",
+   "text_en": "What are most of the islands made of?",
+   "options": [
+    "Limestone.",
+    "Ice.",
+    "Sand."
+   ],
+   "answer": "Limestone."
+  },
+  {
+   "id": "L5U06-Q151",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U06-R01",
+   "text_en": "What does the legend say made the bay?",
+   "options": [
+    "An emperor.",
+    "A giant.",
+    "A family of dragons."
+   ],
+   "answer": "A family of dragons."
+  },
+  {
+   "id": "L5U06-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "been",
+   "item": "been",
+   "answer": "been"
+  },
+  {
+   "id": "L5U06-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "seen",
+   "item": "seen",
+   "answer": "seen"
+  },
+  {
+   "id": "L5U06-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "gone",
+   "item": "gone",
+   "answer": "gone"
+  },
+  {
+   "id": "L5U06-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "done",
+   "item": "done",
+   "answer": "done"
+  },
+  {
+   "id": "L5U06-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bay",
+   "item": "bay",
+   "answer": "bay"
+  },
+  {
+   "id": "L5U06-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "volcano",
+   "item": "volcano",
+   "answer": "volcano"
+  },
+  {
+   "id": "L5U06-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "canyon",
+   "item": "canyon",
+   "answer": "canyon"
+  },
+  {
+   "id": "L5U06-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "continent",
+   "item": "continent",
+   "answer": "continent"
+  },
+  {
+   "id": "L5U06-Q160",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Have you ever been to Hanoi?",
+   "answer": "Have you ever been to Hanoi?"
+  },
+  {
+   "id": "L5U06-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I have seen a volcano on TV.",
+   "answer": "I have seen a volcano on TV."
+  },
+  {
+   "id": "L5U06-Q162",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Dad has gone to work.",
+   "answer": "Dad has gone to work."
+  }
+ ]
+}

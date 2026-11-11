@@ -1,0 +1,1787 @@
+{
+ "id": "L1U06",
+ "level": 1,
+ "unit": 6,
+ "topic_en": "My clothes",
+ "topic_vi": "Quần áo của bé",
+ "can_do_vi": [
+  "Gọi tên quần áo",
+  "Nói \"I'm wearing ...\""
+ ],
+ "items": [
+  {
+   "id": "L1U06-W01",
+   "type": "word",
+   "en": "clothes",
+   "vi": "quần áo",
+   "ipa": "/kloʊðz/",
+   "syllables": [
+    "clothes"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F45A"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I like my new clothes.",
+   "example_vi": "Tớ thích quần áo mới của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W02",
+   "type": "word",
+   "en": "T-shirt",
+   "vi": "áo phông",
+   "ipa": "/ti ʃʌrt/",
+   "syllables": [
+    "T-shirt"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F455"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I'm wearing a red T-shirt.",
+   "example_vi": "Tớ đang mặc áo phông đỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W03",
+   "type": "word",
+   "en": "shirt",
+   "vi": "áo sơ mi",
+   "ipa": "/ʃʌrt/",
+   "syllables": [
+    "shirt"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F454"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "Dad has a white shirt.",
+   "example_vi": "Bố có áo sơ mi trắng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W04",
+   "type": "word",
+   "en": "dress",
+   "vi": "cái váy",
+   "ipa": "/drɛs/",
+   "syllables": [
+    "dress"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F457"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "She's wearing a pink dress.",
+   "example_vi": "Bạn ấy đang mặc váy hồng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W05",
+   "type": "word",
+   "en": "skirt",
+   "vi": "chân váy",
+   "ipa": "/skʌrt/",
+   "syllables": [
+    "skirt"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FA71"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I have a blue skirt.",
+   "example_vi": "Tớ có chân váy xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W06",
+   "type": "word",
+   "en": "trousers",
+   "vi": "quần dài",
+   "ipa": "/ˈtraʊzərz/",
+   "syllables": [
+    "trousers"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F456"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "He's wearing black trousers.",
+   "example_vi": "Bạn ấy đang mặc quần dài đen.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W07",
+   "type": "word",
+   "en": "shorts",
+   "vi": "quần đùi",
+   "ipa": "/ʃɔrts/",
+   "syllables": [
+    "shorts"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FA73"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I'm wearing shorts.",
+   "example_vi": "Tớ đang mặc quần đùi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W08",
+   "type": "word",
+   "en": "jacket",
+   "vi": "áo khoác",
+   "ipa": "/ˈdʒækɪt/",
+   "syllables": [
+    "jack",
+    "et"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F9E5"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "It's cold. Wear your jacket.",
+   "example_vi": "Trời lạnh. Mặc áo khoác vào nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W09",
+   "type": "word",
+   "en": "shoes",
+   "vi": "đôi giày",
+   "ipa": "/ʃuz/",
+   "syllables": [
+    "shoes"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F45F"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "Where are my shoes?",
+   "example_vi": "Giày của tớ đâu rồi?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W10",
+   "type": "word",
+   "en": "socks",
+   "vi": "đôi tất",
+   "ipa": "/sɑks/",
+   "syllables": [
+    "socks"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9E6"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I have yellow socks.",
+   "example_vi": "Tớ có đôi tất vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W11",
+   "type": "word",
+   "en": "boots",
+   "vi": "đôi ủng",
+   "ipa": "/buts/",
+   "syllables": [
+    "boots"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F97E"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I'm wearing my boots.",
+   "example_vi": "Tớ đang đi ủng.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W12",
+   "type": "word",
+   "en": "cap",
+   "vi": "mũ lưỡi trai",
+   "ipa": "/kæp/",
+   "syllables": [
+    "cap"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F9E2"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I have a green cap.",
+   "example_vi": "Tớ có mũ lưỡi trai xanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W13",
+   "type": "word",
+   "en": "scarf",
+   "vi": "khăn quàng",
+   "ipa": "/skɑrf/",
+   "syllables": [
+    "scarf"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9E3"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "The scarf is long.",
+   "example_vi": "Cái khăn dài.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W14",
+   "type": "word",
+   "en": "glasses",
+   "vi": "kính mắt",
+   "ipa": "/ˈɡlæsɪz/",
+   "syllables": [
+    "glass",
+    "es"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F453"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "Grandpa has glasses.",
+   "example_vi": "Ông đeo kính.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W15",
+   "type": "word",
+   "en": "pocket",
+   "vi": "cái túi (quần áo)",
+   "ipa": "/ˈpɑkət/",
+   "syllables": [
+    "pock",
+    "et"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F45D"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "The key is in my pocket.",
+   "example_vi": "Chìa khoá ở trong túi tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W16",
+   "type": "word",
+   "en": "wear",
+   "vi": "mặc, đội, đi",
+   "ipa": "/wɛr/",
+   "syllables": [
+    "wear"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9CD-200D-2642-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "I wear a hat.",
+   "example_vi": "Tớ đội mũ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W17",
+   "type": "phrase",
+   "en": "put on",
+   "vi": "mặc vào",
+   "ipa": "/pʊt ɔn/",
+   "syllables": [
+    "put",
+    "on"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "Put on your shoes.",
+   "example_vi": "Đi giày vào nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W18",
+   "type": "phrase",
+   "en": "take off",
+   "vi": "cởi ra",
+   "ipa": "/teɪk ɔf/",
+   "syllables": [
+    "take",
+    "off"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2796"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "Take off your jacket.",
+   "example_vi": "Cởi áo khoác ra nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U06-W19",
+   "type": "word",
+   "en": "clean",
+   "vi": "sạch",
+   "ipa": "/klin/",
+   "syllables": [
+    "clean"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FAE7"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "My shirt is clean.",
+   "example_vi": "Áo sơ mi của tớ sạch.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U06-W20",
+   "type": "word",
+   "en": "dirty",
+   "vi": "bẩn",
+   "ipa": "/ˈdʌrti/",
+   "syllables": [
+    "dirty"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4A9"
+   },
+   "picturable": true,
+   "cat": "L1U06",
+   "example_en": "My shoes are dirty.",
+   "example_vi": "Giày của tớ bẩn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U06-P01",
+   "en": "I'm wearing a {x}.",
+   "vi": "Tớ đang mặc {x}.",
+   "slots": {
+    "x": [
+     "T-shirt",
+     "dress",
+     "jacket",
+     "skirt"
+    ]
+   }
+  },
+  {
+   "id": "L1U06-P02",
+   "en": "Put on your {x}.",
+   "vi": "Mặc {x} vào nào.",
+   "slots": {
+    "x": [
+     "shoes",
+     "socks",
+     "jacket",
+     "cap"
+    ]
+   }
+  },
+  {
+   "id": "L1U06-P03",
+   "en": "Where are my {x}?",
+   "vi": "{x} của tớ đâu?",
+   "slots": {
+    "x": [
+     "shoes",
+     "socks",
+     "boots",
+     "glasses"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U06-D01",
+   "title_vi": "Mặc gì hôm nay",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you wearing?",
+     "vi": "Cậu đang mặc gì thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm wearing a red T-shirt.",
+     "vi": "Tớ đang mặc áo phông đỏ."
+    },
+    {
+     "role": "Bi",
+     "en": "I like your T-shirt!",
+     "vi": "Tớ thích áo của cậu!"
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you! It's new.",
+     "vi": "Cảm ơn cậu! Áo mới đấy."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "T-shirt",
+    "options": [
+     "dress",
+     "jacket"
+    ]
+   }
+  },
+  {
+   "id": "L1U06-D02",
+   "title_vi": "Tìm giày",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Where are my shoes?",
+     "vi": "Giày của tớ đâu rồi?"
+    },
+    {
+     "role": "Bi",
+     "en": "Are they under the bed?",
+     "vi": "Chúng có ở dưới giường không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! Oh no, they are dirty.",
+     "vi": "Có! Ôi không, chúng bẩn rồi."
+    },
+    {
+     "role": "Bi",
+     "en": "Put on your boots.",
+     "vi": "Thế cậu đi ủng vào đi."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "shoes",
+    "options": [
+     "socks",
+     "boots"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "c"
+  },
+  {
+   "type": "write_letter",
+   "target": "t"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "d"
+  },
+  {
+   "type": "copy_word",
+   "target": "shirt"
+  },
+  {
+   "type": "copy_word",
+   "target": "dress"
+  },
+  {
+   "type": "copy_word",
+   "target": "skirt"
+  },
+  {
+   "type": "copy_word",
+   "target": "shorts"
+  },
+  {
+   "type": "copy_word",
+   "target": "jacket"
+  },
+  {
+   "type": "copy_word",
+   "target": "shoes"
+  },
+  {
+   "type": "copy_word",
+   "target": "socks"
+  },
+  {
+   "type": "copy_word",
+   "target": "boots"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U06-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clothes",
+   "item": "clothes",
+   "options": [
+    "cap",
+    "skirt",
+    "socks",
+    "clothes"
+   ],
+   "answer": "clothes"
+  },
+  {
+   "id": "L1U06-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "T-shirt",
+   "item": "T-shirt",
+   "options": [
+    "jacket",
+    "glasses",
+    "T-shirt",
+    "shoes"
+   ],
+   "answer": "T-shirt"
+  },
+  {
+   "id": "L1U06-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shirt",
+   "item": "shirt",
+   "options": [
+    "shoes",
+    "shirt",
+    "cap",
+    "socks"
+   ],
+   "answer": "shirt"
+  },
+  {
+   "id": "L1U06-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dress",
+   "item": "dress",
+   "options": [
+    "pocket",
+    "dress",
+    "wear",
+    "scarf"
+   ],
+   "answer": "dress"
+  },
+  {
+   "id": "L1U06-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "skirt",
+   "item": "skirt",
+   "options": [
+    "cap",
+    "shorts",
+    "skirt",
+    "T-shirt"
+   ],
+   "answer": "skirt"
+  },
+  {
+   "id": "L1U06-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "trousers",
+   "item": "trousers",
+   "options": [
+    "trousers",
+    "cap",
+    "wear",
+    "shoes"
+   ],
+   "answer": "trousers"
+  },
+  {
+   "id": "L1U06-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shorts",
+   "item": "shorts",
+   "options": [
+    "T-shirt",
+    "scarf",
+    "clean",
+    "shorts"
+   ],
+   "answer": "shorts"
+  },
+  {
+   "id": "L1U06-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "jacket",
+   "item": "jacket",
+   "options": [
+    "take off",
+    "jacket",
+    "dress",
+    "T-shirt"
+   ],
+   "answer": "jacket"
+  },
+  {
+   "id": "L1U06-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shoes",
+   "item": "shoes",
+   "options": [
+    "boots",
+    "shoes",
+    "clothes",
+    "take off"
+   ],
+   "answer": "shoes"
+  },
+  {
+   "id": "L1U06-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "socks",
+   "item": "socks",
+   "options": [
+    "boots",
+    "clean",
+    "socks",
+    "dirty"
+   ],
+   "answer": "socks"
+  },
+  {
+   "id": "L1U06-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "boots",
+   "item": "boots",
+   "options": [
+    "take off",
+    "clean",
+    "socks",
+    "boots"
+   ],
+   "answer": "boots"
+  },
+  {
+   "id": "L1U06-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cap",
+   "item": "cap",
+   "options": [
+    "shirt",
+    "cap",
+    "glasses",
+    "put on"
+   ],
+   "answer": "cap"
+  },
+  {
+   "id": "L1U06-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "scarf",
+   "item": "scarf",
+   "options": [
+    "jacket",
+    "scarf",
+    "dirty",
+    "put on"
+   ],
+   "answer": "scarf"
+  },
+  {
+   "id": "L1U06-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "glasses",
+   "item": "glasses",
+   "options": [
+    "take off",
+    "scarf",
+    "skirt",
+    "glasses"
+   ],
+   "answer": "glasses"
+  },
+  {
+   "id": "L1U06-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pocket",
+   "item": "pocket",
+   "options": [
+    "boots",
+    "jacket",
+    "pocket",
+    "glasses"
+   ],
+   "answer": "pocket"
+  },
+  {
+   "id": "L1U06-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wear",
+   "item": "wear",
+   "options": [
+    "wear",
+    "clothes",
+    "socks",
+    "clean"
+   ],
+   "answer": "wear"
+  },
+  {
+   "id": "L1U06-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "put on",
+   "item": "put on",
+   "options": [
+    "put on",
+    "dress",
+    "wear",
+    "skirt"
+   ],
+   "answer": "put on"
+  },
+  {
+   "id": "L1U06-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "take off",
+   "item": "take off",
+   "options": [
+    "dress",
+    "take off",
+    "shorts",
+    "pocket"
+   ],
+   "answer": "take off"
+  },
+  {
+   "id": "L1U06-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clean",
+   "item": "clean",
+   "options": [
+    "clean",
+    "dress",
+    "socks",
+    "skirt"
+   ],
+   "answer": "clean"
+  },
+  {
+   "id": "L1U06-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dirty",
+   "item": "dirty",
+   "options": [
+    "socks",
+    "dirty",
+    "scarf",
+    "cap"
+   ],
+   "answer": "dirty"
+  },
+  {
+   "id": "L1U06-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the clothes orange.",
+   "item": "clothes",
+   "options": [
+    "jacket",
+    "glasses",
+    "clothes"
+   ],
+   "answer": "clothes",
+   "color": "orange"
+  },
+  {
+   "id": "L1U06-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the T-shirt blue.",
+   "item": "T-shirt",
+   "options": [
+    "T-shirt",
+    "pocket",
+    "dirty"
+   ],
+   "answer": "T-shirt",
+   "color": "blue"
+  },
+  {
+   "id": "L1U06-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the shirt red.",
+   "item": "shirt",
+   "options": [
+    "shirt",
+    "shoes",
+    "skirt"
+   ],
+   "answer": "shirt",
+   "color": "red"
+  },
+  {
+   "id": "L1U06-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the dress yellow.",
+   "item": "dress",
+   "options": [
+    "T-shirt",
+    "socks",
+    "dress"
+   ],
+   "answer": "dress",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U06-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clothes",
+   "answer": "clothes"
+  },
+  {
+   "id": "L1U06-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "T-shirt",
+   "answer": "T-shirt"
+  },
+  {
+   "id": "L1U06-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shirt",
+   "answer": "shirt"
+  },
+  {
+   "id": "L1U06-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dress",
+   "answer": "dress"
+  },
+  {
+   "id": "L1U06-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "skirt",
+   "answer": "skirt"
+  },
+  {
+   "id": "L1U06-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "trousers",
+   "answer": "trousers"
+  },
+  {
+   "id": "L1U06-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shorts",
+   "answer": "shorts"
+  },
+  {
+   "id": "L1U06-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "jacket",
+   "answer": "jacket"
+  },
+  {
+   "id": "L1U06-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shoes",
+   "answer": "shoes"
+  },
+  {
+   "id": "L1U06-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "socks",
+   "answer": "socks"
+  },
+  {
+   "id": "L1U06-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "boots",
+   "answer": "boots"
+  },
+  {
+   "id": "L1U06-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cap",
+   "answer": "cap"
+  },
+  {
+   "id": "L1U06-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "scarf",
+   "answer": "scarf"
+  },
+  {
+   "id": "L1U06-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "glasses",
+   "answer": "glasses"
+  },
+  {
+   "id": "L1U06-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pocket",
+   "answer": "pocket"
+  },
+  {
+   "id": "L1U06-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wear",
+   "answer": "wear"
+  },
+  {
+   "id": "L1U06-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "put on",
+   "answer": "put on"
+  },
+  {
+   "id": "L1U06-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "take off",
+   "answer": "take off"
+  },
+  {
+   "id": "L1U06-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clean",
+   "answer": "clean"
+  },
+  {
+   "id": "L1U06-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dirty",
+   "answer": "dirty"
+  },
+  {
+   "id": "L1U06-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like my new clothes.",
+   "item": "clothes",
+   "answer": "I like my new clothes."
+  },
+  {
+   "id": "L1U06-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing a red T-shirt.",
+   "item": "T-shirt",
+   "answer": "I'm wearing a red T-shirt."
+  },
+  {
+   "id": "L1U06-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad has a white shirt.",
+   "item": "shirt",
+   "answer": "Dad has a white shirt."
+  },
+  {
+   "id": "L1U06-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She's wearing a pink dress.",
+   "item": "dress",
+   "answer": "She's wearing a pink dress."
+  },
+  {
+   "id": "L1U06-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a blue skirt.",
+   "item": "skirt",
+   "answer": "I have a blue skirt."
+  },
+  {
+   "id": "L1U06-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He's wearing black trousers.",
+   "item": "trousers",
+   "answer": "He's wearing black trousers."
+  },
+  {
+   "id": "L1U06-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing shorts.",
+   "item": "shorts",
+   "answer": "I'm wearing shorts."
+  },
+  {
+   "id": "L1U06-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cold. Wear your jacket.",
+   "item": "jacket",
+   "answer": "It's cold. Wear your jacket."
+  },
+  {
+   "id": "L1U06-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where are my shoes?",
+   "item": "shoes",
+   "answer": "Where are my shoes?"
+  },
+  {
+   "id": "L1U06-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have yellow socks.",
+   "item": "socks",
+   "answer": "I have yellow socks."
+  },
+  {
+   "id": "L1U06-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing my boots.",
+   "item": "boots",
+   "answer": "I'm wearing my boots."
+  },
+  {
+   "id": "L1U06-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a green cap.",
+   "item": "cap",
+   "answer": "I have a green cap."
+  },
+  {
+   "id": "L1U06-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The scarf is long.",
+   "item": "scarf",
+   "answer": "The scarf is long."
+  },
+  {
+   "id": "L1U06-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa has glasses.",
+   "item": "glasses",
+   "answer": "Grandpa has glasses."
+  },
+  {
+   "id": "L1U06-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The key is in my pocket.",
+   "item": "pocket",
+   "answer": "The key is in my pocket."
+  },
+  {
+   "id": "L1U06-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wear a hat.",
+   "item": "wear",
+   "answer": "I wear a hat."
+  },
+  {
+   "id": "L1U06-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your shoes.",
+   "item": "put on",
+   "answer": "Put on your shoes."
+  },
+  {
+   "id": "L1U06-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Take off your jacket.",
+   "item": "take off",
+   "answer": "Take off your jacket."
+  },
+  {
+   "id": "L1U06-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My shirt is clean.",
+   "item": "clean",
+   "answer": "My shirt is clean."
+  },
+  {
+   "id": "L1U06-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My shoes are dirty.",
+   "item": "dirty",
+   "answer": "My shoes are dirty."
+  },
+  {
+   "id": "L1U06-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing a T-shirt.",
+   "answer": "I'm wearing a T-shirt."
+  },
+  {
+   "id": "L1U06-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing a dress.",
+   "answer": "I'm wearing a dress."
+  },
+  {
+   "id": "L1U06-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm wearing a jacket.",
+   "answer": "I'm wearing a jacket."
+  },
+  {
+   "id": "L1U06-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your shoes.",
+   "answer": "Put on your shoes."
+  },
+  {
+   "id": "L1U06-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your socks.",
+   "answer": "Put on your socks."
+  },
+  {
+   "id": "L1U06-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your jacket.",
+   "answer": "Put on your jacket."
+  },
+  {
+   "id": "L1U06-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where are my shoes?",
+   "answer": "Where are my shoes?"
+  },
+  {
+   "id": "L1U06-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where are my socks?",
+   "answer": "Where are my socks?"
+  },
+  {
+   "id": "L1U06-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where are my boots?",
+   "answer": "Where are my boots?"
+  },
+  {
+   "id": "L1U06-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you wearing?",
+   "answer": "I'm wearing a red T-shirt."
+  },
+  {
+   "id": "L1U06-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where are my shoes?",
+   "answer": "Are they under the bed?"
+  },
+  {
+   "id": "L1U06-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are they under the bed?",
+   "answer": "Yes! Oh no, they are dirty."
+  },
+  {
+   "id": "L1U06-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clothes",
+   "options": [
+    "clothes",
+    "socks",
+    "jacket"
+   ],
+   "answer": "clothes"
+  },
+  {
+   "id": "L1U06-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "T-shirt",
+   "options": [
+    "shorts",
+    "T-shirt",
+    "scarf"
+   ],
+   "answer": "T-shirt"
+  },
+  {
+   "id": "L1U06-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shirt",
+   "options": [
+    "shirt",
+    "shorts",
+    "clothes"
+   ],
+   "answer": "shirt"
+  },
+  {
+   "id": "L1U06-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dress",
+   "options": [
+    "shirt",
+    "cap",
+    "dress"
+   ],
+   "answer": "dress"
+  },
+  {
+   "id": "L1U06-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "skirt",
+   "options": [
+    "shoes",
+    "skirt",
+    "clean"
+   ],
+   "answer": "skirt"
+  },
+  {
+   "id": "L1U06-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "trousers",
+   "options": [
+    "trousers",
+    "shoes",
+    "pocket"
+   ],
+   "answer": "trousers"
+  },
+  {
+   "id": "L1U06-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shorts",
+   "options": [
+    "shirt",
+    "shorts",
+    "jacket"
+   ],
+   "answer": "shorts"
+  },
+  {
+   "id": "L1U06-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "jacket",
+   "options": [
+    "dirty",
+    "jacket",
+    "T-shirt"
+   ],
+   "answer": "jacket"
+  },
+  {
+   "id": "L1U06-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shoes",
+   "options": [
+    "shoes",
+    "dress",
+    "put on"
+   ],
+   "answer": "shoes"
+  },
+  {
+   "id": "L1U06-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "socks",
+   "options": [
+    "pocket",
+    "wear",
+    "socks"
+   ],
+   "answer": "socks"
+  },
+  {
+   "id": "L1U06-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "boots",
+   "options": [
+    "boots",
+    "wear",
+    "skirt"
+   ],
+   "answer": "boots"
+  },
+  {
+   "id": "L1U06-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cap",
+   "options": [
+    "cap",
+    "take off",
+    "clean"
+   ],
+   "answer": "cap"
+  },
+  {
+   "id": "L1U06-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "scarf",
+   "options": [
+    "scarf",
+    "shirt",
+    "dirty"
+   ],
+   "answer": "scarf"
+  },
+  {
+   "id": "L1U06-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "glasses",
+   "options": [
+    "scarf",
+    "skirt",
+    "glasses"
+   ],
+   "answer": "glasses"
+  },
+  {
+   "id": "L1U06-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pocket",
+   "options": [
+    "shoes",
+    "put on",
+    "pocket"
+   ],
+   "answer": "pocket"
+  },
+  {
+   "id": "L1U06-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wear",
+   "options": [
+    "wear",
+    "cap",
+    "dress"
+   ],
+   "answer": "wear"
+  },
+  {
+   "id": "L1U06-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "put on",
+   "options": [
+    "socks",
+    "put on",
+    "skirt"
+   ],
+   "answer": "put on"
+  },
+  {
+   "id": "L1U06-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "take off",
+   "options": [
+    "wear",
+    "shirt",
+    "take off"
+   ],
+   "answer": "take off"
+  },
+  {
+   "id": "L1U06-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clean",
+   "options": [
+    "clean",
+    "put on",
+    "dirty"
+   ],
+   "answer": "clean"
+  },
+  {
+   "id": "L1U06-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dirty",
+   "options": [
+    "skirt",
+    "dirty",
+    "jacket"
+   ],
+   "answer": "dirty"
+  },
+  {
+   "id": "L1U06-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "c",
+   "answer": "c"
+  },
+  {
+   "id": "L1U06-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "t",
+   "answer": "t"
+  },
+  {
+   "id": "L1U06-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U06-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "d",
+   "answer": "d"
+  },
+  {
+   "id": "L1U06-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "shirt",
+   "answer": "shirt"
+  },
+  {
+   "id": "L1U06-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "dress",
+   "answer": "dress"
+  },
+  {
+   "id": "L1U06-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "skirt",
+   "answer": "skirt"
+  },
+  {
+   "id": "L1U06-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "shorts",
+   "answer": "shorts"
+  },
+  {
+   "id": "L1U06-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "jacket",
+   "answer": "jacket"
+  },
+  {
+   "id": "L1U06-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "shoes",
+   "answer": "shoes"
+  },
+  {
+   "id": "L1U06-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "socks",
+   "answer": "socks"
+  },
+  {
+   "id": "L1U06-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "boots",
+   "answer": "boots"
+  }
+ ]
+}

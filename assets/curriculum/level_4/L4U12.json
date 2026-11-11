@@ -1,0 +1,2889 @@
+{
+ "id": "L4U12",
+ "level": 4,
+ "unit": 12,
+ "topic_en": "Friendship",
+ "topic_vi": "Tình bạn",
+ "can_do_vi": [
+  "Nói về phẩm chất của một người bạn tốt",
+  "Xin lỗi, tha thứ và làm lành với bạn"
+ ],
+ "grammar_note_vi": "Xin lỗi: \"I'm sorry I broke your pencil.\" Đáp lại: \"That's okay.\" / \"Don't worry about it.\" Mượn đồ dùng \"borrow\": \"Can I borrow your ruler?\" Cho mượn dùng \"lend\": \"Can you lend me your ruler?\"",
+ "items": [
+  {
+   "id": "L4U12-W01",
+   "type": "word",
+   "en": "friendship",
+   "vi": "tình bạn",
+   "ipa": "/ˈfrɛndʃɪp/",
+   "syllables": [
+    "friend",
+    "ship"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Our friendship is very special.",
+   "example_vi": "Tình bạn của chúng tớ rất đặc biệt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W02",
+   "type": "word",
+   "en": "honest",
+   "vi": "trung thực",
+   "ipa": "/ˈɑnəst/",
+   "syllables": [
+    "hon",
+    "est"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F607"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "An honest person tells the truth.",
+   "example_vi": "Người trung thực luôn nói thật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W03",
+   "type": "word",
+   "en": "generous",
+   "vi": "hào phóng",
+   "ipa": "/ˈdʒɛnərəs/",
+   "syllables": [
+    "generous"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Lan is generous. She shares her snacks.",
+   "example_vi": "Lan rất hào phóng. Bạn ấy chia sẻ đồ ăn vặt.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W04",
+   "type": "word",
+   "en": "selfish",
+   "vi": "ích kỷ",
+   "ipa": "/ˈsɛlfɪʃ/",
+   "syllables": [
+    "self",
+    "ish"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F645"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Don't be selfish. Share your toys.",
+   "example_vi": "Đừng ích kỷ. Chia sẻ đồ chơi đi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W05",
+   "type": "word",
+   "en": "rude",
+   "vi": "thô lỗ, vô lễ",
+   "ipa": "/rud/",
+   "syllables": [
+    "rude"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F61B"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "It's rude to shout at people.",
+   "example_vi": "Hét vào người khác là vô lễ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W06",
+   "type": "word",
+   "en": "patient",
+   "vi": "kiên nhẫn",
+   "ipa": "/ˈpeɪʃənt/",
+   "syllables": [
+    "pa",
+    "tient"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Be patient and wait your turn.",
+   "example_vi": "Hãy kiên nhẫn chờ đến lượt.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W07",
+   "type": "word",
+   "en": "loyal",
+   "vi": "trung thành",
+   "ipa": "/lɔɪʌl/",
+   "syllables": [
+    "loyal"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F415"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "A good friend is loyal.",
+   "example_vi": "Một người bạn tốt thì trung thành.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W08",
+   "type": "word",
+   "en": "caring",
+   "vi": "biết quan tâm",
+   "ipa": "/ˈkɛrɪŋ/",
+   "syllables": [
+    "car",
+    "ing"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F917"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "My sister is very caring.",
+   "example_vi": "Chị tớ rất biết quan tâm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W09",
+   "type": "word",
+   "en": "cheerful",
+   "vi": "vui vẻ",
+   "ipa": "/ˈtʃɪrfəl/",
+   "syllables": [
+    "cheer",
+    "ful"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F604"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Ben is always cheerful.",
+   "example_vi": "Ben lúc nào cũng vui vẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W10",
+   "type": "word",
+   "en": "bossy",
+   "vi": "hống hách",
+   "ipa": "/ˈbɔsi/",
+   "syllables": [
+    "bossy"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Don't be bossy. Let your friends choose too.",
+   "example_vi": "Đừng hống hách. Để các bạn cùng chọn nữa.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W11",
+   "type": "word",
+   "en": "mean",
+   "vi": "xấu tính",
+   "ipa": "/min/",
+   "syllables": [
+    "mean"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F620"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "It was mean to laugh at him.",
+   "example_vi": "Cười nhạo bạn ấy là xấu tính.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W12",
+   "type": "word",
+   "en": "argue",
+   "vi": "cãi nhau",
+   "ipa": "/ˈɑrɡju/",
+   "syllables": [
+    "ar",
+    "gue"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F5EF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "My brother and I sometimes argue.",
+   "example_vi": "Anh tớ và tớ thỉnh thoảng cãi nhau.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W13",
+   "type": "word",
+   "en": "apologise",
+   "vi": "xin lỗi",
+   "ipa": "/əˈpɑləˌdʒaɪz/",
+   "syllables": [
+    "apologise"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F647"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "You should apologise to your friend.",
+   "example_vi": "Cậu nên xin lỗi bạn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W14",
+   "type": "word",
+   "en": "forgive",
+   "vi": "tha thứ",
+   "ipa": "/fərˈɡɪv/",
+   "syllables": [
+    "for",
+    "give"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F497"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "I forgive you. Let's be friends again.",
+   "example_vi": "Tớ tha thứ cho cậu. Mình lại làm bạn nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W15",
+   "type": "word",
+   "en": "trust",
+   "vi": "tin tưởng",
+   "ipa": "/trʌst/",
+   "syllables": [
+    "trust"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F91E"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "I trust my best friend.",
+   "example_vi": "Tớ tin bạn thân của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W16",
+   "type": "word",
+   "en": "borrow",
+   "vi": "mượn",
+   "ipa": "/ˈbɑˌroʊ/",
+   "syllables": [
+    "bor",
+    "row"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4E5"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Can I borrow your ruler?",
+   "example_vi": "Tớ mượn thước của cậu được không?",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W17",
+   "type": "word",
+   "en": "lend",
+   "vi": "cho mượn",
+   "ipa": "/lɛnd/",
+   "syllables": [
+    "lend"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4E4"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Can you lend me a pencil?",
+   "example_vi": "Cậu cho tớ mượn bút chì được không?",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W18",
+   "type": "word",
+   "en": "keep",
+   "vi": "giữ",
+   "ipa": "/kip/",
+   "syllables": [
+    "keep"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F512"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Can you keep a secret?",
+   "example_vi": "Cậu giữ bí mật được không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W19",
+   "type": "word",
+   "en": "support",
+   "vi": "ủng hộ, giúp đỡ",
+   "ipa": "/səˈpɔrt/",
+   "syllables": [
+    "sup",
+    "port"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FAC2"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Friends support each other.",
+   "example_vi": "Bạn bè luôn giúp đỡ nhau.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W20",
+   "type": "word",
+   "en": "encourage",
+   "vi": "động viên",
+   "ipa": "/ɪnˈkʌrədʒ/",
+   "syllables": [
+    "encourage"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4E3"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "My friends encourage me in races.",
+   "example_vi": "Các bạn động viên tớ khi thi chạy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W21",
+   "type": "word",
+   "en": "tease",
+   "vi": "trêu chọc",
+   "ipa": "/tiz/",
+   "syllables": [
+    "tease"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F61C"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Don't tease your little brother.",
+   "example_vi": "Đừng trêu em trai.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W22",
+   "type": "word",
+   "en": "bully",
+   "vi": "bắt nạt",
+   "ipa": "/ˈbʊli/",
+   "syllables": [
+    "bul",
+    "ly"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F620"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "If someone bullies you, tell a teacher.",
+   "example_vi": "Nếu ai bắt nạt con, hãy nói với cô giáo.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W23",
+   "type": "phrase",
+   "en": "fall out",
+   "vi": "giận nhau",
+   "ipa": "/fɔl aʊt/",
+   "syllables": [
+    "fall",
+    "out"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F494"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "We fell out, but now we are friends again.",
+   "example_vi": "Bọn tớ đã giận nhau, nhưng giờ lại là bạn rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W24",
+   "type": "phrase",
+   "en": "make up",
+   "vi": "làm lành",
+   "ipa": "/meɪk ʌp/",
+   "syllables": [
+    "make",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "They made up after the argument.",
+   "example_vi": "Họ làm lành sau trận cãi nhau.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W25",
+   "type": "phrase",
+   "en": "get along",
+   "vi": "hoà hợp",
+   "ipa": "/ɡɪt əˈlɔŋ/",
+   "syllables": [
+    "get",
+    "along"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F60A"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "I get along well with my classmates.",
+   "example_vi": "Tớ hoà hợp với các bạn cùng lớp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W26",
+   "type": "word",
+   "en": "include",
+   "vi": "cho tham gia",
+   "ipa": "/ˌɪnˈklud/",
+   "syllables": [
+    "in",
+    "clude"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Let's include the new girl in our game.",
+   "example_vi": "Mình cho bạn gái mới chơi cùng nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W27",
+   "type": "word",
+   "en": "ignore",
+   "vi": "phớt lờ",
+   "ipa": "/ˌɪɡˈnɔr/",
+   "syllables": [
+    "ig",
+    "nore"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F649"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Don't ignore your friend when she talks.",
+   "example_vi": "Đừng phớt lờ khi bạn đang nói.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W28",
+   "type": "phrase",
+   "en": "in common",
+   "vi": "có điểm chung",
+   "ipa": "/ɪn ˈkɑmən/",
+   "syllables": [
+    "in",
+    "com",
+    "mon"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F7F0"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "We have a lot in common. We both love dogs.",
+   "example_vi": "Bọn tớ có nhiều điểm chung. Cả hai đều thích chó.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W29",
+   "type": "word",
+   "en": "kindness",
+   "vi": "lòng tốt",
+   "ipa": "/ˈkaɪndnəs/",
+   "syllables": [
+    "kind",
+    "ness"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F49D"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Thank you for your kindness.",
+   "example_vi": "Cảm ơn lòng tốt của cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W30",
+   "type": "word",
+   "en": "unfair",
+   "vi": "không công bằng",
+   "ipa": "/ˌɔnˈfɛr/",
+   "syllables": [
+    "un",
+    "fair"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "It's unfair! It's my turn!",
+   "example_vi": "Không công bằng! Đến lượt tớ mà!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W31",
+   "type": "phrase",
+   "en": "take turns",
+   "vi": "thay phiên nhau",
+   "ipa": "/teɪk tʌrnz/",
+   "syllables": [
+    "take",
+    "turns"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Let's take turns on the swing.",
+   "example_vi": "Mình thay phiên nhau chơi xích đu nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W32",
+   "type": "phrase",
+   "en": "each other",
+   "vi": "lẫn nhau",
+   "ipa": "/itʃ ˈʌðər/",
+   "syllables": [
+    "each",
+    "oth",
+    "er"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Good friends help each other.",
+   "example_vi": "Bạn tốt giúp đỡ lẫn nhau.",
+   "pron_focus": [
+    "th_sound",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W33",
+   "type": "word",
+   "en": "someone",
+   "vi": "ai đó",
+   "ipa": "/ˈsʌmˌwən/",
+   "syllables": [
+    "some",
+    "one"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F464"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Someone is at the door.",
+   "example_vi": "Có ai đó ở cửa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W34",
+   "type": "word",
+   "en": "everyone",
+   "vi": "mọi người",
+   "ipa": "/ˈɛvriˌwən/",
+   "syllables": [
+    "ev",
+    "ery",
+    "one"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Everyone loves Grandma's cake.",
+   "example_vi": "Mọi người đều thích bánh của bà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W35",
+   "type": "word",
+   "en": "nobody",
+   "vi": "không ai",
+   "ipa": "/ˈnoʊˌbɑˌdi/",
+   "syllables": [
+    "nobody"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Nobody knows the answer.",
+   "example_vi": "Không ai biết câu trả lời.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W36",
+   "type": "word",
+   "en": "anyone",
+   "vi": "bất kỳ ai",
+   "ipa": "/ˈɛniˌwən/",
+   "syllables": [
+    "anyone"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2754"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Is anyone at home?",
+   "example_vi": "Có ai ở nhà không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W37",
+   "type": "word",
+   "en": "something",
+   "vi": "cái gì đó",
+   "ipa": "/ˈsʌmθɪŋ/",
+   "syllables": [
+    "some",
+    "thing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "I want to tell you something.",
+   "example_vi": "Tớ muốn nói với cậu một điều.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W38",
+   "type": "word",
+   "en": "nothing",
+   "vi": "không có gì",
+   "ipa": "/ˈnʌθɪŋ/",
+   "syllables": [
+    "noth",
+    "ing"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1FAD9"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "There is nothing in the box.",
+   "example_vi": "Trong hộp không có gì.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W39",
+   "type": "word",
+   "en": "everything",
+   "vi": "mọi thứ",
+   "ipa": "/ˈɛvriˌθɪŋ/",
+   "syllables": [
+    "ev",
+    "ery",
+    "thing"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F310"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Thank you for everything!",
+   "example_vi": "Cảm ơn cậu vì tất cả!",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U12-W40",
+   "type": "word",
+   "en": "anything",
+   "vi": "bất cứ thứ gì",
+   "ipa": "/ˈɛniˌθɪŋ/",
+   "syllables": [
+    "anything"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L4U12",
+   "example_en": "Do you need anything?",
+   "example_vi": "Cậu có cần gì không?",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U12-P01",
+   "en": "A good friend is {x}.",
+   "vi": "Một người bạn tốt thì {x}.",
+   "slots": {
+    "x": [
+     "honest",
+     "generous",
+     "loyal",
+     "caring"
+    ]
+   }
+  },
+  {
+   "id": "L4U12-P02",
+   "en": "Can I borrow your {x}?",
+   "vi": "Tớ mượn {x} của cậu được không?",
+   "slots": {
+    "x": [
+     "ruler",
+     "pencil",
+     "rubber",
+     "scissors"
+    ]
+   }
+  },
+  {
+   "id": "L4U12-P03",
+   "en": "I'm sorry I {x}.",
+   "vi": "Tớ xin lỗi vì đã {x}.",
+   "slots": {
+    "x": [
+     "broke your pencil",
+     "was rude",
+     "lost your book",
+     "teased you"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U12-D01",
+   "title_vi": "Xin lỗi bạn",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, I'm sorry. I broke your pencil.",
+     "vi": "Bi ơi, tớ xin lỗi. Tớ làm gãy bút chì của cậu rồi."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh! That was my favourite pencil.",
+     "vi": "Ôi! Đó là bút chì tớ thích nhất."
+    },
+    {
+     "role": "Kid",
+     "en": "I know. It was an accident. You can have my new one.",
+     "vi": "Tớ biết. Tớ không cố ý. Cậu lấy cái mới của tớ nhé."
+    },
+    {
+     "role": "Bi",
+     "en": "That's very kind. Don't worry about it.",
+     "vi": "Cậu tốt quá. Đừng lo nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Are we still friends?",
+     "vi": "Mình vẫn là bạn chứ?"
+    },
+    {
+     "role": "Bi",
+     "en": "Of course! Best friends!",
+     "vi": "Tất nhiên rồi! Bạn thân mà!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "pencil",
+    "options": [
+     "ruler",
+     "crayon"
+    ]
+   }
+  },
+  {
+   "id": "L4U12-D02",
+   "title_vi": "Bạn mới",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Look, the new boy is alone.",
+     "vi": "Nhìn kìa, bạn trai mới đang ngồi một mình."
+    },
+    {
+     "role": "Kid",
+     "en": "Let's include him in our game.",
+     "vi": "Mình rủ bạn ấy chơi cùng đi."
+    },
+    {
+     "role": "Bi",
+     "en": "Good idea. Hi! Do you want to play with us?",
+     "vi": "Ý hay. Chào cậu! Cậu muốn chơi với bọn tớ không?"
+    },
+    {
+     "role": "Kid",
+     "en": "We can take turns. You go first!",
+     "vi": "Mình thay phiên nhau. Cậu đi trước nhé!"
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "friendship"
+  },
+  {
+   "type": "dictate_word",
+   "target": "honest"
+  },
+  {
+   "type": "dictate_word",
+   "target": "generous"
+  },
+  {
+   "type": "dictate_word",
+   "target": "selfish"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rude"
+  },
+  {
+   "type": "dictate_word",
+   "target": "patient"
+  },
+  {
+   "type": "dictate_word",
+   "target": "loyal"
+  },
+  {
+   "type": "dictate_word",
+   "target": "caring"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Our friendship is very special."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "An honest person tells the truth."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Lan is generous. She shares her snacks."
+  },
+  {
+   "type": "write_sentences",
+   "target": "A good friend is|My best friend and I|I'm sorry"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U12-R01",
+   "title_en": "Two friends",
+   "text_en": [
+    "Hoa and Mai are best friends.",
+    "They have a lot in common.",
+    "They both love drawing and reading.",
+    "Last week, they fell out.",
+    "Mai borrowed Hoa's new pens and lost one.",
+    "Hoa was upset and said something mean.",
+    "Mai felt sad, and the two girls didn't talk for two days.",
+    "Then Mai decided to apologise.",
+    "She bought Hoa a new pen with her pocket money.",
+    "Hoa said sorry too, because she was rude.",
+    "They forgave each other and made up.",
+    "Now they know that good friends are honest and kind, and they say sorry when they make mistakes."
+   ],
+   "questions": [
+    {
+     "q": "What do Hoa and Mai both love?",
+     "options": [
+      "Drawing and reading.",
+      "Dancing and singing.",
+      "Football."
+     ],
+     "answer": "Drawing and reading."
+    },
+    {
+     "q": "Why was Hoa upset?",
+     "options": [
+      "Mai lost one of her pens.",
+      "Mai was late.",
+      "Mai teased her."
+     ],
+     "answer": "Mai lost one of her pens."
+    },
+    {
+     "q": "What did Mai buy for Hoa?",
+     "options": [
+      "A new pen.",
+      "A book.",
+      "A cake."
+     ],
+     "answer": "A new pen."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U12-Q001",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "friendship",
+   "item": "friendship",
+   "options": [
+    "lend",
+    "anything",
+    "rude",
+    "friendship"
+   ],
+   "answer": "friendship"
+  },
+  {
+   "id": "L4U12-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "honest",
+   "item": "honest",
+   "options": [
+    "nobody",
+    "honest",
+    "kindness",
+    "cheerful"
+   ],
+   "answer": "honest"
+  },
+  {
+   "id": "L4U12-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "generous",
+   "item": "generous",
+   "options": [
+    "lend",
+    "ignore",
+    "tease",
+    "generous"
+   ],
+   "answer": "generous"
+  },
+  {
+   "id": "L4U12-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "selfish",
+   "item": "selfish",
+   "options": [
+    "something",
+    "cheerful",
+    "selfish",
+    "support"
+   ],
+   "answer": "selfish"
+  },
+  {
+   "id": "L4U12-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rude",
+   "item": "rude",
+   "options": [
+    "rude",
+    "lend",
+    "keep",
+    "include"
+   ],
+   "answer": "rude"
+  },
+  {
+   "id": "L4U12-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "patient",
+   "item": "patient",
+   "options": [
+    "someone",
+    "patient",
+    "honest",
+    "lend"
+   ],
+   "answer": "patient"
+  },
+  {
+   "id": "L4U12-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "loyal",
+   "item": "loyal",
+   "options": [
+    "rude",
+    "nothing",
+    "loyal",
+    "support"
+   ],
+   "answer": "loyal"
+  },
+  {
+   "id": "L4U12-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "caring",
+   "item": "caring",
+   "options": [
+    "unfair",
+    "caring",
+    "honest",
+    "everything"
+   ],
+   "answer": "caring"
+  },
+  {
+   "id": "L4U12-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cheerful",
+   "item": "cheerful",
+   "options": [
+    "everyone",
+    "borrow",
+    "cheerful",
+    "nobody"
+   ],
+   "answer": "cheerful"
+  },
+  {
+   "id": "L4U12-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bossy",
+   "item": "bossy",
+   "options": [
+    "everything",
+    "bossy",
+    "nobody",
+    "each other"
+   ],
+   "answer": "bossy"
+  },
+  {
+   "id": "L4U12-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mean",
+   "item": "mean",
+   "options": [
+    "argue",
+    "anyone",
+    "mean",
+    "loyal"
+   ],
+   "answer": "mean"
+  },
+  {
+   "id": "L4U12-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "argue",
+   "item": "argue",
+   "options": [
+    "unfair",
+    "bully",
+    "fall out",
+    "argue"
+   ],
+   "answer": "argue"
+  },
+  {
+   "id": "L4U12-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "apologise",
+   "item": "apologise",
+   "options": [
+    "apologise",
+    "caring",
+    "patient",
+    "include"
+   ],
+   "answer": "apologise"
+  },
+  {
+   "id": "L4U12-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forgive",
+   "item": "forgive",
+   "options": [
+    "lend",
+    "forgive",
+    "keep",
+    "unfair"
+   ],
+   "answer": "forgive"
+  },
+  {
+   "id": "L4U12-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trust",
+   "item": "trust",
+   "options": [
+    "trust",
+    "rude",
+    "borrow",
+    "bully"
+   ],
+   "answer": "trust"
+  },
+  {
+   "id": "L4U12-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "borrow",
+   "item": "borrow",
+   "options": [
+    "trust",
+    "borrow",
+    "loyal",
+    "lend"
+   ],
+   "answer": "borrow"
+  },
+  {
+   "id": "L4U12-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lend",
+   "item": "lend",
+   "options": [
+    "lend",
+    "support",
+    "apologise",
+    "forgive"
+   ],
+   "answer": "lend"
+  },
+  {
+   "id": "L4U12-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "keep",
+   "item": "keep",
+   "options": [
+    "fall out",
+    "something",
+    "bossy",
+    "keep"
+   ],
+   "answer": "keep"
+  },
+  {
+   "id": "L4U12-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "support",
+   "item": "support",
+   "options": [
+    "get along",
+    "bully",
+    "support",
+    "forgive"
+   ],
+   "answer": "support"
+  },
+  {
+   "id": "L4U12-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "encourage",
+   "item": "encourage",
+   "options": [
+    "encourage",
+    "take turns",
+    "forgive",
+    "borrow"
+   ],
+   "answer": "encourage"
+  },
+  {
+   "id": "L4U12-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tease",
+   "item": "tease",
+   "options": [
+    "patient",
+    "tease",
+    "someone",
+    "anything"
+   ],
+   "answer": "tease"
+  },
+  {
+   "id": "L4U12-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bully",
+   "item": "bully",
+   "options": [
+    "argue",
+    "something",
+    "kindness",
+    "bully"
+   ],
+   "answer": "bully"
+  },
+  {
+   "id": "L4U12-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fall out",
+   "item": "fall out",
+   "options": [
+    "borrow",
+    "fall out",
+    "support",
+    "selfish"
+   ],
+   "answer": "fall out"
+  },
+  {
+   "id": "L4U12-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "make up",
+   "item": "make up",
+   "options": [
+    "keep",
+    "support",
+    "encourage",
+    "make up"
+   ],
+   "answer": "make up"
+  },
+  {
+   "id": "L4U12-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "get along",
+   "item": "get along",
+   "options": [
+    "get along",
+    "rude",
+    "anyone",
+    "keep"
+   ],
+   "answer": "get along"
+  },
+  {
+   "id": "L4U12-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "include",
+   "item": "include",
+   "options": [
+    "everything",
+    "something",
+    "anyone",
+    "include"
+   ],
+   "answer": "include"
+  },
+  {
+   "id": "L4U12-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ignore",
+   "item": "ignore",
+   "options": [
+    "everything",
+    "anything",
+    "ignore",
+    "forgive"
+   ],
+   "answer": "ignore"
+  },
+  {
+   "id": "L4U12-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "in common",
+   "item": "in common",
+   "options": [
+    "support",
+    "nothing",
+    "in common",
+    "nobody"
+   ],
+   "answer": "in common"
+  },
+  {
+   "id": "L4U12-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "kindness",
+   "item": "kindness",
+   "options": [
+    "kindness",
+    "rude",
+    "selfish",
+    "mean"
+   ],
+   "answer": "kindness"
+  },
+  {
+   "id": "L4U12-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "unfair",
+   "item": "unfair",
+   "options": [
+    "unfair",
+    "make up",
+    "encourage",
+    "tease"
+   ],
+   "answer": "unfair"
+  },
+  {
+   "id": "L4U12-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "take turns",
+   "item": "take turns",
+   "options": [
+    "take turns",
+    "everything",
+    "rude",
+    "something"
+   ],
+   "answer": "take turns"
+  },
+  {
+   "id": "L4U12-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "each other",
+   "item": "each other",
+   "options": [
+    "borrow",
+    "each other",
+    "argue",
+    "anything"
+   ],
+   "answer": "each other"
+  },
+  {
+   "id": "L4U12-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "someone",
+   "item": "someone",
+   "options": [
+    "loyal",
+    "someone",
+    "nobody",
+    "fall out"
+   ],
+   "answer": "someone"
+  },
+  {
+   "id": "L4U12-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "everyone",
+   "item": "everyone",
+   "options": [
+    "generous",
+    "in common",
+    "anyone",
+    "everyone"
+   ],
+   "answer": "everyone"
+  },
+  {
+   "id": "L4U12-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nobody",
+   "item": "nobody",
+   "options": [
+    "apologise",
+    "keep",
+    "nobody",
+    "caring"
+   ],
+   "answer": "nobody"
+  },
+  {
+   "id": "L4U12-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "anyone",
+   "item": "anyone",
+   "options": [
+    "get along",
+    "support",
+    "anyone",
+    "cheerful"
+   ],
+   "answer": "anyone"
+  },
+  {
+   "id": "L4U12-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "something",
+   "item": "something",
+   "options": [
+    "anyone",
+    "bully",
+    "something",
+    "each other"
+   ],
+   "answer": "something"
+  },
+  {
+   "id": "L4U12-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nothing",
+   "item": "nothing",
+   "options": [
+    "nothing",
+    "ignore",
+    "caring",
+    "nobody"
+   ],
+   "answer": "nothing"
+  },
+  {
+   "id": "L4U12-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "everything",
+   "item": "everything",
+   "options": [
+    "ignore",
+    "bully",
+    "everything",
+    "bossy"
+   ],
+   "answer": "everything"
+  },
+  {
+   "id": "L4U12-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "anything",
+   "item": "anything",
+   "options": [
+    "include",
+    "anything",
+    "fall out",
+    "trust"
+   ],
+   "answer": "anything"
+  },
+  {
+   "id": "L4U12-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our friendship is very special.",
+   "item": "friendship",
+   "answer": "Our friendship is very special."
+  },
+  {
+   "id": "L4U12-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An honest person tells the truth.",
+   "item": "honest",
+   "answer": "An honest person tells the truth."
+  },
+  {
+   "id": "L4U12-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lan is generous. She shares her snacks.",
+   "item": "generous",
+   "answer": "Lan is generous. She shares her snacks."
+  },
+  {
+   "id": "L4U12-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't be selfish. Share your toys.",
+   "item": "selfish",
+   "answer": "Don't be selfish. Share your toys."
+  },
+  {
+   "id": "L4U12-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's rude to shout at people.",
+   "item": "rude",
+   "answer": "It's rude to shout at people."
+  },
+  {
+   "id": "L4U12-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be patient and wait your turn.",
+   "item": "patient",
+   "answer": "Be patient and wait your turn."
+  },
+  {
+   "id": "L4U12-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good friend is loyal.",
+   "item": "loyal",
+   "answer": "A good friend is loyal."
+  },
+  {
+   "id": "L4U12-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister is very caring.",
+   "item": "caring",
+   "answer": "My sister is very caring."
+  },
+  {
+   "id": "L4U12-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ben is always cheerful.",
+   "item": "cheerful",
+   "answer": "Ben is always cheerful."
+  },
+  {
+   "id": "L4U12-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't be bossy. Let your friends choose too.",
+   "item": "bossy",
+   "answer": "Don't be bossy. Let your friends choose too."
+  },
+  {
+   "id": "L4U12-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was mean to laugh at him.",
+   "item": "mean",
+   "answer": "It was mean to laugh at him."
+  },
+  {
+   "id": "L4U12-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother and I sometimes argue.",
+   "item": "argue",
+   "answer": "My brother and I sometimes argue."
+  },
+  {
+   "id": "L4U12-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You should apologise to your friend.",
+   "item": "apologise",
+   "answer": "You should apologise to your friend."
+  },
+  {
+   "id": "L4U12-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I forgive you. Let's be friends again.",
+   "item": "forgive",
+   "answer": "I forgive you. Let's be friends again."
+  },
+  {
+   "id": "L4U12-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I trust my best friend.",
+   "item": "trust",
+   "answer": "I trust my best friend."
+  },
+  {
+   "id": "L4U12-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I borrow your ruler?",
+   "item": "borrow",
+   "answer": "Can I borrow your ruler?"
+  },
+  {
+   "id": "L4U12-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you lend me a pencil?",
+   "item": "lend",
+   "answer": "Can you lend me a pencil?"
+  },
+  {
+   "id": "L4U12-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you keep a secret?",
+   "item": "keep",
+   "answer": "Can you keep a secret?"
+  },
+  {
+   "id": "L4U12-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Friends support each other.",
+   "item": "support",
+   "answer": "Friends support each other."
+  },
+  {
+   "id": "L4U12-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My friends encourage me in races.",
+   "item": "encourage",
+   "answer": "My friends encourage me in races."
+  },
+  {
+   "id": "L4U12-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't tease your little brother.",
+   "item": "tease",
+   "answer": "Don't tease your little brother."
+  },
+  {
+   "id": "L4U12-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If someone bullies you, tell a teacher.",
+   "item": "bully",
+   "answer": "If someone bullies you, tell a teacher."
+  },
+  {
+   "id": "L4U12-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We fell out, but now we are friends again.",
+   "item": "fall out",
+   "answer": "We fell out, but now we are friends again."
+  },
+  {
+   "id": "L4U12-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They made up after the argument.",
+   "item": "make up",
+   "answer": "They made up after the argument."
+  },
+  {
+   "id": "L4U12-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I get along well with my classmates.",
+   "item": "get along",
+   "answer": "I get along well with my classmates."
+  },
+  {
+   "id": "L4U12-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's include the new girl in our game.",
+   "item": "include",
+   "answer": "Let's include the new girl in our game."
+  },
+  {
+   "id": "L4U12-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't ignore your friend when she talks.",
+   "item": "ignore",
+   "answer": "Don't ignore your friend when she talks."
+  },
+  {
+   "id": "L4U12-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a lot in common. We both love dogs.",
+   "item": "in common",
+   "answer": "We have a lot in common. We both love dogs."
+  },
+  {
+   "id": "L4U12-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you for your kindness.",
+   "item": "kindness",
+   "answer": "Thank you for your kindness."
+  },
+  {
+   "id": "L4U12-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's unfair! It's my turn!",
+   "item": "unfair",
+   "answer": "It's unfair! It's my turn!"
+  },
+  {
+   "id": "L4U12-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's take turns on the swing.",
+   "item": "take turns",
+   "answer": "Let's take turns on the swing."
+  },
+  {
+   "id": "L4U12-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Good friends help each other.",
+   "item": "each other",
+   "answer": "Good friends help each other."
+  },
+  {
+   "id": "L4U12-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Someone is at the door.",
+   "item": "someone",
+   "answer": "Someone is at the door."
+  },
+  {
+   "id": "L4U12-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Everyone loves Grandma's cake.",
+   "item": "everyone",
+   "answer": "Everyone loves Grandma's cake."
+  },
+  {
+   "id": "L4U12-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nobody knows the answer.",
+   "item": "nobody",
+   "answer": "Nobody knows the answer."
+  },
+  {
+   "id": "L4U12-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is anyone at home?",
+   "item": "anyone",
+   "answer": "Is anyone at home?"
+  },
+  {
+   "id": "L4U12-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to tell you something.",
+   "item": "something",
+   "answer": "I want to tell you something."
+  },
+  {
+   "id": "L4U12-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is nothing in the box.",
+   "item": "nothing",
+   "answer": "There is nothing in the box."
+  },
+  {
+   "id": "L4U12-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you for everything!",
+   "item": "everything",
+   "answer": "Thank you for everything!"
+  },
+  {
+   "id": "L4U12-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you need anything?",
+   "item": "anything",
+   "answer": "Do you need anything?"
+  },
+  {
+   "id": "L4U12-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good friend is honest.",
+   "answer": "A good friend is honest."
+  },
+  {
+   "id": "L4U12-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good friend is generous.",
+   "answer": "A good friend is generous."
+  },
+  {
+   "id": "L4U12-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good friend is loyal.",
+   "answer": "A good friend is loyal."
+  },
+  {
+   "id": "L4U12-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I borrow your ruler?",
+   "answer": "Can I borrow your ruler?"
+  },
+  {
+   "id": "L4U12-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I borrow your pencil?",
+   "answer": "Can I borrow your pencil?"
+  },
+  {
+   "id": "L4U12-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I borrow your rubber?",
+   "answer": "Can I borrow your rubber?"
+  },
+  {
+   "id": "L4U12-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry I broke your pencil.",
+   "answer": "I'm sorry I broke your pencil."
+  },
+  {
+   "id": "L4U12-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry I was rude.",
+   "answer": "I'm sorry I was rude."
+  },
+  {
+   "id": "L4U12-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry I lost your book.",
+   "answer": "I'm sorry I lost your book."
+  },
+  {
+   "id": "L4U12-Q090",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are we still friends?",
+   "answer": "Of course! Best friends!"
+  },
+  {
+   "id": "L4U12-Q091",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Good idea. Hi! Do you want to play with us?",
+   "answer": "We can take turns. You go first!"
+  },
+  {
+   "id": "L4U12-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is very special.",
+   "item": "friendship",
+   "options": [
+    "lend",
+    "friendship",
+    "generous"
+   ],
+   "answer": "friendship"
+  },
+  {
+   "id": "L4U12-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ person tells the truth.",
+   "item": "honest",
+   "options": [
+    "rude",
+    "forgive",
+    "honest"
+   ],
+   "answer": "honest"
+  },
+  {
+   "id": "L4U12-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lan is ___. She shares her snacks.",
+   "item": "generous",
+   "options": [
+    "kindness",
+    "generous",
+    "everyone"
+   ],
+   "answer": "generous"
+  },
+  {
+   "id": "L4U12-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't be ___. Share your toys.",
+   "item": "selfish",
+   "options": [
+    "ignore",
+    "friendship",
+    "selfish"
+   ],
+   "answer": "selfish"
+  },
+  {
+   "id": "L4U12-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ to shout at people.",
+   "item": "rude",
+   "options": [
+    "trust",
+    "bully",
+    "rude"
+   ],
+   "answer": "rude"
+  },
+  {
+   "id": "L4U12-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Be ___ and wait your turn.",
+   "item": "patient",
+   "options": [
+    "patient",
+    "friendship",
+    "everything"
+   ],
+   "answer": "patient"
+  },
+  {
+   "id": "L4U12-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A good friend is ___.",
+   "item": "loyal",
+   "options": [
+    "someone",
+    "ignore",
+    "loyal"
+   ],
+   "answer": "loyal"
+  },
+  {
+   "id": "L4U12-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister is very ___.",
+   "item": "caring",
+   "options": [
+    "kindness",
+    "include",
+    "caring"
+   ],
+   "answer": "caring"
+  },
+  {
+   "id": "L4U12-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ben is always ___.",
+   "item": "cheerful",
+   "options": [
+    "include",
+    "nothing",
+    "cheerful"
+   ],
+   "answer": "cheerful"
+  },
+  {
+   "id": "L4U12-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't be ___. Let your friends choose too.",
+   "item": "bossy",
+   "options": [
+    "honest",
+    "ignore",
+    "bossy"
+   ],
+   "answer": "bossy"
+  },
+  {
+   "id": "L4U12-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was ___ to laugh at him.",
+   "item": "mean",
+   "options": [
+    "ignore",
+    "mean",
+    "lend"
+   ],
+   "answer": "mean"
+  },
+  {
+   "id": "L4U12-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother and I sometimes ___.",
+   "item": "argue",
+   "options": [
+    "argue",
+    "selfish",
+    "honest"
+   ],
+   "answer": "argue"
+  },
+  {
+   "id": "L4U12-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You should ___ to your friend.",
+   "item": "apologise",
+   "options": [
+    "caring",
+    "apologise",
+    "selfish"
+   ],
+   "answer": "apologise"
+  },
+  {
+   "id": "L4U12-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ you. Let's be friends again.",
+   "item": "forgive",
+   "options": [
+    "bully",
+    "forgive",
+    "honest"
+   ],
+   "answer": "forgive"
+  },
+  {
+   "id": "L4U12-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my best friend.",
+   "item": "trust",
+   "options": [
+    "support",
+    "anything",
+    "trust"
+   ],
+   "answer": "trust"
+  },
+  {
+   "id": "L4U12-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I ___ your ruler?",
+   "item": "borrow",
+   "options": [
+    "kindness",
+    "cheerful",
+    "borrow"
+   ],
+   "answer": "borrow"
+  },
+  {
+   "id": "L4U12-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ me a pencil?",
+   "item": "lend",
+   "options": [
+    "lend",
+    "bully",
+    "mean"
+   ],
+   "answer": "lend"
+  },
+  {
+   "id": "L4U12-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ a secret?",
+   "item": "keep",
+   "options": [
+    "loyal",
+    "generous",
+    "keep"
+   ],
+   "answer": "keep"
+  },
+  {
+   "id": "L4U12-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Friends ___ each other.",
+   "item": "support",
+   "options": [
+    "loyal",
+    "apologise",
+    "support"
+   ],
+   "answer": "support"
+  },
+  {
+   "id": "L4U12-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My friends ___ me in races.",
+   "item": "encourage",
+   "options": [
+    "loyal",
+    "borrow",
+    "encourage"
+   ],
+   "answer": "encourage"
+  },
+  {
+   "id": "L4U12-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ your little brother.",
+   "item": "tease",
+   "options": [
+    "friendship",
+    "anyone",
+    "tease"
+   ],
+   "answer": "tease"
+  },
+  {
+   "id": "L4U12-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the new girl in our game.",
+   "item": "include",
+   "options": [
+    "rude",
+    "patient",
+    "include"
+   ],
+   "answer": "include"
+  },
+  {
+   "id": "L4U12-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ your friend when she talks.",
+   "item": "ignore",
+   "options": [
+    "ignore",
+    "nothing",
+    "friendship"
+   ],
+   "answer": "ignore"
+  },
+  {
+   "id": "L4U12-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you for your ___.",
+   "item": "kindness",
+   "options": [
+    "ignore",
+    "bossy",
+    "kindness"
+   ],
+   "answer": "kindness"
+  },
+  {
+   "id": "L4U12-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___! It's my turn!",
+   "item": "unfair",
+   "options": [
+    "borrow",
+    "friendship",
+    "unfair"
+   ],
+   "answer": "unfair"
+  },
+  {
+   "id": "L4U12-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is at the door.",
+   "item": "someone",
+   "options": [
+    "Everything",
+    "Bully",
+    "Someone"
+   ],
+   "answer": "Someone"
+  },
+  {
+   "id": "L4U12-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ loves Grandma's cake.",
+   "item": "everyone",
+   "options": [
+    "Kindness",
+    "Everyone",
+    "Loyal"
+   ],
+   "answer": "Everyone"
+  },
+  {
+   "id": "L4U12-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ knows the answer.",
+   "item": "nobody",
+   "options": [
+    "Honest",
+    "Patient",
+    "Nobody"
+   ],
+   "answer": "Nobody"
+  },
+  {
+   "id": "L4U12-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is ___ at home?",
+   "item": "anyone",
+   "options": [
+    "anyone",
+    "friendship",
+    "everything"
+   ],
+   "answer": "anyone"
+  },
+  {
+   "id": "L4U12-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to tell you ___.",
+   "item": "something",
+   "options": [
+    "honest",
+    "something",
+    "mean"
+   ],
+   "answer": "something"
+  },
+  {
+   "id": "L4U12-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is ___ in the box.",
+   "item": "nothing",
+   "options": [
+    "nothing",
+    "anything",
+    "rude"
+   ],
+   "answer": "nothing"
+  },
+  {
+   "id": "L4U12-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you for ___!",
+   "item": "everything",
+   "options": [
+    "caring",
+    "everything",
+    "lend"
+   ],
+   "answer": "everything"
+  },
+  {
+   "id": "L4U12-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you need ___?",
+   "item": "anything",
+   "options": [
+    "something",
+    "unfair",
+    "anything"
+   ],
+   "answer": "anything"
+  },
+  {
+   "id": "L4U12-Q125",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U12-R01",
+   "text_en": "What do Hoa and Mai both love?",
+   "options": [
+    "Dancing and singing.",
+    "Football.",
+    "Drawing and reading."
+   ],
+   "answer": "Drawing and reading."
+  },
+  {
+   "id": "L4U12-Q126",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U12-R01",
+   "text_en": "Why was Hoa upset?",
+   "options": [
+    "Mai was late.",
+    "Mai lost one of her pens.",
+    "Mai teased her."
+   ],
+   "answer": "Mai lost one of her pens."
+  },
+  {
+   "id": "L4U12-Q127",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U12-R01",
+   "text_en": "What did Mai buy for Hoa?",
+   "options": [
+    "A book.",
+    "A cake.",
+    "A new pen."
+   ],
+   "answer": "A new pen."
+  },
+  {
+   "id": "L4U12-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "friendship",
+   "item": "friendship",
+   "answer": "friendship"
+  },
+  {
+   "id": "L4U12-Q129",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "honest",
+   "item": "honest",
+   "answer": "honest"
+  },
+  {
+   "id": "L4U12-Q130",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "generous",
+   "item": "generous",
+   "answer": "generous"
+  },
+  {
+   "id": "L4U12-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "selfish",
+   "item": "selfish",
+   "answer": "selfish"
+  },
+  {
+   "id": "L4U12-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rude",
+   "item": "rude",
+   "answer": "rude"
+  },
+  {
+   "id": "L4U12-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "patient",
+   "item": "patient",
+   "answer": "patient"
+  },
+  {
+   "id": "L4U12-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "loyal",
+   "item": "loyal",
+   "answer": "loyal"
+  },
+  {
+   "id": "L4U12-Q135",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "caring",
+   "item": "caring",
+   "answer": "caring"
+  },
+  {
+   "id": "L4U12-Q136",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Our friendship is very special.",
+   "answer": "Our friendship is very special."
+  },
+  {
+   "id": "L4U12-Q137",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "An honest person tells the truth.",
+   "answer": "An honest person tells the truth."
+  },
+  {
+   "id": "L4U12-Q138",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Lan is generous. She shares her snacks.",
+   "answer": "Lan is generous. She shares her snacks."
+  }
+ ]
+}

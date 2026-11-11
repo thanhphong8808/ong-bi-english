@@ -1,0 +1,3186 @@
+{
+ "id": "L4U09",
+ "level": 4,
+ "unit": 9,
+ "topic_en": "In the kitchen",
+ "topic_vi": "Vào bếp",
+ "can_do_vi": [
+  "Đọc và làm theo công thức nấu ăn đơn giản",
+  "Dùng động từ nấu ăn và từ chỉ trình tự"
+ ],
+ "grammar_note_vi": "Hướng dẫn nấu ăn dùng câu mệnh lệnh: động từ đứng đầu câu, không cần chủ ngữ: \"Chop the onion. Stir the soup.\" Thêm \"First, Next, Then, Finally\" để nói thứ tự các bước.",
+ "items": [
+  {
+   "id": "L4U09-W01",
+   "type": "word",
+   "en": "recipe",
+   "vi": "công thức nấu ăn",
+   "ipa": "/ˈrɛsəpi/",
+   "syllables": [
+    "recipe"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9FE"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "This is Grandma's recipe for soup.",
+   "example_vi": "Đây là công thức nấu súp của bà.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W02",
+   "type": "word",
+   "en": "ingredient",
+   "vi": "nguyên liệu",
+   "ipa": "/ˌɪnˈɡridiənt/",
+   "syllables": [
+    "in",
+    "gre",
+    "di",
+    "ent"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F955"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "What ingredients do we need?",
+   "example_vi": "Mình cần những nguyên liệu gì?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W03",
+   "type": "word",
+   "en": "flour",
+   "vi": "bột mì",
+   "ipa": "/flaʊʌr/",
+   "syllables": [
+    "flour"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F33E"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "We need flour to make bread.",
+   "example_vi": "Mình cần bột mì để làm bánh mì.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W04",
+   "type": "word",
+   "en": "oven",
+   "vi": "lò nướng",
+   "ipa": "/ˈʌvən/",
+   "syllables": [
+    "oven"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Put the cake in the oven.",
+   "example_vi": "Cho bánh vào lò nướng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W05",
+   "type": "word",
+   "en": "pot",
+   "vi": "cái nồi",
+   "ipa": "/pɑt/",
+   "syllables": [
+    "pot"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F372"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Cook the rice in a big pot.",
+   "example_vi": "Nấu cơm trong nồi to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W06",
+   "type": "word",
+   "en": "boil",
+   "vi": "đun sôi, luộc",
+   "ipa": "/bɔɪl/",
+   "syllables": [
+    "boil"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Boil the eggs for ten minutes.",
+   "example_vi": "Luộc trứng trong mười phút.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W07",
+   "type": "word",
+   "en": "chop",
+   "vi": "thái nhỏ",
+   "ipa": "/tʃɑp/",
+   "syllables": [
+    "chop"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F52A"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Chop the onion into small pieces.",
+   "example_vi": "Thái nhỏ hành tây.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W08",
+   "type": "word",
+   "en": "stir",
+   "vi": "khuấy",
+   "ipa": "/stʌr/",
+   "syllables": [
+    "stir"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F944"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Stir the soup with a spoon.",
+   "example_vi": "Khuấy súp bằng thìa.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W09",
+   "type": "word",
+   "en": "pour",
+   "vi": "rót, đổ",
+   "ipa": "/pɔr/",
+   "syllables": [
+    "pour"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Pour the milk into the bowl.",
+   "example_vi": "Rót sữa vào bát.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W10",
+   "type": "word",
+   "en": "slice",
+   "vi": "lát, cắt lát",
+   "ipa": "/slaɪs/",
+   "syllables": [
+    "slice"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F355"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Can I have a slice of cake?",
+   "example_vi": "Cho tớ một miếng bánh nhé?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W11",
+   "type": "word",
+   "en": "peel",
+   "vi": "gọt vỏ, bóc vỏ",
+   "ipa": "/pil/",
+   "syllables": [
+    "peel"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F34C"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Peel the banana.",
+   "example_vi": "Bóc vỏ quả chuối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W12",
+   "type": "word",
+   "en": "add",
+   "vi": "thêm vào",
+   "ipa": "/æd/",
+   "syllables": [
+    "add"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Add some salt.",
+   "example_vi": "Thêm chút muối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W13",
+   "type": "word",
+   "en": "heat",
+   "vi": "làm nóng",
+   "ipa": "/hit/",
+   "syllables": [
+    "heat"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Heat the oil in the frying pan.",
+   "example_vi": "Làm nóng dầu trong chảo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W14",
+   "type": "word",
+   "en": "melt",
+   "vi": "tan chảy",
+   "ipa": "/mɛlt/",
+   "syllables": [
+    "melt"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F9C8"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "The ice cream is melting!",
+   "example_vi": "Kem đang chảy ra kìa!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W15",
+   "type": "word",
+   "en": "spread",
+   "vi": "phết",
+   "ipa": "/sprɛd/",
+   "syllables": [
+    "spread"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9C8"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Spread butter on the bread.",
+   "example_vi": "Phết bơ lên bánh mì.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W16",
+   "type": "word",
+   "en": "sprinkle",
+   "vi": "rắc",
+   "ipa": "/ˈsprɪŋkəl/",
+   "syllables": [
+    "sprin",
+    "kle"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9C2"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Sprinkle sugar on the pancake.",
+   "example_vi": "Rắc đường lên bánh kếp.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W17",
+   "type": "word",
+   "en": "roll",
+   "vi": "lăn, cán",
+   "ipa": "/roʊl/",
+   "syllables": [
+    "roll"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F300"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Roll the dough into a ball.",
+   "example_vi": "Lăn bột thành một viên tròn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W18",
+   "type": "word",
+   "en": "whisk",
+   "vi": "đánh (trứng)",
+   "ipa": "/wɪsk/",
+   "syllables": [
+    "whisk"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F963"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Whisk the eggs and milk together.",
+   "example_vi": "Đánh trứng với sữa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W19",
+   "type": "word",
+   "en": "measure",
+   "vi": "đo, đong",
+   "ipa": "/ˈmɛʒər/",
+   "syllables": [
+    "mea",
+    "sure"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Measure the flour carefully.",
+   "example_vi": "Đong bột cẩn thận nhé.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W20",
+   "type": "word",
+   "en": "teaspoon",
+   "vi": "thìa cà phê",
+   "ipa": "/ˈtiˌspun/",
+   "syllables": [
+    "tea",
+    "spoon"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F944"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Add a teaspoon of sugar.",
+   "example_vi": "Thêm một thìa đường.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W21",
+   "type": "word",
+   "en": "gram",
+   "vi": "gam",
+   "ipa": "/ɡræm/",
+   "syllables": [
+    "gram"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "We need two hundred grams of flour.",
+   "example_vi": "Mình cần hai trăm gam bột mì.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W22",
+   "type": "word",
+   "en": "litre",
+   "vi": "lít",
+   "ipa": "/litre/",
+   "syllables": [
+    "litre"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Buy a litre of milk, please.",
+   "example_vi": "Mua giúp một lít sữa nhé.",
+   "pron_focus": [
+    "r_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W23",
+   "type": "word",
+   "en": "dough",
+   "vi": "bột nhào",
+   "ipa": "/doʊ/",
+   "syllables": [
+    "dough"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F956"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "The pizza dough is soft.",
+   "example_vi": "Bột bánh pizza mềm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W24",
+   "type": "word",
+   "en": "raw",
+   "vi": "sống (chưa nấu)",
+   "ipa": "/rɑ/",
+   "syllables": [
+    "raw"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F969"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Don't eat raw meat.",
+   "example_vi": "Đừng ăn thịt sống.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W25",
+   "type": "word",
+   "en": "burnt",
+   "vi": "bị cháy",
+   "ipa": "/bʌrnt/",
+   "syllables": [
+    "burnt"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Oh no! The toast is burnt.",
+   "example_vi": "Ôi không! Bánh mì cháy rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W26",
+   "type": "word",
+   "en": "apron",
+   "vi": "tạp dề",
+   "ipa": "/ˈeɪprən/",
+   "syllables": [
+    "apron"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9D1-200D-1F373"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Put on your apron before you cook.",
+   "example_vi": "Đeo tạp dề trước khi nấu ăn nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W27",
+   "type": "word",
+   "en": "kettle",
+   "vi": "ấm đun nước",
+   "ipa": "/ˈkɛtəl/",
+   "syllables": [
+    "ket",
+    "tle"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1FAD6"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "The kettle is hot. Don't touch it.",
+   "example_vi": "Ấm nước đang nóng. Đừng chạm vào.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W28",
+   "type": "phrase",
+   "en": "frying pan",
+   "vi": "cái chảo",
+   "ipa": "/fraɪɪŋ pæn/",
+   "syllables": [
+    "frying",
+    "pan"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F373"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Cook the egg in the frying pan.",
+   "example_vi": "Rán trứng trong chảo.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W29",
+   "type": "phrase",
+   "en": "chopping board",
+   "vi": "cái thớt",
+   "ipa": "/ˈtʃɑpɪŋ bɔrd/",
+   "syllables": [
+    "chop",
+    "ping",
+    "board"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F52A"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Cut the carrots on the chopping board.",
+   "example_vi": "Cắt cà rốt trên thớt.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W30",
+   "type": "word",
+   "en": "omelette",
+   "vi": "trứng tráng",
+   "ipa": "/omelette/",
+   "syllables": [
+    "omelette"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F373"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "I made an omelette for breakfast.",
+   "example_vi": "Tớ làm trứng tráng cho bữa sáng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W31",
+   "type": "word",
+   "en": "smoothie",
+   "vi": "sinh tố",
+   "ipa": "/smoothie/",
+   "syllables": [
+    "smoothie"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "A banana smoothie is delicious.",
+   "example_vi": "Sinh tố chuối rất ngon.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W32",
+   "type": "word",
+   "en": "cucumber",
+   "vi": "dưa chuột",
+   "ipa": "/ˈkjukəmbər/",
+   "syllables": [
+    "cu",
+    "cum",
+    "ber"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F952"
+   },
+   "picturable": true,
+   "cat": "L4U09",
+   "example_en": "Slice the cucumber for the salad.",
+   "example_vi": "Thái lát dưa chuột cho món sa-lát.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W33",
+   "type": "word",
+   "en": "lettuce",
+   "vi": "xà lách",
+   "ipa": "/ˈlɛtəs/",
+   "syllables": [
+    "let",
+    "tuce"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F96C"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Wash the lettuce in cold water.",
+   "example_vi": "Rửa rau xà lách bằng nước lạnh.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W34",
+   "type": "word",
+   "en": "broccoli",
+   "vi": "súp lơ xanh",
+   "ipa": "/ˈbrɑkəli/",
+   "syllables": [
+    "broccoli"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F966"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Broccoli is good for you.",
+   "example_vi": "Súp lơ xanh tốt cho sức khoẻ.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W35",
+   "type": "word",
+   "en": "cabbage",
+   "vi": "bắp cải",
+   "ipa": "/ˈkæbɪdʒ/",
+   "syllables": [
+    "cab",
+    "bage"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F96C"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Grandma grows cabbages in the garden.",
+   "example_vi": "Bà trồng bắp cải trong vườn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W36",
+   "type": "word",
+   "en": "cherry",
+   "vi": "quả anh đào",
+   "ipa": "/ˈtʃɛri/",
+   "syllables": [
+    "cher",
+    "ry"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F352"
+   },
+   "picturable": true,
+   "cat": "L4U09",
+   "example_en": "Put a cherry on top of the cake.",
+   "example_vi": "Đặt một quả anh đào lên trên bánh.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W37",
+   "type": "word",
+   "en": "kiwi",
+   "vi": "quả kiwi",
+   "ipa": "/ˈkiwi/",
+   "syllables": [
+    "ki",
+    "wi"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F95D"
+   },
+   "picturable": true,
+   "cat": "L4U09",
+   "example_en": "A kiwi is green inside.",
+   "example_vi": "Quả kiwi bên trong màu xanh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W38",
+   "type": "word",
+   "en": "avocado",
+   "vi": "quả bơ",
+   "ipa": "/ˌævəˈkɑdoʊ/",
+   "syllables": [
+    "av",
+    "o",
+    "ca",
+    "do"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F951"
+   },
+   "picturable": true,
+   "cat": "L4U09",
+   "example_en": "I like avocado smoothies.",
+   "example_vi": "Tớ thích sinh tố bơ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W39",
+   "type": "word",
+   "en": "vinegar",
+   "vi": "giấm",
+   "ipa": "/ˈvɪnəɡər/",
+   "syllables": [
+    "vinegar"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F376"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Add a little vinegar to the salad.",
+   "example_vi": "Thêm chút giấm vào sa-lát.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W40",
+   "type": "word",
+   "en": "steam",
+   "vi": "hấp",
+   "ipa": "/stim/",
+   "syllables": [
+    "steam"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Mum steams the fish with ginger.",
+   "example_vi": "Mẹ hấp cá với gừng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W41",
+   "type": "word",
+   "en": "serve",
+   "vi": "dọn (món ăn)",
+   "ipa": "/sʌrv/",
+   "syllables": [
+    "serve"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Serve the soup hot.",
+   "example_vi": "Dọn súp khi còn nóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U09-W42",
+   "type": "word",
+   "en": "mixture",
+   "vi": "hỗn hợp",
+   "ipa": "/ˈmɪkstʃər/",
+   "syllables": [
+    "mix",
+    "ture"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F963"
+   },
+   "picturable": false,
+   "cat": "L4U09",
+   "example_en": "Pour the mixture into the pan.",
+   "example_vi": "Đổ hỗn hợp vào chảo.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U09-P01",
+   "en": "Add some {x}.",
+   "vi": "Thêm chút {x}.",
+   "slots": {
+    "x": [
+     "salt",
+     "sugar",
+     "butter",
+     "vinegar"
+    ]
+   }
+  },
+  {
+   "id": "L4U09-P02",
+   "en": "First, {x}.",
+   "vi": "Đầu tiên, {x}.",
+   "slots": {
+    "x": [
+     "wash your hands",
+     "put on your apron",
+     "read the recipe"
+    ]
+   }
+  },
+  {
+   "id": "L4U09-P03",
+   "en": "Put the {x} in the oven.",
+   "vi": "Cho {x} vào lò nướng.",
+   "slots": {
+    "x": [
+     "cake",
+     "pizza",
+     "bread",
+     "pie"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U09-D01",
+   "title_vi": "Làm bánh kếp",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's make pancakes! Do we have all the ingredients?",
+     "vi": "Mình làm bánh kếp nhé! Mình có đủ nguyên liệu chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "We have flour, eggs and milk.",
+     "vi": "Có bột mì, trứng và sữa."
+    },
+    {
+     "role": "Bi",
+     "en": "Great! First, put the flour in a bowl.",
+     "vi": "Tuyệt! Đầu tiên, cho bột vào bát."
+    },
+    {
+     "role": "Kid",
+     "en": "Then I add the eggs and milk and whisk them.",
+     "vi": "Rồi tớ thêm trứng và sữa và đánh đều."
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! Now ask your mum to heat the frying pan.",
+     "vi": "Đúng! Giờ nhờ mẹ làm nóng chảo nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "They smell delicious!",
+     "vi": "Thơm quá!"
+    }
+   ]
+  },
+  {
+   "id": "L4U09-D02",
+   "title_vi": "Sinh tố trái cây",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "I'm thirsty. Can we make a smoothie?",
+     "vi": "Tớ khát. Mình làm sinh tố được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! What fruit do you want?",
+     "vi": "Được chứ! Cậu muốn quả gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "A banana, please.",
+     "vi": "Chuối nhé."
+    },
+    {
+     "role": "Bi",
+     "en": "Peel it and put it in the machine with some milk.",
+     "vi": "Bóc vỏ rồi cho vào máy cùng chút sữa."
+    },
+    {
+     "role": "Kid",
+     "en": "It's ready! It's so tasty!",
+     "vi": "Xong rồi! Ngon quá!"
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "banana",
+    "options": [
+     "mango",
+     "avocado"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "recipe"
+  },
+  {
+   "type": "dictate_word",
+   "target": "ingredient"
+  },
+  {
+   "type": "dictate_word",
+   "target": "flour"
+  },
+  {
+   "type": "dictate_word",
+   "target": "oven"
+  },
+  {
+   "type": "dictate_word",
+   "target": "pot"
+  },
+  {
+   "type": "dictate_word",
+   "target": "boil"
+  },
+  {
+   "type": "dictate_word",
+   "target": "chop"
+  },
+  {
+   "type": "dictate_word",
+   "target": "stir"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "This is Grandma's recipe for soup."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What ingredients do we need?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We need flour to make bread."
+  },
+  {
+   "type": "write_sentences",
+   "target": "First,|Then|Finally"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U09-R01",
+   "title_en": "How to make a fruit salad",
+   "text_en": [
+    "A fruit salad is easy to make, and it's very healthy.",
+    "First, wash your hands and put on an apron.",
+    "Then wash the fruit: two apples, a banana, a kiwi and some grapes.",
+    "Ask an adult to help you with the knife.",
+    "Peel the banana and the kiwi, and slice them on a chopping board.",
+    "Chop the apples into small pieces.",
+    "Put all the fruit into a big bowl.",
+    "Next, add some orange juice and a teaspoon of honey.",
+    "Stir the mixture gently.",
+    "Finally, put the bowl in the fridge for ten minutes.",
+    "Serve it cold and enjoy!"
+   ],
+   "questions": [
+    {
+     "q": "What should you do first?",
+     "options": [
+      "Wash your hands and put on an apron.",
+      "Peel the banana.",
+      "Add honey."
+     ],
+     "answer": "Wash your hands and put on an apron."
+    },
+    {
+     "q": "Who should help you with the knife?",
+     "options": [
+      "An adult.",
+      "A friend.",
+      "Nobody."
+     ],
+     "answer": "An adult."
+    },
+    {
+     "q": "Where do you put the bowl at the end?",
+     "options": [
+      "In the fridge.",
+      "In the oven.",
+      "On the table."
+     ],
+     "answer": "In the fridge."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cucumber",
+   "item": "cucumber",
+   "options": [
+    "kiwi",
+    "cucumber",
+    "cherry",
+    "avocado"
+   ],
+   "answer": "cucumber"
+  },
+  {
+   "id": "L4U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cherry",
+   "item": "cherry",
+   "options": [
+    "kiwi",
+    "avocado",
+    "cucumber",
+    "cherry"
+   ],
+   "answer": "cherry"
+  },
+  {
+   "id": "L4U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kiwi",
+   "item": "kiwi",
+   "options": [
+    "kiwi",
+    "cherry",
+    "avocado",
+    "cucumber"
+   ],
+   "answer": "kiwi"
+  },
+  {
+   "id": "L4U09-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "avocado",
+   "item": "avocado",
+   "options": [
+    "cucumber",
+    "cherry",
+    "kiwi",
+    "avocado"
+   ],
+   "answer": "avocado"
+  },
+  {
+   "id": "L4U09-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "recipe",
+   "item": "recipe",
+   "options": [
+    "kettle",
+    "raw",
+    "cherry",
+    "recipe"
+   ],
+   "answer": "recipe"
+  },
+  {
+   "id": "L4U09-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ingredient",
+   "item": "ingredient",
+   "options": [
+    "raw",
+    "ingredient",
+    "pot",
+    "cucumber"
+   ],
+   "answer": "ingredient"
+  },
+  {
+   "id": "L4U09-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flour",
+   "item": "flour",
+   "options": [
+    "steam",
+    "flour",
+    "cabbage",
+    "spread"
+   ],
+   "answer": "flour"
+  },
+  {
+   "id": "L4U09-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "oven",
+   "item": "oven",
+   "options": [
+    "oven",
+    "flour",
+    "sprinkle",
+    "stir"
+   ],
+   "answer": "oven"
+  },
+  {
+   "id": "L4U09-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pot",
+   "item": "pot",
+   "options": [
+    "omelette",
+    "cucumber",
+    "pot",
+    "boil"
+   ],
+   "answer": "pot"
+  },
+  {
+   "id": "L4U09-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "boil",
+   "item": "boil",
+   "options": [
+    "boil",
+    "litre",
+    "vinegar",
+    "cabbage"
+   ],
+   "answer": "boil"
+  },
+  {
+   "id": "L4U09-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chop",
+   "item": "chop",
+   "options": [
+    "heat",
+    "add",
+    "chop",
+    "chopping board"
+   ],
+   "answer": "chop"
+  },
+  {
+   "id": "L4U09-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stir",
+   "item": "stir",
+   "options": [
+    "flour",
+    "cherry",
+    "ingredient",
+    "stir"
+   ],
+   "answer": "stir"
+  },
+  {
+   "id": "L4U09-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pour",
+   "item": "pour",
+   "options": [
+    "apron",
+    "pour",
+    "smoothie",
+    "broccoli"
+   ],
+   "answer": "pour"
+  },
+  {
+   "id": "L4U09-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "slice",
+   "item": "slice",
+   "options": [
+    "frying pan",
+    "cucumber",
+    "slice",
+    "add"
+   ],
+   "answer": "slice"
+  },
+  {
+   "id": "L4U09-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "peel",
+   "item": "peel",
+   "options": [
+    "avocado",
+    "spread",
+    "flour",
+    "peel"
+   ],
+   "answer": "peel"
+  },
+  {
+   "id": "L4U09-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "add",
+   "item": "add",
+   "options": [
+    "burnt",
+    "melt",
+    "add",
+    "cherry"
+   ],
+   "answer": "add"
+  },
+  {
+   "id": "L4U09-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "heat",
+   "item": "heat",
+   "options": [
+    "heat",
+    "chopping board",
+    "gram",
+    "whisk"
+   ],
+   "answer": "heat"
+  },
+  {
+   "id": "L4U09-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "melt",
+   "item": "melt",
+   "options": [
+    "heat",
+    "mixture",
+    "melt",
+    "teaspoon"
+   ],
+   "answer": "melt"
+  },
+  {
+   "id": "L4U09-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spread",
+   "item": "spread",
+   "options": [
+    "heat",
+    "chopping board",
+    "spread",
+    "cherry"
+   ],
+   "answer": "spread"
+  },
+  {
+   "id": "L4U09-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sprinkle",
+   "item": "sprinkle",
+   "options": [
+    "measure",
+    "sprinkle",
+    "recipe",
+    "litre"
+   ],
+   "answer": "sprinkle"
+  },
+  {
+   "id": "L4U09-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "roll",
+   "item": "roll",
+   "options": [
+    "gram",
+    "ingredient",
+    "roll",
+    "smoothie"
+   ],
+   "answer": "roll"
+  },
+  {
+   "id": "L4U09-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "whisk",
+   "item": "whisk",
+   "options": [
+    "smoothie",
+    "lettuce",
+    "whisk",
+    "gram"
+   ],
+   "answer": "whisk"
+  },
+  {
+   "id": "L4U09-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "measure",
+   "item": "measure",
+   "options": [
+    "measure",
+    "pour",
+    "sprinkle",
+    "add"
+   ],
+   "answer": "measure"
+  },
+  {
+   "id": "L4U09-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "teaspoon",
+   "item": "teaspoon",
+   "options": [
+    "whisk",
+    "stir",
+    "teaspoon",
+    "gram"
+   ],
+   "answer": "teaspoon"
+  },
+  {
+   "id": "L4U09-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gram",
+   "item": "gram",
+   "options": [
+    "gram",
+    "recipe",
+    "pot",
+    "burnt"
+   ],
+   "answer": "gram"
+  },
+  {
+   "id": "L4U09-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "litre",
+   "item": "litre",
+   "options": [
+    "raw",
+    "dough",
+    "litre",
+    "stir"
+   ],
+   "answer": "litre"
+  },
+  {
+   "id": "L4U09-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dough",
+   "item": "dough",
+   "options": [
+    "omelette",
+    "cabbage",
+    "oven",
+    "dough"
+   ],
+   "answer": "dough"
+  },
+  {
+   "id": "L4U09-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "raw",
+   "item": "raw",
+   "options": [
+    "raw",
+    "sprinkle",
+    "litre",
+    "cucumber"
+   ],
+   "answer": "raw"
+  },
+  {
+   "id": "L4U09-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "burnt",
+   "item": "burnt",
+   "options": [
+    "sprinkle",
+    "kettle",
+    "burnt",
+    "add"
+   ],
+   "answer": "burnt"
+  },
+  {
+   "id": "L4U09-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "apron",
+   "item": "apron",
+   "options": [
+    "broccoli",
+    "apron",
+    "spread",
+    "teaspoon"
+   ],
+   "answer": "apron"
+  },
+  {
+   "id": "L4U09-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "kettle",
+   "item": "kettle",
+   "options": [
+    "stir",
+    "measure",
+    "ingredient",
+    "kettle"
+   ],
+   "answer": "kettle"
+  },
+  {
+   "id": "L4U09-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "frying pan",
+   "item": "frying pan",
+   "options": [
+    "cabbage",
+    "omelette",
+    "frying pan",
+    "kettle"
+   ],
+   "answer": "frying pan"
+  },
+  {
+   "id": "L4U09-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chopping board",
+   "item": "chopping board",
+   "options": [
+    "chopping board",
+    "litre",
+    "peel",
+    "burnt"
+   ],
+   "answer": "chopping board"
+  },
+  {
+   "id": "L4U09-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "omelette",
+   "item": "omelette",
+   "options": [
+    "omelette",
+    "cucumber",
+    "frying pan",
+    "roll"
+   ],
+   "answer": "omelette"
+  },
+  {
+   "id": "L4U09-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smoothie",
+   "item": "smoothie",
+   "options": [
+    "chop",
+    "raw",
+    "smoothie",
+    "chopping board"
+   ],
+   "answer": "smoothie"
+  },
+  {
+   "id": "L4U09-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lettuce",
+   "item": "lettuce",
+   "options": [
+    "peel",
+    "lettuce",
+    "burnt",
+    "oven"
+   ],
+   "answer": "lettuce"
+  },
+  {
+   "id": "L4U09-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "broccoli",
+   "item": "broccoli",
+   "options": [
+    "cherry",
+    "broccoli",
+    "recipe",
+    "add"
+   ],
+   "answer": "broccoli"
+  },
+  {
+   "id": "L4U09-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cabbage",
+   "item": "cabbage",
+   "options": [
+    "serve",
+    "vinegar",
+    "burnt",
+    "cabbage"
+   ],
+   "answer": "cabbage"
+  },
+  {
+   "id": "L4U09-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "vinegar",
+   "item": "vinegar",
+   "options": [
+    "measure",
+    "gram",
+    "mixture",
+    "vinegar"
+   ],
+   "answer": "vinegar"
+  },
+  {
+   "id": "L4U09-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "steam",
+   "item": "steam",
+   "options": [
+    "add",
+    "steam",
+    "boil",
+    "cabbage"
+   ],
+   "answer": "steam"
+  },
+  {
+   "id": "L4U09-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "serve",
+   "item": "serve",
+   "options": [
+    "serve",
+    "flour",
+    "smoothie",
+    "melt"
+   ],
+   "answer": "serve"
+  },
+  {
+   "id": "L4U09-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mixture",
+   "item": "mixture",
+   "options": [
+    "mixture",
+    "gram",
+    "litre",
+    "boil"
+   ],
+   "answer": "mixture"
+  },
+  {
+   "id": "L4U09-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cucumber",
+   "answer": "cucumber"
+  },
+  {
+   "id": "L4U09-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cherry",
+   "answer": "cherry"
+  },
+  {
+   "id": "L4U09-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kiwi",
+   "answer": "kiwi"
+  },
+  {
+   "id": "L4U09-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "avocado",
+   "answer": "avocado"
+  },
+  {
+   "id": "L4U09-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is Grandma's recipe for soup.",
+   "item": "recipe",
+   "answer": "This is Grandma's recipe for soup."
+  },
+  {
+   "id": "L4U09-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What ingredients do we need?",
+   "item": "ingredient",
+   "answer": "What ingredients do we need?"
+  },
+  {
+   "id": "L4U09-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We need flour to make bread.",
+   "item": "flour",
+   "answer": "We need flour to make bread."
+  },
+  {
+   "id": "L4U09-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the cake in the oven.",
+   "item": "oven",
+   "answer": "Put the cake in the oven."
+  },
+  {
+   "id": "L4U09-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cook the rice in a big pot.",
+   "item": "pot",
+   "answer": "Cook the rice in a big pot."
+  },
+  {
+   "id": "L4U09-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Boil the eggs for ten minutes.",
+   "item": "boil",
+   "answer": "Boil the eggs for ten minutes."
+  },
+  {
+   "id": "L4U09-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Chop the onion into small pieces.",
+   "item": "chop",
+   "answer": "Chop the onion into small pieces."
+  },
+  {
+   "id": "L4U09-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stir the soup with a spoon.",
+   "item": "stir",
+   "answer": "Stir the soup with a spoon."
+  },
+  {
+   "id": "L4U09-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pour the milk into the bowl.",
+   "item": "pour",
+   "answer": "Pour the milk into the bowl."
+  },
+  {
+   "id": "L4U09-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a slice of cake?",
+   "item": "slice",
+   "answer": "Can I have a slice of cake?"
+  },
+  {
+   "id": "L4U09-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Peel the banana.",
+   "item": "peel",
+   "answer": "Peel the banana."
+  },
+  {
+   "id": "L4U09-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add some salt.",
+   "item": "add",
+   "answer": "Add some salt."
+  },
+  {
+   "id": "L4U09-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Heat the oil in the frying pan.",
+   "item": "heat",
+   "answer": "Heat the oil in the frying pan."
+  },
+  {
+   "id": "L4U09-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ice cream is melting!",
+   "item": "melt",
+   "answer": "The ice cream is melting!"
+  },
+  {
+   "id": "L4U09-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Spread butter on the bread.",
+   "item": "spread",
+   "answer": "Spread butter on the bread."
+  },
+  {
+   "id": "L4U09-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sprinkle sugar on the pancake.",
+   "item": "sprinkle",
+   "answer": "Sprinkle sugar on the pancake."
+  },
+  {
+   "id": "L4U09-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Roll the dough into a ball.",
+   "item": "roll",
+   "answer": "Roll the dough into a ball."
+  },
+  {
+   "id": "L4U09-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Whisk the eggs and milk together.",
+   "item": "whisk",
+   "answer": "Whisk the eggs and milk together."
+  },
+  {
+   "id": "L4U09-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Measure the flour carefully.",
+   "item": "measure",
+   "answer": "Measure the flour carefully."
+  },
+  {
+   "id": "L4U09-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add a teaspoon of sugar.",
+   "item": "teaspoon",
+   "answer": "Add a teaspoon of sugar."
+  },
+  {
+   "id": "L4U09-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We need two hundred grams of flour.",
+   "item": "gram",
+   "answer": "We need two hundred grams of flour."
+  },
+  {
+   "id": "L4U09-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Buy a litre of milk, please.",
+   "item": "litre",
+   "answer": "Buy a litre of milk, please."
+  },
+  {
+   "id": "L4U09-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pizza dough is soft.",
+   "item": "dough",
+   "answer": "The pizza dough is soft."
+  },
+  {
+   "id": "L4U09-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't eat raw meat.",
+   "item": "raw",
+   "answer": "Don't eat raw meat."
+  },
+  {
+   "id": "L4U09-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Oh no! The toast is burnt.",
+   "item": "burnt",
+   "answer": "Oh no! The toast is burnt."
+  },
+  {
+   "id": "L4U09-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your apron before you cook.",
+   "item": "apron",
+   "answer": "Put on your apron before you cook."
+  },
+  {
+   "id": "L4U09-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The kettle is hot. Don't touch it.",
+   "item": "kettle",
+   "answer": "The kettle is hot. Don't touch it."
+  },
+  {
+   "id": "L4U09-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cook the egg in the frying pan.",
+   "item": "frying pan",
+   "answer": "Cook the egg in the frying pan."
+  },
+  {
+   "id": "L4U09-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cut the carrots on the chopping board.",
+   "item": "chopping board",
+   "answer": "Cut the carrots on the chopping board."
+  },
+  {
+   "id": "L4U09-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I made an omelette for breakfast.",
+   "item": "omelette",
+   "answer": "I made an omelette for breakfast."
+  },
+  {
+   "id": "L4U09-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A banana smoothie is delicious.",
+   "item": "smoothie",
+   "answer": "A banana smoothie is delicious."
+  },
+  {
+   "id": "L4U09-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Slice the cucumber for the salad.",
+   "item": "cucumber",
+   "answer": "Slice the cucumber for the salad."
+  },
+  {
+   "id": "L4U09-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wash the lettuce in cold water.",
+   "item": "lettuce",
+   "answer": "Wash the lettuce in cold water."
+  },
+  {
+   "id": "L4U09-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Broccoli is good for you.",
+   "item": "broccoli",
+   "answer": "Broccoli is good for you."
+  },
+  {
+   "id": "L4U09-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma grows cabbages in the garden.",
+   "item": "cabbage",
+   "answer": "Grandma grows cabbages in the garden."
+  },
+  {
+   "id": "L4U09-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put a cherry on top of the cake.",
+   "item": "cherry",
+   "answer": "Put a cherry on top of the cake."
+  },
+  {
+   "id": "L4U09-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A kiwi is green inside.",
+   "item": "kiwi",
+   "answer": "A kiwi is green inside."
+  },
+  {
+   "id": "L4U09-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like avocado smoothies.",
+   "item": "avocado",
+   "answer": "I like avocado smoothies."
+  },
+  {
+   "id": "L4U09-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add a little vinegar to the salad.",
+   "item": "vinegar",
+   "answer": "Add a little vinegar to the salad."
+  },
+  {
+   "id": "L4U09-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum steams the fish with ginger.",
+   "item": "steam",
+   "answer": "Mum steams the fish with ginger."
+  },
+  {
+   "id": "L4U09-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Serve the soup hot.",
+   "item": "serve",
+   "answer": "Serve the soup hot."
+  },
+  {
+   "id": "L4U09-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pour the mixture into the pan.",
+   "item": "mixture",
+   "answer": "Pour the mixture into the pan."
+  },
+  {
+   "id": "L4U09-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add some salt.",
+   "answer": "Add some salt."
+  },
+  {
+   "id": "L4U09-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add some sugar.",
+   "answer": "Add some sugar."
+  },
+  {
+   "id": "L4U09-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Add some butter.",
+   "answer": "Add some butter."
+  },
+  {
+   "id": "L4U09-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, wash your hands.",
+   "answer": "First, wash your hands."
+  },
+  {
+   "id": "L4U09-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, put on your apron.",
+   "answer": "First, put on your apron."
+  },
+  {
+   "id": "L4U09-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, read the recipe.",
+   "answer": "First, read the recipe."
+  },
+  {
+   "id": "L4U09-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the cake in the oven.",
+   "answer": "Put the cake in the oven."
+  },
+  {
+   "id": "L4U09-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the pizza in the oven.",
+   "answer": "Put the pizza in the oven."
+  },
+  {
+   "id": "L4U09-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the bread in the oven.",
+   "answer": "Put the bread in the oven."
+  },
+  {
+   "id": "L4U09-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Let's make pancakes! Do we have all the ingredients?",
+   "answer": "We have flour, eggs and milk."
+  },
+  {
+   "id": "L4U09-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I'm thirsty. Can we make a smoothie?",
+   "answer": "Sure! What fruit do you want?"
+  },
+  {
+   "id": "L4U09-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sure! What fruit do you want?",
+   "answer": "A banana, please."
+  },
+  {
+   "id": "L4U09-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cucumber",
+   "options": [
+    "avocado",
+    "cucumber",
+    "cherry"
+   ],
+   "answer": "cucumber"
+  },
+  {
+   "id": "L4U09-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cherry",
+   "options": [
+    "kiwi",
+    "avocado",
+    "cherry"
+   ],
+   "answer": "cherry"
+  },
+  {
+   "id": "L4U09-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kiwi",
+   "options": [
+    "kiwi",
+    "cherry",
+    "cucumber"
+   ],
+   "answer": "kiwi"
+  },
+  {
+   "id": "L4U09-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "avocado",
+   "options": [
+    "cherry",
+    "kiwi",
+    "avocado"
+   ],
+   "answer": "avocado"
+  },
+  {
+   "id": "L4U09-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is Grandma's ___ for soup.",
+   "item": "recipe",
+   "options": [
+    "dough",
+    "smoothie",
+    "recipe"
+   ],
+   "answer": "recipe"
+  },
+  {
+   "id": "L4U09-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ do we need?",
+   "item": "ingredient",
+   "options": [
+    "cherrys",
+    "kiwis",
+    "ingredients"
+   ],
+   "answer": "ingredients"
+  },
+  {
+   "id": "L4U09-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We need ___ to make bread.",
+   "item": "flour",
+   "options": [
+    "flour",
+    "recipe",
+    "roll"
+   ],
+   "answer": "flour"
+  },
+  {
+   "id": "L4U09-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the cake in the ___.",
+   "item": "oven",
+   "options": [
+    "ingredient",
+    "oven",
+    "measure"
+   ],
+   "answer": "oven"
+  },
+  {
+   "id": "L4U09-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cook the rice in a big ___.",
+   "item": "pot",
+   "options": [
+    "vinegar",
+    "kettle",
+    "pot"
+   ],
+   "answer": "pot"
+  },
+  {
+   "id": "L4U09-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the eggs for ten minutes.",
+   "item": "boil",
+   "options": [
+    "Cucumber",
+    "Boil",
+    "Melt"
+   ],
+   "answer": "Boil"
+  },
+  {
+   "id": "L4U09-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the onion into small pieces.",
+   "item": "chop",
+   "options": [
+    "Cherry",
+    "Chop",
+    "Burnt"
+   ],
+   "answer": "Chop"
+  },
+  {
+   "id": "L4U09-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the soup with a spoon.",
+   "item": "stir",
+   "options": [
+    "Slice",
+    "Gram",
+    "Stir"
+   ],
+   "answer": "Stir"
+  },
+  {
+   "id": "L4U09-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the milk into the bowl.",
+   "item": "pour",
+   "options": [
+    "Melt",
+    "Pour",
+    "Raw"
+   ],
+   "answer": "Pour"
+  },
+  {
+   "id": "L4U09-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I have a ___ of cake?",
+   "item": "slice",
+   "options": [
+    "slice",
+    "boil",
+    "spread"
+   ],
+   "answer": "slice"
+  },
+  {
+   "id": "L4U09-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the banana.",
+   "item": "peel",
+   "options": [
+    "Smoothie",
+    "Burnt",
+    "Peel"
+   ],
+   "answer": "Peel"
+  },
+  {
+   "id": "L4U09-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ some salt.",
+   "item": "add",
+   "options": [
+    "Litre",
+    "Add",
+    "Gram"
+   ],
+   "answer": "Add"
+  },
+  {
+   "id": "L4U09-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the oil in the frying pan.",
+   "item": "heat",
+   "options": [
+    "Lettuce",
+    "Heat",
+    "Litre"
+   ],
+   "answer": "Heat"
+  },
+  {
+   "id": "L4U09-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ice cream is ___!",
+   "item": "melt",
+   "options": [
+    "avocadoing",
+    "melting",
+    "poting"
+   ],
+   "answer": "melting"
+  },
+  {
+   "id": "L4U09-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ butter on the bread.",
+   "item": "spread",
+   "options": [
+    "Lettuce",
+    "Oven",
+    "Spread"
+   ],
+   "answer": "Spread"
+  },
+  {
+   "id": "L4U09-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ sugar on the pancake.",
+   "item": "sprinkle",
+   "options": [
+    "Sprinkle",
+    "Omelette",
+    "Apron"
+   ],
+   "answer": "Sprinkle"
+  },
+  {
+   "id": "L4U09-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the dough into a ball.",
+   "item": "roll",
+   "options": [
+    "Avocado",
+    "Roll",
+    "Burnt"
+   ],
+   "answer": "Roll"
+  },
+  {
+   "id": "L4U09-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the eggs and milk together.",
+   "item": "whisk",
+   "options": [
+    "Litre",
+    "Whisk",
+    "Cucumber"
+   ],
+   "answer": "Whisk"
+  },
+  {
+   "id": "L4U09-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the flour carefully.",
+   "item": "measure",
+   "options": [
+    "Measure",
+    "Pot",
+    "Ingredient"
+   ],
+   "answer": "Measure"
+  },
+  {
+   "id": "L4U09-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Add a ___ of sugar.",
+   "item": "teaspoon",
+   "options": [
+    "roll",
+    "teaspoon",
+    "boil"
+   ],
+   "answer": "teaspoon"
+  },
+  {
+   "id": "L4U09-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We need two hundred ___ of flour.",
+   "item": "gram",
+   "options": [
+    "avocados",
+    "cucumbers",
+    "grams"
+   ],
+   "answer": "grams"
+  },
+  {
+   "id": "L4U09-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Buy a ___ of milk, please.",
+   "item": "litre",
+   "options": [
+    "litre",
+    "smoothie",
+    "boil"
+   ],
+   "answer": "litre"
+  },
+  {
+   "id": "L4U09-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The pizza ___ is soft.",
+   "item": "dough",
+   "options": [
+    "dough",
+    "measure",
+    "cabbage"
+   ],
+   "answer": "dough"
+  },
+  {
+   "id": "L4U09-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't eat ___ meat.",
+   "item": "raw",
+   "options": [
+    "burnt",
+    "raw",
+    "litre"
+   ],
+   "answer": "raw"
+  },
+  {
+   "id": "L4U09-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Oh no! The toast is ___.",
+   "item": "burnt",
+   "options": [
+    "teaspoon",
+    "gram",
+    "burnt"
+   ],
+   "answer": "burnt"
+  },
+  {
+   "id": "L4U09-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on your ___ before you cook.",
+   "item": "apron",
+   "options": [
+    "recipe",
+    "add",
+    "apron"
+   ],
+   "answer": "apron"
+  },
+  {
+   "id": "L4U09-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is hot. Don't touch it.",
+   "item": "kettle",
+   "options": [
+    "smoothie",
+    "stir",
+    "kettle"
+   ],
+   "answer": "kettle"
+  },
+  {
+   "id": "L4U09-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I made an ___ for breakfast.",
+   "item": "omelette",
+   "options": [
+    "dough",
+    "omelette",
+    "steam"
+   ],
+   "answer": "omelette"
+  },
+  {
+   "id": "L4U09-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A banana ___ is delicious.",
+   "item": "smoothie",
+   "options": [
+    "smoothie",
+    "kiwi",
+    "dough"
+   ],
+   "answer": "smoothie"
+  },
+  {
+   "id": "L4U09-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Slice the ___ for the salad.",
+   "item": "cucumber",
+   "options": [
+    "pot",
+    "cucumber",
+    "ingredient"
+   ],
+   "answer": "cucumber"
+  },
+  {
+   "id": "L4U09-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wash the ___ in cold water.",
+   "item": "lettuce",
+   "options": [
+    "lettuce",
+    "boil",
+    "chop"
+   ],
+   "answer": "lettuce"
+  },
+  {
+   "id": "L4U09-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is good for you.",
+   "item": "broccoli",
+   "options": [
+    "Cucumber",
+    "Broccoli",
+    "Smoothie"
+   ],
+   "answer": "Broccoli"
+  },
+  {
+   "id": "L4U09-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma grows ___ in the garden.",
+   "item": "cabbage",
+   "options": [
+    "avocados",
+    "cabbages",
+    "kiwis"
+   ],
+   "answer": "cabbages"
+  },
+  {
+   "id": "L4U09-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put a ___ on top of the cake.",
+   "item": "cherry",
+   "options": [
+    "spread",
+    "cherry",
+    "avocado"
+   ],
+   "answer": "cherry"
+  },
+  {
+   "id": "L4U09-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is green inside.",
+   "item": "kiwi",
+   "options": [
+    "kiwi",
+    "steam",
+    "serve"
+   ],
+   "answer": "kiwi"
+  },
+  {
+   "id": "L4U09-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like ___ smoothies.",
+   "item": "avocado",
+   "options": [
+    "lettuce",
+    "cucumber",
+    "avocado"
+   ],
+   "answer": "avocado"
+  },
+  {
+   "id": "L4U09-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Add a little ___ to the salad.",
+   "item": "vinegar",
+   "options": [
+    "dough",
+    "vinegar",
+    "melt"
+   ],
+   "answer": "vinegar"
+  },
+  {
+   "id": "L4U09-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum ___ the fish with ginger.",
+   "item": "steam",
+   "options": [
+    "steams",
+    "cucumbers",
+    "avocados"
+   ],
+   "answer": "steams"
+  },
+  {
+   "id": "L4U09-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the soup hot.",
+   "item": "serve",
+   "options": [
+    "Smoothie",
+    "Serve",
+    "Pot"
+   ],
+   "answer": "Serve"
+  },
+  {
+   "id": "L4U09-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Pour the ___ into the pan.",
+   "item": "mixture",
+   "options": [
+    "heat",
+    "mixture",
+    "recipe"
+   ],
+   "answer": "mixture"
+  },
+  {
+   "id": "L4U09-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Slice the cucumber for the salad.",
+   "item": "cucumber",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U09-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put a cherry on top of the cake.",
+   "item": "kiwi",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U09-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A kiwi is green inside.",
+   "item": "kiwi",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U09-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I like avocado smoothies.",
+   "item": "cucumber",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U09-Q149",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U09-R01",
+   "text_en": "What should you do first?",
+   "options": [
+    "Peel the banana.",
+    "Wash your hands and put on an apron.",
+    "Add honey."
+   ],
+   "answer": "Wash your hands and put on an apron."
+  },
+  {
+   "id": "L4U09-Q150",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U09-R01",
+   "text_en": "Who should help you with the knife?",
+   "options": [
+    "An adult.",
+    "Nobody.",
+    "A friend."
+   ],
+   "answer": "An adult."
+  },
+  {
+   "id": "L4U09-Q151",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U09-R01",
+   "text_en": "Where do you put the bowl at the end?",
+   "options": [
+    "In the fridge.",
+    "In the oven.",
+    "On the table."
+   ],
+   "answer": "In the fridge."
+  },
+  {
+   "id": "L4U09-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "recipe",
+   "item": "recipe",
+   "answer": "recipe"
+  },
+  {
+   "id": "L4U09-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "ingredient",
+   "item": "ingredient",
+   "answer": "ingredient"
+  },
+  {
+   "id": "L4U09-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "flour",
+   "item": "flour",
+   "answer": "flour"
+  },
+  {
+   "id": "L4U09-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "oven",
+   "item": "oven",
+   "answer": "oven"
+  },
+  {
+   "id": "L4U09-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "pot",
+   "item": "pot",
+   "answer": "pot"
+  },
+  {
+   "id": "L4U09-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "boil",
+   "item": "boil",
+   "answer": "boil"
+  },
+  {
+   "id": "L4U09-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "chop",
+   "item": "chop",
+   "answer": "chop"
+  },
+  {
+   "id": "L4U09-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "stir",
+   "item": "stir",
+   "answer": "stir"
+  },
+  {
+   "id": "L4U09-Q160",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "This is Grandma's recipe for soup.",
+   "answer": "This is Grandma's recipe for soup."
+  },
+  {
+   "id": "L4U09-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What ingredients do we need?",
+   "answer": "What ingredients do we need?"
+  },
+  {
+   "id": "L4U09-Q162",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We need flour to make bread.",
+   "answer": "We need flour to make bread."
+  }
+ ]
+}

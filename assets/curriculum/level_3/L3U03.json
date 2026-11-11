@@ -1,0 +1,2637 @@
+{
+ "id": "L3U03",
+ "level": 3,
+ "unit": 3,
+ "topic_en": "Plans",
+ "topic_vi": "Dự định",
+ "can_do_vi": [
+  "Nói về dự định với \"going to\"",
+  "Hỏi bạn sẽ làm gì cuối tuần"
+ ],
+ "grammar_note_vi": "Nói dự định dùng \"be going to + động từ\": \"I'm going to visit Grandma.\" (Tớ định đi thăm bà.) Hỏi bạn: \"What are you going to do?\"",
+ "items": [
+  {
+   "id": "L3U03-W01",
+   "type": "word",
+   "en": "plan",
+   "vi": "kế hoạch",
+   "ipa": "/plæn/",
+   "syllables": [
+    "plan"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5D2-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "What's your plan for the weekend?",
+   "example_vi": "Cậu có kế hoạch gì cho cuối tuần?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W02",
+   "type": "phrase",
+   "en": "going to",
+   "vi": "sẽ, định",
+   "ipa": "/ɡoʊɪŋ tɪ/",
+   "syllables": [
+    "going",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F51C"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I'm going to visit my grandma.",
+   "example_vi": "Tớ định đi thăm bà.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W03",
+   "type": "word",
+   "en": "start",
+   "vi": "bắt đầu",
+   "ipa": "/stɑrt/",
+   "syllables": [
+    "start"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3C1"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "The party starts at five o'clock.",
+   "example_vi": "Bữa tiệc bắt đầu lúc năm giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W04",
+   "type": "word",
+   "en": "finish",
+   "vi": "làm xong, kết thúc",
+   "ipa": "/ˈfɪnɪʃ/",
+   "syllables": [
+    "fin",
+    "ish"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3C1"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "I finish my homework before dinner.",
+   "example_vi": "Tớ làm xong bài tập trước bữa tối.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W05",
+   "type": "word",
+   "en": "learn",
+   "vi": "học",
+   "ipa": "/lʌrn/",
+   "syllables": [
+    "learn"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I'm going to learn to swim.",
+   "example_vi": "Tớ sẽ học bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W06",
+   "type": "word",
+   "en": "test",
+   "vi": "bài kiểm tra",
+   "ipa": "/tɛst/",
+   "syllables": [
+    "test"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4C3"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "We have a test tomorrow.",
+   "example_vi": "Ngày mai bọn tớ có bài kiểm tra.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W07",
+   "type": "word",
+   "en": "idea",
+   "vi": "ý tưởng",
+   "ipa": "/aɪˈdiə/",
+   "syllables": [
+    "idea"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "That's a great idea!",
+   "example_vi": "Ý hay đấy!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W08",
+   "type": "word",
+   "en": "soon",
+   "vi": "sớm, chẳng bao lâu nữa",
+   "ipa": "/sun/",
+   "syllables": [
+    "soon"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "See you soon!",
+   "example_vi": "Hẹn sớm gặp lại!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W09",
+   "type": "word",
+   "en": "later",
+   "vi": "lát nữa, sau",
+   "ipa": "/ˈleɪtər/",
+   "syllables": [
+    "lat",
+    "er"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "231B"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I'm going to play later.",
+   "example_vi": "Lát nữa tớ sẽ chơi.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W10",
+   "type": "word",
+   "en": "tonight",
+   "vi": "tối nay",
+   "ipa": "/təˈnaɪt/",
+   "syllables": [
+    "tonight"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F31B"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "What are you going to do tonight?",
+   "example_vi": "Tối nay cậu định làm gì?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W11",
+   "type": "word",
+   "en": "maybe",
+   "vi": "có lẽ",
+   "ipa": "/ˈmeɪbi/",
+   "syllables": [
+    "maybe"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F937"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Maybe we can go to the zoo.",
+   "example_vi": "Có lẽ mình sẽ đi sở thú.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W12",
+   "type": "word",
+   "en": "ready",
+   "vi": "sẵn sàng",
+   "ipa": "/ˈrɛdi/",
+   "syllables": [
+    "ready"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Are you ready? Let's go!",
+   "example_vi": "Cậu sẵn sàng chưa? Đi thôi!",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W13",
+   "type": "word",
+   "en": "wait",
+   "vi": "chờ",
+   "ipa": "/weɪt/",
+   "syllables": [
+    "wait"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "23F8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Wait for me, please!",
+   "example_vi": "Chờ tớ với!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W14",
+   "type": "word",
+   "en": "hope",
+   "vi": "hy vọng, mong",
+   "ipa": "/hoʊp/",
+   "syllables": [
+    "hope"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F340"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I hope it's sunny tomorrow.",
+   "example_vi": "Tớ mong mai trời nắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W15",
+   "type": "word",
+   "en": "decide",
+   "vi": "quyết định",
+   "ipa": "/ˌdɪˈsaɪd/",
+   "syllables": [
+    "de",
+    "cide"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Let's decide together.",
+   "example_vi": "Mình cùng quyết định nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W16",
+   "type": "word",
+   "en": "camping",
+   "vi": "cắm trại",
+   "ipa": "/ˈkæmpɪŋ/",
+   "syllables": [
+    "camp",
+    "ing"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D5-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "We are going camping in the forest.",
+   "example_vi": "Nhà tớ sẽ đi cắm trại trong rừng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W17",
+   "type": "word",
+   "en": "tent",
+   "vi": "cái lều",
+   "ipa": "/tɛnt/",
+   "syllables": [
+    "tent"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "26FA"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "We sleep in a tent.",
+   "example_vi": "Bọn tớ ngủ trong lều.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W18",
+   "type": "word",
+   "en": "pack",
+   "vi": "xếp đồ",
+   "ipa": "/pæk/",
+   "syllables": [
+    "pack"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F392"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Pack your bag tonight.",
+   "example_vi": "Tối nay xếp ba lô đi nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W19",
+   "type": "word",
+   "en": "torch",
+   "vi": "đèn pin",
+   "ipa": "/tɔrtʃ/",
+   "syllables": [
+    "torch"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F526"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "Take a torch. It's dark at night.",
+   "example_vi": "Mang đèn pin nhé. Ban đêm trời tối.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W20",
+   "type": "phrase",
+   "en": "sleeping bag",
+   "vi": "túi ngủ",
+   "ipa": "/sˈlipɪŋ bæɡ/",
+   "syllables": [
+    "sleep",
+    "ing",
+    "bag"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CC"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "My sleeping bag is warm.",
+   "example_vi": "Túi ngủ của tớ ấm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W21",
+   "type": "word",
+   "en": "campfire",
+   "vi": "lửa trại",
+   "ipa": "/ˈkæmpˌfaɪər/",
+   "syllables": [
+    "camp",
+    "fire"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "We sit near the campfire.",
+   "example_vi": "Bọn tớ ngồi gần lửa trại.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W22",
+   "type": "word",
+   "en": "hike",
+   "vi": "đi bộ đường dài",
+   "ipa": "/haɪk/",
+   "syllables": [
+    "hike"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F97E"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "We hike up the mountain.",
+   "example_vi": "Nhà tớ đi bộ lên núi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W23",
+   "type": "word",
+   "en": "travel",
+   "vi": "đi du lịch",
+   "ipa": "/ˈtrævəl/",
+   "syllables": [
+    "trav",
+    "el"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2708-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I want to travel by plane.",
+   "example_vi": "Tớ muốn đi du lịch bằng máy bay.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W24",
+   "type": "word",
+   "en": "concert",
+   "vi": "buổi hoà nhạc",
+   "ipa": "/ˈkɑnsərt/",
+   "syllables": [
+    "con",
+    "cert"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3BC"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "We're going to a concert on Saturday.",
+   "example_vi": "Thứ Bảy nhà tớ đi xem hoà nhạc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W25",
+   "type": "word",
+   "en": "show",
+   "vi": "buổi biểu diễn, cho xem",
+   "ipa": "/ʃoʊ/",
+   "syllables": [
+    "show"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3AA"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Show me your drawing!",
+   "example_vi": "Cho tớ xem tranh của cậu nào!",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W26",
+   "type": "word",
+   "en": "fair",
+   "vi": "hội chợ",
+   "ipa": "/fɛr/",
+   "syllables": [
+    "fair"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3A1"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "There is a fair in the park.",
+   "example_vi": "Có hội chợ ở công viên.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W27",
+   "type": "word",
+   "en": "adventure",
+   "vi": "cuộc phiêu lưu",
+   "ipa": "/ədˈvɛntʃər/",
+   "syllables": [
+    "ad",
+    "ven",
+    "ture"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Let's go on an adventure!",
+   "example_vi": "Mình đi phiêu lưu nào!",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W28",
+   "type": "word",
+   "en": "explore",
+   "vi": "khám phá",
+   "ipa": "/ɪkˈsplɔr/",
+   "syllables": [
+    "ex",
+    "plore"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Let's explore the cave.",
+   "example_vi": "Mình khám phá hang động nào.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W29",
+   "type": "phrase",
+   "en": "a lot",
+   "vi": "nhiều",
+   "ipa": "/ə lɔt/",
+   "syllables": [
+    "a",
+    "lot"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "I have a lot of homework.",
+   "example_vi": "Tớ có nhiều bài tập lắm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W30",
+   "type": "word",
+   "en": "out",
+   "vi": "ra ngoài",
+   "ipa": "/aʊt/",
+   "syllables": [
+    "out"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "Let's go out and play.",
+   "example_vi": "Mình ra ngoài chơi đi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W31",
+   "type": "word",
+   "en": "song",
+   "vi": "bài hát",
+   "ipa": "/sɔŋ/",
+   "syllables": [
+    "song"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3B5"
+   },
+   "picturable": true,
+   "cat": "L3U03",
+   "example_en": "Let's sing a song.",
+   "example_vi": "Mình hát một bài nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U03-W32",
+   "type": "phrase",
+   "en": "next week",
+   "vi": "tuần sau",
+   "ipa": "/nɛkst wik/",
+   "syllables": [
+    "next",
+    "week"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4C6"
+   },
+   "picturable": false,
+   "cat": "L3U03",
+   "example_en": "We are going to the beach next week.",
+   "example_vi": "Tuần sau nhà tớ đi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U03-P01",
+   "en": "I'm going to {x} this weekend.",
+   "vi": "Cuối tuần này tớ định {x}.",
+   "slots": {
+    "x": [
+     "go camping",
+     "visit my grandma",
+     "learn to swim",
+     "play football"
+    ]
+   }
+  },
+  {
+   "id": "L3U03-P02",
+   "en": "Are you going to {x}?",
+   "vi": "Cậu có định {x} không?",
+   "slots": {
+    "x": [
+     "go to the fair",
+     "watch the concert",
+     "explore the cave"
+    ]
+   }
+  },
+  {
+   "id": "L3U03-P03",
+   "en": "I hope it's {x} tomorrow.",
+   "vi": "Tớ mong mai trời {x}.",
+   "slots": {
+    "x": [
+     "sunny",
+     "warm",
+     "windy"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U03-D01",
+   "title_vi": "Kế hoạch cuối tuần",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you going to do this weekend?",
+     "vi": "Cuối tuần này cậu định làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm going to go camping with my family.",
+     "vi": "Tớ định đi cắm trại với gia đình."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! Where are you going to sleep?",
+     "vi": "Oa! Cậu sẽ ngủ ở đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "In a tent in the forest.",
+     "vi": "Trong lều ở trong rừng."
+    },
+    {
+     "role": "Bi",
+     "en": "Don't forget your torch!",
+     "vi": "Đừng quên đèn pin nhé!"
+    },
+    {
+     "role": "Kid",
+     "en": "Good idea!",
+     "vi": "Ý hay đấy!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "camping",
+    "options": [
+     "fishing",
+     "hiking"
+    ]
+   }
+  },
+  {
+   "id": "L3U03-D02",
+   "title_vi": "Đi hội chợ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Are you ready, Bi?",
+     "vi": "Cậu sẵn sàng chưa, Bi?"
+    },
+    {
+     "role": "Bi",
+     "en": "Ready! Where are we going?",
+     "vi": "Sẵn sàng! Mình đi đâu thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "We are going to the fair.",
+     "vi": "Mình đi hội chợ."
+    },
+    {
+     "role": "Bi",
+     "en": "Great! Can we go on the big wheel?",
+     "vi": "Tuyệt! Mình đi đu quay được không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, but we have to wait.",
+     "vi": "Được, nhưng phải chờ đấy."
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "fair",
+    "options": [
+     "concert",
+     "show"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "plan"
+  },
+  {
+   "type": "dictate_word",
+   "target": "start"
+  },
+  {
+   "type": "dictate_word",
+   "target": "finish"
+  },
+  {
+   "type": "dictate_word",
+   "target": "learn"
+  },
+  {
+   "type": "dictate_word",
+   "target": "test"
+  },
+  {
+   "type": "dictate_word",
+   "target": "idea"
+  },
+  {
+   "type": "dictate_word",
+   "target": "soon"
+  },
+  {
+   "type": "dictate_word",
+   "target": "later"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's your plan for the weekend?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I'm going to visit my grandma."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The party starts at five o'clock."
+  },
+  {
+   "type": "write_sentences",
+   "target": "This weekend I'm going to|Next week I'm going to|I hope"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U03-R01",
+   "title_en": "Our camping plan",
+   "text_en": [
+    "Next week, my family is going to go camping.",
+    "We are going to drive to a forest near a big lake.",
+    "My dad is going to put up the tent.",
+    "My mum is going to cook dinner on the campfire.",
+    "My sister and I are going to explore the forest with a torch.",
+    "At night, we are going to look at the stars and sing songs.",
+    "I hope it's sunny.",
+    "It's going to be a great adventure!"
+   ],
+   "questions": [
+    {
+     "q": "Where is the family going to go?",
+     "options": [
+      "Camping in a forest.",
+      "To the beach.",
+      "To the city."
+     ],
+     "answer": "Camping in a forest."
+    },
+    {
+     "q": "Who is going to cook dinner?",
+     "options": [
+      "Mum.",
+      "Dad.",
+      "The sister."
+     ],
+     "answer": "Mum."
+    },
+    {
+     "q": "What are the children going to take to explore the forest?",
+     "options": [
+      "A torch.",
+      "A map.",
+      "A camera."
+     ],
+     "answer": "A torch."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U03-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "finish",
+   "item": "finish",
+   "options": [
+    "song",
+    "fair",
+    "finish",
+    "tent"
+   ],
+   "answer": "finish"
+  },
+  {
+   "id": "L3U03-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "camping",
+   "item": "camping",
+   "options": [
+    "camping",
+    "finish",
+    "torch",
+    "song"
+   ],
+   "answer": "camping"
+  },
+  {
+   "id": "L3U03-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tent",
+   "item": "tent",
+   "options": [
+    "tent",
+    "fair",
+    "torch",
+    "campfire"
+   ],
+   "answer": "tent"
+  },
+  {
+   "id": "L3U03-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "torch",
+   "item": "torch",
+   "options": [
+    "campfire",
+    "tent",
+    "song",
+    "torch"
+   ],
+   "answer": "torch"
+  },
+  {
+   "id": "L3U03-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "campfire",
+   "item": "campfire",
+   "options": [
+    "camping",
+    "campfire",
+    "finish",
+    "torch"
+   ],
+   "answer": "campfire"
+  },
+  {
+   "id": "L3U03-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fair",
+   "item": "fair",
+   "options": [
+    "fair",
+    "song",
+    "torch",
+    "campfire"
+   ],
+   "answer": "fair"
+  },
+  {
+   "id": "L3U03-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "song",
+   "item": "song",
+   "options": [
+    "torch",
+    "campfire",
+    "finish",
+    "song"
+   ],
+   "answer": "song"
+  },
+  {
+   "id": "L3U03-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "plan",
+   "item": "plan",
+   "options": [
+    "plan",
+    "song",
+    "sleeping bag",
+    "hope"
+   ],
+   "answer": "plan"
+  },
+  {
+   "id": "L3U03-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "going to",
+   "item": "going to",
+   "options": [
+    "explore",
+    "fair",
+    "next week",
+    "going to"
+   ],
+   "answer": "going to"
+  },
+  {
+   "id": "L3U03-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "start",
+   "item": "start",
+   "options": [
+    "torch",
+    "explore",
+    "pack",
+    "start"
+   ],
+   "answer": "start"
+  },
+  {
+   "id": "L3U03-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "learn",
+   "item": "learn",
+   "options": [
+    "soon",
+    "learn",
+    "finish",
+    "campfire"
+   ],
+   "answer": "learn"
+  },
+  {
+   "id": "L3U03-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "test",
+   "item": "test",
+   "options": [
+    "torch",
+    "camping",
+    "test",
+    "plan"
+   ],
+   "answer": "test"
+  },
+  {
+   "id": "L3U03-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "idea",
+   "item": "idea",
+   "options": [
+    "idea",
+    "soon",
+    "travel",
+    "sleeping bag"
+   ],
+   "answer": "idea"
+  },
+  {
+   "id": "L3U03-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "soon",
+   "item": "soon",
+   "options": [
+    "going to",
+    "soon",
+    "show",
+    "hike"
+   ],
+   "answer": "soon"
+  },
+  {
+   "id": "L3U03-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "later",
+   "item": "later",
+   "options": [
+    "sleeping bag",
+    "a lot",
+    "tent",
+    "later"
+   ],
+   "answer": "later"
+  },
+  {
+   "id": "L3U03-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tonight",
+   "item": "tonight",
+   "options": [
+    "tonight",
+    "campfire",
+    "idea",
+    "later"
+   ],
+   "answer": "tonight"
+  },
+  {
+   "id": "L3U03-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "maybe",
+   "item": "maybe",
+   "options": [
+    "soon",
+    "maybe",
+    "plan",
+    "hike"
+   ],
+   "answer": "maybe"
+  },
+  {
+   "id": "L3U03-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ready",
+   "item": "ready",
+   "options": [
+    "maybe",
+    "decide",
+    "hike",
+    "ready"
+   ],
+   "answer": "ready"
+  },
+  {
+   "id": "L3U03-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wait",
+   "item": "wait",
+   "options": [
+    "learn",
+    "wait",
+    "out",
+    "idea"
+   ],
+   "answer": "wait"
+  },
+  {
+   "id": "L3U03-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hope",
+   "item": "hope",
+   "options": [
+    "ready",
+    "maybe",
+    "sleeping bag",
+    "hope"
+   ],
+   "answer": "hope"
+  },
+  {
+   "id": "L3U03-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "decide",
+   "item": "decide",
+   "options": [
+    "decide",
+    "maybe",
+    "soon",
+    "travel"
+   ],
+   "answer": "decide"
+  },
+  {
+   "id": "L3U03-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pack",
+   "item": "pack",
+   "options": [
+    "pack",
+    "concert",
+    "ready",
+    "explore"
+   ],
+   "answer": "pack"
+  },
+  {
+   "id": "L3U03-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sleeping bag",
+   "item": "sleeping bag",
+   "options": [
+    "learn",
+    "sleeping bag",
+    "start",
+    "adventure"
+   ],
+   "answer": "sleeping bag"
+  },
+  {
+   "id": "L3U03-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hike",
+   "item": "hike",
+   "options": [
+    "hike",
+    "tonight",
+    "camping",
+    "going to"
+   ],
+   "answer": "hike"
+  },
+  {
+   "id": "L3U03-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "travel",
+   "item": "travel",
+   "options": [
+    "start",
+    "travel",
+    "out",
+    "hope"
+   ],
+   "answer": "travel"
+  },
+  {
+   "id": "L3U03-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "concert",
+   "item": "concert",
+   "options": [
+    "out",
+    "later",
+    "show",
+    "concert"
+   ],
+   "answer": "concert"
+  },
+  {
+   "id": "L3U03-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "show",
+   "item": "show",
+   "options": [
+    "fair",
+    "torch",
+    "show",
+    "test"
+   ],
+   "answer": "show"
+  },
+  {
+   "id": "L3U03-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "adventure",
+   "item": "adventure",
+   "options": [
+    "learn",
+    "adventure",
+    "travel",
+    "tent"
+   ],
+   "answer": "adventure"
+  },
+  {
+   "id": "L3U03-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "explore",
+   "item": "explore",
+   "options": [
+    "learn",
+    "concert",
+    "next week",
+    "explore"
+   ],
+   "answer": "explore"
+  },
+  {
+   "id": "L3U03-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "a lot",
+   "item": "a lot",
+   "options": [
+    "campfire",
+    "concert",
+    "a lot",
+    "wait"
+   ],
+   "answer": "a lot"
+  },
+  {
+   "id": "L3U03-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "out",
+   "item": "out",
+   "options": [
+    "later",
+    "going to",
+    "next week",
+    "out"
+   ],
+   "answer": "out"
+  },
+  {
+   "id": "L3U03-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "next week",
+   "item": "next week",
+   "options": [
+    "out",
+    "next week",
+    "later",
+    "tent"
+   ],
+   "answer": "next week"
+  },
+  {
+   "id": "L3U03-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "finish",
+   "answer": "finish"
+  },
+  {
+   "id": "L3U03-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "camping",
+   "answer": "camping"
+  },
+  {
+   "id": "L3U03-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tent",
+   "answer": "tent"
+  },
+  {
+   "id": "L3U03-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "torch",
+   "answer": "torch"
+  },
+  {
+   "id": "L3U03-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "campfire",
+   "answer": "campfire"
+  },
+  {
+   "id": "L3U03-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fair",
+   "answer": "fair"
+  },
+  {
+   "id": "L3U03-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "song",
+   "answer": "song"
+  },
+  {
+   "id": "L3U03-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your plan for the weekend?",
+   "item": "plan",
+   "answer": "What's your plan for the weekend?"
+  },
+  {
+   "id": "L3U03-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to visit my grandma.",
+   "item": "going to",
+   "answer": "I'm going to visit my grandma."
+  },
+  {
+   "id": "L3U03-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The party starts at five o'clock.",
+   "item": "start",
+   "answer": "The party starts at five o'clock."
+  },
+  {
+   "id": "L3U03-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I finish my homework before dinner.",
+   "item": "finish",
+   "answer": "I finish my homework before dinner."
+  },
+  {
+   "id": "L3U03-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to learn to swim.",
+   "item": "learn",
+   "answer": "I'm going to learn to swim."
+  },
+  {
+   "id": "L3U03-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a test tomorrow.",
+   "item": "test",
+   "answer": "We have a test tomorrow."
+  },
+  {
+   "id": "L3U03-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That's a great idea!",
+   "item": "idea",
+   "answer": "That's a great idea!"
+  },
+  {
+   "id": "L3U03-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "See you soon!",
+   "item": "soon",
+   "answer": "See you soon!"
+  },
+  {
+   "id": "L3U03-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to play later.",
+   "item": "later",
+   "answer": "I'm going to play later."
+  },
+  {
+   "id": "L3U03-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What are you going to do tonight?",
+   "item": "tonight",
+   "answer": "What are you going to do tonight?"
+  },
+  {
+   "id": "L3U03-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Maybe we can go to the zoo.",
+   "item": "maybe",
+   "answer": "Maybe we can go to the zoo."
+  },
+  {
+   "id": "L3U03-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you ready? Let's go!",
+   "item": "ready",
+   "answer": "Are you ready? Let's go!"
+  },
+  {
+   "id": "L3U03-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wait for me, please!",
+   "item": "wait",
+   "answer": "Wait for me, please!"
+  },
+  {
+   "id": "L3U03-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope it's sunny tomorrow.",
+   "item": "hope",
+   "answer": "I hope it's sunny tomorrow."
+  },
+  {
+   "id": "L3U03-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's decide together.",
+   "item": "decide",
+   "answer": "Let's decide together."
+  },
+  {
+   "id": "L3U03-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We are going camping in the forest.",
+   "item": "camping",
+   "answer": "We are going camping in the forest."
+  },
+  {
+   "id": "L3U03-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We sleep in a tent.",
+   "item": "tent",
+   "answer": "We sleep in a tent."
+  },
+  {
+   "id": "L3U03-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pack your bag tonight.",
+   "item": "pack",
+   "answer": "Pack your bag tonight."
+  },
+  {
+   "id": "L3U03-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Take a torch. It's dark at night.",
+   "item": "torch",
+   "answer": "Take a torch. It's dark at night."
+  },
+  {
+   "id": "L3U03-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sleeping bag is warm.",
+   "item": "sleeping bag",
+   "answer": "My sleeping bag is warm."
+  },
+  {
+   "id": "L3U03-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We sit near the campfire.",
+   "item": "campfire",
+   "answer": "We sit near the campfire."
+  },
+  {
+   "id": "L3U03-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We hike up the mountain.",
+   "item": "hike",
+   "answer": "We hike up the mountain."
+  },
+  {
+   "id": "L3U03-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to travel by plane.",
+   "item": "travel",
+   "answer": "I want to travel by plane."
+  },
+  {
+   "id": "L3U03-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We're going to a concert on Saturday.",
+   "item": "concert",
+   "answer": "We're going to a concert on Saturday."
+  },
+  {
+   "id": "L3U03-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Show me your drawing!",
+   "item": "show",
+   "answer": "Show me your drawing!"
+  },
+  {
+   "id": "L3U03-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a fair in the park.",
+   "item": "fair",
+   "answer": "There is a fair in the park."
+  },
+  {
+   "id": "L3U03-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go on an adventure!",
+   "item": "adventure",
+   "answer": "Let's go on an adventure!"
+  },
+  {
+   "id": "L3U03-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's explore the cave.",
+   "item": "explore",
+   "answer": "Let's explore the cave."
+  },
+  {
+   "id": "L3U03-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a lot of homework.",
+   "item": "a lot",
+   "answer": "I have a lot of homework."
+  },
+  {
+   "id": "L3U03-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go out and play.",
+   "item": "out",
+   "answer": "Let's go out and play."
+  },
+  {
+   "id": "L3U03-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's sing a song.",
+   "item": "song",
+   "answer": "Let's sing a song."
+  },
+  {
+   "id": "L3U03-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We are going to the beach next week.",
+   "item": "next week",
+   "answer": "We are going to the beach next week."
+  },
+  {
+   "id": "L3U03-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to go camping this weekend.",
+   "answer": "I'm going to go camping this weekend."
+  },
+  {
+   "id": "L3U03-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to visit my grandma this weekend.",
+   "answer": "I'm going to visit my grandma this weekend."
+  },
+  {
+   "id": "L3U03-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to learn to swim this weekend.",
+   "answer": "I'm going to learn to swim this weekend."
+  },
+  {
+   "id": "L3U03-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you going to go to the fair?",
+   "answer": "Are you going to go to the fair?"
+  },
+  {
+   "id": "L3U03-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you going to watch the concert?",
+   "answer": "Are you going to watch the concert?"
+  },
+  {
+   "id": "L3U03-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you going to explore the cave?",
+   "answer": "Are you going to explore the cave?"
+  },
+  {
+   "id": "L3U03-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope it's sunny tomorrow.",
+   "answer": "I hope it's sunny tomorrow."
+  },
+  {
+   "id": "L3U03-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope it's warm tomorrow.",
+   "answer": "I hope it's warm tomorrow."
+  },
+  {
+   "id": "L3U03-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope it's windy tomorrow.",
+   "answer": "I hope it's windy tomorrow."
+  },
+  {
+   "id": "L3U03-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you going to do this weekend?",
+   "answer": "I'm going to go camping with my family."
+  },
+  {
+   "id": "L3U03-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow! Where are you going to sleep?",
+   "answer": "In a tent in the forest."
+  },
+  {
+   "id": "L3U03-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are you ready, Bi?",
+   "answer": "Ready! Where are we going?"
+  },
+  {
+   "id": "L3U03-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Ready! Where are we going?",
+   "answer": "We are going to the fair."
+  },
+  {
+   "id": "L3U03-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Great! Can we go on the big wheel?",
+   "answer": "Yes, but we have to wait."
+  },
+  {
+   "id": "L3U03-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "finish",
+   "options": [
+    "finish",
+    "camping",
+    "song"
+   ],
+   "answer": "finish"
+  },
+  {
+   "id": "L3U03-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "camping",
+   "options": [
+    "finish",
+    "song",
+    "camping"
+   ],
+   "answer": "camping"
+  },
+  {
+   "id": "L3U03-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tent",
+   "options": [
+    "tent",
+    "torch",
+    "campfire"
+   ],
+   "answer": "tent"
+  },
+  {
+   "id": "L3U03-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "torch",
+   "options": [
+    "fair",
+    "torch",
+    "campfire"
+   ],
+   "answer": "torch"
+  },
+  {
+   "id": "L3U03-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "campfire",
+   "options": [
+    "finish",
+    "torch",
+    "campfire"
+   ],
+   "answer": "campfire"
+  },
+  {
+   "id": "L3U03-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fair",
+   "options": [
+    "fair",
+    "song",
+    "finish"
+   ],
+   "answer": "fair"
+  },
+  {
+   "id": "L3U03-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "song",
+   "options": [
+    "campfire",
+    "song",
+    "torch"
+   ],
+   "answer": "song"
+  },
+  {
+   "id": "L3U03-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's your ___ for the weekend?",
+   "item": "plan",
+   "options": [
+    "pack",
+    "tonight",
+    "plan"
+   ],
+   "answer": "plan"
+  },
+  {
+   "id": "L3U03-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The party ___ at five o'clock.",
+   "item": "start",
+   "options": [
+    "starts",
+    "campings",
+    "campfires"
+   ],
+   "answer": "starts"
+  },
+  {
+   "id": "L3U03-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my homework before dinner.",
+   "item": "finish",
+   "options": [
+    "finish",
+    "fair",
+    "later"
+   ],
+   "answer": "finish"
+  },
+  {
+   "id": "L3U03-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm going to ___ to swim.",
+   "item": "learn",
+   "options": [
+    "tent",
+    "learn",
+    "concert"
+   ],
+   "answer": "learn"
+  },
+  {
+   "id": "L3U03-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have a ___ tomorrow.",
+   "item": "test",
+   "options": [
+    "test",
+    "learn",
+    "maybe"
+   ],
+   "answer": "test"
+  },
+  {
+   "id": "L3U03-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That's a great ___!",
+   "item": "idea",
+   "options": [
+    "pack",
+    "song",
+    "idea"
+   ],
+   "answer": "idea"
+  },
+  {
+   "id": "L3U03-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "See you ___!",
+   "item": "soon",
+   "options": [
+    "test",
+    "plan",
+    "soon"
+   ],
+   "answer": "soon"
+  },
+  {
+   "id": "L3U03-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm going to play ___.",
+   "item": "later",
+   "options": [
+    "torch",
+    "learn",
+    "later"
+   ],
+   "answer": "later"
+  },
+  {
+   "id": "L3U03-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What are you going to do ___?",
+   "item": "tonight",
+   "options": [
+    "learn",
+    "test",
+    "tonight"
+   ],
+   "answer": "tonight"
+  },
+  {
+   "id": "L3U03-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ we can go to the zoo.",
+   "item": "maybe",
+   "options": [
+    "Plan",
+    "Torch",
+    "Maybe"
+   ],
+   "answer": "Maybe"
+  },
+  {
+   "id": "L3U03-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Are you ___? Let's go!",
+   "item": "ready",
+   "options": [
+    "ready",
+    "tonight",
+    "adventure"
+   ],
+   "answer": "ready"
+  },
+  {
+   "id": "L3U03-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ for me, please!",
+   "item": "wait",
+   "options": [
+    "Torch",
+    "Wait",
+    "Start"
+   ],
+   "answer": "Wait"
+  },
+  {
+   "id": "L3U03-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ it's sunny tomorrow.",
+   "item": "hope",
+   "options": [
+    "hope",
+    "tonight",
+    "campfire"
+   ],
+   "answer": "hope"
+  },
+  {
+   "id": "L3U03-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ together.",
+   "item": "decide",
+   "options": [
+    "out",
+    "start",
+    "decide"
+   ],
+   "answer": "decide"
+  },
+  {
+   "id": "L3U03-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We are going ___ in the forest.",
+   "item": "camping",
+   "options": [
+    "adventure",
+    "camping",
+    "torch"
+   ],
+   "answer": "camping"
+  },
+  {
+   "id": "L3U03-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We sleep in a ___.",
+   "item": "tent",
+   "options": [
+    "tent",
+    "later",
+    "show"
+   ],
+   "answer": "tent"
+  },
+  {
+   "id": "L3U03-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your bag tonight.",
+   "item": "pack",
+   "options": [
+    "Plan",
+    "Idea",
+    "Pack"
+   ],
+   "answer": "Pack"
+  },
+  {
+   "id": "L3U03-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Take a ___. It's dark at night.",
+   "item": "torch",
+   "options": [
+    "camping",
+    "pack",
+    "torch"
+   ],
+   "answer": "torch"
+  },
+  {
+   "id": "L3U03-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We sit near the ___.",
+   "item": "campfire",
+   "options": [
+    "start",
+    "maybe",
+    "campfire"
+   ],
+   "answer": "campfire"
+  },
+  {
+   "id": "L3U03-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ up the mountain.",
+   "item": "hike",
+   "options": [
+    "fair",
+    "hike",
+    "idea"
+   ],
+   "answer": "hike"
+  },
+  {
+   "id": "L3U03-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to ___ by plane.",
+   "item": "travel",
+   "options": [
+    "travel",
+    "test",
+    "idea"
+   ],
+   "answer": "travel"
+  },
+  {
+   "id": "L3U03-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We're going to a ___ on Saturday.",
+   "item": "concert",
+   "options": [
+    "concert",
+    "start",
+    "soon"
+   ],
+   "answer": "concert"
+  },
+  {
+   "id": "L3U03-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ me your drawing!",
+   "item": "show",
+   "options": [
+    "Show",
+    "Later",
+    "Test"
+   ],
+   "answer": "Show"
+  },
+  {
+   "id": "L3U03-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ in the park.",
+   "item": "fair",
+   "options": [
+    "show",
+    "explore",
+    "fair"
+   ],
+   "answer": "fair"
+  },
+  {
+   "id": "L3U03-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's go on an ___!",
+   "item": "adventure",
+   "options": [
+    "finish",
+    "out",
+    "adventure"
+   ],
+   "answer": "adventure"
+  },
+  {
+   "id": "L3U03-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the cave.",
+   "item": "explore",
+   "options": [
+    "explore",
+    "tent",
+    "plan"
+   ],
+   "answer": "explore"
+  },
+  {
+   "id": "L3U03-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's go ___ and play.",
+   "item": "out",
+   "options": [
+    "out",
+    "decide",
+    "ready"
+   ],
+   "answer": "out"
+  },
+  {
+   "id": "L3U03-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's sing a ___.",
+   "item": "song",
+   "options": [
+    "song",
+    "explore",
+    "learn"
+   ],
+   "answer": "song"
+  },
+  {
+   "id": "L3U03-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I finish my homework before dinner.",
+   "item": "finish",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U03-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We are going camping in the forest.",
+   "item": "tent",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U03-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We sleep in a tent.",
+   "item": "tent",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U03-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Take a torch. It's dark at night.",
+   "item": "campfire",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U03-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We sit near the campfire.",
+   "item": "campfire",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U03-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There is a fair in the park.",
+   "item": "song",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U03-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's sing a song.",
+   "item": "song",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U03-Q128",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U03-R01",
+   "text_en": "Where is the family going to go?",
+   "options": [
+    "Camping in a forest.",
+    "To the beach.",
+    "To the city."
+   ],
+   "answer": "Camping in a forest."
+  },
+  {
+   "id": "L3U03-Q129",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U03-R01",
+   "text_en": "Who is going to cook dinner?",
+   "options": [
+    "Dad.",
+    "Mum.",
+    "The sister."
+   ],
+   "answer": "Mum."
+  },
+  {
+   "id": "L3U03-Q130",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U03-R01",
+   "text_en": "What are the children going to take to explore the forest?",
+   "options": [
+    "A camera.",
+    "A map.",
+    "A torch."
+   ],
+   "answer": "A torch."
+  },
+  {
+   "id": "L3U03-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "plan",
+   "item": "plan",
+   "answer": "plan"
+  },
+  {
+   "id": "L3U03-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "start",
+   "item": "start",
+   "answer": "start"
+  },
+  {
+   "id": "L3U03-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "finish",
+   "item": "finish",
+   "answer": "finish"
+  },
+  {
+   "id": "L3U03-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "learn",
+   "item": "learn",
+   "answer": "learn"
+  },
+  {
+   "id": "L3U03-Q135",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "test",
+   "item": "test",
+   "answer": "test"
+  },
+  {
+   "id": "L3U03-Q136",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "idea",
+   "item": "idea",
+   "answer": "idea"
+  },
+  {
+   "id": "L3U03-Q137",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "soon",
+   "item": "soon",
+   "answer": "soon"
+  },
+  {
+   "id": "L3U03-Q138",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "later",
+   "item": "later",
+   "answer": "later"
+  },
+  {
+   "id": "L3U03-Q139",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's your plan for the weekend?",
+   "answer": "What's your plan for the weekend?"
+  },
+  {
+   "id": "L3U03-Q140",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I'm going to visit my grandma.",
+   "answer": "I'm going to visit my grandma."
+  },
+  {
+   "id": "L3U03-Q141",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The party starts at five o'clock.",
+   "answer": "The party starts at five o'clock."
+  }
+ ]
+}

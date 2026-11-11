@@ -1,0 +1,1837 @@
+{
+ "id": "L1U08",
+ "level": 1,
+ "unit": 8,
+ "topic_en": "Mealtime",
+ "topic_vi": "Giờ ăn",
+ "can_do_vi": [
+  "Gọi tên món ăn trong bữa",
+  "Nói \"Can I have some ..., please?\""
+ ],
+ "items": [
+  {
+   "id": "L1U08-W01",
+   "type": "word",
+   "en": "breakfast",
+   "vi": "bữa sáng",
+   "ipa": "/ˈbrɛkfəst/",
+   "syllables": [
+    "break",
+    "fast"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F373"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I have eggs for breakfast.",
+   "example_vi": "Tớ ăn trứng vào bữa sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W02",
+   "type": "word",
+   "en": "lunch",
+   "vi": "bữa trưa",
+   "ipa": "/lʌntʃ/",
+   "syllables": [
+    "lunch"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F371"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I have rice for lunch.",
+   "example_vi": "Tớ ăn cơm vào bữa trưa.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W03",
+   "type": "word",
+   "en": "dinner",
+   "vi": "bữa tối",
+   "ipa": "/ˈdɪnər/",
+   "syllables": [
+    "din",
+    "ner"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F372"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Dinner is on the table.",
+   "example_vi": "Bữa tối ở trên bàn rồi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W04",
+   "type": "word",
+   "en": "chicken",
+   "vi": "thịt gà",
+   "ipa": "/ˈtʃɪkən/",
+   "syllables": [
+    "chick",
+    "en"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F357"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I like chicken.",
+   "example_vi": "Tớ thích thịt gà.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W05",
+   "type": "word",
+   "en": "meat",
+   "vi": "thịt",
+   "ipa": "/mit/",
+   "syllables": [
+    "meat"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F969"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Dad likes meat.",
+   "example_vi": "Bố thích thịt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W06",
+   "type": "word",
+   "en": "soup",
+   "vi": "canh, súp",
+   "ipa": "/sup/",
+   "syllables": [
+    "soup"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F963"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "The soup is hot.",
+   "example_vi": "Canh nóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W07",
+   "type": "word",
+   "en": "cheese",
+   "vi": "phô mai",
+   "ipa": "/tʃiz/",
+   "syllables": [
+    "cheese"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9C0"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I like cheese.",
+   "example_vi": "Tớ thích phô mai.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W08",
+   "type": "word",
+   "en": "pizza",
+   "vi": "bánh pizza",
+   "ipa": "/ˈpitsə/",
+   "syllables": [
+    "piz",
+    "za"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F355"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Pizza is my favourite.",
+   "example_vi": "Pizza là món tớ thích nhất.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W09",
+   "type": "word",
+   "en": "burger",
+   "vi": "bánh mì kẹp thịt",
+   "ipa": "/ˈbʌrɡər/",
+   "syllables": [
+    "burg",
+    "er"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F354"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Can I have a burger, please?",
+   "example_vi": "Cho tớ một cái bánh kẹp được không?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W10",
+   "type": "word",
+   "en": "chips",
+   "vi": "khoai tây chiên",
+   "ipa": "/tʃɪps/",
+   "syllables": [
+    "chips"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F35F"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I like chips.",
+   "example_vi": "Tớ thích khoai tây chiên.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W11",
+   "type": "word",
+   "en": "sausage",
+   "vi": "xúc xích",
+   "ipa": "/ˈsɔsɪdʒ/",
+   "syllables": [
+    "sausage"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F32D"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I want a sausage.",
+   "example_vi": "Tớ muốn một cái xúc xích.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W12",
+   "type": "phrase",
+   "en": "ice cream",
+   "vi": "kem",
+   "ipa": "/aɪs krim/",
+   "syllables": [
+    "ice",
+    "cream"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F366"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Can I have ice cream, please?",
+   "example_vi": "Cho tớ xin kem được không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W13",
+   "type": "word",
+   "en": "sweets",
+   "vi": "kẹo",
+   "ipa": "/swits/",
+   "syllables": [
+    "sweets"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F36C"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I have two sweets.",
+   "example_vi": "Tớ có hai cái kẹo.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W14",
+   "type": "word",
+   "en": "chocolate",
+   "vi": "sô-cô-la",
+   "ipa": "/ˈtʃɔklət/",
+   "syllables": [
+    "choco",
+    "late"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F36B"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I love chocolate.",
+   "example_vi": "Tớ mê sô-cô-la.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W15",
+   "type": "word",
+   "en": "tea",
+   "vi": "trà",
+   "ipa": "/ti/",
+   "syllables": [
+    "tea"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F375"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Grandma likes tea.",
+   "example_vi": "Bà thích trà.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W16",
+   "type": "word",
+   "en": "lemonade",
+   "vi": "nước chanh",
+   "ipa": "/ˈlɛməˈneɪd/",
+   "syllables": [
+    "lemonade"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F34B"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "Can I have lemonade, please?",
+   "example_vi": "Cho tớ xin nước chanh được không?",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W17",
+   "type": "word",
+   "en": "spoon",
+   "vi": "cái thìa",
+   "ipa": "/spun/",
+   "syllables": [
+    "spoon"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F944"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I eat soup with a spoon.",
+   "example_vi": "Tớ ăn canh bằng thìa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W18",
+   "type": "word",
+   "en": "bowl",
+   "vi": "cái bát",
+   "ipa": "/boʊl/",
+   "syllables": [
+    "bowl"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F35A"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "The rice is in the bowl.",
+   "example_vi": "Cơm ở trong bát.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U08-W19",
+   "type": "word",
+   "en": "thirsty",
+   "vi": "khát",
+   "ipa": "/ˈθʌrsti/",
+   "syllables": [
+    "thirsty"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "I'm thirsty.",
+   "example_vi": "Tớ khát.",
+   "pron_focus": [
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U08-W20",
+   "type": "word",
+   "en": "yummy",
+   "vi": "ngon",
+   "ipa": "/ˈjʌmi/",
+   "syllables": [
+    "yum",
+    "my"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F60B"
+   },
+   "picturable": true,
+   "cat": "L1U08",
+   "example_en": "This cake is yummy!",
+   "example_vi": "Bánh này ngon quá!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U08-P01",
+   "en": "Can I have some {x}, please?",
+   "vi": "Cho tớ xin ít {x} được không?",
+   "slots": {
+    "x": [
+     "soup",
+     "cheese",
+     "chips",
+     "chocolate"
+    ]
+   }
+  },
+  {
+   "id": "L1U08-P02",
+   "en": "I have {x} for breakfast.",
+   "vi": "Tớ ăn {x} vào bữa sáng.",
+   "slots": {
+    "x": [
+     "eggs",
+     "bread",
+     "milk",
+     "noodles"
+    ]
+   }
+  },
+  {
+   "id": "L1U08-P03",
+   "en": "This {x} is yummy!",
+   "vi": "{x} này ngon quá!",
+   "slots": {
+    "x": [
+     "pizza",
+     "burger",
+     "cake",
+     "soup"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U08-D01",
+   "title_vi": "Xin đồ ăn",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Are you hungry?",
+     "vi": "Cậu có đói không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! Can I have some soup, please?",
+     "vi": "Có! Cho tớ xin ít canh được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! Here you are.",
+     "vi": "Được chứ! Của cậu đây."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you! It's yummy!",
+     "vi": "Cảm ơn cậu! Ngon quá!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "soup",
+    "options": [
+     "pizza",
+     "chips",
+     "ice cream"
+    ]
+   }
+  },
+  {
+   "id": "L1U08-D02",
+   "title_vi": "Bữa sáng",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What do you have for breakfast?",
+     "vi": "Bữa sáng cậu ăn gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I have eggs for breakfast.",
+     "vi": "Bữa sáng tớ ăn trứng."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you drink milk?",
+     "vi": "Cậu có uống sữa không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, I do. I like milk.",
+     "vi": "Có. Tớ thích sữa."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "eggs",
+    "options": [
+     "bread",
+     "noodles"
+    ]
+   }
+  },
+  {
+   "id": "L1U08-D03",
+   "title_vi": "Tớ khát",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "I'm thirsty, Bi.",
+     "vi": "Bi ơi, tớ khát."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you want lemonade?",
+     "vi": "Cậu có muốn nước chanh không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, please!",
+     "vi": "Có ạ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Here you are.",
+     "vi": "Của cậu đây."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "lemonade",
+    "options": [
+     "water",
+     "juice"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "b"
+  },
+  {
+   "type": "write_letter",
+   "target": "l"
+  },
+  {
+   "type": "write_letter",
+   "target": "d"
+  },
+  {
+   "type": "write_letter",
+   "target": "c"
+  },
+  {
+   "type": "copy_word",
+   "target": "lunch"
+  },
+  {
+   "type": "copy_word",
+   "target": "dinner"
+  },
+  {
+   "type": "copy_word",
+   "target": "meat"
+  },
+  {
+   "type": "copy_word",
+   "target": "soup"
+  },
+  {
+   "type": "copy_word",
+   "target": "cheese"
+  },
+  {
+   "type": "copy_word",
+   "target": "pizza"
+  },
+  {
+   "type": "copy_word",
+   "target": "burger"
+  },
+  {
+   "type": "copy_word",
+   "target": "chips"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "breakfast",
+   "item": "breakfast",
+   "options": [
+    "breakfast",
+    "bowl",
+    "sausage",
+    "tea"
+   ],
+   "answer": "breakfast"
+  },
+  {
+   "id": "L1U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lunch",
+   "item": "lunch",
+   "options": [
+    "breakfast",
+    "ice cream",
+    "tea",
+    "lunch"
+   ],
+   "answer": "lunch"
+  },
+  {
+   "id": "L1U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dinner",
+   "item": "dinner",
+   "options": [
+    "chicken",
+    "sausage",
+    "chips",
+    "dinner"
+   ],
+   "answer": "dinner"
+  },
+  {
+   "id": "L1U08-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chicken",
+   "item": "chicken",
+   "options": [
+    "chicken",
+    "tea",
+    "breakfast",
+    "lunch"
+   ],
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U08-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "meat",
+   "item": "meat",
+   "options": [
+    "lemonade",
+    "chips",
+    "meat",
+    "thirsty"
+   ],
+   "answer": "meat"
+  },
+  {
+   "id": "L1U08-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "soup",
+   "item": "soup",
+   "options": [
+    "chocolate",
+    "spoon",
+    "cheese",
+    "soup"
+   ],
+   "answer": "soup"
+  },
+  {
+   "id": "L1U08-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cheese",
+   "item": "cheese",
+   "options": [
+    "chips",
+    "burger",
+    "lemonade",
+    "cheese"
+   ],
+   "answer": "cheese"
+  },
+  {
+   "id": "L1U08-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pizza",
+   "item": "pizza",
+   "options": [
+    "pizza",
+    "burger",
+    "sausage",
+    "chocolate"
+   ],
+   "answer": "pizza"
+  },
+  {
+   "id": "L1U08-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "burger",
+   "item": "burger",
+   "options": [
+    "sausage",
+    "bowl",
+    "burger",
+    "chips"
+   ],
+   "answer": "burger"
+  },
+  {
+   "id": "L1U08-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chips",
+   "item": "chips",
+   "options": [
+    "burger",
+    "spoon",
+    "chips",
+    "lemonade"
+   ],
+   "answer": "chips"
+  },
+  {
+   "id": "L1U08-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sausage",
+   "item": "sausage",
+   "options": [
+    "thirsty",
+    "chips",
+    "sausage",
+    "chocolate"
+   ],
+   "answer": "sausage"
+  },
+  {
+   "id": "L1U08-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ice cream",
+   "item": "ice cream",
+   "options": [
+    "chips",
+    "ice cream",
+    "tea",
+    "sausage"
+   ],
+   "answer": "ice cream"
+  },
+  {
+   "id": "L1U08-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sweets",
+   "item": "sweets",
+   "options": [
+    "chicken",
+    "sweets",
+    "chips",
+    "bowl"
+   ],
+   "answer": "sweets"
+  },
+  {
+   "id": "L1U08-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chocolate",
+   "item": "chocolate",
+   "options": [
+    "chocolate",
+    "cheese",
+    "meat",
+    "dinner"
+   ],
+   "answer": "chocolate"
+  },
+  {
+   "id": "L1U08-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tea",
+   "item": "tea",
+   "options": [
+    "tea",
+    "lemonade",
+    "yummy",
+    "pizza"
+   ],
+   "answer": "tea"
+  },
+  {
+   "id": "L1U08-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lemonade",
+   "item": "lemonade",
+   "options": [
+    "ice cream",
+    "chocolate",
+    "lemonade",
+    "chicken"
+   ],
+   "answer": "lemonade"
+  },
+  {
+   "id": "L1U08-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "spoon",
+   "item": "spoon",
+   "options": [
+    "lemonade",
+    "spoon",
+    "chips",
+    "bowl"
+   ],
+   "answer": "spoon"
+  },
+  {
+   "id": "L1U08-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bowl",
+   "item": "bowl",
+   "options": [
+    "yummy",
+    "pizza",
+    "bowl",
+    "chips"
+   ],
+   "answer": "bowl"
+  },
+  {
+   "id": "L1U08-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "thirsty",
+   "item": "thirsty",
+   "options": [
+    "bowl",
+    "breakfast",
+    "thirsty",
+    "dinner"
+   ],
+   "answer": "thirsty"
+  },
+  {
+   "id": "L1U08-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "yummy",
+   "item": "yummy",
+   "options": [
+    "yummy",
+    "tea",
+    "pizza",
+    "bowl"
+   ],
+   "answer": "yummy"
+  },
+  {
+   "id": "L1U08-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the breakfast red.",
+   "item": "breakfast",
+   "options": [
+    "breakfast",
+    "dinner",
+    "chicken"
+   ],
+   "answer": "breakfast",
+   "color": "red"
+  },
+  {
+   "id": "L1U08-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the lunch orange.",
+   "item": "lunch",
+   "options": [
+    "lunch",
+    "chicken",
+    "pizza"
+   ],
+   "answer": "lunch",
+   "color": "orange"
+  },
+  {
+   "id": "L1U08-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the dinner pink.",
+   "item": "dinner",
+   "options": [
+    "breakfast",
+    "dinner",
+    "tea"
+   ],
+   "answer": "dinner",
+   "color": "pink"
+  },
+  {
+   "id": "L1U08-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the chicken yellow.",
+   "item": "chicken",
+   "options": [
+    "lunch",
+    "chicken",
+    "pizza"
+   ],
+   "answer": "chicken",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U08-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "breakfast",
+   "answer": "breakfast"
+  },
+  {
+   "id": "L1U08-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lunch",
+   "answer": "lunch"
+  },
+  {
+   "id": "L1U08-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dinner",
+   "answer": "dinner"
+  },
+  {
+   "id": "L1U08-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chicken",
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U08-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "meat",
+   "answer": "meat"
+  },
+  {
+   "id": "L1U08-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "soup",
+   "answer": "soup"
+  },
+  {
+   "id": "L1U08-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cheese",
+   "answer": "cheese"
+  },
+  {
+   "id": "L1U08-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pizza",
+   "answer": "pizza"
+  },
+  {
+   "id": "L1U08-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "burger",
+   "answer": "burger"
+  },
+  {
+   "id": "L1U08-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chips",
+   "answer": "chips"
+  },
+  {
+   "id": "L1U08-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sausage",
+   "answer": "sausage"
+  },
+  {
+   "id": "L1U08-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ice cream",
+   "answer": "ice cream"
+  },
+  {
+   "id": "L1U08-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sweets",
+   "answer": "sweets"
+  },
+  {
+   "id": "L1U08-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chocolate",
+   "answer": "chocolate"
+  },
+  {
+   "id": "L1U08-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tea",
+   "answer": "tea"
+  },
+  {
+   "id": "L1U08-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lemonade",
+   "answer": "lemonade"
+  },
+  {
+   "id": "L1U08-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "spoon",
+   "answer": "spoon"
+  },
+  {
+   "id": "L1U08-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bowl",
+   "answer": "bowl"
+  },
+  {
+   "id": "L1U08-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "thirsty",
+   "answer": "thirsty"
+  },
+  {
+   "id": "L1U08-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "yummy",
+   "answer": "yummy"
+  },
+  {
+   "id": "L1U08-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have eggs for breakfast.",
+   "item": "breakfast",
+   "answer": "I have eggs for breakfast."
+  },
+  {
+   "id": "L1U08-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have rice for lunch.",
+   "item": "lunch",
+   "answer": "I have rice for lunch."
+  },
+  {
+   "id": "L1U08-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dinner is on the table.",
+   "item": "dinner",
+   "answer": "Dinner is on the table."
+  },
+  {
+   "id": "L1U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like chicken.",
+   "item": "chicken",
+   "answer": "I like chicken."
+  },
+  {
+   "id": "L1U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad likes meat.",
+   "item": "meat",
+   "answer": "Dad likes meat."
+  },
+  {
+   "id": "L1U08-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The soup is hot.",
+   "item": "soup",
+   "answer": "The soup is hot."
+  },
+  {
+   "id": "L1U08-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like cheese.",
+   "item": "cheese",
+   "answer": "I like cheese."
+  },
+  {
+   "id": "L1U08-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pizza is my favourite.",
+   "item": "pizza",
+   "answer": "Pizza is my favourite."
+  },
+  {
+   "id": "L1U08-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a burger, please?",
+   "item": "burger",
+   "answer": "Can I have a burger, please?"
+  },
+  {
+   "id": "L1U08-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like chips.",
+   "item": "chips",
+   "answer": "I like chips."
+  },
+  {
+   "id": "L1U08-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want a sausage.",
+   "item": "sausage",
+   "answer": "I want a sausage."
+  },
+  {
+   "id": "L1U08-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have ice cream, please?",
+   "item": "ice cream",
+   "answer": "Can I have ice cream, please?"
+  },
+  {
+   "id": "L1U08-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two sweets.",
+   "item": "sweets",
+   "answer": "I have two sweets."
+  },
+  {
+   "id": "L1U08-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love chocolate.",
+   "item": "chocolate",
+   "answer": "I love chocolate."
+  },
+  {
+   "id": "L1U08-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma likes tea.",
+   "item": "tea",
+   "answer": "Grandma likes tea."
+  },
+  {
+   "id": "L1U08-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have lemonade, please?",
+   "item": "lemonade",
+   "answer": "Can I have lemonade, please?"
+  },
+  {
+   "id": "L1U08-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat soup with a spoon.",
+   "item": "spoon",
+   "answer": "I eat soup with a spoon."
+  },
+  {
+   "id": "L1U08-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rice is in the bowl.",
+   "item": "bowl",
+   "answer": "The rice is in the bowl."
+  },
+  {
+   "id": "L1U08-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm thirsty.",
+   "item": "thirsty",
+   "answer": "I'm thirsty."
+  },
+  {
+   "id": "L1U08-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This cake is yummy!",
+   "item": "yummy",
+   "answer": "This cake is yummy!"
+  },
+  {
+   "id": "L1U08-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some soup, please?",
+   "answer": "Can I have some soup, please?"
+  },
+  {
+   "id": "L1U08-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some cheese, please?",
+   "answer": "Can I have some cheese, please?"
+  },
+  {
+   "id": "L1U08-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some chips, please?",
+   "answer": "Can I have some chips, please?"
+  },
+  {
+   "id": "L1U08-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have eggs for breakfast.",
+   "answer": "I have eggs for breakfast."
+  },
+  {
+   "id": "L1U08-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have bread for breakfast.",
+   "answer": "I have bread for breakfast."
+  },
+  {
+   "id": "L1U08-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have milk for breakfast.",
+   "answer": "I have milk for breakfast."
+  },
+  {
+   "id": "L1U08-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This pizza is yummy!",
+   "answer": "This pizza is yummy!"
+  },
+  {
+   "id": "L1U08-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This burger is yummy!",
+   "answer": "This burger is yummy!"
+  },
+  {
+   "id": "L1U08-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This cake is yummy!",
+   "answer": "This cake is yummy!"
+  },
+  {
+   "id": "L1U08-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are you hungry?",
+   "answer": "Yes! Can I have some soup, please?"
+  },
+  {
+   "id": "L1U08-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes! Can I have some soup, please?",
+   "answer": "Sure! Here you are."
+  },
+  {
+   "id": "L1U08-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do you have for breakfast?",
+   "answer": "I have eggs for breakfast."
+  },
+  {
+   "id": "L1U08-Q077",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you drink milk?",
+   "answer": "Yes, I do. I like milk."
+  },
+  {
+   "id": "L1U08-Q078",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you want lemonade?",
+   "answer": "Yes, please!"
+  },
+  {
+   "id": "L1U08-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "breakfast",
+   "options": [
+    "spoon",
+    "breakfast",
+    "bowl"
+   ],
+   "answer": "breakfast"
+  },
+  {
+   "id": "L1U08-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lunch",
+   "options": [
+    "tea",
+    "soup",
+    "lunch"
+   ],
+   "answer": "lunch"
+  },
+  {
+   "id": "L1U08-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dinner",
+   "options": [
+    "sausage",
+    "meat",
+    "dinner"
+   ],
+   "answer": "dinner"
+  },
+  {
+   "id": "L1U08-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chicken",
+   "options": [
+    "lunch",
+    "cheese",
+    "chicken"
+   ],
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U08-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "meat",
+   "options": [
+    "meat",
+    "ice cream",
+    "chips"
+   ],
+   "answer": "meat"
+  },
+  {
+   "id": "L1U08-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "soup",
+   "options": [
+    "sausage",
+    "soup",
+    "sweets"
+   ],
+   "answer": "soup"
+  },
+  {
+   "id": "L1U08-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cheese",
+   "options": [
+    "lunch",
+    "cheese",
+    "spoon"
+   ],
+   "answer": "cheese"
+  },
+  {
+   "id": "L1U08-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pizza",
+   "options": [
+    "lunch",
+    "spoon",
+    "pizza"
+   ],
+   "answer": "pizza"
+  },
+  {
+   "id": "L1U08-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "burger",
+   "options": [
+    "burger",
+    "chicken",
+    "spoon"
+   ],
+   "answer": "burger"
+  },
+  {
+   "id": "L1U08-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chips",
+   "options": [
+    "lunch",
+    "sausage",
+    "chips"
+   ],
+   "answer": "chips"
+  },
+  {
+   "id": "L1U08-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sausage",
+   "options": [
+    "breakfast",
+    "yummy",
+    "sausage"
+   ],
+   "answer": "sausage"
+  },
+  {
+   "id": "L1U08-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ice cream",
+   "options": [
+    "bowl",
+    "meat",
+    "ice cream"
+   ],
+   "answer": "ice cream"
+  },
+  {
+   "id": "L1U08-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sweets",
+   "options": [
+    "sweets",
+    "chips",
+    "bowl"
+   ],
+   "answer": "sweets"
+  },
+  {
+   "id": "L1U08-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chocolate",
+   "options": [
+    "bowl",
+    "chocolate",
+    "chicken"
+   ],
+   "answer": "chocolate"
+  },
+  {
+   "id": "L1U08-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tea",
+   "options": [
+    "tea",
+    "lunch",
+    "meat"
+   ],
+   "answer": "tea"
+  },
+  {
+   "id": "L1U08-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lemonade",
+   "options": [
+    "lemonade",
+    "bowl",
+    "soup"
+   ],
+   "answer": "lemonade"
+  },
+  {
+   "id": "L1U08-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "spoon",
+   "options": [
+    "spoon",
+    "breakfast",
+    "cheese"
+   ],
+   "answer": "spoon"
+  },
+  {
+   "id": "L1U08-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bowl",
+   "options": [
+    "bowl",
+    "dinner",
+    "sausage"
+   ],
+   "answer": "bowl"
+  },
+  {
+   "id": "L1U08-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "thirsty",
+   "options": [
+    "chocolate",
+    "thirsty",
+    "bowl"
+   ],
+   "answer": "thirsty"
+  },
+  {
+   "id": "L1U08-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "yummy",
+   "options": [
+    "yummy",
+    "meat",
+    "lemonade"
+   ],
+   "answer": "yummy"
+  },
+  {
+   "id": "L1U08-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "b",
+   "answer": "b"
+  },
+  {
+   "id": "L1U08-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "l",
+   "answer": "l"
+  },
+  {
+   "id": "L1U08-Q101",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "d",
+   "answer": "d"
+  },
+  {
+   "id": "L1U08-Q102",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "c",
+   "answer": "c"
+  },
+  {
+   "id": "L1U08-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "lunch",
+   "answer": "lunch"
+  },
+  {
+   "id": "L1U08-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "dinner",
+   "answer": "dinner"
+  },
+  {
+   "id": "L1U08-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "meat",
+   "answer": "meat"
+  },
+  {
+   "id": "L1U08-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "soup",
+   "answer": "soup"
+  },
+  {
+   "id": "L1U08-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "cheese",
+   "answer": "cheese"
+  },
+  {
+   "id": "L1U08-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "pizza",
+   "answer": "pizza"
+  },
+  {
+   "id": "L1U08-Q109",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "burger",
+   "answer": "burger"
+  },
+  {
+   "id": "L1U08-Q110",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "chips",
+   "answer": "chips"
+  }
+ ]
+}

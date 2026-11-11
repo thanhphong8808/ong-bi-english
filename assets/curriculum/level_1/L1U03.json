@@ -1,0 +1,1718 @@
+{
+ "id": "L1U03",
+ "level": 1,
+ "unit": 3,
+ "topic_en": "My toys",
+ "topic_vi": "Đồ chơi của bé",
+ "can_do_vi": [
+  "Nói về đồ chơi mình có",
+  "Hỏi \"Do you have a ...?\""
+ ],
+ "items": [
+  {
+   "id": "L1U03-W01",
+   "type": "word",
+   "en": "toy",
+   "vi": "đồ chơi",
+   "ipa": "/tɔɪ/",
+   "syllables": [
+    "toy"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9F8"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a new toy.",
+   "example_vi": "Tớ có đồ chơi mới.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W02",
+   "type": "word",
+   "en": "puzzle",
+   "vi": "trò xếp hình",
+   "ipa": "/ˈpʌzəl/",
+   "syllables": [
+    "puz",
+    "zle"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9E9"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I like my puzzle.",
+   "example_vi": "Tớ thích bộ xếp hình của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W03",
+   "type": "word",
+   "en": "game",
+   "vi": "trò chơi",
+   "ipa": "/ɡeɪm/",
+   "syllables": [
+    "game"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F3AE"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "Let's play a game!",
+   "example_vi": "Mình chơi một trò nhé!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W04",
+   "type": "word",
+   "en": "plane",
+   "vi": "máy bay",
+   "ipa": "/pleɪn/",
+   "syllables": [
+    "plane"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "2708-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a toy plane.",
+   "example_vi": "Tớ có máy bay đồ chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W05",
+   "type": "word",
+   "en": "boat",
+   "vi": "cái thuyền",
+   "ipa": "/boʊt/",
+   "syllables": [
+    "boat"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "26F5"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "It's a small boat.",
+   "example_vi": "Đó là chiếc thuyền nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W06",
+   "type": "word",
+   "en": "truck",
+   "vi": "xe tải",
+   "ipa": "/trʌk/",
+   "syllables": [
+    "truck"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F69A"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a big truck.",
+   "example_vi": "Tớ có một chiếc xe tải to.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W07",
+   "type": "word",
+   "en": "drum",
+   "vi": "cái trống",
+   "ipa": "/drʌm/",
+   "syllables": [
+    "drum"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F941"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I can play the drum.",
+   "example_vi": "Tớ biết chơi trống.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W08",
+   "type": "word",
+   "en": "guitar",
+   "vi": "đàn ghi-ta",
+   "ipa": "/ɡɪˈtɑr/",
+   "syllables": [
+    "gui",
+    "tar"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F3B8"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "It's my guitar.",
+   "example_vi": "Đó là đàn ghi-ta của tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W09",
+   "type": "word",
+   "en": "crayon",
+   "vi": "bút sáp màu",
+   "ipa": "/kreɪɑn/",
+   "syllables": [
+    "crayon"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F58D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a red crayon.",
+   "example_vi": "Tớ có bút sáp màu đỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W10",
+   "type": "word",
+   "en": "paint",
+   "vi": "sơn, màu vẽ",
+   "ipa": "/peɪnt/",
+   "syllables": [
+    "paint"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I like to paint.",
+   "example_vi": "Tớ thích vẽ màu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W11",
+   "type": "word",
+   "en": "monster",
+   "vi": "quái vật (đồ chơi)",
+   "ipa": "/ˈmɑnstər/",
+   "syllables": [
+    "mon",
+    "ster"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F47E"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "It's a funny monster.",
+   "example_vi": "Đó là con quái vật ngộ nghĩnh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U03-W12",
+   "type": "word",
+   "en": "dinosaur",
+   "vi": "khủng long",
+   "ipa": "/ˈdaɪnəˌsɔr/",
+   "syllables": [
+    "dinosaur"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F996"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a green dinosaur.",
+   "example_vi": "Tớ có con khủng long xanh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U03-W13",
+   "type": "word",
+   "en": "rocket",
+   "vi": "tên lửa",
+   "ipa": "/ˈrɑkət/",
+   "syllables": [
+    "rock",
+    "et"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F680"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "The rocket is up!",
+   "example_vi": "Tên lửa bay lên rồi!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W14",
+   "type": "word",
+   "en": "skateboard",
+   "vi": "ván trượt",
+   "ipa": "/ˈskeɪtˌbɔrd/",
+   "syllables": [
+    "skate",
+    "board"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6F9"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I have a skateboard.",
+   "example_vi": "Tớ có một cái ván trượt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U03-W15",
+   "type": "word",
+   "en": "camera",
+   "vi": "máy ảnh",
+   "ipa": "/ˈkæmərə/",
+   "syllables": [
+    "cam",
+    "era"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4F7"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "It's my toy camera.",
+   "example_vi": "Đó là máy ảnh đồ chơi của tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W16",
+   "type": "word",
+   "en": "new",
+   "vi": "mới",
+   "ipa": "/nu/",
+   "syllables": [
+    "new"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "My bike is new.",
+   "example_vi": "Xe đạp của tớ mới.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W17",
+   "type": "word",
+   "en": "favourite",
+   "vi": "yêu thích nhất",
+   "ipa": "/ˈfeɪvərɪt/",
+   "syllables": [
+    "favourite"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F947"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "It's my favourite toy.",
+   "example_vi": "Đó là đồ chơi tớ thích nhất.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U03-W18",
+   "type": "word",
+   "en": "share",
+   "vi": "chia sẻ",
+   "ipa": "/ʃɛr/",
+   "syllables": [
+    "share"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F932"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "Let's share the toys.",
+   "example_vi": "Mình chơi chung đồ chơi nhé.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U03-W19",
+   "type": "word",
+   "en": "want",
+   "vi": "muốn",
+   "ipa": "/wɔnt/",
+   "syllables": [
+    "want"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FAF3"
+   },
+   "picturable": true,
+   "cat": "L1U03",
+   "example_en": "I want the robot.",
+   "example_vi": "Tớ muốn con rô bốt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U03-P01",
+   "en": "I have a {x}.",
+   "vi": "Tớ có {x}.",
+   "slots": {
+    "x": [
+     "puzzle",
+     "plane",
+     "truck",
+     "dinosaur"
+    ]
+   }
+  },
+  {
+   "id": "L1U03-P02",
+   "en": "Do you have a {x}?",
+   "vi": "Cậu có {x} không?",
+   "slots": {
+    "x": [
+     "boat",
+     "drum",
+     "rocket",
+     "camera"
+    ]
+   }
+  },
+  {
+   "id": "L1U03-P03",
+   "en": "My favourite toy is my {x}.",
+   "vi": "Đồ chơi tớ thích nhất là {x}.",
+   "slots": {
+    "x": [
+     "robot",
+     "teddy",
+     "dinosaur",
+     "guitar"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U03-D01",
+   "title_vi": "Đồ chơi yêu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite toy?",
+     "vi": "Đồ chơi cậu thích nhất là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "My favourite toy is my dinosaur.",
+     "vi": "Đồ chơi tớ thích nhất là con khủng long."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! Is it big?",
+     "vi": "Chà! Nó có to không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! It's big and green.",
+     "vi": "Có! Nó to và màu xanh."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "dinosaur",
+    "options": [
+     "robot",
+     "rocket",
+     "truck"
+    ]
+   }
+  },
+  {
+   "id": "L1U03-D02",
+   "title_vi": "Chơi chung",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Do you have a puzzle?",
+     "vi": "Cậu có bộ xếp hình không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes, I have a new puzzle.",
+     "vi": "Có, tớ có một bộ xếp hình mới."
+    },
+    {
+     "role": "Kid",
+     "en": "Can I play too?",
+     "vi": "Tớ chơi cùng được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! Let's share.",
+     "vi": "Được chứ! Mình chơi chung nhé."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "puzzle",
+    "options": [
+     "game",
+     "drum"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "t"
+  },
+  {
+   "type": "write_letter",
+   "target": "p"
+  },
+  {
+   "type": "write_letter",
+   "target": "g"
+  },
+  {
+   "type": "write_letter",
+   "target": "b"
+  },
+  {
+   "type": "copy_word",
+   "target": "toy"
+  },
+  {
+   "type": "copy_word",
+   "target": "puzzle"
+  },
+  {
+   "type": "copy_word",
+   "target": "game"
+  },
+  {
+   "type": "copy_word",
+   "target": "plane"
+  },
+  {
+   "type": "copy_word",
+   "target": "boat"
+  },
+  {
+   "type": "copy_word",
+   "target": "truck"
+  },
+  {
+   "type": "copy_word",
+   "target": "drum"
+  },
+  {
+   "type": "copy_word",
+   "target": "guitar"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U03-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "toy",
+   "item": "toy",
+   "options": [
+    "toy",
+    "dinosaur",
+    "guitar",
+    "camera"
+   ],
+   "answer": "toy"
+  },
+  {
+   "id": "L1U03-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "puzzle",
+   "item": "puzzle",
+   "options": [
+    "crayon",
+    "camera",
+    "puzzle",
+    "toy"
+   ],
+   "answer": "puzzle"
+  },
+  {
+   "id": "L1U03-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "game",
+   "item": "game",
+   "options": [
+    "want",
+    "drum",
+    "game",
+    "favourite"
+   ],
+   "answer": "game"
+  },
+  {
+   "id": "L1U03-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "plane",
+   "item": "plane",
+   "options": [
+    "plane",
+    "skateboard",
+    "drum",
+    "truck"
+   ],
+   "answer": "plane"
+  },
+  {
+   "id": "L1U03-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "boat",
+   "item": "boat",
+   "options": [
+    "crayon",
+    "boat",
+    "toy",
+    "paint"
+   ],
+   "answer": "boat"
+  },
+  {
+   "id": "L1U03-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "truck",
+   "item": "truck",
+   "options": [
+    "share",
+    "truck",
+    "crayon",
+    "plane"
+   ],
+   "answer": "truck"
+  },
+  {
+   "id": "L1U03-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "drum",
+   "item": "drum",
+   "options": [
+    "game",
+    "truck",
+    "drum",
+    "favourite"
+   ],
+   "answer": "drum"
+  },
+  {
+   "id": "L1U03-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "guitar",
+   "item": "guitar",
+   "options": [
+    "drum",
+    "game",
+    "guitar",
+    "skateboard"
+   ],
+   "answer": "guitar"
+  },
+  {
+   "id": "L1U03-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "crayon",
+   "item": "crayon",
+   "options": [
+    "drum",
+    "crayon",
+    "dinosaur",
+    "puzzle"
+   ],
+   "answer": "crayon"
+  },
+  {
+   "id": "L1U03-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "paint",
+   "item": "paint",
+   "options": [
+    "plane",
+    "paint",
+    "rocket",
+    "crayon"
+   ],
+   "answer": "paint"
+  },
+  {
+   "id": "L1U03-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "monster",
+   "item": "monster",
+   "options": [
+    "skateboard",
+    "monster",
+    "puzzle",
+    "want"
+   ],
+   "answer": "monster"
+  },
+  {
+   "id": "L1U03-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dinosaur",
+   "item": "dinosaur",
+   "options": [
+    "drum",
+    "dinosaur",
+    "paint",
+    "new"
+   ],
+   "answer": "dinosaur"
+  },
+  {
+   "id": "L1U03-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rocket",
+   "item": "rocket",
+   "options": [
+    "new",
+    "rocket",
+    "favourite",
+    "game"
+   ],
+   "answer": "rocket"
+  },
+  {
+   "id": "L1U03-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "skateboard",
+   "item": "skateboard",
+   "options": [
+    "new",
+    "drum",
+    "crayon",
+    "skateboard"
+   ],
+   "answer": "skateboard"
+  },
+  {
+   "id": "L1U03-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "camera",
+   "item": "camera",
+   "options": [
+    "camera",
+    "rocket",
+    "want",
+    "paint"
+   ],
+   "answer": "camera"
+  },
+  {
+   "id": "L1U03-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "new",
+   "item": "new",
+   "options": [
+    "new",
+    "want",
+    "dinosaur",
+    "guitar"
+   ],
+   "answer": "new"
+  },
+  {
+   "id": "L1U03-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "favourite",
+   "item": "favourite",
+   "options": [
+    "favourite",
+    "guitar",
+    "camera",
+    "want"
+   ],
+   "answer": "favourite"
+  },
+  {
+   "id": "L1U03-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "share",
+   "item": "share",
+   "options": [
+    "skateboard",
+    "share",
+    "monster",
+    "camera"
+   ],
+   "answer": "share"
+  },
+  {
+   "id": "L1U03-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "want",
+   "item": "want",
+   "options": [
+    "drum",
+    "want",
+    "share",
+    "new"
+   ],
+   "answer": "want"
+  },
+  {
+   "id": "L1U03-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the toy pink.",
+   "item": "toy",
+   "options": [
+    "camera",
+    "toy",
+    "new"
+   ],
+   "answer": "toy",
+   "color": "pink"
+  },
+  {
+   "id": "L1U03-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the puzzle orange.",
+   "item": "puzzle",
+   "options": [
+    "puzzle",
+    "rocket",
+    "skateboard"
+   ],
+   "answer": "puzzle",
+   "color": "orange"
+  },
+  {
+   "id": "L1U03-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the game orange.",
+   "item": "game",
+   "options": [
+    "guitar",
+    "game",
+    "rocket"
+   ],
+   "answer": "game",
+   "color": "orange"
+  },
+  {
+   "id": "L1U03-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the plane blue.",
+   "item": "plane",
+   "options": [
+    "plane",
+    "crayon",
+    "puzzle"
+   ],
+   "answer": "plane",
+   "color": "blue"
+  },
+  {
+   "id": "L1U03-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "toy",
+   "answer": "toy"
+  },
+  {
+   "id": "L1U03-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "puzzle",
+   "answer": "puzzle"
+  },
+  {
+   "id": "L1U03-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "game",
+   "answer": "game"
+  },
+  {
+   "id": "L1U03-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "plane",
+   "answer": "plane"
+  },
+  {
+   "id": "L1U03-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "boat",
+   "answer": "boat"
+  },
+  {
+   "id": "L1U03-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "truck",
+   "answer": "truck"
+  },
+  {
+   "id": "L1U03-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "drum",
+   "answer": "drum"
+  },
+  {
+   "id": "L1U03-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "guitar",
+   "answer": "guitar"
+  },
+  {
+   "id": "L1U03-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "crayon",
+   "answer": "crayon"
+  },
+  {
+   "id": "L1U03-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "paint",
+   "answer": "paint"
+  },
+  {
+   "id": "L1U03-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "monster",
+   "answer": "monster"
+  },
+  {
+   "id": "L1U03-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dinosaur",
+   "answer": "dinosaur"
+  },
+  {
+   "id": "L1U03-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rocket",
+   "answer": "rocket"
+  },
+  {
+   "id": "L1U03-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "skateboard",
+   "answer": "skateboard"
+  },
+  {
+   "id": "L1U03-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "camera",
+   "answer": "camera"
+  },
+  {
+   "id": "L1U03-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "new",
+   "answer": "new"
+  },
+  {
+   "id": "L1U03-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "favourite",
+   "answer": "favourite"
+  },
+  {
+   "id": "L1U03-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "share",
+   "answer": "share"
+  },
+  {
+   "id": "L1U03-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "want",
+   "answer": "want"
+  },
+  {
+   "id": "L1U03-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a new toy.",
+   "item": "toy",
+   "answer": "I have a new toy."
+  },
+  {
+   "id": "L1U03-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like my puzzle.",
+   "item": "puzzle",
+   "answer": "I like my puzzle."
+  },
+  {
+   "id": "L1U03-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play a game!",
+   "item": "game",
+   "answer": "Let's play a game!"
+  },
+  {
+   "id": "L1U03-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a toy plane.",
+   "item": "plane",
+   "answer": "I have a toy plane."
+  },
+  {
+   "id": "L1U03-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a small boat.",
+   "item": "boat",
+   "answer": "It's a small boat."
+  },
+  {
+   "id": "L1U03-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a big truck.",
+   "item": "truck",
+   "answer": "I have a big truck."
+  },
+  {
+   "id": "L1U03-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can play the drum.",
+   "item": "drum",
+   "answer": "I can play the drum."
+  },
+  {
+   "id": "L1U03-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my guitar.",
+   "item": "guitar",
+   "answer": "It's my guitar."
+  },
+  {
+   "id": "L1U03-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a red crayon.",
+   "item": "crayon",
+   "answer": "I have a red crayon."
+  },
+  {
+   "id": "L1U03-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like to paint.",
+   "item": "paint",
+   "answer": "I like to paint."
+  },
+  {
+   "id": "L1U03-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a funny monster.",
+   "item": "monster",
+   "answer": "It's a funny monster."
+  },
+  {
+   "id": "L1U03-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a green dinosaur.",
+   "item": "dinosaur",
+   "answer": "I have a green dinosaur."
+  },
+  {
+   "id": "L1U03-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rocket is up!",
+   "item": "rocket",
+   "answer": "The rocket is up!"
+  },
+  {
+   "id": "L1U03-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a skateboard.",
+   "item": "skateboard",
+   "answer": "I have a skateboard."
+  },
+  {
+   "id": "L1U03-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my toy camera.",
+   "item": "camera",
+   "answer": "It's my toy camera."
+  },
+  {
+   "id": "L1U03-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bike is new.",
+   "item": "new",
+   "answer": "My bike is new."
+  },
+  {
+   "id": "L1U03-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my favourite toy.",
+   "item": "favourite",
+   "answer": "It's my favourite toy."
+  },
+  {
+   "id": "L1U03-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's share the toys.",
+   "item": "share",
+   "answer": "Let's share the toys."
+  },
+  {
+   "id": "L1U03-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want the robot.",
+   "item": "want",
+   "answer": "I want the robot."
+  },
+  {
+   "id": "L1U03-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a puzzle.",
+   "answer": "I have a puzzle."
+  },
+  {
+   "id": "L1U03-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a plane.",
+   "answer": "I have a plane."
+  },
+  {
+   "id": "L1U03-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a truck.",
+   "answer": "I have a truck."
+  },
+  {
+   "id": "L1U03-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have a boat?",
+   "answer": "Do you have a boat?"
+  },
+  {
+   "id": "L1U03-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have a drum?",
+   "answer": "Do you have a drum?"
+  },
+  {
+   "id": "L1U03-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have a rocket?",
+   "answer": "Do you have a rocket?"
+  },
+  {
+   "id": "L1U03-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite toy is my robot.",
+   "answer": "My favourite toy is my robot."
+  },
+  {
+   "id": "L1U03-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite toy is my teddy.",
+   "answer": "My favourite toy is my teddy."
+  },
+  {
+   "id": "L1U03-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite toy is my dinosaur.",
+   "answer": "My favourite toy is my dinosaur."
+  },
+  {
+   "id": "L1U03-Q071",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite toy?",
+   "answer": "My favourite toy is my dinosaur."
+  },
+  {
+   "id": "L1U03-Q072",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow! Is it big?",
+   "answer": "Yes! It's big and green."
+  },
+  {
+   "id": "L1U03-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you have a puzzle?",
+   "answer": "Yes, I have a new puzzle."
+  },
+  {
+   "id": "L1U03-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I play too?",
+   "answer": "Sure! Let's share."
+  },
+  {
+   "id": "L1U03-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "toy",
+   "options": [
+    "game",
+    "toy",
+    "guitar"
+   ],
+   "answer": "toy"
+  },
+  {
+   "id": "L1U03-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "puzzle",
+   "options": [
+    "puzzle",
+    "boat",
+    "want"
+   ],
+   "answer": "puzzle"
+  },
+  {
+   "id": "L1U03-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "game",
+   "options": [
+    "camera",
+    "game",
+    "new"
+   ],
+   "answer": "game"
+  },
+  {
+   "id": "L1U03-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "plane",
+   "options": [
+    "plane",
+    "paint",
+    "drum"
+   ],
+   "answer": "plane"
+  },
+  {
+   "id": "L1U03-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "boat",
+   "options": [
+    "truck",
+    "toy",
+    "boat"
+   ],
+   "answer": "boat"
+  },
+  {
+   "id": "L1U03-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "truck",
+   "options": [
+    "truck",
+    "boat",
+    "toy"
+   ],
+   "answer": "truck"
+  },
+  {
+   "id": "L1U03-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "drum",
+   "options": [
+    "puzzle",
+    "share",
+    "drum"
+   ],
+   "answer": "drum"
+  },
+  {
+   "id": "L1U03-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "guitar",
+   "options": [
+    "monster",
+    "share",
+    "guitar"
+   ],
+   "answer": "guitar"
+  },
+  {
+   "id": "L1U03-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "crayon",
+   "options": [
+    "skateboard",
+    "crayon",
+    "share"
+   ],
+   "answer": "crayon"
+  },
+  {
+   "id": "L1U03-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "paint",
+   "options": [
+    "truck",
+    "guitar",
+    "paint"
+   ],
+   "answer": "paint"
+  },
+  {
+   "id": "L1U03-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "monster",
+   "options": [
+    "monster",
+    "new",
+    "boat"
+   ],
+   "answer": "monster"
+  },
+  {
+   "id": "L1U03-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dinosaur",
+   "options": [
+    "drum",
+    "plane",
+    "dinosaur"
+   ],
+   "answer": "dinosaur"
+  },
+  {
+   "id": "L1U03-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rocket",
+   "options": [
+    "truck",
+    "skateboard",
+    "rocket"
+   ],
+   "answer": "rocket"
+  },
+  {
+   "id": "L1U03-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "skateboard",
+   "options": [
+    "paint",
+    "truck",
+    "skateboard"
+   ],
+   "answer": "skateboard"
+  },
+  {
+   "id": "L1U03-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "camera",
+   "options": [
+    "truck",
+    "camera",
+    "plane"
+   ],
+   "answer": "camera"
+  },
+  {
+   "id": "L1U03-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "new",
+   "options": [
+    "puzzle",
+    "plane",
+    "new"
+   ],
+   "answer": "new"
+  },
+  {
+   "id": "L1U03-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "favourite",
+   "options": [
+    "paint",
+    "rocket",
+    "favourite"
+   ],
+   "answer": "favourite"
+  },
+  {
+   "id": "L1U03-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "share",
+   "options": [
+    "want",
+    "share",
+    "boat"
+   ],
+   "answer": "share"
+  },
+  {
+   "id": "L1U03-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "want",
+   "options": [
+    "rocket",
+    "share",
+    "want"
+   ],
+   "answer": "want"
+  },
+  {
+   "id": "L1U03-Q094",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "t",
+   "answer": "t"
+  },
+  {
+   "id": "L1U03-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "p",
+   "answer": "p"
+  },
+  {
+   "id": "L1U03-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "g",
+   "answer": "g"
+  },
+  {
+   "id": "L1U03-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "b",
+   "answer": "b"
+  },
+  {
+   "id": "L1U03-Q098",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "toy",
+   "answer": "toy"
+  },
+  {
+   "id": "L1U03-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "puzzle",
+   "answer": "puzzle"
+  },
+  {
+   "id": "L1U03-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "game",
+   "answer": "game"
+  },
+  {
+   "id": "L1U03-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "plane",
+   "answer": "plane"
+  },
+  {
+   "id": "L1U03-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "boat",
+   "answer": "boat"
+  },
+  {
+   "id": "L1U03-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "truck",
+   "answer": "truck"
+  },
+  {
+   "id": "L1U03-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "drum",
+   "answer": "drum"
+  },
+  {
+   "id": "L1U03-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "guitar",
+   "answer": "guitar"
+  }
+ ]
+}

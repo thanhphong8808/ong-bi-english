@@ -1,0 +1,3210 @@
+{
+ "id": "L5U07",
+ "level": 5,
+ "unit": 7,
+ "topic_en": "Animals in danger",
+ "topic_vi": "Động vật có nguy cơ tuyệt chủng",
+ "can_do_vi": [
+  "Giải thích vì sao động vật gặp nguy hiểm",
+  "Đề xuất cách bảo vệ động vật hoang dã"
+ ],
+ "grammar_note_vi": "Câu bị động nói điều xảy ra với ai/cái gì: \"Pandas are protected in national parks.\" (Gấu trúc được bảo vệ trong vườn quốc gia.) Cấu trúc: \"be + động từ dạng quá khứ phân từ\".",
+ "items": [
+  {
+   "id": "L5U07-W01",
+   "type": "word",
+   "en": "endangered",
+   "vi": "có nguy cơ tuyệt chủng",
+   "ipa": "/ɪnˈdeɪndʒərd/",
+   "syllables": [
+    "en",
+    "dan",
+    "gered"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Tigers are endangered animals.",
+   "example_vi": "Hổ là loài động vật có nguy cơ tuyệt chủng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W02",
+   "type": "word",
+   "en": "extinct",
+   "vi": "tuyệt chủng",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "syllables": [
+    "ex",
+    "tinct"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F996"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Dinosaurs are extinct.",
+   "example_vi": "Khủng long đã tuyệt chủng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W03",
+   "type": "word",
+   "en": "species",
+   "vi": "loài",
+   "ipa": "/ˈspiʃiz/",
+   "syllables": [
+    "species"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F43E"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "There are many species of birds in the forest.",
+   "example_vi": "Trong rừng có nhiều loài chim.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W04",
+   "type": "word",
+   "en": "wildlife",
+   "vi": "động vật hoang dã",
+   "ipa": "/ˈwaɪlˌdlaɪf/",
+   "syllables": [
+    "wildlife"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "We should protect wildlife.",
+   "example_vi": "Chúng ta nên bảo vệ động vật hoang dã.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W05",
+   "type": "word",
+   "en": "survive",
+   "vi": "sống sót",
+   "ipa": "/sərˈvaɪv/",
+   "syllables": [
+    "sur",
+    "vive"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Animals can't survive without water.",
+   "example_vi": "Động vật không thể sống sót nếu thiếu nước.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W06",
+   "type": "word",
+   "en": "rescue",
+   "vi": "giải cứu",
+   "ipa": "/ˈrɛskju/",
+   "syllables": [
+    "res",
+    "cue"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F691"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "They rescued a baby elephant.",
+   "example_vi": "Họ đã giải cứu một chú voi con.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W07",
+   "type": "word",
+   "en": "destroy",
+   "vi": "phá huỷ",
+   "ipa": "/dɪˈstrɔɪ/",
+   "syllables": [
+    "de",
+    "stroy"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4A5"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "People destroy forests to make farms.",
+   "example_vi": "Con người phá rừng để làm trang trại.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W08",
+   "type": "word",
+   "en": "illegal",
+   "vi": "bất hợp pháp",
+   "ipa": "/ˌɪˈliɡəl/",
+   "syllables": [
+    "il",
+    "le",
+    "gal"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "It's illegal to hunt tigers.",
+   "example_vi": "Săn hổ là bất hợp pháp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W09",
+   "type": "word",
+   "en": "tusk",
+   "vi": "ngà",
+   "ipa": "/tʌsk/",
+   "syllables": [
+    "tusk"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F418"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Elephants have long tusks.",
+   "example_vi": "Voi có ngà dài.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W10",
+   "type": "phrase",
+   "en": "national park",
+   "vi": "vườn quốc gia",
+   "ipa": "/ˈnæʃənəl pɑrk/",
+   "syllables": [
+    "na",
+    "tion",
+    "al",
+    "park"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "We saw monkeys in the national park.",
+   "example_vi": "Bọn tớ thấy khỉ ở vườn quốc gia.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W11",
+   "type": "word",
+   "en": "reserve",
+   "vi": "khu bảo tồn",
+   "ipa": "/rɪˈzʌrv/",
+   "syllables": [
+    "re",
+    "serve"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F333"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The animals are safe in the reserve.",
+   "example_vi": "Động vật được an toàn trong khu bảo tồn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W12",
+   "type": "word",
+   "en": "ranger",
+   "vi": "kiểm lâm",
+   "ipa": "/ˈreɪndʒər/",
+   "syllables": [
+    "ranger"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F97E"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The ranger looks after the animals.",
+   "example_vi": "Kiểm lâm chăm sóc động vật.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W13",
+   "type": "word",
+   "en": "release",
+   "vi": "thả",
+   "ipa": "/riˈlis/",
+   "syllables": [
+    "re",
+    "lease"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "They released the turtle into the sea.",
+   "example_vi": "Họ thả con rùa về biển.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W14",
+   "type": "word",
+   "en": "tame",
+   "vi": "đã được thuần hoá",
+   "ipa": "/teɪm/",
+   "syllables": [
+    "tame"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F415"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Wild animals are not tame.",
+   "example_vi": "Động vật hoang dã không được thuần hoá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W15",
+   "type": "word",
+   "en": "few",
+   "vi": "ít",
+   "ipa": "/fju/",
+   "syllables": [
+    "few"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "There are very few pandas in the wild.",
+   "example_vi": "Trong tự nhiên còn rất ít gấu trúc.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W16",
+   "type": "word",
+   "en": "orangutan",
+   "vi": "đười ươi",
+   "ipa": "/ɔˈræŋətɑn/",
+   "syllables": [
+    "orangutan"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F9A7"
+   },
+   "picturable": true,
+   "cat": "L5U07",
+   "example_en": "Orangutans live in the rainforest.",
+   "example_vi": "Đười ươi sống trong rừng mưa nhiệt đới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W17",
+   "type": "phrase",
+   "en": "snow leopard",
+   "vi": "báo tuyết",
+   "ipa": "/snoʊ ˈlɛpərd/",
+   "syllables": [
+    "snow",
+    "leop",
+    "ard"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F406"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Snow leopards live in high mountains.",
+   "example_vi": "Báo tuyết sống ở vùng núi cao.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W18",
+   "type": "phrase",
+   "en": "food chain",
+   "vi": "chuỗi thức ăn",
+   "ipa": "/fud tʃeɪn/",
+   "syllables": [
+    "food",
+    "chain"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F517"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Every animal is part of a food chain.",
+   "example_vi": "Mỗi con vật là một phần của chuỗi thức ăn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W19",
+   "type": "word",
+   "en": "predator",
+   "vi": "động vật săn mồi",
+   "ipa": "/ˈprɛdətər/",
+   "syllables": [
+    "predator"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F981"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Lions are predators.",
+   "example_vi": "Sư tử là động vật săn mồi.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W20",
+   "type": "word",
+   "en": "prey",
+   "vi": "con mồi",
+   "ipa": "/preɪ/",
+   "syllables": [
+    "prey"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F407"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Mice are prey for owls.",
+   "example_vi": "Chuột là con mồi của cú.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W21",
+   "type": "word",
+   "en": "farming",
+   "vi": "trồng trọt, chăn nuôi",
+   "ipa": "/ˈfɑrmɪŋ/",
+   "syllables": [
+    "farm",
+    "ing"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F69C"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Farming needs a lot of land.",
+   "example_vi": "Trồng trọt cần nhiều đất.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W22",
+   "type": "word",
+   "en": "adopt",
+   "vi": "nhận nuôi",
+   "ipa": "/əˈdɑpt/",
+   "syllables": [
+    "adopt"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F497"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Our class adopted a turtle at the reserve.",
+   "example_vi": "Lớp tớ nhận nuôi một con rùa ở khu bảo tồn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W23",
+   "type": "word",
+   "en": "donate",
+   "vi": "quyên góp",
+   "ipa": "/ˈdoʊˌneɪt/",
+   "syllables": [
+    "do",
+    "nate"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "We donated money to help the animals.",
+   "example_vi": "Bọn tớ quyên góp tiền để giúp động vật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W24",
+   "type": "word",
+   "en": "charity",
+   "vi": "tổ chức từ thiện",
+   "ipa": "/ˈtʃɛrɪti/",
+   "syllables": [
+    "char",
+    "i",
+    "ty"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F932"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "This charity protects elephants.",
+   "example_vi": "Tổ chức từ thiện này bảo vệ loài voi.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W25",
+   "type": "word",
+   "en": "cub",
+   "vi": "con non (thú)",
+   "ipa": "/kʌb/",
+   "syllables": [
+    "cub"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F43B"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The tiger has two cubs.",
+   "example_vi": "Con hổ có hai hổ con.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W26",
+   "type": "word",
+   "en": "mammal",
+   "vi": "động vật có vú",
+   "ipa": "/ˈmæməl/",
+   "syllables": [
+    "mam",
+    "mal"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F40B"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Whales and dolphins are mammals.",
+   "example_vi": "Cá voi và cá heo là động vật có vú.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W27",
+   "type": "word",
+   "en": "reptile",
+   "vi": "bò sát",
+   "ipa": "/ˈrɛptaɪl/",
+   "syllables": [
+    "rep",
+    "tile"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F98E"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Snakes and crocodiles are reptiles.",
+   "example_vi": "Rắn và cá sấu là loài bò sát.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W28",
+   "type": "word",
+   "en": "threat",
+   "vi": "mối đe doạ",
+   "ipa": "/θrɛt/",
+   "syllables": [
+    "threat"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Plastic is a threat to sea animals.",
+   "example_vi": "Nhựa là mối đe doạ với động vật biển.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W29",
+   "type": "word",
+   "en": "law",
+   "vi": "luật pháp",
+   "ipa": "/lɔ/",
+   "syllables": [
+    "law"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "There is a law to protect wild animals.",
+   "example_vi": "Có luật bảo vệ động vật hoang dã.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W30",
+   "type": "word",
+   "en": "ban",
+   "vi": "cấm",
+   "ipa": "/bæn/",
+   "syllables": [
+    "ban"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The government banned hunting.",
+   "example_vi": "Chính phủ đã cấm săn bắt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W31",
+   "type": "word",
+   "en": "trap",
+   "vi": "cái bẫy",
+   "ipa": "/træp/",
+   "syllables": [
+    "trap"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1FAA4"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The ranger found a trap in the forest.",
+   "example_vi": "Kiểm lâm tìm thấy một cái bẫy trong rừng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W32",
+   "type": "word",
+   "en": "injured",
+   "vi": "bị thương",
+   "ipa": "/ˈɪndʒərd/",
+   "syllables": [
+    "in",
+    "jured"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F915"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The vet helped an injured bird.",
+   "example_vi": "Bác sĩ thú y giúp một chú chim bị thương.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W33",
+   "type": "word",
+   "en": "recover",
+   "vi": "hồi phục",
+   "ipa": "/rɪˈkʌvər/",
+   "syllables": [
+    "re",
+    "cov",
+    "er"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The bird recovered and flew away.",
+   "example_vi": "Chú chim hồi phục và bay đi.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W34",
+   "type": "word",
+   "en": "track",
+   "vi": "theo dấu",
+   "ipa": "/træk/",
+   "syllables": [
+    "track"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Scientists track the tigers with cameras.",
+   "example_vi": "Các nhà khoa học theo dõi hổ bằng máy ảnh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W35",
+   "type": "word",
+   "en": "balance",
+   "vi": "sự cân bằng",
+   "ipa": "/ˈbæləns/",
+   "syllables": [
+    "bal",
+    "ance"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Every species is important for the balance of nature.",
+   "example_vi": "Mỗi loài đều quan trọng cho sự cân bằng của tự nhiên.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W36",
+   "type": "word",
+   "en": "ecosystem",
+   "vi": "hệ sinh thái",
+   "ipa": "/ˈikoʊˌsɪstəm/",
+   "syllables": [
+    "ecosystem"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The rainforest is an important ecosystem.",
+   "example_vi": "Rừng mưa nhiệt đới là một hệ sinh thái quan trọng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W37",
+   "type": "word",
+   "en": "pangolin",
+   "vi": "con tê tê",
+   "ipa": "/panɡolin/",
+   "syllables": [
+    "pangolin"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F994"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Pangolins are shy animals with scales.",
+   "example_vi": "Tê tê là loài vật nhút nhát có vảy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W38",
+   "type": "phrase",
+   "en": "sea turtle",
+   "vi": "rùa biển",
+   "ipa": "/si ˈtʌrtəl/",
+   "syllables": [
+    "sea",
+    "tur",
+    "tle"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F422"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Sea turtles lay eggs on the beach.",
+   "example_vi": "Rùa biển đẻ trứng trên bãi biển.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W39",
+   "type": "word",
+   "en": "disappear",
+   "vi": "biến mất",
+   "ipa": "/ˌdɪsəˈpɪr/",
+   "syllables": [
+    "dis",
+    "ap",
+    "pear"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F47B"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Many forests are disappearing.",
+   "example_vi": "Nhiều khu rừng đang biến mất.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W40",
+   "type": "word",
+   "en": "guard",
+   "vi": "canh gác",
+   "ipa": "/ɡɑrd/",
+   "syllables": [
+    "guard"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F482"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Rangers guard the national park.",
+   "example_vi": "Kiểm lâm canh gác vườn quốc gia.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W41",
+   "type": "word",
+   "en": "ivory",
+   "vi": "ngà voi",
+   "ipa": "/ˈaɪvəri/",
+   "syllables": [
+    "ivory"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F418"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Buying ivory is illegal.",
+   "example_vi": "Mua ngà voi là bất hợp pháp.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W42",
+   "type": "word",
+   "en": "creature",
+   "vi": "sinh vật",
+   "ipa": "/ˈkritʃər/",
+   "syllables": [
+    "crea",
+    "ture"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F43E"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The ocean is full of amazing creatures.",
+   "example_vi": "Đại dương đầy những sinh vật kỳ thú.",
+   "pron_focus": [
+    "cluster",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W43",
+   "type": "word",
+   "en": "tropical",
+   "vi": "nhiệt đới",
+   "ipa": "/ˈtrɑpɪkəl/",
+   "syllables": [
+    "trop",
+    "i",
+    "cal"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F334"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "Vietnam has a tropical climate.",
+   "example_vi": "Việt Nam có khí hậu nhiệt đới.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U07-W44",
+   "type": "word",
+   "en": "breed",
+   "vi": "sinh sản, nhân giống",
+   "ipa": "/brid/",
+   "syllables": [
+    "breed"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F423"
+   },
+   "picturable": false,
+   "cat": "L5U07",
+   "example_en": "The zoo breeds pandas.",
+   "example_vi": "Sở thú nhân giống gấu trúc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U07-P01",
+   "en": "{x} are endangered.",
+   "vi": "{x} đang có nguy cơ tuyệt chủng.",
+   "slots": {
+    "x": [
+     "Tigers",
+     "Pandas",
+     "Orangutans",
+     "Sea turtles"
+    ]
+   }
+  },
+  {
+   "id": "L5U07-P02",
+   "en": "We can help animals by {x}.",
+   "vi": "Chúng ta có thể giúp động vật bằng cách {x}.",
+   "slots": {
+    "x": [
+     "recycling plastic",
+     "donating money",
+     "protecting forests"
+    ]
+   }
+  },
+  {
+   "id": "L5U07-P03",
+   "en": "{x} are protected in the national park.",
+   "vi": "{x} được bảo vệ trong vườn quốc gia.",
+   "slots": {
+    "x": [
+     "Monkeys",
+     "Tigers",
+     "Birds",
+     "Pangolins"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U07-D01",
+   "title_vi": "Cứu rùa biển",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Why are sea turtles endangered?",
+     "vi": "Sao rùa biển lại có nguy cơ tuyệt chủng?"
+    },
+    {
+     "role": "Bi",
+     "en": "They eat plastic bags. They think the bags are jellyfish.",
+     "vi": "Chúng ăn túi nhựa. Chúng tưởng túi là con sứa."
+    },
+    {
+     "role": "Kid",
+     "en": "That's terrible! What else is a threat?",
+     "vi": "Thật kinh khủng! Còn mối đe doạ nào nữa?"
+    },
+    {
+     "role": "Bi",
+     "en": "Fishing nets and hotels on the beaches.",
+     "vi": "Lưới đánh cá và khách sạn trên bãi biển."
+    },
+    {
+     "role": "Kid",
+     "en": "How can we help them?",
+     "vi": "Mình có thể giúp chúng thế nào?"
+    },
+    {
+     "role": "Bi",
+     "en": "We can reduce plastic and donate to a turtle charity.",
+     "vi": "Mình có thể giảm nhựa và quyên góp cho tổ chức bảo vệ rùa."
+    }
+   ]
+  },
+  {
+   "id": "L5U07-D02",
+   "title_vi": "Thăm khu bảo tồn",
+   "roles": [
+    "Ranger",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Ranger",
+     "en": "Welcome to the reserve!",
+     "vi": "Chào mừng đến khu bảo tồn!"
+    },
+    {
+     "role": "Kid",
+     "en": "What animals live here?",
+     "vi": "Những con vật nào sống ở đây ạ?"
+    },
+    {
+     "role": "Ranger",
+     "en": "Monkeys, birds and two rare pangolins.",
+     "vi": "Khỉ, chim và hai con tê tê quý hiếm."
+    },
+    {
+     "role": "Kid",
+     "en": "Can I touch the pangolins?",
+     "vi": "Cháu chạm vào tê tê được không ạ?"
+    },
+    {
+     "role": "Ranger",
+     "en": "No, sorry. They are wild and very shy.",
+     "vi": "Không được cháu ạ. Chúng là động vật hoang dã và rất nhút nhát."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "endangered"
+  },
+  {
+   "type": "dictate_word",
+   "target": "extinct"
+  },
+  {
+   "type": "dictate_word",
+   "target": "species"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wildlife"
+  },
+  {
+   "type": "dictate_word",
+   "target": "survive"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rescue"
+  },
+  {
+   "type": "dictate_word",
+   "target": "destroy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "illegal"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Tigers are endangered animals."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Dinosaurs are extinct."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We should protect wildlife."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Tigers are endangered because|We can protect animals by|My favourite wild animal is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U07-R01",
+   "title_en": "The return of the pandas",
+   "text_en": [
+    "Giant pandas live in the mountains of China.",
+    "Many years ago, pandas were endangered.",
+    "People cut down the bamboo forests, and pandas lost their habitat.",
+    "There were very few pandas left in the wild.",
+    "Then the government made new laws to protect them.",
+    "They created national parks and reserves.",
+    "Rangers guarded the forests, and scientists studied the pandas.",
+    "Zoos also helped to breed baby pandas.",
+    "Now the number of pandas is increasing.",
+    "They are still rare, but they are no longer endangered.",
+    "This story shows that we can save animals if we work together."
+   ],
+   "questions": [
+    {
+     "q": "Why were pandas endangered?",
+     "options": [
+      "People cut down the bamboo forests.",
+      "It was too cold.",
+      "They ate plastic."
+     ],
+     "answer": "People cut down the bamboo forests."
+    },
+    {
+     "q": "What did zoos do?",
+     "options": [
+      "They helped to breed baby pandas.",
+      "They hunted pandas.",
+      "They cut down forests."
+     ],
+     "answer": "They helped to breed baby pandas."
+    },
+    {
+     "q": "What is happening to the number of pandas now?",
+     "options": [
+      "It is increasing.",
+      "It is decreasing.",
+      "It is the same."
+     ],
+     "answer": "It is increasing."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U07-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "orangutan",
+   "item": "orangutan",
+   "options": [
+    "ice",
+    "orangutan",
+    "hand",
+    "worried"
+   ],
+   "answer": "orangutan"
+  },
+  {
+   "id": "L5U07-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "endangered",
+   "item": "endangered",
+   "options": [
+    "species",
+    "endangered",
+    "predator",
+    "cub"
+   ],
+   "answer": "endangered"
+  },
+  {
+   "id": "L5U07-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "extinct",
+   "item": "extinct",
+   "options": [
+    "species",
+    "injured",
+    "extinct",
+    "endangered"
+   ],
+   "answer": "extinct"
+  },
+  {
+   "id": "L5U07-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "species",
+   "item": "species",
+   "options": [
+    "illegal",
+    "ranger",
+    "species",
+    "survive"
+   ],
+   "answer": "species"
+  },
+  {
+   "id": "L5U07-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wildlife",
+   "item": "wildlife",
+   "options": [
+    "law",
+    "wildlife",
+    "national park",
+    "trap"
+   ],
+   "answer": "wildlife"
+  },
+  {
+   "id": "L5U07-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "survive",
+   "item": "survive",
+   "options": [
+    "tame",
+    "law",
+    "survive",
+    "guard"
+   ],
+   "answer": "survive"
+  },
+  {
+   "id": "L5U07-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rescue",
+   "item": "rescue",
+   "options": [
+    "tusk",
+    "injured",
+    "rescue",
+    "survive"
+   ],
+   "answer": "rescue"
+  },
+  {
+   "id": "L5U07-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "destroy",
+   "item": "destroy",
+   "options": [
+    "tropical",
+    "wildlife",
+    "destroy",
+    "charity"
+   ],
+   "answer": "destroy"
+  },
+  {
+   "id": "L5U07-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "illegal",
+   "item": "illegal",
+   "options": [
+    "species",
+    "survive",
+    "tropical",
+    "illegal"
+   ],
+   "answer": "illegal"
+  },
+  {
+   "id": "L5U07-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tusk",
+   "item": "tusk",
+   "options": [
+    "species",
+    "tame",
+    "donate",
+    "tusk"
+   ],
+   "answer": "tusk"
+  },
+  {
+   "id": "L5U07-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "national park",
+   "item": "national park",
+   "options": [
+    "illegal",
+    "release",
+    "national park",
+    "tame"
+   ],
+   "answer": "national park"
+  },
+  {
+   "id": "L5U07-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reserve",
+   "item": "reserve",
+   "options": [
+    "recover",
+    "reserve",
+    "charity",
+    "prey"
+   ],
+   "answer": "reserve"
+  },
+  {
+   "id": "L5U07-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ranger",
+   "item": "ranger",
+   "options": [
+    "ranger",
+    "prey",
+    "sea turtle",
+    "farming"
+   ],
+   "answer": "ranger"
+  },
+  {
+   "id": "L5U07-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "release",
+   "item": "release",
+   "options": [
+    "donate",
+    "wildlife",
+    "release",
+    "extinct"
+   ],
+   "answer": "release"
+  },
+  {
+   "id": "L5U07-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tame",
+   "item": "tame",
+   "options": [
+    "tame",
+    "charity",
+    "injured",
+    "trap"
+   ],
+   "answer": "tame"
+  },
+  {
+   "id": "L5U07-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "few",
+   "item": "few",
+   "options": [
+    "endangered",
+    "few",
+    "wildlife",
+    "extinct"
+   ],
+   "answer": "few"
+  },
+  {
+   "id": "L5U07-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "snow leopard",
+   "item": "snow leopard",
+   "options": [
+    "national park",
+    "ban",
+    "wildlife",
+    "snow leopard"
+   ],
+   "answer": "snow leopard"
+  },
+  {
+   "id": "L5U07-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "food chain",
+   "item": "food chain",
+   "options": [
+    "survive",
+    "balance",
+    "predator",
+    "food chain"
+   ],
+   "answer": "food chain"
+  },
+  {
+   "id": "L5U07-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "predator",
+   "item": "predator",
+   "options": [
+    "orangutan",
+    "farming",
+    "predator",
+    "track"
+   ],
+   "answer": "predator"
+  },
+  {
+   "id": "L5U07-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "prey",
+   "item": "prey",
+   "options": [
+    "prey",
+    "endangered",
+    "ivory",
+    "snow leopard"
+   ],
+   "answer": "prey"
+  },
+  {
+   "id": "L5U07-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "farming",
+   "item": "farming",
+   "options": [
+    "tame",
+    "illegal",
+    "farming",
+    "guard"
+   ],
+   "answer": "farming"
+  },
+  {
+   "id": "L5U07-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "adopt",
+   "item": "adopt",
+   "options": [
+    "disappear",
+    "adopt",
+    "injured",
+    "law"
+   ],
+   "answer": "adopt"
+  },
+  {
+   "id": "L5U07-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "donate",
+   "item": "donate",
+   "options": [
+    "donate",
+    "national park",
+    "destroy",
+    "injured"
+   ],
+   "answer": "donate"
+  },
+  {
+   "id": "L5U07-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "charity",
+   "item": "charity",
+   "options": [
+    "charity",
+    "ecosystem",
+    "food chain",
+    "predator"
+   ],
+   "answer": "charity"
+  },
+  {
+   "id": "L5U07-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cub",
+   "item": "cub",
+   "options": [
+    "cub",
+    "law",
+    "balance",
+    "sea turtle"
+   ],
+   "answer": "cub"
+  },
+  {
+   "id": "L5U07-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mammal",
+   "item": "mammal",
+   "options": [
+    "adopt",
+    "predator",
+    "mammal",
+    "recover"
+   ],
+   "answer": "mammal"
+  },
+  {
+   "id": "L5U07-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reptile",
+   "item": "reptile",
+   "options": [
+    "pangolin",
+    "reptile",
+    "tame",
+    "guard"
+   ],
+   "answer": "reptile"
+  },
+  {
+   "id": "L5U07-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "threat",
+   "item": "threat",
+   "options": [
+    "breed",
+    "reserve",
+    "snow leopard",
+    "threat"
+   ],
+   "answer": "threat"
+  },
+  {
+   "id": "L5U07-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "law",
+   "item": "law",
+   "options": [
+    "law",
+    "tame",
+    "farming",
+    "survive"
+   ],
+   "answer": "law"
+  },
+  {
+   "id": "L5U07-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ban",
+   "item": "ban",
+   "options": [
+    "tusk",
+    "charity",
+    "ban",
+    "ranger"
+   ],
+   "answer": "ban"
+  },
+  {
+   "id": "L5U07-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trap",
+   "item": "trap",
+   "options": [
+    "creature",
+    "trap",
+    "track",
+    "endangered"
+   ],
+   "answer": "trap"
+  },
+  {
+   "id": "L5U07-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "injured",
+   "item": "injured",
+   "options": [
+    "injured",
+    "predator",
+    "track",
+    "donate"
+   ],
+   "answer": "injured"
+  },
+  {
+   "id": "L5U07-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "recover",
+   "item": "recover",
+   "options": [
+    "recover",
+    "balance",
+    "donate",
+    "trap"
+   ],
+   "answer": "recover"
+  },
+  {
+   "id": "L5U07-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "track",
+   "item": "track",
+   "options": [
+    "threat",
+    "adopt",
+    "track",
+    "extinct"
+   ],
+   "answer": "track"
+  },
+  {
+   "id": "L5U07-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "balance",
+   "item": "balance",
+   "options": [
+    "ecosystem",
+    "threat",
+    "balance",
+    "destroy"
+   ],
+   "answer": "balance"
+  },
+  {
+   "id": "L5U07-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ecosystem",
+   "item": "ecosystem",
+   "options": [
+    "prey",
+    "ecosystem",
+    "guard",
+    "recover"
+   ],
+   "answer": "ecosystem"
+  },
+  {
+   "id": "L5U07-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pangolin",
+   "item": "pangolin",
+   "options": [
+    "law",
+    "balance",
+    "pangolin",
+    "tame"
+   ],
+   "answer": "pangolin"
+  },
+  {
+   "id": "L5U07-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sea turtle",
+   "item": "sea turtle",
+   "options": [
+    "tropical",
+    "recover",
+    "ivory",
+    "sea turtle"
+   ],
+   "answer": "sea turtle"
+  },
+  {
+   "id": "L5U07-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "disappear",
+   "item": "disappear",
+   "options": [
+    "reserve",
+    "recover",
+    "tropical",
+    "disappear"
+   ],
+   "answer": "disappear"
+  },
+  {
+   "id": "L5U07-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "guard",
+   "item": "guard",
+   "options": [
+    "mammal",
+    "guard",
+    "creature",
+    "snow leopard"
+   ],
+   "answer": "guard"
+  },
+  {
+   "id": "L5U07-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ivory",
+   "item": "ivory",
+   "options": [
+    "release",
+    "ecosystem",
+    "injured",
+    "ivory"
+   ],
+   "answer": "ivory"
+  },
+  {
+   "id": "L5U07-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "creature",
+   "item": "creature",
+   "options": [
+    "ecosystem",
+    "prey",
+    "injured",
+    "creature"
+   ],
+   "answer": "creature"
+  },
+  {
+   "id": "L5U07-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tropical",
+   "item": "tropical",
+   "options": [
+    "predator",
+    "tropical",
+    "ban",
+    "breed"
+   ],
+   "answer": "tropical"
+  },
+  {
+   "id": "L5U07-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "breed",
+   "item": "breed",
+   "options": [
+    "reptile",
+    "breed",
+    "cub",
+    "predator"
+   ],
+   "answer": "breed"
+  },
+  {
+   "id": "L5U07-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "orangutan",
+   "answer": "orangutan"
+  },
+  {
+   "id": "L5U07-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tigers are endangered animals.",
+   "item": "endangered",
+   "answer": "Tigers are endangered animals."
+  },
+  {
+   "id": "L5U07-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dinosaurs are extinct.",
+   "item": "extinct",
+   "answer": "Dinosaurs are extinct."
+  },
+  {
+   "id": "L5U07-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are many species of birds in the forest.",
+   "item": "species",
+   "answer": "There are many species of birds in the forest."
+  },
+  {
+   "id": "L5U07-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should protect wildlife.",
+   "item": "wildlife",
+   "answer": "We should protect wildlife."
+  },
+  {
+   "id": "L5U07-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Animals can't survive without water.",
+   "item": "survive",
+   "answer": "Animals can't survive without water."
+  },
+  {
+   "id": "L5U07-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They rescued a baby elephant.",
+   "item": "rescue",
+   "answer": "They rescued a baby elephant."
+  },
+  {
+   "id": "L5U07-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People destroy forests to make farms.",
+   "item": "destroy",
+   "answer": "People destroy forests to make farms."
+  },
+  {
+   "id": "L5U07-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's illegal to hunt tigers.",
+   "item": "illegal",
+   "answer": "It's illegal to hunt tigers."
+  },
+  {
+   "id": "L5U07-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Elephants have long tusks.",
+   "item": "tusk",
+   "answer": "Elephants have long tusks."
+  },
+  {
+   "id": "L5U07-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We saw monkeys in the national park.",
+   "item": "national park",
+   "answer": "We saw monkeys in the national park."
+  },
+  {
+   "id": "L5U07-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The animals are safe in the reserve.",
+   "item": "reserve",
+   "answer": "The animals are safe in the reserve."
+  },
+  {
+   "id": "L5U07-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ranger looks after the animals.",
+   "item": "ranger",
+   "answer": "The ranger looks after the animals."
+  },
+  {
+   "id": "L5U07-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They released the turtle into the sea.",
+   "item": "release",
+   "answer": "They released the turtle into the sea."
+  },
+  {
+   "id": "L5U07-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wild animals are not tame.",
+   "item": "tame",
+   "answer": "Wild animals are not tame."
+  },
+  {
+   "id": "L5U07-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are very few pandas in the wild.",
+   "item": "few",
+   "answer": "There are very few pandas in the wild."
+  },
+  {
+   "id": "L5U07-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Orangutans live in the rainforest.",
+   "item": "orangutan",
+   "answer": "Orangutans live in the rainforest."
+  },
+  {
+   "id": "L5U07-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Snow leopards live in high mountains.",
+   "item": "snow leopard",
+   "answer": "Snow leopards live in high mountains."
+  },
+  {
+   "id": "L5U07-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Every animal is part of a food chain.",
+   "item": "food chain",
+   "answer": "Every animal is part of a food chain."
+  },
+  {
+   "id": "L5U07-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lions are predators.",
+   "item": "predator",
+   "answer": "Lions are predators."
+  },
+  {
+   "id": "L5U07-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mice are prey for owls.",
+   "item": "prey",
+   "answer": "Mice are prey for owls."
+  },
+  {
+   "id": "L5U07-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Farming needs a lot of land.",
+   "item": "farming",
+   "answer": "Farming needs a lot of land."
+  },
+  {
+   "id": "L5U07-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our class adopted a turtle at the reserve.",
+   "item": "adopt",
+   "answer": "Our class adopted a turtle at the reserve."
+  },
+  {
+   "id": "L5U07-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We donated money to help the animals.",
+   "item": "donate",
+   "answer": "We donated money to help the animals."
+  },
+  {
+   "id": "L5U07-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This charity protects elephants.",
+   "item": "charity",
+   "answer": "This charity protects elephants."
+  },
+  {
+   "id": "L5U07-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tiger has two cubs.",
+   "item": "cub",
+   "answer": "The tiger has two cubs."
+  },
+  {
+   "id": "L5U07-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Whales and dolphins are mammals.",
+   "item": "mammal",
+   "answer": "Whales and dolphins are mammals."
+  },
+  {
+   "id": "L5U07-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Snakes and crocodiles are reptiles.",
+   "item": "reptile",
+   "answer": "Snakes and crocodiles are reptiles."
+  },
+  {
+   "id": "L5U07-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plastic is a threat to sea animals.",
+   "item": "threat",
+   "answer": "Plastic is a threat to sea animals."
+  },
+  {
+   "id": "L5U07-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a law to protect wild animals.",
+   "item": "law",
+   "answer": "There is a law to protect wild animals."
+  },
+  {
+   "id": "L5U07-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The government banned hunting.",
+   "item": "ban",
+   "answer": "The government banned hunting."
+  },
+  {
+   "id": "L5U07-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ranger found a trap in the forest.",
+   "item": "trap",
+   "answer": "The ranger found a trap in the forest."
+  },
+  {
+   "id": "L5U07-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The vet helped an injured bird.",
+   "item": "injured",
+   "answer": "The vet helped an injured bird."
+  },
+  {
+   "id": "L5U07-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird recovered and flew away.",
+   "item": "recover",
+   "answer": "The bird recovered and flew away."
+  },
+  {
+   "id": "L5U07-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Scientists track the tigers with cameras.",
+   "item": "track",
+   "answer": "Scientists track the tigers with cameras."
+  },
+  {
+   "id": "L5U07-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Every species is important for the balance of nature.",
+   "item": "balance",
+   "answer": "Every species is important for the balance of nature."
+  },
+  {
+   "id": "L5U07-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rainforest is an important ecosystem.",
+   "item": "ecosystem",
+   "answer": "The rainforest is an important ecosystem."
+  },
+  {
+   "id": "L5U07-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pangolins are shy animals with scales.",
+   "item": "pangolin",
+   "answer": "Pangolins are shy animals with scales."
+  },
+  {
+   "id": "L5U07-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sea turtles lay eggs on the beach.",
+   "item": "sea turtle",
+   "answer": "Sea turtles lay eggs on the beach."
+  },
+  {
+   "id": "L5U07-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many forests are disappearing.",
+   "item": "disappear",
+   "answer": "Many forests are disappearing."
+  },
+  {
+   "id": "L5U07-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Rangers guard the national park.",
+   "item": "guard",
+   "answer": "Rangers guard the national park."
+  },
+  {
+   "id": "L5U07-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Buying ivory is illegal.",
+   "item": "ivory",
+   "answer": "Buying ivory is illegal."
+  },
+  {
+   "id": "L5U07-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ocean is full of amazing creatures.",
+   "item": "creature",
+   "answer": "The ocean is full of amazing creatures."
+  },
+  {
+   "id": "L5U07-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam has a tropical climate.",
+   "item": "tropical",
+   "answer": "Vietnam has a tropical climate."
+  },
+  {
+   "id": "L5U07-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The zoo breeds pandas.",
+   "item": "breed",
+   "answer": "The zoo breeds pandas."
+  },
+  {
+   "id": "L5U07-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tigers are endangered.",
+   "answer": "Tigers are endangered."
+  },
+  {
+   "id": "L5U07-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pandas are endangered.",
+   "answer": "Pandas are endangered."
+  },
+  {
+   "id": "L5U07-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Orangutans are endangered.",
+   "answer": "Orangutans are endangered."
+  },
+  {
+   "id": "L5U07-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We can help animals by recycling plastic.",
+   "answer": "We can help animals by recycling plastic."
+  },
+  {
+   "id": "L5U07-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We can help animals by donating money.",
+   "answer": "We can help animals by donating money."
+  },
+  {
+   "id": "L5U07-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We can help animals by protecting forests.",
+   "answer": "We can help animals by protecting forests."
+  },
+  {
+   "id": "L5U07-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Monkeys are protected in the national park.",
+   "answer": "Monkeys are protected in the national park."
+  },
+  {
+   "id": "L5U07-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tigers are protected in the national park.",
+   "answer": "Tigers are protected in the national park."
+  },
+  {
+   "id": "L5U07-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Birds are protected in the national park.",
+   "answer": "Birds are protected in the national park."
+  },
+  {
+   "id": "L5U07-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why are sea turtles endangered?",
+   "answer": "They eat plastic bags. They think the bags are jellyfish."
+  },
+  {
+   "id": "L5U07-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "That's terrible! What else is a threat?",
+   "answer": "Fishing nets and hotels on the beaches."
+  },
+  {
+   "id": "L5U07-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How can we help them?",
+   "answer": "We can reduce plastic and donate to a turtle charity."
+  },
+  {
+   "id": "L5U07-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What animals live here?",
+   "answer": "Monkeys, birds and two rare pangolins."
+  },
+  {
+   "id": "L5U07-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I touch the pangolins?",
+   "answer": "No, sorry. They are wild and very shy."
+  },
+  {
+   "id": "L5U07-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "orangutan",
+   "options": [
+    "orangutan",
+    "eight",
+    "man"
+   ],
+   "answer": "orangutan"
+  },
+  {
+   "id": "L5U07-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Tigers are ___ animals.",
+   "item": "endangered",
+   "options": [
+    "rescue",
+    "endangered",
+    "creature"
+   ],
+   "answer": "endangered"
+  },
+  {
+   "id": "L5U07-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dinosaurs are ___.",
+   "item": "extinct",
+   "options": [
+    "extinct",
+    "release",
+    "tropical"
+   ],
+   "answer": "extinct"
+  },
+  {
+   "id": "L5U07-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are many ___ of birds in the forest.",
+   "item": "species",
+   "options": [
+    "recover",
+    "species",
+    "orangutan"
+   ],
+   "answer": "species"
+  },
+  {
+   "id": "L5U07-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should protect ___.",
+   "item": "wildlife",
+   "options": [
+    "balance",
+    "extinct",
+    "wildlife"
+   ],
+   "answer": "wildlife"
+  },
+  {
+   "id": "L5U07-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Animals can't ___ without water.",
+   "item": "survive",
+   "options": [
+    "survive",
+    "ranger",
+    "track"
+   ],
+   "answer": "survive"
+  },
+  {
+   "id": "L5U07-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They ___ a baby elephant.",
+   "item": "rescue",
+   "options": [
+    "rescued",
+    "ivoryed",
+    "threated"
+   ],
+   "answer": "rescued"
+  },
+  {
+   "id": "L5U07-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People ___ forests to make farms.",
+   "item": "destroy",
+   "options": [
+    "recover",
+    "destroy",
+    "adopt"
+   ],
+   "answer": "destroy"
+  },
+  {
+   "id": "L5U07-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ to hunt tigers.",
+   "item": "illegal",
+   "options": [
+    "orangutan",
+    "illegal",
+    "tropical"
+   ],
+   "answer": "illegal"
+  },
+  {
+   "id": "L5U07-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Elephants have long ___.",
+   "item": "tusk",
+   "options": [
+    "orangutans",
+    "farmings",
+    "tusks"
+   ],
+   "answer": "tusks"
+  },
+  {
+   "id": "L5U07-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The animals are safe in the ___.",
+   "item": "reserve",
+   "options": [
+    "release",
+    "survive",
+    "reserve"
+   ],
+   "answer": "reserve"
+  },
+  {
+   "id": "L5U07-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ looks after the animals.",
+   "item": "ranger",
+   "options": [
+    "recover",
+    "reptile",
+    "ranger"
+   ],
+   "answer": "ranger"
+  },
+  {
+   "id": "L5U07-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They ___ the turtle into the sea.",
+   "item": "release",
+   "options": [
+    "released",
+    "tropicaled",
+    "disappeared"
+   ],
+   "answer": "released"
+  },
+  {
+   "id": "L5U07-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wild animals are not ___.",
+   "item": "tame",
+   "options": [
+    "tame",
+    "recover",
+    "wildlife"
+   ],
+   "answer": "tame"
+  },
+  {
+   "id": "L5U07-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are very ___ pandas in the wild.",
+   "item": "few",
+   "options": [
+    "pangolin",
+    "ecosystem",
+    "few"
+   ],
+   "answer": "few"
+  },
+  {
+   "id": "L5U07-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ live in the rainforest.",
+   "item": "orangutan",
+   "options": [
+    "Orangutans",
+    "Ecosystems",
+    "Preys"
+   ],
+   "answer": "Orangutans"
+  },
+  {
+   "id": "L5U07-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lions are ___.",
+   "item": "predator",
+   "options": [
+    "predators",
+    "tusks",
+    "orangutans"
+   ],
+   "answer": "predators"
+  },
+  {
+   "id": "L5U07-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mice are ___ for owls.",
+   "item": "prey",
+   "options": [
+    "wildlife",
+    "cub",
+    "prey"
+   ],
+   "answer": "prey"
+  },
+  {
+   "id": "L5U07-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ needs a lot of land.",
+   "item": "farming",
+   "options": [
+    "Tropical",
+    "Farming",
+    "Few"
+   ],
+   "answer": "Farming"
+  },
+  {
+   "id": "L5U07-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our class ___ a turtle at the reserve.",
+   "item": "adopt",
+   "options": [
+    "adopted",
+    "injureded",
+    "tamed"
+   ],
+   "answer": "adopted"
+  },
+  {
+   "id": "L5U07-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ money to help the animals.",
+   "item": "donate",
+   "options": [
+    "threated",
+    "illegaled",
+    "donated"
+   ],
+   "answer": "donated"
+  },
+  {
+   "id": "L5U07-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ protects elephants.",
+   "item": "charity",
+   "options": [
+    "release",
+    "endangered",
+    "charity"
+   ],
+   "answer": "charity"
+  },
+  {
+   "id": "L5U07-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The tiger has two ___.",
+   "item": "cub",
+   "options": [
+    "cubs",
+    "orangutans",
+    "preys"
+   ],
+   "answer": "cubs"
+  },
+  {
+   "id": "L5U07-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Whales and dolphins are ___.",
+   "item": "mammal",
+   "options": [
+    "tames",
+    "mammals",
+    "orangutans"
+   ],
+   "answer": "mammals"
+  },
+  {
+   "id": "L5U07-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Snakes and crocodiles are ___.",
+   "item": "reptile",
+   "options": [
+    "reptiles",
+    "orangutans",
+    "tracks"
+   ],
+   "answer": "reptiles"
+  },
+  {
+   "id": "L5U07-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plastic is a ___ to sea animals.",
+   "item": "threat",
+   "options": [
+    "threat",
+    "breed",
+    "pangolin"
+   ],
+   "answer": "threat"
+  },
+  {
+   "id": "L5U07-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ to protect wild animals.",
+   "item": "law",
+   "options": [
+    "breed",
+    "guard",
+    "law"
+   ],
+   "answer": "law"
+  },
+  {
+   "id": "L5U07-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ranger found a ___ in the forest.",
+   "item": "trap",
+   "options": [
+    "trap",
+    "track",
+    "rescue"
+   ],
+   "answer": "trap"
+  },
+  {
+   "id": "L5U07-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The vet helped an ___ bird.",
+   "item": "injured",
+   "options": [
+    "injured",
+    "illegal",
+    "donate"
+   ],
+   "answer": "injured"
+  },
+  {
+   "id": "L5U07-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird ___ and flew away.",
+   "item": "recover",
+   "options": [
+    "recovered",
+    "released",
+    "wildlifed"
+   ],
+   "answer": "recovered"
+  },
+  {
+   "id": "L5U07-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Scientists ___ the tigers with cameras.",
+   "item": "track",
+   "options": [
+    "track",
+    "charity",
+    "law"
+   ],
+   "answer": "track"
+  },
+  {
+   "id": "L5U07-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Every species is important for the ___ of nature.",
+   "item": "balance",
+   "options": [
+    "balance",
+    "survive",
+    "endangered"
+   ],
+   "answer": "balance"
+  },
+  {
+   "id": "L5U07-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rainforest is an important ___.",
+   "item": "ecosystem",
+   "options": [
+    "guard",
+    "law",
+    "ecosystem"
+   ],
+   "answer": "ecosystem"
+  },
+  {
+   "id": "L5U07-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are shy animals with scales.",
+   "item": "pangolin",
+   "options": [
+    "Pangolins",
+    "Preys",
+    "Traps"
+   ],
+   "answer": "Pangolins"
+  },
+  {
+   "id": "L5U07-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many forests are ___.",
+   "item": "disappear",
+   "options": [
+    "ivorying",
+    "disappearing",
+    "surviving"
+   ],
+   "answer": "disappearing"
+  },
+  {
+   "id": "L5U07-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Rangers ___ the national park.",
+   "item": "guard",
+   "options": [
+    "guard",
+    "tusk",
+    "survive"
+   ],
+   "answer": "guard"
+  },
+  {
+   "id": "L5U07-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Buying ___ is illegal.",
+   "item": "ivory",
+   "options": [
+    "ivory",
+    "survive",
+    "ecosystem"
+   ],
+   "answer": "ivory"
+  },
+  {
+   "id": "L5U07-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ocean is full of amazing ___.",
+   "item": "creature",
+   "options": [
+    "destroys",
+    "orangutans",
+    "creatures"
+   ],
+   "answer": "creatures"
+  },
+  {
+   "id": "L5U07-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Vietnam has a ___ climate.",
+   "item": "tropical",
+   "options": [
+    "tropical",
+    "endangered",
+    "few"
+   ],
+   "answer": "tropical"
+  },
+  {
+   "id": "L5U07-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The zoo ___ pandas.",
+   "item": "breed",
+   "options": [
+    "orangutans",
+    "endangereds",
+    "breeds"
+   ],
+   "answer": "breeds"
+  },
+  {
+   "id": "L5U07-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U07-R01",
+   "text_en": "Why were pandas endangered?",
+   "options": [
+    "People cut down the bamboo forests.",
+    "They ate plastic.",
+    "It was too cold."
+   ],
+   "answer": "People cut down the bamboo forests."
+  },
+  {
+   "id": "L5U07-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U07-R01",
+   "text_en": "What did zoos do?",
+   "options": [
+    "They cut down forests.",
+    "They helped to breed baby pandas.",
+    "They hunted pandas."
+   ],
+   "answer": "They helped to breed baby pandas."
+  },
+  {
+   "id": "L5U07-Q146",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U07-R01",
+   "text_en": "What is happening to the number of pandas now?",
+   "options": [
+    "It is the same.",
+    "It is decreasing.",
+    "It is increasing."
+   ],
+   "answer": "It is increasing."
+  },
+  {
+   "id": "L5U07-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "endangered",
+   "item": "endangered",
+   "answer": "endangered"
+  },
+  {
+   "id": "L5U07-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "extinct",
+   "item": "extinct",
+   "answer": "extinct"
+  },
+  {
+   "id": "L5U07-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "species",
+   "item": "species",
+   "answer": "species"
+  },
+  {
+   "id": "L5U07-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wildlife",
+   "item": "wildlife",
+   "answer": "wildlife"
+  },
+  {
+   "id": "L5U07-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "survive",
+   "item": "survive",
+   "answer": "survive"
+  },
+  {
+   "id": "L5U07-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rescue",
+   "item": "rescue",
+   "answer": "rescue"
+  },
+  {
+   "id": "L5U07-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "destroy",
+   "item": "destroy",
+   "answer": "destroy"
+  },
+  {
+   "id": "L5U07-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "illegal",
+   "item": "illegal",
+   "answer": "illegal"
+  },
+  {
+   "id": "L5U07-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Tigers are endangered animals.",
+   "answer": "Tigers are endangered animals."
+  },
+  {
+   "id": "L5U07-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Dinosaurs are extinct.",
+   "answer": "Dinosaurs are extinct."
+  },
+  {
+   "id": "L5U07-Q157",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We should protect wildlife.",
+   "answer": "We should protect wildlife."
+  }
+ ]
+}

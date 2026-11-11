@@ -1,0 +1,2974 @@
+{
+ "id": "L3U12",
+ "level": 3,
+ "unit": 12,
+ "topic_en": "Wild animals",
+ "topic_vi": "Động vật hoang dã",
+ "can_do_vi": [
+  "Nói nơi sống và đặc điểm của động vật hoang dã",
+  "So sánh các con vật"
+ ],
+ "grammar_note_vi": "Nói nơi sống: \"Polar bears live in the Arctic.\" Nói khả năng: \"Cheetahs can run very fast.\" Hỏi: \"Where do gorillas live?\"",
+ "items": [
+  {
+   "id": "L3U12-W01",
+   "type": "word",
+   "en": "habitat",
+   "vi": "môi trường sống",
+   "ipa": "/ˈhæbəˌtæt/",
+   "syllables": [
+    "habitat"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The ocean is the habitat of whales.",
+   "example_vi": "Đại dương là nơi sống của cá voi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W02",
+   "type": "word",
+   "en": "rainforest",
+   "vi": "rừng mưa nhiệt đới",
+   "ipa": "/ˈraɪnˌfɔrəst/",
+   "syllables": [
+    "rain",
+    "for",
+    "est"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F334"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Many birds live in the rainforest.",
+   "example_vi": "Nhiều loài chim sống ở rừng mưa nhiệt đới.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W03",
+   "type": "word",
+   "en": "Arctic",
+   "vi": "Bắc Cực",
+   "ipa": "/ˈɑrtɪk/",
+   "syllables": [
+    "Arc",
+    "tic"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Polar bears live in the Arctic.",
+   "example_vi": "Gấu Bắc Cực sống ở Bắc Cực.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W04",
+   "type": "word",
+   "en": "Antarctica",
+   "vi": "châu Nam Cực",
+   "ipa": "/ˌæˈnɑrtɪkə/",
+   "syllables": [
+    "Antarctica"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F427"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Penguins live in Antarctica.",
+   "example_vi": "Chim cánh cụt sống ở Nam Cực.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W05",
+   "type": "word",
+   "en": "savannah",
+   "vi": "đồng cỏ xa-van",
+   "ipa": "/səˈvænə/",
+   "syllables": [
+    "sa",
+    "van",
+    "nah"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F992"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Lions and zebras live on the savannah.",
+   "example_vi": "Sư tử và ngựa vằn sống ở đồng cỏ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W06",
+   "type": "word",
+   "en": "cheetah",
+   "vi": "báo săn",
+   "ipa": "/ˈtʃitə/",
+   "syllables": [
+    "chee",
+    "tah"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4A8"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The cheetah is the fastest animal.",
+   "example_vi": "Báo săn là loài vật nhanh nhất.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W07",
+   "type": "word",
+   "en": "gorilla",
+   "vi": "khỉ đột",
+   "ipa": "/ɡərˈɪlə/",
+   "syllables": [
+    "gorilla"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F98D"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "Gorillas are big and strong.",
+   "example_vi": "Khỉ đột to và khoẻ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W08",
+   "type": "word",
+   "en": "leopard",
+   "vi": "báo hoa mai",
+   "ipa": "/ˈlɛpərd/",
+   "syllables": [
+    "leop",
+    "ard"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F406"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "A leopard can climb trees.",
+   "example_vi": "Báo hoa mai biết trèo cây.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W09",
+   "type": "word",
+   "en": "rhino",
+   "vi": "tê giác",
+   "ipa": "/ˈraɪˌnoʊ/",
+   "syllables": [
+    "rhi",
+    "no"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F98F"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "A rhino has a big horn.",
+   "example_vi": "Tê giác có một cái sừng to.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W10",
+   "type": "word",
+   "en": "ostrich",
+   "vi": "đà điểu",
+   "ipa": "/ˈɔstrɪtʃ/",
+   "syllables": [
+    "os",
+    "trich"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1FAB6"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "An ostrich can't fly, but it can run fast.",
+   "example_vi": "Đà điểu không bay được nhưng chạy rất nhanh.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W11",
+   "type": "word",
+   "en": "peacock",
+   "vi": "con công",
+   "ipa": "/ˈpiˌkɑk/",
+   "syllables": [
+    "pea",
+    "cock"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F99A"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The peacock has a beautiful tail.",
+   "example_vi": "Con công có cái đuôi rất đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W12",
+   "type": "word",
+   "en": "flamingo",
+   "vi": "chim hồng hạc",
+   "ipa": "/fləˈmɪŋɡoʊ/",
+   "syllables": [
+    "flamingo"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9A9"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "Flamingos are pink.",
+   "example_vi": "Chim hồng hạc màu hồng.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W13",
+   "type": "word",
+   "en": "seal",
+   "vi": "hải cẩu",
+   "ipa": "/sil/",
+   "syllables": [
+    "seal"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9AD"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "Seals can swim very well.",
+   "example_vi": "Hải cẩu bơi rất giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W14",
+   "type": "word",
+   "en": "jellyfish",
+   "vi": "con sứa",
+   "ipa": "/ˈdʒɛliˌfɪʃ/",
+   "syllables": [
+    "jel",
+    "ly",
+    "fish"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F390"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Don't touch the jellyfish!",
+   "example_vi": "Đừng chạm vào con sứa!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W15",
+   "type": "word",
+   "en": "crab",
+   "vi": "con cua",
+   "ipa": "/kræb/",
+   "syllables": [
+    "crab"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F980"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The crab walks on the sand.",
+   "example_vi": "Con cua bò trên cát.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W16",
+   "type": "word",
+   "en": "lizard",
+   "vi": "thằn lằn",
+   "ipa": "/ˈlɪzərd/",
+   "syllables": [
+    "lizard"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F98E"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The lizard is on the wall.",
+   "example_vi": "Con thằn lằn ở trên tường.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W17",
+   "type": "word",
+   "en": "snail",
+   "vi": "ốc sên",
+   "ipa": "/sneɪl/",
+   "syllables": [
+    "snail"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F40C"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "Snails are very slow.",
+   "example_vi": "Ốc sên rất chậm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W18",
+   "type": "word",
+   "en": "worm",
+   "vi": "con giun",
+   "ipa": "/wʌrm/",
+   "syllables": [
+    "worm"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FAB1"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The bird is eating a worm.",
+   "example_vi": "Con chim đang ăn giun.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W19",
+   "type": "word",
+   "en": "ladybird",
+   "vi": "bọ rùa",
+   "ipa": "/ˈleɪdiˌbərd/",
+   "syllables": [
+    "la",
+    "dy",
+    "bird"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F41E"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "A ladybird is red with black spots.",
+   "example_vi": "Bọ rùa màu đỏ có chấm đen.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W20",
+   "type": "word",
+   "en": "sloth",
+   "vi": "con lười",
+   "ipa": "/sloʊθ/",
+   "syllables": [
+    "sloth"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9A5"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The sloth sleeps in the tree all day.",
+   "example_vi": "Con lười ngủ trên cây cả ngày.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W21",
+   "type": "word",
+   "en": "hedgehog",
+   "vi": "con nhím",
+   "ipa": "/ˈhɛˌdʒhɑɡ/",
+   "syllables": [
+    "hedge",
+    "hog"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F994"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "A hedgehog is small and has spikes.",
+   "example_vi": "Con nhím nhỏ và có gai.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W22",
+   "type": "word",
+   "en": "otter",
+   "vi": "rái cá",
+   "ipa": "/ˈɑtər/",
+   "syllables": [
+    "ot",
+    "ter"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F9A6"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "Otters play in the river.",
+   "example_vi": "Rái cá chơi đùa dưới sông.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W23",
+   "type": "word",
+   "en": "swan",
+   "vi": "thiên nga",
+   "ipa": "/swɔn/",
+   "syllables": [
+    "swan"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9A2"
+   },
+   "picturable": true,
+   "cat": "L3U12",
+   "example_en": "The white swan is on the lake.",
+   "example_vi": "Con thiên nga trắng ở trên hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W24",
+   "type": "word",
+   "en": "hunt",
+   "vi": "săn mồi",
+   "ipa": "/hʌnt/",
+   "syllables": [
+    "hunt"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3F9"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Lions hunt at night.",
+   "example_vi": "Sư tử săn mồi vào ban đêm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W25",
+   "type": "word",
+   "en": "claw",
+   "vi": "móng vuốt",
+   "ipa": "/klɔ/",
+   "syllables": [
+    "claw"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F43E"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Bears have long claws.",
+   "example_vi": "Gấu có móng vuốt dài.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W26",
+   "type": "word",
+   "en": "beak",
+   "vi": "cái mỏ",
+   "ipa": "/bik/",
+   "syllables": [
+    "beak"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F426"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The parrot has a strong beak.",
+   "example_vi": "Con vẹt có cái mỏ khoẻ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W27",
+   "type": "word",
+   "en": "fin",
+   "vi": "vây cá",
+   "ipa": "/fɪn/",
+   "syllables": [
+    "fin"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F988"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "A shark has a big fin.",
+   "example_vi": "Cá mập có cái vây to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W28",
+   "type": "word",
+   "en": "horn",
+   "vi": "cái sừng",
+   "ipa": "/hɔrn/",
+   "syllables": [
+    "horn"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F98F"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The goat has two horns.",
+   "example_vi": "Con dê có hai cái sừng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W29",
+   "type": "word",
+   "en": "stripe",
+   "vi": "sọc",
+   "ipa": "/straɪp/",
+   "syllables": [
+    "stripe"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Tigers have black stripes.",
+   "example_vi": "Hổ có sọc đen.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W30",
+   "type": "word",
+   "en": "spot",
+   "vi": "đốm, chấm",
+   "ipa": "/spɑt/",
+   "syllables": [
+    "spot"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F41E"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The leopard has spots.",
+   "example_vi": "Báo hoa mai có đốm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W31",
+   "type": "word",
+   "en": "dig",
+   "vi": "đào",
+   "ipa": "/dɪɡ/",
+   "syllables": [
+    "dig"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "26CF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Dogs like to dig in the garden.",
+   "example_vi": "Chó thích đào đất trong vườn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W32",
+   "type": "word",
+   "en": "colourful",
+   "vi": "nhiều màu sắc",
+   "ipa": "/colourful/",
+   "syllables": [
+    "colourful"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "The parrot is very colourful.",
+   "example_vi": "Con vẹt có rất nhiều màu sắc.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U12-W33",
+   "type": "word",
+   "en": "crawl",
+   "vi": "bò",
+   "ipa": "/krɔl/",
+   "syllables": [
+    "crawl"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F41B"
+   },
+   "picturable": false,
+   "cat": "L3U12",
+   "example_en": "Babies crawl before they walk.",
+   "example_vi": "Em bé bò trước khi biết đi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U12-P01",
+   "en": "Where do {x} live?",
+   "vi": "{x} sống ở đâu?",
+   "slots": {
+    "x": [
+     "cheetahs",
+     "gorillas",
+     "penguins",
+     "flamingos"
+    ]
+   }
+  },
+  {
+   "id": "L3U12-P02",
+   "en": "The {x} is faster than the snail.",
+   "vi": "{x} nhanh hơn ốc sên.",
+   "slots": {
+    "x": [
+     "cheetah",
+     "rabbit",
+     "horse",
+     "ostrich"
+    ]
+   }
+  },
+  {
+   "id": "L3U12-P03",
+   "en": "I can see a {x} in the tree.",
+   "vi": "Tớ thấy {x} trên cây.",
+   "slots": {
+    "x": [
+     "sloth",
+     "leopard",
+     "gorilla",
+     "parrot"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U12-D01",
+   "title_vi": "Ở sở thú",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Look, Bi! What's that animal?",
+     "vi": "Nhìn kìa Bi! Con gì thế?"
+    },
+    {
+     "role": "Bi",
+     "en": "It's a gorilla. It's very strong.",
+     "vi": "Đó là khỉ đột. Nó rất khoẻ."
+    },
+    {
+     "role": "Kid",
+     "en": "Where do gorillas live?",
+     "vi": "Khỉ đột sống ở đâu?"
+    },
+    {
+     "role": "Bi",
+     "en": "They live in the rainforest in Africa.",
+     "vi": "Chúng sống ở rừng mưa nhiệt đới châu Phi."
+    },
+    {
+     "role": "Kid",
+     "en": "Wow! Let's take a photo.",
+     "vi": "Oa! Mình chụp ảnh đi."
+    }
+   ]
+  },
+  {
+   "id": "L3U12-D02",
+   "title_vi": "Con vật cậu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite wild animal?",
+     "vi": "Con vật hoang dã cậu thích nhất là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like the sloth.",
+     "vi": "Tớ thích con lười."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because it's cute and funny!",
+     "vi": "Vì nó dễ thương và buồn cười!"
+    },
+    {
+     "role": "Bi",
+     "en": "I like it too!",
+     "vi": "Tớ cũng thích nó!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "sloth",
+    "options": [
+     "otter",
+     "hedgehog"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "habitat"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rainforest"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Arctic"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Antarctica"
+  },
+  {
+   "type": "dictate_word",
+   "target": "savannah"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cheetah"
+  },
+  {
+   "type": "dictate_word",
+   "target": "gorilla"
+  },
+  {
+   "type": "dictate_word",
+   "target": "leopard"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The ocean is the habitat of whales."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Many birds live in the rainforest."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Polar bears live in the Arctic."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My favourite wild animal is|It lives in|It can"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U12-R01",
+   "title_en": "Animals of the rainforest",
+   "text_en": [
+    "The rainforest is hot and wet.",
+    "It is the habitat of many animals.",
+    "Colourful parrots fly over the trees.",
+    "Monkeys swing from branch to branch.",
+    "A sloth sleeps all day in a tall tree, and it moves very slowly.",
+    "On the ground, a leopard hunts at night.",
+    "It has beautiful spots, so it can hide in the leaves.",
+    "Frogs and snakes live near the river.",
+    "Some animals in the rainforest are in danger because people cut down the trees.",
+    "We should protect them."
+   ],
+   "questions": [
+    {
+     "q": "What is the rainforest like?",
+     "options": [
+      "Hot and wet.",
+      "Cold and dry.",
+      "Snowy."
+     ],
+     "answer": "Hot and wet."
+    },
+    {
+     "q": "When does the leopard hunt?",
+     "options": [
+      "At night.",
+      "In the morning.",
+      "At lunchtime."
+     ],
+     "answer": "At night."
+    },
+    {
+     "q": "Why are some animals in danger?",
+     "options": [
+      "People cut down the trees.",
+      "It is too hot.",
+      "There is no food."
+     ],
+     "answer": "People cut down the trees."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U12-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "gorilla",
+   "item": "gorilla",
+   "options": [
+    "gorilla",
+    "sloth",
+    "lizard",
+    "swan"
+   ],
+   "answer": "gorilla"
+  },
+  {
+   "id": "L3U12-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "leopard",
+   "item": "leopard",
+   "options": [
+    "hedgehog",
+    "gorilla",
+    "leopard",
+    "rhino"
+   ],
+   "answer": "leopard"
+  },
+  {
+   "id": "L3U12-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rhino",
+   "item": "rhino",
+   "options": [
+    "rhino",
+    "hedgehog",
+    "snail",
+    "otter"
+   ],
+   "answer": "rhino"
+  },
+  {
+   "id": "L3U12-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "peacock",
+   "item": "peacock",
+   "options": [
+    "gorilla",
+    "peacock",
+    "hedgehog",
+    "sloth"
+   ],
+   "answer": "peacock"
+  },
+  {
+   "id": "L3U12-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "flamingo",
+   "item": "flamingo",
+   "options": [
+    "flamingo",
+    "sloth",
+    "leopard",
+    "ladybird"
+   ],
+   "answer": "flamingo"
+  },
+  {
+   "id": "L3U12-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "seal",
+   "item": "seal",
+   "options": [
+    "seal",
+    "peacock",
+    "worm",
+    "lizard"
+   ],
+   "answer": "seal"
+  },
+  {
+   "id": "L3U12-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "crab",
+   "item": "crab",
+   "options": [
+    "rhino",
+    "crab",
+    "ladybird",
+    "snail"
+   ],
+   "answer": "crab"
+  },
+  {
+   "id": "L3U12-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lizard",
+   "item": "lizard",
+   "options": [
+    "hedgehog",
+    "lizard",
+    "peacock",
+    "otter"
+   ],
+   "answer": "lizard"
+  },
+  {
+   "id": "L3U12-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snail",
+   "item": "snail",
+   "options": [
+    "flamingo",
+    "snail",
+    "swan",
+    "ladybird"
+   ],
+   "answer": "snail"
+  },
+  {
+   "id": "L3U12-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "worm",
+   "item": "worm",
+   "options": [
+    "hedgehog",
+    "flamingo",
+    "seal",
+    "worm"
+   ],
+   "answer": "worm"
+  },
+  {
+   "id": "L3U12-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ladybird",
+   "item": "ladybird",
+   "options": [
+    "flamingo",
+    "peacock",
+    "ladybird",
+    "gorilla"
+   ],
+   "answer": "ladybird"
+  },
+  {
+   "id": "L3U12-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sloth",
+   "item": "sloth",
+   "options": [
+    "ladybird",
+    "flamingo",
+    "sloth",
+    "peacock"
+   ],
+   "answer": "sloth"
+  },
+  {
+   "id": "L3U12-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hedgehog",
+   "item": "hedgehog",
+   "options": [
+    "leopard",
+    "gorilla",
+    "hedgehog",
+    "ladybird"
+   ],
+   "answer": "hedgehog"
+  },
+  {
+   "id": "L3U12-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "otter",
+   "item": "otter",
+   "options": [
+    "peacock",
+    "otter",
+    "sloth",
+    "gorilla"
+   ],
+   "answer": "otter"
+  },
+  {
+   "id": "L3U12-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "swan",
+   "item": "swan",
+   "options": [
+    "swan",
+    "seal",
+    "crab",
+    "lizard"
+   ],
+   "answer": "swan"
+  },
+  {
+   "id": "L3U12-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "habitat",
+   "item": "habitat",
+   "options": [
+    "fin",
+    "habitat",
+    "worm",
+    "hedgehog"
+   ],
+   "answer": "habitat"
+  },
+  {
+   "id": "L3U12-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rainforest",
+   "item": "rainforest",
+   "options": [
+    "rainforest",
+    "colourful",
+    "lizard",
+    "Arctic"
+   ],
+   "answer": "rainforest"
+  },
+  {
+   "id": "L3U12-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Arctic",
+   "item": "Arctic",
+   "options": [
+    "Arctic",
+    "sloth",
+    "rhino",
+    "stripe"
+   ],
+   "answer": "Arctic"
+  },
+  {
+   "id": "L3U12-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Antarctica",
+   "item": "Antarctica",
+   "options": [
+    "spot",
+    "jellyfish",
+    "Antarctica",
+    "rhino"
+   ],
+   "answer": "Antarctica"
+  },
+  {
+   "id": "L3U12-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "savannah",
+   "item": "savannah",
+   "options": [
+    "Arctic",
+    "lizard",
+    "leopard",
+    "savannah"
+   ],
+   "answer": "savannah"
+  },
+  {
+   "id": "L3U12-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cheetah",
+   "item": "cheetah",
+   "options": [
+    "horn",
+    "cheetah",
+    "crawl",
+    "spot"
+   ],
+   "answer": "cheetah"
+  },
+  {
+   "id": "L3U12-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ostrich",
+   "item": "ostrich",
+   "options": [
+    "spot",
+    "ostrich",
+    "Arctic",
+    "snail"
+   ],
+   "answer": "ostrich"
+  },
+  {
+   "id": "L3U12-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jellyfish",
+   "item": "jellyfish",
+   "options": [
+    "horn",
+    "jellyfish",
+    "crawl",
+    "claw"
+   ],
+   "answer": "jellyfish"
+  },
+  {
+   "id": "L3U12-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hunt",
+   "item": "hunt",
+   "options": [
+    "ladybird",
+    "hunt",
+    "sloth",
+    "Antarctica"
+   ],
+   "answer": "hunt"
+  },
+  {
+   "id": "L3U12-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "claw",
+   "item": "claw",
+   "options": [
+    "fin",
+    "swan",
+    "claw",
+    "seal"
+   ],
+   "answer": "claw"
+  },
+  {
+   "id": "L3U12-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "beak",
+   "item": "beak",
+   "options": [
+    "sloth",
+    "ladybird",
+    "habitat",
+    "beak"
+   ],
+   "answer": "beak"
+  },
+  {
+   "id": "L3U12-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fin",
+   "item": "fin",
+   "options": [
+    "colourful",
+    "swan",
+    "fin",
+    "spot"
+   ],
+   "answer": "fin"
+  },
+  {
+   "id": "L3U12-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "horn",
+   "item": "horn",
+   "options": [
+    "seal",
+    "Antarctica",
+    "horn",
+    "peacock"
+   ],
+   "answer": "horn"
+  },
+  {
+   "id": "L3U12-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stripe",
+   "item": "stripe",
+   "options": [
+    "ostrich",
+    "hunt",
+    "stripe",
+    "Arctic"
+   ],
+   "answer": "stripe"
+  },
+  {
+   "id": "L3U12-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spot",
+   "item": "spot",
+   "options": [
+    "spot",
+    "horn",
+    "Arctic",
+    "snail"
+   ],
+   "answer": "spot"
+  },
+  {
+   "id": "L3U12-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dig",
+   "item": "dig",
+   "options": [
+    "dig",
+    "lizard",
+    "seal",
+    "peacock"
+   ],
+   "answer": "dig"
+  },
+  {
+   "id": "L3U12-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "colourful",
+   "item": "colourful",
+   "options": [
+    "sloth",
+    "hedgehog",
+    "fin",
+    "colourful"
+   ],
+   "answer": "colourful"
+  },
+  {
+   "id": "L3U12-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crawl",
+   "item": "crawl",
+   "options": [
+    "sloth",
+    "ostrich",
+    "flamingo",
+    "crawl"
+   ],
+   "answer": "crawl"
+  },
+  {
+   "id": "L3U12-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "gorilla",
+   "answer": "gorilla"
+  },
+  {
+   "id": "L3U12-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "leopard",
+   "answer": "leopard"
+  },
+  {
+   "id": "L3U12-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rhino",
+   "answer": "rhino"
+  },
+  {
+   "id": "L3U12-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "peacock",
+   "answer": "peacock"
+  },
+  {
+   "id": "L3U12-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "flamingo",
+   "answer": "flamingo"
+  },
+  {
+   "id": "L3U12-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "seal",
+   "answer": "seal"
+  },
+  {
+   "id": "L3U12-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "crab",
+   "answer": "crab"
+  },
+  {
+   "id": "L3U12-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lizard",
+   "answer": "lizard"
+  },
+  {
+   "id": "L3U12-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snail",
+   "answer": "snail"
+  },
+  {
+   "id": "L3U12-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "worm",
+   "answer": "worm"
+  },
+  {
+   "id": "L3U12-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ladybird",
+   "answer": "ladybird"
+  },
+  {
+   "id": "L3U12-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sloth",
+   "answer": "sloth"
+  },
+  {
+   "id": "L3U12-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hedgehog",
+   "answer": "hedgehog"
+  },
+  {
+   "id": "L3U12-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "otter",
+   "answer": "otter"
+  },
+  {
+   "id": "L3U12-Q048",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "swan",
+   "answer": "swan"
+  },
+  {
+   "id": "L3U12-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ocean is the habitat of whales.",
+   "item": "habitat",
+   "answer": "The ocean is the habitat of whales."
+  },
+  {
+   "id": "L3U12-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many birds live in the rainforest.",
+   "item": "rainforest",
+   "answer": "Many birds live in the rainforest."
+  },
+  {
+   "id": "L3U12-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Polar bears live in the Arctic.",
+   "item": "Arctic",
+   "answer": "Polar bears live in the Arctic."
+  },
+  {
+   "id": "L3U12-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Penguins live in Antarctica.",
+   "item": "Antarctica",
+   "answer": "Penguins live in Antarctica."
+  },
+  {
+   "id": "L3U12-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lions and zebras live on the savannah.",
+   "item": "savannah",
+   "answer": "Lions and zebras live on the savannah."
+  },
+  {
+   "id": "L3U12-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cheetah is the fastest animal.",
+   "item": "cheetah",
+   "answer": "The cheetah is the fastest animal."
+  },
+  {
+   "id": "L3U12-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Gorillas are big and strong.",
+   "item": "gorilla",
+   "answer": "Gorillas are big and strong."
+  },
+  {
+   "id": "L3U12-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A leopard can climb trees.",
+   "item": "leopard",
+   "answer": "A leopard can climb trees."
+  },
+  {
+   "id": "L3U12-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A rhino has a big horn.",
+   "item": "rhino",
+   "answer": "A rhino has a big horn."
+  },
+  {
+   "id": "L3U12-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An ostrich can't fly, but it can run fast.",
+   "item": "ostrich",
+   "answer": "An ostrich can't fly, but it can run fast."
+  },
+  {
+   "id": "L3U12-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The peacock has a beautiful tail.",
+   "item": "peacock",
+   "answer": "The peacock has a beautiful tail."
+  },
+  {
+   "id": "L3U12-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Flamingos are pink.",
+   "item": "flamingo",
+   "answer": "Flamingos are pink."
+  },
+  {
+   "id": "L3U12-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Seals can swim very well.",
+   "item": "seal",
+   "answer": "Seals can swim very well."
+  },
+  {
+   "id": "L3U12-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't touch the jellyfish!",
+   "item": "jellyfish",
+   "answer": "Don't touch the jellyfish!"
+  },
+  {
+   "id": "L3U12-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The crab walks on the sand.",
+   "item": "crab",
+   "answer": "The crab walks on the sand."
+  },
+  {
+   "id": "L3U12-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lizard is on the wall.",
+   "item": "lizard",
+   "answer": "The lizard is on the wall."
+  },
+  {
+   "id": "L3U12-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Snails are very slow.",
+   "item": "snail",
+   "answer": "Snails are very slow."
+  },
+  {
+   "id": "L3U12-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird is eating a worm.",
+   "item": "worm",
+   "answer": "The bird is eating a worm."
+  },
+  {
+   "id": "L3U12-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A ladybird is red with black spots.",
+   "item": "ladybird",
+   "answer": "A ladybird is red with black spots."
+  },
+  {
+   "id": "L3U12-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sloth sleeps in the tree all day.",
+   "item": "sloth",
+   "answer": "The sloth sleeps in the tree all day."
+  },
+  {
+   "id": "L3U12-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A hedgehog is small and has spikes.",
+   "item": "hedgehog",
+   "answer": "A hedgehog is small and has spikes."
+  },
+  {
+   "id": "L3U12-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Otters play in the river.",
+   "item": "otter",
+   "answer": "Otters play in the river."
+  },
+  {
+   "id": "L3U12-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The white swan is on the lake.",
+   "item": "swan",
+   "answer": "The white swan is on the lake."
+  },
+  {
+   "id": "L3U12-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lions hunt at night.",
+   "item": "hunt",
+   "answer": "Lions hunt at night."
+  },
+  {
+   "id": "L3U12-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bears have long claws.",
+   "item": "claw",
+   "answer": "Bears have long claws."
+  },
+  {
+   "id": "L3U12-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The parrot has a strong beak.",
+   "item": "beak",
+   "answer": "The parrot has a strong beak."
+  },
+  {
+   "id": "L3U12-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A shark has a big fin.",
+   "item": "fin",
+   "answer": "A shark has a big fin."
+  },
+  {
+   "id": "L3U12-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The goat has two horns.",
+   "item": "horn",
+   "answer": "The goat has two horns."
+  },
+  {
+   "id": "L3U12-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tigers have black stripes.",
+   "item": "stripe",
+   "answer": "Tigers have black stripes."
+  },
+  {
+   "id": "L3U12-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The leopard has spots.",
+   "item": "spot",
+   "answer": "The leopard has spots."
+  },
+  {
+   "id": "L3U12-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dogs like to dig in the garden.",
+   "item": "dig",
+   "answer": "Dogs like to dig in the garden."
+  },
+  {
+   "id": "L3U12-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The parrot is very colourful.",
+   "item": "colourful",
+   "answer": "The parrot is very colourful."
+  },
+  {
+   "id": "L3U12-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Babies crawl before they walk.",
+   "item": "crawl",
+   "answer": "Babies crawl before they walk."
+  },
+  {
+   "id": "L3U12-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where do cheetahs live?",
+   "answer": "Where do cheetahs live?"
+  },
+  {
+   "id": "L3U12-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where do gorillas live?",
+   "answer": "Where do gorillas live?"
+  },
+  {
+   "id": "L3U12-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where do penguins live?",
+   "answer": "Where do penguins live?"
+  },
+  {
+   "id": "L3U12-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cheetah is faster than the snail.",
+   "answer": "The cheetah is faster than the snail."
+  },
+  {
+   "id": "L3U12-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rabbit is faster than the snail.",
+   "answer": "The rabbit is faster than the snail."
+  },
+  {
+   "id": "L3U12-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The horse is faster than the snail.",
+   "answer": "The horse is faster than the snail."
+  },
+  {
+   "id": "L3U12-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a sloth in the tree.",
+   "answer": "I can see a sloth in the tree."
+  },
+  {
+   "id": "L3U12-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a leopard in the tree.",
+   "answer": "I can see a leopard in the tree."
+  },
+  {
+   "id": "L3U12-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a gorilla in the tree.",
+   "answer": "I can see a gorilla in the tree."
+  },
+  {
+   "id": "L3U12-Q091",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Look, Bi! What's that animal?",
+   "answer": "It's a gorilla. It's very strong."
+  },
+  {
+   "id": "L3U12-Q092",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where do gorillas live?",
+   "answer": "They live in the rainforest in Africa."
+  },
+  {
+   "id": "L3U12-Q093",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite wild animal?",
+   "answer": "I like the sloth."
+  },
+  {
+   "id": "L3U12-Q094",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "Because it's cute and funny!"
+  },
+  {
+   "id": "L3U12-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "gorilla",
+   "options": [
+    "gorilla",
+    "snail",
+    "otter"
+   ],
+   "answer": "gorilla"
+  },
+  {
+   "id": "L3U12-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "leopard",
+   "options": [
+    "crab",
+    "hedgehog",
+    "leopard"
+   ],
+   "answer": "leopard"
+  },
+  {
+   "id": "L3U12-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rhino",
+   "options": [
+    "flamingo",
+    "swan",
+    "rhino"
+   ],
+   "answer": "rhino"
+  },
+  {
+   "id": "L3U12-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "peacock",
+   "options": [
+    "peacock",
+    "leopard",
+    "seal"
+   ],
+   "answer": "peacock"
+  },
+  {
+   "id": "L3U12-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "flamingo",
+   "options": [
+    "gorilla",
+    "seal",
+    "flamingo"
+   ],
+   "answer": "flamingo"
+  },
+  {
+   "id": "L3U12-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "seal",
+   "options": [
+    "snail",
+    "seal",
+    "crab"
+   ],
+   "answer": "seal"
+  },
+  {
+   "id": "L3U12-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "crab",
+   "options": [
+    "crab",
+    "otter",
+    "sloth"
+   ],
+   "answer": "crab"
+  },
+  {
+   "id": "L3U12-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lizard",
+   "options": [
+    "ladybird",
+    "otter",
+    "lizard"
+   ],
+   "answer": "lizard"
+  },
+  {
+   "id": "L3U12-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snail",
+   "options": [
+    "hedgehog",
+    "snail",
+    "crab"
+   ],
+   "answer": "snail"
+  },
+  {
+   "id": "L3U12-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "worm",
+   "options": [
+    "swan",
+    "worm",
+    "seal"
+   ],
+   "answer": "worm"
+  },
+  {
+   "id": "L3U12-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ladybird",
+   "options": [
+    "lizard",
+    "ladybird",
+    "crab"
+   ],
+   "answer": "ladybird"
+  },
+  {
+   "id": "L3U12-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sloth",
+   "options": [
+    "sloth",
+    "otter",
+    "rhino"
+   ],
+   "answer": "sloth"
+  },
+  {
+   "id": "L3U12-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hedgehog",
+   "options": [
+    "leopard",
+    "peacock",
+    "hedgehog"
+   ],
+   "answer": "hedgehog"
+  },
+  {
+   "id": "L3U12-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "otter",
+   "options": [
+    "hedgehog",
+    "seal",
+    "otter"
+   ],
+   "answer": "otter"
+  },
+  {
+   "id": "L3U12-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "swan",
+   "options": [
+    "otter",
+    "snail",
+    "swan"
+   ],
+   "answer": "swan"
+  },
+  {
+   "id": "L3U12-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ocean is the ___ of whales.",
+   "item": "habitat",
+   "options": [
+    "habitat",
+    "otter",
+    "snail"
+   ],
+   "answer": "habitat"
+  },
+  {
+   "id": "L3U12-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many birds live in the ___.",
+   "item": "rainforest",
+   "options": [
+    "swan",
+    "colourful",
+    "rainforest"
+   ],
+   "answer": "rainforest"
+  },
+  {
+   "id": "L3U12-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lions and zebras live on the ___.",
+   "item": "savannah",
+   "options": [
+    "swan",
+    "otter",
+    "savannah"
+   ],
+   "answer": "savannah"
+  },
+  {
+   "id": "L3U12-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is the fastest animal.",
+   "item": "cheetah",
+   "options": [
+    "snail",
+    "beak",
+    "cheetah"
+   ],
+   "answer": "cheetah"
+  },
+  {
+   "id": "L3U12-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are big and strong.",
+   "item": "gorilla",
+   "options": [
+    "Gorillas",
+    "Peacocks",
+    "Worms"
+   ],
+   "answer": "Gorillas"
+  },
+  {
+   "id": "L3U12-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ can climb trees.",
+   "item": "leopard",
+   "options": [
+    "flamingo",
+    "spot",
+    "leopard"
+   ],
+   "answer": "leopard"
+  },
+  {
+   "id": "L3U12-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ has a big horn.",
+   "item": "rhino",
+   "options": [
+    "rhino",
+    "hunt",
+    "fin"
+   ],
+   "answer": "rhino"
+  },
+  {
+   "id": "L3U12-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ can't fly, but it can run fast.",
+   "item": "ostrich",
+   "options": [
+    "snail",
+    "hunt",
+    "ostrich"
+   ],
+   "answer": "ostrich"
+  },
+  {
+   "id": "L3U12-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has a beautiful tail.",
+   "item": "peacock",
+   "options": [
+    "peacock",
+    "spot",
+    "flamingo"
+   ],
+   "answer": "peacock"
+  },
+  {
+   "id": "L3U12-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are pink.",
+   "item": "flamingo",
+   "options": [
+    "Sloths",
+    "Flamingos",
+    "Ladybirds"
+   ],
+   "answer": "Flamingos"
+  },
+  {
+   "id": "L3U12-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ can swim very well.",
+   "item": "seal",
+   "options": [
+    "Swans",
+    "Seals",
+    "Ladybirds"
+   ],
+   "answer": "Seals"
+  },
+  {
+   "id": "L3U12-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't touch the ___!",
+   "item": "jellyfish",
+   "options": [
+    "jellyfish",
+    "seal",
+    "flamingo"
+   ],
+   "answer": "jellyfish"
+  },
+  {
+   "id": "L3U12-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ walks on the sand.",
+   "item": "crab",
+   "options": [
+    "crab",
+    "snail",
+    "gorilla"
+   ],
+   "answer": "crab"
+  },
+  {
+   "id": "L3U12-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is on the wall.",
+   "item": "lizard",
+   "options": [
+    "lizard",
+    "swan",
+    "stripe"
+   ],
+   "answer": "lizard"
+  },
+  {
+   "id": "L3U12-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are very slow.",
+   "item": "snail",
+   "options": [
+    "Snails",
+    "Worms",
+    "Hedgehogs"
+   ],
+   "answer": "Snails"
+  },
+  {
+   "id": "L3U12-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird is eating a ___.",
+   "item": "worm",
+   "options": [
+    "seal",
+    "crawl",
+    "worm"
+   ],
+   "answer": "worm"
+  },
+  {
+   "id": "L3U12-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is red with black spots.",
+   "item": "ladybird",
+   "options": [
+    "ladybird",
+    "dig",
+    "beak"
+   ],
+   "answer": "ladybird"
+  },
+  {
+   "id": "L3U12-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ sleeps in the tree all day.",
+   "item": "sloth",
+   "options": [
+    "flamingo",
+    "dig",
+    "sloth"
+   ],
+   "answer": "sloth"
+  },
+  {
+   "id": "L3U12-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is small and has spikes.",
+   "item": "hedgehog",
+   "options": [
+    "hunt",
+    "hedgehog",
+    "crawl"
+   ],
+   "answer": "hedgehog"
+  },
+  {
+   "id": "L3U12-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ play in the river.",
+   "item": "otter",
+   "options": [
+    "Otters",
+    "Sloths",
+    "Crabs"
+   ],
+   "answer": "Otters"
+  },
+  {
+   "id": "L3U12-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The white ___ is on the lake.",
+   "item": "swan",
+   "options": [
+    "cheetah",
+    "swan",
+    "rainforest"
+   ],
+   "answer": "swan"
+  },
+  {
+   "id": "L3U12-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lions ___ at night.",
+   "item": "hunt",
+   "options": [
+    "stripe",
+    "hunt",
+    "ladybird"
+   ],
+   "answer": "hunt"
+  },
+  {
+   "id": "L3U12-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Bears have long ___.",
+   "item": "claw",
+   "options": [
+    "worms",
+    "leopards",
+    "claws"
+   ],
+   "answer": "claws"
+  },
+  {
+   "id": "L3U12-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The parrot has a strong ___.",
+   "item": "beak",
+   "options": [
+    "lizard",
+    "cheetah",
+    "beak"
+   ],
+   "answer": "beak"
+  },
+  {
+   "id": "L3U12-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A shark has a big ___.",
+   "item": "fin",
+   "options": [
+    "rainforest",
+    "leopard",
+    "fin"
+   ],
+   "answer": "fin"
+  },
+  {
+   "id": "L3U12-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The goat has two ___.",
+   "item": "horn",
+   "options": [
+    "flamingos",
+    "horns",
+    "seals"
+   ],
+   "answer": "horns"
+  },
+  {
+   "id": "L3U12-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Tigers have black ___.",
+   "item": "stripe",
+   "options": [
+    "seals",
+    "otters",
+    "stripes"
+   ],
+   "answer": "stripes"
+  },
+  {
+   "id": "L3U12-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The leopard has ___.",
+   "item": "spot",
+   "options": [
+    "gorillas",
+    "seals",
+    "spots"
+   ],
+   "answer": "spots"
+  },
+  {
+   "id": "L3U12-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dogs like to ___ in the garden.",
+   "item": "dig",
+   "options": [
+    "crawl",
+    "dig",
+    "fin"
+   ],
+   "answer": "dig"
+  },
+  {
+   "id": "L3U12-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The parrot is very ___.",
+   "item": "colourful",
+   "options": [
+    "snail",
+    "ostrich",
+    "colourful"
+   ],
+   "answer": "colourful"
+  },
+  {
+   "id": "L3U12-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Babies ___ before they walk.",
+   "item": "crawl",
+   "options": [
+    "crawl",
+    "swan",
+    "ostrich"
+   ],
+   "answer": "crawl"
+  },
+  {
+   "id": "L3U12-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Gorillas are big and strong.",
+   "item": "gorilla",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A leopard can climb trees.",
+   "item": "rhino",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A rhino has a big horn.",
+   "item": "rhino",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The peacock has a beautiful tail.",
+   "item": "flamingo",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Flamingos are pink.",
+   "item": "flamingo",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Seals can swim very well.",
+   "item": "crab",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The crab walks on the sand.",
+   "item": "crab",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The lizard is on the wall.",
+   "item": "snail",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Snails are very slow.",
+   "item": "snail",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bird is eating a worm.",
+   "item": "ladybird",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A ladybird is red with black spots.",
+   "item": "ladybird",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The sloth sleeps in the tree all day.",
+   "item": "hedgehog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q153",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A hedgehog is small and has spikes.",
+   "item": "hedgehog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q154",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Otters play in the river.",
+   "item": "swan",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U12-Q155",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The white swan is on the lake.",
+   "item": "swan",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U12-Q156",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U12-R01",
+   "text_en": "What is the rainforest like?",
+   "options": [
+    "Snowy.",
+    "Hot and wet.",
+    "Cold and dry."
+   ],
+   "answer": "Hot and wet."
+  },
+  {
+   "id": "L3U12-Q157",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U12-R01",
+   "text_en": "When does the leopard hunt?",
+   "options": [
+    "At lunchtime.",
+    "In the morning.",
+    "At night."
+   ],
+   "answer": "At night."
+  },
+  {
+   "id": "L3U12-Q158",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U12-R01",
+   "text_en": "Why are some animals in danger?",
+   "options": [
+    "There is no food.",
+    "It is too hot.",
+    "People cut down the trees."
+   ],
+   "answer": "People cut down the trees."
+  },
+  {
+   "id": "L3U12-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "habitat",
+   "item": "habitat",
+   "answer": "habitat"
+  },
+  {
+   "id": "L3U12-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rainforest",
+   "item": "rainforest",
+   "answer": "rainforest"
+  },
+  {
+   "id": "L3U12-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Arctic",
+   "item": "Arctic",
+   "answer": "Arctic"
+  },
+  {
+   "id": "L3U12-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Antarctica",
+   "item": "Antarctica",
+   "answer": "Antarctica"
+  },
+  {
+   "id": "L3U12-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "savannah",
+   "item": "savannah",
+   "answer": "savannah"
+  },
+  {
+   "id": "L3U12-Q164",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cheetah",
+   "item": "cheetah",
+   "answer": "cheetah"
+  },
+  {
+   "id": "L3U12-Q165",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "gorilla",
+   "item": "gorilla",
+   "answer": "gorilla"
+  },
+  {
+   "id": "L3U12-Q166",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "leopard",
+   "item": "leopard",
+   "answer": "leopard"
+  },
+  {
+   "id": "L3U12-Q167",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The ocean is the habitat of whales.",
+   "answer": "The ocean is the habitat of whales."
+  },
+  {
+   "id": "L3U12-Q168",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Many birds live in the rainforest.",
+   "answer": "Many birds live in the rainforest."
+  },
+  {
+   "id": "L3U12-Q169",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Polar bears live in the Arctic.",
+   "answer": "Polar bears live in the Arctic."
+  }
+ ]
+}

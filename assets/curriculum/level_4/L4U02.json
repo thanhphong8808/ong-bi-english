@@ -1,0 +1,3314 @@
+{
+ "id": "L4U02",
+ "level": 4,
+ "unit": 2,
+ "topic_en": "At the restaurant",
+ "topic_vi": "Ở nhà hàng",
+ "can_do_vi": [
+  "Gọi món lịch sự với \"I'd like...\"",
+  "Hỏi về món ăn và xin hoá đơn"
+ ],
+ "grammar_note_vi": "Gọi món lịch sự: \"I'd like a bowl of pho, please.\" (\"I'd like\" là \"I would like\", lịch sự hơn \"I want\"). Mời ai: \"Would you like some water?\" (Bạn có muốn uống nước không?)",
+ "items": [
+  {
+   "id": "L4U02-W01",
+   "type": "word",
+   "en": "menu",
+   "vi": "thực đơn",
+   "ipa": "/ˈmɛnju/",
+   "syllables": [
+    "menu"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Can I see the menu, please?",
+   "example_vi": "Cho tôi xem thực đơn được không?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W02",
+   "type": "word",
+   "en": "order",
+   "vi": "gọi món",
+   "ipa": "/ˈɔrdər/",
+   "syllables": [
+    "or",
+    "der"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Are you ready to order?",
+   "example_vi": "Bạn sẵn sàng gọi món chưa?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W03",
+   "type": "word",
+   "en": "would",
+   "vi": "sẽ (lịch sự)",
+   "ipa": "/wʊd/",
+   "syllables": [
+    "would"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F64F"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Would you like some water?",
+   "example_vi": "Bạn có muốn uống nước không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W04",
+   "type": "word",
+   "en": "starter",
+   "vi": "món khai vị",
+   "ipa": "/ˈstɑrtər/",
+   "syllables": [
+    "starter"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F957"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "For a starter, I'd like soup.",
+   "example_vi": "Món khai vị, tôi muốn súp.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W05",
+   "type": "phrase",
+   "en": "main course",
+   "vi": "món chính",
+   "ipa": "/meɪn kɔrs/",
+   "syllables": [
+    "main",
+    "course"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F35B"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "What would you like for your main course?",
+   "example_vi": "Món chính bạn muốn gì?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W06",
+   "type": "word",
+   "en": "dessert",
+   "vi": "món tráng miệng",
+   "ipa": "/dɪˈzʌrt/",
+   "syllables": [
+    "dessert"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F36E"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "Let's have ice cream for dessert.",
+   "example_vi": "Mình ăn kem tráng miệng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W07",
+   "type": "word",
+   "en": "bill",
+   "vi": "hoá đơn thanh toán",
+   "ipa": "/bɪl/",
+   "syllables": [
+    "bill"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9FE"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Can we have the bill, please?",
+   "example_vi": "Cho chúng tôi xin hoá đơn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W08",
+   "type": "word",
+   "en": "spicy",
+   "vi": "cay",
+   "ipa": "/ˈspaɪsi/",
+   "syllables": [
+    "spicy"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F975"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "This soup is too spicy for me.",
+   "example_vi": "Súp này cay quá với tớ.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W09",
+   "type": "word",
+   "en": "sauce",
+   "vi": "nước sốt",
+   "ipa": "/sɔs/",
+   "syllables": [
+    "sauce"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F96B"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "I like pasta with tomato sauce.",
+   "example_vi": "Tớ thích mì Ý với sốt cà chua.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W10",
+   "type": "word",
+   "en": "pepper",
+   "vi": "hạt tiêu",
+   "ipa": "/ˈpɛpər/",
+   "syllables": [
+    "pep",
+    "per"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9C2"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Can you pass the salt and pepper?",
+   "example_vi": "Đưa giúp tớ muối và tiêu được không?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W11",
+   "type": "word",
+   "en": "chopsticks",
+   "vi": "đôi đũa",
+   "ipa": "/ˈtʃɑpˌstɪks/",
+   "syllables": [
+    "chop",
+    "sticks"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F962"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "I can eat noodles with chopsticks.",
+   "example_vi": "Tớ ăn mì bằng đũa được.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W12",
+   "type": "word",
+   "en": "napkin",
+   "vi": "khăn ăn",
+   "ipa": "/ˈnæpkɪn/",
+   "syllables": [
+    "nap",
+    "kin"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F9FB"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Here's a napkin for your face.",
+   "example_vi": "Khăn ăn để lau mặt đây.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W13",
+   "type": "word",
+   "en": "straw",
+   "vi": "ống hút",
+   "ipa": "/strɔ/",
+   "syllables": [
+    "straw"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Please don't give me a plastic straw.",
+   "example_vi": "Đừng đưa tôi ống hút nhựa nhé.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W14",
+   "type": "word",
+   "en": "grilled",
+   "vi": "nướng",
+   "ipa": "/ɡrɪld/",
+   "syllables": [
+    "grilled"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F362"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "I'd like grilled fish, please.",
+   "example_vi": "Cho tôi món cá nướng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W15",
+   "type": "word",
+   "en": "fried",
+   "vi": "rán, chiên",
+   "ipa": "/frid/",
+   "syllables": [
+    "fried"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F364"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Fried rice is my favourite.",
+   "example_vi": "Cơm rang là món tớ thích nhất.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W16",
+   "type": "word",
+   "en": "roast",
+   "vi": "quay, nướng lò",
+   "ipa": "/roʊst/",
+   "syllables": [
+    "roast"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F357"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "We have roast chicken on Sundays.",
+   "example_vi": "Chủ nhật nhà tớ ăn gà quay.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W17",
+   "type": "word",
+   "en": "seafood",
+   "vi": "hải sản",
+   "ipa": "/ˈsiˌfud/",
+   "syllables": [
+    "seafood"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F99E"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Do you like seafood?",
+   "example_vi": "Cậu có thích hải sản không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W18",
+   "type": "word",
+   "en": "prawn",
+   "vi": "con tôm",
+   "ipa": "/prɔn/",
+   "syllables": [
+    "prawn"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F990"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "The prawns are big and pink.",
+   "example_vi": "Tôm to và màu hồng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W19",
+   "type": "word",
+   "en": "beef",
+   "vi": "thịt bò",
+   "ipa": "/bif/",
+   "syllables": [
+    "beef"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F404"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Pho with beef is very popular.",
+   "example_vi": "Phở bò rất được ưa chuộng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W20",
+   "type": "word",
+   "en": "pork",
+   "vi": "thịt lợn",
+   "ipa": "/pɔrk/",
+   "syllables": [
+    "pork"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F416"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "We had pork and rice for lunch.",
+   "example_vi": "Bữa trưa nhà tớ ăn thịt lợn với cơm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W21",
+   "type": "word",
+   "en": "tofu",
+   "vi": "đậu phụ",
+   "ipa": "/ˈtoʊfu/",
+   "syllables": [
+    "to",
+    "fu"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2B1C"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "My sister doesn't eat meat. She eats tofu.",
+   "example_vi": "Chị tớ không ăn thịt. Chị ăn đậu phụ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W22",
+   "type": "word",
+   "en": "mushroom",
+   "vi": "nấm",
+   "ipa": "/ˈmʌʃrum/",
+   "syllables": [
+    "mush",
+    "room"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F344"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "I don't like mushrooms on my pizza.",
+   "example_vi": "Tớ không thích nấm trên pizza.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W23",
+   "type": "word",
+   "en": "chilli",
+   "vi": "ớt",
+   "ipa": "/chilli/",
+   "syllables": [
+    "chilli"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F336-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "Be careful! The chilli is very hot.",
+   "example_vi": "Cẩn thận! Ớt cay lắm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W24",
+   "type": "word",
+   "en": "garlic",
+   "vi": "tỏi",
+   "ipa": "/ˈɡɑrlɪk/",
+   "syllables": [
+    "gar",
+    "lic"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F9C4"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "Mum puts garlic in the soup.",
+   "example_vi": "Mẹ cho tỏi vào súp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W25",
+   "type": "word",
+   "en": "pho",
+   "vi": "phở",
+   "ipa": "/pho/",
+   "syllables": [
+    "pho"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F35C"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "I eat pho for breakfast.",
+   "example_vi": "Tớ ăn phở vào bữa sáng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W26",
+   "type": "phrase",
+   "en": "fish sauce",
+   "vi": "nước mắm",
+   "ipa": "/fɪʃ sɔs/",
+   "syllables": [
+    "fish",
+    "sauce"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F41F"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Spring rolls are good with fish sauce.",
+   "example_vi": "Nem rán chấm nước mắm rất ngon.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W27",
+   "type": "word",
+   "en": "vegetarian",
+   "vi": "người ăn chay, món chay",
+   "ipa": "/ˌvɛdʒəˈtɛˌriən/",
+   "syllables": [
+    "veg",
+    "e",
+    "tar",
+    "i",
+    "an"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F966"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Do you have vegetarian food?",
+   "example_vi": "Ở đây có món chay không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W28",
+   "type": "word",
+   "en": "tasty",
+   "vi": "ngon",
+   "ipa": "/ˈteɪsti/",
+   "syllables": [
+    "tasty"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F60B"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "This cake is really tasty!",
+   "example_vi": "Bánh này ngon thật!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W29",
+   "type": "word",
+   "en": "smell",
+   "vi": "mùi, ngửi",
+   "ipa": "/smɛl/",
+   "syllables": [
+    "smell"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F443"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "That smells good!",
+   "example_vi": "Thơm quá!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W30",
+   "type": "word",
+   "en": "taste",
+   "vi": "nếm, vị",
+   "ipa": "/teɪst/",
+   "syllables": [
+    "taste"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F445"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Taste this soup. Is it salty?",
+   "example_vi": "Nếm súp này đi. Có mặn không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W31",
+   "type": "word",
+   "en": "waitress",
+   "vi": "nữ phục vụ",
+   "ipa": "/ˈweɪtrəs/",
+   "syllables": [
+    "wait",
+    "ress"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F469-200D-1F373"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "The waitress brings our drinks.",
+   "example_vi": "Chị phục vụ mang đồ uống đến.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W32",
+   "type": "word",
+   "en": "meal",
+   "vi": "bữa ăn",
+   "ipa": "/mil/",
+   "syllables": [
+    "meal"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Breakfast is the most important meal.",
+   "example_vi": "Bữa sáng là bữa ăn quan trọng nhất.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W33",
+   "type": "word",
+   "en": "milkshake",
+   "vi": "sữa lắc",
+   "ipa": "/ˈmɪlkˌʃeɪk/",
+   "syllables": [
+    "milk",
+    "shake"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "A chocolate milkshake, please!",
+   "example_vi": "Cho tôi một ly sữa lắc sô-cô-la!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W34",
+   "type": "word",
+   "en": "cupcake",
+   "vi": "bánh nướng nhỏ",
+   "ipa": "/ˈkʌpˌkeɪk/",
+   "syllables": [
+    "cup",
+    "cake"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9C1"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "I made cupcakes for the party.",
+   "example_vi": "Tớ làm bánh cupcake cho bữa tiệc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W35",
+   "type": "word",
+   "en": "pie",
+   "vi": "bánh nướng nhân",
+   "ipa": "/paɪ/",
+   "syllables": [
+    "pie"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F967"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "Grandma makes apple pie.",
+   "example_vi": "Bà làm bánh táo nướng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W36",
+   "type": "word",
+   "en": "jelly",
+   "vi": "thạch",
+   "ipa": "/ˈdʒɛli/",
+   "syllables": [
+    "jel",
+    "ly"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F36E"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Children love jelly.",
+   "example_vi": "Trẻ em rất thích thạch.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W37",
+   "type": "word",
+   "en": "enough",
+   "vi": "đủ",
+   "ipa": "/ɪˈnʌf/",
+   "syllables": [
+    "enough"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Thank you, that's enough.",
+   "example_vi": "Cảm ơn, thế là đủ rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W38",
+   "type": "word",
+   "en": "another",
+   "vi": "thêm một, cái khác",
+   "ipa": "/əˈnʌðər/",
+   "syllables": [
+    "an",
+    "oth",
+    "er"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "Can I have another spoon?",
+   "example_vi": "Cho tôi thêm một cái thìa nữa được không?",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W39",
+   "type": "word",
+   "en": "bitter",
+   "vi": "đắng",
+   "ipa": "/ˈbɪtər/",
+   "syllables": [
+    "bit",
+    "ter"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F616"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "This medicine is bitter.",
+   "example_vi": "Thuốc này đắng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W40",
+   "type": "word",
+   "en": "salty",
+   "vi": "mặn",
+   "ipa": "/ˈsɔlti/",
+   "syllables": [
+    "salty"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9C2"
+   },
+   "picturable": false,
+   "cat": "L4U02",
+   "example_en": "The chips are too salty.",
+   "example_vi": "Khoai tây chiên mặn quá.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U02-W41",
+   "type": "word",
+   "en": "takeaway",
+   "vi": "đồ ăn mang về",
+   "ipa": "/takeaway/",
+   "syllables": [
+    "takeaway"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F961"
+   },
+   "picturable": true,
+   "cat": "L4U02",
+   "example_en": "Let's get a takeaway tonight.",
+   "example_vi": "Tối nay mình mua đồ ăn mang về nhé.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U02-P01",
+   "en": "I'd like {x}, please.",
+   "vi": "Cho tôi {x}.",
+   "slots": {
+    "x": [
+     "a bowl of pho",
+     "fried rice",
+     "grilled fish",
+     "a milkshake"
+    ]
+   }
+  },
+  {
+   "id": "L4U02-P02",
+   "en": "Would you like some {x}?",
+   "vi": "Bạn có muốn dùng {x} không?",
+   "slots": {
+    "x": [
+     "dessert",
+     "water",
+     "sauce",
+     "bread"
+    ]
+   }
+  },
+  {
+   "id": "L4U02-P03",
+   "en": "This soup is too {x}.",
+   "vi": "Súp này {x} quá.",
+   "slots": {
+    "x": [
+     "spicy",
+     "salty",
+     "hot",
+     "sweet"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U02-D01",
+   "title_vi": "Gọi món",
+   "roles": [
+    "Waiter",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Waiter",
+     "en": "Good evening. Are you ready to order?",
+     "vi": "Chào buổi tối. Bạn sẵn sàng gọi món chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. I'd like a bowl of pho, please.",
+     "vi": "Vâng. Cho cháu một bát phở ạ."
+    },
+    {
+     "role": "Waiter",
+     "en": "Beef or chicken?",
+     "vi": "Bò hay gà ạ?"
+    },
+    {
+     "role": "Kid",
+     "en": "Chicken, please. Not spicy.",
+     "vi": "Gà ạ. Không cay nhé."
+    },
+    {
+     "role": "Waiter",
+     "en": "And what would you like to drink?",
+     "vi": "Cháu muốn uống gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "An orange juice, please.",
+     "vi": "Một cốc nước cam ạ."
+    },
+    {
+     "role": "Waiter",
+     "en": "Would you like a dessert?",
+     "vi": "Cháu có muốn ăn tráng miệng không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No, thank you. That's enough.",
+     "vi": "Dạ không, cảm ơn. Thế là đủ rồi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "pho",
+    "options": [
+     "noodles",
+     "pasta"
+    ]
+   }
+  },
+  {
+   "id": "L4U02-D02",
+   "title_vi": "Tráng miệng",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "That was a delicious meal!",
+     "vi": "Bữa ăn ngon quá!"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! Can we have dessert?",
+     "vi": "Đúng! Mình ăn tráng miệng được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure. I'd like some jelly. And you?",
+     "vi": "Được chứ. Tớ muốn ăn thạch. Còn cậu?"
+    },
+    {
+     "role": "Kid",
+     "en": "A chocolate milkshake, please!",
+     "vi": "Cho tớ một ly sữa lắc sô-cô-la!"
+    },
+    {
+     "role": "Bi",
+     "en": "Then let's ask for the bill.",
+     "vi": "Sau đó mình xin hoá đơn nhé."
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "jelly",
+    "options": [
+     "cupcake",
+     "pie"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "menu"
+  },
+  {
+   "type": "dictate_word",
+   "target": "order"
+  },
+  {
+   "type": "dictate_word",
+   "target": "would"
+  },
+  {
+   "type": "dictate_word",
+   "target": "starter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "dessert"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bill"
+  },
+  {
+   "type": "dictate_word",
+   "target": "spicy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sauce"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Can I see the menu, please?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Are you ready to order?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Would you like some water?"
+  },
+  {
+   "type": "write_sentences",
+   "target": "I'd like|My favourite meal is|At a restaurant, I usually"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U02-R01",
+   "title_en": "Dinner at the new restaurant",
+   "text_en": [
+    "Last Saturday, Mai's family went to a new restaurant in town.",
+    "The waitress gave them the menu.",
+    "For a starter, they had spring rolls with fish sauce.",
+    "For the main course, Dad ordered grilled fish and Mum ordered beef noodles.",
+    "Mai is a vegetarian, so she had fried rice with tofu and mushrooms.",
+    "Her brother wanted something spicy, but the chilli was too hot for him!",
+    "For dessert, they all shared a big apple pie.",
+    "The food was tasty, and the waitress was friendly.",
+    "When Dad asked for the bill, everyone was full and happy."
+   ],
+   "questions": [
+    {
+     "q": "What did Mai have?",
+     "options": [
+      "Fried rice with tofu.",
+      "Grilled fish.",
+      "Beef noodles."
+     ],
+     "answer": "Fried rice with tofu."
+    },
+    {
+     "q": "Why doesn't Mai eat meat?",
+     "options": [
+      "She is a vegetarian.",
+      "She doesn't like noodles.",
+      "She was full."
+     ],
+     "answer": "She is a vegetarian."
+    },
+    {
+     "q": "What did they share for dessert?",
+     "options": [
+      "An apple pie.",
+      "Ice cream.",
+      "Jelly."
+     ],
+     "answer": "An apple pie."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U02-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dessert",
+   "item": "dessert",
+   "options": [
+    "mushroom",
+    "chopsticks",
+    "dessert",
+    "prawn"
+   ],
+   "answer": "dessert"
+  },
+  {
+   "id": "L4U02-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chopsticks",
+   "item": "chopsticks",
+   "options": [
+    "dessert",
+    "chopsticks",
+    "chilli",
+    "garlic"
+   ],
+   "answer": "chopsticks"
+  },
+  {
+   "id": "L4U02-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "prawn",
+   "item": "prawn",
+   "options": [
+    "mushroom",
+    "dessert",
+    "prawn",
+    "pie"
+   ],
+   "answer": "prawn"
+  },
+  {
+   "id": "L4U02-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mushroom",
+   "item": "mushroom",
+   "options": [
+    "mushroom",
+    "cupcake",
+    "chilli",
+    "dessert"
+   ],
+   "answer": "mushroom"
+  },
+  {
+   "id": "L4U02-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chilli",
+   "item": "chilli",
+   "options": [
+    "pie",
+    "chopsticks",
+    "chilli",
+    "dessert"
+   ],
+   "answer": "chilli"
+  },
+  {
+   "id": "L4U02-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "garlic",
+   "item": "garlic",
+   "options": [
+    "dessert",
+    "garlic",
+    "mushroom",
+    "pie"
+   ],
+   "answer": "garlic"
+  },
+  {
+   "id": "L4U02-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cupcake",
+   "item": "cupcake",
+   "options": [
+    "chilli",
+    "mushroom",
+    "chopsticks",
+    "cupcake"
+   ],
+   "answer": "cupcake"
+  },
+  {
+   "id": "L4U02-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pie",
+   "item": "pie",
+   "options": [
+    "dessert",
+    "pie",
+    "garlic",
+    "chilli"
+   ],
+   "answer": "pie"
+  },
+  {
+   "id": "L4U02-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "takeaway",
+   "item": "takeaway",
+   "options": [
+    "takeaway",
+    "mushroom",
+    "chilli",
+    "dessert"
+   ],
+   "answer": "takeaway"
+  },
+  {
+   "id": "L4U02-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "menu",
+   "item": "menu",
+   "options": [
+    "order",
+    "garlic",
+    "seafood",
+    "menu"
+   ],
+   "answer": "menu"
+  },
+  {
+   "id": "L4U02-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "order",
+   "item": "order",
+   "options": [
+    "order",
+    "cupcake",
+    "pork",
+    "tasty"
+   ],
+   "answer": "order"
+  },
+  {
+   "id": "L4U02-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "would",
+   "item": "would",
+   "options": [
+    "would",
+    "jelly",
+    "spicy",
+    "takeaway"
+   ],
+   "answer": "would"
+  },
+  {
+   "id": "L4U02-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "starter",
+   "item": "starter",
+   "options": [
+    "menu",
+    "meal",
+    "starter",
+    "enough"
+   ],
+   "answer": "starter"
+  },
+  {
+   "id": "L4U02-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "main course",
+   "item": "main course",
+   "options": [
+    "main course",
+    "pie",
+    "grilled",
+    "menu"
+   ],
+   "answer": "main course"
+  },
+  {
+   "id": "L4U02-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bill",
+   "item": "bill",
+   "options": [
+    "chilli",
+    "spicy",
+    "dessert",
+    "bill"
+   ],
+   "answer": "bill"
+  },
+  {
+   "id": "L4U02-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spicy",
+   "item": "spicy",
+   "options": [
+    "prawn",
+    "cupcake",
+    "spicy",
+    "mushroom"
+   ],
+   "answer": "spicy"
+  },
+  {
+   "id": "L4U02-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sauce",
+   "item": "sauce",
+   "options": [
+    "chilli",
+    "straw",
+    "sauce",
+    "main course"
+   ],
+   "answer": "sauce"
+  },
+  {
+   "id": "L4U02-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pepper",
+   "item": "pepper",
+   "options": [
+    "chopsticks",
+    "pepper",
+    "straw",
+    "mushroom"
+   ],
+   "answer": "pepper"
+  },
+  {
+   "id": "L4U02-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "napkin",
+   "item": "napkin",
+   "options": [
+    "sauce",
+    "napkin",
+    "takeaway",
+    "order"
+   ],
+   "answer": "napkin"
+  },
+  {
+   "id": "L4U02-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "straw",
+   "item": "straw",
+   "options": [
+    "milkshake",
+    "straw",
+    "taste",
+    "grilled"
+   ],
+   "answer": "straw"
+  },
+  {
+   "id": "L4U02-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grilled",
+   "item": "grilled",
+   "options": [
+    "salty",
+    "bitter",
+    "grilled",
+    "pork"
+   ],
+   "answer": "grilled"
+  },
+  {
+   "id": "L4U02-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fried",
+   "item": "fried",
+   "options": [
+    "starter",
+    "taste",
+    "fried",
+    "order"
+   ],
+   "answer": "fried"
+  },
+  {
+   "id": "L4U02-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "roast",
+   "item": "roast",
+   "options": [
+    "roast",
+    "taste",
+    "meal",
+    "mushroom"
+   ],
+   "answer": "roast"
+  },
+  {
+   "id": "L4U02-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "seafood",
+   "item": "seafood",
+   "options": [
+    "vegetarian",
+    "seafood",
+    "salty",
+    "another"
+   ],
+   "answer": "seafood"
+  },
+  {
+   "id": "L4U02-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "beef",
+   "item": "beef",
+   "options": [
+    "salty",
+    "napkin",
+    "smell",
+    "beef"
+   ],
+   "answer": "beef"
+  },
+  {
+   "id": "L4U02-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pork",
+   "item": "pork",
+   "options": [
+    "mushroom",
+    "starter",
+    "pork",
+    "roast"
+   ],
+   "answer": "pork"
+  },
+  {
+   "id": "L4U02-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tofu",
+   "item": "tofu",
+   "options": [
+    "tofu",
+    "seafood",
+    "straw",
+    "another"
+   ],
+   "answer": "tofu"
+  },
+  {
+   "id": "L4U02-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pho",
+   "item": "pho",
+   "options": [
+    "pho",
+    "grilled",
+    "seafood",
+    "roast"
+   ],
+   "answer": "pho"
+  },
+  {
+   "id": "L4U02-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fish sauce",
+   "item": "fish sauce",
+   "options": [
+    "roast",
+    "beef",
+    "would",
+    "fish sauce"
+   ],
+   "answer": "fish sauce"
+  },
+  {
+   "id": "L4U02-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "vegetarian",
+   "item": "vegetarian",
+   "options": [
+    "roast",
+    "vegetarian",
+    "pho",
+    "meal"
+   ],
+   "answer": "vegetarian"
+  },
+  {
+   "id": "L4U02-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tasty",
+   "item": "tasty",
+   "options": [
+    "would",
+    "tasty",
+    "menu",
+    "milkshake"
+   ],
+   "answer": "tasty"
+  },
+  {
+   "id": "L4U02-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smell",
+   "item": "smell",
+   "options": [
+    "smell",
+    "roast",
+    "straw",
+    "jelly"
+   ],
+   "answer": "smell"
+  },
+  {
+   "id": "L4U02-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "taste",
+   "item": "taste",
+   "options": [
+    "pho",
+    "tasty",
+    "bill",
+    "taste"
+   ],
+   "answer": "taste"
+  },
+  {
+   "id": "L4U02-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "waitress",
+   "item": "waitress",
+   "options": [
+    "order",
+    "garlic",
+    "waitress",
+    "bitter"
+   ],
+   "answer": "waitress"
+  },
+  {
+   "id": "L4U02-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "meal",
+   "item": "meal",
+   "options": [
+    "prawn",
+    "meal",
+    "chopsticks",
+    "roast"
+   ],
+   "answer": "meal"
+  },
+  {
+   "id": "L4U02-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "milkshake",
+   "item": "milkshake",
+   "options": [
+    "would",
+    "seafood",
+    "pepper",
+    "milkshake"
+   ],
+   "answer": "milkshake"
+  },
+  {
+   "id": "L4U02-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jelly",
+   "item": "jelly",
+   "options": [
+    "tofu",
+    "mushroom",
+    "tasty",
+    "jelly"
+   ],
+   "answer": "jelly"
+  },
+  {
+   "id": "L4U02-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "enough",
+   "item": "enough",
+   "options": [
+    "meal",
+    "starter",
+    "another",
+    "enough"
+   ],
+   "answer": "enough"
+  },
+  {
+   "id": "L4U02-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "another",
+   "item": "another",
+   "options": [
+    "seafood",
+    "tofu",
+    "milkshake",
+    "another"
+   ],
+   "answer": "another"
+  },
+  {
+   "id": "L4U02-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bitter",
+   "item": "bitter",
+   "options": [
+    "bitter",
+    "main course",
+    "straw",
+    "beef"
+   ],
+   "answer": "bitter"
+  },
+  {
+   "id": "L4U02-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "salty",
+   "item": "salty",
+   "options": [
+    "salty",
+    "pho",
+    "takeaway",
+    "order"
+   ],
+   "answer": "salty"
+  },
+  {
+   "id": "L4U02-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dessert",
+   "answer": "dessert"
+  },
+  {
+   "id": "L4U02-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chopsticks",
+   "answer": "chopsticks"
+  },
+  {
+   "id": "L4U02-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "prawn",
+   "answer": "prawn"
+  },
+  {
+   "id": "L4U02-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mushroom",
+   "answer": "mushroom"
+  },
+  {
+   "id": "L4U02-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chilli",
+   "answer": "chilli"
+  },
+  {
+   "id": "L4U02-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "garlic",
+   "answer": "garlic"
+  },
+  {
+   "id": "L4U02-Q048",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cupcake",
+   "answer": "cupcake"
+  },
+  {
+   "id": "L4U02-Q049",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pie",
+   "answer": "pie"
+  },
+  {
+   "id": "L4U02-Q050",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "takeaway",
+   "answer": "takeaway"
+  },
+  {
+   "id": "L4U02-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I see the menu, please?",
+   "item": "menu",
+   "answer": "Can I see the menu, please?"
+  },
+  {
+   "id": "L4U02-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you ready to order?",
+   "item": "order",
+   "answer": "Are you ready to order?"
+  },
+  {
+   "id": "L4U02-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like some water?",
+   "item": "would",
+   "answer": "Would you like some water?"
+  },
+  {
+   "id": "L4U02-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "For a starter, I'd like soup.",
+   "item": "starter",
+   "answer": "For a starter, I'd like soup."
+  },
+  {
+   "id": "L4U02-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What would you like for your main course?",
+   "item": "main course",
+   "answer": "What would you like for your main course?"
+  },
+  {
+   "id": "L4U02-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's have ice cream for dessert.",
+   "item": "dessert",
+   "answer": "Let's have ice cream for dessert."
+  },
+  {
+   "id": "L4U02-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can we have the bill, please?",
+   "item": "bill",
+   "answer": "Can we have the bill, please?"
+  },
+  {
+   "id": "L4U02-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This soup is too spicy for me.",
+   "item": "spicy",
+   "answer": "This soup is too spicy for me."
+  },
+  {
+   "id": "L4U02-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like pasta with tomato sauce.",
+   "item": "sauce",
+   "answer": "I like pasta with tomato sauce."
+  },
+  {
+   "id": "L4U02-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you pass the salt and pepper?",
+   "item": "pepper",
+   "answer": "Can you pass the salt and pepper?"
+  },
+  {
+   "id": "L4U02-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can eat noodles with chopsticks.",
+   "item": "chopsticks",
+   "answer": "I can eat noodles with chopsticks."
+  },
+  {
+   "id": "L4U02-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Here's a napkin for your face.",
+   "item": "napkin",
+   "answer": "Here's a napkin for your face."
+  },
+  {
+   "id": "L4U02-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please don't give me a plastic straw.",
+   "item": "straw",
+   "answer": "Please don't give me a plastic straw."
+  },
+  {
+   "id": "L4U02-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like grilled fish, please.",
+   "item": "grilled",
+   "answer": "I'd like grilled fish, please."
+  },
+  {
+   "id": "L4U02-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fried rice is my favourite.",
+   "item": "fried",
+   "answer": "Fried rice is my favourite."
+  },
+  {
+   "id": "L4U02-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have roast chicken on Sundays.",
+   "item": "roast",
+   "answer": "We have roast chicken on Sundays."
+  },
+  {
+   "id": "L4U02-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you like seafood?",
+   "item": "seafood",
+   "answer": "Do you like seafood?"
+  },
+  {
+   "id": "L4U02-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The prawns are big and pink.",
+   "item": "prawn",
+   "answer": "The prawns are big and pink."
+  },
+  {
+   "id": "L4U02-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pho with beef is very popular.",
+   "item": "beef",
+   "answer": "Pho with beef is very popular."
+  },
+  {
+   "id": "L4U02-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had pork and rice for lunch.",
+   "item": "pork",
+   "answer": "We had pork and rice for lunch."
+  },
+  {
+   "id": "L4U02-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister doesn't eat meat. She eats tofu.",
+   "item": "tofu",
+   "answer": "My sister doesn't eat meat. She eats tofu."
+  },
+  {
+   "id": "L4U02-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like mushrooms on my pizza.",
+   "item": "mushroom",
+   "answer": "I don't like mushrooms on my pizza."
+  },
+  {
+   "id": "L4U02-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful! The chilli is very hot.",
+   "item": "chilli",
+   "answer": "Be careful! The chilli is very hot."
+  },
+  {
+   "id": "L4U02-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum puts garlic in the soup.",
+   "item": "garlic",
+   "answer": "Mum puts garlic in the soup."
+  },
+  {
+   "id": "L4U02-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat pho for breakfast.",
+   "item": "pho",
+   "answer": "I eat pho for breakfast."
+  },
+  {
+   "id": "L4U02-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Spring rolls are good with fish sauce.",
+   "item": "fish sauce",
+   "answer": "Spring rolls are good with fish sauce."
+  },
+  {
+   "id": "L4U02-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have vegetarian food?",
+   "item": "vegetarian",
+   "answer": "Do you have vegetarian food?"
+  },
+  {
+   "id": "L4U02-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This cake is really tasty!",
+   "item": "tasty",
+   "answer": "This cake is really tasty!"
+  },
+  {
+   "id": "L4U02-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That smells good!",
+   "item": "smell",
+   "answer": "That smells good!"
+  },
+  {
+   "id": "L4U02-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Taste this soup. Is it salty?",
+   "item": "taste",
+   "answer": "Taste this soup. Is it salty?"
+  },
+  {
+   "id": "L4U02-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The waitress brings our drinks.",
+   "item": "waitress",
+   "answer": "The waitress brings our drinks."
+  },
+  {
+   "id": "L4U02-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Breakfast is the most important meal.",
+   "item": "meal",
+   "answer": "Breakfast is the most important meal."
+  },
+  {
+   "id": "L4U02-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A chocolate milkshake, please!",
+   "item": "milkshake",
+   "answer": "A chocolate milkshake, please!"
+  },
+  {
+   "id": "L4U02-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I made cupcakes for the party.",
+   "item": "cupcake",
+   "answer": "I made cupcakes for the party."
+  },
+  {
+   "id": "L4U02-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma makes apple pie.",
+   "item": "pie",
+   "answer": "Grandma makes apple pie."
+  },
+  {
+   "id": "L4U02-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Children love jelly.",
+   "item": "jelly",
+   "answer": "Children love jelly."
+  },
+  {
+   "id": "L4U02-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you, that's enough.",
+   "item": "enough",
+   "answer": "Thank you, that's enough."
+  },
+  {
+   "id": "L4U02-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have another spoon?",
+   "item": "another",
+   "answer": "Can I have another spoon?"
+  },
+  {
+   "id": "L4U02-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This medicine is bitter.",
+   "item": "bitter",
+   "answer": "This medicine is bitter."
+  },
+  {
+   "id": "L4U02-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The chips are too salty.",
+   "item": "salty",
+   "answer": "The chips are too salty."
+  },
+  {
+   "id": "L4U02-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's get a takeaway tonight.",
+   "item": "takeaway",
+   "answer": "Let's get a takeaway tonight."
+  },
+  {
+   "id": "L4U02-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like a bowl of pho, please.",
+   "answer": "I'd like a bowl of pho, please."
+  },
+  {
+   "id": "L4U02-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like fried rice, please.",
+   "answer": "I'd like fried rice, please."
+  },
+  {
+   "id": "L4U02-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like grilled fish, please.",
+   "answer": "I'd like grilled fish, please."
+  },
+  {
+   "id": "L4U02-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like some dessert?",
+   "answer": "Would you like some dessert?"
+  },
+  {
+   "id": "L4U02-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like some water?",
+   "answer": "Would you like some water?"
+  },
+  {
+   "id": "L4U02-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like some sauce?",
+   "answer": "Would you like some sauce?"
+  },
+  {
+   "id": "L4U02-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This soup is too spicy.",
+   "answer": "This soup is too spicy."
+  },
+  {
+   "id": "L4U02-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This soup is too salty.",
+   "answer": "This soup is too salty."
+  },
+  {
+   "id": "L4U02-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This soup is too hot.",
+   "answer": "This soup is too hot."
+  },
+  {
+   "id": "L4U02-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Good evening. Are you ready to order?",
+   "answer": "Yes. I'd like a bowl of pho, please."
+  },
+  {
+   "id": "L4U02-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Beef or chicken?",
+   "answer": "Chicken, please. Not spicy."
+  },
+  {
+   "id": "L4U02-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "And what would you like to drink?",
+   "answer": "An orange juice, please."
+  },
+  {
+   "id": "L4U02-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Would you like a dessert?",
+   "answer": "No, thank you. That's enough."
+  },
+  {
+   "id": "L4U02-Q105",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes! Can we have dessert?",
+   "answer": "Sure. I'd like some jelly. And you?"
+  },
+  {
+   "id": "L4U02-Q106",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sure. I'd like some jelly. And you?",
+   "answer": "A chocolate milkshake, please!"
+  },
+  {
+   "id": "L4U02-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dessert",
+   "options": [
+    "dessert",
+    "prawn",
+    "takeaway"
+   ],
+   "answer": "dessert"
+  },
+  {
+   "id": "L4U02-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chopsticks",
+   "options": [
+    "mushroom",
+    "chopsticks",
+    "chilli"
+   ],
+   "answer": "chopsticks"
+  },
+  {
+   "id": "L4U02-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "prawn",
+   "options": [
+    "garlic",
+    "chilli",
+    "prawn"
+   ],
+   "answer": "prawn"
+  },
+  {
+   "id": "L4U02-Q110",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mushroom",
+   "options": [
+    "pie",
+    "dessert",
+    "mushroom"
+   ],
+   "answer": "mushroom"
+  },
+  {
+   "id": "L4U02-Q111",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chilli",
+   "options": [
+    "cupcake",
+    "chopsticks",
+    "chilli"
+   ],
+   "answer": "chilli"
+  },
+  {
+   "id": "L4U02-Q112",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "garlic",
+   "options": [
+    "mushroom",
+    "garlic",
+    "prawn"
+   ],
+   "answer": "garlic"
+  },
+  {
+   "id": "L4U02-Q113",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cupcake",
+   "options": [
+    "takeaway",
+    "cupcake",
+    "mushroom"
+   ],
+   "answer": "cupcake"
+  },
+  {
+   "id": "L4U02-Q114",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pie",
+   "options": [
+    "chilli",
+    "prawn",
+    "pie"
+   ],
+   "answer": "pie"
+  },
+  {
+   "id": "L4U02-Q115",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "takeaway",
+   "options": [
+    "takeaway",
+    "cupcake",
+    "dessert"
+   ],
+   "answer": "takeaway"
+  },
+  {
+   "id": "L4U02-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I see the ___, please?",
+   "item": "menu",
+   "options": [
+    "fried",
+    "milkshake",
+    "menu"
+   ],
+   "answer": "menu"
+  },
+  {
+   "id": "L4U02-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Are you ready to ___?",
+   "item": "order",
+   "options": [
+    "spicy",
+    "order",
+    "prawn"
+   ],
+   "answer": "order"
+  },
+  {
+   "id": "L4U02-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ you like some water?",
+   "item": "would",
+   "options": [
+    "Would",
+    "Another",
+    "Salty"
+   ],
+   "answer": "Would"
+  },
+  {
+   "id": "L4U02-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "For a ___, I'd like soup.",
+   "item": "starter",
+   "options": [
+    "enough",
+    "starter",
+    "another"
+   ],
+   "answer": "starter"
+  },
+  {
+   "id": "L4U02-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's have ice cream for ___.",
+   "item": "dessert",
+   "options": [
+    "would",
+    "vegetarian",
+    "dessert"
+   ],
+   "answer": "dessert"
+  },
+  {
+   "id": "L4U02-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can we have the ___, please?",
+   "item": "bill",
+   "options": [
+    "vegetarian",
+    "bill",
+    "tasty"
+   ],
+   "answer": "bill"
+  },
+  {
+   "id": "L4U02-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This soup is too ___ for me.",
+   "item": "spicy",
+   "options": [
+    "spicy",
+    "grilled",
+    "taste"
+   ],
+   "answer": "spicy"
+  },
+  {
+   "id": "L4U02-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like pasta with tomato ___.",
+   "item": "sauce",
+   "options": [
+    "seafood",
+    "sauce",
+    "prawn"
+   ],
+   "answer": "sauce"
+  },
+  {
+   "id": "L4U02-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you pass the salt and ___?",
+   "item": "pepper",
+   "options": [
+    "milkshake",
+    "enough",
+    "pepper"
+   ],
+   "answer": "pepper"
+  },
+  {
+   "id": "L4U02-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can eat noodles with ___.",
+   "item": "chopsticks",
+   "options": [
+    "menu",
+    "chopsticks",
+    "garlic"
+   ],
+   "answer": "chopsticks"
+  },
+  {
+   "id": "L4U02-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Here's a ___ for your face.",
+   "item": "napkin",
+   "options": [
+    "pepper",
+    "milkshake",
+    "napkin"
+   ],
+   "answer": "napkin"
+  },
+  {
+   "id": "L4U02-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please don't give me a plastic ___.",
+   "item": "straw",
+   "options": [
+    "straw",
+    "takeaway",
+    "another"
+   ],
+   "answer": "straw"
+  },
+  {
+   "id": "L4U02-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'd like ___ fish, please.",
+   "item": "grilled",
+   "options": [
+    "bitter",
+    "grilled",
+    "tofu"
+   ],
+   "answer": "grilled"
+  },
+  {
+   "id": "L4U02-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ rice is my favourite.",
+   "item": "fried",
+   "options": [
+    "Sauce",
+    "Fried",
+    "Seafood"
+   ],
+   "answer": "Fried"
+  },
+  {
+   "id": "L4U02-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have ___ chicken on Sundays.",
+   "item": "roast",
+   "options": [
+    "fried",
+    "roast",
+    "straw"
+   ],
+   "answer": "roast"
+  },
+  {
+   "id": "L4U02-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you like ___?",
+   "item": "seafood",
+   "options": [
+    "seafood",
+    "prawn",
+    "chilli"
+   ],
+   "answer": "seafood"
+  },
+  {
+   "id": "L4U02-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ are big and pink.",
+   "item": "prawn",
+   "options": [
+    "prawns",
+    "chopstickses",
+    "pies"
+   ],
+   "answer": "prawns"
+  },
+  {
+   "id": "L4U02-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Pho with ___ is very popular.",
+   "item": "beef",
+   "options": [
+    "beef",
+    "pepper",
+    "taste"
+   ],
+   "answer": "beef"
+  },
+  {
+   "id": "L4U02-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had ___ and rice for lunch.",
+   "item": "pork",
+   "options": [
+    "pork",
+    "another",
+    "taste"
+   ],
+   "answer": "pork"
+  },
+  {
+   "id": "L4U02-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister doesn't eat meat. She eats ___.",
+   "item": "tofu",
+   "options": [
+    "tofu",
+    "pie",
+    "roast"
+   ],
+   "answer": "tofu"
+  },
+  {
+   "id": "L4U02-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I don't like ___ on my pizza.",
+   "item": "mushroom",
+   "options": [
+    "chopstickses",
+    "mushrooms",
+    "pies"
+   ],
+   "answer": "mushrooms"
+  },
+  {
+   "id": "L4U02-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Be careful! The ___ is very hot.",
+   "item": "chilli",
+   "options": [
+    "chilli",
+    "pho",
+    "spicy"
+   ],
+   "answer": "chilli"
+  },
+  {
+   "id": "L4U02-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum puts ___ in the soup.",
+   "item": "garlic",
+   "options": [
+    "garlic",
+    "sauce",
+    "tofu"
+   ],
+   "answer": "garlic"
+  },
+  {
+   "id": "L4U02-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I eat ___ for breakfast.",
+   "item": "pho",
+   "options": [
+    "pho",
+    "salty",
+    "beef"
+   ],
+   "answer": "pho"
+  },
+  {
+   "id": "L4U02-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you have ___ food?",
+   "item": "vegetarian",
+   "options": [
+    "seafood",
+    "vegetarian",
+    "takeaway"
+   ],
+   "answer": "vegetarian"
+  },
+  {
+   "id": "L4U02-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This cake is really ___!",
+   "item": "tasty",
+   "options": [
+    "tasty",
+    "another",
+    "prawn"
+   ],
+   "answer": "tasty"
+  },
+  {
+   "id": "L4U02-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That ___ good!",
+   "item": "smell",
+   "options": [
+    "garlics",
+    "smells",
+    "desserts"
+   ],
+   "answer": "smells"
+  },
+  {
+   "id": "L4U02-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ this soup. Is it salty?",
+   "item": "taste",
+   "options": [
+    "Vegetarian",
+    "Garlic",
+    "Taste"
+   ],
+   "answer": "Taste"
+  },
+  {
+   "id": "L4U02-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ brings our drinks.",
+   "item": "waitress",
+   "options": [
+    "meal",
+    "pho",
+    "waitress"
+   ],
+   "answer": "waitress"
+  },
+  {
+   "id": "L4U02-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Breakfast is the most important ___.",
+   "item": "meal",
+   "options": [
+    "meal",
+    "pepper",
+    "bill"
+   ],
+   "answer": "meal"
+  },
+  {
+   "id": "L4U02-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A chocolate ___, please!",
+   "item": "milkshake",
+   "options": [
+    "pho",
+    "milkshake",
+    "tasty"
+   ],
+   "answer": "milkshake"
+  },
+  {
+   "id": "L4U02-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I made ___ for the party.",
+   "item": "cupcake",
+   "options": [
+    "cupcakes",
+    "chillis",
+    "desserts"
+   ],
+   "answer": "cupcakes"
+  },
+  {
+   "id": "L4U02-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma makes apple ___.",
+   "item": "pie",
+   "options": [
+    "vegetarian",
+    "tofu",
+    "pie"
+   ],
+   "answer": "pie"
+  },
+  {
+   "id": "L4U02-Q149",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Children love ___.",
+   "item": "jelly",
+   "options": [
+    "tofu",
+    "jelly",
+    "mushroom"
+   ],
+   "answer": "jelly"
+  },
+  {
+   "id": "L4U02-Q150",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you, that's ___.",
+   "item": "enough",
+   "options": [
+    "meal",
+    "enough",
+    "menu"
+   ],
+   "answer": "enough"
+  },
+  {
+   "id": "L4U02-Q151",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I have ___ spoon?",
+   "item": "another",
+   "options": [
+    "chilli",
+    "another",
+    "order"
+   ],
+   "answer": "another"
+  },
+  {
+   "id": "L4U02-Q152",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This medicine is ___.",
+   "item": "bitter",
+   "options": [
+    "milkshake",
+    "bitter",
+    "roast"
+   ],
+   "answer": "bitter"
+  },
+  {
+   "id": "L4U02-Q153",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The chips are too ___.",
+   "item": "salty",
+   "options": [
+    "pho",
+    "seafood",
+    "salty"
+   ],
+   "answer": "salty"
+  },
+  {
+   "id": "L4U02-Q154",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's get a ___ tonight.",
+   "item": "takeaway",
+   "options": [
+    "pork",
+    "jelly",
+    "takeaway"
+   ],
+   "answer": "takeaway"
+  },
+  {
+   "id": "L4U02-Q155",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's have ice cream for dessert.",
+   "item": "dessert",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U02-Q156",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I can eat noodles with chopsticks.",
+   "item": "prawn",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U02-Q157",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The prawns are big and pink.",
+   "item": "prawn",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U02-Q158",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I don't like mushrooms on my pizza.",
+   "item": "chilli",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U02-Q159",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Be careful! The chilli is very hot.",
+   "item": "chilli",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U02-Q160",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mum puts garlic in the soup.",
+   "item": "cupcake",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U02-Q161",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I made cupcakes for the party.",
+   "item": "cupcake",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U02-Q162",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Grandma makes apple pie.",
+   "item": "takeaway",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U02-Q163",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's get a takeaway tonight.",
+   "item": "takeaway",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U02-Q164",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U02-R01",
+   "text_en": "What did Mai have?",
+   "options": [
+    "Beef noodles.",
+    "Grilled fish.",
+    "Fried rice with tofu."
+   ],
+   "answer": "Fried rice with tofu."
+  },
+  {
+   "id": "L4U02-Q165",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U02-R01",
+   "text_en": "Why doesn't Mai eat meat?",
+   "options": [
+    "She doesn't like noodles.",
+    "She was full.",
+    "She is a vegetarian."
+   ],
+   "answer": "She is a vegetarian."
+  },
+  {
+   "id": "L4U02-Q166",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U02-R01",
+   "text_en": "What did they share for dessert?",
+   "options": [
+    "Jelly.",
+    "An apple pie.",
+    "Ice cream."
+   ],
+   "answer": "An apple pie."
+  },
+  {
+   "id": "L4U02-Q167",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "menu",
+   "item": "menu",
+   "answer": "menu"
+  },
+  {
+   "id": "L4U02-Q168",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "order",
+   "item": "order",
+   "answer": "order"
+  },
+  {
+   "id": "L4U02-Q169",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "would",
+   "item": "would",
+   "answer": "would"
+  },
+  {
+   "id": "L4U02-Q170",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "starter",
+   "item": "starter",
+   "answer": "starter"
+  },
+  {
+   "id": "L4U02-Q171",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "dessert",
+   "item": "dessert",
+   "answer": "dessert"
+  },
+  {
+   "id": "L4U02-Q172",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bill",
+   "item": "bill",
+   "answer": "bill"
+  },
+  {
+   "id": "L4U02-Q173",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "spicy",
+   "item": "spicy",
+   "answer": "spicy"
+  },
+  {
+   "id": "L4U02-Q174",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sauce",
+   "item": "sauce",
+   "answer": "sauce"
+  },
+  {
+   "id": "L4U02-Q175",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Can I see the menu, please?",
+   "answer": "Can I see the menu, please?"
+  },
+  {
+   "id": "L4U02-Q176",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Are you ready to order?",
+   "answer": "Are you ready to order?"
+  },
+  {
+   "id": "L4U02-Q177",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Would you like some water?",
+   "answer": "Would you like some water?"
+  }
+ ]
+}

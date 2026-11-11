@@ -1,0 +1,3168 @@
+{
+ "id": "L5U16",
+ "level": 5,
+ "unit": 16,
+ "topic_en": "Folk tales and legends",
+ "topic_vi": "Truyện dân gian và truyền thuyết",
+ "can_do_vi": [
+  "Kể lại một câu chuyện dân gian theo trình tự",
+  "Nêu bài học rút ra từ câu chuyện"
+ ],
+ "grammar_note_vi": "Kể lại câu chuyện dùng thì quá khứ. Lời nhân vật có thể kể lại gián tiếp: \"The woodcutter said that the axe was not his.\" (Người tiều phu nói rằng chiếc rìu không phải của ông.)",
+ "items": [
+  {
+   "id": "L5U16-W01",
+   "type": "phrase",
+   "en": "folk tale",
+   "vi": "truyện dân gian",
+   "ipa": "/foʊk teɪl/",
+   "syllables": [
+    "folk",
+    "tale"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Every country has its own folk tales.",
+   "example_vi": "Mỗi đất nước đều có truyện dân gian riêng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W02",
+   "type": "word",
+   "en": "myth",
+   "vi": "thần thoại",
+   "ipa": "/mɪθ/",
+   "syllables": [
+    "myth"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F409"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "This myth explains why the sea is salty.",
+   "example_vi": "Câu chuyện thần thoại này giải thích vì sao biển mặn.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W03",
+   "type": "word",
+   "en": "fable",
+   "vi": "truyện ngụ ngôn",
+   "ipa": "/ˈfeɪbəl/",
+   "syllables": [
+    "fa",
+    "ble"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F98A"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "In fables, animals can talk.",
+   "example_vi": "Trong truyện ngụ ngôn, động vật biết nói.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W04",
+   "type": "word",
+   "en": "ancestor",
+   "vi": "tổ tiên",
+   "ipa": "/ˈænˌsɛstər/",
+   "syllables": [
+    "an",
+    "ces",
+    "tor"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F474"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "We remember our ancestors at Tet.",
+   "example_vi": "Chúng ta tưởng nhớ tổ tiên vào dịp Tết.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W05",
+   "type": "word",
+   "en": "tortoise",
+   "vi": "con rùa",
+   "ipa": "/ˈtɔrtəs/",
+   "syllables": [
+    "tor",
+    "toise"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F422"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The tortoise is slow but clever.",
+   "example_vi": "Con rùa chậm nhưng thông minh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W06",
+   "type": "word",
+   "en": "carp",
+   "vi": "cá chép",
+   "ipa": "/kɑrp/",
+   "syllables": [
+    "carp"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F41F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "In the legend, a carp became a dragon.",
+   "example_vi": "Trong truyền thuyết, một con cá chép hoá rồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W07",
+   "type": "word",
+   "en": "phoenix",
+   "vi": "chim phượng hoàng",
+   "ipa": "/ˈfinɪks/",
+   "syllables": [
+    "phoenix"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The phoenix is a magical bird.",
+   "example_vi": "Phượng hoàng là loài chim huyền thoại.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W08",
+   "type": "word",
+   "en": "woodcutter",
+   "vi": "tiều phu",
+   "ipa": "/woodcutter/",
+   "syllables": [
+    "woodcutter"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FAB5"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The woodcutter lived in the forest.",
+   "example_vi": "Người tiều phu sống trong rừng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W09",
+   "type": "word",
+   "en": "crow",
+   "vi": "con quạ",
+   "ipa": "/kroʊ/",
+   "syllables": [
+    "crow"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F426"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The crow was very clever.",
+   "example_vi": "Con quạ rất thông minh.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W10",
+   "type": "word",
+   "en": "greedy",
+   "vi": "tham lam",
+   "ipa": "/ˈɡridi/",
+   "syllables": [
+    "greedy"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F911"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The greedy man wanted all the gold.",
+   "example_vi": "Người đàn ông tham lam muốn lấy hết vàng.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W11",
+   "type": "word",
+   "en": "humble",
+   "vi": "khiêm tốn",
+   "ipa": "/ˈhʌmbəl/",
+   "syllables": [
+    "hum",
+    "ble"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F647"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The king was rich but humble.",
+   "example_vi": "Nhà vua giàu có nhưng khiêm tốn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W12",
+   "type": "word",
+   "en": "foolish",
+   "vi": "ngốc nghếch",
+   "ipa": "/ˈfulɪʃ/",
+   "syllables": [
+    "fool",
+    "ish"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F92A"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "It was foolish to trust the fox.",
+   "example_vi": "Thật ngốc khi tin con cáo.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W13",
+   "type": "word",
+   "en": "wisdom",
+   "vi": "sự thông thái",
+   "ipa": "/ˈwɪzdəm/",
+   "syllables": [
+    "wis",
+    "dom"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F989"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The old woman was famous for her wisdom.",
+   "example_vi": "Bà cụ nổi tiếng vì sự thông thái.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W14",
+   "type": "word",
+   "en": "trick",
+   "vi": "mưu mẹo, lừa",
+   "ipa": "/trɪk/",
+   "syllables": [
+    "trick"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F0CF"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The clever rabbit played a trick on the tiger.",
+   "example_vi": "Chú thỏ thông minh lừa con hổ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W15",
+   "type": "word",
+   "en": "punish",
+   "vi": "trừng phạt",
+   "ipa": "/ˈpʌnɪʃ/",
+   "syllables": [
+    "pun",
+    "ish"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The king punished the greedy man.",
+   "example_vi": "Nhà vua trừng phạt kẻ tham lam.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W16",
+   "type": "word",
+   "en": "spell",
+   "vi": "câu thần chú",
+   "ipa": "/spɛl/",
+   "syllables": [
+    "spell"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The fairy cast a magic spell.",
+   "example_vi": "Nàng tiên đọc câu thần chú.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W17",
+   "type": "phrase",
+   "en": "turn into",
+   "vi": "biến thành",
+   "ipa": "/tʌrn ˈɪntu/",
+   "syllables": [
+    "turn",
+    "in",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The frog turned into a prince.",
+   "example_vi": "Con ếch biến thành hoàng tử.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W18",
+   "type": "word",
+   "en": "golden",
+   "vi": "bằng vàng, vàng óng",
+   "ipa": "/ˈɡoʊldən/",
+   "syllables": [
+    "gold",
+    "en"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F7E1"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "She found a golden fish.",
+   "example_vi": "Cô ấy tìm thấy một con cá vàng óng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W19",
+   "type": "word",
+   "en": "sword",
+   "vi": "thanh gươm",
+   "ipa": "/sɔrd/",
+   "syllables": [
+    "sword"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5E1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The hero had a magic sword.",
+   "example_vi": "Người anh hùng có một thanh gươm thần.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W20",
+   "type": "word",
+   "en": "axe",
+   "vi": "cái rìu",
+   "ipa": "/æks/",
+   "syllables": [
+    "axe"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1FA93"
+   },
+   "picturable": true,
+   "cat": "L5U16",
+   "example_en": "The woodcutter dropped his axe in the river.",
+   "example_vi": "Người tiều phu đánh rơi rìu xuống sông.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W21",
+   "type": "word",
+   "en": "pearl",
+   "vi": "ngọc trai",
+   "ipa": "/pʌrl/",
+   "syllables": [
+    "pearl"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9AA"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The princess had a necklace of pearls.",
+   "example_vi": "Công chúa có một chuỗi ngọc trai.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W22",
+   "type": "word",
+   "en": "jade",
+   "vi": "ngọc bích",
+   "ipa": "/dʒeɪd/",
+   "syllables": [
+    "jade"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F7E2"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The emperor had a jade crown.",
+   "example_vi": "Hoàng đế có vương miện bằng ngọc bích.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W23",
+   "type": "word",
+   "en": "marry",
+   "vi": "kết hôn",
+   "ipa": "/ˈmɛri/",
+   "syllables": [
+    "mar",
+    "ry"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F48D"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The prince married the poor girl.",
+   "example_vi": "Hoàng tử kết hôn với cô gái nghèo.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W24",
+   "type": "word",
+   "en": "husband",
+   "vi": "chồng",
+   "ipa": "/ˈhʌzbənd/",
+   "syllables": [
+    "hus",
+    "band"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F468"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Her husband was a fisherman.",
+   "example_vi": "Chồng cô ấy là ngư dân.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W25",
+   "type": "word",
+   "en": "wife",
+   "vi": "vợ",
+   "ipa": "/waɪf/",
+   "syllables": [
+    "wife"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The farmer and his wife were very kind.",
+   "example_vi": "Người nông dân và vợ rất tốt bụng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W26",
+   "type": "word",
+   "en": "iron",
+   "vi": "sắt",
+   "ipa": "/aɪʌrn/",
+   "syllables": [
+    "iron"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2699-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The giant rode an iron horse.",
+   "example_vi": "Người khổng lồ cưỡi con ngựa sắt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W27",
+   "type": "phrase",
+   "en": "pass down",
+   "vi": "truyền lại",
+   "ipa": "/pæs daʊn/",
+   "syllables": [
+    "pass",
+    "down"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F46A"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Old stories are passed down from grandparents to children.",
+   "example_vi": "Những câu chuyện xưa được ông bà truyền lại cho con cháu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W28",
+   "type": "word",
+   "en": "defeat",
+   "vi": "đánh bại",
+   "ipa": "/dɪˈfit/",
+   "syllables": [
+    "de",
+    "feat"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The young hero defeated the enemy.",
+   "example_vi": "Người anh hùng trẻ tuổi đánh bại kẻ thù.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W29",
+   "type": "word",
+   "en": "enemy",
+   "vi": "kẻ thù",
+   "ipa": "/ˈɛnəmi/",
+   "syllables": [
+    "en",
+    "e",
+    "my"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2694-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The enemy came from the north.",
+   "example_vi": "Kẻ thù đến từ phương bắc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W30",
+   "type": "word",
+   "en": "stepmother",
+   "vi": "mẹ kế",
+   "ipa": "/ˈstɛpˌməðər/",
+   "syllables": [
+    "step",
+    "moth",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The stepmother was unkind to the girl.",
+   "example_vi": "Người mẹ kế đối xử không tốt với cô bé.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W31",
+   "type": "word",
+   "en": "cruel",
+   "vi": "độc ác",
+   "ipa": "/kruʌl/",
+   "syllables": [
+    "cruel"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F620"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The cruel king made everyone sad.",
+   "example_vi": "Ông vua độc ác làm mọi người buồn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W32",
+   "type": "word",
+   "en": "ugly",
+   "vi": "xấu xí",
+   "ipa": "/ˈʌɡli/",
+   "syllables": [
+    "ug",
+    "ly"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F479"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The ugly duckling became a beautiful swan.",
+   "example_vi": "Chú vịt con xấu xí trở thành thiên nga xinh đẹp.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W33",
+   "type": "word",
+   "en": "appear",
+   "vi": "xuất hiện",
+   "ipa": "/əˈpɪr/",
+   "syllables": [
+    "ap",
+    "pear"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Suddenly, a fairy appeared.",
+   "example_vi": "Bỗng nhiên, một nàng tiên xuất hiện.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W34",
+   "type": "phrase",
+   "en": "at last",
+   "vi": "cuối cùng thì",
+   "ipa": "/æt læst/",
+   "syllables": [
+    "at",
+    "last"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3C1"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "At last, the hero came home.",
+   "example_vi": "Cuối cùng thì người anh hùng cũng về nhà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W35",
+   "type": "word",
+   "en": "meanwhile",
+   "vi": "trong khi đó",
+   "ipa": "/ˈminˌwaɪl/",
+   "syllables": [
+    "mean",
+    "while"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "23F8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Meanwhile, the villain was hiding in the cave.",
+   "example_vi": "Trong khi đó, kẻ xấu đang trốn trong hang.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W36",
+   "type": "phrase",
+   "en": "long ago",
+   "vi": "ngày xưa",
+   "ipa": "/lɔŋ əˈɡoʊ/",
+   "syllables": [
+    "long",
+    "ago"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23EA"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Long ago, there was a wise king.",
+   "example_vi": "Ngày xửa ngày xưa, có một vị vua thông thái.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W37",
+   "type": "word",
+   "en": "magical",
+   "vi": "thần kỳ",
+   "ipa": "/ˈmædʒɪkəl/",
+   "syllables": [
+    "mag",
+    "i",
+    "cal"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1FA84"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The tree had magical fruit.",
+   "example_vi": "Cái cây có quả thần kỳ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W38",
+   "type": "word",
+   "en": "cunning",
+   "vi": "xảo quyệt",
+   "ipa": "/ˈkʌnɪŋ/",
+   "syllables": [
+    "cun",
+    "ning"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F98A"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The cunning fox tricked the crow.",
+   "example_vi": "Con cáo xảo quyệt lừa con quạ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W39",
+   "type": "word",
+   "en": "obey",
+   "vi": "vâng lời",
+   "ipa": "/oʊˈbeɪ/",
+   "syllables": [
+    "obey"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F647"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The children obeyed their parents.",
+   "example_vi": "Những đứa trẻ vâng lời bố mẹ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W40",
+   "type": "word",
+   "en": "proverb",
+   "vi": "tục ngữ",
+   "ipa": "/ˈprɑvərb/",
+   "syllables": [
+    "proverb"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "A proverb is a short wise saying.",
+   "example_vi": "Tục ngữ là một câu nói ngắn gọn và sâu sắc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W41",
+   "type": "word",
+   "en": "storyteller",
+   "vi": "người kể chuyện",
+   "ipa": "/ˈstɔriˌtɛlər/",
+   "syllables": [
+    "storyteller"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "My grandpa is a great storyteller.",
+   "example_vi": "Ông tớ là người kể chuyện tuyệt vời.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W42",
+   "type": "word",
+   "en": "retell",
+   "vi": "kể lại",
+   "ipa": "/riˈtɛl/",
+   "syllables": [
+    "retell"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "Can you retell the story in your own words?",
+   "example_vi": "Cậu kể lại câu chuyện bằng lời của mình được không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W43",
+   "type": "word",
+   "en": "conclusion",
+   "vi": "phần kết",
+   "ipa": "/kənˈkluʒən/",
+   "syllables": [
+    "con",
+    "clu",
+    "sion"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F51A"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "The conclusion of the story was surprising.",
+   "example_vi": "Phần kết của câu chuyện thật bất ngờ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U16-W44",
+   "type": "word",
+   "en": "forever",
+   "vi": "mãi mãi",
+   "ipa": "/fərˈɛvər/",
+   "syllables": [
+    "for",
+    "ev",
+    "er"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "267E-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U16",
+   "example_en": "They lived together forever.",
+   "example_vi": "Họ sống bên nhau mãi mãi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U16-P01",
+   "en": "Long ago, there was a {x}.",
+   "vi": "Ngày xửa ngày xưa, có một {x}.",
+   "slots": {
+    "x": [
+     "poor woodcutter",
+     "wise king",
+     "greedy farmer",
+     "clever tortoise"
+    ]
+   }
+  },
+  {
+   "id": "L5U16-P02",
+   "en": "The moral of the story is {x}.",
+   "vi": "Bài học của câu chuyện là {x}.",
+   "slots": {
+    "x": [
+     "be honest",
+     "don't be greedy",
+     "work hard",
+     "be kind to others"
+    ]
+   }
+  },
+  {
+   "id": "L5U16-P03",
+   "en": "The {x} turned into a prince.",
+   "vi": "{x} biến thành hoàng tử.",
+   "slots": {
+    "x": [
+     "frog",
+     "fish",
+     "bird"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U16-D01",
+   "title_vi": "Kể lại truyện",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Can you retell your favourite folk tale?",
+     "vi": "Cậu kể lại truyện dân gian cậu thích nhất được không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Sure. Long ago, a poor woodcutter dropped his axe in a river.",
+     "vi": "Được. Ngày xưa, một người tiều phu nghèo đánh rơi rìu xuống sông."
+    },
+    {
+     "role": "Bi",
+     "en": "What happened next?",
+     "vi": "Rồi chuyện gì xảy ra?"
+    },
+    {
+     "role": "Kid",
+     "en": "A fairy appeared with a golden axe, but he said it wasn't his.",
+     "vi": "Một nàng tiên hiện ra với chiếc rìu vàng, nhưng ông nói đó không phải rìu của mình."
+    },
+    {
+     "role": "Bi",
+     "en": "He was honest!",
+     "vi": "Ông ấy thật trung thực!"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. So the fairy gave him all three axes.",
+     "vi": "Đúng. Nên nàng tiên tặng ông cả ba chiếc rìu."
+    },
+    {
+     "role": "Bi",
+     "en": "What a great story! The moral is to be honest.",
+     "vi": "Câu chuyện hay quá! Bài học là phải trung thực."
+    }
+   ]
+  },
+  {
+   "id": "L5U16-D02",
+   "title_vi": "Truyện ngụ ngôn",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Do you know the story of the cunning fox and the crow?",
+     "vi": "Cậu có biết chuyện con cáo xảo quyệt và con quạ không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! The crow had some cheese, and the fox wanted it.",
+     "vi": "Có! Con quạ có miếng pho mát, và con cáo muốn lấy nó."
+    },
+    {
+     "role": "Kid",
+     "en": "The fox said the crow had a beautiful voice.",
+     "vi": "Con cáo khen con quạ có giọng hát hay."
+    },
+    {
+     "role": "Bi",
+     "en": "And when the crow sang, the cheese fell!",
+     "vi": "Và khi con quạ hót, miếng pho mát rơi xuống!"
+    },
+    {
+     "role": "Kid",
+     "en": "The moral is don't trust people who say too many nice things.",
+     "vi": "Bài học là đừng tin người nói quá nhiều lời ngọt ngào."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "myth"
+  },
+  {
+   "type": "dictate_word",
+   "target": "fable"
+  },
+  {
+   "type": "dictate_word",
+   "target": "ancestor"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tortoise"
+  },
+  {
+   "type": "dictate_word",
+   "target": "carp"
+  },
+  {
+   "type": "dictate_word",
+   "target": "phoenix"
+  },
+  {
+   "type": "dictate_word",
+   "target": "woodcutter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "crow"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Every country has its own folk tales."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "In fables, animals can talk."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We remember our ancestors at Tet."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Long ago, there was|Then|The moral of the story is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U16-R01",
+   "title_en": "The legend of the watermelon",
+   "text_en": [
+    "Long ago, King Hung had an adopted son called An Tiem.",
+    "An Tiem was hard-working and honest.",
+    "One day, he said that his success came from his own hard work, not from the king.",
+    "The king was angry, and he sent An Tiem and his wife to a lonely island.",
+    "Life on the island was very difficult.",
+    "One day, a bird dropped some black seeds on the sand.",
+    "An Tiem planted them, and they grew into big green fruit with sweet red insides.",
+    "It was the first watermelon!",
+    "An Tiem and his wife sold the watermelons to passing ships.",
+    "When the king heard the story, he invited An Tiem back home.",
+    "The moral of the story is that hard work brings success."
+   ],
+   "questions": [
+    {
+     "q": "Why was the king angry?",
+     "options": [
+      "An Tiem said his success came from his own hard work.",
+      "An Tiem was lazy.",
+      "An Tiem lost the king's sword."
+     ],
+     "answer": "An Tiem said his success came from his own hard work."
+    },
+    {
+     "q": "What did the bird drop on the sand?",
+     "options": [
+      "Some black seeds.",
+      "A golden axe.",
+      "A pearl."
+     ],
+     "answer": "Some black seeds."
+    },
+    {
+     "q": "What is the moral of the story?",
+     "options": [
+      "Hard work brings success.",
+      "Don't trust strangers.",
+      "Be quiet."
+     ],
+     "answer": "Hard work brings success."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U16-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "axe",
+   "item": "axe",
+   "options": [
+    "telephone",
+    "temperature",
+    "axe",
+    "board"
+   ],
+   "answer": "axe"
+  },
+  {
+   "id": "L5U16-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "folk tale",
+   "item": "folk tale",
+   "options": [
+    "folk tale",
+    "obey",
+    "foolish",
+    "marry"
+   ],
+   "answer": "folk tale"
+  },
+  {
+   "id": "L5U16-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "myth",
+   "item": "myth",
+   "options": [
+    "wisdom",
+    "trick",
+    "conclusion",
+    "myth"
+   ],
+   "answer": "myth"
+  },
+  {
+   "id": "L5U16-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fable",
+   "item": "fable",
+   "options": [
+    "wisdom",
+    "humble",
+    "fable",
+    "foolish"
+   ],
+   "answer": "fable"
+  },
+  {
+   "id": "L5U16-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ancestor",
+   "item": "ancestor",
+   "options": [
+    "long ago",
+    "storyteller",
+    "retell",
+    "ancestor"
+   ],
+   "answer": "ancestor"
+  },
+  {
+   "id": "L5U16-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tortoise",
+   "item": "tortoise",
+   "options": [
+    "golden",
+    "woodcutter",
+    "tortoise",
+    "trick"
+   ],
+   "answer": "tortoise"
+  },
+  {
+   "id": "L5U16-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "carp",
+   "item": "carp",
+   "options": [
+    "carp",
+    "turn into",
+    "stepmother",
+    "appear"
+   ],
+   "answer": "carp"
+  },
+  {
+   "id": "L5U16-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "phoenix",
+   "item": "phoenix",
+   "options": [
+    "obey",
+    "phoenix",
+    "at last",
+    "pass down"
+   ],
+   "answer": "phoenix"
+  },
+  {
+   "id": "L5U16-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "woodcutter",
+   "item": "woodcutter",
+   "options": [
+    "long ago",
+    "marry",
+    "woodcutter",
+    "pearl"
+   ],
+   "answer": "woodcutter"
+  },
+  {
+   "id": "L5U16-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crow",
+   "item": "crow",
+   "options": [
+    "crow",
+    "folk tale",
+    "enemy",
+    "tortoise"
+   ],
+   "answer": "crow"
+  },
+  {
+   "id": "L5U16-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "greedy",
+   "item": "greedy",
+   "options": [
+    "greedy",
+    "turn into",
+    "meanwhile",
+    "ugly"
+   ],
+   "answer": "greedy"
+  },
+  {
+   "id": "L5U16-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "humble",
+   "item": "humble",
+   "options": [
+    "storyteller",
+    "obey",
+    "proverb",
+    "humble"
+   ],
+   "answer": "humble"
+  },
+  {
+   "id": "L5U16-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "foolish",
+   "item": "foolish",
+   "options": [
+    "foolish",
+    "enemy",
+    "appear",
+    "ugly"
+   ],
+   "answer": "foolish"
+  },
+  {
+   "id": "L5U16-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wisdom",
+   "item": "wisdom",
+   "options": [
+    "fable",
+    "woodcutter",
+    "sword",
+    "wisdom"
+   ],
+   "answer": "wisdom"
+  },
+  {
+   "id": "L5U16-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trick",
+   "item": "trick",
+   "options": [
+    "appear",
+    "wife",
+    "trick",
+    "cunning"
+   ],
+   "answer": "trick"
+  },
+  {
+   "id": "L5U16-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "punish",
+   "item": "punish",
+   "options": [
+    "punish",
+    "wisdom",
+    "forever",
+    "ancestor"
+   ],
+   "answer": "punish"
+  },
+  {
+   "id": "L5U16-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spell",
+   "item": "spell",
+   "options": [
+    "enemy",
+    "fable",
+    "spell",
+    "crow"
+   ],
+   "answer": "spell"
+  },
+  {
+   "id": "L5U16-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "turn into",
+   "item": "turn into",
+   "options": [
+    "axe",
+    "enemy",
+    "turn into",
+    "crow"
+   ],
+   "answer": "turn into"
+  },
+  {
+   "id": "L5U16-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "golden",
+   "item": "golden",
+   "options": [
+    "obey",
+    "golden",
+    "appear",
+    "defeat"
+   ],
+   "answer": "golden"
+  },
+  {
+   "id": "L5U16-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sword",
+   "item": "sword",
+   "options": [
+    "long ago",
+    "cunning",
+    "sword",
+    "retell"
+   ],
+   "answer": "sword"
+  },
+  {
+   "id": "L5U16-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pearl",
+   "item": "pearl",
+   "options": [
+    "foolish",
+    "pearl",
+    "stepmother",
+    "marry"
+   ],
+   "answer": "pearl"
+  },
+  {
+   "id": "L5U16-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jade",
+   "item": "jade",
+   "options": [
+    "jade",
+    "humble",
+    "long ago",
+    "iron"
+   ],
+   "answer": "jade"
+  },
+  {
+   "id": "L5U16-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "marry",
+   "item": "marry",
+   "options": [
+    "marry",
+    "magical",
+    "defeat",
+    "obey"
+   ],
+   "answer": "marry"
+  },
+  {
+   "id": "L5U16-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "husband",
+   "item": "husband",
+   "options": [
+    "husband",
+    "woodcutter",
+    "trick",
+    "turn into"
+   ],
+   "answer": "husband"
+  },
+  {
+   "id": "L5U16-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wife",
+   "item": "wife",
+   "options": [
+    "carp",
+    "cunning",
+    "wife",
+    "at last"
+   ],
+   "answer": "wife"
+  },
+  {
+   "id": "L5U16-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "iron",
+   "item": "iron",
+   "options": [
+    "iron",
+    "magical",
+    "crow",
+    "proverb"
+   ],
+   "answer": "iron"
+  },
+  {
+   "id": "L5U16-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pass down",
+   "item": "pass down",
+   "options": [
+    "pass down",
+    "enemy",
+    "sword",
+    "greedy"
+   ],
+   "answer": "pass down"
+  },
+  {
+   "id": "L5U16-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "defeat",
+   "item": "defeat",
+   "options": [
+    "phoenix",
+    "defeat",
+    "carp",
+    "appear"
+   ],
+   "answer": "defeat"
+  },
+  {
+   "id": "L5U16-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "enemy",
+   "item": "enemy",
+   "options": [
+    "phoenix",
+    "enemy",
+    "golden",
+    "humble"
+   ],
+   "answer": "enemy"
+  },
+  {
+   "id": "L5U16-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stepmother",
+   "item": "stepmother",
+   "options": [
+    "wife",
+    "storyteller",
+    "stepmother",
+    "cruel"
+   ],
+   "answer": "stepmother"
+  },
+  {
+   "id": "L5U16-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cruel",
+   "item": "cruel",
+   "options": [
+    "foolish",
+    "defeat",
+    "trick",
+    "cruel"
+   ],
+   "answer": "cruel"
+  },
+  {
+   "id": "L5U16-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ugly",
+   "item": "ugly",
+   "options": [
+    "conclusion",
+    "ugly",
+    "axe",
+    "meanwhile"
+   ],
+   "answer": "ugly"
+  },
+  {
+   "id": "L5U16-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "appear",
+   "item": "appear",
+   "options": [
+    "cruel",
+    "golden",
+    "appear",
+    "conclusion"
+   ],
+   "answer": "appear"
+  },
+  {
+   "id": "L5U16-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "at last",
+   "item": "at last",
+   "options": [
+    "woodcutter",
+    "tortoise",
+    "at last",
+    "axe"
+   ],
+   "answer": "at last"
+  },
+  {
+   "id": "L5U16-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "meanwhile",
+   "item": "meanwhile",
+   "options": [
+    "marry",
+    "meanwhile",
+    "axe",
+    "obey"
+   ],
+   "answer": "meanwhile"
+  },
+  {
+   "id": "L5U16-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "long ago",
+   "item": "long ago",
+   "options": [
+    "pass down",
+    "folk tale",
+    "enemy",
+    "long ago"
+   ],
+   "answer": "long ago"
+  },
+  {
+   "id": "L5U16-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "magical",
+   "item": "magical",
+   "options": [
+    "marry",
+    "turn into",
+    "cunning",
+    "magical"
+   ],
+   "answer": "magical"
+  },
+  {
+   "id": "L5U16-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cunning",
+   "item": "cunning",
+   "options": [
+    "retell",
+    "cunning",
+    "myth",
+    "meanwhile"
+   ],
+   "answer": "cunning"
+  },
+  {
+   "id": "L5U16-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "obey",
+   "item": "obey",
+   "options": [
+    "obey",
+    "iron",
+    "meanwhile",
+    "woodcutter"
+   ],
+   "answer": "obey"
+  },
+  {
+   "id": "L5U16-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "proverb",
+   "item": "proverb",
+   "options": [
+    "appear",
+    "proverb",
+    "pearl",
+    "at last"
+   ],
+   "answer": "proverb"
+  },
+  {
+   "id": "L5U16-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "storyteller",
+   "item": "storyteller",
+   "options": [
+    "spell",
+    "storyteller",
+    "humble",
+    "ugly"
+   ],
+   "answer": "storyteller"
+  },
+  {
+   "id": "L5U16-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "retell",
+   "item": "retell",
+   "options": [
+    "husband",
+    "greedy",
+    "retell",
+    "appear"
+   ],
+   "answer": "retell"
+  },
+  {
+   "id": "L5U16-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "conclusion",
+   "item": "conclusion",
+   "options": [
+    "iron",
+    "fable",
+    "stepmother",
+    "conclusion"
+   ],
+   "answer": "conclusion"
+  },
+  {
+   "id": "L5U16-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forever",
+   "item": "forever",
+   "options": [
+    "spell",
+    "myth",
+    "forever",
+    "wife"
+   ],
+   "answer": "forever"
+  },
+  {
+   "id": "L5U16-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "axe",
+   "answer": "axe"
+  },
+  {
+   "id": "L5U16-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Every country has its own folk tales.",
+   "item": "folk tale",
+   "answer": "Every country has its own folk tales."
+  },
+  {
+   "id": "L5U16-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This myth explains why the sea is salty.",
+   "item": "myth",
+   "answer": "This myth explains why the sea is salty."
+  },
+  {
+   "id": "L5U16-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In fables, animals can talk.",
+   "item": "fable",
+   "answer": "In fables, animals can talk."
+  },
+  {
+   "id": "L5U16-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We remember our ancestors at Tet.",
+   "item": "ancestor",
+   "answer": "We remember our ancestors at Tet."
+  },
+  {
+   "id": "L5U16-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tortoise is slow but clever.",
+   "item": "tortoise",
+   "answer": "The tortoise is slow but clever."
+  },
+  {
+   "id": "L5U16-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the legend, a carp became a dragon.",
+   "item": "carp",
+   "answer": "In the legend, a carp became a dragon."
+  },
+  {
+   "id": "L5U16-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The phoenix is a magical bird.",
+   "item": "phoenix",
+   "answer": "The phoenix is a magical bird."
+  },
+  {
+   "id": "L5U16-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The woodcutter lived in the forest.",
+   "item": "woodcutter",
+   "answer": "The woodcutter lived in the forest."
+  },
+  {
+   "id": "L5U16-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The crow was very clever.",
+   "item": "crow",
+   "answer": "The crow was very clever."
+  },
+  {
+   "id": "L5U16-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The greedy man wanted all the gold.",
+   "item": "greedy",
+   "answer": "The greedy man wanted all the gold."
+  },
+  {
+   "id": "L5U16-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king was rich but humble.",
+   "item": "humble",
+   "answer": "The king was rich but humble."
+  },
+  {
+   "id": "L5U16-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was foolish to trust the fox.",
+   "item": "foolish",
+   "answer": "It was foolish to trust the fox."
+  },
+  {
+   "id": "L5U16-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The old woman was famous for her wisdom.",
+   "item": "wisdom",
+   "answer": "The old woman was famous for her wisdom."
+  },
+  {
+   "id": "L5U16-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The clever rabbit played a trick on the tiger.",
+   "item": "trick",
+   "answer": "The clever rabbit played a trick on the tiger."
+  },
+  {
+   "id": "L5U16-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king punished the greedy man.",
+   "item": "punish",
+   "answer": "The king punished the greedy man."
+  },
+  {
+   "id": "L5U16-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fairy cast a magic spell.",
+   "item": "spell",
+   "answer": "The fairy cast a magic spell."
+  },
+  {
+   "id": "L5U16-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The frog turned into a prince.",
+   "item": "turn into",
+   "answer": "The frog turned into a prince."
+  },
+  {
+   "id": "L5U16-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She found a golden fish.",
+   "item": "golden",
+   "answer": "She found a golden fish."
+  },
+  {
+   "id": "L5U16-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hero had a magic sword.",
+   "item": "sword",
+   "answer": "The hero had a magic sword."
+  },
+  {
+   "id": "L5U16-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The woodcutter dropped his axe in the river.",
+   "item": "axe",
+   "answer": "The woodcutter dropped his axe in the river."
+  },
+  {
+   "id": "L5U16-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The princess had a necklace of pearls.",
+   "item": "pearl",
+   "answer": "The princess had a necklace of pearls."
+  },
+  {
+   "id": "L5U16-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The emperor had a jade crown.",
+   "item": "jade",
+   "answer": "The emperor had a jade crown."
+  },
+  {
+   "id": "L5U16-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The prince married the poor girl.",
+   "item": "marry",
+   "answer": "The prince married the poor girl."
+  },
+  {
+   "id": "L5U16-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Her husband was a fisherman.",
+   "item": "husband",
+   "answer": "Her husband was a fisherman."
+  },
+  {
+   "id": "L5U16-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The farmer and his wife were very kind.",
+   "item": "wife",
+   "answer": "The farmer and his wife were very kind."
+  },
+  {
+   "id": "L5U16-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The giant rode an iron horse.",
+   "item": "iron",
+   "answer": "The giant rode an iron horse."
+  },
+  {
+   "id": "L5U16-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Old stories are passed down from grandparents to children.",
+   "item": "pass down",
+   "answer": "Old stories are passed down from grandparents to children."
+  },
+  {
+   "id": "L5U16-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The young hero defeated the enemy.",
+   "item": "defeat",
+   "answer": "The young hero defeated the enemy."
+  },
+  {
+   "id": "L5U16-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The enemy came from the north.",
+   "item": "enemy",
+   "answer": "The enemy came from the north."
+  },
+  {
+   "id": "L5U16-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The stepmother was unkind to the girl.",
+   "item": "stepmother",
+   "answer": "The stepmother was unkind to the girl."
+  },
+  {
+   "id": "L5U16-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cruel king made everyone sad.",
+   "item": "cruel",
+   "answer": "The cruel king made everyone sad."
+  },
+  {
+   "id": "L5U16-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ugly duckling became a beautiful swan.",
+   "item": "ugly",
+   "answer": "The ugly duckling became a beautiful swan."
+  },
+  {
+   "id": "L5U16-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Suddenly, a fairy appeared.",
+   "item": "appear",
+   "answer": "Suddenly, a fairy appeared."
+  },
+  {
+   "id": "L5U16-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "At last, the hero came home.",
+   "item": "at last",
+   "answer": "At last, the hero came home."
+  },
+  {
+   "id": "L5U16-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Meanwhile, the villain was hiding in the cave.",
+   "item": "meanwhile",
+   "answer": "Meanwhile, the villain was hiding in the cave."
+  },
+  {
+   "id": "L5U16-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Long ago, there was a wise king.",
+   "item": "long ago",
+   "answer": "Long ago, there was a wise king."
+  },
+  {
+   "id": "L5U16-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tree had magical fruit.",
+   "item": "magical",
+   "answer": "The tree had magical fruit."
+  },
+  {
+   "id": "L5U16-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cunning fox tricked the crow.",
+   "item": "cunning",
+   "answer": "The cunning fox tricked the crow."
+  },
+  {
+   "id": "L5U16-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The children obeyed their parents.",
+   "item": "obey",
+   "answer": "The children obeyed their parents."
+  },
+  {
+   "id": "L5U16-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A proverb is a short wise saying.",
+   "item": "proverb",
+   "answer": "A proverb is a short wise saying."
+  },
+  {
+   "id": "L5U16-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa is a great storyteller.",
+   "item": "storyteller",
+   "answer": "My grandpa is a great storyteller."
+  },
+  {
+   "id": "L5U16-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you retell the story in your own words?",
+   "item": "retell",
+   "answer": "Can you retell the story in your own words?"
+  },
+  {
+   "id": "L5U16-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The conclusion of the story was surprising.",
+   "item": "conclusion",
+   "answer": "The conclusion of the story was surprising."
+  },
+  {
+   "id": "L5U16-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They lived together forever.",
+   "item": "forever",
+   "answer": "They lived together forever."
+  },
+  {
+   "id": "L5U16-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Long ago, there was a poor woodcutter.",
+   "answer": "Long ago, there was a poor woodcutter."
+  },
+  {
+   "id": "L5U16-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Long ago, there was a wise king.",
+   "answer": "Long ago, there was a wise king."
+  },
+  {
+   "id": "L5U16-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Long ago, there was a greedy farmer.",
+   "answer": "Long ago, there was a greedy farmer."
+  },
+  {
+   "id": "L5U16-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moral of the story is be honest.",
+   "answer": "The moral of the story is be honest."
+  },
+  {
+   "id": "L5U16-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moral of the story is don't be greedy.",
+   "answer": "The moral of the story is don't be greedy."
+  },
+  {
+   "id": "L5U16-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moral of the story is work hard.",
+   "answer": "The moral of the story is work hard."
+  },
+  {
+   "id": "L5U16-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The frog turned into a prince.",
+   "answer": "The frog turned into a prince."
+  },
+  {
+   "id": "L5U16-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The fish turned into a prince.",
+   "answer": "The fish turned into a prince."
+  },
+  {
+   "id": "L5U16-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird turned into a prince.",
+   "answer": "The bird turned into a prince."
+  },
+  {
+   "id": "L5U16-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can you retell your favourite folk tale?",
+   "answer": "Sure. Long ago, a poor woodcutter dropped his axe in a river."
+  },
+  {
+   "id": "L5U16-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What happened next?",
+   "answer": "A fairy appeared with a golden axe, but he said it wasn't his."
+  },
+  {
+   "id": "L5U16-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you know the story of the cunning fox and the crow?",
+   "answer": "Yes! The crow had some cheese, and the fox wanted it."
+  },
+  {
+   "id": "L5U16-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "axe",
+   "options": [
+    "hair",
+    "excited",
+    "axe"
+   ],
+   "answer": "axe"
+  },
+  {
+   "id": "L5U16-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ explains why the sea is salty.",
+   "item": "myth",
+   "options": [
+    "myth",
+    "retell",
+    "foolish"
+   ],
+   "answer": "myth"
+  },
+  {
+   "id": "L5U16-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In ___, animals can talk.",
+   "item": "fable",
+   "options": [
+    "fables",
+    "defeats",
+    "axes"
+   ],
+   "answer": "fables"
+  },
+  {
+   "id": "L5U16-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We remember our ___ at Tet.",
+   "item": "ancestor",
+   "options": [
+    "punishes",
+    "magicals",
+    "ancestors"
+   ],
+   "answer": "ancestors"
+  },
+  {
+   "id": "L5U16-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is slow but clever.",
+   "item": "tortoise",
+   "options": [
+    "meanwhile",
+    "storyteller",
+    "tortoise"
+   ],
+   "answer": "tortoise"
+  },
+  {
+   "id": "L5U16-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In the legend, a ___ became a dragon.",
+   "item": "carp",
+   "options": [
+    "magical",
+    "fable",
+    "carp"
+   ],
+   "answer": "carp"
+  },
+  {
+   "id": "L5U16-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is a magical bird.",
+   "item": "phoenix",
+   "options": [
+    "foolish",
+    "fable",
+    "phoenix"
+   ],
+   "answer": "phoenix"
+  },
+  {
+   "id": "L5U16-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ lived in the forest.",
+   "item": "woodcutter",
+   "options": [
+    "woodcutter",
+    "obey",
+    "spell"
+   ],
+   "answer": "woodcutter"
+  },
+  {
+   "id": "L5U16-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ was very clever.",
+   "item": "crow",
+   "options": [
+    "sword",
+    "crow",
+    "retell"
+   ],
+   "answer": "crow"
+  },
+  {
+   "id": "L5U16-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ man wanted all the gold.",
+   "item": "greedy",
+   "options": [
+    "obey",
+    "marry",
+    "greedy"
+   ],
+   "answer": "greedy"
+  },
+  {
+   "id": "L5U16-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The king was rich but ___.",
+   "item": "humble",
+   "options": [
+    "golden",
+    "humble",
+    "enemy"
+   ],
+   "answer": "humble"
+  },
+  {
+   "id": "L5U16-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was ___ to trust the fox.",
+   "item": "foolish",
+   "options": [
+    "foolish",
+    "iron",
+    "retell"
+   ],
+   "answer": "foolish"
+  },
+  {
+   "id": "L5U16-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The old woman was famous for her ___.",
+   "item": "wisdom",
+   "options": [
+    "marry",
+    "wisdom",
+    "forever"
+   ],
+   "answer": "wisdom"
+  },
+  {
+   "id": "L5U16-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The clever rabbit played a ___ on the tiger.",
+   "item": "trick",
+   "options": [
+    "appear",
+    "trick",
+    "retell"
+   ],
+   "answer": "trick"
+  },
+  {
+   "id": "L5U16-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The king ___ the greedy man.",
+   "item": "punish",
+   "options": [
+    "punished",
+    "mythed",
+    "ancestored"
+   ],
+   "answer": "punished"
+  },
+  {
+   "id": "L5U16-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The fairy cast a magic ___.",
+   "item": "spell",
+   "options": [
+    "wife",
+    "meanwhile",
+    "spell"
+   ],
+   "answer": "spell"
+  },
+  {
+   "id": "L5U16-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She found a ___ fish.",
+   "item": "golden",
+   "options": [
+    "humble",
+    "spell",
+    "golden"
+   ],
+   "answer": "golden"
+  },
+  {
+   "id": "L5U16-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The hero had a magic ___.",
+   "item": "sword",
+   "options": [
+    "sword",
+    "cunning",
+    "spell"
+   ],
+   "answer": "sword"
+  },
+  {
+   "id": "L5U16-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The woodcutter dropped his ___ in the river.",
+   "item": "axe",
+   "options": [
+    "fable",
+    "magical",
+    "axe"
+   ],
+   "answer": "axe"
+  },
+  {
+   "id": "L5U16-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The princess had a necklace of ___.",
+   "item": "pearl",
+   "options": [
+    "fables",
+    "pearls",
+    "storytellers"
+   ],
+   "answer": "pearls"
+  },
+  {
+   "id": "L5U16-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The emperor had a ___ crown.",
+   "item": "jade",
+   "options": [
+    "magical",
+    "jade",
+    "foolish"
+   ],
+   "answer": "jade"
+  },
+  {
+   "id": "L5U16-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Her ___ was a fisherman.",
+   "item": "husband",
+   "options": [
+    "husband",
+    "fable",
+    "storyteller"
+   ],
+   "answer": "husband"
+  },
+  {
+   "id": "L5U16-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The farmer and his ___ were very kind.",
+   "item": "wife",
+   "options": [
+    "wife",
+    "foolish",
+    "fable"
+   ],
+   "answer": "wife"
+  },
+  {
+   "id": "L5U16-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The giant rode an ___ horse.",
+   "item": "iron",
+   "options": [
+    "punish",
+    "iron",
+    "sword"
+   ],
+   "answer": "iron"
+  },
+  {
+   "id": "L5U16-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The young hero ___ the enemy.",
+   "item": "defeat",
+   "options": [
+    "jaded",
+    "spelled",
+    "defeated"
+   ],
+   "answer": "defeated"
+  },
+  {
+   "id": "L5U16-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ came from the north.",
+   "item": "enemy",
+   "options": [
+    "punish",
+    "meanwhile",
+    "enemy"
+   ],
+   "answer": "enemy"
+  },
+  {
+   "id": "L5U16-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ was unkind to the girl.",
+   "item": "stepmother",
+   "options": [
+    "punish",
+    "forever",
+    "stepmother"
+   ],
+   "answer": "stepmother"
+  },
+  {
+   "id": "L5U16-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ king made everyone sad.",
+   "item": "cruel",
+   "options": [
+    "defeat",
+    "storyteller",
+    "cruel"
+   ],
+   "answer": "cruel"
+  },
+  {
+   "id": "L5U16-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ duckling became a beautiful swan.",
+   "item": "ugly",
+   "options": [
+    "foolish",
+    "defeat",
+    "ugly"
+   ],
+   "answer": "ugly"
+  },
+  {
+   "id": "L5U16-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Suddenly, a fairy ___.",
+   "item": "appear",
+   "options": [
+    "appeared",
+    "fabled",
+    "defeated"
+   ],
+   "answer": "appeared"
+  },
+  {
+   "id": "L5U16-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, the villain was hiding in the cave.",
+   "item": "meanwhile",
+   "options": [
+    "Tortoise",
+    "Meanwhile",
+    "Fable"
+   ],
+   "answer": "Meanwhile"
+  },
+  {
+   "id": "L5U16-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The tree had ___ fruit.",
+   "item": "magical",
+   "options": [
+    "forever",
+    "foolish",
+    "magical"
+   ],
+   "answer": "magical"
+  },
+  {
+   "id": "L5U16-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ fox tricked the crow.",
+   "item": "cunning",
+   "options": [
+    "retell",
+    "defeat",
+    "cunning"
+   ],
+   "answer": "cunning"
+  },
+  {
+   "id": "L5U16-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The children ___ their parents.",
+   "item": "obey",
+   "options": [
+    "conclusioned",
+    "jaded",
+    "obeyed"
+   ],
+   "answer": "obeyed"
+  },
+  {
+   "id": "L5U16-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is a short wise saying.",
+   "item": "proverb",
+   "options": [
+    "proverb",
+    "meanwhile",
+    "fable"
+   ],
+   "answer": "proverb"
+  },
+  {
+   "id": "L5U16-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandpa is a great ___.",
+   "item": "storyteller",
+   "options": [
+    "storyteller",
+    "humble",
+    "appear"
+   ],
+   "answer": "storyteller"
+  },
+  {
+   "id": "L5U16-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ the story in your own words?",
+   "item": "retell",
+   "options": [
+    "pearl",
+    "spell",
+    "retell"
+   ],
+   "answer": "retell"
+  },
+  {
+   "id": "L5U16-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the story was surprising.",
+   "item": "conclusion",
+   "options": [
+    "magical",
+    "humble",
+    "conclusion"
+   ],
+   "answer": "conclusion"
+  },
+  {
+   "id": "L5U16-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They lived together ___.",
+   "item": "forever",
+   "options": [
+    "tortoise",
+    "defeat",
+    "forever"
+   ],
+   "answer": "forever"
+  },
+  {
+   "id": "L5U16-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U16-R01",
+   "text_en": "Why was the king angry?",
+   "options": [
+    "An Tiem lost the king's sword.",
+    "An Tiem was lazy.",
+    "An Tiem said his success came from his own hard work."
+   ],
+   "answer": "An Tiem said his success came from his own hard work."
+  },
+  {
+   "id": "L5U16-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U16-R01",
+   "text_en": "What did the bird drop on the sand?",
+   "options": [
+    "Some black seeds.",
+    "A golden axe.",
+    "A pearl."
+   ],
+   "answer": "Some black seeds."
+  },
+  {
+   "id": "L5U16-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U16-R01",
+   "text_en": "What is the moral of the story?",
+   "options": [
+    "Don't trust strangers.",
+    "Be quiet.",
+    "Hard work brings success."
+   ],
+   "answer": "Hard work brings success."
+  },
+  {
+   "id": "L5U16-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "myth",
+   "item": "myth",
+   "answer": "myth"
+  },
+  {
+   "id": "L5U16-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "fable",
+   "item": "fable",
+   "answer": "fable"
+  },
+  {
+   "id": "L5U16-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "ancestor",
+   "item": "ancestor",
+   "answer": "ancestor"
+  },
+  {
+   "id": "L5U16-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tortoise",
+   "item": "tortoise",
+   "answer": "tortoise"
+  },
+  {
+   "id": "L5U16-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "carp",
+   "item": "carp",
+   "answer": "carp"
+  },
+  {
+   "id": "L5U16-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "phoenix",
+   "item": "phoenix",
+   "answer": "phoenix"
+  },
+  {
+   "id": "L5U16-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "woodcutter",
+   "item": "woodcutter",
+   "answer": "woodcutter"
+  },
+  {
+   "id": "L5U16-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "crow",
+   "item": "crow",
+   "answer": "crow"
+  },
+  {
+   "id": "L5U16-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Every country has its own folk tales.",
+   "answer": "Every country has its own folk tales."
+  },
+  {
+   "id": "L5U16-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "In fables, animals can talk.",
+   "answer": "In fables, animals can talk."
+  },
+  {
+   "id": "L5U16-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We remember our ancestors at Tet.",
+   "answer": "We remember our ancestors at Tet."
+  }
+ ]
+}

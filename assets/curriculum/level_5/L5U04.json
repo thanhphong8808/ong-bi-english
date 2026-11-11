@@ -1,0 +1,3343 @@
+{
+ "id": "L5U04",
+ "level": 5,
+ "unit": 4,
+ "topic_en": "Science and experiments",
+ "topic_vi": "Khoa học và thí nghiệm",
+ "can_do_vi": [
+  "Mô tả một thí nghiệm đơn giản theo các bước",
+  "Dự đoán và nói kết quả"
+ ],
+ "grammar_note_vi": "Dự đoán dùng \"I predict that... will...\": \"I predict that the ice will melt.\" Mô tả các bước dùng câu mệnh lệnh và từ chỉ thứ tự: First, Next, Then, Finally.",
+ "items": [
+  {
+   "id": "L5U04-W01",
+   "type": "word",
+   "en": "experiment",
+   "vi": "thí nghiệm",
+   "ipa": "/ɪkˈspɛrəmənt/",
+   "syllables": [
+    "ex",
+    "per",
+    "i",
+    "ment"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9EA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Let's do an experiment with water.",
+   "example_vi": "Mình làm thí nghiệm với nước nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W02",
+   "type": "word",
+   "en": "predict",
+   "vi": "dự đoán",
+   "ipa": "/prɪˈdɪkt/",
+   "syllables": [
+    "pre",
+    "dict"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F52E"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "I predict that the ice will melt.",
+   "example_vi": "Tớ dự đoán đá sẽ tan.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W03",
+   "type": "word",
+   "en": "observe",
+   "vi": "quan sát",
+   "ipa": "/əbˈzʌrv/",
+   "syllables": [
+    "ob",
+    "serve"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Observe the plant every day.",
+   "example_vi": "Quan sát cái cây mỗi ngày.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W04",
+   "type": "word",
+   "en": "result",
+   "vi": "kết quả",
+   "ipa": "/rɪˈzʌlt/",
+   "syllables": [
+    "re",
+    "sult"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4CA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "What was the result of the experiment?",
+   "example_vi": "Kết quả thí nghiệm là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W05",
+   "type": "word",
+   "en": "record",
+   "vi": "ghi lại",
+   "ipa": "/ˈrɛkərd/",
+   "syllables": [
+    "record"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Record the temperature in your notebook.",
+   "example_vi": "Ghi nhiệt độ vào vở.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W06",
+   "type": "word",
+   "en": "magnet",
+   "vi": "nam châm",
+   "ipa": "/ˈmæɡnət/",
+   "syllables": [
+    "mag",
+    "net"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F9F2"
+   },
+   "picturable": true,
+   "cat": "L5U04",
+   "example_en": "A magnet can pick up metal things.",
+   "example_vi": "Nam châm có thể hút đồ kim loại.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W07",
+   "type": "word",
+   "en": "sink",
+   "vi": "chìm",
+   "ipa": "/sɪŋk/",
+   "syllables": [
+    "sink"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "A stone sinks in water.",
+   "example_vi": "Hòn đá chìm trong nước.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W08",
+   "type": "word",
+   "en": "liquid",
+   "vi": "chất lỏng",
+   "ipa": "/ˈlɪkwɪd/",
+   "syllables": [
+    "liq",
+    "uid"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Water and milk are liquids.",
+   "example_vi": "Nước và sữa là chất lỏng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W09",
+   "type": "word",
+   "en": "solid",
+   "vi": "chất rắn",
+   "ipa": "/ˈsɑləd/",
+   "syllables": [
+    "sol",
+    "id"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Ice is a solid.",
+   "example_vi": "Đá là chất rắn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W10",
+   "type": "word",
+   "en": "gas",
+   "vi": "chất khí",
+   "ipa": "/ɡæs/",
+   "syllables": [
+    "gas"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F4A8"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Air is a gas.",
+   "example_vi": "Không khí là chất khí.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W11",
+   "type": "word",
+   "en": "freeze",
+   "vi": "đóng băng",
+   "ipa": "/friz/",
+   "syllables": [
+    "freeze"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F976"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Water freezes at zero degrees.",
+   "example_vi": "Nước đóng băng ở không độ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W12",
+   "type": "word",
+   "en": "evaporate",
+   "vi": "bay hơi",
+   "ipa": "/ɪˈvæpərˌeɪt/",
+   "syllables": [
+    "evap",
+    "o",
+    "rate"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The water evaporates in the sun.",
+   "example_vi": "Nước bay hơi dưới nắng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W13",
+   "type": "word",
+   "en": "shadow",
+   "vi": "cái bóng",
+   "ipa": "/ˈʃæˌdoʊ/",
+   "syllables": [
+    "shad",
+    "ow"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F464"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "My shadow is long in the evening.",
+   "example_vi": "Buổi tối bóng của tớ dài.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W14",
+   "type": "word",
+   "en": "reflect",
+   "vi": "phản chiếu",
+   "ipa": "/rɪˈflɛkt/",
+   "syllables": [
+    "re",
+    "flect"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1FA9E"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "A mirror reflects light.",
+   "example_vi": "Gương phản chiếu ánh sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W15",
+   "type": "word",
+   "en": "dissolve",
+   "vi": "hoà tan",
+   "ipa": "/dɪˈzɑlv/",
+   "syllables": [
+    "dis",
+    "solve"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F944"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Sugar dissolves in hot water.",
+   "example_vi": "Đường tan trong nước nóng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W16",
+   "type": "word",
+   "en": "bubble",
+   "vi": "bong bóng",
+   "ipa": "/ˈbʌbəl/",
+   "syllables": [
+    "bub",
+    "ble"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FAE7"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Blow bubbles with soap and water.",
+   "example_vi": "Thổi bong bóng bằng xà phòng và nước.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W17",
+   "type": "word",
+   "en": "push",
+   "vi": "đẩy",
+   "ipa": "/pʊʃ/",
+   "syllables": [
+    "push"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Push the door to open it.",
+   "example_vi": "Đẩy cửa để mở.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W18",
+   "type": "word",
+   "en": "pull",
+   "vi": "kéo",
+   "ipa": "/pʊl/",
+   "syllables": [
+    "pull"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F448"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Pull the rope!",
+   "example_vi": "Kéo dây đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W19",
+   "type": "word",
+   "en": "force",
+   "vi": "lực",
+   "ipa": "/fɔrs/",
+   "syllables": [
+    "force"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "A push is a force.",
+   "example_vi": "Đẩy là một lực.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W20",
+   "type": "word",
+   "en": "gravity",
+   "vi": "trọng lực",
+   "ipa": "/ˈɡrævɪti/",
+   "syllables": [
+    "grav",
+    "i",
+    "ty"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F34E"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Gravity makes things fall to the ground.",
+   "example_vi": "Trọng lực làm mọi vật rơi xuống đất.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W21",
+   "type": "word",
+   "en": "weight",
+   "vi": "cân nặng, trọng lượng",
+   "ipa": "/weɪt/",
+   "syllables": [
+    "weight"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "What is the weight of this box?",
+   "example_vi": "Cái hộp này nặng bao nhiêu?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W22",
+   "type": "word",
+   "en": "surface",
+   "vi": "bề mặt",
+   "ipa": "/ˈsʌrfəs/",
+   "syllables": [
+    "sur",
+    "face"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F7EB"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The surface of the table is smooth.",
+   "example_vi": "Mặt bàn nhẵn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W23",
+   "type": "word",
+   "en": "rough",
+   "vi": "sần sùi, nhám",
+   "ipa": "/rʌf/",
+   "syllables": [
+    "rough"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1FAA8"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The stone feels rough.",
+   "example_vi": "Hòn đá sờ thấy nhám.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W24",
+   "type": "word",
+   "en": "smooth",
+   "vi": "nhẵn",
+   "ipa": "/smuð/",
+   "syllables": [
+    "smooth"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9C8"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The glass is very smooth.",
+   "example_vi": "Mặt kính rất nhẵn.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W25",
+   "type": "word",
+   "en": "material",
+   "vi": "vật liệu",
+   "ipa": "/məˈtɪriəl/",
+   "syllables": [
+    "ma",
+    "te",
+    "ri",
+    "al"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F9F1"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Wood is a strong material.",
+   "example_vi": "Gỗ là vật liệu chắc chắn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W26",
+   "type": "word",
+   "en": "bend",
+   "vi": "uốn cong",
+   "ipa": "/bɛnd/",
+   "syllables": [
+    "bend"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "21AA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "You can bend the wire.",
+   "example_vi": "Cậu có thể uốn cong sợi dây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W27",
+   "type": "word",
+   "en": "circuit",
+   "vi": "mạch điện",
+   "ipa": "/ˈsʌrkət/",
+   "syllables": [
+    "cir",
+    "cuit"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F50C"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The bulb lights up when the circuit is closed.",
+   "example_vi": "Bóng đèn sáng khi mạch điện đóng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W28",
+   "type": "word",
+   "en": "wire",
+   "vi": "dây điện",
+   "ipa": "/waɪʌr/",
+   "syllables": [
+    "wire"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "27B0"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Connect the wire to the battery.",
+   "example_vi": "Nối dây vào pin.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W29",
+   "type": "word",
+   "en": "switch",
+   "vi": "công tắc",
+   "ipa": "/swɪtʃ/",
+   "syllables": [
+    "switch"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F518"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Press the switch to turn on the light.",
+   "example_vi": "Bấm công tắc để bật đèn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W30",
+   "type": "word",
+   "en": "microscope",
+   "vi": "kính hiển vi",
+   "ipa": "/ˈmaɪkrəˌskoʊp/",
+   "syllables": [
+    "mi",
+    "cro",
+    "scope"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F52C"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "We looked at a leaf under a microscope.",
+   "example_vi": "Bọn tớ nhìn chiếc lá dưới kính hiển vi.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W31",
+   "type": "word",
+   "en": "goggles",
+   "vi": "kính bảo hộ",
+   "ipa": "/ˈɡɑɡəlz/",
+   "syllables": [
+    "gog",
+    "gles"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F97D"
+   },
+   "picturable": true,
+   "cat": "L5U04",
+   "example_en": "Wear goggles to protect your eyes.",
+   "example_vi": "Đeo kính bảo hộ để bảo vệ mắt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W32",
+   "type": "word",
+   "en": "equipment",
+   "vi": "dụng cụ",
+   "ipa": "/ɪkˈwɪpmənt/",
+   "syllables": [
+    "equipment"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9F0"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Put the equipment away after the experiment.",
+   "example_vi": "Cất dụng cụ sau khi làm thí nghiệm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W33",
+   "type": "word",
+   "en": "step",
+   "vi": "bước",
+   "ipa": "/stɛp/",
+   "syllables": [
+    "step"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Follow the steps carefully.",
+   "example_vi": "Làm theo các bước cẩn thận.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W34",
+   "type": "word",
+   "en": "discover",
+   "vi": "khám phá ra",
+   "ipa": "/dɪˈskʌvər/",
+   "syllables": [
+    "dis",
+    "cov",
+    "er"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F50D"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Scientists discover new things every day.",
+   "example_vi": "Các nhà khoa học khám phá ra điều mới mỗi ngày.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W35",
+   "type": "word",
+   "en": "discovery",
+   "vi": "khám phá, phát hiện",
+   "ipa": "/ˌdɪˈskʌvri/",
+   "syllables": [
+    "discovery"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "It was an important discovery.",
+   "example_vi": "Đó là một khám phá quan trọng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W36",
+   "type": "word",
+   "en": "chart",
+   "vi": "biểu đồ",
+   "ipa": "/tʃɑrt/",
+   "syllables": [
+    "chart"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4CA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Put the results in a chart.",
+   "example_vi": "Ghi kết quả vào biểu đồ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W37",
+   "type": "word",
+   "en": "invisible",
+   "vi": "vô hình",
+   "ipa": "/ˌɪnˈvɪzəbəl/",
+   "syllables": [
+    "in",
+    "vis",
+    "i",
+    "ble"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F47B"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Air is invisible.",
+   "example_vi": "Không khí thì vô hình.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W38",
+   "type": "word",
+   "en": "visible",
+   "vi": "nhìn thấy được",
+   "ipa": "/ˈvɪzəbəl/",
+   "syllables": [
+    "vis",
+    "i",
+    "ble"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "The moon is visible tonight.",
+   "example_vi": "Tối nay có thể nhìn thấy mặt trăng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W39",
+   "type": "phrase",
+   "en": "ice cube",
+   "vi": "viên đá",
+   "ipa": "/aɪs kjub/",
+   "syllables": [
+    "ice",
+    "cube"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Put an ice cube in your drink.",
+   "example_vi": "Cho viên đá vào đồ uống.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W40",
+   "type": "word",
+   "en": "jar",
+   "vi": "lọ thuỷ tinh",
+   "ipa": "/dʒɑr/",
+   "syllables": [
+    "jar"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1FAD9"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Fill the jar with water.",
+   "example_vi": "Đổ đầy nước vào lọ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W41",
+   "type": "word",
+   "en": "fill",
+   "vi": "đổ đầy",
+   "ipa": "/fɪl/",
+   "syllables": [
+    "fill"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Fill the glass with juice.",
+   "example_vi": "Rót đầy cốc nước ép.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W42",
+   "type": "word",
+   "en": "container",
+   "vi": "đồ đựng, hộp",
+   "ipa": "/kənˈteɪnər/",
+   "syllables": [
+    "con",
+    "tain",
+    "er"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Put the food in a container.",
+   "example_vi": "Cho thức ăn vào hộp.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W43",
+   "type": "word",
+   "en": "pattern",
+   "vi": "hoạ tiết, quy luật",
+   "ipa": "/ˈpætərn/",
+   "syllables": [
+    "pat",
+    "tern"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F537"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Can you see the pattern? Red, blue, red, blue.",
+   "example_vi": "Cậu thấy quy luật không? Đỏ, xanh, đỏ, xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W44",
+   "type": "word",
+   "en": "sound",
+   "vi": "âm thanh",
+   "ipa": "/saʊnd/",
+   "syllables": [
+    "sound"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F50A"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "Sound travels through the air.",
+   "example_vi": "Âm thanh truyền qua không khí.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U04-W45",
+   "type": "word",
+   "en": "move",
+   "vi": "di chuyển",
+   "ipa": "/muv/",
+   "syllables": [
+    "move"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U04",
+   "example_en": "A force can make things move.",
+   "example_vi": "Lực có thể làm mọi vật di chuyển.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U04-P01",
+   "en": "I predict that the {x} will float.",
+   "vi": "Tớ dự đoán {x} sẽ nổi.",
+   "slots": {
+    "x": [
+     "leaf",
+     "ball",
+     "coin",
+     "stone"
+    ]
+   }
+  },
+  {
+   "id": "L5U04-P02",
+   "en": "{x} is a liquid.",
+   "vi": "{x} là chất lỏng.",
+   "slots": {
+    "x": [
+     "Water",
+     "Milk",
+     "Juice",
+     "Oil"
+    ]
+   }
+  },
+  {
+   "id": "L5U04-P03",
+   "en": "First, fill the {x} with water.",
+   "vi": "Đầu tiên, đổ đầy nước vào {x}.",
+   "slots": {
+    "x": [
+     "jar",
+     "glass",
+     "bowl",
+     "bottle"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U04-D01",
+   "title_vi": "Nổi hay chìm?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's do an experiment. Will this coin float or sink?",
+     "vi": "Mình làm thí nghiệm nhé. Đồng xu này sẽ nổi hay chìm?"
+    },
+    {
+     "role": "Kid",
+     "en": "I predict it will sink. It's made of metal.",
+     "vi": "Tớ đoán nó sẽ chìm. Nó làm bằng kim loại."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's see. Put it in the water.",
+     "vi": "Thử xem nào. Thả nó vào nước."
+    },
+    {
+     "role": "Kid",
+     "en": "It's at the bottom! I was right.",
+     "vi": "Nó nằm dưới đáy rồi! Tớ đoán đúng."
+    },
+    {
+     "role": "Bi",
+     "en": "Great! Now let's try a leaf.",
+     "vi": "Tuyệt! Giờ thử chiếc lá nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "I think the leaf will float.",
+     "vi": "Tớ nghĩ chiếc lá sẽ nổi."
+    }
+   ]
+  },
+  {
+   "id": "L5U04-D02",
+   "title_vi": "Viên đá tan",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Why is the ice cube getting smaller?",
+     "vi": "Sao viên đá lại nhỏ dần?"
+    },
+    {
+     "role": "Bi",
+     "en": "It's melting. A solid is changing into a liquid.",
+     "vi": "Nó đang tan. Chất rắn đang biến thành chất lỏng."
+    },
+    {
+     "role": "Kid",
+     "en": "What happens if we put the water in the freezer?",
+     "vi": "Điều gì xảy ra nếu mình cho nước vào ngăn đá?"
+    },
+    {
+     "role": "Bi",
+     "en": "It will freeze and become solid again.",
+     "vi": "Nó sẽ đóng băng và lại thành chất rắn."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "experiment"
+  },
+  {
+   "type": "dictate_word",
+   "target": "predict"
+  },
+  {
+   "type": "dictate_word",
+   "target": "observe"
+  },
+  {
+   "type": "dictate_word",
+   "target": "result"
+  },
+  {
+   "type": "dictate_word",
+   "target": "record"
+  },
+  {
+   "type": "dictate_word",
+   "target": "magnet"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sink"
+  },
+  {
+   "type": "dictate_word",
+   "target": "liquid"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Let's do an experiment with water."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I predict that the ice will melt."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Observe the plant every day."
+  },
+  {
+   "type": "write_sentences",
+   "target": "First,|I predict that|The result was"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U04-R01",
+   "title_en": "A rainbow experiment",
+   "text_en": [
+    "You can make a rainbow at home with a simple experiment.",
+    "You need a glass of water, a sheet of white paper and a sunny window.",
+    "First, fill the glass with water.",
+    "Then put it on a table near the window, in the sunlight.",
+    "Next, put the white paper on the floor in front of the glass.",
+    "Observe the paper carefully.",
+    "What can you see?",
+    "You should see the colours of the rainbow on the paper!",
+    "This happens because the water bends the light, and white light is made of many colours.",
+    "Record your result in your notebook."
+   ],
+   "questions": [
+    {
+     "q": "What do you need for the experiment?",
+     "options": [
+      "A glass of water, white paper and sunlight.",
+      "A magnet and a coin.",
+      "A balloon and some soap."
+     ],
+     "answer": "A glass of water, white paper and sunlight."
+    },
+    {
+     "q": "Where do you put the paper?",
+     "options": [
+      "On the floor in front of the glass.",
+      "In the water.",
+      "On the window."
+     ],
+     "answer": "On the floor in front of the glass."
+    },
+    {
+     "q": "Why can you see a rainbow?",
+     "options": [
+      "The water bends the light.",
+      "The paper is colourful.",
+      "The glass is magic."
+     ],
+     "answer": "The water bends the light."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "magnet",
+   "item": "magnet",
+   "options": [
+    "magnet",
+    "goggles",
+    "video",
+    "swan"
+   ],
+   "answer": "magnet"
+  },
+  {
+   "id": "L5U04-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "goggles",
+   "item": "goggles",
+   "options": [
+    "swam",
+    "shopping centre",
+    "magnet",
+    "goggles"
+   ],
+   "answer": "goggles"
+  },
+  {
+   "id": "L5U04-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "experiment",
+   "item": "experiment",
+   "options": [
+    "predict",
+    "sink",
+    "liquid",
+    "experiment"
+   ],
+   "answer": "experiment"
+  },
+  {
+   "id": "L5U04-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "predict",
+   "item": "predict",
+   "options": [
+    "circuit",
+    "predict",
+    "switch",
+    "surface"
+   ],
+   "answer": "predict"
+  },
+  {
+   "id": "L5U04-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "observe",
+   "item": "observe",
+   "options": [
+    "observe",
+    "reflect",
+    "move",
+    "fill"
+   ],
+   "answer": "observe"
+  },
+  {
+   "id": "L5U04-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "result",
+   "item": "result",
+   "options": [
+    "gas",
+    "result",
+    "observe",
+    "switch"
+   ],
+   "answer": "result"
+  },
+  {
+   "id": "L5U04-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "record",
+   "item": "record",
+   "options": [
+    "push",
+    "evaporate",
+    "record",
+    "freeze"
+   ],
+   "answer": "record"
+  },
+  {
+   "id": "L5U04-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sink",
+   "item": "sink",
+   "options": [
+    "predict",
+    "rough",
+    "sink",
+    "container"
+   ],
+   "answer": "sink"
+  },
+  {
+   "id": "L5U04-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "liquid",
+   "item": "liquid",
+   "options": [
+    "liquid",
+    "equipment",
+    "reflect",
+    "smooth"
+   ],
+   "answer": "liquid"
+  },
+  {
+   "id": "L5U04-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "solid",
+   "item": "solid",
+   "options": [
+    "observe",
+    "experiment",
+    "solid",
+    "sink"
+   ],
+   "answer": "solid"
+  },
+  {
+   "id": "L5U04-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gas",
+   "item": "gas",
+   "options": [
+    "experiment",
+    "observe",
+    "gas",
+    "shadow"
+   ],
+   "answer": "gas"
+  },
+  {
+   "id": "L5U04-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "freeze",
+   "item": "freeze",
+   "options": [
+    "freeze",
+    "circuit",
+    "jar",
+    "goggles"
+   ],
+   "answer": "freeze"
+  },
+  {
+   "id": "L5U04-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "evaporate",
+   "item": "evaporate",
+   "options": [
+    "surface",
+    "wire",
+    "evaporate",
+    "shadow"
+   ],
+   "answer": "evaporate"
+  },
+  {
+   "id": "L5U04-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shadow",
+   "item": "shadow",
+   "options": [
+    "shadow",
+    "jar",
+    "pull",
+    "chart"
+   ],
+   "answer": "shadow"
+  },
+  {
+   "id": "L5U04-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reflect",
+   "item": "reflect",
+   "options": [
+    "reflect",
+    "switch",
+    "visible",
+    "move"
+   ],
+   "answer": "reflect"
+  },
+  {
+   "id": "L5U04-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dissolve",
+   "item": "dissolve",
+   "options": [
+    "freeze",
+    "dissolve",
+    "switch",
+    "jar"
+   ],
+   "answer": "dissolve"
+  },
+  {
+   "id": "L5U04-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bubble",
+   "item": "bubble",
+   "options": [
+    "bubble",
+    "force",
+    "wire",
+    "material"
+   ],
+   "answer": "bubble"
+  },
+  {
+   "id": "L5U04-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "push",
+   "item": "push",
+   "options": [
+    "result",
+    "pull",
+    "push",
+    "step"
+   ],
+   "answer": "push"
+  },
+  {
+   "id": "L5U04-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pull",
+   "item": "pull",
+   "options": [
+    "switch",
+    "pull",
+    "gravity",
+    "discover"
+   ],
+   "answer": "pull"
+  },
+  {
+   "id": "L5U04-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "force",
+   "item": "force",
+   "options": [
+    "predict",
+    "container",
+    "force",
+    "material"
+   ],
+   "answer": "force"
+  },
+  {
+   "id": "L5U04-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gravity",
+   "item": "gravity",
+   "options": [
+    "gravity",
+    "chart",
+    "shadow",
+    "evaporate"
+   ],
+   "answer": "gravity"
+  },
+  {
+   "id": "L5U04-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "weight",
+   "item": "weight",
+   "options": [
+    "weight",
+    "surface",
+    "discovery",
+    "invisible"
+   ],
+   "answer": "weight"
+  },
+  {
+   "id": "L5U04-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "surface",
+   "item": "surface",
+   "options": [
+    "pattern",
+    "fill",
+    "surface",
+    "bubble"
+   ],
+   "answer": "surface"
+  },
+  {
+   "id": "L5U04-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rough",
+   "item": "rough",
+   "options": [
+    "freeze",
+    "ice cube",
+    "magnet",
+    "rough"
+   ],
+   "answer": "rough"
+  },
+  {
+   "id": "L5U04-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "smooth",
+   "item": "smooth",
+   "options": [
+    "surface",
+    "smooth",
+    "shadow",
+    "sound"
+   ],
+   "answer": "smooth"
+  },
+  {
+   "id": "L5U04-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "material",
+   "item": "material",
+   "options": [
+    "liquid",
+    "chart",
+    "predict",
+    "material"
+   ],
+   "answer": "material"
+  },
+  {
+   "id": "L5U04-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bend",
+   "item": "bend",
+   "options": [
+    "step",
+    "reflect",
+    "visible",
+    "bend"
+   ],
+   "answer": "bend"
+  },
+  {
+   "id": "L5U04-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "circuit",
+   "item": "circuit",
+   "options": [
+    "sink",
+    "shadow",
+    "circuit",
+    "pull"
+   ],
+   "answer": "circuit"
+  },
+  {
+   "id": "L5U04-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wire",
+   "item": "wire",
+   "options": [
+    "record",
+    "wire",
+    "experiment",
+    "move"
+   ],
+   "answer": "wire"
+  },
+  {
+   "id": "L5U04-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "switch",
+   "item": "switch",
+   "options": [
+    "jar",
+    "switch",
+    "bubble",
+    "record"
+   ],
+   "answer": "switch"
+  },
+  {
+   "id": "L5U04-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "microscope",
+   "item": "microscope",
+   "options": [
+    "pattern",
+    "discover",
+    "sink",
+    "microscope"
+   ],
+   "answer": "microscope"
+  },
+  {
+   "id": "L5U04-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "equipment",
+   "item": "equipment",
+   "options": [
+    "sink",
+    "visible",
+    "equipment",
+    "chart"
+   ],
+   "answer": "equipment"
+  },
+  {
+   "id": "L5U04-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "step",
+   "item": "step",
+   "options": [
+    "sound",
+    "visible",
+    "bend",
+    "step"
+   ],
+   "answer": "step"
+  },
+  {
+   "id": "L5U04-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "discover",
+   "item": "discover",
+   "options": [
+    "discover",
+    "microscope",
+    "force",
+    "weight"
+   ],
+   "answer": "discover"
+  },
+  {
+   "id": "L5U04-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "discovery",
+   "item": "discovery",
+   "options": [
+    "discovery",
+    "gas",
+    "record",
+    "material"
+   ],
+   "answer": "discovery"
+  },
+  {
+   "id": "L5U04-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chart",
+   "item": "chart",
+   "options": [
+    "result",
+    "container",
+    "chart",
+    "circuit"
+   ],
+   "answer": "chart"
+  },
+  {
+   "id": "L5U04-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "invisible",
+   "item": "invisible",
+   "options": [
+    "switch",
+    "wire",
+    "invisible",
+    "solid"
+   ],
+   "answer": "invisible"
+  },
+  {
+   "id": "L5U04-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "visible",
+   "item": "visible",
+   "options": [
+    "gas",
+    "goggles",
+    "weight",
+    "visible"
+   ],
+   "answer": "visible"
+  },
+  {
+   "id": "L5U04-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ice cube",
+   "item": "ice cube",
+   "options": [
+    "pattern",
+    "pull",
+    "shadow",
+    "ice cube"
+   ],
+   "answer": "ice cube"
+  },
+  {
+   "id": "L5U04-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jar",
+   "item": "jar",
+   "options": [
+    "gravity",
+    "jar",
+    "evaporate",
+    "rough"
+   ],
+   "answer": "jar"
+  },
+  {
+   "id": "L5U04-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fill",
+   "item": "fill",
+   "options": [
+    "push",
+    "discovery",
+    "fill",
+    "result"
+   ],
+   "answer": "fill"
+  },
+  {
+   "id": "L5U04-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "container",
+   "item": "container",
+   "options": [
+    "container",
+    "observe",
+    "predict",
+    "pull"
+   ],
+   "answer": "container"
+  },
+  {
+   "id": "L5U04-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pattern",
+   "item": "pattern",
+   "options": [
+    "sound",
+    "weight",
+    "pattern",
+    "goggles"
+   ],
+   "answer": "pattern"
+  },
+  {
+   "id": "L5U04-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sound",
+   "item": "sound",
+   "options": [
+    "surface",
+    "discover",
+    "sound",
+    "smooth"
+   ],
+   "answer": "sound"
+  },
+  {
+   "id": "L5U04-Q045",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "move",
+   "item": "move",
+   "options": [
+    "pattern",
+    "chart",
+    "circuit",
+    "move"
+   ],
+   "answer": "move"
+  },
+  {
+   "id": "L5U04-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "magnet",
+   "answer": "magnet"
+  },
+  {
+   "id": "L5U04-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "goggles",
+   "answer": "goggles"
+  },
+  {
+   "id": "L5U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's do an experiment with water.",
+   "item": "experiment",
+   "answer": "Let's do an experiment with water."
+  },
+  {
+   "id": "L5U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I predict that the ice will melt.",
+   "item": "predict",
+   "answer": "I predict that the ice will melt."
+  },
+  {
+   "id": "L5U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Observe the plant every day.",
+   "item": "observe",
+   "answer": "Observe the plant every day."
+  },
+  {
+   "id": "L5U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What was the result of the experiment?",
+   "item": "result",
+   "answer": "What was the result of the experiment?"
+  },
+  {
+   "id": "L5U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Record the temperature in your notebook.",
+   "item": "record",
+   "answer": "Record the temperature in your notebook."
+  },
+  {
+   "id": "L5U04-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A magnet can pick up metal things.",
+   "item": "magnet",
+   "answer": "A magnet can pick up metal things."
+  },
+  {
+   "id": "L5U04-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A stone sinks in water.",
+   "item": "sink",
+   "answer": "A stone sinks in water."
+  },
+  {
+   "id": "L5U04-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water and milk are liquids.",
+   "item": "liquid",
+   "answer": "Water and milk are liquids."
+  },
+  {
+   "id": "L5U04-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ice is a solid.",
+   "item": "solid",
+   "answer": "Ice is a solid."
+  },
+  {
+   "id": "L5U04-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Air is a gas.",
+   "item": "gas",
+   "answer": "Air is a gas."
+  },
+  {
+   "id": "L5U04-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water freezes at zero degrees.",
+   "item": "freeze",
+   "answer": "Water freezes at zero degrees."
+  },
+  {
+   "id": "L5U04-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The water evaporates in the sun.",
+   "item": "evaporate",
+   "answer": "The water evaporates in the sun."
+  },
+  {
+   "id": "L5U04-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My shadow is long in the evening.",
+   "item": "shadow",
+   "answer": "My shadow is long in the evening."
+  },
+  {
+   "id": "L5U04-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A mirror reflects light.",
+   "item": "reflect",
+   "answer": "A mirror reflects light."
+  },
+  {
+   "id": "L5U04-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sugar dissolves in hot water.",
+   "item": "dissolve",
+   "answer": "Sugar dissolves in hot water."
+  },
+  {
+   "id": "L5U04-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Blow bubbles with soap and water.",
+   "item": "bubble",
+   "answer": "Blow bubbles with soap and water."
+  },
+  {
+   "id": "L5U04-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Push the door to open it.",
+   "item": "push",
+   "answer": "Push the door to open it."
+  },
+  {
+   "id": "L5U04-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pull the rope!",
+   "item": "pull",
+   "answer": "Pull the rope!"
+  },
+  {
+   "id": "L5U04-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A push is a force.",
+   "item": "force",
+   "answer": "A push is a force."
+  },
+  {
+   "id": "L5U04-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Gravity makes things fall to the ground.",
+   "item": "gravity",
+   "answer": "Gravity makes things fall to the ground."
+  },
+  {
+   "id": "L5U04-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What is the weight of this box?",
+   "item": "weight",
+   "answer": "What is the weight of this box?"
+  },
+  {
+   "id": "L5U04-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The surface of the table is smooth.",
+   "item": "surface",
+   "answer": "The surface of the table is smooth."
+  },
+  {
+   "id": "L5U04-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The stone feels rough.",
+   "item": "rough",
+   "answer": "The stone feels rough."
+  },
+  {
+   "id": "L5U04-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The glass is very smooth.",
+   "item": "smooth",
+   "answer": "The glass is very smooth."
+  },
+  {
+   "id": "L5U04-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wood is a strong material.",
+   "item": "material",
+   "answer": "Wood is a strong material."
+  },
+  {
+   "id": "L5U04-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You can bend the wire.",
+   "item": "bend",
+   "answer": "You can bend the wire."
+  },
+  {
+   "id": "L5U04-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bulb lights up when the circuit is closed.",
+   "item": "circuit",
+   "answer": "The bulb lights up when the circuit is closed."
+  },
+  {
+   "id": "L5U04-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Connect the wire to the battery.",
+   "item": "wire",
+   "answer": "Connect the wire to the battery."
+  },
+  {
+   "id": "L5U04-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press the switch to turn on the light.",
+   "item": "switch",
+   "answer": "Press the switch to turn on the light."
+  },
+  {
+   "id": "L5U04-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We looked at a leaf under a microscope.",
+   "item": "microscope",
+   "answer": "We looked at a leaf under a microscope."
+  },
+  {
+   "id": "L5U04-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wear goggles to protect your eyes.",
+   "item": "goggles",
+   "answer": "Wear goggles to protect your eyes."
+  },
+  {
+   "id": "L5U04-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the equipment away after the experiment.",
+   "item": "equipment",
+   "answer": "Put the equipment away after the experiment."
+  },
+  {
+   "id": "L5U04-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Follow the steps carefully.",
+   "item": "step",
+   "answer": "Follow the steps carefully."
+  },
+  {
+   "id": "L5U04-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Scientists discover new things every day.",
+   "item": "discover",
+   "answer": "Scientists discover new things every day."
+  },
+  {
+   "id": "L5U04-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was an important discovery.",
+   "item": "discovery",
+   "answer": "It was an important discovery."
+  },
+  {
+   "id": "L5U04-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the results in a chart.",
+   "item": "chart",
+   "answer": "Put the results in a chart."
+  },
+  {
+   "id": "L5U04-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Air is invisible.",
+   "item": "invisible",
+   "answer": "Air is invisible."
+  },
+  {
+   "id": "L5U04-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moon is visible tonight.",
+   "item": "visible",
+   "answer": "The moon is visible tonight."
+  },
+  {
+   "id": "L5U04-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put an ice cube in your drink.",
+   "item": "ice cube",
+   "answer": "Put an ice cube in your drink."
+  },
+  {
+   "id": "L5U04-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fill the jar with water.",
+   "item": "jar",
+   "answer": "Fill the jar with water."
+  },
+  {
+   "id": "L5U04-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fill the glass with juice.",
+   "item": "fill",
+   "answer": "Fill the glass with juice."
+  },
+  {
+   "id": "L5U04-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the food in a container.",
+   "item": "container",
+   "answer": "Put the food in a container."
+  },
+  {
+   "id": "L5U04-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you see the pattern? Red, blue, red, blue.",
+   "item": "pattern",
+   "answer": "Can you see the pattern? Red, blue, red, blue."
+  },
+  {
+   "id": "L5U04-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sound travels through the air.",
+   "item": "sound",
+   "answer": "Sound travels through the air."
+  },
+  {
+   "id": "L5U04-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A force can make things move.",
+   "item": "move",
+   "answer": "A force can make things move."
+  },
+  {
+   "id": "L5U04-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I predict that the leaf will float.",
+   "answer": "I predict that the leaf will float."
+  },
+  {
+   "id": "L5U04-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I predict that the ball will float.",
+   "answer": "I predict that the ball will float."
+  },
+  {
+   "id": "L5U04-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I predict that the coin will float.",
+   "answer": "I predict that the coin will float."
+  },
+  {
+   "id": "L5U04-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water is a liquid.",
+   "answer": "Water is a liquid."
+  },
+  {
+   "id": "L5U04-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Milk is a liquid.",
+   "answer": "Milk is a liquid."
+  },
+  {
+   "id": "L5U04-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Juice is a liquid.",
+   "answer": "Juice is a liquid."
+  },
+  {
+   "id": "L5U04-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, fill the jar with water.",
+   "answer": "First, fill the jar with water."
+  },
+  {
+   "id": "L5U04-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, fill the glass with water.",
+   "answer": "First, fill the glass with water."
+  },
+  {
+   "id": "L5U04-Q101",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, fill the bowl with water.",
+   "answer": "First, fill the bowl with water."
+  },
+  {
+   "id": "L5U04-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Let's do an experiment. Will this coin float or sink?",
+   "answer": "I predict it will sink. It's made of metal."
+  },
+  {
+   "id": "L5U04-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why is the ice cube getting smaller?",
+   "answer": "It's melting. A solid is changing into a liquid."
+  },
+  {
+   "id": "L5U04-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What happens if we put the water in the freezer?",
+   "answer": "It will freeze and become solid again."
+  },
+  {
+   "id": "L5U04-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "magnet",
+   "options": [
+    "try on",
+    "goggles",
+    "magnet"
+   ],
+   "answer": "magnet"
+  },
+  {
+   "id": "L5U04-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "goggles",
+   "options": [
+    "goggles",
+    "magnet",
+    "pea"
+   ],
+   "answer": "goggles"
+  },
+  {
+   "id": "L5U04-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's do an ___ with water.",
+   "item": "experiment",
+   "options": [
+    "reflect",
+    "experiment",
+    "sink"
+   ],
+   "answer": "experiment"
+  },
+  {
+   "id": "L5U04-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ that the ice will melt.",
+   "item": "predict",
+   "options": [
+    "discovery",
+    "gas",
+    "predict"
+   ],
+   "answer": "predict"
+  },
+  {
+   "id": "L5U04-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the plant every day.",
+   "item": "observe",
+   "options": [
+    "Goggles",
+    "Experiment",
+    "Observe"
+   ],
+   "answer": "Observe"
+  },
+  {
+   "id": "L5U04-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What was the ___ of the experiment?",
+   "item": "result",
+   "options": [
+    "result",
+    "push",
+    "sound"
+   ],
+   "answer": "result"
+  },
+  {
+   "id": "L5U04-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the temperature in your notebook.",
+   "item": "record",
+   "options": [
+    "Smooth",
+    "Record",
+    "Gas"
+   ],
+   "answer": "Record"
+  },
+  {
+   "id": "L5U04-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ can pick up metal things.",
+   "item": "magnet",
+   "options": [
+    "magnet",
+    "fill",
+    "reflect"
+   ],
+   "answer": "magnet"
+  },
+  {
+   "id": "L5U04-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A stone ___ in water.",
+   "item": "sink",
+   "options": [
+    "goggleses",
+    "magnets",
+    "sinks"
+   ],
+   "answer": "sinks"
+  },
+  {
+   "id": "L5U04-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Water and milk are ___.",
+   "item": "liquid",
+   "options": [
+    "goggleses",
+    "magnets",
+    "liquids"
+   ],
+   "answer": "liquids"
+  },
+  {
+   "id": "L5U04-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ice is a ___.",
+   "item": "solid",
+   "options": [
+    "solid",
+    "smooth",
+    "gravity"
+   ],
+   "answer": "solid"
+  },
+  {
+   "id": "L5U04-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Air is a ___.",
+   "item": "gas",
+   "options": [
+    "invisible",
+    "observe",
+    "gas"
+   ],
+   "answer": "gas"
+  },
+  {
+   "id": "L5U04-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Water ___ at zero degrees.",
+   "item": "freeze",
+   "options": [
+    "freezes",
+    "goggleses",
+    "magnets"
+   ],
+   "answer": "freezes"
+  },
+  {
+   "id": "L5U04-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The water ___ in the sun.",
+   "item": "evaporate",
+   "options": [
+    "magnets",
+    "goggleses",
+    "evaporates"
+   ],
+   "answer": "evaporates"
+  },
+  {
+   "id": "L5U04-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is long in the evening.",
+   "item": "shadow",
+   "options": [
+    "shadow",
+    "pull",
+    "sound"
+   ],
+   "answer": "shadow"
+  },
+  {
+   "id": "L5U04-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A mirror ___ light.",
+   "item": "reflect",
+   "options": [
+    "magnets",
+    "reflects",
+    "goggleses"
+   ],
+   "answer": "reflects"
+  },
+  {
+   "id": "L5U04-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sugar ___ in hot water.",
+   "item": "dissolve",
+   "options": [
+    "magnets",
+    "goggleses",
+    "dissolves"
+   ],
+   "answer": "dissolves"
+  },
+  {
+   "id": "L5U04-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Blow ___ with soap and water.",
+   "item": "bubble",
+   "options": [
+    "magnets",
+    "bubbles",
+    "goggleses"
+   ],
+   "answer": "bubbles"
+  },
+  {
+   "id": "L5U04-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the door to open it.",
+   "item": "push",
+   "options": [
+    "Result",
+    "Microscope",
+    "Push"
+   ],
+   "answer": "Push"
+  },
+  {
+   "id": "L5U04-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the rope!",
+   "item": "pull",
+   "options": [
+    "Weight",
+    "Chart",
+    "Pull"
+   ],
+   "answer": "Pull"
+  },
+  {
+   "id": "L5U04-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A push is a ___.",
+   "item": "force",
+   "options": [
+    "freeze",
+    "force",
+    "dissolve"
+   ],
+   "answer": "force"
+  },
+  {
+   "id": "L5U04-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ makes things fall to the ground.",
+   "item": "gravity",
+   "options": [
+    "Sink",
+    "Freeze",
+    "Gravity"
+   ],
+   "answer": "Gravity"
+  },
+  {
+   "id": "L5U04-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What is the ___ of this box?",
+   "item": "weight",
+   "options": [
+    "freeze",
+    "push",
+    "weight"
+   ],
+   "answer": "weight"
+  },
+  {
+   "id": "L5U04-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the table is smooth.",
+   "item": "surface",
+   "options": [
+    "bend",
+    "surface",
+    "bubble"
+   ],
+   "answer": "surface"
+  },
+  {
+   "id": "L5U04-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The stone feels ___.",
+   "item": "rough",
+   "options": [
+    "pull",
+    "bend",
+    "rough"
+   ],
+   "answer": "rough"
+  },
+  {
+   "id": "L5U04-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The glass is very ___.",
+   "item": "smooth",
+   "options": [
+    "force",
+    "discovery",
+    "smooth"
+   ],
+   "answer": "smooth"
+  },
+  {
+   "id": "L5U04-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wood is a strong ___.",
+   "item": "material",
+   "options": [
+    "bubble",
+    "material",
+    "dissolve"
+   ],
+   "answer": "material"
+  },
+  {
+   "id": "L5U04-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You can ___ the wire.",
+   "item": "bend",
+   "options": [
+    "discovery",
+    "evaporate",
+    "bend"
+   ],
+   "answer": "bend"
+  },
+  {
+   "id": "L5U04-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bulb lights up when the ___ is closed.",
+   "item": "circuit",
+   "options": [
+    "invisible",
+    "circuit",
+    "discovery"
+   ],
+   "answer": "circuit"
+  },
+  {
+   "id": "L5U04-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Connect the ___ to the battery.",
+   "item": "wire",
+   "options": [
+    "wire",
+    "discovery",
+    "bend"
+   ],
+   "answer": "wire"
+  },
+  {
+   "id": "L5U04-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Press the ___ to turn on the light.",
+   "item": "switch",
+   "options": [
+    "dissolve",
+    "discover",
+    "switch"
+   ],
+   "answer": "switch"
+  },
+  {
+   "id": "L5U04-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We looked at a leaf under a ___.",
+   "item": "microscope",
+   "options": [
+    "microscope",
+    "evaporate",
+    "sound"
+   ],
+   "answer": "microscope"
+  },
+  {
+   "id": "L5U04-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wear ___ to protect your eyes.",
+   "item": "goggles",
+   "options": [
+    "goggles",
+    "jar",
+    "surface"
+   ],
+   "answer": "goggles"
+  },
+  {
+   "id": "L5U04-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the ___ away after the experiment.",
+   "item": "equipment",
+   "options": [
+    "smooth",
+    "gravity",
+    "equipment"
+   ],
+   "answer": "equipment"
+  },
+  {
+   "id": "L5U04-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Follow the ___ carefully.",
+   "item": "step",
+   "options": [
+    "steps",
+    "dissolves",
+    "goggleses"
+   ],
+   "answer": "steps"
+  },
+  {
+   "id": "L5U04-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Scientists ___ new things every day.",
+   "item": "discover",
+   "options": [
+    "force",
+    "chart",
+    "discover"
+   ],
+   "answer": "discover"
+  },
+  {
+   "id": "L5U04-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was an important ___.",
+   "item": "discovery",
+   "options": [
+    "material",
+    "discovery",
+    "fill"
+   ],
+   "answer": "discovery"
+  },
+  {
+   "id": "L5U04-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the results in a ___.",
+   "item": "chart",
+   "options": [
+    "chart",
+    "dissolve",
+    "observe"
+   ],
+   "answer": "chart"
+  },
+  {
+   "id": "L5U04-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Air is ___.",
+   "item": "invisible",
+   "options": [
+    "invisible",
+    "force",
+    "fill"
+   ],
+   "answer": "invisible"
+  },
+  {
+   "id": "L5U04-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The moon is ___ tonight.",
+   "item": "visible",
+   "options": [
+    "circuit",
+    "visible",
+    "move"
+   ],
+   "answer": "visible"
+  },
+  {
+   "id": "L5U04-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Fill the ___ with water.",
+   "item": "jar",
+   "options": [
+    "jar",
+    "goggles",
+    "bubble"
+   ],
+   "answer": "jar"
+  },
+  {
+   "id": "L5U04-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the glass with juice.",
+   "item": "fill",
+   "options": [
+    "Result",
+    "Fill",
+    "Rough"
+   ],
+   "answer": "Fill"
+  },
+  {
+   "id": "L5U04-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the food in a ___.",
+   "item": "container",
+   "options": [
+    "container",
+    "smooth",
+    "reflect"
+   ],
+   "answer": "container"
+  },
+  {
+   "id": "L5U04-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you see the ___? Red, blue, red, blue.",
+   "item": "pattern",
+   "options": [
+    "smooth",
+    "pattern",
+    "discovery"
+   ],
+   "answer": "pattern"
+  },
+  {
+   "id": "L5U04-Q149",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ travels through the air.",
+   "item": "sound",
+   "options": [
+    "Microscope",
+    "Switch",
+    "Sound"
+   ],
+   "answer": "Sound"
+  },
+  {
+   "id": "L5U04-Q150",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A force can make things ___.",
+   "item": "move",
+   "options": [
+    "bubble",
+    "move",
+    "sink"
+   ],
+   "answer": "move"
+  },
+  {
+   "id": "L5U04-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A magnet can pick up metal things.",
+   "item": "magnet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U04-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Wear goggles to protect your eyes.",
+   "item": "magnet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U04-Q153",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U04-R01",
+   "text_en": "What do you need for the experiment?",
+   "options": [
+    "A magnet and a coin.",
+    "A balloon and some soap.",
+    "A glass of water, white paper and sunlight."
+   ],
+   "answer": "A glass of water, white paper and sunlight."
+  },
+  {
+   "id": "L5U04-Q154",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U04-R01",
+   "text_en": "Where do you put the paper?",
+   "options": [
+    "In the water.",
+    "On the window.",
+    "On the floor in front of the glass."
+   ],
+   "answer": "On the floor in front of the glass."
+  },
+  {
+   "id": "L5U04-Q155",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U04-R01",
+   "text_en": "Why can you see a rainbow?",
+   "options": [
+    "The water bends the light.",
+    "The paper is colourful.",
+    "The glass is magic."
+   ],
+   "answer": "The water bends the light."
+  },
+  {
+   "id": "L5U04-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "experiment",
+   "item": "experiment",
+   "answer": "experiment"
+  },
+  {
+   "id": "L5U04-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "predict",
+   "item": "predict",
+   "answer": "predict"
+  },
+  {
+   "id": "L5U04-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "observe",
+   "item": "observe",
+   "answer": "observe"
+  },
+  {
+   "id": "L5U04-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "result",
+   "item": "result",
+   "answer": "result"
+  },
+  {
+   "id": "L5U04-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "record",
+   "item": "record",
+   "answer": "record"
+  },
+  {
+   "id": "L5U04-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "magnet",
+   "item": "magnet",
+   "answer": "magnet"
+  },
+  {
+   "id": "L5U04-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sink",
+   "item": "sink",
+   "answer": "sink"
+  },
+  {
+   "id": "L5U04-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "liquid",
+   "item": "liquid",
+   "answer": "liquid"
+  },
+  {
+   "id": "L5U04-Q164",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Let's do an experiment with water.",
+   "answer": "Let's do an experiment with water."
+  },
+  {
+   "id": "L5U04-Q165",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I predict that the ice will melt.",
+   "answer": "I predict that the ice will melt."
+  },
+  {
+   "id": "L5U04-Q166",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Observe the plant every day.",
+   "answer": "Observe the plant every day."
+  }
+ ]
+}

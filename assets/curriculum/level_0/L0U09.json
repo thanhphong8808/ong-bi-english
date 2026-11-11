@@ -1,0 +1,893 @@
+{
+ "id": "L0U09",
+ "level": 0,
+ "unit": 9,
+ "topic_en": "Around me",
+ "topic_vi": "Quanh em",
+ "can_do_vi": [
+  "Gọi tên 10 thứ quen thuộc quanh em",
+  "Nói \"I see a ...\""
+ ],
+ "items": [
+  {
+   "id": "L0U09-W01",
+   "type": "word",
+   "en": "moon",
+   "vi": "mặt trăng",
+   "ipa": "/mun/",
+   "syllables": [
+    "moon"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F319"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "I see the moon.",
+   "example_vi": "Tớ thấy mặt trăng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W02",
+   "type": "word",
+   "en": "star",
+   "vi": "ngôi sao",
+   "ipa": "/stɑr/",
+   "syllables": [
+    "star"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "I see a star.",
+   "example_vi": "Tớ thấy một ngôi sao.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-L01",
+   "type": "letter",
+   "en": "v",
+   "vi": "chữ v",
+   "letter": "v",
+   "sound": "/v/",
+   "tip_vi": "Âm \"v\": răng trên chạm môi dưới và rung cổ: vvv.",
+   "sound_words": [
+    "van",
+    "vet"
+   ],
+   "image": {
+    "emoji": "1F690"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/v/",
+   "syllables": [
+    "v"
+   ],
+   "phonics": "sound_v",
+   "example_en": "",
+   "example_vi": "Âm \"v\": răng trên chạm môi dưới và rung cổ: vvv.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U09-W03",
+   "type": "word",
+   "en": "van",
+   "vi": "xe tải nhỏ",
+   "ipa": "/væn/",
+   "syllables": [
+    "van"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F690"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "It's a white van.",
+   "example_vi": "Đó là chiếc xe tải nhỏ màu trắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W04",
+   "type": "word",
+   "en": "vet",
+   "vi": "bác sĩ thú y",
+   "ipa": "/vɛt/",
+   "syllables": [
+    "vet"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1FA7A"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "The vet is good.",
+   "example_vi": "Bác sĩ thú y rất giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W05",
+   "type": "word",
+   "en": "tree",
+   "vi": "cái cây",
+   "ipa": "/tri/",
+   "syllables": [
+    "tree"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F333"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "It's a big tree.",
+   "example_vi": "Đó là một cái cây to.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W06",
+   "type": "word",
+   "en": "flower",
+   "vi": "bông hoa",
+   "ipa": "/flaʊʌr/",
+   "syllables": [
+    "flower"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F33C"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "I like the flower.",
+   "example_vi": "Tớ thích bông hoa.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W07",
+   "type": "word",
+   "en": "book",
+   "vi": "quyển sách",
+   "ipa": "/bʊk/",
+   "syllables": [
+    "book"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4D5"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "I have a book.",
+   "example_vi": "Tớ có một quyển sách.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-L02",
+   "type": "letter",
+   "en": "y",
+   "vi": "chữ y",
+   "letter": "y",
+   "sound": "/j/",
+   "tip_vi": "Âm \"y\": đọc lướt giống \"d\" miền Nam trong tiếng Việt: y-y.",
+   "sound_words": [
+    "yes",
+    "yellow"
+   ],
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/j/",
+   "syllables": [
+    "y"
+   ],
+   "phonics": "sound_y",
+   "example_en": "",
+   "example_vi": "Âm \"y\": đọc lướt giống \"d\" miền Nam trong tiếng Việt: y-y.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U09-W08",
+   "type": "word",
+   "en": "bag",
+   "vi": "cái cặp",
+   "ipa": "/bæɡ/",
+   "syllables": [
+    "bag"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F392"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "This is my bag.",
+   "example_vi": "Đây là cặp của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U09-W09",
+   "type": "word",
+   "en": "bed",
+   "vi": "cái giường",
+   "ipa": "/bɛd/",
+   "syllables": [
+    "bed"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": true,
+   "cat": "L0U09",
+   "example_en": "It's my bed.",
+   "example_vi": "Đó là giường của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U09-P01",
+   "en": "I see a {x}.",
+   "vi": "Tớ thấy {x}.",
+   "slots": {
+    "x": [
+     "star",
+     "tree",
+     "flower",
+     "bird"
+    ]
+   }
+  },
+  {
+   "id": "L0U09-P02",
+   "en": "This is my {x}.",
+   "vi": "Đây là {x} của tớ.",
+   "slots": {
+    "x": [
+     "bag",
+     "book",
+     "pen",
+     "hat"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U09-D01",
+   "title_vi": "Cậu thấy gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What do you see?",
+     "vi": "Cậu thấy gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I see a star.",
+     "vi": "Tớ thấy một ngôi sao."
+    },
+    {
+     "role": "Bi",
+     "en": "I see the moon!",
+     "vi": "Tớ thấy mặt trăng!"
+    },
+    {
+     "role": "Kid",
+     "en": "It's so big!",
+     "vi": "Nó to quá!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "star",
+    "options": [
+     "flower",
+     "tree",
+     "bird"
+    ]
+   }
+  },
+  {
+   "id": "L0U09-D02",
+   "title_vi": "Cặp của tớ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Is this your bag?",
+     "vi": "Đây là cặp của cậu à?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! This is my bag.",
+     "vi": "Ừ! Đây là cặp của tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "I like your bag.",
+     "vi": "Tớ thích cặp của cậu."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, Bi!",
+     "vi": "Cảm ơn Bi!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "bag",
+    "options": [
+     "hat",
+     "book",
+     "pen"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "V"
+  },
+  {
+   "type": "trace_letter",
+   "target": "v"
+  },
+  {
+   "type": "trace_letter",
+   "target": "Y"
+  },
+  {
+   "type": "trace_letter",
+   "target": "y"
+  },
+  {
+   "type": "trace_letter",
+   "target": "m"
+  },
+  {
+   "type": "trace_letter",
+   "target": "s"
+  },
+  {
+   "type": "trace_letter",
+   "target": "t"
+  },
+  {
+   "type": "trace_letter",
+   "target": "f"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "moon",
+   "item": "moon",
+   "options": [
+    "book",
+    "flower",
+    "moon"
+   ],
+   "answer": "moon"
+  },
+  {
+   "id": "L0U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "star",
+   "item": "star",
+   "options": [
+    "vet",
+    "star",
+    "bed"
+   ],
+   "answer": "star"
+  },
+  {
+   "id": "L0U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "van",
+   "item": "van",
+   "options": [
+    "star",
+    "tree",
+    "van"
+   ],
+   "answer": "van"
+  },
+  {
+   "id": "L0U09-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "vet",
+   "item": "vet",
+   "options": [
+    "tree",
+    "vet",
+    "bed"
+   ],
+   "answer": "vet"
+  },
+  {
+   "id": "L0U09-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tree",
+   "item": "tree",
+   "options": [
+    "vet",
+    "tree",
+    "bed"
+   ],
+   "answer": "tree"
+  },
+  {
+   "id": "L0U09-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "flower",
+   "item": "flower",
+   "options": [
+    "vet",
+    "flower",
+    "book"
+   ],
+   "answer": "flower"
+  },
+  {
+   "id": "L0U09-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "book",
+   "item": "book",
+   "options": [
+    "tree",
+    "bed",
+    "book"
+   ],
+   "answer": "book"
+  },
+  {
+   "id": "L0U09-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bag",
+   "item": "bag",
+   "options": [
+    "bed",
+    "bag",
+    "moon"
+   ],
+   "answer": "bag"
+  },
+  {
+   "id": "L0U09-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bed",
+   "item": "bed",
+   "options": [
+    "bed",
+    "van",
+    "tree"
+   ],
+   "answer": "bed"
+  },
+  {
+   "id": "L0U09-Q010",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the moon orange.",
+   "item": "moon",
+   "options": [
+    "bag",
+    "vet",
+    "moon"
+   ],
+   "answer": "moon",
+   "color": "orange"
+  },
+  {
+   "id": "L0U09-Q011",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the star red.",
+   "item": "star",
+   "options": [
+    "bag",
+    "book",
+    "star"
+   ],
+   "answer": "star",
+   "color": "red"
+  },
+  {
+   "id": "L0U09-Q012",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the van blue.",
+   "item": "van",
+   "options": [
+    "van",
+    "moon",
+    "tree"
+   ],
+   "answer": "van",
+   "color": "blue"
+  },
+  {
+   "id": "L0U09-Q013",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the vet yellow.",
+   "item": "vet",
+   "options": [
+    "tree",
+    "vet",
+    "bed"
+   ],
+   "answer": "vet",
+   "color": "yellow"
+  },
+  {
+   "id": "L0U09-Q014",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "moon",
+   "answer": "moon"
+  },
+  {
+   "id": "L0U09-Q015",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "star",
+   "answer": "star"
+  },
+  {
+   "id": "L0U09-Q016",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "van",
+   "answer": "van"
+  },
+  {
+   "id": "L0U09-Q017",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "vet",
+   "answer": "vet"
+  },
+  {
+   "id": "L0U09-Q018",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tree",
+   "answer": "tree"
+  },
+  {
+   "id": "L0U09-Q019",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "flower",
+   "answer": "flower"
+  },
+  {
+   "id": "L0U09-Q020",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "book",
+   "answer": "book"
+  },
+  {
+   "id": "L0U09-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bag",
+   "answer": "bag"
+  },
+  {
+   "id": "L0U09-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bed",
+   "answer": "bed"
+  },
+  {
+   "id": "L0U09-Q023",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see the moon.",
+   "item": "moon",
+   "answer": "I see the moon."
+  },
+  {
+   "id": "L0U09-Q024",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a star.",
+   "item": "star",
+   "answer": "I see a star."
+  },
+  {
+   "id": "L0U09-Q025",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a white van.",
+   "item": "van",
+   "answer": "It's a white van."
+  },
+  {
+   "id": "L0U09-Q026",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The vet is good.",
+   "item": "vet",
+   "answer": "The vet is good."
+  },
+  {
+   "id": "L0U09-Q027",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a big tree.",
+   "item": "tree",
+   "answer": "It's a big tree."
+  },
+  {
+   "id": "L0U09-Q028",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the flower.",
+   "item": "flower",
+   "answer": "I like the flower."
+  },
+  {
+   "id": "L0U09-Q029",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a book.",
+   "item": "book",
+   "answer": "I have a book."
+  },
+  {
+   "id": "L0U09-Q030",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my bag.",
+   "item": "bag",
+   "answer": "This is my bag."
+  },
+  {
+   "id": "L0U09-Q031",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my bed.",
+   "item": "bed",
+   "answer": "It's my bed."
+  },
+  {
+   "id": "L0U09-Q032",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a star.",
+   "answer": "I see a star."
+  },
+  {
+   "id": "L0U09-Q033",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a tree.",
+   "answer": "I see a tree."
+  },
+  {
+   "id": "L0U09-Q034",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a flower.",
+   "answer": "I see a flower."
+  },
+  {
+   "id": "L0U09-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my bag.",
+   "answer": "This is my bag."
+  },
+  {
+   "id": "L0U09-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my book.",
+   "answer": "This is my book."
+  },
+  {
+   "id": "L0U09-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my pen.",
+   "answer": "This is my pen."
+  },
+  {
+   "id": "L0U09-Q038",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do you see?",
+   "answer": "I see a star."
+  },
+  {
+   "id": "L0U09-Q039",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is this your bag?",
+   "answer": "Yes! This is my bag."
+  },
+  {
+   "id": "L0U09-Q040",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "v",
+   "options": [
+    "v",
+    "n",
+    "p"
+   ],
+   "answer": "v"
+  },
+  {
+   "id": "L0U09-Q041",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "y",
+   "options": [
+    "b",
+    "y",
+    "g"
+   ],
+   "answer": "y"
+  },
+  {
+   "id": "L0U09-Q042",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "V"
+  },
+  {
+   "id": "L0U09-Q043",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "v"
+  },
+  {
+   "id": "L0U09-Q044",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "Y"
+  },
+  {
+   "id": "L0U09-Q045",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "y"
+  },
+  {
+   "id": "L0U09-Q046",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "m"
+  },
+  {
+   "id": "L0U09-Q047",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "s"
+  },
+  {
+   "id": "L0U09-Q048",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "t"
+  },
+  {
+   "id": "L0U09-Q049",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "f"
+  },
+  {
+   "id": "L0U09-Q050",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  }
+ ]
+}

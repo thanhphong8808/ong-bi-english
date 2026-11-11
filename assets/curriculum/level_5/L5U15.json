@@ -1,0 +1,3130 @@
+{
+ "id": "L5U15",
+ "level": 5,
+ "unit": 15,
+ "topic_en": "Growing up",
+ "topic_vi": "Trưởng thành",
+ "can_do_vi": [
+  "Nói về mục tiêu và kế hoạch của bản thân",
+  "Nói về trách nhiệm, sự tự tin và việc vượt qua khó khăn"
+ ],
+ "grammar_note_vi": "Nói mục tiêu: \"I want to / hope to / plan to + động từ\": \"I hope to become a doctor.\" Nói khả năng trong tương lai: \"will be able to + động từ\": \"I will be able to drive a car.\" (Tớ sẽ có thể lái xe.)",
+ "items": [
+  {
+   "id": "L5U15-W01",
+   "type": "word",
+   "en": "aim",
+   "vi": "mục tiêu",
+   "ipa": "/eɪm/",
+   "syllables": [
+    "aim"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3AF"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My aim is to read fifty books this year.",
+   "example_vi": "Mục tiêu của tớ là đọc năm mươi cuốn sách năm nay.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W02",
+   "type": "word",
+   "en": "ambition",
+   "vi": "hoài bão",
+   "ipa": "/æmˈbɪʃən/",
+   "syllables": [
+    "am",
+    "bi",
+    "tion"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Her ambition is to become a scientist.",
+   "example_vi": "Hoài bão của bạn ấy là trở thành nhà khoa học.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W03",
+   "type": "word",
+   "en": "confident",
+   "vi": "tự tin",
+   "ipa": "/ˈkɑnfədənt/",
+   "syllables": [
+    "con",
+    "fi",
+    "dent"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F60E"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I feel confident before the test.",
+   "example_vi": "Tớ thấy tự tin trước bài kiểm tra.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W04",
+   "type": "word",
+   "en": "confidence",
+   "vi": "sự tự tin",
+   "ipa": "/ˈkɑnfədɛns/",
+   "syllables": [
+    "con",
+    "fi",
+    "dence"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Practising every day gives you confidence.",
+   "example_vi": "Luyện tập mỗi ngày giúp cậu tự tin.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W05",
+   "type": "word",
+   "en": "independent",
+   "vi": "tự lập",
+   "ipa": "/ˌɪndɪˈpɛndənt/",
+   "syllables": [
+    "in",
+    "de",
+    "pen",
+    "dent"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My sister is very independent. She can cook for herself.",
+   "example_vi": "Chị tớ rất tự lập. Chị tự nấu ăn được.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W06",
+   "type": "word",
+   "en": "responsible",
+   "vi": "có trách nhiệm",
+   "ipa": "/riˈspɑnsəbəl/",
+   "syllables": [
+    "re",
+    "spon",
+    "si",
+    "ble"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I am responsible for feeding the cat.",
+   "example_vi": "Tớ chịu trách nhiệm cho mèo ăn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W07",
+   "type": "word",
+   "en": "teenager",
+   "vi": "thanh thiếu niên",
+   "ipa": "/ˈtiˌneɪdʒər/",
+   "syllables": [
+    "teenager"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My cousin is a teenager. He is fifteen.",
+   "example_vi": "Anh họ tớ là thiếu niên. Anh ấy mười lăm tuổi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W08",
+   "type": "word",
+   "en": "age",
+   "vi": "tuổi",
+   "ipa": "/eɪdʒ/",
+   "syllables": [
+    "age"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F382"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "At your age, I liked climbing trees.",
+   "example_vi": "Ở tuổi con, bố thích trèo cây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W09",
+   "type": "phrase",
+   "en": "be able to",
+   "vi": "có thể",
+   "ipa": "/bi ˈeɪbəl tɪ/",
+   "syllables": [
+    "be",
+    "able",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I will be able to swim next summer.",
+   "example_vi": "Mùa hè tới tớ sẽ biết bơi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W10",
+   "type": "word",
+   "en": "ability",
+   "vi": "khả năng",
+   "ipa": "/əˈbɪləˌti/",
+   "syllables": [
+    "ability"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "She has the ability to learn languages fast.",
+   "example_vi": "Bạn ấy có khả năng học ngoại ngữ nhanh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W11",
+   "type": "phrase",
+   "en": "plan to",
+   "vi": "dự định",
+   "ipa": "/plæn tɪ/",
+   "syllables": [
+    "plan",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F5D2-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I plan to visit my grandparents this summer.",
+   "example_vi": "Tớ dự định thăm ông bà hè này.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W12",
+   "type": "phrase",
+   "en": "hope to",
+   "vi": "hy vọng sẽ",
+   "ipa": "/hoʊp tɪ/",
+   "syllables": [
+    "hope",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F340"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I hope to win the race.",
+   "example_vi": "Tớ hy vọng sẽ thắng cuộc đua.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W13",
+   "type": "word",
+   "en": "challenge",
+   "vi": "thử thách",
+   "ipa": "/ˈtʃæləndʒ/",
+   "syllables": [
+    "chal",
+    "lenge"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D7"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Learning the piano is a challenge.",
+   "example_vi": "Học đàn piano là một thử thách.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W14",
+   "type": "phrase",
+   "en": "give up",
+   "vi": "bỏ cuộc",
+   "ipa": "/ɡɪv ʌp/",
+   "syllables": [
+    "give",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3F3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Don't give up! You can do it!",
+   "example_vi": "Đừng bỏ cuộc! Cậu làm được mà!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W15",
+   "type": "word",
+   "en": "progress",
+   "vi": "sự tiến bộ",
+   "ipa": "/ˈprɑˌɡrɛs/",
+   "syllables": [
+    "progress"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "You are making good progress in English.",
+   "example_vi": "Con đang tiến bộ tốt môn tiếng Anh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W16",
+   "type": "phrase",
+   "en": "learn from",
+   "vi": "học hỏi từ",
+   "ipa": "/lʌrn frʌm/",
+   "syllables": [
+    "learn",
+    "from"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "We can learn from our mistakes.",
+   "example_vi": "Chúng ta có thể học hỏi từ lỗi sai.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W17",
+   "type": "word",
+   "en": "fail",
+   "vi": "thất bại, trượt",
+   "ipa": "/feɪl/",
+   "syllables": [
+    "fail"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I failed my first swimming test.",
+   "example_vi": "Tớ trượt bài kiểm tra bơi đầu tiên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W18",
+   "type": "word",
+   "en": "succeed",
+   "vi": "thành công",
+   "ipa": "/səkˈsid/",
+   "syllables": [
+    "suc",
+    "ceed"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "If you work hard, you will succeed.",
+   "example_vi": "Nếu cố gắng, cậu sẽ thành công.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W19",
+   "type": "word",
+   "en": "positive",
+   "vi": "tích cực",
+   "ipa": "/ˈpɑzətɪv/",
+   "syllables": [
+    "pos",
+    "i",
+    "tive"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Try to stay positive.",
+   "example_vi": "Hãy cố gắng luôn tích cực.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W20",
+   "type": "word",
+   "en": "negative",
+   "vi": "tiêu cực",
+   "ipa": "/ˈnɛɡətɪv/",
+   "syllables": [
+    "neg",
+    "a",
+    "tive"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "2796"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Don't have negative thoughts.",
+   "example_vi": "Đừng có suy nghĩ tiêu cực.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W21",
+   "type": "word",
+   "en": "attitude",
+   "vi": "thái độ",
+   "ipa": "/ˈætəˌtud/",
+   "syllables": [
+    "at",
+    "ti",
+    "tude"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F60A"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "She has a great attitude.",
+   "example_vi": "Bạn ấy có thái độ rất tốt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W22",
+   "type": "word",
+   "en": "routine",
+   "vi": "thói quen hằng ngày",
+   "ipa": "/ruˈtin/",
+   "syllables": [
+    "rou",
+    "tine"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My morning routine starts at six o'clock.",
+   "example_vi": "Thói quen buổi sáng của tớ bắt đầu lúc sáu giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W23",
+   "type": "word",
+   "en": "manage",
+   "vi": "xoay xở, quản lý",
+   "ipa": "/ˈmænɪdʒ/",
+   "syllables": [
+    "man",
+    "age"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I can manage my time well.",
+   "example_vi": "Tớ có thể quản lý thời gian tốt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W24",
+   "type": "word",
+   "en": "advice",
+   "vi": "lời khuyên",
+   "ipa": "/ədˈvaɪs/",
+   "syllables": [
+    "ad",
+    "vice"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My grandma gives me good advice.",
+   "example_vi": "Bà cho tớ những lời khuyên hay.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W25",
+   "type": "word",
+   "en": "experience",
+   "vi": "trải nghiệm",
+   "ipa": "/ɪkˈspɪriəns/",
+   "syllables": [
+    "ex",
+    "pe",
+    "ri",
+    "ence"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9F3"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Camping was a great experience.",
+   "example_vi": "Cắm trại là một trải nghiệm tuyệt vời.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W26",
+   "type": "word",
+   "en": "weakness",
+   "vi": "điểm yếu",
+   "ipa": "/ˈwiknəs/",
+   "syllables": [
+    "weak",
+    "ness"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F940"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My weakness is spelling.",
+   "example_vi": "Điểm yếu của tớ là chính tả.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W27",
+   "type": "word",
+   "en": "personality",
+   "vi": "tính cách",
+   "ipa": "/ˌpərsəˈnælɪti/",
+   "syllables": [
+    "per",
+    "son",
+    "al",
+    "i",
+    "ty"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9E9"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "She has a friendly personality.",
+   "example_vi": "Bạn ấy có tính cách thân thiện.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W28",
+   "type": "word",
+   "en": "stressed",
+   "vi": "căng thẳng",
+   "ipa": "/strɛst/",
+   "syllables": [
+    "stressed"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F62B"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I feel stressed before exams.",
+   "example_vi": "Tớ thấy căng thẳng trước kỳ thi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W29",
+   "type": "word",
+   "en": "career",
+   "vi": "sự nghiệp",
+   "ipa": "/kərɪr/",
+   "syllables": [
+    "career"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4BC"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "She wants a career in science.",
+   "example_vi": "Bạn ấy muốn theo nghề khoa học.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W30",
+   "type": "word",
+   "en": "graduate",
+   "vi": "tốt nghiệp",
+   "ipa": "/ˈɡrædʒəˌweɪt/",
+   "syllables": [
+    "grad",
+    "u",
+    "ate"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F393"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My brother graduated from university last year.",
+   "example_vi": "Anh tớ tốt nghiệp đại học năm ngoái.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W31",
+   "type": "word",
+   "en": "freedom",
+   "vi": "sự tự do",
+   "ipa": "/ˈfridəm/",
+   "syllables": [
+    "free",
+    "dom"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Teenagers want more freedom.",
+   "example_vi": "Thanh thiếu niên muốn được tự do hơn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W32",
+   "type": "phrase",
+   "en": "believe in yourself",
+   "vi": "tin vào bản thân",
+   "ipa": "/bɪˈliv ɪn ˈjɔrsɛlf/",
+   "syllables": [
+    "be",
+    "lieve",
+    "in",
+    "your",
+    "self"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F496"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Believe in yourself, and you can do anything.",
+   "example_vi": "Hãy tin vào bản thân, cậu có thể làm được mọi điều.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W33",
+   "type": "phrase",
+   "en": "role model",
+   "vi": "tấm gương",
+   "ipa": "/roʊl ˈmɑdəl/",
+   "syllables": [
+    "role",
+    "mod",
+    "el"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "My mum is my role model.",
+   "example_vi": "Mẹ là tấm gương của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W34",
+   "type": "word",
+   "en": "inspire",
+   "vi": "truyền cảm hứng",
+   "ipa": "/ˌɪnˈspaɪr/",
+   "syllables": [
+    "in",
+    "spire"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Her story inspired me to try harder.",
+   "example_vi": "Câu chuyện của cô ấy truyền cảm hứng cho tớ cố gắng hơn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W35",
+   "type": "word",
+   "en": "determined",
+   "vi": "quyết tâm",
+   "ipa": "/dɪˈtʌrmənd/",
+   "syllables": [
+    "de",
+    "ter",
+    "mined"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "He was determined to finish the race.",
+   "example_vi": "Bạn ấy quyết tâm về đích.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W36",
+   "type": "phrase",
+   "en": "hard work",
+   "vi": "sự chăm chỉ",
+   "ipa": "/hɑrd wʌrk/",
+   "syllables": [
+    "hard",
+    "work"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F41C"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Success comes from hard work.",
+   "example_vi": "Thành công đến từ sự chăm chỉ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W37",
+   "type": "phrase",
+   "en": "step by step",
+   "vi": "từng bước một",
+   "ipa": "/stɛp baɪ stɛp/",
+   "syllables": [
+    "step",
+    "by",
+    "step"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Learn English step by step.",
+   "example_vi": "Học tiếng Anh từng bước một.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W38",
+   "type": "phrase",
+   "en": "on my own",
+   "vi": "tự mình",
+   "ipa": "/ɔn maɪ oʊn/",
+   "syllables": [
+    "on",
+    "my",
+    "own"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I made breakfast on my own!",
+   "example_vi": "Tớ tự làm bữa sáng!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W39",
+   "type": "word",
+   "en": "achievement",
+   "vi": "thành tích",
+   "ipa": "/əˈtʃivmənt/",
+   "syllables": [
+    "achievement"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3C5"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Winning the competition was a big achievement.",
+   "example_vi": "Thắng cuộc thi là một thành tích lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W40",
+   "type": "word",
+   "en": "certificate",
+   "vi": "giấy chứng nhận",
+   "ipa": "/sərˈtɪfɪkət/",
+   "syllables": [
+    "certificate"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "I got a certificate for my English test.",
+   "example_vi": "Tớ được giấy chứng nhận cho bài thi tiếng Anh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W41",
+   "type": "word",
+   "en": "ceremony",
+   "vi": "buổi lễ",
+   "ipa": "/ˈsɛrəˌmoʊni/",
+   "syllables": [
+    "cer",
+    "e",
+    "mo",
+    "ny"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F393"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "There was a ceremony at the end of the year.",
+   "example_vi": "Có một buổi lễ vào cuối năm học.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W42",
+   "type": "word",
+   "en": "mature",
+   "vi": "chín chắn",
+   "ipa": "/məˈtʃʊr/",
+   "syllables": [
+    "ma",
+    "ture"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "He is very mature for his age.",
+   "example_vi": "Bạn ấy rất chín chắn so với tuổi.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W43",
+   "type": "word",
+   "en": "behave",
+   "vi": "cư xử",
+   "ipa": "/bɪˈheɪv/",
+   "syllables": [
+    "be",
+    "have"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F607"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "Please behave well at the party.",
+   "example_vi": "Hãy cư xử ngoan ở bữa tiệc nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U15-W44",
+   "type": "word",
+   "en": "opportunity",
+   "vi": "cơ hội",
+   "ipa": "/ˌɑpərˈtunəti/",
+   "syllables": [
+    "op",
+    "por",
+    "tu",
+    "ni",
+    "ty"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L5U15",
+   "example_en": "This trip is a great opportunity to learn.",
+   "example_vi": "Chuyến đi này là cơ hội tuyệt vời để học hỏi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U15-P01",
+   "en": "I hope to {x}.",
+   "vi": "Tớ hy vọng sẽ {x}.",
+   "slots": {
+    "x": [
+     "win the race",
+     "become a scientist",
+     "travel the world",
+     "learn three languages"
+    ]
+   }
+  },
+  {
+   "id": "L5U15-P02",
+   "en": "I will be able to {x}.",
+   "vi": "Tớ sẽ có thể {x}.",
+   "slots": {
+    "x": [
+     "swim",
+     "drive a car",
+     "cook dinner",
+     "speak English well"
+    ]
+   }
+  },
+  {
+   "id": "L5U15-P03",
+   "en": "My role model is {x}.",
+   "vi": "Tấm gương của tớ là {x}.",
+   "slots": {
+    "x": [
+     "my mum",
+     "my teacher",
+     "my grandpa"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U15-D01",
+   "title_vi": "Đừng bỏ cuộc",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "I failed my swimming test again. I want to give up.",
+     "vi": "Tớ lại trượt bài kiểm tra bơi rồi. Tớ muốn bỏ cuộc."
+    },
+    {
+     "role": "Bi",
+     "en": "Don't give up! You are making progress.",
+     "vi": "Đừng bỏ cuộc! Cậu đang tiến bộ mà."
+    },
+    {
+     "role": "Kid",
+     "en": "Do you really think so?",
+     "vi": "Cậu thật sự nghĩ vậy à?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes. Last month you couldn't swim at all. Now you can swim ten metres!",
+     "vi": "Đúng thế. Tháng trước cậu chưa bơi được. Giờ cậu bơi được mười mét!"
+    },
+    {
+     "role": "Kid",
+     "en": "That's true. I'll keep practising.",
+     "vi": "Đúng thật. Tớ sẽ tiếp tục luyện tập."
+    },
+    {
+     "role": "Bi",
+     "en": "Believe in yourself. Step by step!",
+     "vi": "Hãy tin vào bản thân. Từng bước một nhé!"
+    }
+   ]
+  },
+  {
+   "id": "L5U15-D02",
+   "title_vi": "Mục tiêu năm học",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your aim for this school year?",
+     "vi": "Mục tiêu năm học này của cậu là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I want to improve my spelling. It's my weakness.",
+     "vi": "Tớ muốn cải thiện chính tả. Đó là điểm yếu của tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "How will you do that?",
+     "vi": "Cậu sẽ làm thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I plan to practise ten words every day.",
+     "vi": "Tớ định luyện mười từ mỗi ngày."
+    },
+    {
+     "role": "Bi",
+     "en": "Great plan! I'm sure you will succeed.",
+     "vi": "Kế hoạch hay! Tớ chắc cậu sẽ thành công."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "aim"
+  },
+  {
+   "type": "dictate_word",
+   "target": "ambition"
+  },
+  {
+   "type": "dictate_word",
+   "target": "confident"
+  },
+  {
+   "type": "dictate_word",
+   "target": "confidence"
+  },
+  {
+   "type": "dictate_word",
+   "target": "independent"
+  },
+  {
+   "type": "dictate_word",
+   "target": "responsible"
+  },
+  {
+   "type": "dictate_word",
+   "target": "teenager"
+  },
+  {
+   "type": "dictate_word",
+   "target": "age"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Her ambition is to become a scientist."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I feel confident before the test."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Practising every day gives you confidence."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My aim this year is|I hope to|When I grow up, I will be able to"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U15-R01",
+   "title_en": "Growing up",
+   "text_en": [
+    "Growing up is an exciting journey.",
+    "When you are a baby, your parents do everything for you.",
+    "As you get older, you learn to do more things on your own.",
+    "You learn to tie your shoes, make your bed and pack your school bag.",
+    "Later, you will be able to cook simple meals and look after younger children.",
+    "Growing up also means being responsible.",
+    "You keep your promises, help at home and manage your time.",
+    "It is not always easy.",
+    "Sometimes you will fail, but you can learn from your mistakes.",
+    "The most important thing is to believe in yourself and never give up."
+   ],
+   "questions": [
+    {
+     "q": "What do your parents do when you are a baby?",
+     "options": [
+      "Everything for you.",
+      "Nothing.",
+      "Only cooking."
+     ],
+     "answer": "Everything for you."
+    },
+    {
+     "q": "What does growing up also mean?",
+     "options": [
+      "Being responsible.",
+      "Playing all day.",
+      "Never making mistakes."
+     ],
+     "answer": "Being responsible."
+    },
+    {
+     "q": "What is the most important thing?",
+     "options": [
+      "To believe in yourself and never give up.",
+      "To be rich.",
+      "To be the best at everything."
+     ],
+     "answer": "To believe in yourself and never give up."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U15-Q001",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "aim",
+   "item": "aim",
+   "options": [
+    "aim",
+    "determined",
+    "advice",
+    "independent"
+   ],
+   "answer": "aim"
+  },
+  {
+   "id": "L5U15-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ambition",
+   "item": "ambition",
+   "options": [
+    "role model",
+    "give up",
+    "ambition",
+    "personality"
+   ],
+   "answer": "ambition"
+  },
+  {
+   "id": "L5U15-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "confident",
+   "item": "confident",
+   "options": [
+    "succeed",
+    "weakness",
+    "inspire",
+    "confident"
+   ],
+   "answer": "confident"
+  },
+  {
+   "id": "L5U15-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "confidence",
+   "item": "confidence",
+   "options": [
+    "manage",
+    "stressed",
+    "inspire",
+    "confidence"
+   ],
+   "answer": "confidence"
+  },
+  {
+   "id": "L5U15-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "independent",
+   "item": "independent",
+   "options": [
+    "independent",
+    "believe in yourself",
+    "freedom",
+    "attitude"
+   ],
+   "answer": "independent"
+  },
+  {
+   "id": "L5U15-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "responsible",
+   "item": "responsible",
+   "options": [
+    "responsible",
+    "hope to",
+    "career",
+    "teenager"
+   ],
+   "answer": "responsible"
+  },
+  {
+   "id": "L5U15-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "teenager",
+   "item": "teenager",
+   "options": [
+    "teenager",
+    "freedom",
+    "weakness",
+    "positive"
+   ],
+   "answer": "teenager"
+  },
+  {
+   "id": "L5U15-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "age",
+   "item": "age",
+   "options": [
+    "plan to",
+    "routine",
+    "weakness",
+    "age"
+   ],
+   "answer": "age"
+  },
+  {
+   "id": "L5U15-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "be able to",
+   "item": "be able to",
+   "options": [
+    "be able to",
+    "progress",
+    "personality",
+    "teenager"
+   ],
+   "answer": "be able to"
+  },
+  {
+   "id": "L5U15-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ability",
+   "item": "ability",
+   "options": [
+    "ability",
+    "challenge",
+    "responsible",
+    "fail"
+   ],
+   "answer": "ability"
+  },
+  {
+   "id": "L5U15-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "plan to",
+   "item": "plan to",
+   "options": [
+    "experience",
+    "freedom",
+    "plan to",
+    "hard work"
+   ],
+   "answer": "plan to"
+  },
+  {
+   "id": "L5U15-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hope to",
+   "item": "hope to",
+   "options": [
+    "hope to",
+    "weakness",
+    "fail",
+    "learn from"
+   ],
+   "answer": "hope to"
+  },
+  {
+   "id": "L5U15-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "challenge",
+   "item": "challenge",
+   "options": [
+    "manage",
+    "age",
+    "challenge",
+    "weakness"
+   ],
+   "answer": "challenge"
+  },
+  {
+   "id": "L5U15-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "give up",
+   "item": "give up",
+   "options": [
+    "weakness",
+    "age",
+    "give up",
+    "challenge"
+   ],
+   "answer": "give up"
+  },
+  {
+   "id": "L5U15-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "progress",
+   "item": "progress",
+   "options": [
+    "achievement",
+    "progress",
+    "routine",
+    "ability"
+   ],
+   "answer": "progress"
+  },
+  {
+   "id": "L5U15-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "learn from",
+   "item": "learn from",
+   "options": [
+    "believe in yourself",
+    "be able to",
+    "teenager",
+    "learn from"
+   ],
+   "answer": "learn from"
+  },
+  {
+   "id": "L5U15-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fail",
+   "item": "fail",
+   "options": [
+    "ambition",
+    "fail",
+    "plan to",
+    "graduate"
+   ],
+   "answer": "fail"
+  },
+  {
+   "id": "L5U15-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "succeed",
+   "item": "succeed",
+   "options": [
+    "age",
+    "learn from",
+    "challenge",
+    "succeed"
+   ],
+   "answer": "succeed"
+  },
+  {
+   "id": "L5U15-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "positive",
+   "item": "positive",
+   "options": [
+    "ability",
+    "inspire",
+    "positive",
+    "routine"
+   ],
+   "answer": "positive"
+  },
+  {
+   "id": "L5U15-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "negative",
+   "item": "negative",
+   "options": [
+    "ability",
+    "inspire",
+    "negative",
+    "opportunity"
+   ],
+   "answer": "negative"
+  },
+  {
+   "id": "L5U15-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "attitude",
+   "item": "attitude",
+   "options": [
+    "be able to",
+    "advice",
+    "attitude",
+    "behave"
+   ],
+   "answer": "attitude"
+  },
+  {
+   "id": "L5U15-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "routine",
+   "item": "routine",
+   "options": [
+    "fail",
+    "routine",
+    "personality",
+    "negative"
+   ],
+   "answer": "routine"
+  },
+  {
+   "id": "L5U15-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "manage",
+   "item": "manage",
+   "options": [
+    "confidence",
+    "manage",
+    "hope to",
+    "responsible"
+   ],
+   "answer": "manage"
+  },
+  {
+   "id": "L5U15-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "advice",
+   "item": "advice",
+   "options": [
+    "inspire",
+    "personality",
+    "advice",
+    "fail"
+   ],
+   "answer": "advice"
+  },
+  {
+   "id": "L5U15-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "experience",
+   "item": "experience",
+   "options": [
+    "succeed",
+    "attitude",
+    "experience",
+    "ability"
+   ],
+   "answer": "experience"
+  },
+  {
+   "id": "L5U15-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "weakness",
+   "item": "weakness",
+   "options": [
+    "personality",
+    "negative",
+    "confidence",
+    "weakness"
+   ],
+   "answer": "weakness"
+  },
+  {
+   "id": "L5U15-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "personality",
+   "item": "personality",
+   "options": [
+    "learn from",
+    "hard work",
+    "succeed",
+    "personality"
+   ],
+   "answer": "personality"
+  },
+  {
+   "id": "L5U15-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stressed",
+   "item": "stressed",
+   "options": [
+    "stressed",
+    "determined",
+    "positive",
+    "on my own"
+   ],
+   "answer": "stressed"
+  },
+  {
+   "id": "L5U15-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "career",
+   "item": "career",
+   "options": [
+    "role model",
+    "advice",
+    "career",
+    "age"
+   ],
+   "answer": "career"
+  },
+  {
+   "id": "L5U15-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "graduate",
+   "item": "graduate",
+   "options": [
+    "aim",
+    "inspire",
+    "graduate",
+    "career"
+   ],
+   "answer": "graduate"
+  },
+  {
+   "id": "L5U15-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "freedom",
+   "item": "freedom",
+   "options": [
+    "progress",
+    "determined",
+    "routine",
+    "freedom"
+   ],
+   "answer": "freedom"
+  },
+  {
+   "id": "L5U15-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "believe in yourself",
+   "item": "believe in yourself",
+   "options": [
+    "challenge",
+    "believe in yourself",
+    "aim",
+    "age"
+   ],
+   "answer": "believe in yourself"
+  },
+  {
+   "id": "L5U15-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "role model",
+   "item": "role model",
+   "options": [
+    "negative",
+    "role model",
+    "be able to",
+    "progress"
+   ],
+   "answer": "role model"
+  },
+  {
+   "id": "L5U15-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "inspire",
+   "item": "inspire",
+   "options": [
+    "freedom",
+    "positive",
+    "inspire",
+    "ceremony"
+   ],
+   "answer": "inspire"
+  },
+  {
+   "id": "L5U15-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "determined",
+   "item": "determined",
+   "options": [
+    "personality",
+    "determined",
+    "inspire",
+    "ceremony"
+   ],
+   "answer": "determined"
+  },
+  {
+   "id": "L5U15-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hard work",
+   "item": "hard work",
+   "options": [
+    "ceremony",
+    "routine",
+    "hard work",
+    "independent"
+   ],
+   "answer": "hard work"
+  },
+  {
+   "id": "L5U15-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "step by step",
+   "item": "step by step",
+   "options": [
+    "personality",
+    "age",
+    "ambition",
+    "step by step"
+   ],
+   "answer": "step by step"
+  },
+  {
+   "id": "L5U15-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "on my own",
+   "item": "on my own",
+   "options": [
+    "attitude",
+    "experience",
+    "on my own",
+    "behave"
+   ],
+   "answer": "on my own"
+  },
+  {
+   "id": "L5U15-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "achievement",
+   "item": "achievement",
+   "options": [
+    "experience",
+    "role model",
+    "teenager",
+    "achievement"
+   ],
+   "answer": "achievement"
+  },
+  {
+   "id": "L5U15-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "certificate",
+   "item": "certificate",
+   "options": [
+    "inspire",
+    "experience",
+    "independent",
+    "certificate"
+   ],
+   "answer": "certificate"
+  },
+  {
+   "id": "L5U15-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ceremony",
+   "item": "ceremony",
+   "options": [
+    "plan to",
+    "ceremony",
+    "career",
+    "give up"
+   ],
+   "answer": "ceremony"
+  },
+  {
+   "id": "L5U15-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mature",
+   "item": "mature",
+   "options": [
+    "inspire",
+    "on my own",
+    "mature",
+    "certificate"
+   ],
+   "answer": "mature"
+  },
+  {
+   "id": "L5U15-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "behave",
+   "item": "behave",
+   "options": [
+    "behave",
+    "advice",
+    "on my own",
+    "personality"
+   ],
+   "answer": "behave"
+  },
+  {
+   "id": "L5U15-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "opportunity",
+   "item": "opportunity",
+   "options": [
+    "opportunity",
+    "graduate",
+    "career",
+    "routine"
+   ],
+   "answer": "opportunity"
+  },
+  {
+   "id": "L5U15-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My aim is to read fifty books this year.",
+   "item": "aim",
+   "answer": "My aim is to read fifty books this year."
+  },
+  {
+   "id": "L5U15-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Her ambition is to become a scientist.",
+   "item": "ambition",
+   "answer": "Her ambition is to become a scientist."
+  },
+  {
+   "id": "L5U15-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel confident before the test.",
+   "item": "confident",
+   "answer": "I feel confident before the test."
+  },
+  {
+   "id": "L5U15-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Practising every day gives you confidence.",
+   "item": "confidence",
+   "answer": "Practising every day gives you confidence."
+  },
+  {
+   "id": "L5U15-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister is very independent. She can cook for herself.",
+   "item": "independent",
+   "answer": "My sister is very independent. She can cook for herself."
+  },
+  {
+   "id": "L5U15-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I am responsible for feeding the cat.",
+   "item": "responsible",
+   "answer": "I am responsible for feeding the cat."
+  },
+  {
+   "id": "L5U15-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin is a teenager. He is fifteen.",
+   "item": "teenager",
+   "answer": "My cousin is a teenager. He is fifteen."
+  },
+  {
+   "id": "L5U15-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "At your age, I liked climbing trees.",
+   "item": "age",
+   "answer": "At your age, I liked climbing trees."
+  },
+  {
+   "id": "L5U15-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will be able to swim next summer.",
+   "item": "be able to",
+   "answer": "I will be able to swim next summer."
+  },
+  {
+   "id": "L5U15-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has the ability to learn languages fast.",
+   "item": "ability",
+   "answer": "She has the ability to learn languages fast."
+  },
+  {
+   "id": "L5U15-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I plan to visit my grandparents this summer.",
+   "item": "plan to",
+   "answer": "I plan to visit my grandparents this summer."
+  },
+  {
+   "id": "L5U15-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope to win the race.",
+   "item": "hope to",
+   "answer": "I hope to win the race."
+  },
+  {
+   "id": "L5U15-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Learning the piano is a challenge.",
+   "item": "challenge",
+   "answer": "Learning the piano is a challenge."
+  },
+  {
+   "id": "L5U15-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't give up! You can do it!",
+   "item": "give up",
+   "answer": "Don't give up! You can do it!"
+  },
+  {
+   "id": "L5U15-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You are making good progress in English.",
+   "item": "progress",
+   "answer": "You are making good progress in English."
+  },
+  {
+   "id": "L5U15-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We can learn from our mistakes.",
+   "item": "learn from",
+   "answer": "We can learn from our mistakes."
+  },
+  {
+   "id": "L5U15-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I failed my first swimming test.",
+   "item": "fail",
+   "answer": "I failed my first swimming test."
+  },
+  {
+   "id": "L5U15-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "If you work hard, you will succeed.",
+   "item": "succeed",
+   "answer": "If you work hard, you will succeed."
+  },
+  {
+   "id": "L5U15-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Try to stay positive.",
+   "item": "positive",
+   "answer": "Try to stay positive."
+  },
+  {
+   "id": "L5U15-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't have negative thoughts.",
+   "item": "negative",
+   "answer": "Don't have negative thoughts."
+  },
+  {
+   "id": "L5U15-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has a great attitude.",
+   "item": "attitude",
+   "answer": "She has a great attitude."
+  },
+  {
+   "id": "L5U15-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My morning routine starts at six o'clock.",
+   "item": "routine",
+   "answer": "My morning routine starts at six o'clock."
+  },
+  {
+   "id": "L5U15-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can manage my time well.",
+   "item": "manage",
+   "answer": "I can manage my time well."
+  },
+  {
+   "id": "L5U15-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandma gives me good advice.",
+   "item": "advice",
+   "answer": "My grandma gives me good advice."
+  },
+  {
+   "id": "L5U15-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Camping was a great experience.",
+   "item": "experience",
+   "answer": "Camping was a great experience."
+  },
+  {
+   "id": "L5U15-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My weakness is spelling.",
+   "item": "weakness",
+   "answer": "My weakness is spelling."
+  },
+  {
+   "id": "L5U15-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has a friendly personality.",
+   "item": "personality",
+   "answer": "She has a friendly personality."
+  },
+  {
+   "id": "L5U15-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel stressed before exams.",
+   "item": "stressed",
+   "answer": "I feel stressed before exams."
+  },
+  {
+   "id": "L5U15-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She wants a career in science.",
+   "item": "career",
+   "answer": "She wants a career in science."
+  },
+  {
+   "id": "L5U15-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother graduated from university last year.",
+   "item": "graduate",
+   "answer": "My brother graduated from university last year."
+  },
+  {
+   "id": "L5U15-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Teenagers want more freedom.",
+   "item": "freedom",
+   "answer": "Teenagers want more freedom."
+  },
+  {
+   "id": "L5U15-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Believe in yourself, and you can do anything.",
+   "item": "believe in yourself",
+   "answer": "Believe in yourself, and you can do anything."
+  },
+  {
+   "id": "L5U15-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum is my role model.",
+   "item": "role model",
+   "answer": "My mum is my role model."
+  },
+  {
+   "id": "L5U15-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Her story inspired me to try harder.",
+   "item": "inspire",
+   "answer": "Her story inspired me to try harder."
+  },
+  {
+   "id": "L5U15-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He was determined to finish the race.",
+   "item": "determined",
+   "answer": "He was determined to finish the race."
+  },
+  {
+   "id": "L5U15-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Success comes from hard work.",
+   "item": "hard work",
+   "answer": "Success comes from hard work."
+  },
+  {
+   "id": "L5U15-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Learn English step by step.",
+   "item": "step by step",
+   "answer": "Learn English step by step."
+  },
+  {
+   "id": "L5U15-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I made breakfast on my own!",
+   "item": "on my own",
+   "answer": "I made breakfast on my own!"
+  },
+  {
+   "id": "L5U15-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Winning the competition was a big achievement.",
+   "item": "achievement",
+   "answer": "Winning the competition was a big achievement."
+  },
+  {
+   "id": "L5U15-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got a certificate for my English test.",
+   "item": "certificate",
+   "answer": "I got a certificate for my English test."
+  },
+  {
+   "id": "L5U15-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There was a ceremony at the end of the year.",
+   "item": "ceremony",
+   "answer": "There was a ceremony at the end of the year."
+  },
+  {
+   "id": "L5U15-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is very mature for his age.",
+   "item": "mature",
+   "answer": "He is very mature for his age."
+  },
+  {
+   "id": "L5U15-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please behave well at the party.",
+   "item": "behave",
+   "answer": "Please behave well at the party."
+  },
+  {
+   "id": "L5U15-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This trip is a great opportunity to learn.",
+   "item": "opportunity",
+   "answer": "This trip is a great opportunity to learn."
+  },
+  {
+   "id": "L5U15-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope to win the race.",
+   "answer": "I hope to win the race."
+  },
+  {
+   "id": "L5U15-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope to become a scientist.",
+   "answer": "I hope to become a scientist."
+  },
+  {
+   "id": "L5U15-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope to travel the world.",
+   "answer": "I hope to travel the world."
+  },
+  {
+   "id": "L5U15-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will be able to swim.",
+   "answer": "I will be able to swim."
+  },
+  {
+   "id": "L5U15-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will be able to drive a car.",
+   "answer": "I will be able to drive a car."
+  },
+  {
+   "id": "L5U15-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will be able to cook dinner.",
+   "answer": "I will be able to cook dinner."
+  },
+  {
+   "id": "L5U15-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My role model is my mum.",
+   "answer": "My role model is my mum."
+  },
+  {
+   "id": "L5U15-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My role model is my teacher.",
+   "answer": "My role model is my teacher."
+  },
+  {
+   "id": "L5U15-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My role model is my grandpa.",
+   "answer": "My role model is my grandpa."
+  },
+  {
+   "id": "L5U15-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you really think so?",
+   "answer": "Yes. Last month you couldn't swim at all. Now you can swim ten metres!"
+  },
+  {
+   "id": "L5U15-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your aim for this school year?",
+   "answer": "I want to improve my spelling. It's my weakness."
+  },
+  {
+   "id": "L5U15-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How will you do that?",
+   "answer": "I plan to practise ten words every day."
+  },
+  {
+   "id": "L5U15-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is to read fifty books this year.",
+   "item": "aim",
+   "options": [
+    "graduate",
+    "opportunity",
+    "aim"
+   ],
+   "answer": "aim"
+  },
+  {
+   "id": "L5U15-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Her ___ is to become a scientist.",
+   "item": "ambition",
+   "options": [
+    "stressed",
+    "ambition",
+    "determined"
+   ],
+   "answer": "ambition"
+  },
+  {
+   "id": "L5U15-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I feel ___ before the test.",
+   "item": "confident",
+   "options": [
+    "ambition",
+    "confident",
+    "manage"
+   ],
+   "answer": "confident"
+  },
+  {
+   "id": "L5U15-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Practising every day gives you ___.",
+   "item": "confidence",
+   "options": [
+    "career",
+    "personality",
+    "confidence"
+   ],
+   "answer": "confidence"
+  },
+  {
+   "id": "L5U15-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister is very ___. She can cook for herself.",
+   "item": "independent",
+   "options": [
+    "challenge",
+    "independent",
+    "teenager"
+   ],
+   "answer": "independent"
+  },
+  {
+   "id": "L5U15-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I am ___ for feeding the cat.",
+   "item": "responsible",
+   "options": [
+    "negative",
+    "responsible",
+    "succeed"
+   ],
+   "answer": "responsible"
+  },
+  {
+   "id": "L5U15-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin is a ___. He is fifteen.",
+   "item": "teenager",
+   "options": [
+    "confident",
+    "manage",
+    "teenager"
+   ],
+   "answer": "teenager"
+  },
+  {
+   "id": "L5U15-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "At your ___, I liked climbing trees.",
+   "item": "age",
+   "options": [
+    "age",
+    "progress",
+    "personality"
+   ],
+   "answer": "age"
+  },
+  {
+   "id": "L5U15-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has the ___ to learn languages fast.",
+   "item": "ability",
+   "options": [
+    "inspire",
+    "attitude",
+    "ability"
+   ],
+   "answer": "ability"
+  },
+  {
+   "id": "L5U15-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Learning the piano is a ___.",
+   "item": "challenge",
+   "options": [
+    "personality",
+    "challenge",
+    "graduate"
+   ],
+   "answer": "challenge"
+  },
+  {
+   "id": "L5U15-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You are making good ___ in English.",
+   "item": "progress",
+   "options": [
+    "personality",
+    "progress",
+    "confidence"
+   ],
+   "answer": "progress"
+  },
+  {
+   "id": "L5U15-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my first swimming test.",
+   "item": "fail",
+   "options": [
+    "stresseded",
+    "achievemented",
+    "failed"
+   ],
+   "answer": "failed"
+  },
+  {
+   "id": "L5U15-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "If you work hard, you will ___.",
+   "item": "succeed",
+   "options": [
+    "succeed",
+    "ability",
+    "challenge"
+   ],
+   "answer": "succeed"
+  },
+  {
+   "id": "L5U15-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Try to stay ___.",
+   "item": "positive",
+   "options": [
+    "progress",
+    "succeed",
+    "positive"
+   ],
+   "answer": "positive"
+  },
+  {
+   "id": "L5U15-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't have ___ thoughts.",
+   "item": "negative",
+   "options": [
+    "negative",
+    "independent",
+    "personality"
+   ],
+   "answer": "negative"
+  },
+  {
+   "id": "L5U15-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has a great ___.",
+   "item": "attitude",
+   "options": [
+    "experience",
+    "positive",
+    "attitude"
+   ],
+   "answer": "attitude"
+  },
+  {
+   "id": "L5U15-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My morning ___ starts at six o'clock.",
+   "item": "routine",
+   "options": [
+    "negative",
+    "routine",
+    "fail"
+   ],
+   "answer": "routine"
+  },
+  {
+   "id": "L5U15-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___ my time well.",
+   "item": "manage",
+   "options": [
+    "manage",
+    "advice",
+    "weakness"
+   ],
+   "answer": "manage"
+  },
+  {
+   "id": "L5U15-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandma gives me good ___.",
+   "item": "advice",
+   "options": [
+    "progress",
+    "freedom",
+    "advice"
+   ],
+   "answer": "advice"
+  },
+  {
+   "id": "L5U15-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Camping was a great ___.",
+   "item": "experience",
+   "options": [
+    "experience",
+    "opportunity",
+    "freedom"
+   ],
+   "answer": "experience"
+  },
+  {
+   "id": "L5U15-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is spelling.",
+   "item": "weakness",
+   "options": [
+    "fail",
+    "weakness",
+    "experience"
+   ],
+   "answer": "weakness"
+  },
+  {
+   "id": "L5U15-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has a friendly ___.",
+   "item": "personality",
+   "options": [
+    "opportunity",
+    "personality",
+    "behave"
+   ],
+   "answer": "personality"
+  },
+  {
+   "id": "L5U15-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I feel ___ before exams.",
+   "item": "stressed",
+   "options": [
+    "stressed",
+    "opportunity",
+    "attitude"
+   ],
+   "answer": "stressed"
+  },
+  {
+   "id": "L5U15-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She wants a ___ in science.",
+   "item": "career",
+   "options": [
+    "career",
+    "independent",
+    "experience"
+   ],
+   "answer": "career"
+  },
+  {
+   "id": "L5U15-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother ___ from university last year.",
+   "item": "graduate",
+   "options": [
+    "behaved",
+    "graduated",
+    "determineded"
+   ],
+   "answer": "graduated"
+  },
+  {
+   "id": "L5U15-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Teenagers want more ___.",
+   "item": "freedom",
+   "options": [
+    "weakness",
+    "freedom",
+    "fail"
+   ],
+   "answer": "freedom"
+  },
+  {
+   "id": "L5U15-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Her story ___ me to try harder.",
+   "item": "inspire",
+   "options": [
+    "matured",
+    "experienced",
+    "inspired"
+   ],
+   "answer": "inspired"
+  },
+  {
+   "id": "L5U15-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He was ___ to finish the race.",
+   "item": "determined",
+   "options": [
+    "succeed",
+    "determined",
+    "routine"
+   ],
+   "answer": "determined"
+  },
+  {
+   "id": "L5U15-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Winning the competition was a big ___.",
+   "item": "achievement",
+   "options": [
+    "succeed",
+    "graduate",
+    "achievement"
+   ],
+   "answer": "achievement"
+  },
+  {
+   "id": "L5U15-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I got a ___ for my English test.",
+   "item": "certificate",
+   "options": [
+    "certificate",
+    "routine",
+    "behave"
+   ],
+   "answer": "certificate"
+  },
+  {
+   "id": "L5U15-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There was a ___ at the end of the year.",
+   "item": "ceremony",
+   "options": [
+    "confidence",
+    "behave",
+    "ceremony"
+   ],
+   "answer": "ceremony"
+  },
+  {
+   "id": "L5U15-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He is very ___ for his age.",
+   "item": "mature",
+   "options": [
+    "career",
+    "succeed",
+    "mature"
+   ],
+   "answer": "mature"
+  },
+  {
+   "id": "L5U15-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please ___ well at the party.",
+   "item": "behave",
+   "options": [
+    "behave",
+    "mature",
+    "certificate"
+   ],
+   "answer": "behave"
+  },
+  {
+   "id": "L5U15-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This trip is a great ___ to learn.",
+   "item": "opportunity",
+   "options": [
+    "negative",
+    "opportunity",
+    "freedom"
+   ],
+   "answer": "opportunity"
+  },
+  {
+   "id": "L5U15-Q135",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U15-R01",
+   "text_en": "What do your parents do when you are a baby?",
+   "options": [
+    "Only cooking.",
+    "Everything for you.",
+    "Nothing."
+   ],
+   "answer": "Everything for you."
+  },
+  {
+   "id": "L5U15-Q136",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U15-R01",
+   "text_en": "What does growing up also mean?",
+   "options": [
+    "Being responsible.",
+    "Never making mistakes.",
+    "Playing all day."
+   ],
+   "answer": "Being responsible."
+  },
+  {
+   "id": "L5U15-Q137",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U15-R01",
+   "text_en": "What is the most important thing?",
+   "options": [
+    "To be the best at everything.",
+    "To believe in yourself and never give up.",
+    "To be rich."
+   ],
+   "answer": "To believe in yourself and never give up."
+  },
+  {
+   "id": "L5U15-Q138",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "aim",
+   "item": "aim",
+   "answer": "aim"
+  },
+  {
+   "id": "L5U15-Q139",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "ambition",
+   "item": "ambition",
+   "answer": "ambition"
+  },
+  {
+   "id": "L5U15-Q140",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "confident",
+   "item": "confident",
+   "answer": "confident"
+  },
+  {
+   "id": "L5U15-Q141",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "confidence",
+   "item": "confidence",
+   "answer": "confidence"
+  },
+  {
+   "id": "L5U15-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "independent",
+   "item": "independent",
+   "answer": "independent"
+  },
+  {
+   "id": "L5U15-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "responsible",
+   "item": "responsible",
+   "answer": "responsible"
+  },
+  {
+   "id": "L5U15-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "teenager",
+   "item": "teenager",
+   "answer": "teenager"
+  },
+  {
+   "id": "L5U15-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "age",
+   "item": "age",
+   "answer": "age"
+  },
+  {
+   "id": "L5U15-Q146",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Her ambition is to become a scientist.",
+   "answer": "Her ambition is to become a scientist."
+  },
+  {
+   "id": "L5U15-Q147",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I feel confident before the test.",
+   "answer": "I feel confident before the test."
+  },
+  {
+   "id": "L5U15-Q148",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Practising every day gives you confidence.",
+   "answer": "Practising every day gives you confidence."
+  }
+ ]
+}

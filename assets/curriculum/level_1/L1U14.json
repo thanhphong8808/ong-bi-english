@@ -1,0 +1,1811 @@
+{
+ "id": "L1U14",
+ "level": 1,
+ "unit": 14,
+ "topic_en": "How do you feel?",
+ "topic_vi": "Cảm xúc của bé",
+ "can_do_vi": [
+  "Nói về cảm xúc",
+  "Nói cảm ơn và xin lỗi đúng lúc"
+ ],
+ "items": [
+  {
+   "id": "L1U14-W01",
+   "type": "word",
+   "en": "feel",
+   "vi": "cảm thấy",
+   "ipa": "/fil/",
+   "syllables": [
+    "feel"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1FAC0"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I feel happy.",
+   "example_vi": "Tớ thấy vui.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W02",
+   "type": "word",
+   "en": "angry",
+   "vi": "tức giận",
+   "ipa": "/ˈæŋɡri/",
+   "syllables": [
+    "an",
+    "gry"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F620"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "The lion is angry.",
+   "example_vi": "Sư tử đang tức giận.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W03",
+   "type": "word",
+   "en": "scared",
+   "vi": "sợ",
+   "ipa": "/skɛrd/",
+   "syllables": [
+    "scared"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F628"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I'm scared of snakes.",
+   "example_vi": "Tớ sợ rắn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W04",
+   "type": "word",
+   "en": "excited",
+   "vi": "hào hứng",
+   "ipa": "/ɪkˈsaɪtɪd/",
+   "syllables": [
+    "ex",
+    "cit",
+    "ed"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F929"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I'm excited!",
+   "example_vi": "Tớ háo hức quá!",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U14-W05",
+   "type": "word",
+   "en": "bored",
+   "vi": "chán",
+   "ipa": "/bɔrd/",
+   "syllables": [
+    "bored"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F611"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I'm bored.",
+   "example_vi": "Tớ chán quá.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W06",
+   "type": "word",
+   "en": "sleepy",
+   "vi": "buồn ngủ",
+   "ipa": "/sˈlipi/",
+   "syllables": [
+    "sleepy"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F971"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "The baby is sleepy.",
+   "example_vi": "Em bé buồn ngủ.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W07",
+   "type": "word",
+   "en": "sick",
+   "vi": "ốm",
+   "ipa": "/sɪk/",
+   "syllables": [
+    "sick"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F912"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I feel sick.",
+   "example_vi": "Tớ thấy ốm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W08",
+   "type": "word",
+   "en": "fine",
+   "vi": "khoẻ, ổn",
+   "ipa": "/faɪn/",
+   "syllables": [
+    "fine"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F646"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I'm fine, thank you.",
+   "example_vi": "Tớ khoẻ, cảm ơn cậu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W09",
+   "type": "word",
+   "en": "great",
+   "vi": "tuyệt",
+   "ipa": "/ɡreɪt/",
+   "syllables": [
+    "great"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "That's great!",
+   "example_vi": "Tuyệt quá!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W10",
+   "type": "word",
+   "en": "nice",
+   "vi": "tốt bụng, đẹp",
+   "ipa": "/nis/",
+   "syllables": [
+    "nice"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F970"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "My teacher is nice.",
+   "example_vi": "Cô giáo tớ rất hiền.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W11",
+   "type": "word",
+   "en": "kind",
+   "vi": "tốt bụng",
+   "ipa": "/kaɪnd/",
+   "syllables": [
+    "kind"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F607"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "You are very kind.",
+   "example_vi": "Cậu tốt bụng quá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W12",
+   "type": "word",
+   "en": "cry",
+   "vi": "khóc",
+   "ipa": "/kraɪ/",
+   "syllables": [
+    "cry"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F62D"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "The baby can cry.",
+   "example_vi": "Em bé biết khóc.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W13",
+   "type": "word",
+   "en": "laugh",
+   "vi": "cười to",
+   "ipa": "/læf/",
+   "syllables": [
+    "laugh"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F602"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "Bi makes me laugh.",
+   "example_vi": "Bi làm tớ cười.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W14",
+   "type": "word",
+   "en": "smile",
+   "vi": "mỉm cười",
+   "ipa": "/smaɪl/",
+   "syllables": [
+    "smile"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F601"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "Smile, please!",
+   "example_vi": "Cười lên nào!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W15",
+   "type": "word",
+   "en": "hug",
+   "vi": "ôm",
+   "ipa": "/hʌɡ/",
+   "syllables": [
+    "hug"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1FAC2"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I hug my mum.",
+   "example_vi": "Tớ ôm mẹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W16",
+   "type": "word",
+   "en": "kiss",
+   "vi": "hôn (má)",
+   "ipa": "/kɪs/",
+   "syllables": [
+    "kiss"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F618"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I kiss my grandma.",
+   "example_vi": "Tớ hôn má bà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W17",
+   "type": "word",
+   "en": "problem",
+   "vi": "vấn đề",
+   "ipa": "/ˈprɑbləm/",
+   "syllables": [
+    "prob",
+    "lem"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "No problem!",
+   "example_vi": "Không sao đâu!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U14-W18",
+   "type": "word",
+   "en": "welcome",
+   "vi": "chào mừng",
+   "ipa": "/ˈwɛlkəm/",
+   "syllables": [
+    "wel",
+    "come"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F917"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "You're welcome!",
+   "example_vi": "Không có gì!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U14-W19",
+   "type": "word",
+   "en": "okay",
+   "vi": "ổn, được",
+   "ipa": "/ˌoʊˈkeɪ/",
+   "syllables": [
+    "okay"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F197"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "Are you okay?",
+   "example_vi": "Cậu ổn chứ?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U14-W20",
+   "type": "word",
+   "en": "today",
+   "vi": "hôm nay",
+   "ipa": "/təˈdeɪ/",
+   "syllables": [
+    "to",
+    "day"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4C6"
+   },
+   "picturable": true,
+   "cat": "L1U14",
+   "example_en": "I'm happy today.",
+   "example_vi": "Hôm nay tớ vui.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U14-P01",
+   "en": "I feel {x}.",
+   "vi": "Tớ thấy {x}.",
+   "slots": {
+    "x": [
+     "happy",
+     "sad",
+     "sick",
+     "excited"
+    ]
+   }
+  },
+  {
+   "id": "L1U14-P02",
+   "en": "Are you {x}?",
+   "vi": "Cậu có {x} không?",
+   "slots": {
+    "x": [
+     "okay",
+     "scared",
+     "sleepy",
+     "bored"
+    ]
+   }
+  },
+  {
+   "id": "L1U14-P03",
+   "en": "I'm {x} today.",
+   "vi": "Hôm nay tớ {x}.",
+   "slots": {
+    "x": [
+     "fine",
+     "tired",
+     "happy",
+     "excited"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U14-D01",
+   "title_vi": "Cậu ổn chứ?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Are you okay?",
+     "vi": "Cậu ổn chứ?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. I feel sad.",
+     "vi": "Không. Tớ thấy buồn."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Do you want a hug?",
+     "vi": "Ôi! Cậu có muốn ôm một cái không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, please. Thank you, Bi.",
+     "vi": "Có. Cảm ơn Bi."
+    },
+    {
+     "role": "Bi",
+     "en": "You're welcome.",
+     "vi": "Không có gì."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "sad",
+    "options": [
+     "scared",
+     "sick",
+     "tired"
+    ]
+   }
+  },
+  {
+   "id": "L1U14-D02",
+   "title_vi": "Xin lỗi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Oh no! I'm sorry, Bi.",
+     "vi": "Ôi không! Tớ xin lỗi Bi."
+    },
+    {
+     "role": "Bi",
+     "en": "It's okay. No problem!",
+     "vi": "Không sao. Không vấn đề gì đâu!"
+    },
+    {
+     "role": "Kid",
+     "en": "You are very kind.",
+     "vi": "Cậu tốt bụng quá."
+    },
+    {
+     "role": "Bi",
+     "en": "Thank you! Let's play again.",
+     "vi": "Cảm ơn cậu! Mình chơi tiếp nhé."
+    }
+   ]
+  },
+  {
+   "id": "L1U14-D03",
+   "title_vi": "Ốm rồi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "How are you today?",
+     "vi": "Hôm nay cậu thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I feel sick. My head is hot.",
+     "vi": "Tớ thấy ốm. Đầu tớ nóng."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Tell your mum.",
+     "vi": "Ôi! Cậu nói với mẹ đi."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. Thank you, Bi.",
+     "vi": "Ừ. Cảm ơn Bi."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "f"
+  },
+  {
+   "type": "write_letter",
+   "target": "a"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "e"
+  },
+  {
+   "type": "copy_word",
+   "target": "feel"
+  },
+  {
+   "type": "copy_word",
+   "target": "angry"
+  },
+  {
+   "type": "copy_word",
+   "target": "scared"
+  },
+  {
+   "type": "copy_word",
+   "target": "bored"
+  },
+  {
+   "type": "copy_word",
+   "target": "sleepy"
+  },
+  {
+   "type": "copy_word",
+   "target": "sick"
+  },
+  {
+   "type": "copy_word",
+   "target": "fine"
+  },
+  {
+   "type": "copy_word",
+   "target": "great"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U14-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "feel",
+   "item": "feel",
+   "options": [
+    "sick",
+    "scared",
+    "sleepy",
+    "feel"
+   ],
+   "answer": "feel"
+  },
+  {
+   "id": "L1U14-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "angry",
+   "item": "angry",
+   "options": [
+    "angry",
+    "problem",
+    "sleepy",
+    "cry"
+   ],
+   "answer": "angry"
+  },
+  {
+   "id": "L1U14-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "scared",
+   "item": "scared",
+   "options": [
+    "scared",
+    "okay",
+    "welcome",
+    "smile"
+   ],
+   "answer": "scared"
+  },
+  {
+   "id": "L1U14-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "excited",
+   "item": "excited",
+   "options": [
+    "cry",
+    "feel",
+    "excited",
+    "welcome"
+   ],
+   "answer": "excited"
+  },
+  {
+   "id": "L1U14-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bored",
+   "item": "bored",
+   "options": [
+    "smile",
+    "bored",
+    "fine",
+    "welcome"
+   ],
+   "answer": "bored"
+  },
+  {
+   "id": "L1U14-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sleepy",
+   "item": "sleepy",
+   "options": [
+    "problem",
+    "smile",
+    "sleepy",
+    "kiss"
+   ],
+   "answer": "sleepy"
+  },
+  {
+   "id": "L1U14-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sick",
+   "item": "sick",
+   "options": [
+    "feel",
+    "sick",
+    "scared",
+    "kiss"
+   ],
+   "answer": "sick"
+  },
+  {
+   "id": "L1U14-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fine",
+   "item": "fine",
+   "options": [
+    "scared",
+    "today",
+    "excited",
+    "fine"
+   ],
+   "answer": "fine"
+  },
+  {
+   "id": "L1U14-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "great",
+   "item": "great",
+   "options": [
+    "great",
+    "feel",
+    "problem",
+    "kiss"
+   ],
+   "answer": "great"
+  },
+  {
+   "id": "L1U14-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "nice",
+   "item": "nice",
+   "options": [
+    "kind",
+    "nice",
+    "angry",
+    "smile"
+   ],
+   "answer": "nice"
+  },
+  {
+   "id": "L1U14-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kind",
+   "item": "kind",
+   "options": [
+    "cry",
+    "kind",
+    "hug",
+    "bored"
+   ],
+   "answer": "kind"
+  },
+  {
+   "id": "L1U14-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cry",
+   "item": "cry",
+   "options": [
+    "cry",
+    "scared",
+    "bored",
+    "hug"
+   ],
+   "answer": "cry"
+  },
+  {
+   "id": "L1U14-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "laugh",
+   "item": "laugh",
+   "options": [
+    "bored",
+    "nice",
+    "welcome",
+    "laugh"
+   ],
+   "answer": "laugh"
+  },
+  {
+   "id": "L1U14-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "smile",
+   "item": "smile",
+   "options": [
+    "kiss",
+    "hug",
+    "smile",
+    "great"
+   ],
+   "answer": "smile"
+  },
+  {
+   "id": "L1U14-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hug",
+   "item": "hug",
+   "options": [
+    "kind",
+    "hug",
+    "angry",
+    "smile"
+   ],
+   "answer": "hug"
+  },
+  {
+   "id": "L1U14-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kiss",
+   "item": "kiss",
+   "options": [
+    "great",
+    "kiss",
+    "today",
+    "sick"
+   ],
+   "answer": "kiss"
+  },
+  {
+   "id": "L1U14-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "problem",
+   "item": "problem",
+   "options": [
+    "great",
+    "problem",
+    "excited",
+    "sick"
+   ],
+   "answer": "problem"
+  },
+  {
+   "id": "L1U14-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "welcome",
+   "item": "welcome",
+   "options": [
+    "welcome",
+    "okay",
+    "excited",
+    "nice"
+   ],
+   "answer": "welcome"
+  },
+  {
+   "id": "L1U14-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "okay",
+   "item": "okay",
+   "options": [
+    "okay",
+    "cry",
+    "bored",
+    "problem"
+   ],
+   "answer": "okay"
+  },
+  {
+   "id": "L1U14-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "today",
+   "item": "today",
+   "options": [
+    "feel",
+    "kind",
+    "nice",
+    "today"
+   ],
+   "answer": "today"
+  },
+  {
+   "id": "L1U14-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the feel yellow.",
+   "item": "feel",
+   "options": [
+    "feel",
+    "fine",
+    "kind"
+   ],
+   "answer": "feel",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U14-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the angry green.",
+   "item": "angry",
+   "options": [
+    "angry",
+    "feel",
+    "excited"
+   ],
+   "answer": "angry",
+   "color": "green"
+  },
+  {
+   "id": "L1U14-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the scared pink.",
+   "item": "scared",
+   "options": [
+    "great",
+    "scared",
+    "kind"
+   ],
+   "answer": "scared",
+   "color": "pink"
+  },
+  {
+   "id": "L1U14-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the excited pink.",
+   "item": "excited",
+   "options": [
+    "feel",
+    "welcome",
+    "excited"
+   ],
+   "answer": "excited",
+   "color": "pink"
+  },
+  {
+   "id": "L1U14-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "feel",
+   "answer": "feel"
+  },
+  {
+   "id": "L1U14-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "angry",
+   "answer": "angry"
+  },
+  {
+   "id": "L1U14-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "scared",
+   "answer": "scared"
+  },
+  {
+   "id": "L1U14-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "excited",
+   "answer": "excited"
+  },
+  {
+   "id": "L1U14-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bored",
+   "answer": "bored"
+  },
+  {
+   "id": "L1U14-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sleepy",
+   "answer": "sleepy"
+  },
+  {
+   "id": "L1U14-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sick",
+   "answer": "sick"
+  },
+  {
+   "id": "L1U14-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fine",
+   "answer": "fine"
+  },
+  {
+   "id": "L1U14-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "great",
+   "answer": "great"
+  },
+  {
+   "id": "L1U14-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "nice",
+   "answer": "nice"
+  },
+  {
+   "id": "L1U14-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kind",
+   "answer": "kind"
+  },
+  {
+   "id": "L1U14-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cry",
+   "answer": "cry"
+  },
+  {
+   "id": "L1U14-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "laugh",
+   "answer": "laugh"
+  },
+  {
+   "id": "L1U14-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "smile",
+   "answer": "smile"
+  },
+  {
+   "id": "L1U14-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hug",
+   "answer": "hug"
+  },
+  {
+   "id": "L1U14-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kiss",
+   "answer": "kiss"
+  },
+  {
+   "id": "L1U14-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "problem",
+   "answer": "problem"
+  },
+  {
+   "id": "L1U14-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "welcome",
+   "answer": "welcome"
+  },
+  {
+   "id": "L1U14-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "okay",
+   "answer": "okay"
+  },
+  {
+   "id": "L1U14-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "today",
+   "answer": "today"
+  },
+  {
+   "id": "L1U14-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel happy.",
+   "item": "feel",
+   "answer": "I feel happy."
+  },
+  {
+   "id": "L1U14-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lion is angry.",
+   "item": "angry",
+   "answer": "The lion is angry."
+  },
+  {
+   "id": "L1U14-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm scared of snakes.",
+   "item": "scared",
+   "answer": "I'm scared of snakes."
+  },
+  {
+   "id": "L1U14-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm excited!",
+   "item": "excited",
+   "answer": "I'm excited!"
+  },
+  {
+   "id": "L1U14-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm bored.",
+   "item": "bored",
+   "answer": "I'm bored."
+  },
+  {
+   "id": "L1U14-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby is sleepy.",
+   "item": "sleepy",
+   "answer": "The baby is sleepy."
+  },
+  {
+   "id": "L1U14-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel sick.",
+   "item": "sick",
+   "answer": "I feel sick."
+  },
+  {
+   "id": "L1U14-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm fine, thank you.",
+   "item": "fine",
+   "answer": "I'm fine, thank you."
+  },
+  {
+   "id": "L1U14-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That's great!",
+   "item": "great",
+   "answer": "That's great!"
+  },
+  {
+   "id": "L1U14-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My teacher is nice.",
+   "item": "nice",
+   "answer": "My teacher is nice."
+  },
+  {
+   "id": "L1U14-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You are very kind.",
+   "item": "kind",
+   "answer": "You are very kind."
+  },
+  {
+   "id": "L1U14-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby can cry.",
+   "item": "cry",
+   "answer": "The baby can cry."
+  },
+  {
+   "id": "L1U14-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bi makes me laugh.",
+   "item": "laugh",
+   "answer": "Bi makes me laugh."
+  },
+  {
+   "id": "L1U14-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Smile, please!",
+   "item": "smile",
+   "answer": "Smile, please!"
+  },
+  {
+   "id": "L1U14-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hug my mum.",
+   "item": "hug",
+   "answer": "I hug my mum."
+  },
+  {
+   "id": "L1U14-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I kiss my grandma.",
+   "item": "kiss",
+   "answer": "I kiss my grandma."
+  },
+  {
+   "id": "L1U14-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "No problem!",
+   "item": "problem",
+   "answer": "No problem!"
+  },
+  {
+   "id": "L1U14-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You're welcome!",
+   "item": "welcome",
+   "answer": "You're welcome!"
+  },
+  {
+   "id": "L1U14-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you okay?",
+   "item": "okay",
+   "answer": "Are you okay?"
+  },
+  {
+   "id": "L1U14-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm happy today.",
+   "item": "today",
+   "answer": "I'm happy today."
+  },
+  {
+   "id": "L1U14-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel happy.",
+   "answer": "I feel happy."
+  },
+  {
+   "id": "L1U14-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel sad.",
+   "answer": "I feel sad."
+  },
+  {
+   "id": "L1U14-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I feel sick.",
+   "answer": "I feel sick."
+  },
+  {
+   "id": "L1U14-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you okay?",
+   "answer": "Are you okay?"
+  },
+  {
+   "id": "L1U14-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you scared?",
+   "answer": "Are you scared?"
+  },
+  {
+   "id": "L1U14-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you sleepy?",
+   "answer": "Are you sleepy?"
+  },
+  {
+   "id": "L1U14-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm fine today.",
+   "answer": "I'm fine today."
+  },
+  {
+   "id": "L1U14-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm tired today.",
+   "answer": "I'm tired today."
+  },
+  {
+   "id": "L1U14-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm happy today.",
+   "answer": "I'm happy today."
+  },
+  {
+   "id": "L1U14-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are you okay?",
+   "answer": "No. I feel sad."
+  },
+  {
+   "id": "L1U14-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Oh no! Do you want a hug?",
+   "answer": "Yes, please. Thank you, Bi."
+  },
+  {
+   "id": "L1U14-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How are you today?",
+   "answer": "I feel sick. My head is hot."
+  },
+  {
+   "id": "L1U14-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "feel",
+   "options": [
+    "sick",
+    "nice",
+    "feel"
+   ],
+   "answer": "feel"
+  },
+  {
+   "id": "L1U14-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "angry",
+   "options": [
+    "angry",
+    "okay",
+    "problem"
+   ],
+   "answer": "angry"
+  },
+  {
+   "id": "L1U14-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "scared",
+   "options": [
+    "scared",
+    "nice",
+    "today"
+   ],
+   "answer": "scared"
+  },
+  {
+   "id": "L1U14-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "excited",
+   "options": [
+    "smile",
+    "kiss",
+    "excited"
+   ],
+   "answer": "excited"
+  },
+  {
+   "id": "L1U14-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bored",
+   "options": [
+    "bored",
+    "smile",
+    "hug"
+   ],
+   "answer": "bored"
+  },
+  {
+   "id": "L1U14-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sleepy",
+   "options": [
+    "feel",
+    "great",
+    "sleepy"
+   ],
+   "answer": "sleepy"
+  },
+  {
+   "id": "L1U14-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sick",
+   "options": [
+    "great",
+    "welcome",
+    "sick"
+   ],
+   "answer": "sick"
+  },
+  {
+   "id": "L1U14-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fine",
+   "options": [
+    "fine",
+    "cry",
+    "nice"
+   ],
+   "answer": "fine"
+  },
+  {
+   "id": "L1U14-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "great",
+   "options": [
+    "cry",
+    "welcome",
+    "great"
+   ],
+   "answer": "great"
+  },
+  {
+   "id": "L1U14-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "nice",
+   "options": [
+    "angry",
+    "nice",
+    "sick"
+   ],
+   "answer": "nice"
+  },
+  {
+   "id": "L1U14-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kind",
+   "options": [
+    "cry",
+    "scared",
+    "kind"
+   ],
+   "answer": "kind"
+  },
+  {
+   "id": "L1U14-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cry",
+   "options": [
+    "great",
+    "scared",
+    "cry"
+   ],
+   "answer": "cry"
+  },
+  {
+   "id": "L1U14-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "laugh",
+   "options": [
+    "laugh",
+    "angry",
+    "smile"
+   ],
+   "answer": "laugh"
+  },
+  {
+   "id": "L1U14-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "smile",
+   "options": [
+    "okay",
+    "scared",
+    "smile"
+   ],
+   "answer": "smile"
+  },
+  {
+   "id": "L1U14-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hug",
+   "options": [
+    "bored",
+    "feel",
+    "hug"
+   ],
+   "answer": "hug"
+  },
+  {
+   "id": "L1U14-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kiss",
+   "options": [
+    "cry",
+    "kiss",
+    "scared"
+   ],
+   "answer": "kiss"
+  },
+  {
+   "id": "L1U14-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "problem",
+   "options": [
+    "kind",
+    "problem",
+    "bored"
+   ],
+   "answer": "problem"
+  },
+  {
+   "id": "L1U14-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "welcome",
+   "options": [
+    "welcome",
+    "problem",
+    "sleepy"
+   ],
+   "answer": "welcome"
+  },
+  {
+   "id": "L1U14-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "okay",
+   "options": [
+    "excited",
+    "okay",
+    "nice"
+   ],
+   "answer": "okay"
+  },
+  {
+   "id": "L1U14-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "today",
+   "options": [
+    "today",
+    "nice",
+    "problem"
+   ],
+   "answer": "today"
+  },
+  {
+   "id": "L1U14-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "f",
+   "answer": "f"
+  },
+  {
+   "id": "L1U14-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "a",
+   "answer": "a"
+  },
+  {
+   "id": "L1U14-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U14-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "e",
+   "answer": "e"
+  },
+  {
+   "id": "L1U14-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "feel",
+   "answer": "feel"
+  },
+  {
+   "id": "L1U14-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "angry",
+   "answer": "angry"
+  },
+  {
+   "id": "L1U14-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "scared",
+   "answer": "scared"
+  },
+  {
+   "id": "L1U14-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "bored",
+   "answer": "bored"
+  },
+  {
+   "id": "L1U14-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sleepy",
+   "answer": "sleepy"
+  },
+  {
+   "id": "L1U14-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sick",
+   "answer": "sick"
+  },
+  {
+   "id": "L1U14-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "fine",
+   "answer": "fine"
+  },
+  {
+   "id": "L1U14-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "great",
+   "answer": "great"
+  }
+ ]
+}

@@ -1,0 +1,3300 @@
+{
+ "id": "L5U09",
+ "level": 5,
+ "unit": 9,
+ "topic_en": "Books and stories",
+ "topic_vi": "Sách và truyện",
+ "can_do_vi": [
+  "Nói về cuốn sách yêu thích: nhân vật, cốt truyện, kết thúc",
+  "Viết nhận xét ngắn giới thiệu một cuốn sách"
+ ],
+ "grammar_note_vi": "Kể lại câu chuyện dùng thì quá khứ và các cụm nối: at the beginning (lúc đầu), then (rồi), in the end (cuối cùng). Nối ý bằng because (vì), so (nên), but (nhưng).",
+ "items": [
+  {
+   "id": "L5U09-W01",
+   "type": "word",
+   "en": "author",
+   "vi": "tác giả",
+   "ipa": "/ˈɔθər/",
+   "syllables": [
+    "au",
+    "thor"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Who is the author of this book?",
+   "example_vi": "Tác giả cuốn sách này là ai?",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W02",
+   "type": "word",
+   "en": "character",
+   "vi": "nhân vật",
+   "ipa": "/ˈkɛrɪktər/",
+   "syllables": [
+    "char",
+    "ac",
+    "ter"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D9"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "My favourite character is the brave girl.",
+   "example_vi": "Nhân vật tớ thích nhất là cô bé dũng cảm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W03",
+   "type": "phrase",
+   "en": "main character",
+   "vi": "nhân vật chính",
+   "ipa": "/meɪn ˈkɛrɪktər/",
+   "syllables": [
+    "main",
+    "char",
+    "ac",
+    "ter"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The main character is a clever fox.",
+   "example_vi": "Nhân vật chính là một chú cáo thông minh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W04",
+   "type": "word",
+   "en": "plot",
+   "vi": "cốt truyện",
+   "ipa": "/plɑt/",
+   "syllables": [
+    "plot"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The plot of this story is exciting.",
+   "example_vi": "Cốt truyện này rất hấp dẫn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W05",
+   "type": "word",
+   "en": "title",
+   "vi": "tên sách, tiêu đề",
+   "ipa": "/ˈtaɪtəl/",
+   "syllables": [
+    "ti",
+    "tle"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F524"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "What is the title of the book?",
+   "example_vi": "Tên cuốn sách là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W06",
+   "type": "word",
+   "en": "chapter",
+   "vi": "chương",
+   "ipa": "/ˈtʃæptər/",
+   "syllables": [
+    "chap",
+    "ter"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4D1"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I read one chapter every night.",
+   "example_vi": "Tối nào tớ cũng đọc một chương.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W07",
+   "type": "word",
+   "en": "page",
+   "vi": "trang",
+   "ipa": "/peɪdʒ/",
+   "syllables": [
+    "page"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Turn to page twenty.",
+   "example_vi": "Mở sang trang hai mươi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W08",
+   "type": "word",
+   "en": "cover",
+   "vi": "bìa sách",
+   "ipa": "/ˈkʌvər/",
+   "syllables": [
+    "cov",
+    "er"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4D5"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The book has a colourful cover.",
+   "example_vi": "Cuốn sách có bìa nhiều màu sắc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W09",
+   "type": "word",
+   "en": "novel",
+   "vi": "tiểu thuyết",
+   "ipa": "/ˈnɑvəl/",
+   "syllables": [
+    "nov",
+    "el"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "My sister is reading a long novel.",
+   "example_vi": "Chị tớ đang đọc một cuốn tiểu thuyết dài.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W10",
+   "type": "word",
+   "en": "fiction",
+   "vi": "truyện hư cấu",
+   "ipa": "/ˈfɪkʃən/",
+   "syllables": [
+    "fic",
+    "tion"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F409"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Fiction is a story from the writer's imagination.",
+   "example_vi": "Truyện hư cấu là câu chuyện từ trí tưởng tượng của tác giả.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W11",
+   "type": "word",
+   "en": "non-fiction",
+   "vi": "sách phi hư cấu",
+   "ipa": "/nɑn ˈfɪkʃən/",
+   "syllables": [
+    "non-fiction"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Non-fiction books tell us real facts.",
+   "example_vi": "Sách phi hư cấu cho ta biết sự thật.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W12",
+   "type": "phrase",
+   "en": "fairy tale",
+   "vi": "truyện cổ tích",
+   "ipa": "/ˈfɛri teɪl/",
+   "syllables": [
+    "fairy",
+    "tale"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9DA"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "My grandma tells me fairy tales.",
+   "example_vi": "Bà kể truyện cổ tích cho tớ nghe.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W13",
+   "type": "word",
+   "en": "mystery",
+   "vi": "điều bí ẩn",
+   "ipa": "/ˈmɪstəri/",
+   "syllables": [
+    "mystery"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F575-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I love mystery stories.",
+   "example_vi": "Tớ mê truyện bí ẩn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W14",
+   "type": "word",
+   "en": "detective",
+   "vi": "thám tử",
+   "ipa": "/dɪˈtɛktɪv/",
+   "syllables": [
+    "de",
+    "tec",
+    "tive"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F575-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U09",
+   "example_en": "The detective found the thief.",
+   "example_vi": "Thám tử đã tìm ra tên trộm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W15",
+   "type": "phrase",
+   "en": "science fiction",
+   "vi": "khoa học viễn tưởng",
+   "ipa": "/saɪʌns ˈfɪkʃən/",
+   "syllables": [
+    "science",
+    "fic",
+    "tion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F47D"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "This science fiction story is about robots on Mars.",
+   "example_vi": "Truyện khoa học viễn tưởng này kể về rô-bốt trên sao Hoả.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W16",
+   "type": "word",
+   "en": "ending",
+   "vi": "kết thúc",
+   "ipa": "/ˈɛndɪŋ/",
+   "syllables": [
+    "end",
+    "ing"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F51A"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The story has a happy ending.",
+   "example_vi": "Câu chuyện có kết thúc có hậu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W17",
+   "type": "word",
+   "en": "beginning",
+   "vi": "phần mở đầu",
+   "ipa": "/bɪˈɡɪnɪŋ/",
+   "syllables": [
+    "be",
+    "gin",
+    "ning"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "25B6-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The beginning of the book is a bit slow.",
+   "example_vi": "Phần đầu cuốn sách hơi chậm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W18",
+   "type": "word",
+   "en": "solve",
+   "vi": "giải quyết, giải",
+   "ipa": "/sɑlv/",
+   "syllables": [
+    "solve"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9E9"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Can you solve this puzzle?",
+   "example_vi": "Cậu giải được câu đố này không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W19",
+   "type": "word",
+   "en": "clue",
+   "vi": "manh mối",
+   "ipa": "/klu/",
+   "syllables": [
+    "clue"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F50D"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The detective found a clue.",
+   "example_vi": "Thám tử tìm thấy một manh mối.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W20",
+   "type": "word",
+   "en": "villain",
+   "vi": "kẻ xấu",
+   "ipa": "/ˈvɪlən/",
+   "syllables": [
+    "vil",
+    "lain"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F608"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The villain wanted to steal the gold.",
+   "example_vi": "Kẻ xấu muốn lấy trộm vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W21",
+   "type": "word",
+   "en": "review",
+   "vi": "bài nhận xét",
+   "ipa": "/ˌrivˈju/",
+   "syllables": [
+    "re",
+    "view"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I wrote a review of my favourite book.",
+   "example_vi": "Tớ viết bài nhận xét về cuốn sách yêu thích.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W22",
+   "type": "word",
+   "en": "recommend",
+   "vi": "giới thiệu, gợi ý",
+   "ipa": "/ˌrɛkəˈmɛnd/",
+   "syllables": [
+    "rec",
+    "om",
+    "mend"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I recommend this book to everyone.",
+   "example_vi": "Tớ giới thiệu cuốn sách này cho mọi người.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W23",
+   "type": "word",
+   "en": "bookworm",
+   "vi": "mọt sách",
+   "ipa": "/ˈbʊkˌwərm/",
+   "syllables": [
+    "book",
+    "worm"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F41B"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "My brother is a bookworm.",
+   "example_vi": "Anh tớ là một con mọt sách.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W24",
+   "type": "word",
+   "en": "illustration",
+   "vi": "tranh minh hoạ",
+   "ipa": "/ˌɪləˈstreɪʃən/",
+   "syllables": [
+    "il",
+    "lus",
+    "tra",
+    "tion"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F58D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The illustrations in this book are beautiful.",
+   "example_vi": "Tranh minh hoạ trong sách rất đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W25",
+   "type": "word",
+   "en": "illustrator",
+   "vi": "hoạ sĩ minh hoạ",
+   "ipa": "/ˈɪləˌstreɪtər/",
+   "syllables": [
+    "il",
+    "lus",
+    "tra",
+    "tor"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The illustrator drew funny animals.",
+   "example_vi": "Hoạ sĩ minh hoạ vẽ những con vật vui nhộn.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W26",
+   "type": "word",
+   "en": "paragraph",
+   "vi": "đoạn văn",
+   "ipa": "/ˈpɛrəˌɡræf/",
+   "syllables": [
+    "paragraph"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4C3"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Write a paragraph about your family.",
+   "example_vi": "Viết một đoạn văn về gia đình em.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W27",
+   "type": "word",
+   "en": "sentence",
+   "vi": "câu",
+   "ipa": "/ˈsɛntəns/",
+   "syllables": [
+    "sen",
+    "tence"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "270F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Read the first sentence again.",
+   "example_vi": "Đọc lại câu đầu tiên.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W28",
+   "type": "word",
+   "en": "word",
+   "vi": "từ",
+   "ipa": "/wʌrd/",
+   "syllables": [
+    "word"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F524"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "How many words can you spell?",
+   "example_vi": "Cậu đánh vần được bao nhiêu từ?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W29",
+   "type": "word",
+   "en": "describe",
+   "vi": "miêu tả",
+   "ipa": "/dɪˈskraɪb/",
+   "syllables": [
+    "de",
+    "scribe"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Describe your best friend.",
+   "example_vi": "Hãy tả bạn thân của em.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W30",
+   "type": "word",
+   "en": "description",
+   "vi": "sự miêu tả",
+   "ipa": "/dɪˈskrɪpʃən/",
+   "syllables": [
+    "de",
+    "scrip",
+    "tion"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The description of the castle is very clear.",
+   "example_vi": "Đoạn tả lâu đài rất rõ ràng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W31",
+   "type": "word",
+   "en": "moral",
+   "vi": "bài học (của truyện)",
+   "ipa": "/ˈmɔrəl/",
+   "syllables": [
+    "moral"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The moral of the story is to be honest.",
+   "example_vi": "Bài học của câu chuyện là phải trung thực.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W32",
+   "type": "phrase",
+   "en": "at the beginning",
+   "vi": "lúc đầu",
+   "ipa": "/æt ðə bɪˈɡɪnɪŋ/",
+   "syllables": [
+    "at",
+    "the",
+    "be",
+    "gin",
+    "ning"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23EE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "At the beginning, the boy was lonely.",
+   "example_vi": "Lúc đầu, cậu bé rất cô đơn.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W33",
+   "type": "phrase",
+   "en": "in the end",
+   "vi": "cuối cùng",
+   "ipa": "/ɪn ðə ɛnd/",
+   "syllables": [
+    "in",
+    "the",
+    "end"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23ED-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "In the end, everyone was happy.",
+   "example_vi": "Cuối cùng, mọi người đều vui vẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W34",
+   "type": "word",
+   "en": "reader",
+   "vi": "người đọc",
+   "ipa": "/ˈridər/",
+   "syllables": [
+    "read",
+    "er"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The book is popular with young readers.",
+   "example_vi": "Cuốn sách được các bạn đọc nhỏ tuổi yêu thích.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W35",
+   "type": "word",
+   "en": "text",
+   "vi": "văn bản",
+   "ipa": "/tɛkst/",
+   "syllables": [
+    "text"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Read the text and answer the questions.",
+   "example_vi": "Đọc văn bản và trả lời câu hỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W36",
+   "type": "word",
+   "en": "summary",
+   "vi": "bản tóm tắt",
+   "ipa": "/ˈsʌməri/",
+   "syllables": [
+    "sum",
+    "ma",
+    "ry"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Write a short summary of the story.",
+   "example_vi": "Viết tóm tắt ngắn câu chuyện.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W37",
+   "type": "word",
+   "en": "setting",
+   "vi": "bối cảnh",
+   "ipa": "/ˈsɛtɪŋ/",
+   "syllables": [
+    "set",
+    "ting"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3F0"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The setting of the story is a small island.",
+   "example_vi": "Bối cảnh câu chuyện là một hòn đảo nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W38",
+   "type": "word",
+   "en": "event",
+   "vi": "sự kiện",
+   "ipa": "/ɪˈvɛnt/",
+   "syllables": [
+    "event"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "The book fair is a big event at our school.",
+   "example_vi": "Hội sách là sự kiện lớn ở trường tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W39",
+   "type": "word",
+   "en": "diary",
+   "vi": "nhật ký",
+   "ipa": "/ˈdaɪəri/",
+   "syllables": [
+    "di",
+    "ary"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4D4"
+   },
+   "picturable": true,
+   "cat": "L5U09",
+   "example_en": "I write in my diary every night.",
+   "example_vi": "Tối nào tớ cũng viết nhật ký.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W40",
+   "type": "word",
+   "en": "encyclopedia",
+   "vi": "bách khoa toàn thư",
+   "ipa": "/ɪnˌsaɪkləˈpidiə/",
+   "syllables": [
+    "encyclopedia"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I found the answer in the encyclopedia.",
+   "example_vi": "Tớ tìm thấy câu trả lời trong bách khoa toàn thư.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W41",
+   "type": "word",
+   "en": "biography",
+   "vi": "tiểu sử",
+   "ipa": "/baɪˈɑɡrəfi/",
+   "syllables": [
+    "biography"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "I read a biography of a famous scientist.",
+   "example_vi": "Tớ đọc tiểu sử một nhà khoa học nổi tiếng.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W42",
+   "type": "word",
+   "en": "bookmark",
+   "vi": "thẻ đánh dấu trang",
+   "ipa": "/ˈbʊkmɑrk/",
+   "syllables": [
+    "book",
+    "mark"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F516"
+   },
+   "picturable": true,
+   "cat": "L5U09",
+   "example_en": "I use a bookmark to keep my page.",
+   "example_vi": "Tớ dùng thẻ đánh dấu để giữ trang đang đọc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W43",
+   "type": "word",
+   "en": "whisper",
+   "vi": "thì thầm",
+   "ipa": "/ˈwɪspər/",
+   "syllables": [
+    "whis",
+    "per"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F92B"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Please whisper in the library.",
+   "example_vi": "Hãy nói thầm trong thư viện.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U09-W44",
+   "type": "word",
+   "en": "luckily",
+   "vi": "may mắn thay",
+   "ipa": "/ˈlʌkəli/",
+   "syllables": [
+    "luck",
+    "i",
+    "ly"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F340"
+   },
+   "picturable": false,
+   "cat": "L5U09",
+   "example_en": "Luckily, the detective arrived on time.",
+   "example_vi": "May mắn thay, thám tử đến kịp lúc.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U09-P01",
+   "en": "The main character is {x}.",
+   "vi": "Nhân vật chính là {x}.",
+   "slots": {
+    "x": [
+     "a clever fox",
+     "a brave girl",
+     "a little robot",
+     "a kind giant"
+    ]
+   }
+  },
+  {
+   "id": "L5U09-P02",
+   "en": "I recommend this book because it's {x}.",
+   "vi": "Tớ giới thiệu cuốn sách này vì nó {x}.",
+   "slots": {
+    "x": [
+     "exciting",
+     "funny",
+     "interesting",
+     "beautiful"
+    ]
+   }
+  },
+  {
+   "id": "L5U09-P03",
+   "en": "In the end, {x}.",
+   "vi": "Cuối cùng, {x}.",
+   "slots": {
+    "x": [
+     "everyone was happy",
+     "they found the treasure",
+     "the detective solved the mystery"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U09-D01",
+   "title_vi": "Cuốn sách yêu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you reading?",
+     "vi": "Cậu đang đọc gì vậy?"
+    },
+    {
+     "role": "Kid",
+     "en": "A mystery story. The main character is a young detective.",
+     "vi": "Một truyện bí ẩn. Nhân vật chính là một thám tử nhỏ tuổi."
+    },
+    {
+     "role": "Bi",
+     "en": "What happens in the story?",
+     "vi": "Trong truyện xảy ra chuyện gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "Someone steals a painting, and she looks for clues.",
+     "vi": "Có người lấy trộm một bức tranh, và cô bé đi tìm manh mối."
+    },
+    {
+     "role": "Bi",
+     "en": "Does she solve the mystery?",
+     "vi": "Cô bé có giải được bí ẩn không?"
+    },
+    {
+     "role": "Kid",
+     "en": "I don't know yet. I'm only on chapter three!",
+     "vi": "Tớ chưa biết. Tớ mới đọc đến chương ba thôi!"
+    }
+   ]
+  },
+  {
+   "id": "L5U09-D02",
+   "title_vi": "Ở thư viện",
+   "roles": [
+    "Librarian",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Excuse me. Can you recommend a book?",
+     "vi": "Cô ơi, cô giới thiệu cho cháu một cuốn sách được không ạ?"
+    },
+    {
+     "role": "Librarian",
+     "en": "Sure. Do you like fiction or non-fiction?",
+     "vi": "Được chứ. Cháu thích truyện hư cấu hay sách phi hư cấu?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like science fiction.",
+     "vi": "Cháu thích truyện khoa học viễn tưởng."
+    },
+    {
+     "role": "Librarian",
+     "en": "Try this one. It's about a robot in space.",
+     "vi": "Thử cuốn này nhé. Nó kể về một rô-bốt trong vũ trụ."
+    },
+    {
+     "role": "Kid",
+     "en": "It looks great. Can I borrow it for two weeks?",
+     "vi": "Trông hay quá. Cháu mượn hai tuần được không ạ?"
+    },
+    {
+     "role": "Librarian",
+     "en": "Yes. Please whisper in the library.",
+     "vi": "Được. Nhớ nói nhỏ trong thư viện nhé."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "author"
+  },
+  {
+   "type": "dictate_word",
+   "target": "character"
+  },
+  {
+   "type": "dictate_word",
+   "target": "plot"
+  },
+  {
+   "type": "dictate_word",
+   "target": "title"
+  },
+  {
+   "type": "dictate_word",
+   "target": "chapter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "page"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cover"
+  },
+  {
+   "type": "dictate_word",
+   "target": "novel"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Who is the author of this book?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My favourite character is the brave girl."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The main character is a clever fox."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My favourite book is|The main character is|I recommend it because"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U09-R01",
+   "title_en": "A book review",
+   "text_en": [
+    "Title: The Lost Lantern.",
+    "This book is a mystery story for children.",
+    "The main character is Kim, a curious girl who lives in an old town.",
+    "At the beginning of the story, a magic lantern disappears during the Mid-Autumn Festival.",
+    "Kim follows the clues and meets some funny characters.",
+    "The illustrations are colourful and beautiful.",
+    "The plot is exciting, and I couldn't stop reading!",
+    "In the end, Kim solves the mystery and saves the festival.",
+    "The moral of the story is that you should never give up.",
+    "I recommend this book to everyone who loves mysteries."
+   ],
+   "questions": [
+    {
+     "q": "Who is the main character?",
+     "options": [
+      "Kim.",
+      "The author.",
+      "A magic lantern."
+     ],
+     "answer": "Kim."
+    },
+    {
+     "q": "What disappears at the beginning?",
+     "options": [
+      "A magic lantern.",
+      "A painting.",
+      "A dog."
+     ],
+     "answer": "A magic lantern."
+    },
+    {
+     "q": "What is the moral of the story?",
+     "options": [
+      "You should never give up.",
+      "You should be quiet.",
+      "You should eat well."
+     ],
+     "answer": "You should never give up."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "detective",
+   "item": "detective",
+   "options": [
+    "bookmark",
+    "wedding",
+    "diary",
+    "detective"
+   ],
+   "answer": "detective"
+  },
+  {
+   "id": "L5U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "diary",
+   "item": "diary",
+   "options": [
+    "bookmark",
+    "detective",
+    "diary",
+    "leopard"
+   ],
+   "answer": "diary"
+  },
+  {
+   "id": "L5U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bookmark",
+   "item": "bookmark",
+   "options": [
+    "bookmark",
+    "diary",
+    "grandmother",
+    "detective"
+   ],
+   "answer": "bookmark"
+  },
+  {
+   "id": "L5U09-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "author",
+   "item": "author",
+   "options": [
+    "author",
+    "detective",
+    "sentence",
+    "in the end"
+   ],
+   "answer": "author"
+  },
+  {
+   "id": "L5U09-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "character",
+   "item": "character",
+   "options": [
+    "recommend",
+    "villain",
+    "character",
+    "biography"
+   ],
+   "answer": "character"
+  },
+  {
+   "id": "L5U09-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "main character",
+   "item": "main character",
+   "options": [
+    "text",
+    "main character",
+    "whisper",
+    "detective"
+   ],
+   "answer": "main character"
+  },
+  {
+   "id": "L5U09-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "plot",
+   "item": "plot",
+   "options": [
+    "main character",
+    "plot",
+    "ending",
+    "fairy tale"
+   ],
+   "answer": "plot"
+  },
+  {
+   "id": "L5U09-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "title",
+   "item": "title",
+   "options": [
+    "title",
+    "main character",
+    "recommend",
+    "plot"
+   ],
+   "answer": "title"
+  },
+  {
+   "id": "L5U09-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chapter",
+   "item": "chapter",
+   "options": [
+    "chapter",
+    "word",
+    "moral",
+    "author"
+   ],
+   "answer": "chapter"
+  },
+  {
+   "id": "L5U09-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "page",
+   "item": "page",
+   "options": [
+    "text",
+    "diary",
+    "page",
+    "ending"
+   ],
+   "answer": "page"
+  },
+  {
+   "id": "L5U09-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cover",
+   "item": "cover",
+   "options": [
+    "main character",
+    "review",
+    "cover",
+    "moral"
+   ],
+   "answer": "cover"
+  },
+  {
+   "id": "L5U09-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "novel",
+   "item": "novel",
+   "options": [
+    "author",
+    "novel",
+    "clue",
+    "main character"
+   ],
+   "answer": "novel"
+  },
+  {
+   "id": "L5U09-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fiction",
+   "item": "fiction",
+   "options": [
+    "solve",
+    "mystery",
+    "whisper",
+    "fiction"
+   ],
+   "answer": "fiction"
+  },
+  {
+   "id": "L5U09-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "non-fiction",
+   "item": "non-fiction",
+   "options": [
+    "in the end",
+    "setting",
+    "non-fiction",
+    "at the beginning"
+   ],
+   "answer": "non-fiction"
+  },
+  {
+   "id": "L5U09-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fairy tale",
+   "item": "fairy tale",
+   "options": [
+    "plot",
+    "moral",
+    "bookworm",
+    "fairy tale"
+   ],
+   "answer": "fairy tale"
+  },
+  {
+   "id": "L5U09-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mystery",
+   "item": "mystery",
+   "options": [
+    "summary",
+    "review",
+    "event",
+    "mystery"
+   ],
+   "answer": "mystery"
+  },
+  {
+   "id": "L5U09-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "science fiction",
+   "item": "science fiction",
+   "options": [
+    "event",
+    "cover",
+    "science fiction",
+    "fiction"
+   ],
+   "answer": "science fiction"
+  },
+  {
+   "id": "L5U09-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ending",
+   "item": "ending",
+   "options": [
+    "ending",
+    "illustrator",
+    "mystery",
+    "setting"
+   ],
+   "answer": "ending"
+  },
+  {
+   "id": "L5U09-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "beginning",
+   "item": "beginning",
+   "options": [
+    "text",
+    "page",
+    "beginning",
+    "fairy tale"
+   ],
+   "answer": "beginning"
+  },
+  {
+   "id": "L5U09-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "solve",
+   "item": "solve",
+   "options": [
+    "plot",
+    "solve",
+    "whisper",
+    "describe"
+   ],
+   "answer": "solve"
+  },
+  {
+   "id": "L5U09-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "clue",
+   "item": "clue",
+   "options": [
+    "mystery",
+    "character",
+    "description",
+    "clue"
+   ],
+   "answer": "clue"
+  },
+  {
+   "id": "L5U09-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "villain",
+   "item": "villain",
+   "options": [
+    "review",
+    "text",
+    "villain",
+    "sentence"
+   ],
+   "answer": "villain"
+  },
+  {
+   "id": "L5U09-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "review",
+   "item": "review",
+   "options": [
+    "at the beginning",
+    "bookmark",
+    "solve",
+    "review"
+   ],
+   "answer": "review"
+  },
+  {
+   "id": "L5U09-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "recommend",
+   "item": "recommend",
+   "options": [
+    "character",
+    "recommend",
+    "author",
+    "whisper"
+   ],
+   "answer": "recommend"
+  },
+  {
+   "id": "L5U09-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bookworm",
+   "item": "bookworm",
+   "options": [
+    "title",
+    "biography",
+    "bookworm",
+    "illustration"
+   ],
+   "answer": "bookworm"
+  },
+  {
+   "id": "L5U09-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "illustration",
+   "item": "illustration",
+   "options": [
+    "cover",
+    "recommend",
+    "plot",
+    "illustration"
+   ],
+   "answer": "illustration"
+  },
+  {
+   "id": "L5U09-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "illustrator",
+   "item": "illustrator",
+   "options": [
+    "illustrator",
+    "page",
+    "clue",
+    "moral"
+   ],
+   "answer": "illustrator"
+  },
+  {
+   "id": "L5U09-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "paragraph",
+   "item": "paragraph",
+   "options": [
+    "title",
+    "ending",
+    "paragraph",
+    "non-fiction"
+   ],
+   "answer": "paragraph"
+  },
+  {
+   "id": "L5U09-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sentence",
+   "item": "sentence",
+   "options": [
+    "text",
+    "fiction",
+    "sentence",
+    "author"
+   ],
+   "answer": "sentence"
+  },
+  {
+   "id": "L5U09-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "word",
+   "item": "word",
+   "options": [
+    "summary",
+    "bookworm",
+    "biography",
+    "word"
+   ],
+   "answer": "word"
+  },
+  {
+   "id": "L5U09-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "describe",
+   "item": "describe",
+   "options": [
+    "mystery",
+    "title",
+    "describe",
+    "biography"
+   ],
+   "answer": "describe"
+  },
+  {
+   "id": "L5U09-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "description",
+   "item": "description",
+   "options": [
+    "character",
+    "describe",
+    "description",
+    "clue"
+   ],
+   "answer": "description"
+  },
+  {
+   "id": "L5U09-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "moral",
+   "item": "moral",
+   "options": [
+    "biography",
+    "whisper",
+    "moral",
+    "word"
+   ],
+   "answer": "moral"
+  },
+  {
+   "id": "L5U09-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "at the beginning",
+   "item": "at the beginning",
+   "options": [
+    "cover",
+    "paragraph",
+    "title",
+    "at the beginning"
+   ],
+   "answer": "at the beginning"
+  },
+  {
+   "id": "L5U09-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "in the end",
+   "item": "in the end",
+   "options": [
+    "beginning",
+    "in the end",
+    "main character",
+    "at the beginning"
+   ],
+   "answer": "in the end"
+  },
+  {
+   "id": "L5U09-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reader",
+   "item": "reader",
+   "options": [
+    "encyclopedia",
+    "reader",
+    "luckily",
+    "whisper"
+   ],
+   "answer": "reader"
+  },
+  {
+   "id": "L5U09-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "text",
+   "item": "text",
+   "options": [
+    "text",
+    "author",
+    "luckily",
+    "in the end"
+   ],
+   "answer": "text"
+  },
+  {
+   "id": "L5U09-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "summary",
+   "item": "summary",
+   "options": [
+    "mystery",
+    "author",
+    "page",
+    "summary"
+   ],
+   "answer": "summary"
+  },
+  {
+   "id": "L5U09-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "setting",
+   "item": "setting",
+   "options": [
+    "at the beginning",
+    "plot",
+    "moral",
+    "setting"
+   ],
+   "answer": "setting"
+  },
+  {
+   "id": "L5U09-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "event",
+   "item": "event",
+   "options": [
+    "novel",
+    "event",
+    "description",
+    "at the beginning"
+   ],
+   "answer": "event"
+  },
+  {
+   "id": "L5U09-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "encyclopedia",
+   "item": "encyclopedia",
+   "options": [
+    "encyclopedia",
+    "villain",
+    "word",
+    "whisper"
+   ],
+   "answer": "encyclopedia"
+  },
+  {
+   "id": "L5U09-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "biography",
+   "item": "biography",
+   "options": [
+    "biography",
+    "solve",
+    "villain",
+    "moral"
+   ],
+   "answer": "biography"
+  },
+  {
+   "id": "L5U09-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "whisper",
+   "item": "whisper",
+   "options": [
+    "reader",
+    "in the end",
+    "at the beginning",
+    "whisper"
+   ],
+   "answer": "whisper"
+  },
+  {
+   "id": "L5U09-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "luckily",
+   "item": "luckily",
+   "options": [
+    "novel",
+    "solve",
+    "reader",
+    "luckily"
+   ],
+   "answer": "luckily"
+  },
+  {
+   "id": "L5U09-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "detective",
+   "answer": "detective"
+  },
+  {
+   "id": "L5U09-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "diary",
+   "answer": "diary"
+  },
+  {
+   "id": "L5U09-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bookmark",
+   "answer": "bookmark"
+  },
+  {
+   "id": "L5U09-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Who is the author of this book?",
+   "item": "author",
+   "answer": "Who is the author of this book?"
+  },
+  {
+   "id": "L5U09-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite character is the brave girl.",
+   "item": "character",
+   "answer": "My favourite character is the brave girl."
+  },
+  {
+   "id": "L5U09-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The main character is a clever fox.",
+   "item": "main character",
+   "answer": "The main character is a clever fox."
+  },
+  {
+   "id": "L5U09-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The plot of this story is exciting.",
+   "item": "plot",
+   "answer": "The plot of this story is exciting."
+  },
+  {
+   "id": "L5U09-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What is the title of the book?",
+   "item": "title",
+   "answer": "What is the title of the book?"
+  },
+  {
+   "id": "L5U09-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read one chapter every night.",
+   "item": "chapter",
+   "answer": "I read one chapter every night."
+  },
+  {
+   "id": "L5U09-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn to page twenty.",
+   "item": "page",
+   "answer": "Turn to page twenty."
+  },
+  {
+   "id": "L5U09-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The book has a colourful cover.",
+   "item": "cover",
+   "answer": "The book has a colourful cover."
+  },
+  {
+   "id": "L5U09-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister is reading a long novel.",
+   "item": "novel",
+   "answer": "My sister is reading a long novel."
+  },
+  {
+   "id": "L5U09-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fiction is a story from the writer's imagination.",
+   "item": "fiction",
+   "answer": "Fiction is a story from the writer's imagination."
+  },
+  {
+   "id": "L5U09-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Non-fiction books tell us real facts.",
+   "item": "non-fiction",
+   "answer": "Non-fiction books tell us real facts."
+  },
+  {
+   "id": "L5U09-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandma tells me fairy tales.",
+   "item": "fairy tale",
+   "answer": "My grandma tells me fairy tales."
+  },
+  {
+   "id": "L5U09-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love mystery stories.",
+   "item": "mystery",
+   "answer": "I love mystery stories."
+  },
+  {
+   "id": "L5U09-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The detective found the thief.",
+   "item": "detective",
+   "answer": "The detective found the thief."
+  },
+  {
+   "id": "L5U09-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This science fiction story is about robots on Mars.",
+   "item": "science fiction",
+   "answer": "This science fiction story is about robots on Mars."
+  },
+  {
+   "id": "L5U09-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The story has a happy ending.",
+   "item": "ending",
+   "answer": "The story has a happy ending."
+  },
+  {
+   "id": "L5U09-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The beginning of the book is a bit slow.",
+   "item": "beginning",
+   "answer": "The beginning of the book is a bit slow."
+  },
+  {
+   "id": "L5U09-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you solve this puzzle?",
+   "item": "solve",
+   "answer": "Can you solve this puzzle?"
+  },
+  {
+   "id": "L5U09-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The detective found a clue.",
+   "item": "clue",
+   "answer": "The detective found a clue."
+  },
+  {
+   "id": "L5U09-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The villain wanted to steal the gold.",
+   "item": "villain",
+   "answer": "The villain wanted to steal the gold."
+  },
+  {
+   "id": "L5U09-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wrote a review of my favourite book.",
+   "item": "review",
+   "answer": "I wrote a review of my favourite book."
+  },
+  {
+   "id": "L5U09-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I recommend this book to everyone.",
+   "item": "recommend",
+   "answer": "I recommend this book to everyone."
+  },
+  {
+   "id": "L5U09-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother is a bookworm.",
+   "item": "bookworm",
+   "answer": "My brother is a bookworm."
+  },
+  {
+   "id": "L5U09-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The illustrations in this book are beautiful.",
+   "item": "illustration",
+   "answer": "The illustrations in this book are beautiful."
+  },
+  {
+   "id": "L5U09-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The illustrator drew funny animals.",
+   "item": "illustrator",
+   "answer": "The illustrator drew funny animals."
+  },
+  {
+   "id": "L5U09-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Write a paragraph about your family.",
+   "item": "paragraph",
+   "answer": "Write a paragraph about your family."
+  },
+  {
+   "id": "L5U09-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Read the first sentence again.",
+   "item": "sentence",
+   "answer": "Read the first sentence again."
+  },
+  {
+   "id": "L5U09-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How many words can you spell?",
+   "item": "word",
+   "answer": "How many words can you spell?"
+  },
+  {
+   "id": "L5U09-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Describe your best friend.",
+   "item": "describe",
+   "answer": "Describe your best friend."
+  },
+  {
+   "id": "L5U09-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The description of the castle is very clear.",
+   "item": "description",
+   "answer": "The description of the castle is very clear."
+  },
+  {
+   "id": "L5U09-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moral of the story is to be honest.",
+   "item": "moral",
+   "answer": "The moral of the story is to be honest."
+  },
+  {
+   "id": "L5U09-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "At the beginning, the boy was lonely.",
+   "item": "at the beginning",
+   "answer": "At the beginning, the boy was lonely."
+  },
+  {
+   "id": "L5U09-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the end, everyone was happy.",
+   "item": "in the end",
+   "answer": "In the end, everyone was happy."
+  },
+  {
+   "id": "L5U09-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The book is popular with young readers.",
+   "item": "reader",
+   "answer": "The book is popular with young readers."
+  },
+  {
+   "id": "L5U09-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Read the text and answer the questions.",
+   "item": "text",
+   "answer": "Read the text and answer the questions."
+  },
+  {
+   "id": "L5U09-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Write a short summary of the story.",
+   "item": "summary",
+   "answer": "Write a short summary of the story."
+  },
+  {
+   "id": "L5U09-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The setting of the story is a small island.",
+   "item": "setting",
+   "answer": "The setting of the story is a small island."
+  },
+  {
+   "id": "L5U09-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The book fair is a big event at our school.",
+   "item": "event",
+   "answer": "The book fair is a big event at our school."
+  },
+  {
+   "id": "L5U09-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I write in my diary every night.",
+   "item": "diary",
+   "answer": "I write in my diary every night."
+  },
+  {
+   "id": "L5U09-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I found the answer in the encyclopedia.",
+   "item": "encyclopedia",
+   "answer": "I found the answer in the encyclopedia."
+  },
+  {
+   "id": "L5U09-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read a biography of a famous scientist.",
+   "item": "biography",
+   "answer": "I read a biography of a famous scientist."
+  },
+  {
+   "id": "L5U09-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I use a bookmark to keep my page.",
+   "item": "bookmark",
+   "answer": "I use a bookmark to keep my page."
+  },
+  {
+   "id": "L5U09-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please whisper in the library.",
+   "item": "whisper",
+   "answer": "Please whisper in the library."
+  },
+  {
+   "id": "L5U09-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Luckily, the detective arrived on time.",
+   "item": "luckily",
+   "answer": "Luckily, the detective arrived on time."
+  },
+  {
+   "id": "L5U09-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The main character is a clever fox.",
+   "answer": "The main character is a clever fox."
+  },
+  {
+   "id": "L5U09-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The main character is a brave girl.",
+   "answer": "The main character is a brave girl."
+  },
+  {
+   "id": "L5U09-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The main character is a little robot.",
+   "answer": "The main character is a little robot."
+  },
+  {
+   "id": "L5U09-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I recommend this book because it's exciting.",
+   "answer": "I recommend this book because it's exciting."
+  },
+  {
+   "id": "L5U09-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I recommend this book because it's funny.",
+   "answer": "I recommend this book because it's funny."
+  },
+  {
+   "id": "L5U09-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I recommend this book because it's interesting.",
+   "answer": "I recommend this book because it's interesting."
+  },
+  {
+   "id": "L5U09-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the end, everyone was happy.",
+   "answer": "In the end, everyone was happy."
+  },
+  {
+   "id": "L5U09-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the end, they found the treasure.",
+   "answer": "In the end, they found the treasure."
+  },
+  {
+   "id": "L5U09-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the end, the detective solved the mystery.",
+   "answer": "In the end, the detective solved the mystery."
+  },
+  {
+   "id": "L5U09-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you reading?",
+   "answer": "A mystery story. The main character is a young detective."
+  },
+  {
+   "id": "L5U09-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What happens in the story?",
+   "answer": "Someone steals a painting, and she looks for clues."
+  },
+  {
+   "id": "L5U09-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Does she solve the mystery?",
+   "answer": "I don't know yet. I'm only on chapter three!"
+  },
+  {
+   "id": "L5U09-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me. Can you recommend a book?",
+   "answer": "Sure. Do you like fiction or non-fiction?"
+  },
+  {
+   "id": "L5U09-Q105",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sure. Do you like fiction or non-fiction?",
+   "answer": "I like science fiction."
+  },
+  {
+   "id": "L5U09-Q106",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "It looks great. Can I borrow it for two weeks?",
+   "answer": "Yes. Please whisper in the library."
+  },
+  {
+   "id": "L5U09-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "detective",
+   "options": [
+    "detective",
+    "bookmark",
+    "diary"
+   ],
+   "answer": "detective"
+  },
+  {
+   "id": "L5U09-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "diary",
+   "options": [
+    "bookmark",
+    "detective",
+    "diary"
+   ],
+   "answer": "diary"
+  },
+  {
+   "id": "L5U09-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bookmark",
+   "options": [
+    "detective",
+    "bookmark",
+    "diary"
+   ],
+   "answer": "bookmark"
+  },
+  {
+   "id": "L5U09-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Who is the ___ of this book?",
+   "item": "author",
+   "options": [
+    "novel",
+    "author",
+    "summary"
+   ],
+   "answer": "author"
+  },
+  {
+   "id": "L5U09-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My favourite ___ is the brave girl.",
+   "item": "character",
+   "options": [
+    "text",
+    "reader",
+    "character"
+   ],
+   "answer": "character"
+  },
+  {
+   "id": "L5U09-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of this story is exciting.",
+   "item": "plot",
+   "options": [
+    "solve",
+    "summary",
+    "plot"
+   ],
+   "answer": "plot"
+  },
+  {
+   "id": "L5U09-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What is the ___ of the book?",
+   "item": "title",
+   "options": [
+    "title",
+    "event",
+    "describe"
+   ],
+   "answer": "title"
+  },
+  {
+   "id": "L5U09-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read one ___ every night.",
+   "item": "chapter",
+   "options": [
+    "moral",
+    "chapter",
+    "novel"
+   ],
+   "answer": "chapter"
+  },
+  {
+   "id": "L5U09-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Turn to ___ twenty.",
+   "item": "page",
+   "options": [
+    "page",
+    "novel",
+    "diary"
+   ],
+   "answer": "page"
+  },
+  {
+   "id": "L5U09-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The book has a colourful ___.",
+   "item": "cover",
+   "options": [
+    "biography",
+    "illustrator",
+    "cover"
+   ],
+   "answer": "cover"
+  },
+  {
+   "id": "L5U09-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister is reading a long ___.",
+   "item": "novel",
+   "options": [
+    "novel",
+    "author",
+    "setting"
+   ],
+   "answer": "novel"
+  },
+  {
+   "id": "L5U09-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is a story from the writer's imagination.",
+   "item": "fiction",
+   "options": [
+    "Beginning",
+    "Fiction",
+    "Sentence"
+   ],
+   "answer": "Fiction"
+  },
+  {
+   "id": "L5U09-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ books tell us real facts.",
+   "item": "non-fiction",
+   "options": [
+    "Non-fiction",
+    "Moral",
+    "Recommend"
+   ],
+   "answer": "Non-fiction"
+  },
+  {
+   "id": "L5U09-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I love ___ stories.",
+   "item": "mystery",
+   "options": [
+    "event",
+    "illustration",
+    "mystery"
+   ],
+   "answer": "mystery"
+  },
+  {
+   "id": "L5U09-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ found the thief.",
+   "item": "detective",
+   "options": [
+    "event",
+    "novel",
+    "detective"
+   ],
+   "answer": "detective"
+  },
+  {
+   "id": "L5U09-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The story has a happy ___.",
+   "item": "ending",
+   "options": [
+    "describe",
+    "ending",
+    "chapter"
+   ],
+   "answer": "ending"
+  },
+  {
+   "id": "L5U09-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the book is a bit slow.",
+   "item": "beginning",
+   "options": [
+    "summary",
+    "beginning",
+    "luckily"
+   ],
+   "answer": "beginning"
+  },
+  {
+   "id": "L5U09-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ this puzzle?",
+   "item": "solve",
+   "options": [
+    "solve",
+    "text",
+    "event"
+   ],
+   "answer": "solve"
+  },
+  {
+   "id": "L5U09-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The detective found a ___.",
+   "item": "clue",
+   "options": [
+    "novel",
+    "cover",
+    "clue"
+   ],
+   "answer": "clue"
+  },
+  {
+   "id": "L5U09-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ wanted to steal the gold.",
+   "item": "villain",
+   "options": [
+    "recommend",
+    "villain",
+    "whisper"
+   ],
+   "answer": "villain"
+  },
+  {
+   "id": "L5U09-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wrote a ___ of my favourite book.",
+   "item": "review",
+   "options": [
+    "review",
+    "character",
+    "cover"
+   ],
+   "answer": "review"
+  },
+  {
+   "id": "L5U09-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ this book to everyone.",
+   "item": "recommend",
+   "options": [
+    "word",
+    "recommend",
+    "clue"
+   ],
+   "answer": "recommend"
+  },
+  {
+   "id": "L5U09-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother is a ___.",
+   "item": "bookworm",
+   "options": [
+    "page",
+    "luckily",
+    "bookworm"
+   ],
+   "answer": "bookworm"
+  },
+  {
+   "id": "L5U09-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ in this book are beautiful.",
+   "item": "illustration",
+   "options": [
+    "summarys",
+    "illustrations",
+    "sentences"
+   ],
+   "answer": "illustrations"
+  },
+  {
+   "id": "L5U09-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ drew funny animals.",
+   "item": "illustrator",
+   "options": [
+    "solve",
+    "sentence",
+    "illustrator"
+   ],
+   "answer": "illustrator"
+  },
+  {
+   "id": "L5U09-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Write a ___ about your family.",
+   "item": "paragraph",
+   "options": [
+    "summary",
+    "luckily",
+    "paragraph"
+   ],
+   "answer": "paragraph"
+  },
+  {
+   "id": "L5U09-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Read the first ___ again.",
+   "item": "sentence",
+   "options": [
+    "ending",
+    "sentence",
+    "plot"
+   ],
+   "answer": "sentence"
+  },
+  {
+   "id": "L5U09-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "How many ___ can you spell?",
+   "item": "word",
+   "options": [
+    "words",
+    "recommends",
+    "pages"
+   ],
+   "answer": "words"
+  },
+  {
+   "id": "L5U09-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your best friend.",
+   "item": "describe",
+   "options": [
+    "Chapter",
+    "Describe",
+    "Review"
+   ],
+   "answer": "Describe"
+  },
+  {
+   "id": "L5U09-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the castle is very clear.",
+   "item": "description",
+   "options": [
+    "description",
+    "summary",
+    "non-fiction"
+   ],
+   "answer": "description"
+  },
+  {
+   "id": "L5U09-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the story is to be honest.",
+   "item": "moral",
+   "options": [
+    "solve",
+    "moral",
+    "describe"
+   ],
+   "answer": "moral"
+  },
+  {
+   "id": "L5U09-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The book is popular with young ___.",
+   "item": "reader",
+   "options": [
+    "detectives",
+    "readers",
+    "bookmarks"
+   ],
+   "answer": "readers"
+  },
+  {
+   "id": "L5U09-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Read the ___ and answer the questions.",
+   "item": "text",
+   "options": [
+    "text",
+    "recommend",
+    "event"
+   ],
+   "answer": "text"
+  },
+  {
+   "id": "L5U09-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Write a short ___ of the story.",
+   "item": "summary",
+   "options": [
+    "biography",
+    "summary",
+    "fiction"
+   ],
+   "answer": "summary"
+  },
+  {
+   "id": "L5U09-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ of the story is a small island.",
+   "item": "setting",
+   "options": [
+    "summary",
+    "mystery",
+    "setting"
+   ],
+   "answer": "setting"
+  },
+  {
+   "id": "L5U09-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The book fair is a big ___ at our school.",
+   "item": "event",
+   "options": [
+    "setting",
+    "event",
+    "whisper"
+   ],
+   "answer": "event"
+  },
+  {
+   "id": "L5U09-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I write in my ___ every night.",
+   "item": "diary",
+   "options": [
+    "diary",
+    "chapter",
+    "mystery"
+   ],
+   "answer": "diary"
+  },
+  {
+   "id": "L5U09-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I found the answer in the ___.",
+   "item": "encyclopedia",
+   "options": [
+    "fiction",
+    "encyclopedia",
+    "character"
+   ],
+   "answer": "encyclopedia"
+  },
+  {
+   "id": "L5U09-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read a ___ of a famous scientist.",
+   "item": "biography",
+   "options": [
+    "whisper",
+    "biography",
+    "summary"
+   ],
+   "answer": "biography"
+  },
+  {
+   "id": "L5U09-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I use a ___ to keep my page.",
+   "item": "bookmark",
+   "options": [
+    "cover",
+    "luckily",
+    "bookmark"
+   ],
+   "answer": "bookmark"
+  },
+  {
+   "id": "L5U09-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please ___ in the library.",
+   "item": "whisper",
+   "options": [
+    "villain",
+    "bookworm",
+    "whisper"
+   ],
+   "answer": "whisper"
+  },
+  {
+   "id": "L5U09-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, the detective arrived on time.",
+   "item": "luckily",
+   "options": [
+    "Beginning",
+    "Luckily",
+    "Description"
+   ],
+   "answer": "Luckily"
+  },
+  {
+   "id": "L5U09-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The detective found the thief.",
+   "item": "detective",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U09-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I write in my diary every night.",
+   "item": "bookmark",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U09-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I use a bookmark to keep my page.",
+   "item": "bookmark",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U09-Q152",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U09-R01",
+   "text_en": "Who is the main character?",
+   "options": [
+    "The author.",
+    "A magic lantern.",
+    "Kim."
+   ],
+   "answer": "Kim."
+  },
+  {
+   "id": "L5U09-Q153",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U09-R01",
+   "text_en": "What disappears at the beginning?",
+   "options": [
+    "A magic lantern.",
+    "A dog.",
+    "A painting."
+   ],
+   "answer": "A magic lantern."
+  },
+  {
+   "id": "L5U09-Q154",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U09-R01",
+   "text_en": "What is the moral of the story?",
+   "options": [
+    "You should be quiet.",
+    "You should eat well.",
+    "You should never give up."
+   ],
+   "answer": "You should never give up."
+  },
+  {
+   "id": "L5U09-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "author",
+   "item": "author",
+   "answer": "author"
+  },
+  {
+   "id": "L5U09-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "character",
+   "item": "character",
+   "answer": "character"
+  },
+  {
+   "id": "L5U09-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "plot",
+   "item": "plot",
+   "answer": "plot"
+  },
+  {
+   "id": "L5U09-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "title",
+   "item": "title",
+   "answer": "title"
+  },
+  {
+   "id": "L5U09-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "chapter",
+   "item": "chapter",
+   "answer": "chapter"
+  },
+  {
+   "id": "L5U09-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "page",
+   "item": "page",
+   "answer": "page"
+  },
+  {
+   "id": "L5U09-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cover",
+   "item": "cover",
+   "answer": "cover"
+  },
+  {
+   "id": "L5U09-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "novel",
+   "item": "novel",
+   "answer": "novel"
+  },
+  {
+   "id": "L5U09-Q163",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Who is the author of this book?",
+   "answer": "Who is the author of this book?"
+  },
+  {
+   "id": "L5U09-Q164",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My favourite character is the brave girl.",
+   "answer": "My favourite character is the brave girl."
+  },
+  {
+   "id": "L5U09-Q165",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The main character is a clever fox.",
+   "answer": "The main character is a clever fox."
+  }
+ ]
+}

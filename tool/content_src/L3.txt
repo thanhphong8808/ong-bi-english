@@ -1,0 +1,787 @@
+# Level 3 - Flyers (A2)
+@U 1 | All about me | Tất cả về tớ | Giới thiệu bản thân: tháng sinh, tính cách, sở thích ; Nói lý do bằng "because"
+G Muốn nói lý do, dùng "because" (vì): "I like Sundays because I can sleep late." Phần sau "because" là một câu đầy đủ.
+W know | biết | ~💡 | I know your name. | Tớ biết tên cậu.
+W think | nghĩ | 🤔 | I think he is very kind. | Tớ nghĩ bạn ấy rất tốt bụng.
+W see | nhìn thấy | ~🔭 | I can see a rainbow. | Tớ nhìn thấy cầu vồng.
+W tell | kể, nói cho biết | ~🗣️ | Tell me about your family. | Kể cho tớ về gia đình cậu đi.
+W say | nói | ~💬 | Say hello to Grandma. | Chào bà đi con.
+W because | bởi vì | ~➡️ | I'm happy because it's my birthday. | Tớ vui vì hôm nay là sinh nhật tớ.
+W about | về | ~📖 | This book is about animals. | Cuốn sách này nói về động vật.
+W from | từ | ~📍 | This card is from my aunt. | Tấm thiệp này là của dì gửi.
+W now | bây giờ | ~⏰ | It's time for bed now. | Giờ đi ngủ rồi.
+W also | cũng | ~➕ | I like cats. I also like dogs. | Tớ thích mèo. Tớ cũng thích chó.
+W only | chỉ | ~☝️ | I only have one brother. | Tớ chỉ có một anh trai.
+W little | nhỏ, bé | ~🐣 | My little sister is two. | Em gái nhỏ của tớ hai tuổi.
+W born | được sinh ra | ~🍼 | I was born in a small town. | Tớ sinh ra ở một thị trấn nhỏ.
+W January | tháng Một | ~🗓️ | My birthday is in January. | Sinh nhật tớ vào tháng Một.
+W February | tháng Hai | ~🗓️ | It's cold in February. | Tháng Hai trời lạnh.
+W March | tháng Ba | ~🗓️ | The trees are green in March. | Cây xanh vào tháng Ba.
+W April | tháng Tư | ~🗓️ | It often rains in April. | Tháng Tư hay mưa.
+W May | tháng Năm | ~🗓️ | We have a holiday in May. | Nhà tớ có kỳ nghỉ vào tháng Năm.
+W June | tháng Sáu | ~🗓️ | School finishes in June. | Tháng Sáu là hết năm học.
+W July | tháng Bảy | ~🗓️ | It's very hot in July. | Tháng Bảy trời rất nóng.
+W August | tháng Tám | ~🗓️ | We go to the beach in August. | Nhà tớ đi biển vào tháng Tám.
+W September | tháng Chín | ~🗓️ | School starts in September. | Năm học bắt đầu vào tháng Chín.
+W October | tháng Mười | ~🗓️ | My dad's birthday is in October. | Sinh nhật bố tớ vào tháng Mười.
+W November | tháng Mười Một | ~🗓️ | It's cool in November. | Tháng Mười Một trời mát.
+W December | tháng Mười Hai | ~🗓️ | December is the last month of the year. | Tháng Mười Hai là tháng cuối cùng của năm.
+W friendly | thân thiện | ~😊 | My new teacher is friendly. | Cô giáo mới của tớ thân thiện.
+W shy | nhút nhát | ~😶 | Don't be shy. Say hello! | Đừng ngại. Chào đi nào!
+W brave | dũng cảm | ~🦸 | The firefighter is very brave. | Chú lính cứu hoả rất dũng cảm.
+W polite | lễ phép | ~🙇 | Say please and thank you. Be polite! | Nói làm ơn và cảm ơn nhé. Hãy lễ phép!
+W helpful | hay giúp đỡ | ~🫱 | My brother is very helpful. | Anh tớ rất hay giúp đỡ.
+W naughty | nghịch ngợm | ~😜 | The puppy is naughty. | Cún con nghịch ngợm.
+W curious | tò mò | ~🧐 | Cats are curious. | Mèo rất tò mò.
+W calm | bình tĩnh | ~😌 | Stay calm and listen. | Bình tĩnh và lắng nghe nhé.
+W lazy | lười | ~🦥 | Don't be lazy. Help your mum! | Đừng lười. Giúp mẹ đi!
+W same | giống nhau | ~🟰 | We are in the same class. | Chúng tớ học cùng lớp.
+W different | khác nhau | ~🔀 | My cat and my dog are very different. | Mèo và chó của tớ rất khác nhau.
+P I was born in {x}. | Tớ sinh vào {x}. | January,May,July,October
+P I like {x} because it's fun. | Tớ thích {x} vì nó vui. | swimming,reading,drawing,dancing
+P My friend is very {x}. | Bạn tớ rất {x}. | friendly,brave,helpful,curious
+D Làm quen | Bi,Kid | May,June,March
+> Bi: Tell me about you. When were you born? | Kể về cậu đi. Cậu sinh vào tháng nào?
+> Kid: I was born in May. And you? | Tớ sinh vào tháng Năm. Còn cậu?
+> Bi: In June! Are you shy? | Tháng Sáu! Cậu có nhút nhát không?
+> Kid: No, I'm friendly. I like new friends. | Không, tớ thân thiện. Tớ thích bạn mới.
+> Bi: Me too! Let's be friends. | Tớ cũng vậy! Mình làm bạn nhé.
+D Vì sao cậu thích? | Bi,Kid | Sundays,Saturdays,holidays
+> Bi: What's your favourite day? | Cậu thích ngày nào nhất?
+> Kid: I like Sundays. | Tớ thích Chủ nhật.
+> Bi: Why? | Vì sao?
+> Kid: Because I can sleep late and play with Dad. | Vì tớ được ngủ muộn và chơi với bố.
+> Bi: I like Sundays too! | Tớ cũng thích Chủ nhật!
+R This is me
+> Hi! My name is Mai. I'm seven years old. I was born in October. I live in a small house with my mum, my dad and my little brother. I'm friendly and curious. I like books because I can learn about animals. My brother is naughty, but he is funny too. My best friend is Linh. We are in the same class, but we are very different. Linh is calm and I am noisy!
+? When was Mai born? | In October. | In May. | In July.
+? Why does Mai like books? | She can learn about animals. | They are cheap. | Her brother likes them.
+? Who is calm? | Linh. | Mai. | Mai's brother.
+S My name is | I was born in | I like
+
+@U 2 | Feelings | Cảm xúc | Nói cảm xúc của mình và lý do ; Hỏi bạn "What's wrong?" và an ủi bạn
+G Nói cảm xúc dùng "feel + từ chỉ cảm xúc": "I feel nervous." Hỏi bạn: "How do you feel?" (Cậu thấy thế nào?) hoặc "What's wrong?" (Có chuyện gì vậy?).
+W feeling | cảm xúc | ~💭 | It's okay to talk about your feelings. | Nói về cảm xúc của mình là điều bình thường.
+W nervous | hồi hộp, lo lắng | 😬 | I feel nervous before a test. | Tớ thấy hồi hộp trước bài kiểm tra.
+W proud | tự hào | ~🏅 | Mum is proud of me. | Mẹ tự hào về tớ.
+W worried | lo lắng | 😟 | Dad is worried because I'm ill. | Bố lo vì tớ bị ốm.
+W surprised | ngạc nhiên | 😲 | I was surprised by the present. | Tớ ngạc nhiên vì món quà.
+W lonely | cô đơn | ~😔 | The little bird feels lonely. | Chú chim nhỏ thấy cô đơn.
+W upset | buồn bực | ~😞 | Lan is upset because her kite is broken. | Lan buồn vì con diều bị hỏng.
+W jealous | ghen tị | ~😒 | Don't be jealous. Let's share! | Đừng ghen tị. Mình chia sẻ nhé!
+W embarrassed | xấu hổ | 😳 | I feel embarrassed when I make a mistake. | Tớ thấy xấu hổ khi làm sai.
+W glad | vui mừng | ~😀 | I'm glad you are here. | Tớ mừng vì cậu ở đây.
+W relaxed | thư giãn | ~😎 | I feel relaxed after a warm bath. | Tớ thấy thư giãn sau khi tắm nước ấm.
+W afraid | sợ | ~😨 | Are you afraid of the dark? | Cậu có sợ bóng tối không?
+W confused | bối rối | 😕 | I'm confused. Can you say it again? | Tớ chưa hiểu. Cậu nói lại được không?
+W grumpy | cáu kỉnh | ~😤 | Grandpa is grumpy in the morning. | Ông hay cáu vào buổi sáng.
+W wrong | sai, có chuyện | ~❌ | What's wrong? Why are you crying? | Có chuyện gì vậy? Sao cậu khóc?
+W alone | một mình | ~🧍 | Don't walk home alone. | Đừng đi bộ về nhà một mình.
+W shout | hét | ~📢 | Please don't shout. | Đừng hét nhé.
+W frown | cau mày | ☹️ | Smile! Don't frown. | Cười lên! Đừng cau mày.
+W worry | lo lắng | ~😰 | Don't worry. I can help you. | Đừng lo. Tớ giúp cậu được.
+W cheer up | vui lên | ~🌈 | Cheer up! It's only a game. | Vui lên nào! Chỉ là trò chơi thôi.
+W calm down | bình tĩnh lại | ~🧘 | Calm down and take a deep breath. | Bình tĩnh lại và hít thở sâu nào.
+W tear | nước mắt | ~💧 | She has tears on her face. | Bạn ấy có nước mắt trên mặt.
+W mood | tâm trạng | ~🎭 | Dad is in a good mood today. | Hôm nay bố vui.
+W secret | bí mật | 🤫 | Can you keep a secret? | Cậu giữ bí mật được không?
+W dream | giấc mơ, mơ | 💭 | I had a funny dream. | Tớ có một giấc mơ buồn cười.
+W nightmare | ác mộng | ~👻 | I had a nightmare about a monster. | Tớ gặp ác mộng về quái vật.
+W fight | đánh nhau, cãi nhau | ~🥊 | Don't fight. Be friends! | Đừng đánh nhau. Làm bạn đi!
+W promise | hứa | ~🤞 | I promise to help you. | Tớ hứa sẽ giúp cậu.
+W joke | chuyện cười | ~😂 | Tell me a joke! | Kể chuyện cười cho tớ nghe đi!
+W hate | ghét | ~👎 | I hate rainy days. | Tớ ghét ngày mưa.
+P I feel {x} today. | Hôm nay tớ thấy {x}. | nervous,proud,relaxed,lonely
+P Don't {x}. | Đừng {x}. | worry,shout,fight,frown
+P Are you {x}? | Cậu có {x} không? | worried,afraid,upset,confused
+D Có chuyện gì vậy? | Bi,Kid | dog,cat,rabbit
+> Bi: What's wrong? You look sad. | Có chuyện gì vậy? Trông cậu buồn thế.
+> Kid: I'm worried. My dog is ill. | Tớ lo lắm. Con chó của tớ bị ốm.
+> Bi: Oh no! Is it at the vet? | Ôi không! Nó có ở chỗ bác sĩ thú y không?
+> Kid: Yes. The vet is very kind. | Có. Bác sĩ thú y rất tốt.
+> Bi: Don't worry. The vet can help. | Đừng lo. Bác sĩ thú y sẽ giúp được.
+> Kid: Thanks, Bi. I feel better now. | Cảm ơn Bi. Giờ tớ thấy đỡ hơn.
+D Tự hào | Bi,Kid | kite,plane,rocket
+> Kid: Look! I made a kite. | Nhìn này! Tớ làm được con diều.
+> Bi: Wow! It's beautiful. Are you proud? | Oa! Đẹp quá. Cậu có tự hào không?
+> Kid: Yes! I'm very proud. | Có! Tớ tự hào lắm.
+> Bi: Let's fly it in the park! | Mình mang ra công viên thả nhé!
+R A nervous day
+> Today is Nam's first day at a new school. He feels nervous and a little shy. His mum says, Don't worry, you can make new friends. In the classroom, a girl smiles at him. Hi, I'm Linh. Do you want to sit with me? Nam is surprised and glad. At lunch, they share a sandwich and tell jokes. After school, Nam runs to his mum. I have a new friend! His mum is very proud.
+? How does Nam feel in the morning? | Nervous. | Angry. | Grumpy.
+? Who smiles at Nam? | Linh. | His mum. | The teacher.
+? What do Nam and Linh share at lunch? | A sandwich. | A cake. | An apple.
+S Today I feel | I feel happy when | I don't like it when
+
+@U 3 | Plans | Dự định | Nói về dự định với "going to" ; Hỏi bạn sẽ làm gì cuối tuần
+G Nói dự định dùng "be going to + động từ": "I'm going to visit Grandma." (Tớ định đi thăm bà.) Hỏi bạn: "What are you going to do?"
+W plan | kế hoạch | ~🗒️ | What's your plan for the weekend? | Cậu có kế hoạch gì cho cuối tuần?
+W going to | sẽ, định | ~🔜 | I'm going to visit my grandma. | Tớ định đi thăm bà.
+W start | bắt đầu | ~🏁 | The party starts at five o'clock. | Bữa tiệc bắt đầu lúc năm giờ.
+W finish | làm xong, kết thúc | 🏁 | I finish my homework before dinner. | Tớ làm xong bài tập trước bữa tối.
+W learn | học | ~📚 | I'm going to learn to swim. | Tớ sẽ học bơi.
+W test | bài kiểm tra | ~📃 | We have a test tomorrow. | Ngày mai bọn tớ có bài kiểm tra.
+W idea | ý tưởng | ~💡 | That's a great idea! | Ý hay đấy!
+W soon | sớm, chẳng bao lâu nữa | ~⏳ | See you soon! | Hẹn sớm gặp lại!
+W later | lát nữa, sau | ~⌛ | I'm going to play later. | Lát nữa tớ sẽ chơi.
+W tonight | tối nay | ~🌛 | What are you going to do tonight? | Tối nay cậu định làm gì?
+W maybe | có lẽ | ~🤷 | Maybe we can go to the zoo. | Có lẽ mình sẽ đi sở thú.
+W ready | sẵn sàng | ~👌 | Are you ready? Let's go! | Cậu sẵn sàng chưa? Đi thôi!
+W wait | chờ | ~⏸️ | Wait for me, please! | Chờ tớ với!
+W hope | hy vọng, mong | ~🍀 | I hope it's sunny tomorrow. | Tớ mong mai trời nắng.
+W decide | quyết định | ~⚖️ | Let's decide together. | Mình cùng quyết định nhé.
+W camping | cắm trại | 🏕️ | We are going camping in the forest. | Nhà tớ sẽ đi cắm trại trong rừng.
+W tent | cái lều | ⛺ | We sleep in a tent. | Bọn tớ ngủ trong lều.
+W pack | xếp đồ | ~🎒 | Pack your bag tonight. | Tối nay xếp ba lô đi nhé.
+W torch | đèn pin | 🔦 | Take a torch. It's dark at night. | Mang đèn pin nhé. Ban đêm trời tối.
+W sleeping bag | túi ngủ | ~🛌 | My sleeping bag is warm. | Túi ngủ của tớ ấm.
+W campfire | lửa trại | 🔥 | We sit near the campfire. | Bọn tớ ngồi gần lửa trại.
+W hike | đi bộ đường dài | ~🥾 | We hike up the mountain. | Nhà tớ đi bộ lên núi.
+W travel | đi du lịch | ~✈️ | I want to travel by plane. | Tớ muốn đi du lịch bằng máy bay.
+W concert | buổi hoà nhạc | ~🎼 | We're going to a concert on Saturday. | Thứ Bảy nhà tớ đi xem hoà nhạc.
+W show | buổi biểu diễn, cho xem | ~🎪 | Show me your drawing! | Cho tớ xem tranh của cậu nào!
+W fair | hội chợ | 🎡 | There is a fair in the park. | Có hội chợ ở công viên.
+W adventure | cuộc phiêu lưu | ~🗺️ | Let's go on an adventure! | Mình đi phiêu lưu nào!
+W explore | khám phá | ~🧭 | Let's explore the cave. | Mình khám phá hang động nào.
+W a lot | nhiều | ~➕ | I have a lot of homework. | Tớ có nhiều bài tập lắm.
+W out | ra ngoài | ~🚪 | Let's go out and play. | Mình ra ngoài chơi đi.
+W song | bài hát | 🎵 | Let's sing a song. | Mình hát một bài nhé.
+W next week | tuần sau | ~📆 | We are going to the beach next week. | Tuần sau nhà tớ đi biển.
+P I'm going to {x} this weekend. | Cuối tuần này tớ định {x}. | go camping,visit my grandma,learn to swim,play football
+P Are you going to {x}? | Cậu có định {x} không? | go to the fair,watch the concert,explore the cave
+P I hope it's {x} tomorrow. | Tớ mong mai trời {x}. | sunny,warm,windy
+D Kế hoạch cuối tuần | Bi,Kid | camping,fishing,hiking
+> Bi: What are you going to do this weekend? | Cuối tuần này cậu định làm gì?
+> Kid: I'm going to go camping with my family. | Tớ định đi cắm trại với gia đình.
+> Bi: Wow! Where are you going to sleep? | Oa! Cậu sẽ ngủ ở đâu?
+> Kid: In a tent in the forest. | Trong lều ở trong rừng.
+> Bi: Don't forget your torch! | Đừng quên đèn pin nhé!
+> Kid: Good idea! | Ý hay đấy!
+D Đi hội chợ | Bi,Kid | fair,concert,show
+> Kid: Are you ready, Bi? | Cậu sẵn sàng chưa, Bi?
+> Bi: Ready! Where are we going? | Sẵn sàng! Mình đi đâu thế?
+> Kid: We are going to the fair. | Mình đi hội chợ.
+> Bi: Great! Can we go on the big wheel? | Tuyệt! Mình đi đu quay được không?
+> Kid: Yes, but we have to wait. | Được, nhưng phải chờ đấy.
+R Our camping plan
+> Next week, my family is going to go camping. We are going to drive to a forest near a big lake. My dad is going to put up the tent. My mum is going to cook dinner on the campfire. My sister and I are going to explore the forest with a torch. At night, we are going to look at the stars and sing songs. I hope it's sunny. It's going to be a great adventure!
+? Where is the family going to go? | Camping in a forest. | To the beach. | To the city.
+? Who is going to cook dinner? | Mum. | Dad. | The sister.
+? What are the children going to take to explore the forest? | A torch. | A map. | A camera.
+S This weekend I'm going to | Next week I'm going to | I hope
+
+@U 4 | What happened? | Chuyện gì đã xảy ra? | Kể lại việc đã làm hôm qua, cuối tuần trước ; Dùng các động từ quá khứ bất quy tắc thường gặp
+G Kể chuyện đã qua dùng động từ quá khứ. Nhiều động từ chỉ cần thêm "-ed" (play → played), nhưng một số đổi hẳn: go → went, buy → bought, see → saw. Bé học thuộc dần từng từ.
+W happen | xảy ra | ~❗ | What happened yesterday? | Hôm qua đã xảy ra chuyện gì?
+W bought | đã mua (buy) | ~🛍️ | Mum bought me a new bag. | Mẹ đã mua cho tớ cái cặp mới.
+W found | đã tìm thấy (find) | ~🔍 | I found a coin under the sofa. | Tớ tìm thấy đồng xu dưới ghế sofa.
+W told | đã kể, đã bảo (tell) | ~🗣️ | Grandma told me a story. | Bà đã kể cho tớ một câu chuyện.
+W thought | đã nghĩ, đã tưởng (think) | ~💭 | I thought it was a cat, but it was a fox. | Tớ tưởng đó là mèo, nhưng hoá ra là cáo.
+W wrote | đã viết (write) | ~✍️ | I wrote a card to my aunt. | Tớ đã viết thiệp cho dì.
+W flew | đã bay (fly) | ~🕊️ | The bird flew over the house. | Con chim đã bay qua ngôi nhà.
+W slept | đã ngủ (sleep) | ~💤 | The baby slept all afternoon. | Em bé ngủ cả buổi chiều.
+W lost | đã làm mất (lose) | ~😞 | I lost my pencil at school. | Tớ làm mất bút chì ở trường.
+W broke | đã làm vỡ (break) | ~💔 | Max broke a glass. | Max đã làm vỡ cái cốc.
+W fell | đã ngã (fall) | ~⬇️ | Leo fell off his bike. | Leo bị ngã xe đạp.
+W forgot | đã quên (forget) | ~❓ | I forgot my umbrella. | Tớ quên ô rồi.
+W caught | đã bắt được (catch) | ~🧤 | The cat caught a mouse. | Con mèo bắt được chuột.
+W drew | đã vẽ (draw) | ~🖌️ | I drew a dinosaur. | Tớ đã vẽ một con khủng long.
+W felt | đã cảm thấy (feel) | ~🫀 | I felt sleepy after lunch. | Sau bữa trưa tớ thấy buồn ngủ.
+W met | đã gặp (meet) | ~🫂 | I met my cousin at the park. | Tớ gặp chị họ ở công viên.
+W rode | đã đạp xe, đã cưỡi (ride) | ~🚴 | We rode our bikes to the lake. | Bọn tớ đạp xe ra hồ.
+W sang | đã hát (sing) | ~🎤 | We sang a song for Grandpa. | Bọn tớ hát tặng ông một bài.
+W sent | đã gửi (send) | ~📨 | Dad sent me a photo. | Bố gửi cho tớ một tấm ảnh.
+W taught | đã dạy (teach) | ~🧑‍🏫 | My mum taught me to cook. | Mẹ đã dạy tớ nấu ăn.
+W threw | đã ném (throw) | ~🤾 | He threw the ball to me. | Bạn ấy ném bóng cho tớ.
+W woke up | đã thức dậy (wake up) | ~⏰ | I woke up early today. | Hôm nay tớ dậy sớm.
+W won | đã thắng (win) | ~🏆 | Our team won the match! | Đội tớ thắng trận rồi!
+W wore | đã mặc (wear) | ~👗 | She wore a pink dress. | Bạn ấy mặc váy hồng.
+W brought | đã mang đến (bring) | ~🎒 | Mai brought a cake to school. | Mai mang bánh đến trường.
+W heard | đã nghe thấy (hear) | ~👂 | I heard a bird in the tree. | Tớ nghe thấy tiếng chim trên cây.
+W knew | đã biết (know) | ~💡 | I knew the answer! | Tớ biết câu trả lời!
+W began | đã bắt đầu (begin) | ~🏁 | It began to rain. | Trời bắt đầu mưa.
+W break | làm vỡ | ~💔 | Be careful. Don't break the cups. | Cẩn thận. Đừng làm vỡ cốc.
+W meet | gặp | ~🫂 | Nice to meet you! | Rất vui được gặp cậu!
+W hear | nghe thấy | ~👂 | Can you hear me? | Cậu có nghe tớ nói không?
+W send | gửi | 📨 | Send a card to Grandma. | Gửi thiệp cho bà nhé.
+W accident | sự cố, tai nạn | ~🚑 | It was an accident. I'm sorry. | Tớ không cố ý đâu. Xin lỗi nhé.
+W last week | tuần trước | ~📆 | I went to the zoo last week. | Tuần trước tớ đi sở thú.
+P Yesterday I {x}. | Hôm qua tớ {x}. | woke up early,met my friend,rode my bike,lost my pencil
+P What happened to the {x}? | {x} bị làm sao thế? | cup,window,kite
+P Last week I went to the {x}. | Tuần trước tớ đi {x}. | zoo,beach,museum,park
+D Chuyện gì đã xảy ra? | Bi,Kid | knee,arm,hand
+> Bi: What happened to your knee? | Đầu gối cậu bị sao thế?
+> Kid: I fell off my bike. | Tớ bị ngã xe đạp.
+> Bi: Oh no! Does it hurt? | Ôi không! Có đau không?
+> Kid: A little. Mum put a plaster on it. | Hơi đau. Mẹ dán băng cho tớ rồi.
+> Bi: Be careful next time! | Lần sau cẩn thận nhé!
+D Cuối tuần của cậu | Bi,Kid | park,zoo,beach
+> Bi: What did you do last weekend? | Cuối tuần trước cậu làm gì?
+> Kid: I went to the park with my cousin. | Tớ đi công viên với chị họ.
+> Bi: What did you do there? | Cậu làm gì ở đó?
+> Kid: We flew a kite and ate ice cream. | Bọn tớ thả diều và ăn kem.
+> Bi: That's fun! | Vui thế!
+R A bad morning, a good day
+> Yesterday, Tom woke up late. He forgot his homework and ran to school. On the way, he fell and broke his ruler. He felt sad. At school, his friend Kim gave him a new ruler. In the art lesson, Tom drew a big rocket. The teacher put it on the wall! After school, Tom found a coin in the playground. He bought a lemonade and shared it with Kim. It began badly, but it was a good day!
+? Why did Tom run to school? | He woke up late. | He wanted to play. | It was raining.
+? What did Kim give Tom? | A new ruler. | A coin. | A lemonade.
+? What did Tom draw? | A rocket. | A ruler. | A cat.
+S Yesterday I | Last weekend I went to | It was
+
+@U 5 | Once upon a time | Ngày xửa ngày xưa | Kể một câu chuyện ngắn theo thứ tự: first, then, after that, finally ; Nghe hiểu và kể lại truyện cổ tích ngắn
+G Kể chuyện theo thứ tự dùng: First (Đầu tiên), Then (Rồi), After that (Sau đó), Finally (Cuối cùng). Truyện cổ tích hay mở đầu bằng "Once upon a time..." (Ngày xửa ngày xưa...).
+W story | câu chuyện | ~📖 | Grandma tells me a story every night. | Tối nào bà cũng kể chuyện cho tớ.
+W once upon a time | ngày xửa ngày xưa | ~📜 | Once upon a time, there was a little dragon. | Ngày xửa ngày xưa, có một chú rồng nhỏ.
+W king | nhà vua | ~👑 | The king lives in a big castle. | Nhà vua sống trong một lâu đài lớn.
+W prince | hoàng tử | 🤴 | The prince has a white horse. | Hoàng tử có một con ngựa trắng.
+W princess | công chúa | ~👸 | The princess can climb trees. | Công chúa biết trèo cây.
+W castle | lâu đài | 🏰 | Let's build a sand castle! | Mình xây lâu đài cát nhé!
+W tower | toà tháp | ~🗼 | The princess is in the tower. | Công chúa ở trong toà tháp.
+W dragon | con rồng | 🐉 | The dragon is green and friendly. | Chú rồng màu xanh và thân thiện.
+W giant | người khổng lồ | ~👣 | The giant has very big feet. | Người khổng lồ có bàn chân rất to.
+W fairy | nàng tiên | 🧚 | The fairy has small wings. | Nàng tiên có đôi cánh nhỏ.
+W wizard | ông phù thuỷ | 🧙 | The wizard has a tall hat. | Ông phù thuỷ đội chiếc mũ cao.
+W unicorn | kỳ lân | 🦄 | The unicorn is white with a pink tail. | Con kỳ lân màu trắng, đuôi hồng.
+W magic | phép thuật | ~✨ | The fairy can do magic. | Nàng tiên biết làm phép.
+W crown | vương miện | 👑 | The king wears a gold crown. | Nhà vua đội vương miện vàng.
+W treasure | kho báu | 💰 | The map shows the treasure. | Tấm bản đồ chỉ chỗ kho báu.
+W gold | vàng | ~🟡 | The box is full of gold. | Cái hộp đầy vàng.
+W silver | bạc | ~🥈 | She has a silver ring. | Cô ấy có chiếc nhẫn bạc.
+W poor | nghèo | ~🥺 | The poor man has no money. | Người đàn ông nghèo không có tiền.
+W rich | giàu | ~💎 | The rich king has a lot of gold. | Ông vua giàu có rất nhiều vàng.
+W lucky | may mắn | 🍀 | I found a coin. I'm lucky! | Tớ nhặt được đồng xu. Tớ may mắn quá!
+W strange | lạ | ~🌀 | What a strange animal! | Con vật lạ quá!
+W noise | tiếng động | ~🔊 | I heard a noise in the kitchen. | Tớ nghe thấy tiếng động trong bếp.
+W suddenly | bỗng nhiên | ~⚡ | Suddenly, it began to rain. | Bỗng nhiên trời đổ mưa.
+W finally | cuối cùng | ~🏁 | Finally, they found the treasure. | Cuối cùng, họ đã tìm thấy kho báu.
+W after that | sau đó | ~⏭️ | After that, we had lunch. | Sau đó, bọn tớ ăn trưa.
+W the end | hết (truyện) | ~🔚 | And they were friends. The end! | Và họ trở thành bạn. Hết!
+W save | cứu | ~🦸 | The hero saves the town. | Người anh hùng cứu thị trấn.
+W escape | trốn thoát | ~🏃 | The bird escaped from the cage. | Con chim trốn khỏi lồng.
+W happily ever after | hạnh phúc mãi mãi | ~💖 | They lived happily ever after. | Họ sống hạnh phúc mãi mãi.
+W hero | người anh hùng | 🦸 | You are my hero! | Cậu là người hùng của tớ!
+W wand | đũa phép | 🪄 | The fairy waves her wand. | Nàng tiên vẫy đũa phép.
+W bad | xấu, tệ | ~👎 | It's a bad idea. | Đó là ý không hay.
+W scary | đáng sợ | ~😱 | The giant is not scary. He is kind. | Người khổng lồ không đáng sợ. Ông ấy tốt bụng.
+P Once upon a time, there was a {x}. | Ngày xửa ngày xưa, có một {x}. | king,dragon,giant,princess
+P Suddenly, the {x} saw a dragon. | Bỗng nhiên, {x} nhìn thấy một con rồng. | prince,princess,wizard,fairy
+P {x}, the hero found the map. | {x}, người anh hùng tìm thấy tấm bản đồ. | First,Then,After that,Finally
+D Kể chuyện cùng Bi | Bi,Kid | dragon,giant,unicorn
+> Bi: Let's tell a story! You start. | Mình cùng kể chuyện nhé! Cậu bắt đầu đi.
+> Kid: Once upon a time, there was a little dragon. | Ngày xửa ngày xưa, có một chú rồng nhỏ.
+> Bi: Was it scary? | Nó có đáng sợ không?
+> Kid: No! It was friendly and it liked apples. | Không! Nó thân thiện và thích ăn táo.
+> Bi: Then what happened? | Rồi chuyện gì xảy ra?
+> Kid: It found a magic apple tree. The end! | Nó tìm thấy một cây táo thần. Hết!
+D Tìm kho báu | Bi,Kid | treasure,crown,gold
+> Kid: Look! I found an old map. | Nhìn này! Tớ tìm thấy một tấm bản đồ cũ.
+> Bi: Is it a treasure map? | Có phải bản đồ kho báu không?
+> Kid: Yes! The treasure is in the cave. | Đúng! Kho báu ở trong hang.
+> Bi: Let's go! Take a torch. | Đi thôi! Mang đèn pin nhé.
+R The kind giant
+> Once upon a time, there was a poor girl called Hoa. She lived near a big forest. One day, she heard a strange noise. It was a giant! He was crying. Hoa was afraid, but she was brave. She asked him what was wrong. He said that he lost his little dog. Hoa looked everywhere. Finally, she found the dog under a tree. The giant was very happy. He gave Hoa a bag of gold. After that, they were best friends, and they lived happily ever after.
+? Why was the giant crying? | He lost his dog. | He was hungry. | He was lonely.
+? Where did Hoa find the dog? | Under a tree. | In a cave. | In the castle.
+? What did the giant give Hoa? | A bag of gold. | A crown. | A magic wand.
+S Once upon a time | Suddenly | Finally
+
+@U 6 | Our planet | Hành tinh của chúng ta | Nói những việc làm để bảo vệ môi trường ; Khuyên bạn bằng "We should..."
+G Khuyên ai nên làm gì dùng "should + động từ": "We should save water." (Chúng ta nên tiết kiệm nước.) Không nên: "We shouldn't waste food."
+W planet | hành tinh | 🪐 | We live on a beautiful planet. | Chúng ta sống trên một hành tinh xinh đẹp.
+W Earth | Trái Đất | 🌍 | The Earth is our home. | Trái Đất là ngôi nhà của chúng ta.
+W world | thế giới | ~🌐 | There are many animals in the world. | Trên thế giới có rất nhiều loài vật.
+W nature | thiên nhiên | ~🌿 | I love nature. | Tớ yêu thiên nhiên.
+W environment | môi trường | ~🌎 | Let's keep the environment clean. | Hãy giữ môi trường sạch sẽ.
+W rubbish | rác | ~🚮 | Don't leave rubbish on the beach. | Đừng để rác lại trên bãi biển.
+W bin | thùng rác | 🗑️ | Put the rubbish in the bin. | Bỏ rác vào thùng nhé.
+W recycle | tái chế | ♻️ | We recycle paper and bottles. | Nhà tớ tái chế giấy và chai lọ.
+W reuse | dùng lại | ~🔁 | Reuse your shopping bags. | Dùng lại túi đi chợ nhé.
+W plastic | nhựa | ~🥤 | This bottle is made of plastic. | Cái chai này làm bằng nhựa.
+W metal | kim loại | 🔩 | The spoon is made of metal. | Cái thìa làm bằng kim loại.
+W waste | lãng phí | ~🚯 | Don't waste water. | Đừng lãng phí nước.
+W energy | năng lượng | ~⚡ | The sun gives us energy. | Mặt trời cho chúng ta năng lượng.
+W electricity | điện | 🔌 | The lamp needs electricity. | Cái đèn cần điện.
+W turn off | tắt | ~📴 | Turn off the light, please. | Con tắt đèn đi.
+W pollution | sự ô nhiễm | ~🏭 | Cars make a lot of pollution. | Ô tô gây ra nhiều ô nhiễm.
+W smoke | khói | 💨 | There is smoke from the factory. | Có khói từ nhà máy.
+W protect | bảo vệ | ~🛡️ | We should protect animals. | Chúng ta nên bảo vệ động vật.
+W should | nên | ~👉 | You should drink water. | Cậu nên uống nước.
+W down | xuống | ~⏬ | Sit down, please. | Mời ngồi xuống.
+W cut down | chặt (cây) | ~🪓 | Don't cut down the trees. | Đừng chặt cây.
+W pick up | nhặt lên | ~🤏 | Pick up your toys, please. | Nhặt đồ chơi lên nào con.
+W throw away | vứt đi | ~🚮 | Don't throw away old toys. | Đừng vứt đồ chơi cũ đi.
+W ground | mặt đất | ~🟫 | The leaves are on the ground. | Lá nằm trên mặt đất.
+W fix | sửa | ~🔧 | Dad can fix my bike. | Bố sửa được xe đạp của tớ.
+W broken | bị hỏng | ~💔 | My toy car is broken. | Ô tô đồ chơi của tớ bị hỏng.
+W useful | có ích | ~👍 | A bag is very useful. | Cái túi rất có ích.
+W use | dùng, sử dụng | ~🧰 | I use a pencil to write. | Tớ dùng bút chì để viết.
+W less | ít hơn | ~➖ | Use less water. | Dùng ít nước hơn nhé.
+W instead | thay vào đó | ~🔄 | Don't take the car. Walk instead. | Đừng đi ô tô. Thay vào đó hãy đi bộ.
+P We should {x}. | Chúng ta nên {x}. | recycle paper,save water,turn off the lights,pick up rubbish
+P Don't {x}. | Đừng {x}. | waste water,throw away food,cut down trees
+P This is made of {x}. | Cái này làm bằng {x}. | plastic,metal,glass,paper
+D Bỏ rác đúng chỗ | Bi,Kid | bottle,bag,box
+> Bi: Look! There is a bottle on the ground. | Nhìn kìa! Có cái chai trên mặt đất.
+> Kid: Let's pick it up. | Mình nhặt nó lên đi.
+> Bi: Where should we put it? | Mình nên bỏ nó vào đâu?
+> Kid: In the recycling bin! | Vào thùng rác tái chế!
+> Bi: Good job! We can protect the Earth. | Giỏi lắm! Mình có thể bảo vệ Trái Đất.
+D Tiết kiệm điện nước | Bi,Kid | light,TV,tap
+> Kid: Bi, the light is on, but nobody is here. | Bi ơi, đèn bật mà không có ai ở đây.
+> Bi: Let's turn it off. We shouldn't waste energy. | Mình tắt nó đi. Không nên lãng phí năng lượng.
+> Kid: And we should turn off the tap too. | Và mình cũng nên khoá vòi nước nữa.
+> Bi: You're right! | Cậu nói đúng!
+R Clean beach day
+> Last Sunday, Lan and her class went to the beach. But it was very dirty. There was a lot of rubbish on the sand. There were plastic bottles, bags and old shoes. The children picked up all the rubbish. They put the plastic and glass in the recycling bins. After that, the beach was clean and beautiful again. A turtle walked out of the sea. Lan smiled. She was proud of her class.
+? Where did Lan's class go? | To the beach. | To the forest. | To the zoo.
+? What did the children do? | They picked up rubbish. | They swam in the sea. | They built a castle.
+? What came out of the sea? | A turtle. | A dolphin. | A fish.
+S We should | We shouldn't | I can help the Earth
+
+@U 7 | Space | Vũ trụ | Gọi tên các hành tinh và vật thể trong vũ trụ ; So sánh "the biggest", "the hottest"
+G So sánh nhất: thêm "-est" với từ ngắn (big → the biggest, hot → the hottest), dùng "the most" với từ dài (the most beautiful): "Jupiter is the biggest planet."
+W space | vũ trụ, không gian | ~🌌 | Astronauts travel into space. | Các nhà du hành bay vào vũ trụ.
+W astronaut | nhà du hành vũ trụ | 🧑‍🚀 | I want to be an astronaut. | Tớ muốn trở thành nhà du hành vũ trụ.
+W spaceship | tàu vũ trụ | 🛸 | The spaceship is going to the moon. | Con tàu vũ trụ đang bay lên mặt trăng.
+W alien | người ngoài hành tinh | 👽 | The alien is green and has three eyes. | Người ngoài hành tinh màu xanh và có ba mắt.
+W Mars | sao Hoả | ~🔴 | Mars is red. | Sao Hoả màu đỏ.
+W Jupiter | sao Mộc | ~🪐 | Jupiter is the biggest planet. | Sao Mộc là hành tinh lớn nhất.
+W Saturn | sao Thổ | ~🪐 | Saturn has beautiful rings. | Sao Thổ có những vành đai rất đẹp.
+W Venus | sao Kim | ~✨ | Venus is the hottest planet. | Sao Kim là hành tinh nóng nhất.
+W Mercury | sao Thuỷ | ~🌑 | Mercury is near the Sun. | Sao Thuỷ ở gần Mặt Trời.
+W Neptune | sao Hải Vương | ~🔵 | Neptune is very cold and far away. | Sao Hải Vương rất lạnh và ở rất xa.
+W comet | sao chổi | ☄️ | A comet has a long tail. | Sao chổi có cái đuôi dài.
+W galaxy | thiên hà | 🌌 | There are millions of stars in our galaxy. | Thiên hà của chúng ta có hàng triệu ngôi sao.
+W universe | vũ trụ bao la | ~🌠 | The universe is very, very big. | Vũ trụ vô cùng rộng lớn.
+W satellite | vệ tinh | 🛰️ | The satellite goes around the Earth. | Vệ tinh bay quanh Trái Đất.
+W telescope | kính thiên văn | ~🔭 | I look at the moon with a telescope. | Tớ ngắm mặt trăng bằng kính thiên văn.
+W spacesuit | bộ đồ du hành | ~🧑‍🚀 | Astronauts wear a spacesuit. | Nhà du hành mặc bộ đồ du hành vũ trụ.
+W helmet | mũ bảo hiểm | ⛑️ | Wear a helmet on your bike. | Đội mũ bảo hiểm khi đi xe đạp nhé.
+W ring | chiếc nhẫn, vành đai | 💍 | Mum has a gold ring. | Mẹ có chiếc nhẫn vàng.
+W float | trôi, lơ lửng | ~🎈 | Astronauts float in the spaceship. | Nhà du hành lơ lửng trong tàu vũ trụ.
+W land | hạ cánh, đất liền | ~🛬 | The plane is going to land soon. | Máy bay sắp hạ cánh.
+W zero | số không | 0️⃣ | Three, two, one, zero! | Ba, hai, một, không!
+W hundred | một trăm | ~💯 | There are two hundred children in my school. | Trường tớ có hai trăm bạn nhỏ.
+W million | triệu | ~🔢 | There are millions of stars in the sky. | Có hàng triệu ngôi sao trên bầu trời.
+W around | xung quanh | ~🔄 | The Earth goes around the Sun. | Trái Đất quay quanh Mặt Trời.
+W through | xuyên qua | ~↪️ | The rocket flies through the clouds. | Tên lửa bay xuyên qua những đám mây.
+W shine | chiếu sáng | ~🌟 | The stars shine at night. | Các vì sao toả sáng vào ban đêm.
+W dust | bụi | ~🌫️ | There is a lot of dust on the moon. | Trên mặt trăng có rất nhiều bụi.
+W countdown | đếm ngược | ~⏲️ | Let's start the countdown! | Bắt đầu đếm ngược nào!
+W solar system | hệ Mặt Trời | ~☀️ | There are eight planets in our solar system. | Hệ Mặt Trời của chúng ta có tám hành tinh.
+W crater | miệng hố | ~🕳️ | There are big craters on the moon. | Trên mặt trăng có những hố lớn.
+W space station | trạm vũ trụ | ~🛰️ | Astronauts live on the space station. | Nhà du hành sống trên trạm vũ trụ.
+P I want to go to {x}. | Tớ muốn đến {x}. | Mars,the moon,Jupiter,Saturn
+P Look at the {x}! | Nhìn {x} kìa! | comet,stars,moon,satellite
+P Mars is {x} than the Earth. | Sao Hoả {x} hơn Trái Đất. | smaller,colder,redder
+D Bay vào vũ trụ | Bi,Kid | Mars,Saturn,Jupiter
+> Bi: Three, two, one, zero! | Ba, hai, một, không!
+> Kid: Wow! We are flying through space! | Oa! Mình đang bay trong vũ trụ!
+> Bi: Where do you want to go? | Cậu muốn đi đâu?
+> Kid: I want to go to Mars. | Tớ muốn đến sao Hoả.
+> Bi: Okay! Put on your helmet. | Được! Đội mũ vào nào.
+> Kid: Look! I can float! | Nhìn này! Tớ lơ lửng được!
+D Ngắm sao | Bi,Kid | comet,satellite,star
+> Kid: Look at the sky, Bi! Is that a comet? | Nhìn bầu trời kìa Bi! Đó có phải sao chổi không?
+> Bi: Let's look with the telescope. | Mình ngắm bằng kính thiên văn đi.
+> Kid: Wow! It's so bright! | Oa! Sáng quá!
+> Bi: The sky is beautiful tonight. | Tối nay bầu trời đẹp quá.
+R A trip to the moon
+> Mia is an astronaut. Today she is going to the moon. She puts on her spacesuit and her helmet. Then she gets into the spaceship. The countdown begins. Three, two, one, zero! The rocket flies up through the clouds. In space, Mia can float. She looks out of the window and sees the Earth. It is blue and green and very beautiful. Finally, the spaceship lands on the moon. Mia walks on the grey dust. She is very happy.
+? Where is Mia going? | To the moon. | To Mars. | To the sea.
+? What can Mia do in space? | She can float. | She can swim. | She can sleep.
+? What colour is the dust on the moon? | Grey. | Red. | Green.
+S I want to go to | In space, I can | The moon is
+
+@U 8 | Around the world | Vòng quanh thế giới | Nói mình đến từ đâu, nói được tiếng gì ; Hỏi bạn "Where are you from?"
+G Hỏi quê quán: "Where are you from?" – "I'm from Vietnam." Nói quốc tịch: "I'm Vietnamese." Tên nước và tên ngôn ngữ luôn viết hoa chữ cái đầu.
+W country | đất nước | ~🗺️ | Vietnam is a beautiful country. | Việt Nam là một đất nước xinh đẹp.
+W Vietnam | Việt Nam | 🇻🇳 | I'm from Vietnam. | Tớ đến từ Việt Nam.
+W Vietnamese | người Việt, tiếng Việt | ~🇻🇳 | I speak Vietnamese at home. | Ở nhà tớ nói tiếng Việt.
+W England | nước Anh | 🇬🇧 | London is in England. | Luân Đôn ở nước Anh.
+W English | tiếng Anh | ~🇬🇧 | I'm learning English with Bi. | Tớ đang học tiếng Anh với Bi.
+W America | nước Mỹ | 🇺🇸 | My uncle lives in America. | Chú tớ sống ở Mỹ.
+W American | người Mỹ | ~🇺🇸 | Sam is American. | Sam là người Mỹ.
+W Australia | nước Úc | 🇦🇺 | Kangaroos live in Australia. | Chuột túi sống ở Úc.
+W Australian | người Úc | ~🇦🇺 | My teacher is Australian. | Thầy giáo tớ là người Úc.
+W Japan | Nhật Bản | 🇯🇵 | Japan has a lot of mountains. | Nhật Bản có rất nhiều núi.
+W Japanese | người Nhật, tiếng Nhật | ~🇯🇵 | Kim can speak Japanese. | Kim nói được tiếng Nhật.
+W China | Trung Quốc | 🇨🇳 | Pandas live in China. | Gấu trúc sống ở Trung Quốc.
+W Chinese | người Trung Quốc, tiếng Trung | ~🇨🇳 | My friend is learning Chinese. | Bạn tớ đang học tiếng Trung.
+W Korea | Hàn Quốc | 🇰🇷 | We went to Korea last year. | Năm ngoái nhà tớ đi Hàn Quốc.
+W Korean | người Hàn, tiếng Hàn | ~🇰🇷 | I like Korean food. | Tớ thích đồ ăn Hàn Quốc.
+W Thailand | Thái Lan | 🇹🇭 | Thailand is near Vietnam. | Thái Lan ở gần Việt Nam.
+W Thai | người Thái, tiếng Thái | ~🇹🇭 | Thai food is very good. | Đồ ăn Thái rất ngon.
+W France | nước Pháp | 🇫🇷 | Paris is in France. | Pa-ri ở nước Pháp.
+W French | người Pháp, tiếng Pháp | ~🇫🇷 | Emma can speak French. | Emma nói được tiếng Pháp.
+W Egypt | Ai Cập | 🇪🇬 | There are camels in Egypt. | Ở Ai Cập có lạc đà.
+W Brazil | Bra-xin | 🇧🇷 | Brazil has a big jungle. | Bra-xin có một khu rừng rậm lớn.
+W language | ngôn ngữ | ~🔤 | How many languages can you speak? | Cậu nói được mấy thứ tiếng?
+W flag | lá cờ | 🚩 | The Vietnamese flag is red with a yellow star. | Cờ Việt Nam màu đỏ có ngôi sao vàng.
+W speak | nói (một thứ tiếng) | ~🗣️ | I can speak two languages. | Tớ nói được hai thứ tiếng.
+W understand | hiểu | ~💡 | I don't understand. Can you say it again? | Tớ không hiểu. Cậu nói lại được không?
+W passport | hộ chiếu | ~🛂 | Don't forget your passport! | Đừng quên hộ chiếu nhé!
+W airport | sân bay | 🛫 | We go to the airport by taxi. | Nhà tớ đi taxi ra sân bay.
+W Asia | châu Á | ~🌏 | Vietnam is in Asia. | Việt Nam ở châu Á.
+W Europe | châu Âu | ~🌍 | France is in Europe. | Pháp ở châu Âu.
+W Africa | châu Phi | ~🌍 | Lions live in Africa. | Sư tử sống ở châu Phi.
+W capital | thủ đô | ~🏙️ | Hanoi is the capital of Vietnam. | Hà Nội là thủ đô của Việt Nam.
+P I'm from {x}. | Tớ đến từ {x}. | Vietnam,England,Japan,Australia
+P I can speak {x}. | Tớ nói được {x}. | English,Vietnamese,French,Korean
+P {x} is in Asia. | {x} ở châu Á. | Vietnam,Japan,China,Thailand
+D Bạn mới từ nước ngoài | Emma,Kid | England,America,Australia
+> Kid: Hi! What's your name? | Chào cậu! Cậu tên gì?
+> Emma: I'm Emma. Nice to meet you. | Tớ là Emma. Rất vui được gặp cậu.
+> Kid: Where are you from, Emma? | Cậu đến từ đâu vậy Emma?
+> Emma: I'm from England. And you? | Tớ đến từ nước Anh. Còn cậu?
+> Kid: I'm from Vietnam. Can you speak Vietnamese? | Tớ đến từ Việt Nam. Cậu có nói được tiếng Việt không?
+> Emma: Only a little! | Chỉ một chút thôi!
+D Ở sân bay | Bi,Kid | Japan,Korea,Thailand
+> Bi: Where are we going? | Mình đi đâu thế?
+> Kid: We are going to Japan! | Mình đi Nhật Bản!
+> Bi: Do you have your passport? | Cậu mang hộ chiếu chưa?
+> Kid: Yes, it's in my bag. | Rồi, nó ở trong túi tớ.
+> Bi: Great! Let's find our plane. | Tuyệt! Mình đi tìm máy bay thôi.
+R A letter from Leo
+> Hello! My name is Leo. I'm eight years old and I'm from Australia. I live in a big city near the sea. I speak English, and I'm learning Japanese at school. My favourite animal is the koala. In my country, there are kangaroos and koalas. It's hot in December and cold in July! I want to visit Vietnam one day. Can you tell me about your country? Please write to me soon. From Leo.
+? Where is Leo from? | Australia. | England. | Japan.
+? What language is Leo learning at school? | Japanese. | Vietnamese. | French.
+? When is it cold in Leo's country? | In July. | In December. | In January.
+S I'm from | I can speak | I want to visit
+
+@U 9 | Sports and competitions | Thể thao và thi đấu | Nói về môn thể thao, cuộc thi và kết quả ; So sánh ai nhanh hơn, giỏi hơn
+G So sánh hơn: thêm "-er" và "than" (fast → faster than). Từ dài dùng "more ... than" (more exciting than). Từ đặc biệt: good → better → best, bad → worse → worst.
+W race | cuộc đua | ~🏎️ | Let's have a race to the tree! | Mình thi chạy đến cái cây nhé!
+W competition | cuộc thi | ~🏆 | I won a drawing competition. | Tớ đã thắng một cuộc thi vẽ.
+W prize | giải thưởng | ~🎁 | The first prize is a big trophy. | Giải nhất là một chiếc cúp to.
+W medal | huy chương | 🏅 | She won a gold medal. | Bạn ấy giành huy chương vàng.
+W champion | nhà vô địch | ~🥇 | Our team is the champion! | Đội tớ là nhà vô địch!
+W winner | người chiến thắng | ~🏆 | And the winner is Linh! | Và người chiến thắng là Linh!
+W trophy | chiếc cúp | ~🏆 | The trophy is on the shelf. | Chiếc cúp ở trên giá.
+W coach | huấn luyện viên | ~🧑‍🏫 | Our coach is strict but kind. | Huấn luyện viên của bọn tớ nghiêm nhưng tốt bụng.
+W stadium | sân vận động | ~🏟️ | The stadium is full of people. | Sân vận động chật kín người.
+W referee | trọng tài | ~🟨 | The referee has a whistle. | Trọng tài có một cái còi.
+W whistle | cái còi | ~📣 | Blow the whistle! | Thổi còi đi!
+W exciting | hấp dẫn | ~🤩 | The match was very exciting! | Trận đấu rất hấp dẫn!
+W hit | đánh | ~🏏 | Hit the ball with the bat. | Dùng gậy đánh bóng.
+W beat | thắng, đánh bại | ~🥊 | We beat the red team. | Bọn tớ thắng đội đỏ.
+W point | điểm | ~🔢 | We have ten points! | Bọn tớ có mười điểm!
+W golf | gôn | ⛳ | My grandpa plays golf. | Ông tớ chơi gôn.
+W hockey | khúc côn cầu | 🏑 | Hockey is a fast game. | Khúc côn cầu là môn chơi nhanh.
+W baseball | bóng chày | ⚾ | Baseball is popular in America. | Bóng chày phổ biến ở Mỹ.
+W karate | võ karate | 🥋 | I go to karate on Tuesdays. | Thứ Ba nào tớ cũng đi học karate.
+W gymnastics | thể dục dụng cụ | ~🤸 | Gymnastics is difficult. | Thể dục dụng cụ khó lắm.
+W cycling | đạp xe | 🚵 | Cycling is good exercise. | Đạp xe là bài tập tốt.
+W sailing | đi thuyền buồm | ~⛵ | We went sailing on the lake. | Nhà tớ đi thuyền buồm trên hồ.
+W surfing | lướt sóng | 🏄 | Surfing is fun but difficult. | Lướt sóng vui nhưng khó.
+W ski | trượt tuyết | 🎿 | People ski on snowy mountains. | Mọi người trượt tuyết trên núi tuyết.
+W high jump | nhảy cao | ~⬆️ | Leo is good at the high jump. | Leo nhảy cao giỏi.
+W long jump | nhảy xa | ~↔️ | I'm going to try the long jump. | Tớ sẽ thử nhảy xa.
+W fit | khoẻ mạnh, cân đối | ~💪 | Swimming keeps you fit. | Bơi lội giúp cậu khoẻ mạnh.
+W against | đấu với | ~🆚 | We played against the blue team. | Bọn tớ đấu với đội xanh.
+W warm up | khởi động | ~🔥 | Let's warm up before the race. | Mình khởi động trước khi đua nhé.
+W stretch | giãn cơ, duỗi người | ~🙆 | Stretch your arms and legs. | Duỗi tay và chân ra nào.
+W rope | dây thừng | ~🪢 | Hold the rope with both hands. | Nắm dây bằng cả hai tay nhé.
+W join | tham gia | ~➕ | Do you want to join our team? | Cậu có muốn vào đội tớ không?
+P I'm faster than {x}. | Tớ nhanh hơn {x}. | my brother,my dad,Bi
+P Do you want to join the {x} club? | Cậu có muốn tham gia câu lạc bộ {x} không? | karate,football,swimming,chess
+P Our team won the {x}! | Đội tớ đã giành {x}! | match,race,trophy,competition
+D Thi chạy | Bi,Kid | tree,bench,wall
+> Bi: Let's have a race! | Mình thi chạy nhé!
+> Kid: Okay! To the tree and back. | Được! Chạy đến cái cây rồi quay lại.
+> Bi: Ready? One, two, three, go! | Sẵn sàng chưa? Một, hai, ba, chạy!
+> Kid: I won! I'm faster than you! | Tớ thắng! Tớ nhanh hơn cậu!
+> Bi: Well done! You're the champion! | Giỏi lắm! Cậu là nhà vô địch!
+D Trận đấu hôm qua | Bi,Kid | football,basketball,hockey
+> Bi: Did you watch the football match yesterday? | Hôm qua cậu có xem trận bóng đá không?
+> Kid: Yes! It was very exciting. | Có! Hay lắm.
+> Bi: Who won? | Đội nào thắng?
+> Kid: The blue team won. They scored three goals. | Đội xanh thắng. Họ ghi ba bàn.
+> Bi: Wow! Great match! | Oa! Trận đấu tuyệt quá!
+R Sports day
+> Last Friday was sports day at Minh's school. All the children wore their sports clothes. First, they warmed up and stretched. Then the races began. Minh ran in the hundred metres race. He was faster than all the other boys! He won a gold medal. His sister, An, tried the long jump. She didn't win, but she jumped very far. At the end, the coach gave every child a sticker. Everyone was tired but happy.
+? What did Minh win? | A gold medal. | A silver medal. | A trophy.
+? What did An try? | The long jump. | The high jump. | Swimming.
+? What did the coach give every child? | A sticker. | A medal. | A cake.
+S My favourite sport is | I'm good at | I want to join
+
+@U 10 | Technology | Công nghệ | Gọi tên đồ dùng công nghệ trong nhà ; Nói đồ vật dùng để làm gì: "We use it to..."
+G Nói công dụng: "We use a computer to write emails." (dùng ... để ...). Phần "to + động từ" cho biết mục đích.
+W computer | máy tính | 🖥️ | My dad works on a computer. | Bố tớ làm việc trên máy tính.
+W laptop | máy tính xách tay | 💻 | My laptop is in my bag. | Máy tính xách tay của tớ ở trong túi.
+W tablet | máy tính bảng | ~📲 | I read stories on a tablet. | Tớ đọc truyện trên máy tính bảng.
+W screen | màn hình | ~🖥️ | Don't sit too near the screen. | Đừng ngồi quá gần màn hình.
+W keyboard | bàn phím | ⌨️ | Type your name on the keyboard. | Gõ tên con trên bàn phím.
+W printer | máy in | 🖨️ | The printer needs paper. | Máy in cần giấy.
+W email | thư điện tử | 📧 | Mum sends an email to her friend. | Mẹ gửi thư điện tử cho bạn.
+W message | tin nhắn | ~💬 | I got a message from Grandma. | Tớ nhận được tin nhắn của bà.
+W internet | mạng internet | ~🌐 | Use the internet with Mum or Dad. | Dùng mạng internet cùng bố hoặc mẹ nhé.
+W video | đoạn phim, video | 📹 | Let's watch a video about whales. | Mình xem video về cá voi nhé.
+W password | mật khẩu | ~🔐 | Don't tell anyone your password. | Đừng nói mật khẩu cho ai biết.
+W battery | pin | 🔋 | My robot needs a new battery. | Rô-bốt của tớ cần pin mới.
+W charge | sạc | ~🔌 | Charge the tablet tonight. | Tối nay sạc máy tính bảng nhé.
+W button | cái nút | ~🔘 | Press the green button. | Bấm cái nút màu xanh.
+W press | bấm, ấn | ~👇 | Press here to start. | Bấm vào đây để bắt đầu.
+W turn on | bật | ~🔛 | Turn on the light, please. | Bật đèn lên giúp tớ.
+W machine | máy móc | ~⚙️ | This machine makes ice cream! | Cái máy này làm ra kem!
+W invent | phát minh | ~💡 | Who invented the telephone? | Ai đã phát minh ra điện thoại?
+W inventor | nhà phát minh | ~🧑‍🔬 | I want to be an inventor. | Tớ muốn trở thành nhà phát minh.
+W wheel | bánh xe | ~🚲 | A bike has two wheels. | Xe đạp có hai bánh.
+W light bulb | bóng đèn | ~💡 | The light bulb is broken. | Bóng đèn bị hỏng.
+W radio | đài, ra-đi-ô | 📻 | Grandpa listens to the radio. | Ông nghe đài.
+W music | âm nhạc | 🎶 | I listen to music every day. | Ngày nào tớ cũng nghe nhạc.
+W headphones | tai nghe | 🎧 | Use headphones on the bus. | Đeo tai nghe khi đi xe buýt nhé.
+W speaker | cái loa | 🔈 | The speaker is too loud. | Cái loa to quá.
+W video call | gọi video | ~🤳 | We have a video call with Grandma every Sunday. | Chủ nhật nào nhà tớ cũng gọi video cho bà.
+W online | trên mạng | ~📶 | My cousin has lessons online. | Anh họ tớ học trên mạng.
+W click | nhấp chuột | ~🖱️ | Click on the star. | Nhấp vào ngôi sao.
+W type | gõ phím | ~⌨️ | I can type my name. | Tớ gõ được tên mình.
+W plug | phích cắm | ~🔌 | Don't touch the plug with wet hands. | Đừng chạm vào phích cắm khi tay ướt.
+W remote control | cái điều khiển | ~📟 | Where is the remote control? | Cái điều khiển đâu rồi?
+W washing machine | máy giặt | ~🧺 | Put your clothes in the washing machine. | Cho quần áo vào máy giặt nhé.
+W fridge | tủ lạnh | ~🧊 | The milk is in the fridge. | Sữa ở trong tủ lạnh.
+W microwave | lò vi sóng | ~♨️ | Heat the soup in the microwave. | Hâm súp trong lò vi sóng.
+P We use a computer to {x}. | Chúng ta dùng máy tính để {x}. | write emails,watch videos,play games,do homework
+P Press the {x} button. | Bấm nút {x}. | red,green,blue,big
+P Can you turn on the {x}? | Cậu bật {x} lên được không? | light,TV,radio,computer
+D Gọi video cho bà | Bi,Kid | Grandma,Grandpa,aunt
+> Kid: Bi, can you help me? I want to call Grandma. | Bi ơi, giúp tớ với? Tớ muốn gọi cho bà.
+> Bi: Sure! Is the tablet charged? | Được chứ! Máy tính bảng sạc chưa?
+> Kid: Yes. What do I press? | Rồi. Tớ bấm gì đây?
+> Bi: Press the green button for a video call. | Bấm nút xanh để gọi video.
+> Kid: It's working! I can see her! | Được rồi! Tớ nhìn thấy bà rồi!
+D Nhà phát minh nhỏ | Bi,Kid | robot,machine,car
+> Bi: What are you making? | Cậu đang làm gì thế?
+> Kid: I'm making a robot. It can clean my room! | Tớ đang làm rô-bốt. Nó có thể dọn phòng cho tớ!
+> Bi: Wow! You are a great inventor. | Oa! Cậu là nhà phát minh tài ba.
+> Kid: But it needs a battery. | Nhưng nó cần pin.
+R Screen time
+> Nick loves his tablet. He watches videos and plays games every day. One evening, his eyes hurt and he felt grumpy. His mum said that he should take a break. So Nick turned off the tablet. He went to the park and rode his bike with his friends. They played football until dinner. That night, Nick slept very well. Now he plays on the tablet for a short time, then he plays outside!
+? How did Nick feel one evening? | Grumpy. | Excited. | Proud.
+? What did Nick do in the park? | He rode his bike. | He watched videos. | He slept.
+? What does Nick do now? | He plays on the tablet for a short time. | He never plays outside. | He plays games all day.
+S I use a computer to | My favourite machine is | I want to invent
+
+@U 11 | Festivals | Lễ hội | Kể về Tết và Trung thu ; Nói lời chúc mừng trong các dịp lễ
+G Hỏi hoạt động trong lễ hội: "What do you do at Tet?" – "We visit our grandparents." Dùng "at" trước tên dịp lễ: at Tet, at Christmas.
+W festival | lễ hội | ~🎊 | There is a music festival in the park. | Có lễ hội âm nhạc ở công viên.
+W Tet | Tết | ~🧧 | Tet is my favourite festival. | Tết là lễ hội tớ thích nhất.
+W Lunar New Year | Tết Âm lịch | ~🎆 | We celebrate Lunar New Year with our family. | Nhà tớ đón Tết Âm lịch cùng gia đình.
+W Mid-Autumn Festival | Tết Trung thu | ~🥮 | Children love the Mid-Autumn Festival. | Trẻ em rất thích Tết Trung thu.
+W lantern | đèn lồng | 🏮 | My lantern is a red star. | Đèn lồng của tớ là ngôi sao đỏ.
+W mooncake | bánh trung thu | 🥮 | Mooncakes are sweet. | Bánh trung thu ngọt.
+W firework | pháo hoa | 🎆 | We watch the fireworks at night. | Bọn tớ xem pháo hoa vào buổi tối.
+W celebrate | ăn mừng, tổ chức | ~🥳 | How do you celebrate your birthday? | Cậu tổ chức sinh nhật thế nào?
+W decorate | trang trí | ~🎀 | Let's decorate the house! | Mình trang trí nhà nhé!
+W decoration | đồ trang trí | 🎀 | The decorations are red and gold. | Đồ trang trí màu đỏ và vàng.
+W lucky money | tiền lì xì | 🧧 | Grandma gives me lucky money at Tet. | Tết nào bà cũng lì xì cho tớ.
+W peach blossom | hoa đào | ~🌸 | Peach blossoms are pink. | Hoa đào màu hồng.
+W lion dance | múa lân | ~🦁 | The lion dance is very noisy! | Múa lân ồn ào lắm!
+W parade | cuộc diễu hành | ~🎺 | We watched the parade in the street. | Bọn tớ xem diễu hành trên phố.
+W costume | đồ hoá trang | ~🦸 | I'm wearing a dragon costume. | Tớ đang mặc bộ đồ hoá trang rồng.
+W mask | mặt nạ | 🎭 | The lion dancer has a big mask. | Người múa lân đội chiếc mặt nạ to.
+W Happy New Year | Chúc mừng năm mới | ~🎉 | Happy New Year, Grandpa! | Chúc mừng năm mới ông ạ!
+W Christmas | Giáng sinh | 🎄 | We have a Christmas tree at school. | Trường tớ có một cây thông Noel.
+W grandparents | ông bà | ~👴 | I visit my grandparents at Tet. | Tết tớ đi thăm ông bà.
+W relative | họ hàng | ~👪 | Many relatives come to our house. | Nhiều họ hàng đến nhà tớ chơi.
+W special | đặc biệt | ~⭐ | Today is a special day. | Hôm nay là một ngày đặc biệt.
+W traditional | truyền thống | ~🏮 | The ao dai is a traditional Vietnamese dress. | Áo dài là trang phục truyền thống của Việt Nam.
+W sticky rice cake | bánh chưng | ~🍙 | We make sticky rice cakes for Tet. | Nhà tớ gói bánh chưng đón Tết.
+W spring roll | nem rán, chả giò | ~🌯 | Spring rolls are delicious. | Nem rán rất ngon.
+W ao dai | áo dài | ~👘 | Mum wears an ao dai at Tet. | Tết mẹ mặc áo dài.
+W full moon | trăng tròn | 🌕 | There is a full moon tonight. | Tối nay trăng tròn.
+W pumpkin | quả bí ngô | 🎃 | We made a lantern from a pumpkin. | Bọn tớ làm đèn lồng từ quả bí ngô.
+W Halloween | lễ hội Halloween | ~👻 | I wore a cat costume at Halloween. | Halloween tớ mặc đồ hoá trang mèo.
+W Children's Day | ngày Quốc tế Thiếu nhi | ~🎈 | Children's Day is in June. | Ngày Quốc tế Thiếu nhi vào tháng Sáu.
+W kumquat tree | cây quất | ~🍊 | We put a kumquat tree in the living room. | Nhà tớ đặt cây quất ở phòng khách.
+W bell | cái chuông | 🔔 | Ring the bell! | Rung chuông đi!
+W hang | treo | ~🪝 | Let's hang the lanterns. | Mình treo đèn lồng nhé.
+P What do you do at {x}? | Cậu làm gì vào dịp {x}? | Tet,Christmas,Halloween
+P We {x} at Tet. | Tết nhà tớ {x}. | visit our grandparents,make sticky rice cakes,watch fireworks,get lucky money
+P Happy {x}! | Chúc mừng {x}! | New Year,birthday,Children's Day
+D Tết đến rồi | Bi,Kid | fireworks,lanterns,decorations
+> Bi: Tet is coming! What do you do at Tet? | Tết sắp đến rồi! Tết cậu làm gì?
+> Kid: I visit my grandparents and get lucky money. | Tớ đi thăm ông bà và được lì xì.
+> Bi: Do you watch the fireworks? | Cậu có xem pháo hoa không?
+> Kid: Yes! They are so beautiful. | Có! Đẹp lắm.
+> Bi: Happy New Year! | Chúc mừng năm mới!
+> Kid: Happy New Year, Bi! | Chúc mừng năm mới, Bi!
+D Đêm Trung thu | Bi,Kid | star,fish,rabbit
+> Bi: What a beautiful lantern! | Đèn lồng đẹp quá!
+> Kid: Thanks! My lantern is a star. | Cảm ơn! Đèn lồng của tớ hình ngôi sao.
+> Bi: Let's look at the full moon. | Mình cùng ngắm trăng tròn nhé.
+> Kid: And eat some mooncakes! | Và ăn bánh trung thu nữa!
+R Tet at Grandma's house
+> Every year, Minh's family goes to his grandparents' house for Tet. Before Tet, they clean the house and decorate it with peach blossoms and red lanterns. Grandma and Mum make sticky rice cakes. On the first day of the new year, Minh wears new clothes. He says Happy New Year to his grandparents, and they give him lucky money. In the evening, the family watches the fireworks. Minh thinks Tet is the best festival of the year.
+? Where does Minh's family go for Tet? | To his grandparents' house. | To the beach. | To a hotel.
+? Who makes sticky rice cakes? | Grandma and Mum. | Minh. | Grandpa.
+? What do the grandparents give Minh? | Lucky money. | A lantern. | New clothes.
+S At Tet, we | My favourite festival is | On Children's Day, I
+
+@U 12 | Wild animals | Động vật hoang dã | Nói nơi sống và đặc điểm của động vật hoang dã ; So sánh các con vật
+G Nói nơi sống: "Polar bears live in the Arctic." Nói khả năng: "Cheetahs can run very fast." Hỏi: "Where do gorillas live?"
+W habitat | môi trường sống | ~🏞️ | The ocean is the habitat of whales. | Đại dương là nơi sống của cá voi.
+W rainforest | rừng mưa nhiệt đới | ~🌴 | Many birds live in the rainforest. | Nhiều loài chim sống ở rừng mưa nhiệt đới.
+W Arctic | Bắc Cực | ~🧊 | Polar bears live in the Arctic. | Gấu Bắc Cực sống ở Bắc Cực.
+W Antarctica | châu Nam Cực | ~🐧 | Penguins live in Antarctica. | Chim cánh cụt sống ở Nam Cực.
+W savannah | đồng cỏ xa-van | ~🦒 | Lions and zebras live on the savannah. | Sư tử và ngựa vằn sống ở đồng cỏ.
+W cheetah | báo săn | ~💨 | The cheetah is the fastest animal. | Báo săn là loài vật nhanh nhất.
+W gorilla | khỉ đột | 🦍 | Gorillas are big and strong. | Khỉ đột to và khoẻ.
+W leopard | báo hoa mai | 🐆 | A leopard can climb trees. | Báo hoa mai biết trèo cây.
+W rhino | tê giác | 🦏 | A rhino has a big horn. | Tê giác có một cái sừng to.
+W ostrich | đà điểu | ~🪶 | An ostrich can't fly, but it can run fast. | Đà điểu không bay được nhưng chạy rất nhanh.
+W peacock | con công | 🦚 | The peacock has a beautiful tail. | Con công có cái đuôi rất đẹp.
+W flamingo | chim hồng hạc | 🦩 | Flamingos are pink. | Chim hồng hạc màu hồng.
+W seal | hải cẩu | 🦭 | Seals can swim very well. | Hải cẩu bơi rất giỏi.
+W jellyfish | con sứa | ~🎐 | Don't touch the jellyfish! | Đừng chạm vào con sứa!
+W crab | con cua | 🦀 | The crab walks on the sand. | Con cua bò trên cát.
+W lizard | thằn lằn | 🦎 | The lizard is on the wall. | Con thằn lằn ở trên tường.
+W snail | ốc sên | 🐌 | Snails are very slow. | Ốc sên rất chậm.
+W worm | con giun | 🪱 | The bird is eating a worm. | Con chim đang ăn giun.
+W ladybird | bọ rùa | 🐞 | A ladybird is red with black spots. | Bọ rùa màu đỏ có chấm đen.
+W sloth | con lười | 🦥 | The sloth sleeps in the tree all day. | Con lười ngủ trên cây cả ngày.
+W hedgehog | con nhím | 🦔 | A hedgehog is small and has spikes. | Con nhím nhỏ và có gai.
+W otter | rái cá | 🦦 | Otters play in the river. | Rái cá chơi đùa dưới sông.
+W swan | thiên nga | 🦢 | The white swan is on the lake. | Con thiên nga trắng ở trên hồ.
+W hunt | săn mồi | ~🏹 | Lions hunt at night. | Sư tử săn mồi vào ban đêm.
+W claw | móng vuốt | ~🐾 | Bears have long claws. | Gấu có móng vuốt dài.
+W beak | cái mỏ | ~🐦 | The parrot has a strong beak. | Con vẹt có cái mỏ khoẻ.
+W fin | vây cá | ~🦈 | A shark has a big fin. | Cá mập có cái vây to.
+W horn | cái sừng | ~🦏 | The goat has two horns. | Con dê có hai cái sừng.
+W stripe | sọc | ~🦓 | Tigers have black stripes. | Hổ có sọc đen.
+W spot | đốm, chấm | ~🐞 | The leopard has spots. | Báo hoa mai có đốm.
+W dig | đào | ~⛏️ | Dogs like to dig in the garden. | Chó thích đào đất trong vườn.
+W colourful | nhiều màu sắc | ~🎨 | The parrot is very colourful. | Con vẹt có rất nhiều màu sắc.
+W crawl | bò | ~🐛 | Babies crawl before they walk. | Em bé bò trước khi biết đi.
+P Where do {x} live? | {x} sống ở đâu? | cheetahs,gorillas,penguins,flamingos
+P The {x} is faster than the snail. | {x} nhanh hơn ốc sên. | cheetah,rabbit,horse,ostrich
+P I can see a {x} in the tree. | Tớ thấy {x} trên cây. | sloth,leopard,gorilla,parrot
+D Ở sở thú | Bi,Kid
+> Kid: Look, Bi! What's that animal? | Nhìn kìa Bi! Con gì thế?
+> Bi: It's a gorilla. It's very strong. | Đó là khỉ đột. Nó rất khoẻ.
+> Kid: Where do gorillas live? | Khỉ đột sống ở đâu?
+> Bi: They live in the rainforest in Africa. | Chúng sống ở rừng mưa nhiệt đới châu Phi.
+> Kid: Wow! Let's take a photo. | Oa! Mình chụp ảnh đi.
+D Con vật cậu thích | Bi,Kid | sloth,otter,hedgehog
+> Bi: What's your favourite wild animal? | Con vật hoang dã cậu thích nhất là gì?
+> Kid: I like the sloth. | Tớ thích con lười.
+> Bi: Why? | Vì sao?
+> Kid: Because it's cute and funny! | Vì nó dễ thương và buồn cười!
+> Bi: I like it too! | Tớ cũng thích nó!
+R Animals of the rainforest
+> The rainforest is hot and wet. It is the habitat of many animals. Colourful parrots fly over the trees. Monkeys swing from branch to branch. A sloth sleeps all day in a tall tree, and it moves very slowly. On the ground, a leopard hunts at night. It has beautiful spots, so it can hide in the leaves. Frogs and snakes live near the river. Some animals in the rainforest are in danger because people cut down the trees. We should protect them.
+? What is the rainforest like? | Hot and wet. | Cold and dry. | Snowy.
+? When does the leopard hunt? | At night. | In the morning. | At lunchtime.
+? Why are some animals in danger? | People cut down the trees. | It is too hot. | There is no food.
+S My favourite wild animal is | It lives in | It can
+
+@U 13 | Rules and safety | Nội quy và an toàn | Nói quy tắc với "must" và "mustn't" ; Biết quy tắc an toàn khi đi đường, ở nhà và ở bể bơi
+G Điều bắt buộc dùng "must": "You must wear a helmet." (Con phải đội mũ bảo hiểm.) Điều cấm dùng "mustn't": "You mustn't run near the pool." (Không được chạy gần bể bơi.)
+W rule | quy tắc, nội quy | ~📏 | We follow the rules at school. | Ở trường bọn tớ tuân theo nội quy.
+W must | phải | ~❗ | You must wear a seat belt in the car. | Con phải thắt dây an toàn khi ngồi ô tô.
+W safe | an toàn | ~✅ | Is it safe to swim here? | Bơi ở đây có an toàn không?
+W safety | sự an toàn | ~🦺 | Safety first! | An toàn là trên hết!
+W danger | sự nguy hiểm | ~⚠️ | Danger! Keep out! | Nguy hiểm! Không được vào!
+W seat belt | dây an toàn | ~💺 | Put on your seat belt. | Thắt dây an toàn vào.
+W traffic | xe cộ | ~🚗 | There is a lot of traffic in the city. | Thành phố có rất nhiều xe cộ.
+W traffic lights | đèn giao thông | 🚦 | Stop when the traffic lights are red. | Dừng lại khi đèn giao thông đỏ.
+W pavement | vỉa hè | ~🚶 | Walk on the pavement. | Đi bộ trên vỉa hè nhé.
+W zebra crossing | vạch sang đường | ~🦓 | Cross the road at the zebra crossing. | Sang đường ở vạch kẻ cho người đi bộ.
+W stranger | người lạ | ~👤 | Don't go with strangers. | Đừng đi theo người lạ.
+W emergency | trường hợp khẩn cấp | ~🚨 | In an emergency, call for help. | Khi khẩn cấp, hãy gọi người giúp đỡ.
+W call | gọi (điện) | ~📞 | Call your mum if you are lost. | Nếu bị lạc, hãy gọi cho mẹ.
+W address | địa chỉ | ~🏠 | Do you know your address? | Con có biết địa chỉ nhà mình không?
+W lifeguard | nhân viên cứu hộ | ~🏊 | The lifeguard watches the children in the pool. | Nhân viên cứu hộ trông các bạn nhỏ trong bể bơi.
+W life jacket | áo phao | ~🦺 | Wear a life jacket on the boat. | Mặc áo phao khi đi thuyền.
+W shallow | nông | ~🌊 | Little children swim in the shallow pool. | Các em nhỏ bơi ở bể nông.
+W slippery | trơn | ~🧊 | The floor is wet and slippery. | Sàn ướt và trơn.
+W stairs | cầu thang | ~🪜 | Don't run on the stairs. | Đừng chạy trên cầu thang.
+W first aid kit | hộp sơ cứu | ~⛑️ | The plasters are in the first aid kit. | Băng dán ở trong hộp sơ cứu.
+W follow | làm theo, đi theo | ~👣 | Follow me, please. | Hãy đi theo tớ.
+W allowed | được phép | ~🆗 | Dogs are not allowed in the shop. | Không được mang chó vào cửa hàng.
+W queue | hàng (người xếp hàng) | ~🧍 | Please wait in the queue. | Hãy xếp hàng chờ nhé.
+W ask | hỏi, nhờ | ~🙋 | Ask your teacher for help. | Hãy nhờ cô giáo giúp đỡ.
+W parent | bố hoặc mẹ | ~👩 | Ask a parent before you cook. | Hỏi bố hoặc mẹ trước khi nấu ăn.
+W adult | người lớn | ~🧑 | Swim with an adult. | Đi bơi cùng người lớn nhé.
+W both | cả hai | ~✌️ | Look both ways before you cross. | Nhìn cả hai phía trước khi sang đường.
+W side | bên, phía | ~◀️ | Walk on the left side. | Đi bên trái nhé.
+W sign | biển báo | ~🪧 | The sign says no swimming. | Biển báo ghi cấm bơi.
+W warning | lời cảnh báo | ~⚠️ | Listen to the warning. | Hãy nghe lời cảnh báo.
+W lock | khoá | 🔒 | Lock the door, please. | Khoá cửa lại nhé.
+W hurry | vội vàng | ~🏃 | Don't hurry. Walk slowly. | Đừng vội. Đi chậm thôi.
+P You must {x}. | Con phải {x}. | wear a helmet,wear a seat belt,stop at the red light,hold my hand
+P You mustn't {x}. | Con không được {x}. | run on the stairs,touch the plug,go with strangers,swim alone
+P Look at the {x}! | Nhìn {x} kìa! | sign,traffic lights,zebra crossing
+D Sang đường | Bi,Kid
+> Kid: Let's cross the road here! | Mình sang đường ở đây đi!
+> Bi: Wait! We must use the zebra crossing. | Khoan! Mình phải đi ở vạch sang đường.
+> Kid: Okay. The traffic light is red. | Được. Đèn giao thông đang đỏ.
+> Bi: We must stop and wait. | Mình phải dừng lại và chờ.
+> Kid: Now it's green. Let's look both ways. | Giờ đèn xanh rồi. Mình nhìn cả hai phía nhé.
+> Bi: Good! Now we can cross. | Tốt! Giờ mình sang được rồi.
+D Ở bể bơi | Bi,Kid
+> Kid: Can I run to the pool? | Tớ chạy ra bể bơi được không?
+> Bi: No! You mustn't run. The floor is slippery. | Không! Không được chạy. Sàn trơn lắm.
+> Kid: Can I swim in the deep pool? | Tớ bơi ở bể sâu được không?
+> Bi: No, swim in the shallow pool with an adult. | Không, bơi ở bể nông cùng người lớn nhé.
+R Safety at the park
+> Yesterday, Ben went to the park with his dad. On the way, they walked on the pavement. They stopped at the traffic lights and crossed at the zebra crossing. At the park, Ben wanted to climb a tall tree. His dad said it was not safe. So Ben played on the slide instead. Later, Ben couldn't see his dad. He felt scared, but he remembered the rule. He stayed in one place and asked a park worker for help. Soon, his dad found him and gave him a big hug.
+? Where did Ben and his dad cross the road? | At the zebra crossing. | Near the park. | Under the bridge.
+? Why couldn't Ben climb the tree? | It was not safe. | It was raining. | He was tired.
+? What did Ben do when he couldn't see his dad? | He stayed in one place and asked for help. | He went home alone. | He climbed a tree.
+S At school, we must | At home, I mustn't | On the road, we should
+
+@U 14 | When I grow up | Khi tớ lớn lên | Nói ước mơ nghề nghiệp và lý do ; Dùng "will" để nói về tương lai
+G Nói về tương lai, dùng "will + động từ": "I will be a doctor." (Tớ sẽ là bác sĩ.) "When I grow up, I want to..." nghĩa là "Khi lớn lên, tớ muốn...".
+W grow up | lớn lên | ~🌱 | I want to be a vet when I grow up. | Lớn lên tớ muốn làm bác sĩ thú y.
+W future | tương lai | ~🔮 | What will you do in the future? | Trong tương lai cậu sẽ làm gì?
+W become | trở thành | ~🦋 | I want to become a famous chef. | Tớ muốn trở thành một đầu bếp nổi tiếng.
+W became | đã trở thành (become) | ~🦋 | My aunt became a doctor last year. | Năm ngoái dì tớ đã trở thành bác sĩ.
+W scientist | nhà khoa học | 🧑‍🔬 | The scientist works in a laboratory. | Nhà khoa học làm việc trong phòng thí nghiệm.
+W engineer | kỹ sư | 🧑‍🏭 | An engineer can build bridges. | Kỹ sư có thể xây cầu.
+W architect | kiến trúc sư | ~📐 | An architect draws houses. | Kiến trúc sư vẽ nhà.
+W photographer | nhiếp ảnh gia | ~📸 | The photographer takes beautiful photos. | Nhiếp ảnh gia chụp những bức ảnh đẹp.
+W chef | đầu bếp | ~🧑‍🍳 | The chef cooks in a big restaurant. | Đầu bếp nấu ăn trong một nhà hàng lớn.
+W actor | diễn viên | ~🎬 | The actor is in a new film. | Diễn viên ấy đóng phim mới.
+W musician | nhạc công | 🎷 | My uncle is a musician. He plays the guitar. | Chú tớ là nhạc công. Chú chơi ghi-ta.
+W footballer | cầu thủ bóng đá | ~⚽ | I want to be a footballer. | Tớ muốn trở thành cầu thủ bóng đá.
+W journalist | nhà báo | ~🎙️ | A journalist writes the news. | Nhà báo viết tin tức.
+W designer | nhà thiết kế | ~✏️ | She is a clothes designer. | Cô ấy là nhà thiết kế thời trang.
+W programmer | lập trình viên | 🧑‍💻 | A programmer makes computer games. | Lập trình viên làm trò chơi máy tính.
+W zookeeper | người trông vườn thú | ~🦓 | The zookeeper feeds the animals. | Người trông vườn thú cho động vật ăn.
+W gardener | người làm vườn | ~🌷 | The gardener plants flowers. | Người làm vườn trồng hoa.
+W librarian | thủ thư | ~📚 | The librarian helps me find books. | Cô thủ thư giúp tớ tìm sách.
+W famous | nổi tiếng | ~🌟 | She is a famous singer. | Cô ấy là ca sĩ nổi tiếng.
+W earn | kiếm (tiền) | ~💵 | People work to earn money. | Mọi người làm việc để kiếm tiền.
+W study | học tập | ~📖 | My sister studies at a university. | Chị tớ học ở trường đại học.
+W university | trường đại học | 🎓 | I want to go to university. | Tớ muốn vào đại học.
+W skill | kỹ năng | ~🛠️ | Cooking is a useful skill. | Nấu ăn là một kỹ năng có ích.
+W hard-working | chăm chỉ | ~🐜 | My mum is very hard-working. | Mẹ tớ rất chăm chỉ.
+W laboratory | phòng thí nghiệm | 🔬 | The laboratory is full of machines. | Phòng thí nghiệm có rất nhiều máy móc.
+W change | thay đổi | ~🔄 | You can change the world! | Cậu có thể thay đổi thế giới!
+W own | của riêng mình | ~🏠 | I want to have my own shop. | Tớ muốn có cửa hàng của riêng mình.
+W someday | một ngày nào đó | ~📅 | Someday I will fly a plane. | Một ngày nào đó tớ sẽ lái máy bay.
+W until | cho đến khi | ~⏳ | Wait until the bus stops. | Chờ cho đến khi xe buýt dừng hẳn.
+W news | tin tức | 📰 | Dad watches the news every evening. | Tối nào bố cũng xem thời sự.
+W build | xây, xếp | ~🧱 | Let's build a house with blocks. | Mình xếp nhà bằng các khối nhé.
+W theatre | nhà hát | ~🎭 | We saw a show at the theatre. | Nhà tớ đi xem biểu diễn ở nhà hát.
+P When I grow up, I will be a {x}. | Khi lớn lên, tớ sẽ là {x}. | scientist,chef,footballer,photographer
+P I will {x} someday. | Một ngày nào đó tớ sẽ {x}. | travel the world,fly a plane,build a house,write a book
+P She is a famous {x}. | Cô ấy là {x} nổi tiếng. | singer,actor,chef,designer
+D Ước mơ của tớ | Bi,Kid | scientist,engineer,programmer
+> Bi: What will you be when you grow up? | Lớn lên cậu sẽ làm nghề gì?
+> Kid: I will be a scientist. | Tớ sẽ là nhà khoa học.
+> Bi: Why? | Vì sao?
+> Kid: Because I love experiments! | Vì tớ thích làm thí nghiệm!
+> Bi: Cool! You can change the world. | Tuyệt! Cậu có thể thay đổi thế giới.
+D Nghề trong tương lai | Bi,Kid | chef,musician,photographer
+> Kid: Bi, what do you want to be? | Bi ơi, cậu muốn làm nghề gì?
+> Bi: I want to be a chef. I love cooking! | Tớ muốn làm đầu bếp. Tớ thích nấu ăn lắm!
+> Kid: Will you have your own restaurant? | Cậu sẽ có nhà hàng riêng chứ?
+> Bi: Yes! And you can be my first customer! | Có! Và cậu sẽ là khách hàng đầu tiên của tớ!
+R My dream job
+> My name is Anna, and I'm nine years old. When I grow up, I will be a vet. I love animals, and I want to help them. My aunt is a vet, and sometimes I go to work with her. Last week, I saw her help a little dog with a broken leg. It was amazing! To become a vet, I must study hard. I will go to university and learn a lot about animals. Someday, I will have my own animal hospital. I hope my dream comes true!
+? What will Anna be when she grows up? | A vet. | A doctor. | A teacher.
+? Who is a vet in Anna's family? | Her aunt. | Her mum. | Her brother.
+? What does Anna want to have someday? | Her own animal hospital. | A big house. | A pet shop.
+S When I grow up, I will be | I want this job because | To do this job, I must

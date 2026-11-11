@@ -1,0 +1,2682 @@
+{
+ "id": "L3U09",
+ "level": 3,
+ "unit": 9,
+ "topic_en": "Sports and competitions",
+ "topic_vi": "Thể thao và thi đấu",
+ "can_do_vi": [
+  "Nói về môn thể thao, cuộc thi và kết quả",
+  "So sánh ai nhanh hơn, giỏi hơn"
+ ],
+ "grammar_note_vi": "So sánh hơn: thêm \"-er\" và \"than\" (fast → faster than). Từ dài dùng \"more ... than\" (more exciting than). Từ đặc biệt: good → better → best, bad → worse → worst.",
+ "items": [
+  {
+   "id": "L3U09-W01",
+   "type": "word",
+   "en": "race",
+   "vi": "cuộc đua",
+   "ipa": "/reɪs/",
+   "syllables": [
+    "race"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3CE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Let's have a race to the tree!",
+   "example_vi": "Mình thi chạy đến cái cây nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W02",
+   "type": "word",
+   "en": "competition",
+   "vi": "cuộc thi",
+   "ipa": "/ˌkɑmpəˈtɪʃən/",
+   "syllables": [
+    "com",
+    "pe",
+    "ti",
+    "tion"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "I won a drawing competition.",
+   "example_vi": "Tớ đã thắng một cuộc thi vẽ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W03",
+   "type": "word",
+   "en": "prize",
+   "vi": "giải thưởng",
+   "ipa": "/praɪz/",
+   "syllables": [
+    "prize"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "The first prize is a big trophy.",
+   "example_vi": "Giải nhất là một chiếc cúp to.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W04",
+   "type": "word",
+   "en": "medal",
+   "vi": "huy chương",
+   "ipa": "/ˈmɛdəl/",
+   "syllables": [
+    "medal"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3C5"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "She won a gold medal.",
+   "example_vi": "Bạn ấy giành huy chương vàng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W05",
+   "type": "word",
+   "en": "champion",
+   "vi": "nhà vô địch",
+   "ipa": "/ˈtʃæmpiən/",
+   "syllables": [
+    "cham",
+    "pi",
+    "on"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F947"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Our team is the champion!",
+   "example_vi": "Đội tớ là nhà vô địch!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W06",
+   "type": "word",
+   "en": "winner",
+   "vi": "người chiến thắng",
+   "ipa": "/ˈwɪnər/",
+   "syllables": [
+    "win",
+    "ner"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "And the winner is Linh!",
+   "example_vi": "Và người chiến thắng là Linh!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W07",
+   "type": "word",
+   "en": "trophy",
+   "vi": "chiếc cúp",
+   "ipa": "/ˈtroʊfi/",
+   "syllables": [
+    "tro",
+    "phy"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "The trophy is on the shelf.",
+   "example_vi": "Chiếc cúp ở trên giá.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W08",
+   "type": "word",
+   "en": "coach",
+   "vi": "huấn luyện viên",
+   "ipa": "/koʊtʃ/",
+   "syllables": [
+    "coach"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F3EB"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Our coach is strict but kind.",
+   "example_vi": "Huấn luyện viên của bọn tớ nghiêm nhưng tốt bụng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W09",
+   "type": "word",
+   "en": "stadium",
+   "vi": "sân vận động",
+   "ipa": "/ˈsteɪdiəm/",
+   "syllables": [
+    "sta",
+    "di",
+    "um"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3DF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "The stadium is full of people.",
+   "example_vi": "Sân vận động chật kín người.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W10",
+   "type": "word",
+   "en": "referee",
+   "vi": "trọng tài",
+   "ipa": "/ˌrɛfərˈi/",
+   "syllables": [
+    "ref",
+    "er",
+    "ee"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F7E8"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "The referee has a whistle.",
+   "example_vi": "Trọng tài có một cái còi.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W11",
+   "type": "word",
+   "en": "whistle",
+   "vi": "cái còi",
+   "ipa": "/ˈwɪsəl/",
+   "syllables": [
+    "whis",
+    "tle"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4E3"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Blow the whistle!",
+   "example_vi": "Thổi còi đi!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W12",
+   "type": "word",
+   "en": "exciting",
+   "vi": "hấp dẫn",
+   "ipa": "/ɪkˈsaɪtɪŋ/",
+   "syllables": [
+    "ex",
+    "cit",
+    "ing"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F929"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "The match was very exciting!",
+   "example_vi": "Trận đấu rất hấp dẫn!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W13",
+   "type": "word",
+   "en": "hit",
+   "vi": "đánh",
+   "ipa": "/hɪt/",
+   "syllables": [
+    "hit"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F3CF"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Hit the ball with the bat.",
+   "example_vi": "Dùng gậy đánh bóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W14",
+   "type": "word",
+   "en": "beat",
+   "vi": "thắng, đánh bại",
+   "ipa": "/bit/",
+   "syllables": [
+    "beat"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F94A"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "We beat the red team.",
+   "example_vi": "Bọn tớ thắng đội đỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W15",
+   "type": "word",
+   "en": "point",
+   "vi": "điểm",
+   "ipa": "/pɔɪnt/",
+   "syllables": [
+    "point"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "We have ten points!",
+   "example_vi": "Bọn tớ có mười điểm!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W16",
+   "type": "word",
+   "en": "golf",
+   "vi": "gôn",
+   "ipa": "/ɡɔlf/",
+   "syllables": [
+    "golf"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "26F3"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "My grandpa plays golf.",
+   "example_vi": "Ông tớ chơi gôn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W17",
+   "type": "word",
+   "en": "hockey",
+   "vi": "khúc côn cầu",
+   "ipa": "/ˈhɑki/",
+   "syllables": [
+    "hock",
+    "ey"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3D1"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "Hockey is a fast game.",
+   "example_vi": "Khúc côn cầu là môn chơi nhanh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W18",
+   "type": "word",
+   "en": "baseball",
+   "vi": "bóng chày",
+   "ipa": "/ˈbeɪsˈbɔl/",
+   "syllables": [
+    "base",
+    "ball"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "26BE"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "Baseball is popular in America.",
+   "example_vi": "Bóng chày phổ biến ở Mỹ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W19",
+   "type": "word",
+   "en": "karate",
+   "vi": "võ karate",
+   "ipa": "/kərˈɑti/",
+   "syllables": [
+    "karate"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F94B"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "I go to karate on Tuesdays.",
+   "example_vi": "Thứ Ba nào tớ cũng đi học karate.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W20",
+   "type": "word",
+   "en": "gymnastics",
+   "vi": "thể dục dụng cụ",
+   "ipa": "/dʒɪmˈnæstɪks/",
+   "syllables": [
+    "gym",
+    "nas",
+    "tics"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F938"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Gymnastics is difficult.",
+   "example_vi": "Thể dục dụng cụ khó lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W21",
+   "type": "word",
+   "en": "cycling",
+   "vi": "đạp xe",
+   "ipa": "/ˈsaɪkəlɪŋ/",
+   "syllables": [
+    "cycling"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6B5"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "Cycling is good exercise.",
+   "example_vi": "Đạp xe là bài tập tốt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W22",
+   "type": "word",
+   "en": "sailing",
+   "vi": "đi thuyền buồm",
+   "ipa": "/ˈseɪlɪŋ/",
+   "syllables": [
+    "sail",
+    "ing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26F5"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "We went sailing on the lake.",
+   "example_vi": "Nhà tớ đi thuyền buồm trên hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W23",
+   "type": "word",
+   "en": "surfing",
+   "vi": "lướt sóng",
+   "ipa": "/ˈsʌrfɪŋ/",
+   "syllables": [
+    "surf",
+    "ing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3C4"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "Surfing is fun but difficult.",
+   "example_vi": "Lướt sóng vui nhưng khó.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W24",
+   "type": "word",
+   "en": "ski",
+   "vi": "trượt tuyết",
+   "ipa": "/ski/",
+   "syllables": [
+    "ski"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3BF"
+   },
+   "picturable": true,
+   "cat": "L3U09",
+   "example_en": "People ski on snowy mountains.",
+   "example_vi": "Mọi người trượt tuyết trên núi tuyết.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W25",
+   "type": "phrase",
+   "en": "high jump",
+   "vi": "nhảy cao",
+   "ipa": "/haɪ dʒʌmp/",
+   "syllables": [
+    "high",
+    "jump"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2B06-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Leo is good at the high jump.",
+   "example_vi": "Leo nhảy cao giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W26",
+   "type": "phrase",
+   "en": "long jump",
+   "vi": "nhảy xa",
+   "ipa": "/lɔŋ dʒʌmp/",
+   "syllables": [
+    "long",
+    "jump"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "I'm going to try the long jump.",
+   "example_vi": "Tớ sẽ thử nhảy xa.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W27",
+   "type": "word",
+   "en": "fit",
+   "vi": "khoẻ mạnh, cân đối",
+   "ipa": "/fɪt/",
+   "syllables": [
+    "fit"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Swimming keeps you fit.",
+   "example_vi": "Bơi lội giúp cậu khoẻ mạnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W28",
+   "type": "word",
+   "en": "against",
+   "vi": "đấu với",
+   "ipa": "/əˈɡɛnst/",
+   "syllables": [
+    "against"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F19A"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "We played against the blue team.",
+   "example_vi": "Bọn tớ đấu với đội xanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W29",
+   "type": "phrase",
+   "en": "warm up",
+   "vi": "khởi động",
+   "ipa": "/wɔrm ʌp/",
+   "syllables": [
+    "warm",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F525"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Let's warm up before the race.",
+   "example_vi": "Mình khởi động trước khi đua nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W30",
+   "type": "word",
+   "en": "stretch",
+   "vi": "giãn cơ, duỗi người",
+   "ipa": "/strɛtʃ/",
+   "syllables": [
+    "stretch"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F646"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Stretch your arms and legs.",
+   "example_vi": "Duỗi tay và chân ra nào.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W31",
+   "type": "word",
+   "en": "rope",
+   "vi": "dây thừng",
+   "ipa": "/roʊp/",
+   "syllables": [
+    "rope"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1FAA2"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Hold the rope with both hands.",
+   "example_vi": "Nắm dây bằng cả hai tay nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U09-W32",
+   "type": "word",
+   "en": "join",
+   "vi": "tham gia",
+   "ipa": "/dʒɔɪn/",
+   "syllables": [
+    "join"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L3U09",
+   "example_en": "Do you want to join our team?",
+   "example_vi": "Cậu có muốn vào đội tớ không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U09-P01",
+   "en": "I'm faster than {x}.",
+   "vi": "Tớ nhanh hơn {x}.",
+   "slots": {
+    "x": [
+     "my brother",
+     "my dad",
+     "Bi"
+    ]
+   }
+  },
+  {
+   "id": "L3U09-P02",
+   "en": "Do you want to join the {x} club?",
+   "vi": "Cậu có muốn tham gia câu lạc bộ {x} không?",
+   "slots": {
+    "x": [
+     "karate",
+     "football",
+     "swimming",
+     "chess"
+    ]
+   }
+  },
+  {
+   "id": "L3U09-P03",
+   "en": "Our team won the {x}!",
+   "vi": "Đội tớ đã giành {x}!",
+   "slots": {
+    "x": [
+     "match",
+     "race",
+     "trophy",
+     "competition"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U09-D01",
+   "title_vi": "Thi chạy",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's have a race!",
+     "vi": "Mình thi chạy nhé!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! To the tree and back.",
+     "vi": "Được! Chạy đến cái cây rồi quay lại."
+    },
+    {
+     "role": "Bi",
+     "en": "Ready? One, two, three, go!",
+     "vi": "Sẵn sàng chưa? Một, hai, ba, chạy!"
+    },
+    {
+     "role": "Kid",
+     "en": "I won! I'm faster than you!",
+     "vi": "Tớ thắng! Tớ nhanh hơn cậu!"
+    },
+    {
+     "role": "Bi",
+     "en": "Well done! You're the champion!",
+     "vi": "Giỏi lắm! Cậu là nhà vô địch!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "tree",
+    "options": [
+     "bench",
+     "wall"
+    ]
+   }
+  },
+  {
+   "id": "L3U09-D02",
+   "title_vi": "Trận đấu hôm qua",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Did you watch the football match yesterday?",
+     "vi": "Hôm qua cậu có xem trận bóng đá không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! It was very exciting.",
+     "vi": "Có! Hay lắm."
+    },
+    {
+     "role": "Bi",
+     "en": "Who won?",
+     "vi": "Đội nào thắng?"
+    },
+    {
+     "role": "Kid",
+     "en": "The blue team won. They scored three goals.",
+     "vi": "Đội xanh thắng. Họ ghi ba bàn."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! Great match!",
+     "vi": "Oa! Trận đấu tuyệt quá!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "football",
+    "options": [
+     "basketball",
+     "hockey"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "race"
+  },
+  {
+   "type": "dictate_word",
+   "target": "competition"
+  },
+  {
+   "type": "dictate_word",
+   "target": "prize"
+  },
+  {
+   "type": "dictate_word",
+   "target": "medal"
+  },
+  {
+   "type": "dictate_word",
+   "target": "champion"
+  },
+  {
+   "type": "dictate_word",
+   "target": "winner"
+  },
+  {
+   "type": "dictate_word",
+   "target": "trophy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "coach"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Let's have a race to the tree!"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I won a drawing competition."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The first prize is a big trophy."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My favourite sport is|I'm good at|I want to join"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U09-R01",
+   "title_en": "Sports day",
+   "text_en": [
+    "Last Friday was sports day at Minh's school.",
+    "All the children wore their sports clothes.",
+    "First, they warmed up and stretched.",
+    "Then the races began.",
+    "Minh ran in the hundred metres race.",
+    "He was faster than all the other boys!",
+    "He won a gold medal.",
+    "His sister, An, tried the long jump.",
+    "She didn't win, but she jumped very far.",
+    "At the end, the coach gave every child a sticker.",
+    "Everyone was tired but happy."
+   ],
+   "questions": [
+    {
+     "q": "What did Minh win?",
+     "options": [
+      "A gold medal.",
+      "A silver medal.",
+      "A trophy."
+     ],
+     "answer": "A gold medal."
+    },
+    {
+     "q": "What did An try?",
+     "options": [
+      "The long jump.",
+      "The high jump.",
+      "Swimming."
+     ],
+     "answer": "The long jump."
+    },
+    {
+     "q": "What did the coach give every child?",
+     "options": [
+      "A sticker.",
+      "A medal.",
+      "A cake."
+     ],
+     "answer": "A sticker."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U09-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "medal",
+   "item": "medal",
+   "options": [
+    "golf",
+    "medal",
+    "karate",
+    "surfing"
+   ],
+   "answer": "medal"
+  },
+  {
+   "id": "L3U09-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "golf",
+   "item": "golf",
+   "options": [
+    "ski",
+    "golf",
+    "karate",
+    "surfing"
+   ],
+   "answer": "golf"
+  },
+  {
+   "id": "L3U09-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hockey",
+   "item": "hockey",
+   "options": [
+    "hockey",
+    "baseball",
+    "cycling",
+    "medal"
+   ],
+   "answer": "hockey"
+  },
+  {
+   "id": "L3U09-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "baseball",
+   "item": "baseball",
+   "options": [
+    "medal",
+    "baseball",
+    "golf",
+    "ski"
+   ],
+   "answer": "baseball"
+  },
+  {
+   "id": "L3U09-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "karate",
+   "item": "karate",
+   "options": [
+    "karate",
+    "baseball",
+    "surfing",
+    "ski"
+   ],
+   "answer": "karate"
+  },
+  {
+   "id": "L3U09-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cycling",
+   "item": "cycling",
+   "options": [
+    "cycling",
+    "surfing",
+    "golf",
+    "baseball"
+   ],
+   "answer": "cycling"
+  },
+  {
+   "id": "L3U09-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "surfing",
+   "item": "surfing",
+   "options": [
+    "medal",
+    "baseball",
+    "hockey",
+    "surfing"
+   ],
+   "answer": "surfing"
+  },
+  {
+   "id": "L3U09-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ski",
+   "item": "ski",
+   "options": [
+    "medal",
+    "ski",
+    "karate",
+    "hockey"
+   ],
+   "answer": "ski"
+  },
+  {
+   "id": "L3U09-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "race",
+   "item": "race",
+   "options": [
+    "warm up",
+    "champion",
+    "long jump",
+    "race"
+   ],
+   "answer": "race"
+  },
+  {
+   "id": "L3U09-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "competition",
+   "item": "competition",
+   "options": [
+    "competition",
+    "hockey",
+    "warm up",
+    "point"
+   ],
+   "answer": "competition"
+  },
+  {
+   "id": "L3U09-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "prize",
+   "item": "prize",
+   "options": [
+    "race",
+    "cycling",
+    "prize",
+    "rope"
+   ],
+   "answer": "prize"
+  },
+  {
+   "id": "L3U09-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "champion",
+   "item": "champion",
+   "options": [
+    "hit",
+    "champion",
+    "golf",
+    "stadium"
+   ],
+   "answer": "champion"
+  },
+  {
+   "id": "L3U09-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "winner",
+   "item": "winner",
+   "options": [
+    "race",
+    "warm up",
+    "sailing",
+    "winner"
+   ],
+   "answer": "winner"
+  },
+  {
+   "id": "L3U09-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trophy",
+   "item": "trophy",
+   "options": [
+    "whistle",
+    "trophy",
+    "cycling",
+    "prize"
+   ],
+   "answer": "trophy"
+  },
+  {
+   "id": "L3U09-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "coach",
+   "item": "coach",
+   "options": [
+    "coach",
+    "trophy",
+    "warm up",
+    "golf"
+   ],
+   "answer": "coach"
+  },
+  {
+   "id": "L3U09-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stadium",
+   "item": "stadium",
+   "options": [
+    "prize",
+    "stadium",
+    "fit",
+    "beat"
+   ],
+   "answer": "stadium"
+  },
+  {
+   "id": "L3U09-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "referee",
+   "item": "referee",
+   "options": [
+    "referee",
+    "coach",
+    "exciting",
+    "warm up"
+   ],
+   "answer": "referee"
+  },
+  {
+   "id": "L3U09-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "whistle",
+   "item": "whistle",
+   "options": [
+    "cycling",
+    "winner",
+    "whistle",
+    "exciting"
+   ],
+   "answer": "whistle"
+  },
+  {
+   "id": "L3U09-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "exciting",
+   "item": "exciting",
+   "options": [
+    "stadium",
+    "fit",
+    "exciting",
+    "referee"
+   ],
+   "answer": "exciting"
+  },
+  {
+   "id": "L3U09-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hit",
+   "item": "hit",
+   "options": [
+    "winner",
+    "fit",
+    "stretch",
+    "hit"
+   ],
+   "answer": "hit"
+  },
+  {
+   "id": "L3U09-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "beat",
+   "item": "beat",
+   "options": [
+    "beat",
+    "against",
+    "cycling",
+    "stretch"
+   ],
+   "answer": "beat"
+  },
+  {
+   "id": "L3U09-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "point",
+   "item": "point",
+   "options": [
+    "point",
+    "join",
+    "champion",
+    "fit"
+   ],
+   "answer": "point"
+  },
+  {
+   "id": "L3U09-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gymnastics",
+   "item": "gymnastics",
+   "options": [
+    "gymnastics",
+    "whistle",
+    "karate",
+    "race"
+   ],
+   "answer": "gymnastics"
+  },
+  {
+   "id": "L3U09-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sailing",
+   "item": "sailing",
+   "options": [
+    "golf",
+    "referee",
+    "sailing",
+    "point"
+   ],
+   "answer": "sailing"
+  },
+  {
+   "id": "L3U09-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "high jump",
+   "item": "high jump",
+   "options": [
+    "golf",
+    "winner",
+    "exciting",
+    "high jump"
+   ],
+   "answer": "high jump"
+  },
+  {
+   "id": "L3U09-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "long jump",
+   "item": "long jump",
+   "options": [
+    "competition",
+    "point",
+    "trophy",
+    "long jump"
+   ],
+   "answer": "long jump"
+  },
+  {
+   "id": "L3U09-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fit",
+   "item": "fit",
+   "options": [
+    "whistle",
+    "coach",
+    "trophy",
+    "fit"
+   ],
+   "answer": "fit"
+  },
+  {
+   "id": "L3U09-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "against",
+   "item": "against",
+   "options": [
+    "champion",
+    "beat",
+    "against",
+    "long jump"
+   ],
+   "answer": "against"
+  },
+  {
+   "id": "L3U09-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "warm up",
+   "item": "warm up",
+   "options": [
+    "race",
+    "warm up",
+    "golf",
+    "surfing"
+   ],
+   "answer": "warm up"
+  },
+  {
+   "id": "L3U09-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stretch",
+   "item": "stretch",
+   "options": [
+    "stretch",
+    "trophy",
+    "point",
+    "join"
+   ],
+   "answer": "stretch"
+  },
+  {
+   "id": "L3U09-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rope",
+   "item": "rope",
+   "options": [
+    "whistle",
+    "rope",
+    "against",
+    "cycling"
+   ],
+   "answer": "rope"
+  },
+  {
+   "id": "L3U09-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "join",
+   "item": "join",
+   "options": [
+    "ski",
+    "join",
+    "rope",
+    "cycling"
+   ],
+   "answer": "join"
+  },
+  {
+   "id": "L3U09-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "medal",
+   "answer": "medal"
+  },
+  {
+   "id": "L3U09-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "golf",
+   "answer": "golf"
+  },
+  {
+   "id": "L3U09-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hockey",
+   "answer": "hockey"
+  },
+  {
+   "id": "L3U09-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "baseball",
+   "answer": "baseball"
+  },
+  {
+   "id": "L3U09-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "karate",
+   "answer": "karate"
+  },
+  {
+   "id": "L3U09-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cycling",
+   "answer": "cycling"
+  },
+  {
+   "id": "L3U09-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "surfing",
+   "answer": "surfing"
+  },
+  {
+   "id": "L3U09-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ski",
+   "answer": "ski"
+  },
+  {
+   "id": "L3U09-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's have a race to the tree!",
+   "item": "race",
+   "answer": "Let's have a race to the tree!"
+  },
+  {
+   "id": "L3U09-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I won a drawing competition.",
+   "item": "competition",
+   "answer": "I won a drawing competition."
+  },
+  {
+   "id": "L3U09-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The first prize is a big trophy.",
+   "item": "prize",
+   "answer": "The first prize is a big trophy."
+  },
+  {
+   "id": "L3U09-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She won a gold medal.",
+   "item": "medal",
+   "answer": "She won a gold medal."
+  },
+  {
+   "id": "L3U09-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team is the champion!",
+   "item": "champion",
+   "answer": "Our team is the champion!"
+  },
+  {
+   "id": "L3U09-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "And the winner is Linh!",
+   "item": "winner",
+   "answer": "And the winner is Linh!"
+  },
+  {
+   "id": "L3U09-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The trophy is on the shelf.",
+   "item": "trophy",
+   "answer": "The trophy is on the shelf."
+  },
+  {
+   "id": "L3U09-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our coach is strict but kind.",
+   "item": "coach",
+   "answer": "Our coach is strict but kind."
+  },
+  {
+   "id": "L3U09-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The stadium is full of people.",
+   "item": "stadium",
+   "answer": "The stadium is full of people."
+  },
+  {
+   "id": "L3U09-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The referee has a whistle.",
+   "item": "referee",
+   "answer": "The referee has a whistle."
+  },
+  {
+   "id": "L3U09-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Blow the whistle!",
+   "item": "whistle",
+   "answer": "Blow the whistle!"
+  },
+  {
+   "id": "L3U09-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The match was very exciting!",
+   "item": "exciting",
+   "answer": "The match was very exciting!"
+  },
+  {
+   "id": "L3U09-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hit the ball with the bat.",
+   "item": "hit",
+   "answer": "Hit the ball with the bat."
+  },
+  {
+   "id": "L3U09-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We beat the red team.",
+   "item": "beat",
+   "answer": "We beat the red team."
+  },
+  {
+   "id": "L3U09-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have ten points!",
+   "item": "point",
+   "answer": "We have ten points!"
+  },
+  {
+   "id": "L3U09-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa plays golf.",
+   "item": "golf",
+   "answer": "My grandpa plays golf."
+  },
+  {
+   "id": "L3U09-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hockey is a fast game.",
+   "item": "hockey",
+   "answer": "Hockey is a fast game."
+  },
+  {
+   "id": "L3U09-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Baseball is popular in America.",
+   "item": "baseball",
+   "answer": "Baseball is popular in America."
+  },
+  {
+   "id": "L3U09-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to karate on Tuesdays.",
+   "item": "karate",
+   "answer": "I go to karate on Tuesdays."
+  },
+  {
+   "id": "L3U09-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Gymnastics is difficult.",
+   "item": "gymnastics",
+   "answer": "Gymnastics is difficult."
+  },
+  {
+   "id": "L3U09-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cycling is good exercise.",
+   "item": "cycling",
+   "answer": "Cycling is good exercise."
+  },
+  {
+   "id": "L3U09-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went sailing on the lake.",
+   "item": "sailing",
+   "answer": "We went sailing on the lake."
+  },
+  {
+   "id": "L3U09-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Surfing is fun but difficult.",
+   "item": "surfing",
+   "answer": "Surfing is fun but difficult."
+  },
+  {
+   "id": "L3U09-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People ski on snowy mountains.",
+   "item": "ski",
+   "answer": "People ski on snowy mountains."
+  },
+  {
+   "id": "L3U09-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Leo is good at the high jump.",
+   "item": "high jump",
+   "answer": "Leo is good at the high jump."
+  },
+  {
+   "id": "L3U09-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm going to try the long jump.",
+   "item": "long jump",
+   "answer": "I'm going to try the long jump."
+  },
+  {
+   "id": "L3U09-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Swimming keeps you fit.",
+   "item": "fit",
+   "answer": "Swimming keeps you fit."
+  },
+  {
+   "id": "L3U09-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We played against the blue team.",
+   "item": "against",
+   "answer": "We played against the blue team."
+  },
+  {
+   "id": "L3U09-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's warm up before the race.",
+   "item": "warm up",
+   "answer": "Let's warm up before the race."
+  },
+  {
+   "id": "L3U09-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stretch your arms and legs.",
+   "item": "stretch",
+   "answer": "Stretch your arms and legs."
+  },
+  {
+   "id": "L3U09-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hold the rope with both hands.",
+   "item": "rope",
+   "answer": "Hold the rope with both hands."
+  },
+  {
+   "id": "L3U09-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you want to join our team?",
+   "item": "join",
+   "answer": "Do you want to join our team?"
+  },
+  {
+   "id": "L3U09-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm faster than my brother.",
+   "answer": "I'm faster than my brother."
+  },
+  {
+   "id": "L3U09-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm faster than my dad.",
+   "answer": "I'm faster than my dad."
+  },
+  {
+   "id": "L3U09-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm faster than Bi.",
+   "answer": "I'm faster than Bi."
+  },
+  {
+   "id": "L3U09-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you want to join the karate club?",
+   "answer": "Do you want to join the karate club?"
+  },
+  {
+   "id": "L3U09-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you want to join the football club?",
+   "answer": "Do you want to join the football club?"
+  },
+  {
+   "id": "L3U09-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you want to join the swimming club?",
+   "answer": "Do you want to join the swimming club?"
+  },
+  {
+   "id": "L3U09-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team won the match!",
+   "answer": "Our team won the match!"
+  },
+  {
+   "id": "L3U09-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team won the race!",
+   "answer": "Our team won the race!"
+  },
+  {
+   "id": "L3U09-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team won the trophy!",
+   "answer": "Our team won the trophy!"
+  },
+  {
+   "id": "L3U09-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Did you watch the football match yesterday?",
+   "answer": "Yes! It was very exciting."
+  },
+  {
+   "id": "L3U09-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Who won?",
+   "answer": "The blue team won. They scored three goals."
+  },
+  {
+   "id": "L3U09-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "medal",
+   "options": [
+    "ski",
+    "medal",
+    "karate"
+   ],
+   "answer": "medal"
+  },
+  {
+   "id": "L3U09-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "golf",
+   "options": [
+    "karate",
+    "golf",
+    "medal"
+   ],
+   "answer": "golf"
+  },
+  {
+   "id": "L3U09-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hockey",
+   "options": [
+    "hockey",
+    "golf",
+    "karate"
+   ],
+   "answer": "hockey"
+  },
+  {
+   "id": "L3U09-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "baseball",
+   "options": [
+    "baseball",
+    "cycling",
+    "golf"
+   ],
+   "answer": "baseball"
+  },
+  {
+   "id": "L3U09-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "karate",
+   "options": [
+    "ski",
+    "karate",
+    "golf"
+   ],
+   "answer": "karate"
+  },
+  {
+   "id": "L3U09-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cycling",
+   "options": [
+    "cycling",
+    "karate",
+    "medal"
+   ],
+   "answer": "cycling"
+  },
+  {
+   "id": "L3U09-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "surfing",
+   "options": [
+    "hockey",
+    "surfing",
+    "cycling"
+   ],
+   "answer": "surfing"
+  },
+  {
+   "id": "L3U09-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ski",
+   "options": [
+    "karate",
+    "ski",
+    "hockey"
+   ],
+   "answer": "ski"
+  },
+  {
+   "id": "L3U09-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's have a ___ to the tree!",
+   "item": "race",
+   "options": [
+    "golf",
+    "race",
+    "fit"
+   ],
+   "answer": "race"
+  },
+  {
+   "id": "L3U09-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I won a drawing ___.",
+   "item": "competition",
+   "options": [
+    "champion",
+    "referee",
+    "competition"
+   ],
+   "answer": "competition"
+  },
+  {
+   "id": "L3U09-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The first ___ is a big trophy.",
+   "item": "prize",
+   "options": [
+    "hit",
+    "prize",
+    "exciting"
+   ],
+   "answer": "prize"
+  },
+  {
+   "id": "L3U09-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She won a gold ___.",
+   "item": "medal",
+   "options": [
+    "stadium",
+    "rope",
+    "medal"
+   ],
+   "answer": "medal"
+  },
+  {
+   "id": "L3U09-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our team is the ___!",
+   "item": "champion",
+   "options": [
+    "karate",
+    "against",
+    "champion"
+   ],
+   "answer": "champion"
+  },
+  {
+   "id": "L3U09-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "And the ___ is Linh!",
+   "item": "winner",
+   "options": [
+    "gymnastics",
+    "winner",
+    "against"
+   ],
+   "answer": "winner"
+  },
+  {
+   "id": "L3U09-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is on the shelf.",
+   "item": "trophy",
+   "options": [
+    "medal",
+    "trophy",
+    "hit"
+   ],
+   "answer": "trophy"
+  },
+  {
+   "id": "L3U09-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is strict but kind.",
+   "item": "coach",
+   "options": [
+    "beat",
+    "stretch",
+    "coach"
+   ],
+   "answer": "coach"
+  },
+  {
+   "id": "L3U09-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is full of people.",
+   "item": "stadium",
+   "options": [
+    "baseball",
+    "stadium",
+    "prize"
+   ],
+   "answer": "stadium"
+  },
+  {
+   "id": "L3U09-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has a whistle.",
+   "item": "referee",
+   "options": [
+    "referee",
+    "against",
+    "join"
+   ],
+   "answer": "referee"
+  },
+  {
+   "id": "L3U09-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Blow the ___!",
+   "item": "whistle",
+   "options": [
+    "whistle",
+    "ski",
+    "hit"
+   ],
+   "answer": "whistle"
+  },
+  {
+   "id": "L3U09-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The match was very ___!",
+   "item": "exciting",
+   "options": [
+    "winner",
+    "exciting",
+    "sailing"
+   ],
+   "answer": "exciting"
+  },
+  {
+   "id": "L3U09-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the ball with the bat.",
+   "item": "hit",
+   "options": [
+    "Referee",
+    "Hit",
+    "Golf"
+   ],
+   "answer": "Hit"
+  },
+  {
+   "id": "L3U09-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ the red team.",
+   "item": "beat",
+   "options": [
+    "medal",
+    "beat",
+    "referee"
+   ],
+   "answer": "beat"
+  },
+  {
+   "id": "L3U09-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have ten ___!",
+   "item": "point",
+   "options": [
+    "skis",
+    "surfings",
+    "points"
+   ],
+   "answer": "points"
+  },
+  {
+   "id": "L3U09-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandpa plays ___.",
+   "item": "golf",
+   "options": [
+    "cycling",
+    "golf",
+    "competition"
+   ],
+   "answer": "golf"
+  },
+  {
+   "id": "L3U09-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is a fast game.",
+   "item": "hockey",
+   "options": [
+    "Golf",
+    "Sailing",
+    "Hockey"
+   ],
+   "answer": "Hockey"
+  },
+  {
+   "id": "L3U09-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is popular in America.",
+   "item": "baseball",
+   "options": [
+    "Referee",
+    "Baseball",
+    "Coach"
+   ],
+   "answer": "Baseball"
+  },
+  {
+   "id": "L3U09-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I go to ___ on Tuesdays.",
+   "item": "karate",
+   "options": [
+    "whistle",
+    "referee",
+    "karate"
+   ],
+   "answer": "karate"
+  },
+  {
+   "id": "L3U09-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is difficult.",
+   "item": "gymnastics",
+   "options": [
+    "Gymnastics",
+    "Stadium",
+    "Point"
+   ],
+   "answer": "Gymnastics"
+  },
+  {
+   "id": "L3U09-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is good exercise.",
+   "item": "cycling",
+   "options": [
+    "Trophy",
+    "Cycling",
+    "Medal"
+   ],
+   "answer": "Cycling"
+  },
+  {
+   "id": "L3U09-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went ___ on the lake.",
+   "item": "sailing",
+   "options": [
+    "sailing",
+    "beat",
+    "against"
+   ],
+   "answer": "sailing"
+  },
+  {
+   "id": "L3U09-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is fun but difficult.",
+   "item": "surfing",
+   "options": [
+    "Referee",
+    "Surfing",
+    "Medal"
+   ],
+   "answer": "Surfing"
+  },
+  {
+   "id": "L3U09-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People ___ on snowy mountains.",
+   "item": "ski",
+   "options": [
+    "champion",
+    "prize",
+    "ski"
+   ],
+   "answer": "ski"
+  },
+  {
+   "id": "L3U09-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Swimming keeps you ___.",
+   "item": "fit",
+   "options": [
+    "exciting",
+    "fit",
+    "coach"
+   ],
+   "answer": "fit"
+  },
+  {
+   "id": "L3U09-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We played ___ the blue team.",
+   "item": "against",
+   "options": [
+    "referee",
+    "exciting",
+    "against"
+   ],
+   "answer": "against"
+  },
+  {
+   "id": "L3U09-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your arms and legs.",
+   "item": "stretch",
+   "options": [
+    "Stretch",
+    "Whistle",
+    "Champion"
+   ],
+   "answer": "Stretch"
+  },
+  {
+   "id": "L3U09-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hold the ___ with both hands.",
+   "item": "rope",
+   "options": [
+    "sailing",
+    "rope",
+    "against"
+   ],
+   "answer": "rope"
+  },
+  {
+   "id": "L3U09-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you want to ___ our team?",
+   "item": "join",
+   "options": [
+    "join",
+    "winner",
+    "whistle"
+   ],
+   "answer": "join"
+  },
+  {
+   "id": "L3U09-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "She won a gold medal.",
+   "item": "medal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U09-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My grandpa plays golf.",
+   "item": "hockey",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U09-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Hockey is a fast game.",
+   "item": "hockey",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U09-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Baseball is popular in America.",
+   "item": "karate",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U09-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I go to karate on Tuesdays.",
+   "item": "karate",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U09-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Cycling is good exercise.",
+   "item": "surfing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U09-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Surfing is fun but difficult.",
+   "item": "surfing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U09-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "People ski on snowy mountains.",
+   "item": "medal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U09-Q129",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U09-R01",
+   "text_en": "What did Minh win?",
+   "options": [
+    "A trophy.",
+    "A silver medal.",
+    "A gold medal."
+   ],
+   "answer": "A gold medal."
+  },
+  {
+   "id": "L3U09-Q130",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U09-R01",
+   "text_en": "What did An try?",
+   "options": [
+    "The long jump.",
+    "Swimming.",
+    "The high jump."
+   ],
+   "answer": "The long jump."
+  },
+  {
+   "id": "L3U09-Q131",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U09-R01",
+   "text_en": "What did the coach give every child?",
+   "options": [
+    "A sticker.",
+    "A cake.",
+    "A medal."
+   ],
+   "answer": "A sticker."
+  },
+  {
+   "id": "L3U09-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "race",
+   "item": "race",
+   "answer": "race"
+  },
+  {
+   "id": "L3U09-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "competition",
+   "item": "competition",
+   "answer": "competition"
+  },
+  {
+   "id": "L3U09-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "prize",
+   "item": "prize",
+   "answer": "prize"
+  },
+  {
+   "id": "L3U09-Q135",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "medal",
+   "item": "medal",
+   "answer": "medal"
+  },
+  {
+   "id": "L3U09-Q136",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "champion",
+   "item": "champion",
+   "answer": "champion"
+  },
+  {
+   "id": "L3U09-Q137",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "winner",
+   "item": "winner",
+   "answer": "winner"
+  },
+  {
+   "id": "L3U09-Q138",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "trophy",
+   "item": "trophy",
+   "answer": "trophy"
+  },
+  {
+   "id": "L3U09-Q139",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "coach",
+   "item": "coach",
+   "answer": "coach"
+  },
+  {
+   "id": "L3U09-Q140",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Let's have a race to the tree!",
+   "answer": "Let's have a race to the tree!"
+  },
+  {
+   "id": "L3U09-Q141",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I won a drawing competition.",
+   "answer": "I won a drawing competition."
+  },
+  {
+   "id": "L3U09-Q142",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The first prize is a big trophy.",
+   "answer": "The first prize is a big trophy."
+  }
+ ]
+}

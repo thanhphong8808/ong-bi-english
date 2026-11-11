@@ -1,0 +1,3059 @@
+{
+ "id": "L4U08",
+ "level": 4,
+ "unit": 8,
+ "topic_en": "Home and chores",
+ "topic_vi": "Việc nhà",
+ "can_do_vi": [
+  "Gọi tên đồ đạc trong nhà",
+  "Nói việc nhà mình làm và mức độ thường xuyên"
+ ],
+ "grammar_note_vi": "Nói mức độ thường xuyên: always (luôn luôn), usually (thường), often (hay), sometimes (thỉnh thoảng), never (không bao giờ). Các từ này đứng trước động từ: \"I always make my bed.\"",
+ "items": [
+  {
+   "id": "L4U08-W01",
+   "type": "word",
+   "en": "chores",
+   "vi": "việc nhà",
+   "ipa": "/tʃɔrz/",
+   "syllables": [
+    "chores"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9F9"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I help with the chores every day.",
+   "example_vi": "Ngày nào tớ cũng giúp làm việc nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W02",
+   "type": "word",
+   "en": "often",
+   "vi": "hay, thường",
+   "ipa": "/ˈɔfən/",
+   "syllables": [
+    "of",
+    "ten"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I often help my mum in the kitchen.",
+   "example_vi": "Tớ hay giúp mẹ trong bếp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W03",
+   "type": "word",
+   "en": "tidy",
+   "vi": "gọn gàng, dọn gọn",
+   "ipa": "/ˈtaɪdi/",
+   "syllables": [
+    "tidy"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Please tidy your room.",
+   "example_vi": "Con dọn phòng cho gọn đi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W04",
+   "type": "phrase",
+   "en": "make the bed",
+   "vi": "dọn giường",
+   "ipa": "/meɪk ðə bɛd/",
+   "syllables": [
+    "make",
+    "the",
+    "bed"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I make the bed every morning.",
+   "example_vi": "Sáng nào tớ cũng dọn giường.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W05",
+   "type": "word",
+   "en": "vacuum",
+   "vi": "hút bụi",
+   "ipa": "/ˈvækjum/",
+   "syllables": [
+    "vacuum"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F300"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Dad vacuums the carpet on Saturdays.",
+   "example_vi": "Thứ Bảy bố hút bụi thảm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W06",
+   "type": "word",
+   "en": "sweep",
+   "vi": "quét",
+   "ipa": "/swip/",
+   "syllables": [
+    "sweep"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F9"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Can you sweep the floor?",
+   "example_vi": "Con quét nhà được không?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W07",
+   "type": "word",
+   "en": "mop",
+   "vi": "lau nhà",
+   "ipa": "/mɑp/",
+   "syllables": [
+    "mop"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F9FD"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Mum mops the kitchen floor.",
+   "example_vi": "Mẹ lau sàn bếp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W08",
+   "type": "word",
+   "en": "iron",
+   "vi": "là (ủi) quần áo",
+   "ipa": "/aɪʌrn/",
+   "syllables": [
+    "iron"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F454"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Grandma irons Grandpa's shirts.",
+   "example_vi": "Bà là áo cho ông.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W09",
+   "type": "word",
+   "en": "laundry",
+   "vi": "quần áo cần giặt",
+   "ipa": "/ˈlɔndri/",
+   "syllables": [
+    "laun",
+    "dry"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F9FA"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Put the laundry in the basket.",
+   "example_vi": "Cho quần áo bẩn vào giỏ.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W10",
+   "type": "word",
+   "en": "dishes",
+   "vi": "bát đĩa",
+   "ipa": "/ˈdɪʃɪz/",
+   "syllables": [
+    "dish",
+    "es"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I help to wash the dishes.",
+   "example_vi": "Tớ giúp rửa bát đĩa.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W11",
+   "type": "phrase",
+   "en": "wash up",
+   "vi": "rửa bát",
+   "ipa": "/wɑʃ ʌp/",
+   "syllables": [
+    "wash",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9FC"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "It's my turn to wash up.",
+   "example_vi": "Đến lượt tớ rửa bát.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W12",
+   "type": "phrase",
+   "en": "lay the table",
+   "vi": "dọn bàn ăn",
+   "ipa": "/leɪ ðə ˈteɪbəl/",
+   "syllables": [
+    "lay",
+    "the",
+    "ta",
+    "ble"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F374"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Can you lay the table for dinner?",
+   "example_vi": "Con dọn bàn ăn tối được không?",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W13",
+   "type": "phrase",
+   "en": "take out",
+   "vi": "mang ra ngoài",
+   "ipa": "/teɪk aʊt/",
+   "syllables": [
+    "take",
+    "out"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6AE"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I take out the rubbish on Mondays.",
+   "example_vi": "Thứ Hai tớ đổ rác.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W14",
+   "type": "word",
+   "en": "cupboard",
+   "vi": "tủ bếp",
+   "ipa": "/ˈkʌbərd/",
+   "syllables": [
+    "cup",
+    "board"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "The cups are in the cupboard.",
+   "example_vi": "Cốc ở trong tủ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W15",
+   "type": "word",
+   "en": "shelf",
+   "vi": "cái giá, kệ",
+   "ipa": "/ʃɛlf/",
+   "syllables": [
+    "shelf"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Put the books on the shelf.",
+   "example_vi": "Đặt sách lên giá.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W16",
+   "type": "word",
+   "en": "drawer",
+   "vi": "ngăn kéo",
+   "ipa": "/drɔr/",
+   "syllables": [
+    "drawer"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5C4-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U08",
+   "example_en": "My socks are in the top drawer.",
+   "example_vi": "Tất của tớ ở ngăn kéo trên cùng.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W17",
+   "type": "word",
+   "en": "wardrobe",
+   "vi": "tủ quần áo",
+   "ipa": "/ˈwɔrˌdroʊb/",
+   "syllables": [
+    "wardrobe"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F45A"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Hang your coat in the wardrobe.",
+   "example_vi": "Treo áo khoác vào tủ quần áo.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W18",
+   "type": "word",
+   "en": "curtain",
+   "vi": "rèm cửa",
+   "ipa": "/ˈkʌrtən/",
+   "syllables": [
+    "cur",
+    "tain"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FA9F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Open the curtains, please.",
+   "example_vi": "Mở rèm cửa ra nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W19",
+   "type": "word",
+   "en": "carpet",
+   "vi": "tấm thảm",
+   "ipa": "/ˈkɑrpət/",
+   "syllables": [
+    "car",
+    "pet"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F7E5"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "The cat is sleeping on the carpet.",
+   "example_vi": "Con mèo đang ngủ trên thảm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W20",
+   "type": "word",
+   "en": "cushion",
+   "vi": "gối tựa",
+   "ipa": "/ˈkʊʃən/",
+   "syllables": [
+    "cush",
+    "ion"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6CB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "The sofa has five cushions.",
+   "example_vi": "Ghế sofa có năm cái gối tựa.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W21",
+   "type": "word",
+   "en": "pillow",
+   "vi": "gối",
+   "ipa": "/ˈpɪloʊ/",
+   "syllables": [
+    "pil",
+    "low"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "My pillow is soft.",
+   "example_vi": "Gối của tớ mềm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W22",
+   "type": "word",
+   "en": "blanket",
+   "vi": "chăn",
+   "ipa": "/ˈblæŋkɪt/",
+   "syllables": [
+    "blan",
+    "ket"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6CC"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "It's cold. I need a blanket.",
+   "example_vi": "Trời lạnh. Tớ cần chăn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W23",
+   "type": "word",
+   "en": "sink",
+   "vi": "bồn rửa",
+   "ipa": "/sɪŋk/",
+   "syllables": [
+    "sink"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6B0"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Put the dirty cups in the sink.",
+   "example_vi": "Cho cốc bẩn vào bồn rửa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W24",
+   "type": "phrase",
+   "en": "dining room",
+   "vi": "phòng ăn",
+   "ipa": "/ˈdaɪnɪŋ rum/",
+   "syllables": [
+    "din",
+    "ing",
+    "room"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "We eat dinner in the dining room.",
+   "example_vi": "Nhà tớ ăn tối ở phòng ăn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W25",
+   "type": "word",
+   "en": "garage",
+   "vi": "nhà để xe",
+   "ipa": "/ɡərɑʒ/",
+   "syllables": [
+    "garage"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F697"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Dad's car is in the garage.",
+   "example_vi": "Ô tô của bố ở trong ga-ra.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W26",
+   "type": "word",
+   "en": "roof",
+   "vi": "mái nhà",
+   "ipa": "/rʊf/",
+   "syllables": [
+    "roof"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "There is a bird on the roof.",
+   "example_vi": "Có con chim trên mái nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W27",
+   "type": "word",
+   "en": "furniture",
+   "vi": "đồ đạc",
+   "ipa": "/ˈfʌrnɪtʃər/",
+   "syllables": [
+    "fur",
+    "ni",
+    "ture"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1FA91"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "We have new furniture in the living room.",
+   "example_vi": "Phòng khách nhà tớ có đồ đạc mới.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W28",
+   "type": "word",
+   "en": "armchair",
+   "vi": "ghế bành",
+   "ipa": "/ˈɑrmˌtʃɛr/",
+   "syllables": [
+    "arm",
+    "chair"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4BA"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Grandpa sits in his armchair.",
+   "example_vi": "Ông ngồi trên ghế bành.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W29",
+   "type": "word",
+   "en": "bookcase",
+   "vi": "tủ sách",
+   "ipa": "/ˈbʊkˌkeɪs/",
+   "syllables": [
+    "book",
+    "case"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "My bookcase is full of stories.",
+   "example_vi": "Tủ sách của tớ đầy truyện.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W30",
+   "type": "word",
+   "en": "messy",
+   "vi": "bừa bộn",
+   "ipa": "/ˈmɛsi/",
+   "syllables": [
+    "messy"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F32A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "My brother's room is very messy.",
+   "example_vi": "Phòng anh tớ rất bừa bộn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W31",
+   "type": "word",
+   "en": "neat",
+   "vi": "ngăn nắp",
+   "ipa": "/nit/",
+   "syllables": [
+    "neat"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Her desk is always neat.",
+   "example_vi": "Bàn của bạn ấy lúc nào cũng ngăn nắp.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W32",
+   "type": "word",
+   "en": "untidy",
+   "vi": "lộn xộn",
+   "ipa": "/ənˈtaɪdi/",
+   "syllables": [
+    "untidy"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F32A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Don't leave your room untidy.",
+   "example_vi": "Đừng để phòng lộn xộn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W33",
+   "type": "word",
+   "en": "flat",
+   "vi": "căn hộ",
+   "ipa": "/flæt/",
+   "syllables": [
+    "flat"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3E2"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "We live in a flat on the tenth floor.",
+   "example_vi": "Nhà tớ sống ở căn hộ tầng mười.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W34",
+   "type": "word",
+   "en": "neighbour",
+   "vi": "hàng xóm",
+   "ipa": "/ˈneɪbər/",
+   "syllables": [
+    "neigh",
+    "bour"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Our neighbour has a big dog.",
+   "example_vi": "Hàng xóm nhà tớ có con chó to.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W35",
+   "type": "word",
+   "en": "bucket",
+   "vi": "cái xô",
+   "ipa": "/ˈbʌkɪt/",
+   "syllables": [
+    "buck",
+    "et"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FAA3"
+   },
+   "picturable": true,
+   "cat": "L4U08",
+   "example_en": "Fill the bucket with water.",
+   "example_vi": "Đổ đầy nước vào xô.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W36",
+   "type": "word",
+   "en": "broom",
+   "vi": "cái chổi",
+   "ipa": "/brum/",
+   "syllables": [
+    "broom"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9F9"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Where is the broom?",
+   "example_vi": "Cái chổi đâu rồi?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W37",
+   "type": "phrase",
+   "en": "hang up",
+   "vi": "treo lên",
+   "ipa": "/hæŋ ʌp/",
+   "syllables": [
+    "hang",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1FA9D"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Hang up your clothes.",
+   "example_vi": "Treo quần áo lên nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W38",
+   "type": "phrase",
+   "en": "put away",
+   "vi": "cất đi",
+   "ipa": "/pʊt əˈweɪ/",
+   "syllables": [
+    "put",
+    "away"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "Put away your toys after you play.",
+   "example_vi": "Chơi xong thì cất đồ chơi đi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W39",
+   "type": "word",
+   "en": "fold",
+   "vi": "gấp",
+   "ipa": "/foʊld/",
+   "syllables": [
+    "fold"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F455"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "I fold my clothes and put them away.",
+   "example_vi": "Tớ gấp quần áo và cất đi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W40",
+   "type": "word",
+   "en": "toilet",
+   "vi": "nhà vệ sinh",
+   "ipa": "/ˈtɔɪlət/",
+   "syllables": [
+    "toi",
+    "let"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F6BD"
+   },
+   "picturable": true,
+   "cat": "L4U08",
+   "example_en": "Where is the toilet, please?",
+   "example_vi": "Nhà vệ sinh ở đâu ạ?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U08-W41",
+   "type": "word",
+   "en": "doorbell",
+   "vi": "chuông cửa",
+   "ipa": "/ˈdɔrˌbɛl/",
+   "syllables": [
+    "door",
+    "bell"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F514"
+   },
+   "picturable": false,
+   "cat": "L4U08",
+   "example_en": "The doorbell is ringing.",
+   "example_vi": "Chuông cửa đang reo.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U08-P01",
+   "en": "I always {x}.",
+   "vi": "Tớ luôn luôn {x}.",
+   "slots": {
+    "x": [
+     "make my bed",
+     "lay the table",
+     "put away my toys",
+     "fold my clothes"
+    ]
+   }
+  },
+  {
+   "id": "L4U08-P02",
+   "en": "I {x} wash the dishes.",
+   "vi": "Tớ {x} rửa bát.",
+   "slots": {
+    "x": [
+     "always",
+     "usually",
+     "often",
+     "sometimes",
+     "never"
+    ]
+   }
+  },
+  {
+   "id": "L4U08-P03",
+   "en": "Put it in the {x}.",
+   "vi": "Để nó vào {x}.",
+   "slots": {
+    "x": [
+     "cupboard",
+     "drawer",
+     "wardrobe",
+     "bookcase"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U08-D01",
+   "title_vi": "Dọn phòng",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "Your room is very messy!",
+     "vi": "Phòng con bừa bộn quá!"
+    },
+    {
+     "role": "Kid",
+     "en": "Sorry, Mum. I'll tidy it now.",
+     "vi": "Con xin lỗi mẹ. Con dọn ngay đây."
+    },
+    {
+     "role": "Mum",
+     "en": "Put your clothes in the wardrobe, please.",
+     "vi": "Cho quần áo vào tủ nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. Where do the books go?",
+     "vi": "Vâng. Sách để đâu ạ?"
+    },
+    {
+     "role": "Mum",
+     "en": "On the shelf. And make your bed too.",
+     "vi": "Lên giá. Và dọn giường nữa nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Finished! Is it neat now?",
+     "vi": "Xong rồi ạ! Giờ gọn chưa mẹ?"
+    },
+    {
+     "role": "Mum",
+     "en": "Yes! Thank you. You're very helpful.",
+     "vi": "Gọn rồi! Cảm ơn con. Con giỏi lắm."
+    }
+   ]
+  },
+  {
+   "id": "L4U08-D02",
+   "title_vi": "Việc nhà của cậu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you help with the chores at home?",
+     "vi": "Cậu có giúp làm việc nhà không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. I usually wash the dishes after dinner.",
+     "vi": "Có. Tớ thường rửa bát sau bữa tối."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you vacuum?",
+     "vi": "Cậu có hút bụi không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Sometimes. And I always take out the rubbish.",
+     "vi": "Thỉnh thoảng. Và tớ luôn đi đổ rác."
+    },
+    {
+     "role": "Bi",
+     "en": "You're very helpful!",
+     "vi": "Cậu chăm quá!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "dishes",
+    "options": [
+     "floor",
+     "car"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "chores"
+  },
+  {
+   "type": "dictate_word",
+   "target": "often"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tidy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "vacuum"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sweep"
+  },
+  {
+   "type": "dictate_word",
+   "target": "mop"
+  },
+  {
+   "type": "dictate_word",
+   "target": "iron"
+  },
+  {
+   "type": "dictate_word",
+   "target": "laundry"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I help with the chores every day."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Please tidy your room."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I make the bed every morning."
+  },
+  {
+   "type": "write_sentences",
+   "target": "I always|I sometimes|I never"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U08-R01",
+   "title_en": "Saturday chores",
+   "text_en": [
+    "Every Saturday morning, Leo's family cleans their flat together.",
+    "Leo's dad vacuums the carpets, and his mum mops the kitchen floor.",
+    "Leo's sister, Mia, does the laundry.",
+    "She washes, irons and folds the clothes.",
+    "Leo always tidies his bedroom and makes his bed.",
+    "He also waters the plants on the balcony.",
+    "After that, he takes out the rubbish.",
+    "When they finish, the flat is neat and clean.",
+    "Then the family goes to the park for a picnic.",
+    "Leo thinks chores are boring, but he likes the picnic!"
+   ],
+   "questions": [
+    {
+     "q": "Who mops the kitchen floor?",
+     "options": [
+      "Leo's mum.",
+      "Leo's dad.",
+      "Mia."
+     ],
+     "answer": "Leo's mum."
+    },
+    {
+     "q": "What does Leo do on the balcony?",
+     "options": [
+      "He waters the plants.",
+      "He vacuums.",
+      "He folds clothes."
+     ],
+     "answer": "He waters the plants."
+    },
+    {
+     "q": "What does the family do after the chores?",
+     "options": [
+      "They have a picnic in the park.",
+      "They watch TV.",
+      "They go shopping."
+     ],
+     "answer": "They have a picnic in the park."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "drawer",
+   "item": "drawer",
+   "options": [
+    "drawer",
+    "bucket",
+    "baseball",
+    "toilet"
+   ],
+   "answer": "drawer"
+  },
+  {
+   "id": "L4U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bucket",
+   "item": "bucket",
+   "options": [
+    "toilet",
+    "bucket",
+    "drawer",
+    "battery"
+   ],
+   "answer": "bucket"
+  },
+  {
+   "id": "L4U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "toilet",
+   "item": "toilet",
+   "options": [
+    "jacket",
+    "drawer",
+    "bucket",
+    "toilet"
+   ],
+   "answer": "toilet"
+  },
+  {
+   "id": "L4U08-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chores",
+   "item": "chores",
+   "options": [
+    "messy",
+    "chores",
+    "pillow",
+    "garage"
+   ],
+   "answer": "chores"
+  },
+  {
+   "id": "L4U08-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "often",
+   "item": "often",
+   "options": [
+    "shelf",
+    "often",
+    "wash up",
+    "carpet"
+   ],
+   "answer": "often"
+  },
+  {
+   "id": "L4U08-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tidy",
+   "item": "tidy",
+   "options": [
+    "take out",
+    "tidy",
+    "vacuum",
+    "messy"
+   ],
+   "answer": "tidy"
+  },
+  {
+   "id": "L4U08-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "make the bed",
+   "item": "make the bed",
+   "options": [
+    "make the bed",
+    "wash up",
+    "iron",
+    "furniture"
+   ],
+   "answer": "make the bed"
+  },
+  {
+   "id": "L4U08-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "vacuum",
+   "item": "vacuum",
+   "options": [
+    "curtain",
+    "sink",
+    "bookcase",
+    "vacuum"
+   ],
+   "answer": "vacuum"
+  },
+  {
+   "id": "L4U08-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sweep",
+   "item": "sweep",
+   "options": [
+    "bucket",
+    "sweep",
+    "cupboard",
+    "take out"
+   ],
+   "answer": "sweep"
+  },
+  {
+   "id": "L4U08-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mop",
+   "item": "mop",
+   "options": [
+    "mop",
+    "armchair",
+    "wash up",
+    "dining room"
+   ],
+   "answer": "mop"
+  },
+  {
+   "id": "L4U08-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "iron",
+   "item": "iron",
+   "options": [
+    "iron",
+    "garage",
+    "fold",
+    "flat"
+   ],
+   "answer": "iron"
+  },
+  {
+   "id": "L4U08-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "laundry",
+   "item": "laundry",
+   "options": [
+    "sweep",
+    "laundry",
+    "wardrobe",
+    "wash up"
+   ],
+   "answer": "laundry"
+  },
+  {
+   "id": "L4U08-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dishes",
+   "item": "dishes",
+   "options": [
+    "tidy",
+    "often",
+    "dishes",
+    "vacuum"
+   ],
+   "answer": "dishes"
+  },
+  {
+   "id": "L4U08-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wash up",
+   "item": "wash up",
+   "options": [
+    "toilet",
+    "wash up",
+    "neighbour",
+    "tidy"
+   ],
+   "answer": "wash up"
+  },
+  {
+   "id": "L4U08-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lay the table",
+   "item": "lay the table",
+   "options": [
+    "lay the table",
+    "sink",
+    "dining room",
+    "make the bed"
+   ],
+   "answer": "lay the table"
+  },
+  {
+   "id": "L4U08-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "take out",
+   "item": "take out",
+   "options": [
+    "dining room",
+    "fold",
+    "take out",
+    "wardrobe"
+   ],
+   "answer": "take out"
+  },
+  {
+   "id": "L4U08-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cupboard",
+   "item": "cupboard",
+   "options": [
+    "cupboard",
+    "bookcase",
+    "drawer",
+    "garage"
+   ],
+   "answer": "cupboard"
+  },
+  {
+   "id": "L4U08-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shelf",
+   "item": "shelf",
+   "options": [
+    "chores",
+    "toilet",
+    "sink",
+    "shelf"
+   ],
+   "answer": "shelf"
+  },
+  {
+   "id": "L4U08-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wardrobe",
+   "item": "wardrobe",
+   "options": [
+    "mop",
+    "chores",
+    "wardrobe",
+    "roof"
+   ],
+   "answer": "wardrobe"
+  },
+  {
+   "id": "L4U08-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "curtain",
+   "item": "curtain",
+   "options": [
+    "often",
+    "curtain",
+    "iron",
+    "pillow"
+   ],
+   "answer": "curtain"
+  },
+  {
+   "id": "L4U08-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "carpet",
+   "item": "carpet",
+   "options": [
+    "messy",
+    "bookcase",
+    "carpet",
+    "neat"
+   ],
+   "answer": "carpet"
+  },
+  {
+   "id": "L4U08-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cushion",
+   "item": "cushion",
+   "options": [
+    "put away",
+    "cushion",
+    "armchair",
+    "dining room"
+   ],
+   "answer": "cushion"
+  },
+  {
+   "id": "L4U08-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pillow",
+   "item": "pillow",
+   "options": [
+    "curtain",
+    "sweep",
+    "cushion",
+    "pillow"
+   ],
+   "answer": "pillow"
+  },
+  {
+   "id": "L4U08-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "blanket",
+   "item": "blanket",
+   "options": [
+    "mop",
+    "tidy",
+    "blanket",
+    "wardrobe"
+   ],
+   "answer": "blanket"
+  },
+  {
+   "id": "L4U08-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sink",
+   "item": "sink",
+   "options": [
+    "lay the table",
+    "sink",
+    "put away",
+    "drawer"
+   ],
+   "answer": "sink"
+  },
+  {
+   "id": "L4U08-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dining room",
+   "item": "dining room",
+   "options": [
+    "chores",
+    "messy",
+    "dining room",
+    "wardrobe"
+   ],
+   "answer": "dining room"
+  },
+  {
+   "id": "L4U08-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "garage",
+   "item": "garage",
+   "options": [
+    "chores",
+    "messy",
+    "garage",
+    "take out"
+   ],
+   "answer": "garage"
+  },
+  {
+   "id": "L4U08-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "roof",
+   "item": "roof",
+   "options": [
+    "dining room",
+    "bucket",
+    "roof",
+    "mop"
+   ],
+   "answer": "roof"
+  },
+  {
+   "id": "L4U08-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "furniture",
+   "item": "furniture",
+   "options": [
+    "furniture",
+    "laundry",
+    "broom",
+    "pillow"
+   ],
+   "answer": "furniture"
+  },
+  {
+   "id": "L4U08-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "armchair",
+   "item": "armchair",
+   "options": [
+    "bucket",
+    "doorbell",
+    "armchair",
+    "neighbour"
+   ],
+   "answer": "armchair"
+  },
+  {
+   "id": "L4U08-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bookcase",
+   "item": "bookcase",
+   "options": [
+    "neighbour",
+    "wardrobe",
+    "carpet",
+    "bookcase"
+   ],
+   "answer": "bookcase"
+  },
+  {
+   "id": "L4U08-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "messy",
+   "item": "messy",
+   "options": [
+    "put away",
+    "make the bed",
+    "messy",
+    "vacuum"
+   ],
+   "answer": "messy"
+  },
+  {
+   "id": "L4U08-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "neat",
+   "item": "neat",
+   "options": [
+    "wardrobe",
+    "neat",
+    "roof",
+    "tidy"
+   ],
+   "answer": "neat"
+  },
+  {
+   "id": "L4U08-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "untidy",
+   "item": "untidy",
+   "options": [
+    "bookcase",
+    "neighbour",
+    "flat",
+    "untidy"
+   ],
+   "answer": "untidy"
+  },
+  {
+   "id": "L4U08-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flat",
+   "item": "flat",
+   "options": [
+    "lay the table",
+    "shelf",
+    "toilet",
+    "flat"
+   ],
+   "answer": "flat"
+  },
+  {
+   "id": "L4U08-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "neighbour",
+   "item": "neighbour",
+   "options": [
+    "often",
+    "neighbour",
+    "chores",
+    "toilet"
+   ],
+   "answer": "neighbour"
+  },
+  {
+   "id": "L4U08-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "broom",
+   "item": "broom",
+   "options": [
+    "broom",
+    "shelf",
+    "dishes",
+    "hang up"
+   ],
+   "answer": "broom"
+  },
+  {
+   "id": "L4U08-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hang up",
+   "item": "hang up",
+   "options": [
+    "hang up",
+    "sink",
+    "garage",
+    "doorbell"
+   ],
+   "answer": "hang up"
+  },
+  {
+   "id": "L4U08-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "put away",
+   "item": "put away",
+   "options": [
+    "dishes",
+    "carpet",
+    "furniture",
+    "put away"
+   ],
+   "answer": "put away"
+  },
+  {
+   "id": "L4U08-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fold",
+   "item": "fold",
+   "options": [
+    "wardrobe",
+    "fold",
+    "take out",
+    "cushion"
+   ],
+   "answer": "fold"
+  },
+  {
+   "id": "L4U08-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "doorbell",
+   "item": "doorbell",
+   "options": [
+    "wardrobe",
+    "fold",
+    "iron",
+    "doorbell"
+   ],
+   "answer": "doorbell"
+  },
+  {
+   "id": "L4U08-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "drawer",
+   "answer": "drawer"
+  },
+  {
+   "id": "L4U08-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bucket",
+   "answer": "bucket"
+  },
+  {
+   "id": "L4U08-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "toilet",
+   "answer": "toilet"
+  },
+  {
+   "id": "L4U08-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I help with the chores every day.",
+   "item": "chores",
+   "answer": "I help with the chores every day."
+  },
+  {
+   "id": "L4U08-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I often help my mum in the kitchen.",
+   "item": "often",
+   "answer": "I often help my mum in the kitchen."
+  },
+  {
+   "id": "L4U08-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please tidy your room.",
+   "item": "tidy",
+   "answer": "Please tidy your room."
+  },
+  {
+   "id": "L4U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I make the bed every morning.",
+   "item": "make the bed",
+   "answer": "I make the bed every morning."
+  },
+  {
+   "id": "L4U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad vacuums the carpet on Saturdays.",
+   "item": "vacuum",
+   "answer": "Dad vacuums the carpet on Saturdays."
+  },
+  {
+   "id": "L4U08-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you sweep the floor?",
+   "item": "sweep",
+   "answer": "Can you sweep the floor?"
+  },
+  {
+   "id": "L4U08-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum mops the kitchen floor.",
+   "item": "mop",
+   "answer": "Mum mops the kitchen floor."
+  },
+  {
+   "id": "L4U08-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma irons Grandpa's shirts.",
+   "item": "iron",
+   "answer": "Grandma irons Grandpa's shirts."
+  },
+  {
+   "id": "L4U08-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the laundry in the basket.",
+   "item": "laundry",
+   "answer": "Put the laundry in the basket."
+  },
+  {
+   "id": "L4U08-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I help to wash the dishes.",
+   "item": "dishes",
+   "answer": "I help to wash the dishes."
+  },
+  {
+   "id": "L4U08-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my turn to wash up.",
+   "item": "wash up",
+   "answer": "It's my turn to wash up."
+  },
+  {
+   "id": "L4U08-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you lay the table for dinner?",
+   "item": "lay the table",
+   "answer": "Can you lay the table for dinner?"
+  },
+  {
+   "id": "L4U08-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I take out the rubbish on Mondays.",
+   "item": "take out",
+   "answer": "I take out the rubbish on Mondays."
+  },
+  {
+   "id": "L4U08-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cups are in the cupboard.",
+   "item": "cupboard",
+   "answer": "The cups are in the cupboard."
+  },
+  {
+   "id": "L4U08-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the books on the shelf.",
+   "item": "shelf",
+   "answer": "Put the books on the shelf."
+  },
+  {
+   "id": "L4U08-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My socks are in the top drawer.",
+   "item": "drawer",
+   "answer": "My socks are in the top drawer."
+  },
+  {
+   "id": "L4U08-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hang your coat in the wardrobe.",
+   "item": "wardrobe",
+   "answer": "Hang your coat in the wardrobe."
+  },
+  {
+   "id": "L4U08-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open the curtains, please.",
+   "item": "curtain",
+   "answer": "Open the curtains, please."
+  },
+  {
+   "id": "L4U08-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cat is sleeping on the carpet.",
+   "item": "carpet",
+   "answer": "The cat is sleeping on the carpet."
+  },
+  {
+   "id": "L4U08-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sofa has five cushions.",
+   "item": "cushion",
+   "answer": "The sofa has five cushions."
+  },
+  {
+   "id": "L4U08-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My pillow is soft.",
+   "item": "pillow",
+   "answer": "My pillow is soft."
+  },
+  {
+   "id": "L4U08-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cold. I need a blanket.",
+   "item": "blanket",
+   "answer": "It's cold. I need a blanket."
+  },
+  {
+   "id": "L4U08-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the dirty cups in the sink.",
+   "item": "sink",
+   "answer": "Put the dirty cups in the sink."
+  },
+  {
+   "id": "L4U08-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We eat dinner in the dining room.",
+   "item": "dining room",
+   "answer": "We eat dinner in the dining room."
+  },
+  {
+   "id": "L4U08-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad's car is in the garage.",
+   "item": "garage",
+   "answer": "Dad's car is in the garage."
+  },
+  {
+   "id": "L4U08-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a bird on the roof.",
+   "item": "roof",
+   "answer": "There is a bird on the roof."
+  },
+  {
+   "id": "L4U08-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have new furniture in the living room.",
+   "item": "furniture",
+   "answer": "We have new furniture in the living room."
+  },
+  {
+   "id": "L4U08-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa sits in his armchair.",
+   "item": "armchair",
+   "answer": "Grandpa sits in his armchair."
+  },
+  {
+   "id": "L4U08-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bookcase is full of stories.",
+   "item": "bookcase",
+   "answer": "My bookcase is full of stories."
+  },
+  {
+   "id": "L4U08-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother's room is very messy.",
+   "item": "messy",
+   "answer": "My brother's room is very messy."
+  },
+  {
+   "id": "L4U08-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Her desk is always neat.",
+   "item": "neat",
+   "answer": "Her desk is always neat."
+  },
+  {
+   "id": "L4U08-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't leave your room untidy.",
+   "item": "untidy",
+   "answer": "Don't leave your room untidy."
+  },
+  {
+   "id": "L4U08-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We live in a flat on the tenth floor.",
+   "item": "flat",
+   "answer": "We live in a flat on the tenth floor."
+  },
+  {
+   "id": "L4U08-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our neighbour has a big dog.",
+   "item": "neighbour",
+   "answer": "Our neighbour has a big dog."
+  },
+  {
+   "id": "L4U08-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fill the bucket with water.",
+   "item": "bucket",
+   "answer": "Fill the bucket with water."
+  },
+  {
+   "id": "L4U08-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the broom?",
+   "item": "broom",
+   "answer": "Where is the broom?"
+  },
+  {
+   "id": "L4U08-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hang up your clothes.",
+   "item": "hang up",
+   "answer": "Hang up your clothes."
+  },
+  {
+   "id": "L4U08-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put away your toys after you play.",
+   "item": "put away",
+   "answer": "Put away your toys after you play."
+  },
+  {
+   "id": "L4U08-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I fold my clothes and put them away.",
+   "item": "fold",
+   "answer": "I fold my clothes and put them away."
+  },
+  {
+   "id": "L4U08-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the toilet, please?",
+   "item": "toilet",
+   "answer": "Where is the toilet, please?"
+  },
+  {
+   "id": "L4U08-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The doorbell is ringing.",
+   "item": "doorbell",
+   "answer": "The doorbell is ringing."
+  },
+  {
+   "id": "L4U08-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always make my bed.",
+   "answer": "I always make my bed."
+  },
+  {
+   "id": "L4U08-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always lay the table.",
+   "answer": "I always lay the table."
+  },
+  {
+   "id": "L4U08-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always put away my toys.",
+   "answer": "I always put away my toys."
+  },
+  {
+   "id": "L4U08-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always wash the dishes.",
+   "answer": "I always wash the dishes."
+  },
+  {
+   "id": "L4U08-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I usually wash the dishes.",
+   "answer": "I usually wash the dishes."
+  },
+  {
+   "id": "L4U08-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I often wash the dishes.",
+   "answer": "I often wash the dishes."
+  },
+  {
+   "id": "L4U08-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put it in the cupboard.",
+   "answer": "Put it in the cupboard."
+  },
+  {
+   "id": "L4U08-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put it in the drawer.",
+   "answer": "Put it in the drawer."
+  },
+  {
+   "id": "L4U08-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put it in the wardrobe.",
+   "answer": "Put it in the wardrobe."
+  },
+  {
+   "id": "L4U08-Q095",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay. Where do the books go?",
+   "answer": "On the shelf. And make your bed too."
+  },
+  {
+   "id": "L4U08-Q096",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Finished! Is it neat now?",
+   "answer": "Yes! Thank you. You're very helpful."
+  },
+  {
+   "id": "L4U08-Q097",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you help with the chores at home?",
+   "answer": "Yes. I usually wash the dishes after dinner."
+  },
+  {
+   "id": "L4U08-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you vacuum?",
+   "answer": "Sometimes. And I always take out the rubbish."
+  },
+  {
+   "id": "L4U08-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "drawer",
+   "options": [
+    "drawer",
+    "bucket",
+    "toilet"
+   ],
+   "answer": "drawer"
+  },
+  {
+   "id": "L4U08-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bucket",
+   "options": [
+    "drawer",
+    "bucket",
+    "toilet"
+   ],
+   "answer": "bucket"
+  },
+  {
+   "id": "L4U08-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "toilet",
+   "options": [
+    "bucket",
+    "toilet",
+    "drawer"
+   ],
+   "answer": "toilet"
+  },
+  {
+   "id": "L4U08-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I help with the ___ every day.",
+   "item": "chores",
+   "options": [
+    "chores",
+    "messy",
+    "fold"
+   ],
+   "answer": "chores"
+  },
+  {
+   "id": "L4U08-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ help my mum in the kitchen.",
+   "item": "often",
+   "options": [
+    "garage",
+    "often",
+    "furniture"
+   ],
+   "answer": "often"
+  },
+  {
+   "id": "L4U08-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please ___ your room.",
+   "item": "tidy",
+   "options": [
+    "mop",
+    "tidy",
+    "iron"
+   ],
+   "answer": "tidy"
+  },
+  {
+   "id": "L4U08-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad ___ the carpet on Saturdays.",
+   "item": "vacuum",
+   "options": [
+    "vacuums",
+    "buckets",
+    "drawers"
+   ],
+   "answer": "vacuums"
+  },
+  {
+   "id": "L4U08-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ the floor?",
+   "item": "sweep",
+   "options": [
+    "neighbour",
+    "roof",
+    "sweep"
+   ],
+   "answer": "sweep"
+  },
+  {
+   "id": "L4U08-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum ___ the kitchen floor.",
+   "item": "mop",
+   "options": [
+    "drawers",
+    "mops",
+    "toilets"
+   ],
+   "answer": "mops"
+  },
+  {
+   "id": "L4U08-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma ___ Grandpa's shirts.",
+   "item": "iron",
+   "options": [
+    "irons",
+    "toilets",
+    "buckets"
+   ],
+   "answer": "irons"
+  },
+  {
+   "id": "L4U08-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the ___ in the basket.",
+   "item": "laundry",
+   "options": [
+    "laundry",
+    "fold",
+    "vacuum"
+   ],
+   "answer": "laundry"
+  },
+  {
+   "id": "L4U08-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I help to wash the ___.",
+   "item": "dishes",
+   "options": [
+    "messy",
+    "untidy",
+    "dishes"
+   ],
+   "answer": "dishes"
+  },
+  {
+   "id": "L4U08-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cups are in the ___.",
+   "item": "cupboard",
+   "options": [
+    "cupboard",
+    "sweep",
+    "fold"
+   ],
+   "answer": "cupboard"
+  },
+  {
+   "id": "L4U08-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the books on the ___.",
+   "item": "shelf",
+   "options": [
+    "often",
+    "shelf",
+    "mop"
+   ],
+   "answer": "shelf"
+  },
+  {
+   "id": "L4U08-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My socks are in the top ___.",
+   "item": "drawer",
+   "options": [
+    "vacuum",
+    "pillow",
+    "drawer"
+   ],
+   "answer": "drawer"
+  },
+  {
+   "id": "L4U08-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hang your coat in the ___.",
+   "item": "wardrobe",
+   "options": [
+    "neat",
+    "furniture",
+    "wardrobe"
+   ],
+   "answer": "wardrobe"
+  },
+  {
+   "id": "L4U08-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Open the ___, please.",
+   "item": "curtain",
+   "options": [
+    "curtains",
+    "vacuums",
+    "drawers"
+   ],
+   "answer": "curtains"
+  },
+  {
+   "id": "L4U08-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cat is sleeping on the ___.",
+   "item": "carpet",
+   "options": [
+    "carpet",
+    "fold",
+    "furniture"
+   ],
+   "answer": "carpet"
+  },
+  {
+   "id": "L4U08-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sofa has five ___.",
+   "item": "cushion",
+   "options": [
+    "neats",
+    "cushions",
+    "drawers"
+   ],
+   "answer": "cushions"
+  },
+  {
+   "id": "L4U08-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is soft.",
+   "item": "pillow",
+   "options": [
+    "mop",
+    "pillow",
+    "tidy"
+   ],
+   "answer": "pillow"
+  },
+  {
+   "id": "L4U08-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's cold. I need a ___.",
+   "item": "blanket",
+   "options": [
+    "blanket",
+    "neat",
+    "messy"
+   ],
+   "answer": "blanket"
+  },
+  {
+   "id": "L4U08-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the dirty cups in the ___.",
+   "item": "sink",
+   "options": [
+    "sink",
+    "often",
+    "messy"
+   ],
+   "answer": "sink"
+  },
+  {
+   "id": "L4U08-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad's car is in the ___.",
+   "item": "garage",
+   "options": [
+    "messy",
+    "furniture",
+    "garage"
+   ],
+   "answer": "garage"
+  },
+  {
+   "id": "L4U08-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a bird on the ___.",
+   "item": "roof",
+   "options": [
+    "often",
+    "roof",
+    "fold"
+   ],
+   "answer": "roof"
+  },
+  {
+   "id": "L4U08-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have new ___ in the living room.",
+   "item": "furniture",
+   "options": [
+    "chores",
+    "furniture",
+    "shelf"
+   ],
+   "answer": "furniture"
+  },
+  {
+   "id": "L4U08-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa sits in his ___.",
+   "item": "armchair",
+   "options": [
+    "armchair",
+    "iron",
+    "messy"
+   ],
+   "answer": "armchair"
+  },
+  {
+   "id": "L4U08-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is full of stories.",
+   "item": "bookcase",
+   "options": [
+    "bookcase",
+    "neat",
+    "iron"
+   ],
+   "answer": "bookcase"
+  },
+  {
+   "id": "L4U08-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother's room is very ___.",
+   "item": "messy",
+   "options": [
+    "neat",
+    "drawer",
+    "messy"
+   ],
+   "answer": "messy"
+  },
+  {
+   "id": "L4U08-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Her desk is always ___.",
+   "item": "neat",
+   "options": [
+    "toilet",
+    "neat",
+    "wardrobe"
+   ],
+   "answer": "neat"
+  },
+  {
+   "id": "L4U08-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't leave your room ___.",
+   "item": "untidy",
+   "options": [
+    "blanket",
+    "toilet",
+    "untidy"
+   ],
+   "answer": "untidy"
+  },
+  {
+   "id": "L4U08-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We live in a ___ on the tenth floor.",
+   "item": "flat",
+   "options": [
+    "neat",
+    "flat",
+    "tidy"
+   ],
+   "answer": "flat"
+  },
+  {
+   "id": "L4U08-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ has a big dog.",
+   "item": "neighbour",
+   "options": [
+    "messy",
+    "neighbour",
+    "neat"
+   ],
+   "answer": "neighbour"
+  },
+  {
+   "id": "L4U08-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Fill the ___ with water.",
+   "item": "bucket",
+   "options": [
+    "untidy",
+    "tidy",
+    "bucket"
+   ],
+   "answer": "bucket"
+  },
+  {
+   "id": "L4U08-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Where is the ___?",
+   "item": "broom",
+   "options": [
+    "broom",
+    "untidy",
+    "often"
+   ],
+   "answer": "broom"
+  },
+  {
+   "id": "L4U08-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my clothes and put them away.",
+   "item": "fold",
+   "options": [
+    "vacuum",
+    "cushion",
+    "fold"
+   ],
+   "answer": "fold"
+  },
+  {
+   "id": "L4U08-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Where is the ___, please?",
+   "item": "toilet",
+   "options": [
+    "vacuum",
+    "toilet",
+    "messy"
+   ],
+   "answer": "toilet"
+  },
+  {
+   "id": "L4U08-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is ringing.",
+   "item": "doorbell",
+   "options": [
+    "neat",
+    "doorbell",
+    "sweep"
+   ],
+   "answer": "doorbell"
+  },
+  {
+   "id": "L4U08-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My socks are in the top drawer.",
+   "item": "drawer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U08-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Fill the bucket with water.",
+   "item": "toilet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U08-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Where is the toilet, please?",
+   "item": "toilet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U08-Q139",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U08-R01",
+   "text_en": "Who mops the kitchen floor?",
+   "options": [
+    "Leo's mum.",
+    "Leo's dad.",
+    "Mia."
+   ],
+   "answer": "Leo's mum."
+  },
+  {
+   "id": "L4U08-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U08-R01",
+   "text_en": "What does Leo do on the balcony?",
+   "options": [
+    "He waters the plants.",
+    "He vacuums.",
+    "He folds clothes."
+   ],
+   "answer": "He waters the plants."
+  },
+  {
+   "id": "L4U08-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U08-R01",
+   "text_en": "What does the family do after the chores?",
+   "options": [
+    "They go shopping.",
+    "They have a picnic in the park.",
+    "They watch TV."
+   ],
+   "answer": "They have a picnic in the park."
+  },
+  {
+   "id": "L4U08-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "chores",
+   "item": "chores",
+   "answer": "chores"
+  },
+  {
+   "id": "L4U08-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "often",
+   "item": "often",
+   "answer": "often"
+  },
+  {
+   "id": "L4U08-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tidy",
+   "item": "tidy",
+   "answer": "tidy"
+  },
+  {
+   "id": "L4U08-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "vacuum",
+   "item": "vacuum",
+   "answer": "vacuum"
+  },
+  {
+   "id": "L4U08-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sweep",
+   "item": "sweep",
+   "answer": "sweep"
+  },
+  {
+   "id": "L4U08-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "mop",
+   "item": "mop",
+   "answer": "mop"
+  },
+  {
+   "id": "L4U08-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "iron",
+   "item": "iron",
+   "answer": "iron"
+  },
+  {
+   "id": "L4U08-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "laundry",
+   "item": "laundry",
+   "answer": "laundry"
+  },
+  {
+   "id": "L4U08-Q150",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I help with the chores every day.",
+   "answer": "I help with the chores every day."
+  },
+  {
+   "id": "L4U08-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Please tidy your room.",
+   "answer": "Please tidy your room."
+  },
+  {
+   "id": "L4U08-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I make the bed every morning.",
+   "answer": "I make the bed every morning."
+  }
+ ]
+}

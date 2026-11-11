@@ -1,0 +1,3188 @@
+{
+ "id": "L5U01",
+ "level": 5,
+ "unit": 1,
+ "topic_en": "Opinions",
+ "topic_vi": "Nêu ý kiến",
+ "can_do_vi": [
+  "Nêu ý kiến và giải thích lý do",
+  "Đồng ý hoặc không đồng ý một cách lịch sự"
+ ],
+ "grammar_note_vi": "Nêu ý kiến: \"I think...\", \"In my opinion,...\". Đồng ý: \"I agree with you.\" Không đồng ý lịch sự: \"I'm not sure. I think...\" Nối hai ý trái ngược bằng \"however\" (tuy nhiên) hoặc \"although\" (mặc dù).",
+ "items": [
+  {
+   "id": "L5U01-W01",
+   "type": "word",
+   "en": "opinion",
+   "vi": "ý kiến",
+   "ipa": "/əˈpɪnjən/",
+   "syllables": [
+    "opinion"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "What's your opinion about this book?",
+   "example_vi": "Cậu nghĩ gì về cuốn sách này?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W02",
+   "type": "phrase",
+   "en": "in my opinion",
+   "vi": "theo ý tớ",
+   "ipa": "/ɪn maɪ əˈpɪnjən/",
+   "syllables": [
+    "in",
+    "my",
+    "opinion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "In my opinion, dogs are better pets than cats.",
+   "example_vi": "Theo tớ, chó là thú cưng tốt hơn mèo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W03",
+   "type": "word",
+   "en": "believe",
+   "vi": "tin, tin rằng",
+   "ipa": "/bɪˈliv/",
+   "syllables": [
+    "be",
+    "lieve"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I believe you can win.",
+   "example_vi": "Tớ tin cậu có thể thắng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W04",
+   "type": "word",
+   "en": "agree",
+   "vi": "đồng ý",
+   "ipa": "/əˈɡri/",
+   "syllables": [
+    "agree"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I agree with you.",
+   "example_vi": "Tớ đồng ý với cậu.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W05",
+   "type": "word",
+   "en": "disagree",
+   "vi": "không đồng ý",
+   "ipa": "/dɪsəˈɡri/",
+   "syllables": [
+    "disagree"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F44E"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I disagree. I think summer is better.",
+   "example_vi": "Tớ không đồng ý. Tớ nghĩ mùa hè tốt hơn.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W06",
+   "type": "word",
+   "en": "reason",
+   "vi": "lý do",
+   "ipa": "/ˈrizən/",
+   "syllables": [
+    "rea",
+    "son"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "2754"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "What's the reason for your answer?",
+   "example_vi": "Lý do cho câu trả lời của cậu là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W07",
+   "type": "word",
+   "en": "prefer",
+   "vi": "thích hơn",
+   "ipa": "/prɪˈfʌr/",
+   "syllables": [
+    "pre",
+    "fer"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "2764-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I prefer reading to watching TV.",
+   "example_vi": "Tớ thích đọc sách hơn xem TV.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W08",
+   "type": "word",
+   "en": "however",
+   "vi": "tuy nhiên",
+   "ipa": "/ˌhaʊˈɛvər/",
+   "syllables": [
+    "however"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "The test was long. However, it was easy.",
+   "example_vi": "Bài kiểm tra dài. Tuy nhiên, nó dễ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W09",
+   "type": "word",
+   "en": "although",
+   "vi": "mặc dù",
+   "ipa": "/ˌɔlˈðoʊ/",
+   "syllables": [
+    "al",
+    "though"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F500"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Although it was raining, we played outside.",
+   "example_vi": "Mặc dù trời mưa, bọn tớ vẫn chơi ngoài trời.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W10",
+   "type": "word",
+   "en": "actually",
+   "vi": "thật ra",
+   "ipa": "/ˈæˌktʃuəli/",
+   "syllables": [
+    "actually"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Actually, I don't like chocolate.",
+   "example_vi": "Thật ra tớ không thích sô-cô-la.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W11",
+   "type": "word",
+   "en": "probably",
+   "vi": "có lẽ",
+   "ipa": "/ˈprɑbəˌbli/",
+   "syllables": [
+    "prob",
+    "a",
+    "bly"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F914"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "It will probably rain tomorrow.",
+   "example_vi": "Có lẽ mai trời sẽ mưa.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W12",
+   "type": "word",
+   "en": "definitely",
+   "vi": "chắc chắn",
+   "ipa": "/ˈdɛfənətli/",
+   "syllables": [
+    "def",
+    "i",
+    "nite",
+    "ly"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I will definitely come to your party.",
+   "example_vi": "Tớ chắc chắn sẽ đến bữa tiệc của cậu.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W13",
+   "type": "word",
+   "en": "certainly",
+   "vi": "chắc chắn, tất nhiên",
+   "ipa": "/ˈsʌrtənli/",
+   "syllables": [
+    "cer",
+    "tain",
+    "ly"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Can you help me? Certainly!",
+   "example_vi": "Cậu giúp tớ được không? Tất nhiên rồi!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W14",
+   "type": "word",
+   "en": "perhaps",
+   "vi": "có lẽ",
+   "ipa": "/pərˈhæps/",
+   "syllables": [
+    "per",
+    "haps"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F937"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Perhaps we can go tomorrow.",
+   "example_vi": "Có lẽ mai mình đi được.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W15",
+   "type": "word",
+   "en": "true",
+   "vi": "đúng, thật",
+   "ipa": "/tru/",
+   "syllables": [
+    "true"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Is it true that whales are mammals?",
+   "example_vi": "Có thật là cá voi là động vật có vú không?",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W16",
+   "type": "word",
+   "en": "false",
+   "vi": "sai",
+   "ipa": "/fɔls/",
+   "syllables": [
+    "false"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "True or false? The sun is a planet.",
+   "example_vi": "Đúng hay sai? Mặt Trời là một hành tinh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W17",
+   "type": "word",
+   "en": "discuss",
+   "vi": "thảo luận",
+   "ipa": "/dɪˈskʌs/",
+   "syllables": [
+    "dis",
+    "cuss"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Let's discuss our project.",
+   "example_vi": "Mình cùng thảo luận về dự án nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W18",
+   "type": "word",
+   "en": "discussion",
+   "vi": "cuộc thảo luận",
+   "ipa": "/dɪˈskʌʃən/",
+   "syllables": [
+    "dis",
+    "cus",
+    "sion"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "We had a class discussion about pets.",
+   "example_vi": "Lớp tớ đã thảo luận về thú cưng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W19",
+   "type": "word",
+   "en": "debate",
+   "vi": "cuộc tranh luận",
+   "ipa": "/dəˈbeɪt/",
+   "syllables": [
+    "de",
+    "bate"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Our class had a debate about homework.",
+   "example_vi": "Lớp tớ đã tranh luận về bài tập về nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W20",
+   "type": "word",
+   "en": "example",
+   "vi": "ví dụ",
+   "ipa": "/ɪɡˈzæmpəl/",
+   "syllables": [
+    "ex",
+    "am",
+    "ple"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Can you give me an example?",
+   "example_vi": "Cậu cho tớ một ví dụ được không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W21",
+   "type": "phrase",
+   "en": "for example",
+   "vi": "ví dụ như",
+   "ipa": "/fʌr ɪɡˈzæmpəl/",
+   "syllables": [
+    "for",
+    "ex",
+    "am",
+    "ple"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I like sports, for example, tennis and swimming.",
+   "example_vi": "Tớ thích thể thao, ví dụ như quần vợt và bơi lội.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W22",
+   "type": "phrase",
+   "en": "on the other hand",
+   "vi": "mặt khác",
+   "ipa": "/ɔn ðə ˈʌðər hænd/",
+   "syllables": [
+    "on",
+    "the",
+    "oth",
+    "er",
+    "hand"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Cities are exciting. On the other hand, they are noisy.",
+   "example_vi": "Thành phố rất sôi động. Mặt khác, chúng lại ồn ào.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W23",
+   "type": "word",
+   "en": "advantage",
+   "vi": "ưu điểm",
+   "ipa": "/ædˈvæntɪdʒ/",
+   "syllables": [
+    "ad",
+    "van",
+    "tage"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "One advantage of bikes is that they are cheap.",
+   "example_vi": "Một ưu điểm của xe đạp là rẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W24",
+   "type": "word",
+   "en": "disadvantage",
+   "vi": "nhược điểm",
+   "ipa": "/ˌdɪsədˈvænɪdʒ/",
+   "syllables": [
+    "dis",
+    "ad",
+    "van",
+    "tage"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2796"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "A disadvantage of cars is pollution.",
+   "example_vi": "Một nhược điểm của ô tô là gây ô nhiễm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W25",
+   "type": "word",
+   "en": "depend",
+   "vi": "phụ thuộc",
+   "ipa": "/dɪˈpɛnd/",
+   "syllables": [
+    "de",
+    "pend"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Plants depend on the sun.",
+   "example_vi": "Cây cối phụ thuộc vào mặt trời.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W26",
+   "type": "phrase",
+   "en": "it depends",
+   "vi": "còn tuỳ",
+   "ipa": "/ɪt dɪˈpɛndz/",
+   "syllables": [
+    "it",
+    "de",
+    "pends"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F937"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Do you like rain? It depends!",
+   "example_vi": "Cậu có thích mưa không? Còn tuỳ!",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W27",
+   "type": "word",
+   "en": "choice",
+   "vi": "sự lựa chọn",
+   "ipa": "/tʃɔɪs/",
+   "syllables": [
+    "choice"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "You have two choices.",
+   "example_vi": "Cậu có hai lựa chọn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W28",
+   "type": "word",
+   "en": "decision",
+   "vi": "quyết định",
+   "ipa": "/dɪˈsɪʒən/",
+   "syllables": [
+    "de",
+    "ci",
+    "sion"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "It was a difficult decision.",
+   "example_vi": "Đó là một quyết định khó khăn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W29",
+   "type": "word",
+   "en": "compare",
+   "vi": "so sánh",
+   "ipa": "/kəmˈpɛr/",
+   "syllables": [
+    "com",
+    "pare"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F19A"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Let's compare the two pictures.",
+   "example_vi": "Mình so sánh hai bức tranh nhé.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W30",
+   "type": "word",
+   "en": "similar",
+   "vi": "giống, tương tự",
+   "ipa": "/ˈsɪmələr/",
+   "syllables": [
+    "sim",
+    "i",
+    "lar"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F7F0"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "My bike is similar to your bike.",
+   "example_vi": "Xe đạp của tớ giống xe của cậu.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W31",
+   "type": "word",
+   "en": "fact",
+   "vi": "sự thật",
+   "ipa": "/fækt/",
+   "syllables": [
+    "fact"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "It's a fact. The Earth goes around the Sun.",
+   "example_vi": "Đó là sự thật. Trái Đất quay quanh Mặt Trời.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W32",
+   "type": "word",
+   "en": "possible",
+   "vi": "có thể",
+   "ipa": "/ˈpɑsəbəl/",
+   "syllables": [
+    "pos",
+    "si",
+    "ble"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Is it possible to live on Mars?",
+   "example_vi": "Có thể sống trên sao Hoả không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W33",
+   "type": "word",
+   "en": "impossible",
+   "vi": "không thể",
+   "ipa": "/ˌɪmˈpɑsəbəl/",
+   "syllables": [
+    "im",
+    "pos",
+    "si",
+    "ble"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Nothing is impossible!",
+   "example_vi": "Không có gì là không thể!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W34",
+   "type": "word",
+   "en": "respect",
+   "vi": "tôn trọng",
+   "ipa": "/rɪˈspɛkt/",
+   "syllables": [
+    "re",
+    "spect"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F647"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "We should respect other people's opinions.",
+   "example_vi": "Chúng ta nên tôn trọng ý kiến của người khác.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W35",
+   "type": "word",
+   "en": "already",
+   "vi": "đã... rồi",
+   "ipa": "/ɔˈrɛdi/",
+   "syllables": [
+    "already"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I have already finished my homework.",
+   "example_vi": "Tớ đã làm xong bài tập rồi.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W36",
+   "type": "word",
+   "en": "yet",
+   "vi": "chưa",
+   "ipa": "/jɛt/",
+   "syllables": [
+    "yet"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I haven't finished yet.",
+   "example_vi": "Tớ chưa làm xong.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W37",
+   "type": "word",
+   "en": "still",
+   "vi": "vẫn",
+   "ipa": "/stɪl/",
+   "syllables": [
+    "still"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "23F8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "It's still raining.",
+   "example_vi": "Trời vẫn đang mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W38",
+   "type": "word",
+   "en": "just",
+   "vi": "chỉ, vừa mới",
+   "ipa": "/dʒɪst/",
+   "syllables": [
+    "just"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "261D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I just want to help.",
+   "example_vi": "Tớ chỉ muốn giúp thôi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W39",
+   "type": "word",
+   "en": "ever",
+   "vi": "từng, bao giờ",
+   "ipa": "/ˈɛvər/",
+   "syllables": [
+    "ev",
+    "er"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "267E-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Have you ever seen a whale?",
+   "example_vi": "Cậu đã bao giờ nhìn thấy cá voi chưa?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W40",
+   "type": "word",
+   "en": "almost",
+   "vi": "gần như",
+   "ipa": "/ˈɔlˌmoʊst/",
+   "syllables": [
+    "al",
+    "most"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I'm almost ready.",
+   "example_vi": "Tớ gần xong rồi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W41",
+   "type": "word",
+   "en": "quite",
+   "vi": "khá",
+   "ipa": "/kwaɪt/",
+   "syllables": [
+    "quite"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "The test was quite easy.",
+   "example_vi": "Bài kiểm tra khá dễ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W42",
+   "type": "word",
+   "en": "especially",
+   "vi": "đặc biệt là",
+   "ipa": "/əˈspɛʃəli/",
+   "syllables": [
+    "especially"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "I love fruit, especially mangoes.",
+   "example_vi": "Tớ thích hoa quả, đặc biệt là xoài.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W43",
+   "type": "word",
+   "en": "other",
+   "vi": "khác",
+   "ipa": "/ˈʌðər/",
+   "syllables": [
+    "oth",
+    "er"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F500"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Do you have any other ideas?",
+   "example_vi": "Cậu có ý tưởng nào khác không?",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U01-W44",
+   "type": "word",
+   "en": "which",
+   "vi": "nào, cái nào",
+   "ipa": "/wɪtʃ/",
+   "syllables": [
+    "which"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "2754"
+   },
+   "picturable": false,
+   "cat": "L5U01",
+   "example_en": "Which colour do you prefer?",
+   "example_vi": "Cậu thích màu nào hơn?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U01-P01",
+   "en": "In my opinion, {x} is the best season.",
+   "vi": "Theo tớ, {x} là mùa đẹp nhất.",
+   "slots": {
+    "x": [
+     "summer",
+     "winter",
+     "spring",
+     "autumn"
+    ]
+   }
+  },
+  {
+   "id": "L5U01-P02",
+   "en": "I prefer {x}.",
+   "vi": "Tớ thích {x} hơn.",
+   "slots": {
+    "x": [
+     "reading",
+     "swimming",
+     "drawing",
+     "dancing"
+    ]
+   }
+  },
+  {
+   "id": "L5U01-P03",
+   "en": "I agree with {x}.",
+   "vi": "Tớ đồng ý với {x}.",
+   "slots": {
+    "x": [
+     "you",
+     "Lan",
+     "my teacher"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U01-D01",
+   "title_vi": "Mùa nào đẹp nhất?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Which season do you like best?",
+     "vi": "Cậu thích mùa nào nhất?"
+    },
+    {
+     "role": "Kid",
+     "en": "In my opinion, summer is the best.",
+     "vi": "Theo tớ, mùa hè là đẹp nhất."
+    },
+    {
+     "role": "Bi",
+     "en": "Why do you think so?",
+     "vi": "Sao cậu nghĩ vậy?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because we have a long holiday, and I can swim every day.",
+     "vi": "Vì được nghỉ dài, và tớ có thể bơi mỗi ngày."
+    },
+    {
+     "role": "Bi",
+     "en": "I agree. However, it's very hot.",
+     "vi": "Tớ đồng ý. Tuy nhiên, trời rất nóng."
+    },
+    {
+     "role": "Kid",
+     "en": "That's true. But I still love it!",
+     "vi": "Đúng thế. Nhưng tớ vẫn thích nó!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "summer",
+    "options": [
+     "winter",
+     "spring"
+    ]
+   }
+  },
+  {
+   "id": "L5U01-D02",
+   "title_vi": "Tranh luận nhỏ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "I think homework is boring.",
+     "vi": "Tớ nghĩ bài tập về nhà thật chán."
+    },
+    {
+     "role": "Kid",
+     "en": "I disagree. Homework helps us remember our lessons.",
+     "vi": "Tớ không đồng ý. Bài tập giúp mình nhớ bài."
+    },
+    {
+     "role": "Bi",
+     "en": "That's a good point. But we need time to play too.",
+     "vi": "Ý hay đấy. Nhưng mình cũng cần thời gian chơi nữa."
+    },
+    {
+     "role": "Kid",
+     "en": "You're right. It depends on how much homework we have.",
+     "vi": "Cậu nói đúng. Còn tuỳ vào việc mình có bao nhiêu bài tập."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "opinion"
+  },
+  {
+   "type": "dictate_word",
+   "target": "believe"
+  },
+  {
+   "type": "dictate_word",
+   "target": "agree"
+  },
+  {
+   "type": "dictate_word",
+   "target": "disagree"
+  },
+  {
+   "type": "dictate_word",
+   "target": "reason"
+  },
+  {
+   "type": "dictate_word",
+   "target": "prefer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "however"
+  },
+  {
+   "type": "dictate_word",
+   "target": "although"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's your opinion about this book?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I believe you can win."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I agree with you."
+  },
+  {
+   "type": "write_sentences",
+   "target": "In my opinion,|I agree that|However,"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U01-R01",
+   "title_en": "City or countryside?",
+   "text_en": [
+    "Some people prefer to live in the city, and others prefer the countryside.",
+    "Both places have advantages and disadvantages.",
+    "In the city, there are many shops, cinemas and hospitals.",
+    "It is easy to find a job, and the buses are fast.",
+    "However, cities are often noisy and crowded, and there is a lot of pollution.",
+    "On the other hand, the countryside is quiet and peaceful.",
+    "The air is fresh, and children can play outdoors safely.",
+    "Although life there is calm, it can be boring for some young people.",
+    "In my opinion, the countryside is better for children.",
+    "What do you think?"
+   ],
+   "questions": [
+    {
+     "q": "What is one advantage of the city?",
+     "options": [
+      "It is easy to find a job.",
+      "The air is fresh.",
+      "It is quiet."
+     ],
+     "answer": "It is easy to find a job."
+    },
+    {
+     "q": "What is one disadvantage of the city?",
+     "options": [
+      "It is noisy and crowded.",
+      "There are no shops.",
+      "The buses are slow."
+     ],
+     "answer": "It is noisy and crowded."
+    },
+    {
+     "q": "Which place does the writer think is better for children?",
+     "options": [
+      "The countryside.",
+      "The city.",
+      "Both are the same."
+     ],
+     "answer": "The countryside."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U01-Q001",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "opinion",
+   "item": "opinion",
+   "options": [
+    "other",
+    "agree",
+    "impossible",
+    "opinion"
+   ],
+   "answer": "opinion"
+  },
+  {
+   "id": "L5U01-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "in my opinion",
+   "item": "in my opinion",
+   "options": [
+    "in my opinion",
+    "fact",
+    "depend",
+    "probably"
+   ],
+   "answer": "in my opinion"
+  },
+  {
+   "id": "L5U01-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "believe",
+   "item": "believe",
+   "options": [
+    "believe",
+    "false",
+    "yet",
+    "disagree"
+   ],
+   "answer": "believe"
+  },
+  {
+   "id": "L5U01-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "agree",
+   "item": "agree",
+   "options": [
+    "agree",
+    "respect",
+    "discussion",
+    "however"
+   ],
+   "answer": "agree"
+  },
+  {
+   "id": "L5U01-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "disagree",
+   "item": "disagree",
+   "options": [
+    "for example",
+    "prefer",
+    "on the other hand",
+    "disagree"
+   ],
+   "answer": "disagree"
+  },
+  {
+   "id": "L5U01-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reason",
+   "item": "reason",
+   "options": [
+    "discuss",
+    "reason",
+    "disadvantage",
+    "discussion"
+   ],
+   "answer": "reason"
+  },
+  {
+   "id": "L5U01-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "prefer",
+   "item": "prefer",
+   "options": [
+    "prefer",
+    "similar",
+    "ever",
+    "disadvantage"
+   ],
+   "answer": "prefer"
+  },
+  {
+   "id": "L5U01-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "however",
+   "item": "however",
+   "options": [
+    "disadvantage",
+    "example",
+    "however",
+    "still"
+   ],
+   "answer": "however"
+  },
+  {
+   "id": "L5U01-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "although",
+   "item": "although",
+   "options": [
+    "ever",
+    "although",
+    "discussion",
+    "agree"
+   ],
+   "answer": "although"
+  },
+  {
+   "id": "L5U01-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "actually",
+   "item": "actually",
+   "options": [
+    "actually",
+    "discuss",
+    "reason",
+    "just"
+   ],
+   "answer": "actually"
+  },
+  {
+   "id": "L5U01-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "probably",
+   "item": "probably",
+   "options": [
+    "discussion",
+    "reason",
+    "it depends",
+    "probably"
+   ],
+   "answer": "probably"
+  },
+  {
+   "id": "L5U01-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "definitely",
+   "item": "definitely",
+   "options": [
+    "definitely",
+    "already",
+    "compare",
+    "decision"
+   ],
+   "answer": "definitely"
+  },
+  {
+   "id": "L5U01-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "certainly",
+   "item": "certainly",
+   "options": [
+    "which",
+    "ever",
+    "for example",
+    "certainly"
+   ],
+   "answer": "certainly"
+  },
+  {
+   "id": "L5U01-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "perhaps",
+   "item": "perhaps",
+   "options": [
+    "discussion",
+    "false",
+    "perhaps",
+    "already"
+   ],
+   "answer": "perhaps"
+  },
+  {
+   "id": "L5U01-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "true",
+   "item": "true",
+   "options": [
+    "already",
+    "perhaps",
+    "true",
+    "still"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U01-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "false",
+   "item": "false",
+   "options": [
+    "false",
+    "example",
+    "compare",
+    "prefer"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U01-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "discuss",
+   "item": "discuss",
+   "options": [
+    "for example",
+    "disagree",
+    "discuss",
+    "believe"
+   ],
+   "answer": "discuss"
+  },
+  {
+   "id": "L5U01-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "discussion",
+   "item": "discussion",
+   "options": [
+    "choice",
+    "fact",
+    "respect",
+    "discussion"
+   ],
+   "answer": "discussion"
+  },
+  {
+   "id": "L5U01-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "debate",
+   "item": "debate",
+   "options": [
+    "almost",
+    "debate",
+    "in my opinion",
+    "prefer"
+   ],
+   "answer": "debate"
+  },
+  {
+   "id": "L5U01-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "example",
+   "item": "example",
+   "options": [
+    "example",
+    "in my opinion",
+    "definitely",
+    "still"
+   ],
+   "answer": "example"
+  },
+  {
+   "id": "L5U01-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "for example",
+   "item": "for example",
+   "options": [
+    "quite",
+    "ever",
+    "for example",
+    "other"
+   ],
+   "answer": "for example"
+  },
+  {
+   "id": "L5U01-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "on the other hand",
+   "item": "on the other hand",
+   "options": [
+    "similar",
+    "on the other hand",
+    "prefer",
+    "disadvantage"
+   ],
+   "answer": "on the other hand"
+  },
+  {
+   "id": "L5U01-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "advantage",
+   "item": "advantage",
+   "options": [
+    "advantage",
+    "still",
+    "disagree",
+    "discussion"
+   ],
+   "answer": "advantage"
+  },
+  {
+   "id": "L5U01-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "disadvantage",
+   "item": "disadvantage",
+   "options": [
+    "depend",
+    "decision",
+    "true",
+    "disadvantage"
+   ],
+   "answer": "disadvantage"
+  },
+  {
+   "id": "L5U01-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "depend",
+   "item": "depend",
+   "options": [
+    "depend",
+    "false",
+    "already",
+    "agree"
+   ],
+   "answer": "depend"
+  },
+  {
+   "id": "L5U01-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "it depends",
+   "item": "it depends",
+   "options": [
+    "quite",
+    "yet",
+    "it depends",
+    "believe"
+   ],
+   "answer": "it depends"
+  },
+  {
+   "id": "L5U01-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "choice",
+   "item": "choice",
+   "options": [
+    "choice",
+    "prefer",
+    "on the other hand",
+    "fact"
+   ],
+   "answer": "choice"
+  },
+  {
+   "id": "L5U01-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "decision",
+   "item": "decision",
+   "options": [
+    "quite",
+    "fact",
+    "decision",
+    "prefer"
+   ],
+   "answer": "decision"
+  },
+  {
+   "id": "L5U01-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "compare",
+   "item": "compare",
+   "options": [
+    "other",
+    "for example",
+    "compare",
+    "already"
+   ],
+   "answer": "compare"
+  },
+  {
+   "id": "L5U01-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "similar",
+   "item": "similar",
+   "options": [
+    "in my opinion",
+    "example",
+    "similar",
+    "still"
+   ],
+   "answer": "similar"
+  },
+  {
+   "id": "L5U01-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fact",
+   "item": "fact",
+   "options": [
+    "yet",
+    "fact",
+    "possible",
+    "depend"
+   ],
+   "answer": "fact"
+  },
+  {
+   "id": "L5U01-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "possible",
+   "item": "possible",
+   "options": [
+    "however",
+    "possible",
+    "opinion",
+    "depend"
+   ],
+   "answer": "possible"
+  },
+  {
+   "id": "L5U01-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "impossible",
+   "item": "impossible",
+   "options": [
+    "impossible",
+    "for example",
+    "it depends",
+    "ever"
+   ],
+   "answer": "impossible"
+  },
+  {
+   "id": "L5U01-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "respect",
+   "item": "respect",
+   "options": [
+    "probably",
+    "prefer",
+    "already",
+    "respect"
+   ],
+   "answer": "respect"
+  },
+  {
+   "id": "L5U01-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "already",
+   "item": "already",
+   "options": [
+    "impossible",
+    "certainly",
+    "already",
+    "example"
+   ],
+   "answer": "already"
+  },
+  {
+   "id": "L5U01-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "yet",
+   "item": "yet",
+   "options": [
+    "just",
+    "ever",
+    "already",
+    "yet"
+   ],
+   "answer": "yet"
+  },
+  {
+   "id": "L5U01-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "still",
+   "item": "still",
+   "options": [
+    "however",
+    "still",
+    "quite",
+    "discussion"
+   ],
+   "answer": "still"
+  },
+  {
+   "id": "L5U01-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "just",
+   "item": "just",
+   "options": [
+    "impossible",
+    "just",
+    "believe",
+    "agree"
+   ],
+   "answer": "just"
+  },
+  {
+   "id": "L5U01-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ever",
+   "item": "ever",
+   "options": [
+    "believe",
+    "ever",
+    "definitely",
+    "for example"
+   ],
+   "answer": "ever"
+  },
+  {
+   "id": "L5U01-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "almost",
+   "item": "almost",
+   "options": [
+    "almost",
+    "for example",
+    "choice",
+    "in my opinion"
+   ],
+   "answer": "almost"
+  },
+  {
+   "id": "L5U01-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "quite",
+   "item": "quite",
+   "options": [
+    "probably",
+    "quite",
+    "choice",
+    "similar"
+   ],
+   "answer": "quite"
+  },
+  {
+   "id": "L5U01-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "especially",
+   "item": "especially",
+   "options": [
+    "fact",
+    "especially",
+    "quite",
+    "yet"
+   ],
+   "answer": "especially"
+  },
+  {
+   "id": "L5U01-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "other",
+   "item": "other",
+   "options": [
+    "similar",
+    "on the other hand",
+    "although",
+    "other"
+   ],
+   "answer": "other"
+  },
+  {
+   "id": "L5U01-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "which",
+   "item": "which",
+   "options": [
+    "opinion",
+    "other",
+    "almost",
+    "which"
+   ],
+   "answer": "which"
+  },
+  {
+   "id": "L5U01-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your opinion about this book?",
+   "item": "opinion",
+   "answer": "What's your opinion about this book?"
+  },
+  {
+   "id": "L5U01-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In my opinion, dogs are better pets than cats.",
+   "item": "in my opinion",
+   "answer": "In my opinion, dogs are better pets than cats."
+  },
+  {
+   "id": "L5U01-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I believe you can win.",
+   "item": "believe",
+   "answer": "I believe you can win."
+  },
+  {
+   "id": "L5U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I agree with you.",
+   "item": "agree",
+   "answer": "I agree with you."
+  },
+  {
+   "id": "L5U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I disagree. I think summer is better.",
+   "item": "disagree",
+   "answer": "I disagree. I think summer is better."
+  },
+  {
+   "id": "L5U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's the reason for your answer?",
+   "item": "reason",
+   "answer": "What's the reason for your answer?"
+  },
+  {
+   "id": "L5U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I prefer reading to watching TV.",
+   "item": "prefer",
+   "answer": "I prefer reading to watching TV."
+  },
+  {
+   "id": "L5U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The test was long. However, it was easy.",
+   "item": "however",
+   "answer": "The test was long. However, it was easy."
+  },
+  {
+   "id": "L5U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Although it was raining, we played outside.",
+   "item": "although",
+   "answer": "Although it was raining, we played outside."
+  },
+  {
+   "id": "L5U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Actually, I don't like chocolate.",
+   "item": "actually",
+   "answer": "Actually, I don't like chocolate."
+  },
+  {
+   "id": "L5U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It will probably rain tomorrow.",
+   "item": "probably",
+   "answer": "It will probably rain tomorrow."
+  },
+  {
+   "id": "L5U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will definitely come to your party.",
+   "item": "definitely",
+   "answer": "I will definitely come to your party."
+  },
+  {
+   "id": "L5U01-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you help me? Certainly!",
+   "item": "certainly",
+   "answer": "Can you help me? Certainly!"
+  },
+  {
+   "id": "L5U01-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Perhaps we can go tomorrow.",
+   "item": "perhaps",
+   "answer": "Perhaps we can go tomorrow."
+  },
+  {
+   "id": "L5U01-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is it true that whales are mammals?",
+   "item": "true",
+   "answer": "Is it true that whales are mammals?"
+  },
+  {
+   "id": "L5U01-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "True or false? The sun is a planet.",
+   "item": "false",
+   "answer": "True or false? The sun is a planet."
+  },
+  {
+   "id": "L5U01-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's discuss our project.",
+   "item": "discuss",
+   "answer": "Let's discuss our project."
+  },
+  {
+   "id": "L5U01-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had a class discussion about pets.",
+   "item": "discussion",
+   "answer": "We had a class discussion about pets."
+  },
+  {
+   "id": "L5U01-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our class had a debate about homework.",
+   "item": "debate",
+   "answer": "Our class had a debate about homework."
+  },
+  {
+   "id": "L5U01-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you give me an example?",
+   "item": "example",
+   "answer": "Can you give me an example?"
+  },
+  {
+   "id": "L5U01-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like sports, for example, tennis and swimming.",
+   "item": "for example",
+   "answer": "I like sports, for example, tennis and swimming."
+  },
+  {
+   "id": "L5U01-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cities are exciting. On the other hand, they are noisy.",
+   "item": "on the other hand",
+   "answer": "Cities are exciting. On the other hand, they are noisy."
+  },
+  {
+   "id": "L5U01-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "One advantage of bikes is that they are cheap.",
+   "item": "advantage",
+   "answer": "One advantage of bikes is that they are cheap."
+  },
+  {
+   "id": "L5U01-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A disadvantage of cars is pollution.",
+   "item": "disadvantage",
+   "answer": "A disadvantage of cars is pollution."
+  },
+  {
+   "id": "L5U01-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plants depend on the sun.",
+   "item": "depend",
+   "answer": "Plants depend on the sun."
+  },
+  {
+   "id": "L5U01-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you like rain? It depends!",
+   "item": "it depends",
+   "answer": "Do you like rain? It depends!"
+  },
+  {
+   "id": "L5U01-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You have two choices.",
+   "item": "choice",
+   "answer": "You have two choices."
+  },
+  {
+   "id": "L5U01-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was a difficult decision.",
+   "item": "decision",
+   "answer": "It was a difficult decision."
+  },
+  {
+   "id": "L5U01-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's compare the two pictures.",
+   "item": "compare",
+   "answer": "Let's compare the two pictures."
+  },
+  {
+   "id": "L5U01-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bike is similar to your bike.",
+   "item": "similar",
+   "answer": "My bike is similar to your bike."
+  },
+  {
+   "id": "L5U01-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a fact. The Earth goes around the Sun.",
+   "item": "fact",
+   "answer": "It's a fact. The Earth goes around the Sun."
+  },
+  {
+   "id": "L5U01-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is it possible to live on Mars?",
+   "item": "possible",
+   "answer": "Is it possible to live on Mars?"
+  },
+  {
+   "id": "L5U01-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nothing is impossible!",
+   "item": "impossible",
+   "answer": "Nothing is impossible!"
+  },
+  {
+   "id": "L5U01-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should respect other people's opinions.",
+   "item": "respect",
+   "answer": "We should respect other people's opinions."
+  },
+  {
+   "id": "L5U01-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have already finished my homework.",
+   "item": "already",
+   "answer": "I have already finished my homework."
+  },
+  {
+   "id": "L5U01-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I haven't finished yet.",
+   "item": "yet",
+   "answer": "I haven't finished yet."
+  },
+  {
+   "id": "L5U01-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's still raining.",
+   "item": "still",
+   "answer": "It's still raining."
+  },
+  {
+   "id": "L5U01-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I just want to help.",
+   "item": "just",
+   "answer": "I just want to help."
+  },
+  {
+   "id": "L5U01-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Have you ever seen a whale?",
+   "item": "ever",
+   "answer": "Have you ever seen a whale?"
+  },
+  {
+   "id": "L5U01-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm almost ready.",
+   "item": "almost",
+   "answer": "I'm almost ready."
+  },
+  {
+   "id": "L5U01-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The test was quite easy.",
+   "item": "quite",
+   "answer": "The test was quite easy."
+  },
+  {
+   "id": "L5U01-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love fruit, especially mangoes.",
+   "item": "especially",
+   "answer": "I love fruit, especially mangoes."
+  },
+  {
+   "id": "L5U01-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have any other ideas?",
+   "item": "other",
+   "answer": "Do you have any other ideas?"
+  },
+  {
+   "id": "L5U01-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Which colour do you prefer?",
+   "item": "which",
+   "answer": "Which colour do you prefer?"
+  },
+  {
+   "id": "L5U01-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In my opinion, summer is the best season.",
+   "answer": "In my opinion, summer is the best season."
+  },
+  {
+   "id": "L5U01-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In my opinion, winter is the best season.",
+   "answer": "In my opinion, winter is the best season."
+  },
+  {
+   "id": "L5U01-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In my opinion, spring is the best season.",
+   "answer": "In my opinion, spring is the best season."
+  },
+  {
+   "id": "L5U01-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I prefer reading.",
+   "answer": "I prefer reading."
+  },
+  {
+   "id": "L5U01-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I prefer swimming.",
+   "answer": "I prefer swimming."
+  },
+  {
+   "id": "L5U01-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I prefer drawing.",
+   "answer": "I prefer drawing."
+  },
+  {
+   "id": "L5U01-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I agree with you.",
+   "answer": "I agree with you."
+  },
+  {
+   "id": "L5U01-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I agree with Lan.",
+   "answer": "I agree with Lan."
+  },
+  {
+   "id": "L5U01-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I agree with my teacher.",
+   "answer": "I agree with my teacher."
+  },
+  {
+   "id": "L5U01-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Which season do you like best?",
+   "answer": "In my opinion, summer is the best."
+  },
+  {
+   "id": "L5U01-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why do you think so?",
+   "answer": "Because we have a long holiday, and I can swim every day."
+  },
+  {
+   "id": "L5U01-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's your ___ about this book?",
+   "item": "opinion",
+   "options": [
+    "advantage",
+    "opinion",
+    "quite"
+   ],
+   "answer": "opinion"
+  },
+  {
+   "id": "L5U01-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ you can win.",
+   "item": "believe",
+   "options": [
+    "believe",
+    "true",
+    "impossible"
+   ],
+   "answer": "believe"
+  },
+  {
+   "id": "L5U01-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ with you.",
+   "item": "agree",
+   "options": [
+    "agree",
+    "debate",
+    "impossible"
+   ],
+   "answer": "agree"
+  },
+  {
+   "id": "L5U01-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___. I think summer is better.",
+   "item": "disagree",
+   "options": [
+    "other",
+    "already",
+    "disagree"
+   ],
+   "answer": "disagree"
+  },
+  {
+   "id": "L5U01-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's the ___ for your answer?",
+   "item": "reason",
+   "options": [
+    "still",
+    "reason",
+    "similar"
+   ],
+   "answer": "reason"
+  },
+  {
+   "id": "L5U01-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ reading to watching TV.",
+   "item": "prefer",
+   "options": [
+    "possible",
+    "prefer",
+    "yet"
+   ],
+   "answer": "prefer"
+  },
+  {
+   "id": "L5U01-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The test was long. ___, it was easy.",
+   "item": "however",
+   "options": [
+    "prefer",
+    "disagree",
+    "However"
+   ],
+   "answer": "However"
+  },
+  {
+   "id": "L5U01-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ it was raining, we played outside.",
+   "item": "although",
+   "options": [
+    "Although",
+    "True",
+    "Depend"
+   ],
+   "answer": "Although"
+  },
+  {
+   "id": "L5U01-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, I don't like chocolate.",
+   "item": "actually",
+   "options": [
+    "Actually",
+    "Decision",
+    "Opinion"
+   ],
+   "answer": "Actually"
+  },
+  {
+   "id": "L5U01-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It will ___ rain tomorrow.",
+   "item": "probably",
+   "options": [
+    "probably",
+    "example",
+    "decision"
+   ],
+   "answer": "probably"
+  },
+  {
+   "id": "L5U01-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I will ___ come to your party.",
+   "item": "definitely",
+   "options": [
+    "example",
+    "definitely",
+    "already"
+   ],
+   "answer": "definitely"
+  },
+  {
+   "id": "L5U01-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you help me? ___!",
+   "item": "certainly",
+   "options": [
+    "perhaps",
+    "Certainly",
+    "actually"
+   ],
+   "answer": "Certainly"
+  },
+  {
+   "id": "L5U01-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ we can go tomorrow.",
+   "item": "perhaps",
+   "options": [
+    "Perhaps",
+    "Similar",
+    "Certainly"
+   ],
+   "answer": "Perhaps"
+  },
+  {
+   "id": "L5U01-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is it ___ that whales are mammals?",
+   "item": "true",
+   "options": [
+    "true",
+    "fact",
+    "discussion"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U01-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "True or ___? The sun is a planet.",
+   "item": "false",
+   "options": [
+    "choice",
+    "especially",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U01-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ our project.",
+   "item": "discuss",
+   "options": [
+    "however",
+    "similar",
+    "discuss"
+   ],
+   "answer": "discuss"
+  },
+  {
+   "id": "L5U01-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had a class ___ about pets.",
+   "item": "discussion",
+   "options": [
+    "definitely",
+    "discussion",
+    "other"
+   ],
+   "answer": "discussion"
+  },
+  {
+   "id": "L5U01-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our class had a ___ about homework.",
+   "item": "debate",
+   "options": [
+    "discussion",
+    "which",
+    "debate"
+   ],
+   "answer": "debate"
+  },
+  {
+   "id": "L5U01-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you give me an ___?",
+   "item": "example",
+   "options": [
+    "similar",
+    "example",
+    "perhaps"
+   ],
+   "answer": "example"
+  },
+  {
+   "id": "L5U01-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "One ___ of bikes is that they are cheap.",
+   "item": "advantage",
+   "options": [
+    "which",
+    "advantage",
+    "perhaps"
+   ],
+   "answer": "advantage"
+  },
+  {
+   "id": "L5U01-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ of cars is pollution.",
+   "item": "disadvantage",
+   "options": [
+    "similar",
+    "disadvantage",
+    "especially"
+   ],
+   "answer": "disadvantage"
+  },
+  {
+   "id": "L5U01-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plants ___ on the sun.",
+   "item": "depend",
+   "options": [
+    "respect",
+    "disadvantage",
+    "depend"
+   ],
+   "answer": "depend"
+  },
+  {
+   "id": "L5U01-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You have two ___.",
+   "item": "choice",
+   "options": [
+    "choices",
+    "perhapses",
+    "believes"
+   ],
+   "answer": "choices"
+  },
+  {
+   "id": "L5U01-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was a difficult ___.",
+   "item": "decision",
+   "options": [
+    "false",
+    "respect",
+    "decision"
+   ],
+   "answer": "decision"
+  },
+  {
+   "id": "L5U01-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the two pictures.",
+   "item": "compare",
+   "options": [
+    "almost",
+    "debate",
+    "compare"
+   ],
+   "answer": "compare"
+  },
+  {
+   "id": "L5U01-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My bike is ___ to your bike.",
+   "item": "similar",
+   "options": [
+    "definitely",
+    "similar",
+    "especially"
+   ],
+   "answer": "similar"
+  },
+  {
+   "id": "L5U01-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's a ___. The Earth goes around the Sun.",
+   "item": "fact",
+   "options": [
+    "fact",
+    "false",
+    "depend"
+   ],
+   "answer": "fact"
+  },
+  {
+   "id": "L5U01-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is it ___ to live on Mars?",
+   "item": "possible",
+   "options": [
+    "perhaps",
+    "which",
+    "possible"
+   ],
+   "answer": "possible"
+  },
+  {
+   "id": "L5U01-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Nothing is ___!",
+   "item": "impossible",
+   "options": [
+    "impossible",
+    "example",
+    "definitely"
+   ],
+   "answer": "impossible"
+  },
+  {
+   "id": "L5U01-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should ___ other people's opinions.",
+   "item": "respect",
+   "options": [
+    "false",
+    "similar",
+    "respect"
+   ],
+   "answer": "respect"
+  },
+  {
+   "id": "L5U01-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ___ finished my homework.",
+   "item": "already",
+   "options": [
+    "already",
+    "false",
+    "impossible"
+   ],
+   "answer": "already"
+  },
+  {
+   "id": "L5U01-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I haven't finished ___.",
+   "item": "yet",
+   "options": [
+    "yet",
+    "opinion",
+    "still"
+   ],
+   "answer": "yet"
+  },
+  {
+   "id": "L5U01-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ raining.",
+   "item": "still",
+   "options": [
+    "still",
+    "advantage",
+    "definitely"
+   ],
+   "answer": "still"
+  },
+  {
+   "id": "L5U01-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ want to help.",
+   "item": "just",
+   "options": [
+    "just",
+    "already",
+    "opinion"
+   ],
+   "answer": "just"
+  },
+  {
+   "id": "L5U01-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Have you ___ seen a whale?",
+   "item": "ever",
+   "options": [
+    "ever",
+    "opinion",
+    "depend"
+   ],
+   "answer": "ever"
+  },
+  {
+   "id": "L5U01-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm ___ ready.",
+   "item": "almost",
+   "options": [
+    "disadvantage",
+    "disagree",
+    "almost"
+   ],
+   "answer": "almost"
+  },
+  {
+   "id": "L5U01-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The test was ___ easy.",
+   "item": "quite",
+   "options": [
+    "quite",
+    "just",
+    "which"
+   ],
+   "answer": "quite"
+  },
+  {
+   "id": "L5U01-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I love fruit, ___ mangoes.",
+   "item": "especially",
+   "options": [
+    "especially",
+    "debate",
+    "however"
+   ],
+   "answer": "especially"
+  },
+  {
+   "id": "L5U01-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you have any ___ ideas?",
+   "item": "other",
+   "options": [
+    "discuss",
+    "other",
+    "yet"
+   ],
+   "answer": "other"
+  },
+  {
+   "id": "L5U01-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ colour do you prefer?",
+   "item": "which",
+   "options": [
+    "Possible",
+    "Which",
+    "Debate"
+   ],
+   "answer": "Which"
+  },
+  {
+   "id": "L5U01-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U01-R01",
+   "text_en": "What is one advantage of the city?",
+   "options": [
+    "It is quiet.",
+    "The air is fresh.",
+    "It is easy to find a job."
+   ],
+   "answer": "It is easy to find a job."
+  },
+  {
+   "id": "L5U01-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U01-R01",
+   "text_en": "What is one disadvantage of the city?",
+   "options": [
+    "It is noisy and crowded.",
+    "The buses are slow.",
+    "There are no shops."
+   ],
+   "answer": "It is noisy and crowded."
+  },
+  {
+   "id": "L5U01-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U01-R01",
+   "text_en": "Which place does the writer think is better for children?",
+   "options": [
+    "Both are the same.",
+    "The countryside.",
+    "The city."
+   ],
+   "answer": "The countryside."
+  },
+  {
+   "id": "L5U01-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "opinion",
+   "item": "opinion",
+   "answer": "opinion"
+  },
+  {
+   "id": "L5U01-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "believe",
+   "item": "believe",
+   "answer": "believe"
+  },
+  {
+   "id": "L5U01-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "agree",
+   "item": "agree",
+   "answer": "agree"
+  },
+  {
+   "id": "L5U01-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "disagree",
+   "item": "disagree",
+   "answer": "disagree"
+  },
+  {
+   "id": "L5U01-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "reason",
+   "item": "reason",
+   "answer": "reason"
+  },
+  {
+   "id": "L5U01-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "prefer",
+   "item": "prefer",
+   "answer": "prefer"
+  },
+  {
+   "id": "L5U01-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "however",
+   "item": "however",
+   "answer": "however"
+  },
+  {
+   "id": "L5U01-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "although",
+   "item": "although",
+   "answer": "although"
+  },
+  {
+   "id": "L5U01-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's your opinion about this book?",
+   "answer": "What's your opinion about this book?"
+  },
+  {
+   "id": "L5U01-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I believe you can win.",
+   "answer": "I believe you can win."
+  },
+  {
+   "id": "L5U01-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I agree with you.",
+   "answer": "I agree with you."
+  }
+ ]
+}

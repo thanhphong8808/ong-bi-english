@@ -1,0 +1,1645 @@
+{
+ "id": "L1U07",
+ "level": 1,
+ "unit": 7,
+ "topic_en": "Farm and zoo",
+ "topic_vi": "Nông trại và sở thú",
+ "can_do_vi": [
+  "Gọi tên con vật ở nông trại và sở thú",
+  "Nói con vật làm được gì"
+ ],
+ "items": [
+  {
+   "id": "L1U07-W01",
+   "type": "word",
+   "en": "animal",
+   "vi": "con vật",
+   "ipa": "/ˈænəməl/",
+   "syllables": [
+    "an",
+    "i",
+    "mal"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F43E"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "I love animals.",
+   "example_vi": "Tớ yêu các con vật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W02",
+   "type": "word",
+   "en": "chicken",
+   "vi": "con gà",
+   "ipa": "/ˈtʃɪkən/",
+   "syllables": [
+    "chick",
+    "en"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F414"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The chicken is small.",
+   "example_vi": "Con gà nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U07-W03",
+   "type": "word",
+   "en": "sheep",
+   "vi": "con cừu",
+   "ipa": "/ʃip/",
+   "syllables": [
+    "sheep"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F411"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The sheep is white.",
+   "example_vi": "Con cừu màu trắng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W04",
+   "type": "word",
+   "en": "mouse",
+   "vi": "con chuột",
+   "ipa": "/maʊs/",
+   "syllables": [
+    "mouse"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F42D"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The mouse is very small.",
+   "example_vi": "Con chuột rất nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W05",
+   "type": "word",
+   "en": "frog",
+   "vi": "con ếch",
+   "ipa": "/frɑɡ/",
+   "syllables": [
+    "frog"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F438"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The frog can jump.",
+   "example_vi": "Con ếch biết nhảy.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W06",
+   "type": "word",
+   "en": "monkey",
+   "vi": "con khỉ",
+   "ipa": "/ˈmʌŋki/",
+   "syllables": [
+    "mon",
+    "key"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F412"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The monkey is funny.",
+   "example_vi": "Con khỉ ngộ nghĩnh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W07",
+   "type": "word",
+   "en": "tiger",
+   "vi": "con hổ",
+   "ipa": "/ˈtaɪɡər/",
+   "syllables": [
+    "tiger"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F42F"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The tiger is big.",
+   "example_vi": "Con hổ to.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W08",
+   "type": "word",
+   "en": "bear",
+   "vi": "con gấu",
+   "ipa": "/bɛr/",
+   "syllables": [
+    "bear"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F43B"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The bear is brown.",
+   "example_vi": "Con gấu màu nâu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W09",
+   "type": "word",
+   "en": "giraffe",
+   "vi": "hươu cao cổ",
+   "ipa": "/dʒəræf/",
+   "syllables": [
+    "giraffe"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F992"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The giraffe is tall.",
+   "example_vi": "Hươu cao cổ cao lắm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U07-W10",
+   "type": "word",
+   "en": "hippo",
+   "vi": "hà mã",
+   "ipa": "/ˈhɪpoʊ/",
+   "syllables": [
+    "hip",
+    "po"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F99B"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The hippo is in the water.",
+   "example_vi": "Hà mã ở trong nước.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W11",
+   "type": "word",
+   "en": "crocodile",
+   "vi": "cá sấu",
+   "ipa": "/ˈkrɑkəˌdaɪl/",
+   "syllables": [
+    "croc",
+    "o",
+    "dile"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F40A"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The crocodile has big teeth.",
+   "example_vi": "Cá sấu có răng to.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U07-W12",
+   "type": "word",
+   "en": "snake",
+   "vi": "con rắn",
+   "ipa": "/sneɪk/",
+   "syllables": [
+    "snake"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F40D"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The snake is long.",
+   "example_vi": "Con rắn dài.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W13",
+   "type": "word",
+   "en": "spider",
+   "vi": "con nhện",
+   "ipa": "/ˈspaɪdər/",
+   "syllables": [
+    "spi",
+    "der"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F577-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The spider is on the wall.",
+   "example_vi": "Con nhện ở trên tường.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W14",
+   "type": "word",
+   "en": "tail",
+   "vi": "cái đuôi",
+   "ipa": "/teɪl/",
+   "syllables": [
+    "tail"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F415"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The monkey has a long tail.",
+   "example_vi": "Con khỉ có đuôi dài.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W15",
+   "type": "word",
+   "en": "farm",
+   "vi": "nông trại",
+   "ipa": "/fɑrm/",
+   "syllables": [
+    "farm"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F69C"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The cow is on the farm.",
+   "example_vi": "Con bò ở nông trại.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W16",
+   "type": "word",
+   "en": "tall",
+   "vi": "cao",
+   "ipa": "/tɔl/",
+   "syllables": [
+    "tall"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5FC"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The tree is tall.",
+   "example_vi": "Cái cây cao.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W17",
+   "type": "word",
+   "en": "fast",
+   "vi": "nhanh",
+   "ipa": "/fæst/",
+   "syllables": [
+    "fast"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The horse is fast.",
+   "example_vi": "Con ngựa chạy nhanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U07-W18",
+   "type": "word",
+   "en": "slow",
+   "vi": "chậm",
+   "ipa": "/sloʊ/",
+   "syllables": [
+    "slow"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F422"
+   },
+   "picturable": true,
+   "cat": "L1U07",
+   "example_en": "The hippo is slow.",
+   "example_vi": "Hà mã đi chậm.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U07-P01",
+   "en": "The {x} is big.",
+   "vi": "{x} to.",
+   "slots": {
+    "x": [
+     "tiger",
+     "bear",
+     "hippo",
+     "lion"
+    ]
+   }
+  },
+  {
+   "id": "L1U07-P02",
+   "en": "I see a {x}.",
+   "vi": "Tớ thấy {x}.",
+   "slots": {
+    "x": [
+     "monkey",
+     "giraffe",
+     "snake",
+     "frog"
+    ]
+   }
+  },
+  {
+   "id": "L1U07-P03",
+   "en": "The {x} can jump.",
+   "vi": "{x} biết nhảy.",
+   "slots": {
+    "x": [
+     "frog",
+     "monkey",
+     "rabbit",
+     "horse"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U07-D01",
+   "title_vi": "Ở sở thú",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Look! What's that?",
+     "vi": "Nhìn kìa! Con gì thế kia?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's a giraffe!",
+     "vi": "Đó là hươu cao cổ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! It's so tall!",
+     "vi": "Chà! Nó cao quá!"
+    },
+    {
+     "role": "Kid",
+     "en": "I like the giraffe.",
+     "vi": "Tớ thích hươu cao cổ."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "giraffe",
+    "options": [
+     "tiger",
+     "bear",
+     "lion"
+    ]
+   }
+  },
+  {
+   "id": "L1U07-D02",
+   "title_vi": "Ở nông trại",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you like the farm?",
+     "vi": "Cậu có thích nông trại không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I see a sheep.",
+     "vi": "Có! Tớ thấy một con cừu."
+    },
+    {
+     "role": "Bi",
+     "en": "Is it fast?",
+     "vi": "Nó có nhanh không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. It's slow and funny.",
+     "vi": "Không. Nó chậm và ngộ nghĩnh."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "sheep",
+    "options": [
+     "chicken",
+     "goat"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "a"
+  },
+  {
+   "type": "write_letter",
+   "target": "c"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "m"
+  },
+  {
+   "type": "copy_word",
+   "target": "animal"
+  },
+  {
+   "type": "copy_word",
+   "target": "sheep"
+  },
+  {
+   "type": "copy_word",
+   "target": "mouse"
+  },
+  {
+   "type": "copy_word",
+   "target": "frog"
+  },
+  {
+   "type": "copy_word",
+   "target": "monkey"
+  },
+  {
+   "type": "copy_word",
+   "target": "tiger"
+  },
+  {
+   "type": "copy_word",
+   "target": "bear"
+  },
+  {
+   "type": "copy_word",
+   "target": "hippo"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U07-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "animal",
+   "item": "animal",
+   "options": [
+    "slow",
+    "sheep",
+    "tiger",
+    "animal"
+   ],
+   "answer": "animal"
+  },
+  {
+   "id": "L1U07-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chicken",
+   "item": "chicken",
+   "options": [
+    "farm",
+    "chicken",
+    "tall",
+    "frog"
+   ],
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U07-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sheep",
+   "item": "sheep",
+   "options": [
+    "tiger",
+    "sheep",
+    "hippo",
+    "spider"
+   ],
+   "answer": "sheep"
+  },
+  {
+   "id": "L1U07-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mouse",
+   "item": "mouse",
+   "options": [
+    "farm",
+    "bear",
+    "hippo",
+    "mouse"
+   ],
+   "answer": "mouse"
+  },
+  {
+   "id": "L1U07-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "frog",
+   "item": "frog",
+   "options": [
+    "chicken",
+    "tiger",
+    "tall",
+    "frog"
+   ],
+   "answer": "frog"
+  },
+  {
+   "id": "L1U07-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "monkey",
+   "item": "monkey",
+   "options": [
+    "animal",
+    "hippo",
+    "monkey",
+    "snake"
+   ],
+   "answer": "monkey"
+  },
+  {
+   "id": "L1U07-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tiger",
+   "item": "tiger",
+   "options": [
+    "snake",
+    "mouse",
+    "tiger",
+    "tall"
+   ],
+   "answer": "tiger"
+  },
+  {
+   "id": "L1U07-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bear",
+   "item": "bear",
+   "options": [
+    "bear",
+    "snake",
+    "frog",
+    "chicken"
+   ],
+   "answer": "bear"
+  },
+  {
+   "id": "L1U07-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "giraffe",
+   "item": "giraffe",
+   "options": [
+    "animal",
+    "giraffe",
+    "tiger",
+    "tail"
+   ],
+   "answer": "giraffe"
+  },
+  {
+   "id": "L1U07-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hippo",
+   "item": "hippo",
+   "options": [
+    "tall",
+    "slow",
+    "hippo",
+    "bear"
+   ],
+   "answer": "hippo"
+  },
+  {
+   "id": "L1U07-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "crocodile",
+   "item": "crocodile",
+   "options": [
+    "fast",
+    "mouse",
+    "bear",
+    "crocodile"
+   ],
+   "answer": "crocodile"
+  },
+  {
+   "id": "L1U07-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snake",
+   "item": "snake",
+   "options": [
+    "snake",
+    "tall",
+    "crocodile",
+    "giraffe"
+   ],
+   "answer": "snake"
+  },
+  {
+   "id": "L1U07-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "spider",
+   "item": "spider",
+   "options": [
+    "spider",
+    "slow",
+    "crocodile",
+    "hippo"
+   ],
+   "answer": "spider"
+  },
+  {
+   "id": "L1U07-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tail",
+   "item": "tail",
+   "options": [
+    "tail",
+    "hippo",
+    "sheep",
+    "tall"
+   ],
+   "answer": "tail"
+  },
+  {
+   "id": "L1U07-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "farm",
+   "item": "farm",
+   "options": [
+    "farm",
+    "tail",
+    "hippo",
+    "snake"
+   ],
+   "answer": "farm"
+  },
+  {
+   "id": "L1U07-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tall",
+   "item": "tall",
+   "options": [
+    "spider",
+    "tall",
+    "sheep",
+    "monkey"
+   ],
+   "answer": "tall"
+  },
+  {
+   "id": "L1U07-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fast",
+   "item": "fast",
+   "options": [
+    "giraffe",
+    "slow",
+    "fast",
+    "crocodile"
+   ],
+   "answer": "fast"
+  },
+  {
+   "id": "L1U07-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "slow",
+   "item": "slow",
+   "options": [
+    "slow",
+    "hippo",
+    "giraffe",
+    "farm"
+   ],
+   "answer": "slow"
+  },
+  {
+   "id": "L1U07-Q019",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the animal pink.",
+   "item": "animal",
+   "options": [
+    "tall",
+    "animal",
+    "tail"
+   ],
+   "answer": "animal",
+   "color": "pink"
+  },
+  {
+   "id": "L1U07-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the chicken blue.",
+   "item": "chicken",
+   "options": [
+    "frog",
+    "chicken",
+    "tiger"
+   ],
+   "answer": "chicken",
+   "color": "blue"
+  },
+  {
+   "id": "L1U07-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the sheep yellow.",
+   "item": "sheep",
+   "options": [
+    "spider",
+    "bear",
+    "sheep"
+   ],
+   "answer": "sheep",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U07-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the mouse yellow.",
+   "item": "mouse",
+   "options": [
+    "mouse",
+    "farm",
+    "crocodile"
+   ],
+   "answer": "mouse",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U07-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "animal",
+   "answer": "animal"
+  },
+  {
+   "id": "L1U07-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chicken",
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U07-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sheep",
+   "answer": "sheep"
+  },
+  {
+   "id": "L1U07-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mouse",
+   "answer": "mouse"
+  },
+  {
+   "id": "L1U07-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "frog",
+   "answer": "frog"
+  },
+  {
+   "id": "L1U07-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "monkey",
+   "answer": "monkey"
+  },
+  {
+   "id": "L1U07-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tiger",
+   "answer": "tiger"
+  },
+  {
+   "id": "L1U07-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bear",
+   "answer": "bear"
+  },
+  {
+   "id": "L1U07-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "giraffe",
+   "answer": "giraffe"
+  },
+  {
+   "id": "L1U07-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hippo",
+   "answer": "hippo"
+  },
+  {
+   "id": "L1U07-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "crocodile",
+   "answer": "crocodile"
+  },
+  {
+   "id": "L1U07-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snake",
+   "answer": "snake"
+  },
+  {
+   "id": "L1U07-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "spider",
+   "answer": "spider"
+  },
+  {
+   "id": "L1U07-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tail",
+   "answer": "tail"
+  },
+  {
+   "id": "L1U07-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "farm",
+   "answer": "farm"
+  },
+  {
+   "id": "L1U07-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tall",
+   "answer": "tall"
+  },
+  {
+   "id": "L1U07-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fast",
+   "answer": "fast"
+  },
+  {
+   "id": "L1U07-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "slow",
+   "answer": "slow"
+  },
+  {
+   "id": "L1U07-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love animals.",
+   "item": "animal",
+   "answer": "I love animals."
+  },
+  {
+   "id": "L1U07-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The chicken is small.",
+   "item": "chicken",
+   "answer": "The chicken is small."
+  },
+  {
+   "id": "L1U07-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sheep is white.",
+   "item": "sheep",
+   "answer": "The sheep is white."
+  },
+  {
+   "id": "L1U07-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mouse is very small.",
+   "item": "mouse",
+   "answer": "The mouse is very small."
+  },
+  {
+   "id": "L1U07-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The frog can jump.",
+   "item": "frog",
+   "answer": "The frog can jump."
+  },
+  {
+   "id": "L1U07-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The monkey is funny.",
+   "item": "monkey",
+   "answer": "The monkey is funny."
+  },
+  {
+   "id": "L1U07-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tiger is big.",
+   "item": "tiger",
+   "answer": "The tiger is big."
+  },
+  {
+   "id": "L1U07-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bear is brown.",
+   "item": "bear",
+   "answer": "The bear is brown."
+  },
+  {
+   "id": "L1U07-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The giraffe is tall.",
+   "item": "giraffe",
+   "answer": "The giraffe is tall."
+  },
+  {
+   "id": "L1U07-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hippo is in the water.",
+   "item": "hippo",
+   "answer": "The hippo is in the water."
+  },
+  {
+   "id": "L1U07-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The crocodile has big teeth.",
+   "item": "crocodile",
+   "answer": "The crocodile has big teeth."
+  },
+  {
+   "id": "L1U07-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The snake is long.",
+   "item": "snake",
+   "answer": "The snake is long."
+  },
+  {
+   "id": "L1U07-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The spider is on the wall.",
+   "item": "spider",
+   "answer": "The spider is on the wall."
+  },
+  {
+   "id": "L1U07-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The monkey has a long tail.",
+   "item": "tail",
+   "answer": "The monkey has a long tail."
+  },
+  {
+   "id": "L1U07-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cow is on the farm.",
+   "item": "farm",
+   "answer": "The cow is on the farm."
+  },
+  {
+   "id": "L1U07-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tree is tall.",
+   "item": "tall",
+   "answer": "The tree is tall."
+  },
+  {
+   "id": "L1U07-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The horse is fast.",
+   "item": "fast",
+   "answer": "The horse is fast."
+  },
+  {
+   "id": "L1U07-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hippo is slow.",
+   "item": "slow",
+   "answer": "The hippo is slow."
+  },
+  {
+   "id": "L1U07-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tiger is big.",
+   "answer": "The tiger is big."
+  },
+  {
+   "id": "L1U07-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bear is big.",
+   "answer": "The bear is big."
+  },
+  {
+   "id": "L1U07-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hippo is big.",
+   "answer": "The hippo is big."
+  },
+  {
+   "id": "L1U07-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a monkey.",
+   "answer": "I see a monkey."
+  },
+  {
+   "id": "L1U07-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a giraffe.",
+   "answer": "I see a giraffe."
+  },
+  {
+   "id": "L1U07-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a snake.",
+   "answer": "I see a snake."
+  },
+  {
+   "id": "L1U07-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The frog can jump.",
+   "answer": "The frog can jump."
+  },
+  {
+   "id": "L1U07-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The monkey can jump.",
+   "answer": "The monkey can jump."
+  },
+  {
+   "id": "L1U07-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rabbit can jump.",
+   "answer": "The rabbit can jump."
+  },
+  {
+   "id": "L1U07-Q068",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Look! What's that?",
+   "answer": "It's a giraffe!"
+  },
+  {
+   "id": "L1U07-Q069",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like the farm?",
+   "answer": "Yes! I see a sheep."
+  },
+  {
+   "id": "L1U07-Q070",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it fast?",
+   "answer": "No. It's slow and funny."
+  },
+  {
+   "id": "L1U07-Q071",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "animal",
+   "options": [
+    "snake",
+    "animal",
+    "mouse"
+   ],
+   "answer": "animal"
+  },
+  {
+   "id": "L1U07-Q072",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chicken",
+   "options": [
+    "spider",
+    "chicken",
+    "frog"
+   ],
+   "answer": "chicken"
+  },
+  {
+   "id": "L1U07-Q073",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sheep",
+   "options": [
+    "sheep",
+    "tiger",
+    "giraffe"
+   ],
+   "answer": "sheep"
+  },
+  {
+   "id": "L1U07-Q074",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mouse",
+   "options": [
+    "farm",
+    "mouse",
+    "spider"
+   ],
+   "answer": "mouse"
+  },
+  {
+   "id": "L1U07-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "frog",
+   "options": [
+    "slow",
+    "frog",
+    "tail"
+   ],
+   "answer": "frog"
+  },
+  {
+   "id": "L1U07-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "monkey",
+   "options": [
+    "slow",
+    "tiger",
+    "monkey"
+   ],
+   "answer": "monkey"
+  },
+  {
+   "id": "L1U07-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tiger",
+   "options": [
+    "monkey",
+    "tiger",
+    "bear"
+   ],
+   "answer": "tiger"
+  },
+  {
+   "id": "L1U07-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bear",
+   "options": [
+    "snake",
+    "crocodile",
+    "bear"
+   ],
+   "answer": "bear"
+  },
+  {
+   "id": "L1U07-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "giraffe",
+   "options": [
+    "giraffe",
+    "farm",
+    "fast"
+   ],
+   "answer": "giraffe"
+  },
+  {
+   "id": "L1U07-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hippo",
+   "options": [
+    "bear",
+    "hippo",
+    "crocodile"
+   ],
+   "answer": "hippo"
+  },
+  {
+   "id": "L1U07-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "crocodile",
+   "options": [
+    "tall",
+    "hippo",
+    "crocodile"
+   ],
+   "answer": "crocodile"
+  },
+  {
+   "id": "L1U07-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snake",
+   "options": [
+    "chicken",
+    "snake",
+    "tall"
+   ],
+   "answer": "snake"
+  },
+  {
+   "id": "L1U07-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "spider",
+   "options": [
+    "tiger",
+    "giraffe",
+    "spider"
+   ],
+   "answer": "spider"
+  },
+  {
+   "id": "L1U07-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tail",
+   "options": [
+    "tail",
+    "tiger",
+    "sheep"
+   ],
+   "answer": "tail"
+  },
+  {
+   "id": "L1U07-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "farm",
+   "options": [
+    "farm",
+    "giraffe",
+    "animal"
+   ],
+   "answer": "farm"
+  },
+  {
+   "id": "L1U07-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tall",
+   "options": [
+    "giraffe",
+    "tall",
+    "tiger"
+   ],
+   "answer": "tall"
+  },
+  {
+   "id": "L1U07-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fast",
+   "options": [
+    "spider",
+    "fast",
+    "frog"
+   ],
+   "answer": "fast"
+  },
+  {
+   "id": "L1U07-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "slow",
+   "options": [
+    "slow",
+    "mouse",
+    "tail"
+   ],
+   "answer": "slow"
+  },
+  {
+   "id": "L1U07-Q089",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "a",
+   "answer": "a"
+  },
+  {
+   "id": "L1U07-Q090",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "c",
+   "answer": "c"
+  },
+  {
+   "id": "L1U07-Q091",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U07-Q092",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "m",
+   "answer": "m"
+  },
+  {
+   "id": "L1U07-Q093",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "animal",
+   "answer": "animal"
+  },
+  {
+   "id": "L1U07-Q094",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sheep",
+   "answer": "sheep"
+  },
+  {
+   "id": "L1U07-Q095",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "mouse",
+   "answer": "mouse"
+  },
+  {
+   "id": "L1U07-Q096",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "frog",
+   "answer": "frog"
+  },
+  {
+   "id": "L1U07-Q097",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "monkey",
+   "answer": "monkey"
+  },
+  {
+   "id": "L1U07-Q098",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "tiger",
+   "answer": "tiger"
+  },
+  {
+   "id": "L1U07-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "bear",
+   "answer": "bear"
+  },
+  {
+   "id": "L1U07-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "hippo",
+   "answer": "hippo"
+  }
+ ]
+}

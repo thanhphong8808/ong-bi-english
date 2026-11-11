@@ -1,0 +1,3312 @@
+{
+ "id": "L5U10",
+ "level": 5,
+ "unit": 10,
+ "topic_en": "The human body",
+ "topic_vi": "Cơ thể con người",
+ "can_do_vi": [
+  "Gọi tên các bộ phận cơ thể và cơ quan bên trong",
+  "Giải thích chức năng của chúng và cách giữ gìn sức khoẻ"
+ ],
+ "grammar_note_vi": "Nói chức năng dùng \"help + người + động từ\": \"Our lungs help us breathe.\" (Phổi giúp chúng ta thở.) \"Your brain controls your body.\"",
+ "items": [
+  {
+   "id": "L5U10-W01",
+   "type": "word",
+   "en": "health",
+   "vi": "sức khoẻ",
+   "ipa": "/hɛlθ/",
+   "syllables": [
+    "health"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F49A"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Sleep is important for your health.",
+   "example_vi": "Giấc ngủ quan trọng cho sức khoẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W02",
+   "type": "word",
+   "en": "brain",
+   "vi": "bộ não",
+   "ipa": "/breɪn/",
+   "syllables": [
+    "brain"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Your brain controls your body.",
+   "example_vi": "Bộ não điều khiển cơ thể.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W03",
+   "type": "word",
+   "en": "lungs",
+   "vi": "phổi",
+   "ipa": "/lʌŋz/",
+   "syllables": [
+    "lungs"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1FAC1"
+   },
+   "picturable": true,
+   "cat": "L5U10",
+   "example_en": "Our lungs help us breathe.",
+   "example_vi": "Phổi giúp chúng ta thở.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W04",
+   "type": "word",
+   "en": "bone",
+   "vi": "xương",
+   "ipa": "/boʊn/",
+   "syllables": [
+    "bone"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9B4"
+   },
+   "picturable": true,
+   "cat": "L5U10",
+   "example_en": "Milk helps to make your bones strong.",
+   "example_vi": "Sữa giúp xương chắc khoẻ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W05",
+   "type": "word",
+   "en": "muscle",
+   "vi": "cơ bắp",
+   "ipa": "/ˈmʌsəl/",
+   "syllables": [
+    "mus",
+    "cle"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Exercise makes your muscles strong.",
+   "example_vi": "Tập thể dục làm cơ bắp khoẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W06",
+   "type": "word",
+   "en": "skin",
+   "vi": "da",
+   "ipa": "/skɪn/",
+   "syllables": [
+    "skin"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Sunscreen protects your skin.",
+   "example_vi": "Kem chống nắng bảo vệ da.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W07",
+   "type": "word",
+   "en": "blood",
+   "vi": "máu",
+   "ipa": "/blʌd/",
+   "syllables": [
+    "blood"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FA78"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Your heart pumps blood around your body.",
+   "example_vi": "Tim bơm máu đi khắp cơ thể.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W08",
+   "type": "word",
+   "en": "skeleton",
+   "vi": "bộ xương",
+   "ipa": "/ˈskɛlətən/",
+   "syllables": [
+    "skeleton"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9B4"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "There are over two hundred bones in your skeleton.",
+   "example_vi": "Bộ xương có hơn hai trăm cái xương.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W09",
+   "type": "word",
+   "en": "organ",
+   "vi": "cơ quan (cơ thể)",
+   "ipa": "/ˈɔrɡən/",
+   "syllables": [
+    "or",
+    "gan"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1FAC0"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "The heart is an important organ.",
+   "example_vi": "Tim là một cơ quan quan trọng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W10",
+   "type": "word",
+   "en": "sense",
+   "vi": "giác quan",
+   "ipa": "/sɛns/",
+   "syllables": [
+    "sense"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F443"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "We have five senses.",
+   "example_vi": "Chúng ta có năm giác quan.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W11",
+   "type": "word",
+   "en": "sight",
+   "vi": "thị giác",
+   "ipa": "/saɪt/",
+   "syllables": [
+    "sight"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F441-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Owls have very good sight.",
+   "example_vi": "Cú có thị lực rất tốt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W12",
+   "type": "word",
+   "en": "hearing",
+   "vi": "thính giác",
+   "ipa": "/ˈhirɪŋ/",
+   "syllables": [
+    "hear",
+    "ing"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Dogs have excellent hearing.",
+   "example_vi": "Chó có thính giác tuyệt vời.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W13",
+   "type": "word",
+   "en": "tongue",
+   "vi": "cái lưỡi",
+   "ipa": "/tʌŋ/",
+   "syllables": [
+    "tongue"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F445"
+   },
+   "picturable": true,
+   "cat": "L5U10",
+   "example_en": "We taste food with our tongue.",
+   "example_vi": "Chúng ta nếm thức ăn bằng lưỡi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W14",
+   "type": "word",
+   "en": "lips",
+   "vi": "đôi môi",
+   "ipa": "/lɪps/",
+   "syllables": [
+    "lips"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F444"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Put some cream on your lips.",
+   "example_vi": "Bôi chút kem lên môi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W15",
+   "type": "word",
+   "en": "cheek",
+   "vi": "má",
+   "ipa": "/tʃik/",
+   "syllables": [
+    "cheek"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "263A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "The baby has round cheeks.",
+   "example_vi": "Em bé có đôi má tròn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W16",
+   "type": "word",
+   "en": "chin",
+   "vi": "cằm",
+   "ipa": "/tʃɪn/",
+   "syllables": [
+    "chin"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D4"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "He has a cut on his chin.",
+   "example_vi": "Anh ấy bị đứt ở cằm.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W17",
+   "type": "word",
+   "en": "forehead",
+   "vi": "trán",
+   "ipa": "/ˈfɔrhɛd/",
+   "syllables": [
+    "fore",
+    "head"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F642"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Mum touched my forehead. It was hot.",
+   "example_vi": "Mẹ sờ trán tớ. Trán nóng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W18",
+   "type": "word",
+   "en": "eyebrow",
+   "vi": "lông mày",
+   "ipa": "/ˈaɪˌbraʊ/",
+   "syllables": [
+    "eye",
+    "brow"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F928"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "She has thick eyebrows.",
+   "example_vi": "Bạn ấy có lông mày rậm.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W19",
+   "type": "word",
+   "en": "shoulder",
+   "vi": "vai",
+   "ipa": "/ˈʃoʊldər/",
+   "syllables": [
+    "shoul",
+    "der"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F937"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Dad carried me on his shoulders.",
+   "example_vi": "Bố cõng tớ trên vai.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W20",
+   "type": "word",
+   "en": "elbow",
+   "vi": "khuỷu tay",
+   "ipa": "/ˈɛlˌboʊ/",
+   "syllables": [
+    "el",
+    "bow"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Don't put your elbows on the table.",
+   "example_vi": "Đừng chống khuỷu tay lên bàn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W21",
+   "type": "word",
+   "en": "wrist",
+   "vi": "cổ tay",
+   "ipa": "/rɪst/",
+   "syllables": [
+    "wrist"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "231A"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "I wear a watch on my wrist.",
+   "example_vi": "Tớ đeo đồng hồ ở cổ tay.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W22",
+   "type": "word",
+   "en": "thumb",
+   "vi": "ngón cái",
+   "ipa": "/θʌm/",
+   "syllables": [
+    "thumb"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Give me a thumbs up!",
+   "example_vi": "Giơ ngón cái lên nào!",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W23",
+   "type": "word",
+   "en": "toe",
+   "vi": "ngón chân",
+   "ipa": "/toʊ/",
+   "syllables": [
+    "toe"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9B6"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "I have ten toes.",
+   "example_vi": "Tớ có mười ngón chân.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W24",
+   "type": "word",
+   "en": "ankle",
+   "vi": "mắt cá chân",
+   "ipa": "/ˈæŋkəl/",
+   "syllables": [
+    "an",
+    "kle"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9B6"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "I hurt my ankle in the football match.",
+   "example_vi": "Tớ bị đau mắt cá chân trong trận bóng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W25",
+   "type": "word",
+   "en": "chest",
+   "vi": "ngực",
+   "ipa": "/tʃɛst/",
+   "syllables": [
+    "chest"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FAC1"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Put your hand on your chest.",
+   "example_vi": "Đặt tay lên ngực.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W26",
+   "type": "word",
+   "en": "neck",
+   "vi": "cổ",
+   "ipa": "/nɛk/",
+   "syllables": [
+    "neck"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F9E3"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Giraffes have very long necks.",
+   "example_vi": "Hươu cao cổ có cái cổ rất dài.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W27",
+   "type": "word",
+   "en": "digest",
+   "vi": "tiêu hoá",
+   "ipa": "/ˈdaɪdʒɛst/",
+   "syllables": [
+    "di",
+    "gest"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Your stomach helps you digest food.",
+   "example_vi": "Dạ dày giúp tiêu hoá thức ăn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W28",
+   "type": "word",
+   "en": "oxygen",
+   "vi": "ô-xi",
+   "ipa": "/ˈɑksɪdʒən/",
+   "syllables": [
+    "oxygen"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4A8"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "We need oxygen to live.",
+   "example_vi": "Chúng ta cần ô-xi để sống.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W29",
+   "type": "word",
+   "en": "pump",
+   "vi": "bơm",
+   "ipa": "/pʌmp/",
+   "syllables": [
+    "pump"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "26FD"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "The heart pumps blood.",
+   "example_vi": "Tim bơm máu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W30",
+   "type": "word",
+   "en": "pulse",
+   "vi": "mạch",
+   "ipa": "/pʌls/",
+   "syllables": [
+    "pulse"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F493"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "The nurse checked my pulse.",
+   "example_vi": "Cô y tá bắt mạch cho tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W31",
+   "type": "word",
+   "en": "protein",
+   "vi": "chất đạm",
+   "ipa": "/ˈproʊˌtin/",
+   "syllables": [
+    "pro",
+    "tein"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F95A"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Eggs and fish have a lot of protein.",
+   "example_vi": "Trứng và cá có nhiều chất đạm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W32",
+   "type": "word",
+   "en": "strength",
+   "vi": "sức mạnh",
+   "ipa": "/strɛŋθ/",
+   "syllables": [
+    "strength"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "You need strength to climb a rope.",
+   "example_vi": "Cần có sức mạnh để leo dây.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W33",
+   "type": "word",
+   "en": "fingernail",
+   "vi": "móng tay",
+   "ipa": "/ˈfɪŋɡərˌneɪl/",
+   "syllables": [
+    "fin",
+    "ger",
+    "nail"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F485"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Keep your fingernails short and clean.",
+   "example_vi": "Giữ móng tay ngắn và sạch.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W34",
+   "type": "word",
+   "en": "heartbeat",
+   "vi": "nhịp tim",
+   "ipa": "/ˈhɑrtˌbit/",
+   "syllables": [
+    "heart",
+    "beat"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F493"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Your heartbeat is fast after running.",
+   "example_vi": "Nhịp tim nhanh sau khi chạy.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W35",
+   "type": "word",
+   "en": "control",
+   "vi": "điều khiển",
+   "ipa": "/kənˈtroʊl/",
+   "syllables": [
+    "con",
+    "trol"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3AE"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "The brain controls everything we do.",
+   "example_vi": "Bộ não điều khiển mọi việc ta làm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W36",
+   "type": "word",
+   "en": "signal",
+   "vi": "tín hiệu",
+   "ipa": "/ˈsɪɡnəl/",
+   "syllables": [
+    "sig",
+    "nal"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4F6"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Nerves send signals to the brain.",
+   "example_vi": "Dây thần kinh gửi tín hiệu lên não.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W37",
+   "type": "word",
+   "en": "repair",
+   "vi": "sửa chữa, phục hồi",
+   "ipa": "/rɪˈpɛr/",
+   "syllables": [
+    "re",
+    "pair"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F527"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Sleep helps your body repair itself.",
+   "example_vi": "Giấc ngủ giúp cơ thể tự phục hồi.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W38",
+   "type": "word",
+   "en": "injury",
+   "vi": "chấn thương",
+   "ipa": "/ˈɪndʒəri/",
+   "syllables": [
+    "injury"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F915"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Warm up to avoid injuries.",
+   "example_vi": "Khởi động để tránh chấn thương.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W39",
+   "type": "word",
+   "en": "blink",
+   "vi": "chớp mắt",
+   "ipa": "/blɪŋk/",
+   "syllables": [
+    "blink"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F609"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "We blink many times every minute.",
+   "example_vi": "Chúng ta chớp mắt nhiều lần mỗi phút.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W40",
+   "type": "word",
+   "en": "yawn",
+   "vi": "ngáp",
+   "ipa": "/jɔn/",
+   "syllables": [
+    "yawn"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F971"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "I yawn when I'm tired.",
+   "example_vi": "Tớ ngáp khi mệt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W41",
+   "type": "word",
+   "en": "hiccup",
+   "vi": "nấc cụt",
+   "ipa": "/ˈhɪkəp/",
+   "syllables": [
+    "hic",
+    "cup"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F62E"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Drink some water to stop your hiccups.",
+   "example_vi": "Uống chút nước để hết nấc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W42",
+   "type": "word",
+   "en": "shiver",
+   "vi": "run (vì lạnh)",
+   "ipa": "/ˈʃɪvər/",
+   "syllables": [
+    "shiv",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F976"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "I shiver when I'm cold.",
+   "example_vi": "Tớ run khi bị lạnh.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W43",
+   "type": "word",
+   "en": "jaw",
+   "vi": "hàm",
+   "ipa": "/dʒɔ/",
+   "syllables": [
+    "jaw"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F9B7"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Your teeth are in your jaw.",
+   "example_vi": "Răng nằm trên hàm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U10-W44",
+   "type": "word",
+   "en": "hip",
+   "vi": "hông",
+   "ipa": "/hɪp/",
+   "syllables": [
+    "hip"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F57A"
+   },
+   "picturable": false,
+   "cat": "L5U10",
+   "example_en": "Put your hands on your hips.",
+   "example_vi": "Chống tay lên hông.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U10-P01",
+   "en": "Exercise makes your {x} strong.",
+   "vi": "Tập thể dục làm {x} khoẻ mạnh.",
+   "slots": {
+    "x": [
+     "muscles",
+     "bones",
+     "heart",
+     "lungs"
+    ]
+   }
+  },
+  {
+   "id": "L5U10-P02",
+   "en": "I hurt my {x}.",
+   "vi": "Tớ bị đau {x}.",
+   "slots": {
+    "x": [
+     "ankle",
+     "wrist",
+     "elbow",
+     "shoulder"
+    ]
+   }
+  },
+  {
+   "id": "L5U10-P03",
+   "en": "The {x} is an important organ.",
+   "vi": "{x} là một cơ quan quan trọng.",
+   "slots": {
+    "x": [
+     "heart",
+     "brain",
+     "stomach"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U10-D01",
+   "title_vi": "Cơ thể kỳ diệu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, why does my heart beat fast after running?",
+     "vi": "Bi ơi, sao tim tớ đập nhanh sau khi chạy?"
+    },
+    {
+     "role": "Bi",
+     "en": "Your muscles need more oxygen, so your heart pumps faster.",
+     "vi": "Cơ bắp cần nhiều ô-xi hơn, nên tim bơm nhanh hơn."
+    },
+    {
+     "role": "Kid",
+     "en": "And why do I breathe fast too?",
+     "vi": "Thế sao tớ cũng thở nhanh?"
+    },
+    {
+     "role": "Bi",
+     "en": "Your lungs take in more air to get more oxygen.",
+     "vi": "Phổi hít thêm không khí để lấy thêm ô-xi."
+    },
+    {
+     "role": "Kid",
+     "en": "Our body is amazing!",
+     "vi": "Cơ thể mình thật kỳ diệu!"
+    }
+   ]
+  },
+  {
+   "id": "L5U10-D02",
+   "title_vi": "Bị đau mắt cá",
+   "roles": [
+    "Coach",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Coach",
+     "en": "What happened?",
+     "vi": "Có chuyện gì vậy?"
+    },
+    {
+     "role": "Kid",
+     "en": "I fell and hurt my ankle.",
+     "vi": "Cháu bị ngã và đau mắt cá chân."
+    },
+    {
+     "role": "Coach",
+     "en": "Can you move your toes?",
+     "vi": "Cháu cử động ngón chân được không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, but it's painful.",
+     "vi": "Được ạ, nhưng đau lắm."
+    },
+    {
+     "role": "Coach",
+     "en": "Sit down and put some ice on it. Did you warm up?",
+     "vi": "Ngồi xuống và chườm đá đi. Cháu có khởi động không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No, I forgot. Next time I will!",
+     "vi": "Không ạ, cháu quên. Lần sau cháu sẽ nhớ!"
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "health"
+  },
+  {
+   "type": "dictate_word",
+   "target": "brain"
+  },
+  {
+   "type": "dictate_word",
+   "target": "lungs"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bone"
+  },
+  {
+   "type": "dictate_word",
+   "target": "muscle"
+  },
+  {
+   "type": "dictate_word",
+   "target": "skin"
+  },
+  {
+   "type": "dictate_word",
+   "target": "blood"
+  },
+  {
+   "type": "dictate_word",
+   "target": "skeleton"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Sleep is important for your health."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Your brain controls your body."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Our lungs help us breathe."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My brain helps me|To stay healthy, I need to|The most amazing part of the body is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U10-R01",
+   "title_en": "How your body works",
+   "text_en": [
+    "Your body is like an amazing machine.",
+    "Your brain is the control centre.",
+    "It controls everything you do, from walking to thinking.",
+    "Your heart is a strong muscle.",
+    "It pumps blood around your body all day and all night.",
+    "Your blood carries oxygen from your lungs to every part of your body.",
+    "Your skeleton has over two hundred bones.",
+    "It holds you up and protects your organs.",
+    "Your muscles help you move.",
+    "To keep your body healthy, you need to eat a balanced diet, drink water, exercise and sleep well.",
+    "Look after your body, and it will look after you!"
+   ],
+   "questions": [
+    {
+     "q": "What controls everything you do?",
+     "options": [
+      "Your brain.",
+      "Your heart.",
+      "Your lungs."
+     ],
+     "answer": "Your brain."
+    },
+    {
+     "q": "What does your blood carry?",
+     "options": [
+      "Oxygen.",
+      "Bones.",
+      "Muscles."
+     ],
+     "answer": "Oxygen."
+    },
+    {
+     "q": "How many bones are in your skeleton?",
+     "options": [
+      "Over two hundred.",
+      "About fifty.",
+      "Over two thousand."
+     ],
+     "answer": "Over two hundred."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U10-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lungs",
+   "item": "lungs",
+   "options": [
+    "tongue",
+    "lungs",
+    "bone",
+    "carrot"
+   ],
+   "answer": "lungs"
+  },
+  {
+   "id": "L5U10-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bone",
+   "item": "bone",
+   "options": [
+    "lungs",
+    "tongue",
+    "cheese",
+    "bone"
+   ],
+   "answer": "bone"
+  },
+  {
+   "id": "L5U10-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tongue",
+   "item": "tongue",
+   "options": [
+    "bone",
+    "tongue",
+    "slippers",
+    "lungs"
+   ],
+   "answer": "tongue"
+  },
+  {
+   "id": "L5U10-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "health",
+   "item": "health",
+   "options": [
+    "tongue",
+    "thumb",
+    "health",
+    "digest"
+   ],
+   "answer": "health"
+  },
+  {
+   "id": "L5U10-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "brain",
+   "item": "brain",
+   "options": [
+    "toe",
+    "brain",
+    "hip",
+    "fingernail"
+   ],
+   "answer": "brain"
+  },
+  {
+   "id": "L5U10-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "muscle",
+   "item": "muscle",
+   "options": [
+    "tongue",
+    "muscle",
+    "control",
+    "bone"
+   ],
+   "answer": "muscle"
+  },
+  {
+   "id": "L5U10-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "skin",
+   "item": "skin",
+   "options": [
+    "skin",
+    "yawn",
+    "organ",
+    "elbow"
+   ],
+   "answer": "skin"
+  },
+  {
+   "id": "L5U10-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "blood",
+   "item": "blood",
+   "options": [
+    "blood",
+    "pump",
+    "neck",
+    "elbow"
+   ],
+   "answer": "blood"
+  },
+  {
+   "id": "L5U10-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "skeleton",
+   "item": "skeleton",
+   "options": [
+    "blood",
+    "muscle",
+    "control",
+    "skeleton"
+   ],
+   "answer": "skeleton"
+  },
+  {
+   "id": "L5U10-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "organ",
+   "item": "organ",
+   "options": [
+    "strength",
+    "blink",
+    "health",
+    "organ"
+   ],
+   "answer": "organ"
+  },
+  {
+   "id": "L5U10-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sense",
+   "item": "sense",
+   "options": [
+    "brain",
+    "sense",
+    "injury",
+    "lungs"
+   ],
+   "answer": "sense"
+  },
+  {
+   "id": "L5U10-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sight",
+   "item": "sight",
+   "options": [
+    "chest",
+    "sight",
+    "neck",
+    "blink"
+   ],
+   "answer": "sight"
+  },
+  {
+   "id": "L5U10-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hearing",
+   "item": "hearing",
+   "options": [
+    "hearing",
+    "strength",
+    "muscle",
+    "ankle"
+   ],
+   "answer": "hearing"
+  },
+  {
+   "id": "L5U10-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lips",
+   "item": "lips",
+   "options": [
+    "lips",
+    "wrist",
+    "blink",
+    "skeleton"
+   ],
+   "answer": "lips"
+  },
+  {
+   "id": "L5U10-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cheek",
+   "item": "cheek",
+   "options": [
+    "chin",
+    "cheek",
+    "digest",
+    "tongue"
+   ],
+   "answer": "cheek"
+  },
+  {
+   "id": "L5U10-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chin",
+   "item": "chin",
+   "options": [
+    "chin",
+    "tongue",
+    "wrist",
+    "ankle"
+   ],
+   "answer": "chin"
+  },
+  {
+   "id": "L5U10-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forehead",
+   "item": "forehead",
+   "options": [
+    "hearing",
+    "tongue",
+    "wrist",
+    "forehead"
+   ],
+   "answer": "forehead"
+  },
+  {
+   "id": "L5U10-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "eyebrow",
+   "item": "eyebrow",
+   "options": [
+    "neck",
+    "eyebrow",
+    "hiccup",
+    "muscle"
+   ],
+   "answer": "eyebrow"
+  },
+  {
+   "id": "L5U10-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shoulder",
+   "item": "shoulder",
+   "options": [
+    "control",
+    "pulse",
+    "shoulder",
+    "organ"
+   ],
+   "answer": "shoulder"
+  },
+  {
+   "id": "L5U10-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "elbow",
+   "item": "elbow",
+   "options": [
+    "elbow",
+    "thumb",
+    "heartbeat",
+    "signal"
+   ],
+   "answer": "elbow"
+  },
+  {
+   "id": "L5U10-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wrist",
+   "item": "wrist",
+   "options": [
+    "bone",
+    "elbow",
+    "wrist",
+    "fingernail"
+   ],
+   "answer": "wrist"
+  },
+  {
+   "id": "L5U10-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thumb",
+   "item": "thumb",
+   "options": [
+    "thumb",
+    "oxygen",
+    "sight",
+    "muscle"
+   ],
+   "answer": "thumb"
+  },
+  {
+   "id": "L5U10-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "toe",
+   "item": "toe",
+   "options": [
+    "brain",
+    "bone",
+    "skeleton",
+    "toe"
+   ],
+   "answer": "toe"
+  },
+  {
+   "id": "L5U10-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ankle",
+   "item": "ankle",
+   "options": [
+    "ankle",
+    "eyebrow",
+    "lips",
+    "digest"
+   ],
+   "answer": "ankle"
+  },
+  {
+   "id": "L5U10-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chest",
+   "item": "chest",
+   "options": [
+    "forehead",
+    "cheek",
+    "digest",
+    "chest"
+   ],
+   "answer": "chest"
+  },
+  {
+   "id": "L5U10-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "neck",
+   "item": "neck",
+   "options": [
+    "health",
+    "neck",
+    "repair",
+    "hip"
+   ],
+   "answer": "neck"
+  },
+  {
+   "id": "L5U10-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "digest",
+   "item": "digest",
+   "options": [
+    "fingernail",
+    "digest",
+    "thumb",
+    "elbow"
+   ],
+   "answer": "digest"
+  },
+  {
+   "id": "L5U10-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "oxygen",
+   "item": "oxygen",
+   "options": [
+    "injury",
+    "forehead",
+    "oxygen",
+    "ankle"
+   ],
+   "answer": "oxygen"
+  },
+  {
+   "id": "L5U10-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pump",
+   "item": "pump",
+   "options": [
+    "injury",
+    "lungs",
+    "pump",
+    "health"
+   ],
+   "answer": "pump"
+  },
+  {
+   "id": "L5U10-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pulse",
+   "item": "pulse",
+   "options": [
+    "hiccup",
+    "bone",
+    "pulse",
+    "lips"
+   ],
+   "answer": "pulse"
+  },
+  {
+   "id": "L5U10-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "protein",
+   "item": "protein",
+   "options": [
+    "blood",
+    "jaw",
+    "protein",
+    "hip"
+   ],
+   "answer": "protein"
+  },
+  {
+   "id": "L5U10-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "strength",
+   "item": "strength",
+   "options": [
+    "cheek",
+    "lungs",
+    "chin",
+    "strength"
+   ],
+   "answer": "strength"
+  },
+  {
+   "id": "L5U10-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fingernail",
+   "item": "fingernail",
+   "options": [
+    "fingernail",
+    "chest",
+    "muscle",
+    "tongue"
+   ],
+   "answer": "fingernail"
+  },
+  {
+   "id": "L5U10-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "heartbeat",
+   "item": "heartbeat",
+   "options": [
+    "heartbeat",
+    "skin",
+    "toe",
+    "wrist"
+   ],
+   "answer": "heartbeat"
+  },
+  {
+   "id": "L5U10-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "control",
+   "item": "control",
+   "options": [
+    "chest",
+    "cheek",
+    "muscle",
+    "control"
+   ],
+   "answer": "control"
+  },
+  {
+   "id": "L5U10-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "signal",
+   "item": "signal",
+   "options": [
+    "skeleton",
+    "signal",
+    "blink",
+    "digest"
+   ],
+   "answer": "signal"
+  },
+  {
+   "id": "L5U10-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "repair",
+   "item": "repair",
+   "options": [
+    "forehead",
+    "repair",
+    "ankle",
+    "elbow"
+   ],
+   "answer": "repair"
+  },
+  {
+   "id": "L5U10-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "injury",
+   "item": "injury",
+   "options": [
+    "fingernail",
+    "lips",
+    "strength",
+    "injury"
+   ],
+   "answer": "injury"
+  },
+  {
+   "id": "L5U10-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "blink",
+   "item": "blink",
+   "options": [
+    "blink",
+    "bone",
+    "shiver",
+    "eyebrow"
+   ],
+   "answer": "blink"
+  },
+  {
+   "id": "L5U10-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "yawn",
+   "item": "yawn",
+   "options": [
+    "yawn",
+    "skin",
+    "repair",
+    "organ"
+   ],
+   "answer": "yawn"
+  },
+  {
+   "id": "L5U10-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hiccup",
+   "item": "hiccup",
+   "options": [
+    "hip",
+    "hiccup",
+    "neck",
+    "wrist"
+   ],
+   "answer": "hiccup"
+  },
+  {
+   "id": "L5U10-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shiver",
+   "item": "shiver",
+   "options": [
+    "elbow",
+    "tongue",
+    "shiver",
+    "repair"
+   ],
+   "answer": "shiver"
+  },
+  {
+   "id": "L5U10-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jaw",
+   "item": "jaw",
+   "options": [
+    "ankle",
+    "jaw",
+    "oxygen",
+    "brain"
+   ],
+   "answer": "jaw"
+  },
+  {
+   "id": "L5U10-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hip",
+   "item": "hip",
+   "options": [
+    "eyebrow",
+    "repair",
+    "blink",
+    "hip"
+   ],
+   "answer": "hip"
+  },
+  {
+   "id": "L5U10-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lungs",
+   "answer": "lungs"
+  },
+  {
+   "id": "L5U10-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bone",
+   "answer": "bone"
+  },
+  {
+   "id": "L5U10-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tongue",
+   "answer": "tongue"
+  },
+  {
+   "id": "L5U10-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sleep is important for your health.",
+   "item": "health",
+   "answer": "Sleep is important for your health."
+  },
+  {
+   "id": "L5U10-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your brain controls your body.",
+   "item": "brain",
+   "answer": "Your brain controls your body."
+  },
+  {
+   "id": "L5U10-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our lungs help us breathe.",
+   "item": "lungs",
+   "answer": "Our lungs help us breathe."
+  },
+  {
+   "id": "L5U10-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Milk helps to make your bones strong.",
+   "item": "bone",
+   "answer": "Milk helps to make your bones strong."
+  },
+  {
+   "id": "L5U10-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Exercise makes your muscles strong.",
+   "item": "muscle",
+   "answer": "Exercise makes your muscles strong."
+  },
+  {
+   "id": "L5U10-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sunscreen protects your skin.",
+   "item": "skin",
+   "answer": "Sunscreen protects your skin."
+  },
+  {
+   "id": "L5U10-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your heart pumps blood around your body.",
+   "item": "blood",
+   "answer": "Your heart pumps blood around your body."
+  },
+  {
+   "id": "L5U10-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are over two hundred bones in your skeleton.",
+   "item": "skeleton",
+   "answer": "There are over two hundred bones in your skeleton."
+  },
+  {
+   "id": "L5U10-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The heart is an important organ.",
+   "item": "organ",
+   "answer": "The heart is an important organ."
+  },
+  {
+   "id": "L5U10-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have five senses.",
+   "item": "sense",
+   "answer": "We have five senses."
+  },
+  {
+   "id": "L5U10-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Owls have very good sight.",
+   "item": "sight",
+   "answer": "Owls have very good sight."
+  },
+  {
+   "id": "L5U10-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dogs have excellent hearing.",
+   "item": "hearing",
+   "answer": "Dogs have excellent hearing."
+  },
+  {
+   "id": "L5U10-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We taste food with our tongue.",
+   "item": "tongue",
+   "answer": "We taste food with our tongue."
+  },
+  {
+   "id": "L5U10-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put some cream on your lips.",
+   "item": "lips",
+   "answer": "Put some cream on your lips."
+  },
+  {
+   "id": "L5U10-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby has round cheeks.",
+   "item": "cheek",
+   "answer": "The baby has round cheeks."
+  },
+  {
+   "id": "L5U10-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He has a cut on his chin.",
+   "item": "chin",
+   "answer": "He has a cut on his chin."
+  },
+  {
+   "id": "L5U10-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum touched my forehead. It was hot.",
+   "item": "forehead",
+   "answer": "Mum touched my forehead. It was hot."
+  },
+  {
+   "id": "L5U10-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has thick eyebrows.",
+   "item": "eyebrow",
+   "answer": "She has thick eyebrows."
+  },
+  {
+   "id": "L5U10-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad carried me on his shoulders.",
+   "item": "shoulder",
+   "answer": "Dad carried me on his shoulders."
+  },
+  {
+   "id": "L5U10-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't put your elbows on the table.",
+   "item": "elbow",
+   "answer": "Don't put your elbows on the table."
+  },
+  {
+   "id": "L5U10-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wear a watch on my wrist.",
+   "item": "wrist",
+   "answer": "I wear a watch on my wrist."
+  },
+  {
+   "id": "L5U10-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Give me a thumbs up!",
+   "item": "thumb",
+   "answer": "Give me a thumbs up!"
+  },
+  {
+   "id": "L5U10-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have ten toes.",
+   "item": "toe",
+   "answer": "I have ten toes."
+  },
+  {
+   "id": "L5U10-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hurt my ankle in the football match.",
+   "item": "ankle",
+   "answer": "I hurt my ankle in the football match."
+  },
+  {
+   "id": "L5U10-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put your hand on your chest.",
+   "item": "chest",
+   "answer": "Put your hand on your chest."
+  },
+  {
+   "id": "L5U10-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Giraffes have very long necks.",
+   "item": "neck",
+   "answer": "Giraffes have very long necks."
+  },
+  {
+   "id": "L5U10-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your stomach helps you digest food.",
+   "item": "digest",
+   "answer": "Your stomach helps you digest food."
+  },
+  {
+   "id": "L5U10-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We need oxygen to live.",
+   "item": "oxygen",
+   "answer": "We need oxygen to live."
+  },
+  {
+   "id": "L5U10-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The heart pumps blood.",
+   "item": "pump",
+   "answer": "The heart pumps blood."
+  },
+  {
+   "id": "L5U10-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The nurse checked my pulse.",
+   "item": "pulse",
+   "answer": "The nurse checked my pulse."
+  },
+  {
+   "id": "L5U10-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Eggs and fish have a lot of protein.",
+   "item": "protein",
+   "answer": "Eggs and fish have a lot of protein."
+  },
+  {
+   "id": "L5U10-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You need strength to climb a rope.",
+   "item": "strength",
+   "answer": "You need strength to climb a rope."
+  },
+  {
+   "id": "L5U10-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Keep your fingernails short and clean.",
+   "item": "fingernail",
+   "answer": "Keep your fingernails short and clean."
+  },
+  {
+   "id": "L5U10-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your heartbeat is fast after running.",
+   "item": "heartbeat",
+   "answer": "Your heartbeat is fast after running."
+  },
+  {
+   "id": "L5U10-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The brain controls everything we do.",
+   "item": "control",
+   "answer": "The brain controls everything we do."
+  },
+  {
+   "id": "L5U10-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nerves send signals to the brain.",
+   "item": "signal",
+   "answer": "Nerves send signals to the brain."
+  },
+  {
+   "id": "L5U10-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sleep helps your body repair itself.",
+   "item": "repair",
+   "answer": "Sleep helps your body repair itself."
+  },
+  {
+   "id": "L5U10-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Warm up to avoid injuries.",
+   "item": "injury",
+   "answer": "Warm up to avoid injuries."
+  },
+  {
+   "id": "L5U10-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We blink many times every minute.",
+   "item": "blink",
+   "answer": "We blink many times every minute."
+  },
+  {
+   "id": "L5U10-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I yawn when I'm tired.",
+   "item": "yawn",
+   "answer": "I yawn when I'm tired."
+  },
+  {
+   "id": "L5U10-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Drink some water to stop your hiccups.",
+   "item": "hiccup",
+   "answer": "Drink some water to stop your hiccups."
+  },
+  {
+   "id": "L5U10-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I shiver when I'm cold.",
+   "item": "shiver",
+   "answer": "I shiver when I'm cold."
+  },
+  {
+   "id": "L5U10-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your teeth are in your jaw.",
+   "item": "jaw",
+   "answer": "Your teeth are in your jaw."
+  },
+  {
+   "id": "L5U10-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put your hands on your hips.",
+   "item": "hip",
+   "answer": "Put your hands on your hips."
+  },
+  {
+   "id": "L5U10-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Exercise makes your muscles strong.",
+   "answer": "Exercise makes your muscles strong."
+  },
+  {
+   "id": "L5U10-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Exercise makes your bones strong.",
+   "answer": "Exercise makes your bones strong."
+  },
+  {
+   "id": "L5U10-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Exercise makes your heart strong.",
+   "answer": "Exercise makes your heart strong."
+  },
+  {
+   "id": "L5U10-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hurt my ankle.",
+   "answer": "I hurt my ankle."
+  },
+  {
+   "id": "L5U10-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hurt my wrist.",
+   "answer": "I hurt my wrist."
+  },
+  {
+   "id": "L5U10-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hurt my elbow.",
+   "answer": "I hurt my elbow."
+  },
+  {
+   "id": "L5U10-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The heart is an important organ.",
+   "answer": "The heart is an important organ."
+  },
+  {
+   "id": "L5U10-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The brain is an important organ.",
+   "answer": "The brain is an important organ."
+  },
+  {
+   "id": "L5U10-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The stomach is an important organ.",
+   "answer": "The stomach is an important organ."
+  },
+  {
+   "id": "L5U10-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Bi, why does my heart beat fast after running?",
+   "answer": "Your muscles need more oxygen, so your heart pumps faster."
+  },
+  {
+   "id": "L5U10-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "And why do I breathe fast too?",
+   "answer": "Your lungs take in more air to get more oxygen."
+  },
+  {
+   "id": "L5U10-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What happened?",
+   "answer": "I fell and hurt my ankle."
+  },
+  {
+   "id": "L5U10-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can you move your toes?",
+   "answer": "Yes, but it's painful."
+  },
+  {
+   "id": "L5U10-Q105",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sit down and put some ice on it. Did you warm up?",
+   "answer": "No, I forgot. Next time I will!"
+  },
+  {
+   "id": "L5U10-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lungs",
+   "options": [
+    "tongue",
+    "lungs",
+    "bone"
+   ],
+   "answer": "lungs"
+  },
+  {
+   "id": "L5U10-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bone",
+   "options": [
+    "lungs",
+    "tongue",
+    "bone"
+   ],
+   "answer": "bone"
+  },
+  {
+   "id": "L5U10-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tongue",
+   "options": [
+    "bone",
+    "lungs",
+    "tongue"
+   ],
+   "answer": "tongue"
+  },
+  {
+   "id": "L5U10-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sleep is important for your ___.",
+   "item": "health",
+   "options": [
+    "health",
+    "pump",
+    "cheek"
+   ],
+   "answer": "health"
+  },
+  {
+   "id": "L5U10-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your ___ controls your body.",
+   "item": "brain",
+   "options": [
+    "strength",
+    "shiver",
+    "brain"
+   ],
+   "answer": "brain"
+  },
+  {
+   "id": "L5U10-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ help us breathe.",
+   "item": "lungs",
+   "options": [
+    "strength",
+    "lungs",
+    "pump"
+   ],
+   "answer": "lungs"
+  },
+  {
+   "id": "L5U10-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Milk helps to make your ___ strong.",
+   "item": "bone",
+   "options": [
+    "bones",
+    "hearings",
+    "eyebrows"
+   ],
+   "answer": "bones"
+  },
+  {
+   "id": "L5U10-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Exercise makes your ___ strong.",
+   "item": "muscle",
+   "options": [
+    "muscles",
+    "hearings",
+    "blinks"
+   ],
+   "answer": "muscles"
+  },
+  {
+   "id": "L5U10-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sunscreen protects your ___.",
+   "item": "skin",
+   "options": [
+    "repair",
+    "skin",
+    "control"
+   ],
+   "answer": "skin"
+  },
+  {
+   "id": "L5U10-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your heart pumps ___ around your body.",
+   "item": "blood",
+   "options": [
+    "neck",
+    "skeleton",
+    "blood"
+   ],
+   "answer": "blood"
+  },
+  {
+   "id": "L5U10-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are over two hundred bones in your ___.",
+   "item": "skeleton",
+   "options": [
+    "pump",
+    "skeleton",
+    "eyebrow"
+   ],
+   "answer": "skeleton"
+  },
+  {
+   "id": "L5U10-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The heart is an important ___.",
+   "item": "organ",
+   "options": [
+    "signal",
+    "organ",
+    "forehead"
+   ],
+   "answer": "organ"
+  },
+  {
+   "id": "L5U10-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have five ___.",
+   "item": "sense",
+   "options": [
+    "necks",
+    "cheeks",
+    "senses"
+   ],
+   "answer": "senses"
+  },
+  {
+   "id": "L5U10-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Owls have very good ___.",
+   "item": "sight",
+   "options": [
+    "sight",
+    "chest",
+    "neck"
+   ],
+   "answer": "sight"
+  },
+  {
+   "id": "L5U10-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dogs have excellent ___.",
+   "item": "hearing",
+   "options": [
+    "fingernail",
+    "hearing",
+    "hip"
+   ],
+   "answer": "hearing"
+  },
+  {
+   "id": "L5U10-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We taste food with our ___.",
+   "item": "tongue",
+   "options": [
+    "toe",
+    "tongue",
+    "blood"
+   ],
+   "answer": "tongue"
+  },
+  {
+   "id": "L5U10-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put some cream on your ___.",
+   "item": "lips",
+   "options": [
+    "sight",
+    "cheek",
+    "lips"
+   ],
+   "answer": "lips"
+  },
+  {
+   "id": "L5U10-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby has round ___.",
+   "item": "cheek",
+   "options": [
+    "cheeks",
+    "tongues",
+    "bones"
+   ],
+   "answer": "cheeks"
+  },
+  {
+   "id": "L5U10-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He has a cut on his ___.",
+   "item": "chin",
+   "options": [
+    "eyebrow",
+    "chin",
+    "strength"
+   ],
+   "answer": "chin"
+  },
+  {
+   "id": "L5U10-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum touched my ___. It was hot.",
+   "item": "forehead",
+   "options": [
+    "strength",
+    "signal",
+    "forehead"
+   ],
+   "answer": "forehead"
+  },
+  {
+   "id": "L5U10-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has thick ___.",
+   "item": "eyebrow",
+   "options": [
+    "bones",
+    "tongues",
+    "eyebrows"
+   ],
+   "answer": "eyebrows"
+  },
+  {
+   "id": "L5U10-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad carried me on his ___.",
+   "item": "shoulder",
+   "options": [
+    "eyebrows",
+    "shivers",
+    "shoulders"
+   ],
+   "answer": "shoulders"
+  },
+  {
+   "id": "L5U10-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't put your ___ on the table.",
+   "item": "elbow",
+   "options": [
+    "elbows",
+    "signals",
+    "digests"
+   ],
+   "answer": "elbows"
+  },
+  {
+   "id": "L5U10-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wear a watch on my ___.",
+   "item": "wrist",
+   "options": [
+    "wrist",
+    "oxygen",
+    "yawn"
+   ],
+   "answer": "wrist"
+  },
+  {
+   "id": "L5U10-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Give me a ___ up!",
+   "item": "thumb",
+   "options": [
+    "thumbs",
+    "organs",
+    "toes"
+   ],
+   "answer": "thumbs"
+  },
+  {
+   "id": "L5U10-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ten ___.",
+   "item": "toe",
+   "options": [
+    "toes",
+    "tongues",
+    "lungses"
+   ],
+   "answer": "toes"
+  },
+  {
+   "id": "L5U10-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I hurt my ___ in the football match.",
+   "item": "ankle",
+   "options": [
+    "neck",
+    "ankle",
+    "sight"
+   ],
+   "answer": "ankle"
+  },
+  {
+   "id": "L5U10-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put your hand on your ___.",
+   "item": "chest",
+   "options": [
+    "eyebrow",
+    "sight",
+    "chest"
+   ],
+   "answer": "chest"
+  },
+  {
+   "id": "L5U10-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Giraffes have very long ___.",
+   "item": "neck",
+   "options": [
+    "lungses",
+    "necks",
+    "bones"
+   ],
+   "answer": "necks"
+  },
+  {
+   "id": "L5U10-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your stomach helps you ___ food.",
+   "item": "digest",
+   "options": [
+    "health",
+    "neck",
+    "digest"
+   ],
+   "answer": "digest"
+  },
+  {
+   "id": "L5U10-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We need ___ to live.",
+   "item": "oxygen",
+   "options": [
+    "strength",
+    "chest",
+    "oxygen"
+   ],
+   "answer": "oxygen"
+  },
+  {
+   "id": "L5U10-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The heart ___ blood.",
+   "item": "pump",
+   "options": [
+    "lungses",
+    "pumps",
+    "bones"
+   ],
+   "answer": "pumps"
+  },
+  {
+   "id": "L5U10-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The nurse checked my ___.",
+   "item": "pulse",
+   "options": [
+    "toe",
+    "pulse",
+    "eyebrow"
+   ],
+   "answer": "pulse"
+  },
+  {
+   "id": "L5U10-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Eggs and fish have a lot of ___.",
+   "item": "protein",
+   "options": [
+    "strength",
+    "blink",
+    "protein"
+   ],
+   "answer": "protein"
+  },
+  {
+   "id": "L5U10-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You need ___ to climb a rope.",
+   "item": "strength",
+   "options": [
+    "strength",
+    "hip",
+    "ankle"
+   ],
+   "answer": "strength"
+  },
+  {
+   "id": "L5U10-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Keep your ___ short and clean.",
+   "item": "fingernail",
+   "options": [
+    "fingernails",
+    "strengths",
+    "controls"
+   ],
+   "answer": "fingernails"
+  },
+  {
+   "id": "L5U10-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your ___ is fast after running.",
+   "item": "heartbeat",
+   "options": [
+    "heartbeat",
+    "strength",
+    "shiver"
+   ],
+   "answer": "heartbeat"
+  },
+  {
+   "id": "L5U10-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The brain ___ everything we do.",
+   "item": "control",
+   "options": [
+    "controls",
+    "lungses",
+    "bones"
+   ],
+   "answer": "controls"
+  },
+  {
+   "id": "L5U10-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Nerves send ___ to the brain.",
+   "item": "signal",
+   "options": [
+    "tongues",
+    "signals",
+    "bones"
+   ],
+   "answer": "signals"
+  },
+  {
+   "id": "L5U10-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sleep helps your body ___ itself.",
+   "item": "repair",
+   "options": [
+    "oxygen",
+    "repair",
+    "strength"
+   ],
+   "answer": "repair"
+  },
+  {
+   "id": "L5U10-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ many times every minute.",
+   "item": "blink",
+   "options": [
+    "elbow",
+    "blink",
+    "ankle"
+   ],
+   "answer": "blink"
+  },
+  {
+   "id": "L5U10-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ when I'm tired.",
+   "item": "yawn",
+   "options": [
+    "toe",
+    "strength",
+    "yawn"
+   ],
+   "answer": "yawn"
+  },
+  {
+   "id": "L5U10-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Drink some water to stop your ___.",
+   "item": "hiccup",
+   "options": [
+    "hiccups",
+    "oxygens",
+    "hearings"
+   ],
+   "answer": "hiccups"
+  },
+  {
+   "id": "L5U10-Q149",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ when I'm cold.",
+   "item": "shiver",
+   "options": [
+    "injury",
+    "tongue",
+    "shiver"
+   ],
+   "answer": "shiver"
+  },
+  {
+   "id": "L5U10-Q150",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your teeth are in your ___.",
+   "item": "jaw",
+   "options": [
+    "sight",
+    "toe",
+    "jaw"
+   ],
+   "answer": "jaw"
+  },
+  {
+   "id": "L5U10-Q151",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put your hands on your ___.",
+   "item": "hip",
+   "options": [
+    "pumps",
+    "shivers",
+    "hips"
+   ],
+   "answer": "hips"
+  },
+  {
+   "id": "L5U10-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Our lungs help us breathe.",
+   "item": "lungs",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U10-Q153",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Milk helps to make your bones strong.",
+   "item": "tongue",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U10-Q154",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We taste food with our tongue.",
+   "item": "tongue",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U10-Q155",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U10-R01",
+   "text_en": "What controls everything you do?",
+   "options": [
+    "Your heart.",
+    "Your brain.",
+    "Your lungs."
+   ],
+   "answer": "Your brain."
+  },
+  {
+   "id": "L5U10-Q156",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U10-R01",
+   "text_en": "What does your blood carry?",
+   "options": [
+    "Muscles.",
+    "Bones.",
+    "Oxygen."
+   ],
+   "answer": "Oxygen."
+  },
+  {
+   "id": "L5U10-Q157",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U10-R01",
+   "text_en": "How many bones are in your skeleton?",
+   "options": [
+    "About fifty.",
+    "Over two thousand.",
+    "Over two hundred."
+   ],
+   "answer": "Over two hundred."
+  },
+  {
+   "id": "L5U10-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "health",
+   "item": "health",
+   "answer": "health"
+  },
+  {
+   "id": "L5U10-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "brain",
+   "item": "brain",
+   "answer": "brain"
+  },
+  {
+   "id": "L5U10-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "lungs",
+   "item": "lungs",
+   "answer": "lungs"
+  },
+  {
+   "id": "L5U10-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bone",
+   "item": "bone",
+   "answer": "bone"
+  },
+  {
+   "id": "L5U10-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "muscle",
+   "item": "muscle",
+   "answer": "muscle"
+  },
+  {
+   "id": "L5U10-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "skin",
+   "item": "skin",
+   "answer": "skin"
+  },
+  {
+   "id": "L5U10-Q164",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "blood",
+   "item": "blood",
+   "answer": "blood"
+  },
+  {
+   "id": "L5U10-Q165",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "skeleton",
+   "item": "skeleton",
+   "answer": "skeleton"
+  },
+  {
+   "id": "L5U10-Q166",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Sleep is important for your health.",
+   "answer": "Sleep is important for your health."
+  },
+  {
+   "id": "L5U10-Q167",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Your brain controls your body.",
+   "answer": "Your brain controls your body."
+  },
+  {
+   "id": "L5U10-Q168",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Our lungs help us breathe.",
+   "answer": "Our lungs help us breathe."
+  }
+ ]
+}

@@ -1,0 +1,3193 @@
+{
+ "id": "L5U11",
+ "level": 5,
+ "unit": 11,
+ "topic_en": "Money and saving",
+ "topic_vi": "Tiền bạc và tiết kiệm",
+ "can_do_vi": [
+  "Nói về cách tiêu và tiết kiệm tiền",
+  "So sánh giá cả và chọn mua hợp lý"
+ ],
+ "grammar_note_vi": "So sánh bằng dùng \"as ... as\": \"This bag is as cheap as that one.\" (rẻ bằng). Phủ định: \"not as ... as\" (không ... bằng): \"My bike is not as fast as yours.\"",
+ "items": [
+  {
+   "id": "L5U11-W01",
+   "type": "word",
+   "en": "budget",
+   "vi": "ngân sách",
+   "ipa": "/ˈbʌdʒɪt/",
+   "syllables": [
+    "bud",
+    "get"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4CA"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My budget for the party is fifty thousand dong.",
+   "example_vi": "Ngân sách cho bữa tiệc của tớ là năm mươi nghìn đồng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W02",
+   "type": "phrase",
+   "en": "piggy bank",
+   "vi": "lợn tiết kiệm",
+   "ipa": "/ˈpɪɡi bæŋk/",
+   "syllables": [
+    "pig",
+    "gy",
+    "bank"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F437"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I put my coins in my piggy bank.",
+   "example_vi": "Tớ bỏ tiền xu vào lợn tiết kiệm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W03",
+   "type": "word",
+   "en": "savings",
+   "vi": "tiền tiết kiệm",
+   "ipa": "/ˈseɪvɪŋz/",
+   "syllables": [
+    "sav",
+    "ings"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4B0"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I used my savings to buy a bike.",
+   "example_vi": "Tớ dùng tiền tiết kiệm để mua xe đạp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W04",
+   "type": "word",
+   "en": "purse",
+   "vi": "ví (nữ)",
+   "ipa": "/pʌrs/",
+   "syllables": [
+    "purse"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F45B"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Mum's purse is in her bag.",
+   "example_vi": "Ví của mẹ ở trong túi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W05",
+   "type": "word",
+   "en": "banknote",
+   "vi": "tờ tiền giấy",
+   "ipa": "/ˈbæŋkˌnoʊt/",
+   "syllables": [
+    "ban",
+    "knote"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4B5"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This banknote is worth fifty thousand dong.",
+   "example_vi": "Tờ tiền này mệnh giá năm mươi nghìn đồng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W06",
+   "type": "word",
+   "en": "bargain",
+   "vi": "món hời",
+   "ipa": "/ˈbɑrɡɪn/",
+   "syllables": [
+    "bar",
+    "gain"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This jacket was a bargain!",
+   "example_vi": "Chiếc áo khoác này mua được giá hời!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W07",
+   "type": "word",
+   "en": "value",
+   "vi": "giá trị",
+   "ipa": "/ˈvælju/",
+   "syllables": [
+    "val",
+    "ue"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Friendship has great value.",
+   "example_vi": "Tình bạn có giá trị lớn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W08",
+   "type": "word",
+   "en": "worth",
+   "vi": "đáng giá",
+   "ipa": "/wʌrθ/",
+   "syllables": [
+    "worth"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4B2"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This old coin is worth a lot of money.",
+   "example_vi": "Đồng xu cổ này đáng giá rất nhiều tiền.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W09",
+   "type": "word",
+   "en": "afford",
+   "vi": "có đủ tiền (mua)",
+   "ipa": "/əˈfɔrd/",
+   "syllables": [
+    "af",
+    "ford"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I can't afford a new console.",
+   "example_vi": "Tớ không đủ tiền mua máy chơi game mới.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W10",
+   "type": "word",
+   "en": "deliver",
+   "vi": "giao hàng",
+   "ipa": "/dɪˈlɪvər/",
+   "syllables": [
+    "de",
+    "liv",
+    "er"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F69A"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The shop delivers food to our house.",
+   "example_vi": "Cửa hàng giao đồ ăn đến nhà tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W11",
+   "type": "word",
+   "en": "delivery",
+   "vi": "sự giao hàng",
+   "ipa": "/dɪˈlɪvəri/",
+   "syllables": [
+    "delivery"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The delivery will arrive tomorrow.",
+   "example_vi": "Hàng sẽ được giao vào ngày mai.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W12",
+   "type": "word",
+   "en": "refund",
+   "vi": "hoàn tiền",
+   "ipa": "/ˈriˌfənd/",
+   "syllables": [
+    "re",
+    "fund"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "21A9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The toy was broken, so we got a refund.",
+   "example_vi": "Đồ chơi bị hỏng nên nhà tớ được hoàn tiền.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W13",
+   "type": "word",
+   "en": "owe",
+   "vi": "nợ",
+   "ipa": "/oʊ/",
+   "syllables": [
+    "owe"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I owe you five thousand dong.",
+   "example_vi": "Tớ nợ cậu năm nghìn đồng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W14",
+   "type": "word",
+   "en": "necessary",
+   "vi": "cần thiết",
+   "ipa": "/ˈnɛsəˌsɛri/",
+   "syllables": [
+    "necessary"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Is it necessary to buy a new bag?",
+   "example_vi": "Có cần thiết mua túi mới không?",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W15",
+   "type": "word",
+   "en": "luxury",
+   "vi": "thứ xa xỉ",
+   "ipa": "/ˈlʌɡʒəri/",
+   "syllables": [
+    "lux",
+    "u",
+    "ry"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "A big car is a luxury.",
+   "example_vi": "Ô tô to là thứ xa xỉ.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W16",
+   "type": "word",
+   "en": "reward",
+   "vi": "phần thưởng",
+   "ipa": "/rɪˈwɔrd/",
+   "syllables": [
+    "re",
+    "ward"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I got a reward for helping my neighbour.",
+   "example_vi": "Tớ được thưởng vì giúp hàng xóm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W17",
+   "type": "word",
+   "en": "gift",
+   "vi": "món quà",
+   "ipa": "/ɡɪft/",
+   "syllables": [
+    "gift"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This book is a gift from my aunt.",
+   "example_vi": "Cuốn sách này là quà của dì.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W18",
+   "type": "word",
+   "en": "account",
+   "vi": "tài khoản",
+   "ipa": "/əˈkaʊnt/",
+   "syllables": [
+    "ac",
+    "count"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3E6"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My mum opened a bank account for me.",
+   "example_vi": "Mẹ mở cho tớ một tài khoản ngân hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W19",
+   "type": "word",
+   "en": "ATM",
+   "vi": "cây rút tiền",
+   "ipa": "/ˈeɪˌtiˈɛm/",
+   "syllables": [
+    "ATM"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3E7"
+   },
+   "picturable": true,
+   "cat": "L5U11",
+   "example_en": "Dad took money from the ATM.",
+   "example_vi": "Bố rút tiền ở cây ATM.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W20",
+   "type": "word",
+   "en": "salary",
+   "vi": "tiền lương",
+   "ipa": "/ˈsæləri/",
+   "syllables": [
+    "salary"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4B5"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My dad gets his salary every month.",
+   "example_vi": "Bố tớ nhận lương hằng tháng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W21",
+   "type": "word",
+   "en": "business",
+   "vi": "việc kinh doanh",
+   "ipa": "/ˈbɪznɪs/",
+   "syllables": [
+    "busi",
+    "ness"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4BC"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My aunt has a small business.",
+   "example_vi": "Dì tớ có một cửa hàng kinh doanh nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W22",
+   "type": "word",
+   "en": "company",
+   "vi": "công ty",
+   "ipa": "/ˈkʌmpəˌni/",
+   "syllables": [
+    "com",
+    "pa",
+    "ny"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3E2"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My mum works for a big company.",
+   "example_vi": "Mẹ tớ làm cho một công ty lớn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W23",
+   "type": "word",
+   "en": "product",
+   "vi": "sản phẩm",
+   "ipa": "/ˈprɑdəkt/",
+   "syllables": [
+    "prod",
+    "uct"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This company makes eco-friendly products.",
+   "example_vi": "Công ty này làm sản phẩm thân thiện với môi trường.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W24",
+   "type": "word",
+   "en": "brand",
+   "vi": "nhãn hiệu",
+   "ipa": "/brænd/",
+   "syllables": [
+    "brand"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "This brand is very expensive.",
+   "example_vi": "Nhãn hiệu này rất đắt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W25",
+   "type": "word",
+   "en": "quality",
+   "vi": "chất lượng",
+   "ipa": "/kˈwɑləti/",
+   "syllables": [
+    "qual",
+    "i",
+    "ty"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "These shoes are good quality.",
+   "example_vi": "Đôi giày này chất lượng tốt.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W26",
+   "type": "word",
+   "en": "second-hand",
+   "vi": "đồ cũ",
+   "ipa": "/ˈsɛkənd hænd/",
+   "syllables": [
+    "second-hand"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I bought a second-hand bike.",
+   "example_vi": "Tớ mua một chiếc xe đạp cũ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W27",
+   "type": "word",
+   "en": "swap",
+   "vi": "đổi",
+   "ipa": "/swɑp/",
+   "syllables": [
+    "swap"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Let's swap stickers!",
+   "example_vi": "Mình đổi hình dán nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W28",
+   "type": "phrase",
+   "en": "price tag",
+   "vi": "nhãn giá",
+   "ipa": "/praɪs tæɡ/",
+   "syllables": [
+    "price",
+    "tag"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Look at the price tag before you buy.",
+   "example_vi": "Xem nhãn giá trước khi mua.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W29",
+   "type": "word",
+   "en": "total",
+   "vi": "tổng cộng",
+   "ipa": "/ˈtoʊtəl/",
+   "syllables": [
+    "to",
+    "tal"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The total is ninety thousand dong.",
+   "example_vi": "Tổng cộng là chín mươi nghìn đồng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W30",
+   "type": "word",
+   "en": "double",
+   "vi": "gấp đôi",
+   "ipa": "/ˈdʌbəl/",
+   "syllables": [
+    "dou",
+    "ble"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "270C-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The price is double in the city.",
+   "example_vi": "Ở thành phố giá đắt gấp đôi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W31",
+   "type": "word",
+   "en": "calculate",
+   "vi": "tính toán",
+   "ipa": "/ˈkælkjəˌleɪt/",
+   "syllables": [
+    "cal",
+    "cu",
+    "late"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9EE"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Can you calculate the total?",
+   "example_vi": "Cậu tính được tổng không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W32",
+   "type": "phrase",
+   "en": "shopping list",
+   "vi": "danh sách mua sắm",
+   "ipa": "/ˈʃɑpɪŋ lɪst/",
+   "syllables": [
+    "shop",
+    "ping",
+    "list"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Mum wrote a shopping list.",
+   "example_vi": "Mẹ viết danh sách đồ cần mua.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W33",
+   "type": "word",
+   "en": "checkout",
+   "vi": "quầy thanh toán",
+   "ipa": "/ˈtʃɛˌkaʊt/",
+   "syllables": [
+    "check",
+    "out"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "We paid at the checkout.",
+   "example_vi": "Nhà tớ trả tiền ở quầy thanh toán.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W34",
+   "type": "word",
+   "en": "aisle",
+   "vi": "lối đi giữa các kệ",
+   "ipa": "/aɪʌl/",
+   "syllables": [
+    "aisle"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The milk is in aisle five.",
+   "example_vi": "Sữa ở lối đi số năm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W35",
+   "type": "word",
+   "en": "dollar",
+   "vi": "đô la",
+   "ipa": "/ˈdɔlər/",
+   "syllables": [
+    "dol",
+    "lar"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4B2"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "My uncle paid ten dollars for the book.",
+   "example_vi": "Chú tớ trả mười đô la cho cuốn sách.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W36",
+   "type": "word",
+   "en": "rent",
+   "vi": "thuê",
+   "ipa": "/rɛnt/",
+   "syllables": [
+    "rent"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "We rented bikes at the beach.",
+   "example_vi": "Nhà tớ thuê xe đạp ở bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W37",
+   "type": "word",
+   "en": "extra",
+   "vi": "thêm",
+   "ipa": "/ˈɛkstrə/",
+   "syllables": [
+    "ex",
+    "tra"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Do you have extra money?",
+   "example_vi": "Cậu có thêm tiền không?",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W38",
+   "type": "word",
+   "en": "stall",
+   "vi": "quầy hàng",
+   "ipa": "/stɔl/",
+   "syllables": [
+    "stall"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3EA"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "We bought fruit from a stall at the market.",
+   "example_vi": "Nhà tớ mua hoa quả ở một quầy hàng ngoài chợ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W39",
+   "type": "word",
+   "en": "seller",
+   "vi": "người bán",
+   "ipa": "/ˈsɛlər/",
+   "syllables": [
+    "sell",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9D1-200D-1F4BC"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The seller gave me a discount.",
+   "example_vi": "Người bán giảm giá cho tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W40",
+   "type": "word",
+   "en": "buyer",
+   "vi": "người mua",
+   "ipa": "/baɪʌr/",
+   "syllables": [
+    "buyer"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "The buyer paid in cash.",
+   "example_vi": "Người mua trả bằng tiền mặt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W41",
+   "type": "word",
+   "en": "deal",
+   "vi": "thoả thuận, món hời",
+   "ipa": "/dil/",
+   "syllables": [
+    "deal"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Two for the price of one is a good deal.",
+   "example_vi": "Mua một tặng một là món hời.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W42",
+   "type": "word",
+   "en": "spare",
+   "vi": "dư, thừa",
+   "ipa": "/spɛr/",
+   "syllables": [
+    "spare"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FA99"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Do you have a spare pencil?",
+   "example_vi": "Cậu có bút chì thừa không?",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W43",
+   "type": "phrase",
+   "en": "save up",
+   "vi": "để dành",
+   "ipa": "/seɪv ʌp/",
+   "syllables": [
+    "save",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F437"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "I'm saving up for a new book.",
+   "example_vi": "Tớ đang để dành tiền mua sách mới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U11-W44",
+   "type": "word",
+   "en": "exchange",
+   "vi": "đổi, trao đổi",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "syllables": [
+    "ex",
+    "change"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L5U11",
+   "example_en": "Can I exchange this shirt for a bigger one?",
+   "example_vi": "Tôi đổi áo này lấy cỡ to hơn được không?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U11-P01",
+   "en": "I'm saving up for {x}.",
+   "vi": "Tớ đang để dành tiền mua {x}.",
+   "slots": {
+    "x": [
+     "a new bike",
+     "a book",
+     "a present for Mum",
+     "a football"
+    ]
+   }
+  },
+  {
+   "id": "L5U11-P02",
+   "en": "This {x} is as cheap as that one.",
+   "vi": "{x} này rẻ bằng cái kia.",
+   "slots": {
+    "x": [
+     "bag",
+     "hat",
+     "pen",
+     "ruler"
+    ]
+   }
+  },
+  {
+   "id": "L5U11-P03",
+   "en": "I can't afford {x}.",
+   "vi": "Tớ không đủ tiền mua {x}.",
+   "slots": {
+    "x": [
+     "a new console",
+     "an expensive bike",
+     "a tablet"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U11-D01",
+   "title_vi": "Để dành tiền",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you going to buy with your pocket money?",
+     "vi": "Cậu định mua gì bằng tiền tiêu vặt?"
+    },
+    {
+     "role": "Kid",
+     "en": "Nothing yet. I'm saving up for a new bike.",
+     "vi": "Chưa mua gì cả. Tớ đang để dành mua xe đạp mới."
+    },
+    {
+     "role": "Bi",
+     "en": "How much is it?",
+     "vi": "Nó giá bao nhiêu?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's expensive, but I can buy a second-hand one.",
+     "vi": "Nó đắt, nhưng tớ có thể mua xe cũ."
+    },
+    {
+     "role": "Bi",
+     "en": "Good idea! A second-hand bike is a bargain.",
+     "vi": "Ý hay đấy! Xe cũ là món hời."
+    },
+    {
+     "role": "Kid",
+     "en": "And I'll keep my savings in my piggy bank.",
+     "vi": "Và tớ sẽ giữ tiền tiết kiệm trong lợn đất."
+    }
+   ]
+  },
+  {
+   "id": "L5U11-D02",
+   "title_vi": "Ở chợ",
+   "roles": [
+    "Seller",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "How much are these mangoes?",
+     "vi": "Xoài này bao nhiêu tiền ạ?"
+    },
+    {
+     "role": "Seller",
+     "en": "Forty thousand dong a kilo.",
+     "vi": "Bốn mươi nghìn một cân."
+    },
+    {
+     "role": "Kid",
+     "en": "They're cheaper at the other stall.",
+     "vi": "Ở quầy kia rẻ hơn ạ."
+    },
+    {
+     "role": "Seller",
+     "en": "But mine are better quality!",
+     "vi": "Nhưng xoài của cô chất lượng hơn!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. Two kilos, please. What's the total?",
+     "vi": "Vâng. Cho cháu hai cân. Tổng cộng bao nhiêu ạ?"
+    },
+    {
+     "role": "Seller",
+     "en": "Eighty thousand dong.",
+     "vi": "Tám mươi nghìn đồng."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "budget"
+  },
+  {
+   "type": "dictate_word",
+   "target": "savings"
+  },
+  {
+   "type": "dictate_word",
+   "target": "purse"
+  },
+  {
+   "type": "dictate_word",
+   "target": "banknote"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bargain"
+  },
+  {
+   "type": "dictate_word",
+   "target": "value"
+  },
+  {
+   "type": "dictate_word",
+   "target": "worth"
+  },
+  {
+   "type": "dictate_word",
+   "target": "afford"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Mum's purse is in her bag."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "This banknote is worth fifty thousand dong."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "This jacket was a bargain!"
+  },
+  {
+   "type": "write_sentences",
+   "target": "I'm saving up for|I spend my pocket money on|A good way to save money is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U11-R01",
+   "title_en": "Mai's lemonade stall",
+   "text_en": [
+    "Last summer, Mai wanted to buy a new camera, but she couldn't afford it.",
+    "She decided to start a small business.",
+    "She made a lemonade stall in front of her house.",
+    "First, she wrote a budget.",
+    "Lemons, sugar and cups cost thirty thousand dong.",
+    "She sold each cup for five thousand dong.",
+    "On the first day, she sold twenty cups.",
+    "Her neighbours loved her lemonade!",
+    "After four weeks, Mai calculated her savings.",
+    "She had enough money for a second-hand camera.",
+    "She was very proud because she earned the money herself.",
+    "Now she wants to save up for a bike!"
+   ],
+   "questions": [
+    {
+     "q": "Why did Mai start a business?",
+     "options": [
+      "She wanted to buy a camera.",
+      "She was bored.",
+      "Her mum asked her."
+     ],
+     "answer": "She wanted to buy a camera."
+    },
+    {
+     "q": "How much did Mai sell each cup for?",
+     "options": [
+      "Five thousand dong.",
+      "Thirty thousand dong.",
+      "Twenty thousand dong."
+     ],
+     "answer": "Five thousand dong."
+    },
+    {
+     "q": "What did Mai buy in the end?",
+     "options": [
+      "A second-hand camera.",
+      "A new bike.",
+      "Some lemons."
+     ],
+     "answer": "A second-hand camera."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U11-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ATM",
+   "item": "ATM",
+   "options": [
+    "bike",
+    "come",
+    "ATM",
+    "koala"
+   ],
+   "answer": "ATM"
+  },
+  {
+   "id": "L5U11-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "budget",
+   "item": "budget",
+   "options": [
+    "dollar",
+    "brand",
+    "quality",
+    "budget"
+   ],
+   "answer": "budget"
+  },
+  {
+   "id": "L5U11-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "piggy bank",
+   "item": "piggy bank",
+   "options": [
+    "piggy bank",
+    "aisle",
+    "budget",
+    "reward"
+   ],
+   "answer": "piggy bank"
+  },
+  {
+   "id": "L5U11-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "savings",
+   "item": "savings",
+   "options": [
+    "account",
+    "savings",
+    "ATM",
+    "value"
+   ],
+   "answer": "savings"
+  },
+  {
+   "id": "L5U11-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "purse",
+   "item": "purse",
+   "options": [
+    "shopping list",
+    "save up",
+    "purse",
+    "deal"
+   ],
+   "answer": "purse"
+  },
+  {
+   "id": "L5U11-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "banknote",
+   "item": "banknote",
+   "options": [
+    "banknote",
+    "brand",
+    "luxury",
+    "deal"
+   ],
+   "answer": "banknote"
+  },
+  {
+   "id": "L5U11-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bargain",
+   "item": "bargain",
+   "options": [
+    "bargain",
+    "worth",
+    "deliver",
+    "checkout"
+   ],
+   "answer": "bargain"
+  },
+  {
+   "id": "L5U11-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "value",
+   "item": "value",
+   "options": [
+    "stall",
+    "value",
+    "deliver",
+    "calculate"
+   ],
+   "answer": "value"
+  },
+  {
+   "id": "L5U11-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "worth",
+   "item": "worth",
+   "options": [
+    "extra",
+    "checkout",
+    "aisle",
+    "worth"
+   ],
+   "answer": "worth"
+  },
+  {
+   "id": "L5U11-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "afford",
+   "item": "afford",
+   "options": [
+    "afford",
+    "company",
+    "owe",
+    "worth"
+   ],
+   "answer": "afford"
+  },
+  {
+   "id": "L5U11-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "deliver",
+   "item": "deliver",
+   "options": [
+    "deliver",
+    "refund",
+    "necessary",
+    "calculate"
+   ],
+   "answer": "deliver"
+  },
+  {
+   "id": "L5U11-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "delivery",
+   "item": "delivery",
+   "options": [
+    "necessary",
+    "luxury",
+    "delivery",
+    "swap"
+   ],
+   "answer": "delivery"
+  },
+  {
+   "id": "L5U11-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "refund",
+   "item": "refund",
+   "options": [
+    "dollar",
+    "reward",
+    "afford",
+    "refund"
+   ],
+   "answer": "refund"
+  },
+  {
+   "id": "L5U11-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "owe",
+   "item": "owe",
+   "options": [
+    "owe",
+    "necessary",
+    "worth",
+    "refund"
+   ],
+   "answer": "owe"
+  },
+  {
+   "id": "L5U11-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "necessary",
+   "item": "necessary",
+   "options": [
+    "brand",
+    "necessary",
+    "deliver",
+    "checkout"
+   ],
+   "answer": "necessary"
+  },
+  {
+   "id": "L5U11-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "luxury",
+   "item": "luxury",
+   "options": [
+    "deal",
+    "total",
+    "bargain",
+    "luxury"
+   ],
+   "answer": "luxury"
+  },
+  {
+   "id": "L5U11-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reward",
+   "item": "reward",
+   "options": [
+    "shopping list",
+    "reward",
+    "exchange",
+    "value"
+   ],
+   "answer": "reward"
+  },
+  {
+   "id": "L5U11-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gift",
+   "item": "gift",
+   "options": [
+    "aisle",
+    "save up",
+    "gift",
+    "business"
+   ],
+   "answer": "gift"
+  },
+  {
+   "id": "L5U11-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "account",
+   "item": "account",
+   "options": [
+    "business",
+    "salary",
+    "account",
+    "shopping list"
+   ],
+   "answer": "account"
+  },
+  {
+   "id": "L5U11-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "salary",
+   "item": "salary",
+   "options": [
+    "gift",
+    "bargain",
+    "salary",
+    "price tag"
+   ],
+   "answer": "salary"
+  },
+  {
+   "id": "L5U11-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "business",
+   "item": "business",
+   "options": [
+    "swap",
+    "salary",
+    "gift",
+    "business"
+   ],
+   "answer": "business"
+  },
+  {
+   "id": "L5U11-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "company",
+   "item": "company",
+   "options": [
+    "company",
+    "swap",
+    "product",
+    "owe"
+   ],
+   "answer": "company"
+  },
+  {
+   "id": "L5U11-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "product",
+   "item": "product",
+   "options": [
+    "worth",
+    "product",
+    "necessary",
+    "seller"
+   ],
+   "answer": "product"
+  },
+  {
+   "id": "L5U11-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "brand",
+   "item": "brand",
+   "options": [
+    "spare",
+    "worth",
+    "refund",
+    "brand"
+   ],
+   "answer": "brand"
+  },
+  {
+   "id": "L5U11-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "quality",
+   "item": "quality",
+   "options": [
+    "quality",
+    "business",
+    "calculate",
+    "delivery"
+   ],
+   "answer": "quality"
+  },
+  {
+   "id": "L5U11-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "second-hand",
+   "item": "second-hand",
+   "options": [
+    "second-hand",
+    "account",
+    "afford",
+    "business"
+   ],
+   "answer": "second-hand"
+  },
+  {
+   "id": "L5U11-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "swap",
+   "item": "swap",
+   "options": [
+    "swap",
+    "double",
+    "buyer",
+    "piggy bank"
+   ],
+   "answer": "swap"
+  },
+  {
+   "id": "L5U11-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "price tag",
+   "item": "price tag",
+   "options": [
+    "product",
+    "price tag",
+    "second-hand",
+    "shopping list"
+   ],
+   "answer": "price tag"
+  },
+  {
+   "id": "L5U11-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "total",
+   "item": "total",
+   "options": [
+    "exchange",
+    "purse",
+    "checkout",
+    "total"
+   ],
+   "answer": "total"
+  },
+  {
+   "id": "L5U11-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "double",
+   "item": "double",
+   "options": [
+    "swap",
+    "spare",
+    "double",
+    "business"
+   ],
+   "answer": "double"
+  },
+  {
+   "id": "L5U11-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "calculate",
+   "item": "calculate",
+   "options": [
+    "stall",
+    "savings",
+    "calculate",
+    "checkout"
+   ],
+   "answer": "calculate"
+  },
+  {
+   "id": "L5U11-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shopping list",
+   "item": "shopping list",
+   "options": [
+    "shopping list",
+    "necessary",
+    "rent",
+    "extra"
+   ],
+   "answer": "shopping list"
+  },
+  {
+   "id": "L5U11-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "checkout",
+   "item": "checkout",
+   "options": [
+    "checkout",
+    "aisle",
+    "swap",
+    "stall"
+   ],
+   "answer": "checkout"
+  },
+  {
+   "id": "L5U11-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "aisle",
+   "item": "aisle",
+   "options": [
+    "aisle",
+    "checkout",
+    "salary",
+    "product"
+   ],
+   "answer": "aisle"
+  },
+  {
+   "id": "L5U11-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dollar",
+   "item": "dollar",
+   "options": [
+    "stall",
+    "aisle",
+    "dollar",
+    "afford"
+   ],
+   "answer": "dollar"
+  },
+  {
+   "id": "L5U11-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rent",
+   "item": "rent",
+   "options": [
+    "rent",
+    "purse",
+    "banknote",
+    "worth"
+   ],
+   "answer": "rent"
+  },
+  {
+   "id": "L5U11-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "extra",
+   "item": "extra",
+   "options": [
+    "necessary",
+    "extra",
+    "piggy bank",
+    "deal"
+   ],
+   "answer": "extra"
+  },
+  {
+   "id": "L5U11-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stall",
+   "item": "stall",
+   "options": [
+    "total",
+    "seller",
+    "stall",
+    "bargain"
+   ],
+   "answer": "stall"
+  },
+  {
+   "id": "L5U11-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "seller",
+   "item": "seller",
+   "options": [
+    "worth",
+    "owe",
+    "seller",
+    "afford"
+   ],
+   "answer": "seller"
+  },
+  {
+   "id": "L5U11-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "buyer",
+   "item": "buyer",
+   "options": [
+    "rent",
+    "buyer",
+    "ATM",
+    "deliver"
+   ],
+   "answer": "buyer"
+  },
+  {
+   "id": "L5U11-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "deal",
+   "item": "deal",
+   "options": [
+    "reward",
+    "deliver",
+    "deal",
+    "swap"
+   ],
+   "answer": "deal"
+  },
+  {
+   "id": "L5U11-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spare",
+   "item": "spare",
+   "options": [
+    "exchange",
+    "banknote",
+    "spare",
+    "delivery"
+   ],
+   "answer": "spare"
+  },
+  {
+   "id": "L5U11-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "save up",
+   "item": "save up",
+   "options": [
+    "second-hand",
+    "product",
+    "shopping list",
+    "save up"
+   ],
+   "answer": "save up"
+  },
+  {
+   "id": "L5U11-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "exchange",
+   "item": "exchange",
+   "options": [
+    "exchange",
+    "deal",
+    "extra",
+    "shopping list"
+   ],
+   "answer": "exchange"
+  },
+  {
+   "id": "L5U11-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ATM",
+   "answer": "ATM"
+  },
+  {
+   "id": "L5U11-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My budget for the party is fifty thousand dong.",
+   "item": "budget",
+   "answer": "My budget for the party is fifty thousand dong."
+  },
+  {
+   "id": "L5U11-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I put my coins in my piggy bank.",
+   "item": "piggy bank",
+   "answer": "I put my coins in my piggy bank."
+  },
+  {
+   "id": "L5U11-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I used my savings to buy a bike.",
+   "item": "savings",
+   "answer": "I used my savings to buy a bike."
+  },
+  {
+   "id": "L5U11-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum's purse is in her bag.",
+   "item": "purse",
+   "answer": "Mum's purse is in her bag."
+  },
+  {
+   "id": "L5U11-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This banknote is worth fifty thousand dong.",
+   "item": "banknote",
+   "answer": "This banknote is worth fifty thousand dong."
+  },
+  {
+   "id": "L5U11-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This jacket was a bargain!",
+   "item": "bargain",
+   "answer": "This jacket was a bargain!"
+  },
+  {
+   "id": "L5U11-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Friendship has great value.",
+   "item": "value",
+   "answer": "Friendship has great value."
+  },
+  {
+   "id": "L5U11-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This old coin is worth a lot of money.",
+   "item": "worth",
+   "answer": "This old coin is worth a lot of money."
+  },
+  {
+   "id": "L5U11-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't afford a new console.",
+   "item": "afford",
+   "answer": "I can't afford a new console."
+  },
+  {
+   "id": "L5U11-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shop delivers food to our house.",
+   "item": "deliver",
+   "answer": "The shop delivers food to our house."
+  },
+  {
+   "id": "L5U11-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The delivery will arrive tomorrow.",
+   "item": "delivery",
+   "answer": "The delivery will arrive tomorrow."
+  },
+  {
+   "id": "L5U11-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The toy was broken, so we got a refund.",
+   "item": "refund",
+   "answer": "The toy was broken, so we got a refund."
+  },
+  {
+   "id": "L5U11-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I owe you five thousand dong.",
+   "item": "owe",
+   "answer": "I owe you five thousand dong."
+  },
+  {
+   "id": "L5U11-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is it necessary to buy a new bag?",
+   "item": "necessary",
+   "answer": "Is it necessary to buy a new bag?"
+  },
+  {
+   "id": "L5U11-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A big car is a luxury.",
+   "item": "luxury",
+   "answer": "A big car is a luxury."
+  },
+  {
+   "id": "L5U11-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got a reward for helping my neighbour.",
+   "item": "reward",
+   "answer": "I got a reward for helping my neighbour."
+  },
+  {
+   "id": "L5U11-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This book is a gift from my aunt.",
+   "item": "gift",
+   "answer": "This book is a gift from my aunt."
+  },
+  {
+   "id": "L5U11-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum opened a bank account for me.",
+   "item": "account",
+   "answer": "My mum opened a bank account for me."
+  },
+  {
+   "id": "L5U11-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad took money from the ATM.",
+   "item": "ATM",
+   "answer": "Dad took money from the ATM."
+  },
+  {
+   "id": "L5U11-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad gets his salary every month.",
+   "item": "salary",
+   "answer": "My dad gets his salary every month."
+  },
+  {
+   "id": "L5U11-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My aunt has a small business.",
+   "item": "business",
+   "answer": "My aunt has a small business."
+  },
+  {
+   "id": "L5U11-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum works for a big company.",
+   "item": "company",
+   "answer": "My mum works for a big company."
+  },
+  {
+   "id": "L5U11-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This company makes eco-friendly products.",
+   "item": "product",
+   "answer": "This company makes eco-friendly products."
+  },
+  {
+   "id": "L5U11-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This brand is very expensive.",
+   "item": "brand",
+   "answer": "This brand is very expensive."
+  },
+  {
+   "id": "L5U11-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "These shoes are good quality.",
+   "item": "quality",
+   "answer": "These shoes are good quality."
+  },
+  {
+   "id": "L5U11-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I bought a second-hand bike.",
+   "item": "second-hand",
+   "answer": "I bought a second-hand bike."
+  },
+  {
+   "id": "L5U11-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's swap stickers!",
+   "item": "swap",
+   "answer": "Let's swap stickers!"
+  },
+  {
+   "id": "L5U11-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the price tag before you buy.",
+   "item": "price tag",
+   "answer": "Look at the price tag before you buy."
+  },
+  {
+   "id": "L5U11-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The total is ninety thousand dong.",
+   "item": "total",
+   "answer": "The total is ninety thousand dong."
+  },
+  {
+   "id": "L5U11-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The price is double in the city.",
+   "item": "double",
+   "answer": "The price is double in the city."
+  },
+  {
+   "id": "L5U11-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you calculate the total?",
+   "item": "calculate",
+   "answer": "Can you calculate the total?"
+  },
+  {
+   "id": "L5U11-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum wrote a shopping list.",
+   "item": "shopping list",
+   "answer": "Mum wrote a shopping list."
+  },
+  {
+   "id": "L5U11-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We paid at the checkout.",
+   "item": "checkout",
+   "answer": "We paid at the checkout."
+  },
+  {
+   "id": "L5U11-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The milk is in aisle five.",
+   "item": "aisle",
+   "answer": "The milk is in aisle five."
+  },
+  {
+   "id": "L5U11-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle paid ten dollars for the book.",
+   "item": "dollar",
+   "answer": "My uncle paid ten dollars for the book."
+  },
+  {
+   "id": "L5U11-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We rented bikes at the beach.",
+   "item": "rent",
+   "answer": "We rented bikes at the beach."
+  },
+  {
+   "id": "L5U11-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have extra money?",
+   "item": "extra",
+   "answer": "Do you have extra money?"
+  },
+  {
+   "id": "L5U11-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We bought fruit from a stall at the market.",
+   "item": "stall",
+   "answer": "We bought fruit from a stall at the market."
+  },
+  {
+   "id": "L5U11-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The seller gave me a discount.",
+   "item": "seller",
+   "answer": "The seller gave me a discount."
+  },
+  {
+   "id": "L5U11-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The buyer paid in cash.",
+   "item": "buyer",
+   "answer": "The buyer paid in cash."
+  },
+  {
+   "id": "L5U11-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Two for the price of one is a good deal.",
+   "item": "deal",
+   "answer": "Two for the price of one is a good deal."
+  },
+  {
+   "id": "L5U11-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have a spare pencil?",
+   "item": "spare",
+   "answer": "Do you have a spare pencil?"
+  },
+  {
+   "id": "L5U11-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm saving up for a new book.",
+   "item": "save up",
+   "answer": "I'm saving up for a new book."
+  },
+  {
+   "id": "L5U11-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I exchange this shirt for a bigger one?",
+   "item": "exchange",
+   "answer": "Can I exchange this shirt for a bigger one?"
+  },
+  {
+   "id": "L5U11-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm saving up for a new bike.",
+   "answer": "I'm saving up for a new bike."
+  },
+  {
+   "id": "L5U11-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm saving up for a book.",
+   "answer": "I'm saving up for a book."
+  },
+  {
+   "id": "L5U11-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm saving up for a present for Mum.",
+   "answer": "I'm saving up for a present for Mum."
+  },
+  {
+   "id": "L5U11-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This bag is as cheap as that one.",
+   "answer": "This bag is as cheap as that one."
+  },
+  {
+   "id": "L5U11-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This hat is as cheap as that one.",
+   "answer": "This hat is as cheap as that one."
+  },
+  {
+   "id": "L5U11-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This pen is as cheap as that one.",
+   "answer": "This pen is as cheap as that one."
+  },
+  {
+   "id": "L5U11-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't afford a new console.",
+   "answer": "I can't afford a new console."
+  },
+  {
+   "id": "L5U11-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't afford an expensive bike.",
+   "answer": "I can't afford an expensive bike."
+  },
+  {
+   "id": "L5U11-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't afford a tablet.",
+   "answer": "I can't afford a tablet."
+  },
+  {
+   "id": "L5U11-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you going to buy with your pocket money?",
+   "answer": "Nothing yet. I'm saving up for a new bike."
+  },
+  {
+   "id": "L5U11-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How much is it?",
+   "answer": "It's expensive, but I can buy a second-hand one."
+  },
+  {
+   "id": "L5U11-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How much are these mangoes?",
+   "answer": "Forty thousand dong a kilo."
+  },
+  {
+   "id": "L5U11-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay. Two kilos, please. What's the total?",
+   "answer": "Eighty thousand dong."
+  },
+  {
+   "id": "L5U11-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ATM",
+   "options": [
+    "ATM",
+    "thank you",
+    "zip"
+   ],
+   "answer": "ATM"
+  },
+  {
+   "id": "L5U11-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ for the party is fifty thousand dong.",
+   "item": "budget",
+   "options": [
+    "dollar",
+    "budget",
+    "worth"
+   ],
+   "answer": "budget"
+  },
+  {
+   "id": "L5U11-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I used my ___ to buy a bike.",
+   "item": "savings",
+   "options": [
+    "savings",
+    "calculate",
+    "account"
+   ],
+   "answer": "savings"
+  },
+  {
+   "id": "L5U11-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum's ___ is in her bag.",
+   "item": "purse",
+   "options": [
+    "swap",
+    "purse",
+    "spare"
+   ],
+   "answer": "purse"
+  },
+  {
+   "id": "L5U11-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ is worth fifty thousand dong.",
+   "item": "banknote",
+   "options": [
+    "second-hand",
+    "owe",
+    "banknote"
+   ],
+   "answer": "banknote"
+  },
+  {
+   "id": "L5U11-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This jacket was a ___!",
+   "item": "bargain",
+   "options": [
+    "bargain",
+    "double",
+    "company"
+   ],
+   "answer": "bargain"
+  },
+  {
+   "id": "L5U11-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Friendship has great ___.",
+   "item": "value",
+   "options": [
+    "gift",
+    "budget",
+    "value"
+   ],
+   "answer": "value"
+  },
+  {
+   "id": "L5U11-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This old coin is ___ a lot of money.",
+   "item": "worth",
+   "options": [
+    "owe",
+    "total",
+    "worth"
+   ],
+   "answer": "worth"
+  },
+  {
+   "id": "L5U11-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can't ___ a new console.",
+   "item": "afford",
+   "options": [
+    "reward",
+    "spare",
+    "afford"
+   ],
+   "answer": "afford"
+  },
+  {
+   "id": "L5U11-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The shop ___ food to our house.",
+   "item": "deliver",
+   "options": [
+    "delivers",
+    "dollars",
+    "accounts"
+   ],
+   "answer": "delivers"
+  },
+  {
+   "id": "L5U11-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ will arrive tomorrow.",
+   "item": "delivery",
+   "options": [
+    "dollar",
+    "delivery",
+    "second-hand"
+   ],
+   "answer": "delivery"
+  },
+  {
+   "id": "L5U11-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The toy was broken, so we got a ___.",
+   "item": "refund",
+   "options": [
+    "dollar",
+    "double",
+    "refund"
+   ],
+   "answer": "refund"
+  },
+  {
+   "id": "L5U11-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ you five thousand dong.",
+   "item": "owe",
+   "options": [
+    "bargain",
+    "double",
+    "owe"
+   ],
+   "answer": "owe"
+  },
+  {
+   "id": "L5U11-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is it ___ to buy a new bag?",
+   "item": "necessary",
+   "options": [
+    "necessary",
+    "owe",
+    "dollar"
+   ],
+   "answer": "necessary"
+  },
+  {
+   "id": "L5U11-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A big car is a ___.",
+   "item": "luxury",
+   "options": [
+    "luxury",
+    "business",
+    "extra"
+   ],
+   "answer": "luxury"
+  },
+  {
+   "id": "L5U11-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I got a ___ for helping my neighbour.",
+   "item": "reward",
+   "options": [
+    "reward",
+    "quality",
+    "owe"
+   ],
+   "answer": "reward"
+  },
+  {
+   "id": "L5U11-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This book is a ___ from my aunt.",
+   "item": "gift",
+   "options": [
+    "deliver",
+    "quality",
+    "gift"
+   ],
+   "answer": "gift"
+  },
+  {
+   "id": "L5U11-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum opened a bank ___ for me.",
+   "item": "account",
+   "options": [
+    "brand",
+    "account",
+    "aisle"
+   ],
+   "answer": "account"
+  },
+  {
+   "id": "L5U11-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad gets his ___ every month.",
+   "item": "salary",
+   "options": [
+    "company",
+    "purse",
+    "salary"
+   ],
+   "answer": "salary"
+  },
+  {
+   "id": "L5U11-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My aunt has a small ___.",
+   "item": "business",
+   "options": [
+    "necessary",
+    "business",
+    "seller"
+   ],
+   "answer": "business"
+  },
+  {
+   "id": "L5U11-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum works for a big ___.",
+   "item": "company",
+   "options": [
+    "company",
+    "calculate",
+    "checkout"
+   ],
+   "answer": "company"
+  },
+  {
+   "id": "L5U11-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This company makes eco-friendly ___.",
+   "item": "product",
+   "options": [
+    "products",
+    "calculates",
+    "sellers"
+   ],
+   "answer": "products"
+  },
+  {
+   "id": "L5U11-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ is very expensive.",
+   "item": "brand",
+   "options": [
+    "brand",
+    "afford",
+    "product"
+   ],
+   "answer": "brand"
+  },
+  {
+   "id": "L5U11-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "These shoes are good ___.",
+   "item": "quality",
+   "options": [
+    "owe",
+    "seller",
+    "quality"
+   ],
+   "answer": "quality"
+  },
+  {
+   "id": "L5U11-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I bought a ___ bike.",
+   "item": "second-hand",
+   "options": [
+    "second-hand",
+    "account",
+    "value"
+   ],
+   "answer": "second-hand"
+  },
+  {
+   "id": "L5U11-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ stickers!",
+   "item": "swap",
+   "options": [
+    "purse",
+    "checkout",
+    "swap"
+   ],
+   "answer": "swap"
+  },
+  {
+   "id": "L5U11-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is ninety thousand dong.",
+   "item": "total",
+   "options": [
+    "account",
+    "total",
+    "second-hand"
+   ],
+   "answer": "total"
+  },
+  {
+   "id": "L5U11-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The price is ___ in the city.",
+   "item": "double",
+   "options": [
+    "luxury",
+    "double",
+    "budget"
+   ],
+   "answer": "double"
+  },
+  {
+   "id": "L5U11-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ the total?",
+   "item": "calculate",
+   "options": [
+    "deal",
+    "business",
+    "calculate"
+   ],
+   "answer": "calculate"
+  },
+  {
+   "id": "L5U11-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We paid at the ___.",
+   "item": "checkout",
+   "options": [
+    "business",
+    "company",
+    "checkout"
+   ],
+   "answer": "checkout"
+  },
+  {
+   "id": "L5U11-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The milk is in ___ five.",
+   "item": "aisle",
+   "options": [
+    "deal",
+    "value",
+    "aisle"
+   ],
+   "answer": "aisle"
+  },
+  {
+   "id": "L5U11-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle paid ten ___ for the book.",
+   "item": "dollar",
+   "options": [
+    "swaps",
+    "accounts",
+    "dollars"
+   ],
+   "answer": "dollars"
+  },
+  {
+   "id": "L5U11-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ bikes at the beach.",
+   "item": "rent",
+   "options": [
+    "buyered",
+    "extraed",
+    "rented"
+   ],
+   "answer": "rented"
+  },
+  {
+   "id": "L5U11-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you have ___ money?",
+   "item": "extra",
+   "options": [
+    "delivery",
+    "extra",
+    "purse"
+   ],
+   "answer": "extra"
+  },
+  {
+   "id": "L5U11-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We bought fruit from a ___ at the market.",
+   "item": "stall",
+   "options": [
+    "value",
+    "stall",
+    "calculate"
+   ],
+   "answer": "stall"
+  },
+  {
+   "id": "L5U11-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ gave me a discount.",
+   "item": "seller",
+   "options": [
+    "deliver",
+    "business",
+    "seller"
+   ],
+   "answer": "seller"
+  },
+  {
+   "id": "L5U11-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ paid in cash.",
+   "item": "buyer",
+   "options": [
+    "company",
+    "business",
+    "buyer"
+   ],
+   "answer": "buyer"
+  },
+  {
+   "id": "L5U11-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Two for the price of one is a good ___.",
+   "item": "deal",
+   "options": [
+    "deliver",
+    "spare",
+    "deal"
+   ],
+   "answer": "deal"
+  },
+  {
+   "id": "L5U11-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you have a ___ pencil?",
+   "item": "spare",
+   "options": [
+    "spare",
+    "calculate",
+    "purse"
+   ],
+   "answer": "spare"
+  },
+  {
+   "id": "L5U11-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I ___ this shirt for a bigger one?",
+   "item": "exchange",
+   "options": [
+    "necessary",
+    "exchange",
+    "refund"
+   ],
+   "answer": "exchange"
+  },
+  {
+   "id": "L5U11-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U11-R01",
+   "text_en": "Why did Mai start a business?",
+   "options": [
+    "She wanted to buy a camera.",
+    "Her mum asked her.",
+    "She was bored."
+   ],
+   "answer": "She wanted to buy a camera."
+  },
+  {
+   "id": "L5U11-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U11-R01",
+   "text_en": "How much did Mai sell each cup for?",
+   "options": [
+    "Thirty thousand dong.",
+    "Five thousand dong.",
+    "Twenty thousand dong."
+   ],
+   "answer": "Five thousand dong."
+  },
+  {
+   "id": "L5U11-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U11-R01",
+   "text_en": "What did Mai buy in the end?",
+   "options": [
+    "A second-hand camera.",
+    "A new bike.",
+    "Some lemons."
+   ],
+   "answer": "A second-hand camera."
+  },
+  {
+   "id": "L5U11-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "budget",
+   "item": "budget",
+   "answer": "budget"
+  },
+  {
+   "id": "L5U11-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "savings",
+   "item": "savings",
+   "answer": "savings"
+  },
+  {
+   "id": "L5U11-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "purse",
+   "item": "purse",
+   "answer": "purse"
+  },
+  {
+   "id": "L5U11-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "banknote",
+   "item": "banknote",
+   "answer": "banknote"
+  },
+  {
+   "id": "L5U11-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bargain",
+   "item": "bargain",
+   "answer": "bargain"
+  },
+  {
+   "id": "L5U11-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "value",
+   "item": "value",
+   "answer": "value"
+  },
+  {
+   "id": "L5U11-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "worth",
+   "item": "worth",
+   "answer": "worth"
+  },
+  {
+   "id": "L5U11-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "afford",
+   "item": "afford",
+   "answer": "afford"
+  },
+  {
+   "id": "L5U11-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Mum's purse is in her bag.",
+   "answer": "Mum's purse is in her bag."
+  },
+  {
+   "id": "L5U11-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "This banknote is worth fifty thousand dong.",
+   "answer": "This banknote is worth fifty thousand dong."
+  },
+  {
+   "id": "L5U11-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "This jacket was a bargain!",
+   "answer": "This jacket was a bargain!"
+  }
+ ]
+}

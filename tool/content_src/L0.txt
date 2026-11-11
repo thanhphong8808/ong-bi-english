@@ -1,0 +1,321 @@
+# Level 0 - Làm quen âm (Pre-A1 thấp)
+@U 1 | Hello! | Xin chào | Chào và tạm biệt bằng tiếng Anh ; Nói tên mình với "I'm ..."
+W hello | xin chào | 👋 | Hello, Bi! | Chào Bi!
+W hi | chào | 🙋 | Hi! I'm Bi. | Chào! Tớ là Bi.
+W bye | tạm biệt | 🚶 | Bye, Bi! | Tạm biệt Bi!
+W yes | có, vâng | ✅ | Yes, please! | Vâng ạ!
+W no | không | ❌ | No, thank you. | Dạ không, cảm ơn ạ.
+W please | làm ơn | 🙏 | Yes, please. | Vâng, làm ơn ạ.
+W thank you | cảm ơn | 💝 | Thank you, Bi! | Cảm ơn Bi!
+W sorry | xin lỗi | 😔 | Oh, sorry! | Ôi, tớ xin lỗi!
+W friend | bạn | 🤝 | You are my friend. | Cậu là bạn của tớ.
+W name | tên | 📛 | My name is Bi. | Tên tớ là Bi.
+P Hello, {x}! | Chào {x}! | Bi,friend
+P I'm {x}. | Tớ là {x}. | Bi,Kid
+D Chào bạn mới | Bi,Kid
+> Bi: Hello! I'm Bi. | Xin chào! Tớ là Bi.
+> Kid: Hi, Bi! | Chào Bi!
+> Bi: What's your name? | Cậu tên là gì?
+> Kid: My name is Kid. | Tên tớ là Kid.
+D Tạm biệt | Bi,Kid
+> Bi: Thank you, my friend! | Cảm ơn bạn của tớ!
+> Kid: Thank you, Bi! | Cảm ơn Bi!
+> Bi: Bye! | Tạm biệt nhé!
+> Kid: Bye, Bi! | Tạm biệt Bi!
+
+@U 2 | Colours | Màu sắc | Gọi tên 10 màu ; Nói "It's red."
+W red | màu đỏ | 🔴 | It's red. | Nó màu đỏ.
+W blue | màu xanh dương | 🔵 | It's blue. | Nó màu xanh dương.
+W yellow | màu vàng | 🟡 | It's yellow. | Nó màu vàng.
+W green | màu xanh lá | 🟢 | I like green. | Tớ thích màu xanh lá.
+W orange | màu cam | 🟠 | It's orange. | Nó màu cam.
+W pink | màu hồng | 🌸 | I like pink. | Tớ thích màu hồng.
+W black | màu đen | ⚫ | It's black. | Nó màu đen.
+W white | màu trắng | ⚪ | It's white. | Nó màu trắng.
+W purple | màu tím | 🟣 | I like purple. | Tớ thích màu tím.
+W brown | màu nâu | 🟤 | It's brown. | Nó màu nâu.
+P It's {x}. | Nó màu {x}. | red,blue,yellow,green
+P I like {x}. | Tớ thích màu {x}. | pink,purple,orange,blue
+D Màu gì thế? | Bi,Kid | red,blue,green,yellow
+> Bi: What colour is it? | Nó màu gì thế?
+> Kid: It's red. | Nó màu đỏ.
+> Bi: Yes! It's red. | Đúng rồi! Nó màu đỏ.
+> Kid: I like red! | Tớ thích màu đỏ!
+D Màu tớ thích | Bi,Kid | pink,blue,purple,green
+> Bi: I like yellow. | Tớ thích màu vàng.
+> Kid: I like pink. | Tớ thích màu hồng.
+> Bi: Oh, pink! | Ồ, màu hồng!
+> Kid: Yes! Pink and yellow. | Ừ! Hồng và vàng.
+
+@U 3 | Numbers 1-10 | Số đếm 1-10 | Đếm từ 1 đến 10 ; Nói tuổi của mình
+W one | số một | 1️⃣ | One, two, three! | Một, hai, ba!
+W two | số hai | 2️⃣ | I have two hands. | Tớ có hai bàn tay.
+W three | số ba | 3️⃣ | One, two, three! | Một, hai, ba!
+W four | số bốn | 4️⃣ | It is four. | Đó là số bốn.
+W five | số năm | 5️⃣ | I have five friends. | Tớ có năm người bạn.
+W six | số sáu | 6️⃣ | I'm six. | Tớ sáu tuổi.
+W seven | số bảy | 7️⃣ | Bi is seven. | Bi bảy tuổi.
+W eight | số tám | 8️⃣ | It is eight. | Đó là số tám.
+W nine | số chín | 9️⃣ | It is nine. | Đó là số chín.
+W ten | số mười | 🔟 | I can count to ten. | Tớ đếm được đến mười.
+P I'm {x}. | Tớ {x} tuổi. | six,seven,five,eight
+P It is {x}. | Đó là số {x}. | one,four,nine,ten
+D Cậu mấy tuổi? | Bi,Kid | six,five,seven
+> Bi: How old are you? | Cậu mấy tuổi rồi?
+> Kid: I'm six. | Tớ sáu tuổi.
+> Bi: Wow! I'm seven. | Chà! Tớ bảy tuổi.
+> Kid: Six and seven! | Sáu và bảy!
+D Cùng đếm nào | Bi,Kid
+> Bi: One, two, three. | Một, hai, ba.
+> Kid: Four, five, six. | Bốn, năm, sáu.
+> Bi: Seven, eight, nine. | Bảy, tám, chín.
+> Kid: Ten! Yay! | Mười! Hoan hô!
+
+@U 4 | Animals | Con vật | Gọi tên 10 con vật quen thuộc ; Nói "It's a cat."
+W cat | con mèo | 🐱 | It's a cat. | Đó là con mèo.
+W dog | con chó | 🐶 | I like my dog. | Tớ thích chú chó của tớ.
+W bird | con chim | 🐦 | It's a blue bird. | Đó là con chim màu xanh.
+W fish | con cá | 🐟 | I have two fish. | Tớ có hai con cá.
+W duck | con vịt | 🦆 | It's a yellow duck. | Đó là con vịt vàng.
+W cow | con bò | 🐮 | The cow is brown. | Con bò màu nâu.
+W pig | con lợn | 🐷 | The pig is pink. | Con lợn màu hồng.
+W horse | con ngựa | 🐴 | It's a white horse. | Đó là con ngựa trắng.
+W rabbit | con thỏ | 🐰 | I like the rabbit. | Tớ thích con thỏ.
+W bee | con ong | 🐝 | Bi is a bee. | Bi là một chú ong.
+P It's a {x}. | Đó là {x}. | cat,dog,bird,duck
+P I like the {x}. | Tớ thích {x}. | rabbit,horse,pig,cow
+D Con gì đây? | Bi,Kid | cat,dog,duck,rabbit
+> Bi: Look! What is it? | Nhìn kìa! Con gì thế?
+> Kid: It's a cat. | Đó là con mèo.
+> Bi: Yes! It's a black cat. | Đúng rồi! Đó là con mèo đen.
+> Kid: I like the cat. | Tớ thích con mèo.
+D Bi là ong | Bi,Kid
+> Kid: Bi, are you a bird? | Bi ơi, cậu là chim à?
+> Bi: No! I'm a bee. | Không! Tớ là ong.
+> Kid: Oh! A yellow and black bee. | Ồ! Một chú ong vàng và đen.
+> Bi: Yes! Thank you. | Đúng rồi! Cảm ơn cậu.
+
+@U 5 | Food and drink | Đồ ăn, thức uống | Gọi tên 10 món ăn, thức uống ; Nói "I like ..." và "I don't like ..."
+W apple | quả táo | 🍎 | I like apples. | Tớ thích táo.
+W banana | quả chuối | 🍌 | The banana is yellow. | Quả chuối màu vàng.
+W bread | bánh mì | 🍞 | I like bread. | Tớ thích bánh mì.
+W rice | cơm | 🍚 | I have rice. | Tớ ăn cơm.
+W egg | quả trứng | 🥚 | I have two eggs. | Tớ có hai quả trứng.
+W milk | sữa | 🥛 | I like milk. | Tớ thích sữa.
+W water | nước | 💧 | Water, please. | Cho tớ xin nước ạ.
+W cake | bánh ngọt | 🍰 | I like cake! | Tớ thích bánh ngọt!
+W juice | nước ép | 🧃 | Juice, please. | Cho tớ xin nước ép ạ.
+W noodles | mì, phở | 🍜 | I like noodles. | Tớ thích mì.
+P I like {x}. | Tớ thích {x}. | apples,bananas,milk,cake
+P {x}, please. | Cho tớ xin {x} ạ. | Water,Juice,Bread,Rice
+P I don't like {x}. | Tớ không thích {x}. | eggs,milk,noodles
+D Cậu thích ăn gì? | Bi,Kid | apples,bananas,cake,noodles
+> Bi: I like apples. Do you like apples? | Tớ thích táo. Cậu có thích táo không?
+> Kid: Yes! I like apples. | Có! Tớ thích táo.
+> Bi: Do you like milk? | Cậu có thích sữa không?
+> Kid: No. I don't like milk. | Không. Tớ không thích sữa.
+D Xin nước uống | Bi,Kid | Water,Juice,Milk
+> Kid: Water, please. | Cho tớ xin nước ạ.
+> Bi: Here you are. | Của cậu đây.
+> Kid: Thank you, Bi! | Cảm ơn Bi!
+> Bi: You're welcome! | Không có gì!
+
+@U 6 | Toys | Đồ chơi | Gọi tên 10 đồ chơi ; Nói "I have a ..."
+W ball | quả bóng | ⚽ | I have a ball. | Tớ có một quả bóng.
+W doll | búp bê | 🪆 | I have a doll. | Tớ có một con búp bê.
+W car | ô tô | 🚗 | It's a red car. | Đó là chiếc ô tô đỏ.
+W kite | con diều | 🪁 | I have a kite. | Tớ có một con diều.
+W robot | rô bốt | 🤖 | I like my robot. | Tớ thích rô bốt của tớ.
+W teddy | gấu bông | 🧸 | It's my teddy. | Đó là gấu bông của tớ.
+W bike | xe đạp | 🚲 | I have a blue bike. | Tớ có chiếc xe đạp xanh.
+W balloon | bóng bay | 🎈 | It's a red balloon. | Đó là quả bóng bay đỏ.
+W train | tàu hoả | 🚂 | I like the train. | Tớ thích tàu hoả.
+W yo-yo | con yo-yo | 🪀 | I have a yo-yo. | Tớ có một con yo-yo.
+P I have a {x}. | Tớ có {x}. | ball,doll,kite,robot
+P It's my {x}. | Đó là {x} của tớ. | teddy,car,bike,train
+D Đồ chơi của tớ | Bi,Kid | ball,kite,robot,doll
+> Bi: I have a ball. | Tớ có một quả bóng.
+> Kid: I have a robot. | Tớ có một con rô bốt.
+> Bi: Wow! I like your robot. | Chà! Tớ thích rô bốt của cậu.
+> Kid: Thank you! | Cảm ơn cậu!
+D Của ai đây? | Bi,Kid | teddy,car,doll,train
+> Bi: Is it your teddy? | Đây là gấu bông của cậu à?
+> Kid: Yes! It's my teddy. | Ừ! Đó là gấu bông của tớ.
+> Bi: It's so big! | Nó to quá!
+> Kid: Yes, it is. | Ừ, đúng thế.
+
+@U 7 | My family | Gia đình | Gọi tên người trong nhà ; Nói "This is my mum."
+W mum | mẹ | 👩 | This is my mum. | Đây là mẹ tớ.
+W dad | bố | 👨 | This is my dad. | Đây là bố tớ.
+W baby | em bé | 👶 | The baby is small. | Em bé nhỏ xíu.
+W grandma | bà | 👵 | I like my grandma. | Tớ yêu bà của tớ.
+W grandpa | ông | 👴 | This is my grandpa. | Đây là ông tớ.
+W sister | chị gái, em gái | 👧 | I have a sister. | Tớ có một chị gái.
+W brother | anh trai, em trai | 👦 | I have a brother. | Tớ có một anh trai.
+W family | gia đình | 👨‍👩‍👧 | This is my family. | Đây là gia đình tớ.
+W love | yêu | ❤️ | I love my mum. | Tớ yêu mẹ.
+W home | nhà | 🏠 | I'm at home. | Tớ đang ở nhà.
+P This is my {x}. | Đây là {x} tớ. | mum,dad,sister,brother
+P I love my {x}. | Tớ yêu {x} của tớ. | grandma,grandpa,family,mum
+D Ai đây? | Bi,Kid | mum,dad,grandma,sister
+> Bi: Who is this? | Ai đây?
+> Kid: This is my mum. | Đây là mẹ tớ.
+> Bi: Hello! I'm Bi. | Chào cô ạ! Cháu là Bi.
+> Kid: I love my mum. | Tớ yêu mẹ tớ.
+D Nhà tớ | Bi,Kid | brother,sister
+> Bi: Do you have a brother? | Cậu có anh trai không?
+> Kid: No. I have a sister. | Không. Tớ có chị gái.
+> Bi: I have ten sisters! | Tớ có mười chị em gái!
+> Kid: Wow! A big family! | Chà! Một gia đình lớn!
+
+@U 8 | Big and small | To và nhỏ | Nói về cảm xúc và kích thước ; Nói "I'm happy."
+W happy | vui | 😊 | I'm happy. | Tớ vui.
+W sad | buồn | 😢 | The baby is sad. | Em bé buồn.
+W big | to | 🐘 | It's a big dog. | Đó là một con chó to.
+W small | nhỏ | 🐭 | It's a small cat. | Đó là một con mèo nhỏ.
+W hot | nóng | 🥵 | The rice is hot. | Cơm nóng.
+W cold | lạnh | 🥶 | The water is cold. | Nước lạnh.
+W hungry | đói | 🤤 | I'm hungry. | Tớ đói.
+W tired | mệt | 😴 | I'm tired. | Tớ mệt.
+W good | tốt, ngoan | 👍 | Good dog! | Chú chó ngoan!
+W funny | buồn cười | 🤣 | The duck is funny. | Con vịt buồn cười quá.
+P I'm {x}. | Tớ {x}. | happy,sad,hungry,tired
+P It's {x}. | Nó {x}. | big,small,hot,cold
+D Cậu thế nào? | Bi,Kid | happy,tired,hungry
+> Bi: How are you? | Cậu thế nào?
+> Kid: I'm happy! | Tớ vui!
+> Bi: Good! I'm happy too. | Tốt quá! Tớ cũng vui.
+> Kid: Yay! | Hoan hô!
+D Tớ đói | Bi,Kid | cake,bread,rice,noodles
+> Kid: Bi, I'm hungry. | Bi ơi, tớ đói.
+> Bi: Do you like cake? | Cậu có thích bánh ngọt không?
+> Kid: Yes, please! | Có ạ!
+> Bi: Here you are. A big cake! | Của cậu đây. Một cái bánh to!
+
+@U 9 | Around me | Quanh em | Gọi tên 10 thứ quen thuộc quanh em ; Nói "I see a ..."
+W sun | mặt trời | ☀️ | The sun is hot. | Mặt trời nóng.
+W moon | mặt trăng | 🌙 | I see the moon. | Tớ thấy mặt trăng.
+W star | ngôi sao | ⭐ | I see a star. | Tớ thấy một ngôi sao.
+W tree | cái cây | 🌳 | It's a big tree. | Đó là một cái cây to.
+W flower | bông hoa | 🌼 | I like the flower. | Tớ thích bông hoa.
+W book | quyển sách | 📕 | I have a book. | Tớ có một quyển sách.
+W pen | cái bút | 🖊️ | It's a blue pen. | Đó là cái bút xanh.
+W bag | cái cặp | 🎒 | This is my bag. | Đây là cặp của tớ.
+W hat | cái mũ | 👒 | I have a hat. | Tớ có một cái mũ.
+W bed | cái giường | 🛏️ | It's my bed. | Đó là giường của tớ.
+P I see a {x}. | Tớ thấy {x}. | star,tree,flower,bird
+P This is my {x}. | Đây là {x} của tớ. | bag,book,pen,hat
+D Cậu thấy gì? | Bi,Kid | star,flower,tree,bird
+> Bi: What do you see? | Cậu thấy gì?
+> Kid: I see a star. | Tớ thấy một ngôi sao.
+> Bi: I see the moon! | Tớ thấy mặt trăng!
+> Kid: It's so big! | Nó to quá!
+D Cặp của tớ | Bi,Kid | bag,hat,book,pen
+> Bi: Is this your bag? | Đây là cặp của cậu à?
+> Kid: Yes! This is my bag. | Ừ! Đây là cặp của tớ.
+> Bi: I like your bag. | Tớ thích cặp của cậu.
+> Kid: Thank you, Bi! | Cảm ơn Bi!
+
+@U 10 | Let's play! | Cùng chơi nào | Hiểu và nói 10 lời rủ, lời nhắc ngắn ; Nói "Let's play!"
+W go | đi | 🟩 | Let's go! | Mình đi thôi!
+W stop | dừng lại | 🛑 | Stop, please! | Dừng lại nào!
+W come | lại đây | 🫴 | Come here, Bi! | Lại đây nào Bi!
+W look | nhìn | 👀 | Look! A bird! | Nhìn kìa! Một con chim!
+W listen | nghe | 👂 | Listen to me. | Nghe tớ nói này.
+W eat | ăn | 🍽️ | Let's eat! | Mình ăn thôi!
+W drink | uống | 🥤 | I drink milk. | Tớ uống sữa.
+W sleep | ngủ | 💤 | The baby can sleep. | Em bé ngủ được rồi.
+W play | chơi | 🤸 | Let's play! | Mình chơi thôi!
+W jump | nhảy | 🦘 | I can jump. | Tớ biết nhảy.
+P Let's {x}! | Mình {x} thôi! | go,play,eat,jump
+P I can {x}. | Tớ biết {x}. | jump,play,listen,sleep
+D Rủ bạn chơi | Bi,Kid | play,jump,go
+> Bi: Come here! Let's play! | Lại đây! Mình chơi thôi!
+> Kid: Okay! Let's play! | Được! Mình chơi thôi!
+> Bi: I have a ball. | Tớ có một quả bóng.
+> Kid: Yay! Let's go! | Hoan hô! Đi thôi!
+D Giờ đi ngủ | Bi,Kid
+> Bi: I'm tired. Let's sleep. | Tớ mệt rồi. Mình đi ngủ thôi.
+> Kid: Okay. Good night, Bi. | Ừ. Chúc Bi ngủ ngon.
+> Bi: Good night, my friend! | Chúc bạn của tớ ngủ ngon!
+> Kid: Bye! | Tạm biệt!
+
+# 26 letter-sound lessons, in phonics order: s a t i p n, c k e h r m d, g o u l f b, j z w v y x q
+@S 1 | s | /s/ | Âm "s": để răng gần nhau và xì hơi ra như con rắn: sss.
+W sun | mặt trời | ☀️ | I see the sun. | Tớ thấy mặt trời.
+W sock | chiếc tất | 🧦 | It's a red sock. | Đó là chiếc tất đỏ.
+@S 2 | a | /æ/ | Âm "a": mở miệng thật to như sắp ăn quả táo: a-a.
+W ant | con kiến | 🐜 | It's a small ant. | Đó là một con kiến nhỏ.
+W apple | quả táo | 🍎 | It's a red apple. | Đó là quả táo đỏ.
+@S 3 | t | /t/ | Âm "t": chạm lưỡi sau răng trên rồi bật hơi nhẹ: t-t.
+W ten | số mười | 🔟 | I have ten stars. | Tớ có mười ngôi sao.
+W tap | vòi nước | 🚰 | It's a tap. | Đó là cái vòi nước.
+@S 4 | i | /ɪ/ | Âm "i": đọc ngắn và nhẹ, môi hơi nhoẻn cười: i-i.
+W ink | mực | 🖋️ | It's black ink. | Đó là mực đen.
+W insect | côn trùng | 🪲 | A bee is an insect. | Ong là một loài côn trùng.
+@S 5 | p | /p/ | Âm "p": mím môi rồi bật hơi ra, không rung cổ: p-p.
+W pen | cái bút | 🖊️ | I have a pen. | Tớ có một cái bút.
+W pan | cái chảo | 🍳 | The pan is hot. | Cái chảo nóng.
+@S 6 | n | /n/ | Âm "n": chạm lưỡi sau răng trên, cho hơi ra đằng mũi: nnn.
+W nose | cái mũi | 👃 | This is my nose. | Đây là mũi của tớ.
+W nut | hạt | 🥜 | I like nuts. | Tớ thích các loại hạt.
+@S 7 | c | /k/ | Chữ "c" đọc là "k": bật hơi từ trong cổ họng: k-k.
+W cat | con mèo | 🐱 | I see a cat. | Tớ thấy một con mèo.
+W cup | cái cốc | ☕ | It's my cup. | Đó là cốc của tớ.
+@S 8 | k | /k/ | Chữ "k" đọc giống chữ "c": k-k.
+W kite | con diều | 🪁 | I see a kite. | Tớ thấy một con diều.
+W key | chìa khoá | 🔑 | I have a key. | Tớ có một cái chìa khoá.
+@S 9 | e | /ɛ/ | Âm "e": mở miệng vừa phải, đọc ngắn: e-e.
+W egg | quả trứng | 🥚 | I like eggs. | Tớ thích trứng.
+W elephant | con voi | 🐘 | The elephant is big. | Con voi to.
+@S 10 | h | /h/ | Âm "h": thở nhẹ ra như đang hà hơi vào tay: h-h.
+W hat | cái mũ | 👒 | It's a pink hat. | Đó là cái mũ hồng.
+W hen | gà mái | 🐔 | It's a brown hen. | Đó là con gà mái nâu.
+@S 11 | r | /r/ | Âm "r": cong lưỡi lên nhưng không chạm vào đâu cả: rrr.
+W red | màu đỏ | 🔴 | I like red. | Tớ thích màu đỏ.
+W run | chạy | 🏃 | I can run. | Tớ biết chạy.
+@S 12 | m | /m/ | Âm "m": mím môi và ngân trong mũi: mmm.
+W mum | mẹ | 👩 | I love my mum. | Tớ yêu mẹ.
+W map | bản đồ | 🗺️ | It's a big map. | Đó là tấm bản đồ to.
+@S 13 | d | /d/ | Âm "d": chạm lưỡi sau răng trên rồi bật ra, có rung cổ: d-d.
+W dog | con chó | 🐶 | I have a dog. | Tớ có một con chó.
+W dad | bố | 👨 | I love my dad. | Tớ yêu bố.
+@S 14 | g | /ɡ/ | Âm "g": bật hơi từ cổ họng, có rung cổ: g-g.
+W goat | con dê | 🐐 | It's a white goat. | Đó là con dê trắng.
+W girl | bạn gái | 👧 | The girl is happy. | Bạn gái đang vui.
+@S 15 | o | /ɑ/ | Âm "o": tròn miệng và mở to: o-o.
+W octopus | con bạch tuộc | 🐙 | The octopus is funny. | Con bạch tuộc buồn cười quá.
+W ox | con bò đực | 🐂 | The ox is big. | Con bò đực to.
+@S 16 | u | /ʌ/ | Âm "u": đọc ngắn, gần giống "ă" trong tiếng Việt: u-u.
+W up | lên | ⬆️ | Look up! | Nhìn lên kìa!
+W umbrella | cái ô | ☂️ | I have an umbrella. | Tớ có một cái ô.
+@S 17 | l | /l/ | Âm "l": đặt đầu lưỡi sau răng trên và giữ ở đó: lll.
+W leg | cái chân | 🦵 | This is my leg. | Đây là chân của tớ.
+W lion | sư tử | 🦁 | The lion is big. | Sư tử to.
+@S 18 | f | /f/ | Âm "f": răng trên chạm nhẹ môi dưới rồi thổi hơi: fff.
+W fish | con cá | 🐟 | I see a fish. | Tớ thấy một con cá.
+W fan | cái quạt | 🪭 | It's my fan. | Đó là cái quạt của tớ.
+@S 19 | b | /b/ | Âm "b": mím môi rồi bật ra, có rung cổ: b-b.
+W ball | quả bóng | ⚽ | It's my ball. | Đó là bóng của tớ.
+W bus | xe buýt | 🚌 | It's a yellow bus. | Đó là chiếc xe buýt vàng.
+@S 20 | j | /dʒ/ | Âm "j": gần giống "ch" nhưng có rung cổ: j-j.
+W jam | mứt | 🍓 | I like jam. | Tớ thích mứt.
+W jet | máy bay phản lực | ✈️ | The jet is up. | Máy bay ở trên cao.
+@S 21 | z | /z/ | Âm "z": giống âm "s" nhưng rung cổ như tiếng ong bay: zzz.
+W zoo | sở thú | 🦓 | I like the zoo. | Tớ thích sở thú.
+W zip | khoá kéo | 🤐 | It's a zip. | Đó là cái khoá kéo.
+@S 22 | w | /w/ | Âm "w": chu môi tròn rồi mở ra nhanh: w-w.
+W water | nước | 💧 | I drink water. | Tớ uống nước.
+W web | mạng nhện | 🕸️ | It's a big web. | Đó là cái mạng nhện to.
+@S 23 | v | /v/ | Âm "v": răng trên chạm môi dưới và rung cổ: vvv.
+W van | xe tải nhỏ | 🚐 | It's a white van. | Đó là chiếc xe tải nhỏ màu trắng.
+W vet | bác sĩ thú y | 🩺 | The vet is good. | Bác sĩ thú y rất giỏi.
+@S 24 | y | /j/ | Âm "y": đọc lướt giống "d" miền Nam trong tiếng Việt: y-y.
+W yes | có, vâng | ✅ | Yes, I can. | Có, tớ làm được.
+W yellow | màu vàng | 🟡 | I like yellow. | Tớ thích màu vàng.
+@S 25 | x | /ks/ | Chữ "x" đọc là "ks", thường nằm cuối từ: ks.
+W box | cái hộp | 📦 | It's a big box. | Đó là cái hộp to.
+W fox | con cáo | 🦊 | I see a fox. | Tớ thấy một con cáo.
+@S 26 | q | /kw/ | Chữ "q" luôn đi với "u", đọc là "kw": kw.
+W queen | nữ hoàng | 👸 | The queen is happy. | Nữ hoàng đang vui.
+W quiz | câu đố | ❓ | I like the quiz. | Tớ thích câu đố.

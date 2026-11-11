@@ -1,0 +1,1785 @@
+{
+ "id": "L1U15",
+ "level": 1,
+ "unit": 15,
+ "topic_en": "My pets",
+ "topic_vi": "Thú cưng của bé",
+ "can_do_vi": [
+  "Nói về thú cưng",
+  "Xin phép với \"Can I ...?\""
+ ],
+ "items": [
+  {
+   "id": "L1U15-W01",
+   "type": "word",
+   "en": "pet",
+   "vi": "thú cưng",
+   "ipa": "/pɛt/",
+   "syllables": [
+    "pet"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F415-200D-1F9BA"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "I have a pet.",
+   "example_vi": "Tớ có một con thú cưng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W02",
+   "type": "word",
+   "en": "puppy",
+   "vi": "chó con",
+   "ipa": "/ˈpʌpi/",
+   "syllables": [
+    "pup",
+    "py"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F436"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The puppy is small.",
+   "example_vi": "Chú chó con nhỏ xíu.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W03",
+   "type": "word",
+   "en": "kitten",
+   "vi": "mèo con",
+   "ipa": "/ˈkɪtən/",
+   "syllables": [
+    "kit",
+    "ten"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F431"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The kitten is sleepy.",
+   "example_vi": "Chú mèo con buồn ngủ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W04",
+   "type": "word",
+   "en": "hamster",
+   "vi": "chuột hamster",
+   "ipa": "/ˈhæmstər/",
+   "syllables": [
+    "ham",
+    "ster"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F439"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "I have a hamster.",
+   "example_vi": "Tớ có một con chuột hamster.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U15-W05",
+   "type": "word",
+   "en": "parrot",
+   "vi": "con vẹt",
+   "ipa": "/ˈpɛrət/",
+   "syllables": [
+    "par",
+    "rot"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F99C"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The parrot can talk.",
+   "example_vi": "Con vẹt biết nói.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W06",
+   "type": "word",
+   "en": "turtle",
+   "vi": "con rùa",
+   "ipa": "/ˈtʌrtəl/",
+   "syllables": [
+    "tur",
+    "tle"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F422"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The turtle is slow.",
+   "example_vi": "Con rùa đi chậm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W07",
+   "type": "word",
+   "en": "goldfish",
+   "vi": "cá vàng",
+   "ipa": "/ˈɡoʊldˌfɪʃ/",
+   "syllables": [
+    "gold",
+    "fish"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F420"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "My goldfish is orange.",
+   "example_vi": "Cá vàng của tớ màu cam.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U15-W08",
+   "type": "word",
+   "en": "feed",
+   "vi": "cho ăn",
+   "ipa": "/fid/",
+   "syllables": [
+    "feed"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F96B"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "Can I feed the cat?",
+   "example_vi": "Tớ cho mèo ăn được không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W09",
+   "type": "word",
+   "en": "wash",
+   "vi": "tắm, rửa",
+   "ipa": "/wɑʃ/",
+   "syllables": [
+    "wash"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9FC"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "I wash my dog.",
+   "example_vi": "Tớ tắm cho chó.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W10",
+   "type": "word",
+   "en": "brush",
+   "vi": "chải",
+   "ipa": "/brʌʃ/",
+   "syllables": [
+    "brush"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FAAE"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "I brush my puppy.",
+   "example_vi": "Tớ chải lông cho chó con.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W11",
+   "type": "word",
+   "en": "hold",
+   "vi": "bế, cầm",
+   "ipa": "/hoʊld/",
+   "syllables": [
+    "hold"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F931"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "Can I hold the kitten?",
+   "example_vi": "Tớ bế mèo con được không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W12",
+   "type": "word",
+   "en": "talk",
+   "vi": "nói chuyện",
+   "ipa": "/tɔk/",
+   "syllables": [
+    "talk"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The parrot can talk.",
+   "example_vi": "Con vẹt biết nói.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W13",
+   "type": "word",
+   "en": "soft",
+   "vi": "mềm",
+   "ipa": "/sɔft/",
+   "syllables": [
+    "soft"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F6"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The kitten is soft.",
+   "example_vi": "Mèo con mềm mại.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W14",
+   "type": "word",
+   "en": "cute",
+   "vi": "đáng yêu",
+   "ipa": "/kjut/",
+   "syllables": [
+    "cute"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F425"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The puppy is cute.",
+   "example_vi": "Chó con đáng yêu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W15",
+   "type": "word",
+   "en": "quiet",
+   "vi": "yên lặng",
+   "ipa": "/kwaɪʌt/",
+   "syllables": [
+    "quiet"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "1F92B"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "Be quiet, please.",
+   "example_vi": "Giữ yên lặng nào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W16",
+   "type": "word",
+   "en": "noisy",
+   "vi": "ồn ào",
+   "ipa": "/ˈnɔɪzi/",
+   "syllables": [
+    "noisy"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The parrot is noisy.",
+   "example_vi": "Con vẹt ồn ào.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W17",
+   "type": "word",
+   "en": "careful",
+   "vi": "cẩn thận",
+   "ipa": "/ˈkɛrfəl/",
+   "syllables": [
+    "care",
+    "ful"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6A7"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "Be careful!",
+   "example_vi": "Cẩn thận nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U15-W18",
+   "type": "word",
+   "en": "gentle",
+   "vi": "nhẹ nhàng",
+   "ipa": "/ˈdʒɛnəl/",
+   "syllables": [
+    "gen",
+    "tle"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1FAB6"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "Be gentle with the kitten.",
+   "example_vi": "Nhẹ nhàng với mèo con nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W19",
+   "type": "word",
+   "en": "cage",
+   "vi": "cái lồng",
+   "ipa": "/keɪdʒ/",
+   "syllables": [
+    "cage"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FABA"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The hamster is in the cage.",
+   "example_vi": "Chuột hamster ở trong lồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U15-W20",
+   "type": "word",
+   "en": "food",
+   "vi": "thức ăn",
+   "ipa": "/fud/",
+   "syllables": [
+    "food"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F372"
+   },
+   "picturable": true,
+   "cat": "L1U15",
+   "example_en": "The dog wants food.",
+   "example_vi": "Chú chó muốn ăn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U15-P01",
+   "en": "Can I {x} the kitten?",
+   "vi": "Tớ {x} mèo con được không?",
+   "slots": {
+    "x": [
+     "hold",
+     "feed",
+     "brush",
+     "wash"
+    ]
+   }
+  },
+  {
+   "id": "L1U15-P02",
+   "en": "The {x} is cute.",
+   "vi": "{x} đáng yêu.",
+   "slots": {
+    "x": [
+     "puppy",
+     "kitten",
+     "hamster",
+     "turtle"
+    ]
+   }
+  },
+  {
+   "id": "L1U15-P03",
+   "en": "Be {x}, please.",
+   "vi": "Hãy {x} nhé.",
+   "slots": {
+    "x": [
+     "quiet",
+     "careful",
+     "gentle"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U15-D01",
+   "title_vi": "Xin bế mèo",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Can I hold the kitten?",
+     "vi": "Tớ bế mèo con được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes, but be gentle.",
+     "vi": "Được, nhưng nhẹ nhàng nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. Oh, it's so soft!",
+     "vi": "Ừ. Ồ, nó mềm quá!"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! It's very cute.",
+     "vi": "Ừ! Nó đáng yêu lắm."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "kitten",
+    "options": [
+     "puppy",
+     "hamster"
+    ]
+   }
+  },
+  {
+   "id": "L1U15-D02",
+   "title_vi": "Thú cưng của cậu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you have a pet?",
+     "vi": "Cậu có thú cưng không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I have a hamster.",
+     "vi": "Có! Tớ có một con chuột hamster."
+    },
+    {
+     "role": "Bi",
+     "en": "Can I feed it?",
+     "vi": "Tớ cho nó ăn được không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Sure! Here is the food.",
+     "vi": "Được chứ! Thức ăn đây."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "hamster",
+    "options": [
+     "parrot",
+     "turtle",
+     "goldfish"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "p"
+  },
+  {
+   "type": "write_letter",
+   "target": "k"
+  },
+  {
+   "type": "write_letter",
+   "target": "h"
+  },
+  {
+   "type": "write_letter",
+   "target": "t"
+  },
+  {
+   "type": "copy_word",
+   "target": "pet"
+  },
+  {
+   "type": "copy_word",
+   "target": "puppy"
+  },
+  {
+   "type": "copy_word",
+   "target": "kitten"
+  },
+  {
+   "type": "copy_word",
+   "target": "parrot"
+  },
+  {
+   "type": "copy_word",
+   "target": "turtle"
+  },
+  {
+   "type": "copy_word",
+   "target": "feed"
+  },
+  {
+   "type": "copy_word",
+   "target": "wash"
+  },
+  {
+   "type": "copy_word",
+   "target": "brush"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U15-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pet",
+   "item": "pet",
+   "options": [
+    "soft",
+    "hamster",
+    "puppy",
+    "pet"
+   ],
+   "answer": "pet"
+  },
+  {
+   "id": "L1U15-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "puppy",
+   "item": "puppy",
+   "options": [
+    "soft",
+    "cage",
+    "brush",
+    "puppy"
+   ],
+   "answer": "puppy"
+  },
+  {
+   "id": "L1U15-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kitten",
+   "item": "kitten",
+   "options": [
+    "puppy",
+    "cage",
+    "pet",
+    "kitten"
+   ],
+   "answer": "kitten"
+  },
+  {
+   "id": "L1U15-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hamster",
+   "item": "hamster",
+   "options": [
+    "hold",
+    "puppy",
+    "hamster",
+    "turtle"
+   ],
+   "answer": "hamster"
+  },
+  {
+   "id": "L1U15-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "parrot",
+   "item": "parrot",
+   "options": [
+    "noisy",
+    "parrot",
+    "soft",
+    "cute"
+   ],
+   "answer": "parrot"
+  },
+  {
+   "id": "L1U15-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "turtle",
+   "item": "turtle",
+   "options": [
+    "turtle",
+    "feed",
+    "cage",
+    "food"
+   ],
+   "answer": "turtle"
+  },
+  {
+   "id": "L1U15-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "goldfish",
+   "item": "goldfish",
+   "options": [
+    "pet",
+    "parrot",
+    "goldfish",
+    "turtle"
+   ],
+   "answer": "goldfish"
+  },
+  {
+   "id": "L1U15-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "feed",
+   "item": "feed",
+   "options": [
+    "goldfish",
+    "careful",
+    "food",
+    "feed"
+   ],
+   "answer": "feed"
+  },
+  {
+   "id": "L1U15-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wash",
+   "item": "wash",
+   "options": [
+    "cute",
+    "goldfish",
+    "wash",
+    "cage"
+   ],
+   "answer": "wash"
+  },
+  {
+   "id": "L1U15-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "brush",
+   "item": "brush",
+   "options": [
+    "parrot",
+    "wash",
+    "brush",
+    "talk"
+   ],
+   "answer": "brush"
+  },
+  {
+   "id": "L1U15-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hold",
+   "item": "hold",
+   "options": [
+    "hold",
+    "brush",
+    "parrot",
+    "soft"
+   ],
+   "answer": "hold"
+  },
+  {
+   "id": "L1U15-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "talk",
+   "item": "talk",
+   "options": [
+    "brush",
+    "noisy",
+    "wash",
+    "talk"
+   ],
+   "answer": "talk"
+  },
+  {
+   "id": "L1U15-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "soft",
+   "item": "soft",
+   "options": [
+    "turtle",
+    "soft",
+    "quiet",
+    "hold"
+   ],
+   "answer": "soft"
+  },
+  {
+   "id": "L1U15-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cute",
+   "item": "cute",
+   "options": [
+    "hold",
+    "parrot",
+    "quiet",
+    "cute"
+   ],
+   "answer": "cute"
+  },
+  {
+   "id": "L1U15-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "quiet",
+   "item": "quiet",
+   "options": [
+    "food",
+    "hold",
+    "quiet",
+    "noisy"
+   ],
+   "answer": "quiet"
+  },
+  {
+   "id": "L1U15-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "noisy",
+   "item": "noisy",
+   "options": [
+    "goldfish",
+    "noisy",
+    "brush",
+    "pet"
+   ],
+   "answer": "noisy"
+  },
+  {
+   "id": "L1U15-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "careful",
+   "item": "careful",
+   "options": [
+    "gentle",
+    "careful",
+    "quiet",
+    "hold"
+   ],
+   "answer": "careful"
+  },
+  {
+   "id": "L1U15-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "gentle",
+   "item": "gentle",
+   "options": [
+    "puppy",
+    "careful",
+    "gentle",
+    "cute"
+   ],
+   "answer": "gentle"
+  },
+  {
+   "id": "L1U15-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cage",
+   "item": "cage",
+   "options": [
+    "noisy",
+    "cute",
+    "cage",
+    "turtle"
+   ],
+   "answer": "cage"
+  },
+  {
+   "id": "L1U15-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "food",
+   "item": "food",
+   "options": [
+    "food",
+    "hold",
+    "hamster",
+    "soft"
+   ],
+   "answer": "food"
+  },
+  {
+   "id": "L1U15-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the pet yellow.",
+   "item": "pet",
+   "options": [
+    "pet",
+    "brush",
+    "turtle"
+   ],
+   "answer": "pet",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U15-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the puppy pink.",
+   "item": "puppy",
+   "options": [
+    "quiet",
+    "puppy",
+    "talk"
+   ],
+   "answer": "puppy",
+   "color": "pink"
+  },
+  {
+   "id": "L1U15-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the kitten pink.",
+   "item": "kitten",
+   "options": [
+    "cute",
+    "goldfish",
+    "kitten"
+   ],
+   "answer": "kitten",
+   "color": "pink"
+  },
+  {
+   "id": "L1U15-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hamster yellow.",
+   "item": "hamster",
+   "options": [
+    "hamster",
+    "cute",
+    "turtle"
+   ],
+   "answer": "hamster",
+   "color": "yellow"
+  },
+  {
+   "id": "L1U15-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pet",
+   "answer": "pet"
+  },
+  {
+   "id": "L1U15-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "puppy",
+   "answer": "puppy"
+  },
+  {
+   "id": "L1U15-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kitten",
+   "answer": "kitten"
+  },
+  {
+   "id": "L1U15-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hamster",
+   "answer": "hamster"
+  },
+  {
+   "id": "L1U15-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "parrot",
+   "answer": "parrot"
+  },
+  {
+   "id": "L1U15-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "turtle",
+   "answer": "turtle"
+  },
+  {
+   "id": "L1U15-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "goldfish",
+   "answer": "goldfish"
+  },
+  {
+   "id": "L1U15-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "feed",
+   "answer": "feed"
+  },
+  {
+   "id": "L1U15-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wash",
+   "answer": "wash"
+  },
+  {
+   "id": "L1U15-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "brush",
+   "answer": "brush"
+  },
+  {
+   "id": "L1U15-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hold",
+   "answer": "hold"
+  },
+  {
+   "id": "L1U15-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "talk",
+   "answer": "talk"
+  },
+  {
+   "id": "L1U15-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "soft",
+   "answer": "soft"
+  },
+  {
+   "id": "L1U15-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cute",
+   "answer": "cute"
+  },
+  {
+   "id": "L1U15-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "quiet",
+   "answer": "quiet"
+  },
+  {
+   "id": "L1U15-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "noisy",
+   "answer": "noisy"
+  },
+  {
+   "id": "L1U15-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "careful",
+   "answer": "careful"
+  },
+  {
+   "id": "L1U15-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "gentle",
+   "answer": "gentle"
+  },
+  {
+   "id": "L1U15-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cage",
+   "answer": "cage"
+  },
+  {
+   "id": "L1U15-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "food",
+   "answer": "food"
+  },
+  {
+   "id": "L1U15-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a pet.",
+   "item": "pet",
+   "answer": "I have a pet."
+  },
+  {
+   "id": "L1U15-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The puppy is small.",
+   "item": "puppy",
+   "answer": "The puppy is small."
+  },
+  {
+   "id": "L1U15-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The kitten is sleepy.",
+   "item": "kitten",
+   "answer": "The kitten is sleepy."
+  },
+  {
+   "id": "L1U15-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a hamster.",
+   "item": "hamster",
+   "answer": "I have a hamster."
+  },
+  {
+   "id": "L1U15-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The parrot can talk.",
+   "item": "parrot",
+   "answer": "The parrot can talk."
+  },
+  {
+   "id": "L1U15-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The turtle is slow.",
+   "item": "turtle",
+   "answer": "The turtle is slow."
+  },
+  {
+   "id": "L1U15-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My goldfish is orange.",
+   "item": "goldfish",
+   "answer": "My goldfish is orange."
+  },
+  {
+   "id": "L1U15-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I feed the cat?",
+   "item": "feed",
+   "answer": "Can I feed the cat?"
+  },
+  {
+   "id": "L1U15-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wash my dog.",
+   "item": "wash",
+   "answer": "I wash my dog."
+  },
+  {
+   "id": "L1U15-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I brush my puppy.",
+   "item": "brush",
+   "answer": "I brush my puppy."
+  },
+  {
+   "id": "L1U15-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I hold the kitten?",
+   "item": "hold",
+   "answer": "Can I hold the kitten?"
+  },
+  {
+   "id": "L1U15-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The parrot can talk.",
+   "item": "talk",
+   "answer": "The parrot can talk."
+  },
+  {
+   "id": "L1U15-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The kitten is soft.",
+   "item": "soft",
+   "answer": "The kitten is soft."
+  },
+  {
+   "id": "L1U15-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The puppy is cute.",
+   "item": "cute",
+   "answer": "The puppy is cute."
+  },
+  {
+   "id": "L1U15-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be quiet, please.",
+   "item": "quiet",
+   "answer": "Be quiet, please."
+  },
+  {
+   "id": "L1U15-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The parrot is noisy.",
+   "item": "noisy",
+   "answer": "The parrot is noisy."
+  },
+  {
+   "id": "L1U15-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful!",
+   "item": "careful",
+   "answer": "Be careful!"
+  },
+  {
+   "id": "L1U15-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be gentle with the kitten.",
+   "item": "gentle",
+   "answer": "Be gentle with the kitten."
+  },
+  {
+   "id": "L1U15-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hamster is in the cage.",
+   "item": "cage",
+   "answer": "The hamster is in the cage."
+  },
+  {
+   "id": "L1U15-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dog wants food.",
+   "item": "food",
+   "answer": "The dog wants food."
+  },
+  {
+   "id": "L1U15-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I hold the kitten?",
+   "answer": "Can I hold the kitten?"
+  },
+  {
+   "id": "L1U15-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I feed the kitten?",
+   "answer": "Can I feed the kitten?"
+  },
+  {
+   "id": "L1U15-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I brush the kitten?",
+   "answer": "Can I brush the kitten?"
+  },
+  {
+   "id": "L1U15-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The puppy is cute.",
+   "answer": "The puppy is cute."
+  },
+  {
+   "id": "L1U15-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The kitten is cute.",
+   "answer": "The kitten is cute."
+  },
+  {
+   "id": "L1U15-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hamster is cute.",
+   "answer": "The hamster is cute."
+  },
+  {
+   "id": "L1U15-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be quiet, please.",
+   "answer": "Be quiet, please."
+  },
+  {
+   "id": "L1U15-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful, please.",
+   "answer": "Be careful, please."
+  },
+  {
+   "id": "L1U15-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be gentle, please.",
+   "answer": "Be gentle, please."
+  },
+  {
+   "id": "L1U15-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I hold the kitten?",
+   "answer": "Yes, but be gentle."
+  },
+  {
+   "id": "L1U15-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you have a pet?",
+   "answer": "Yes! I have a hamster."
+  },
+  {
+   "id": "L1U15-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I feed it?",
+   "answer": "Sure! Here is the food."
+  },
+  {
+   "id": "L1U15-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pet",
+   "options": [
+    "pet",
+    "goldfish",
+    "parrot"
+   ],
+   "answer": "pet"
+  },
+  {
+   "id": "L1U15-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "puppy",
+   "options": [
+    "parrot",
+    "feed",
+    "puppy"
+   ],
+   "answer": "puppy"
+  },
+  {
+   "id": "L1U15-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kitten",
+   "options": [
+    "feed",
+    "talk",
+    "kitten"
+   ],
+   "answer": "kitten"
+  },
+  {
+   "id": "L1U15-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hamster",
+   "options": [
+    "hamster",
+    "wash",
+    "hold"
+   ],
+   "answer": "hamster"
+  },
+  {
+   "id": "L1U15-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "parrot",
+   "options": [
+    "talk",
+    "feed",
+    "parrot"
+   ],
+   "answer": "parrot"
+  },
+  {
+   "id": "L1U15-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "turtle",
+   "options": [
+    "cute",
+    "turtle",
+    "gentle"
+   ],
+   "answer": "turtle"
+  },
+  {
+   "id": "L1U15-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "goldfish",
+   "options": [
+    "hamster",
+    "goldfish",
+    "noisy"
+   ],
+   "answer": "goldfish"
+  },
+  {
+   "id": "L1U15-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "feed",
+   "options": [
+    "hold",
+    "feed",
+    "kitten"
+   ],
+   "answer": "feed"
+  },
+  {
+   "id": "L1U15-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wash",
+   "options": [
+    "wash",
+    "careful",
+    "hamster"
+   ],
+   "answer": "wash"
+  },
+  {
+   "id": "L1U15-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "brush",
+   "options": [
+    "goldfish",
+    "brush",
+    "feed"
+   ],
+   "answer": "brush"
+  },
+  {
+   "id": "L1U15-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hold",
+   "options": [
+    "kitten",
+    "brush",
+    "hold"
+   ],
+   "answer": "hold"
+  },
+  {
+   "id": "L1U15-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "talk",
+   "options": [
+    "cage",
+    "talk",
+    "pet"
+   ],
+   "answer": "talk"
+  },
+  {
+   "id": "L1U15-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "soft",
+   "options": [
+    "soft",
+    "wash",
+    "gentle"
+   ],
+   "answer": "soft"
+  },
+  {
+   "id": "L1U15-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cute",
+   "options": [
+    "cage",
+    "noisy",
+    "cute"
+   ],
+   "answer": "cute"
+  },
+  {
+   "id": "L1U15-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "quiet",
+   "options": [
+    "hold",
+    "gentle",
+    "quiet"
+   ],
+   "answer": "quiet"
+  },
+  {
+   "id": "L1U15-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "noisy",
+   "options": [
+    "feed",
+    "noisy",
+    "parrot"
+   ],
+   "answer": "noisy"
+  },
+  {
+   "id": "L1U15-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "careful",
+   "options": [
+    "food",
+    "puppy",
+    "careful"
+   ],
+   "answer": "careful"
+  },
+  {
+   "id": "L1U15-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "gentle",
+   "options": [
+    "pet",
+    "gentle",
+    "feed"
+   ],
+   "answer": "gentle"
+  },
+  {
+   "id": "L1U15-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cage",
+   "options": [
+    "quiet",
+    "soft",
+    "cage"
+   ],
+   "answer": "cage"
+  },
+  {
+   "id": "L1U15-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "food",
+   "options": [
+    "food",
+    "noisy",
+    "cage"
+   ],
+   "answer": "food"
+  },
+  {
+   "id": "L1U15-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "p",
+   "answer": "p"
+  },
+  {
+   "id": "L1U15-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "k",
+   "answer": "k"
+  },
+  {
+   "id": "L1U15-Q099",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "h",
+   "answer": "h"
+  },
+  {
+   "id": "L1U15-Q100",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "t",
+   "answer": "t"
+  },
+  {
+   "id": "L1U15-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "pet",
+   "answer": "pet"
+  },
+  {
+   "id": "L1U15-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "puppy",
+   "answer": "puppy"
+  },
+  {
+   "id": "L1U15-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "kitten",
+   "answer": "kitten"
+  },
+  {
+   "id": "L1U15-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "parrot",
+   "answer": "parrot"
+  },
+  {
+   "id": "L1U15-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "turtle",
+   "answer": "turtle"
+  },
+  {
+   "id": "L1U15-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "feed",
+   "answer": "feed"
+  },
+  {
+   "id": "L1U15-Q107",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "wash",
+   "answer": "wash"
+  },
+  {
+   "id": "L1U15-Q108",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "brush",
+   "answer": "brush"
+  }
+ ]
+}

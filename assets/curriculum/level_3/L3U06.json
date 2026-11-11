@@ -1,0 +1,2498 @@
+{
+ "id": "L3U06",
+ "level": 3,
+ "unit": 6,
+ "topic_en": "Our planet",
+ "topic_vi": "Hành tinh của chúng ta",
+ "can_do_vi": [
+  "Nói những việc làm để bảo vệ môi trường",
+  "Khuyên bạn bằng \"We should...\""
+ ],
+ "grammar_note_vi": "Khuyên ai nên làm gì dùng \"should + động từ\": \"We should save water.\" (Chúng ta nên tiết kiệm nước.) Không nên: \"We shouldn't waste food.\"",
+ "items": [
+  {
+   "id": "L3U06-W01",
+   "type": "word",
+   "en": "planet",
+   "vi": "hành tinh",
+   "ipa": "/ˈplænət/",
+   "syllables": [
+    "plan",
+    "et"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1FA90"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "We live on a beautiful planet.",
+   "example_vi": "Chúng ta sống trên một hành tinh xinh đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W02",
+   "type": "word",
+   "en": "Earth",
+   "vi": "Trái Đất",
+   "ipa": "/ʌrθ/",
+   "syllables": [
+    "Earth"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "The Earth is our home.",
+   "example_vi": "Trái Đất là ngôi nhà của chúng ta.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W03",
+   "type": "word",
+   "en": "world",
+   "vi": "thế giới",
+   "ipa": "/wʌrld/",
+   "syllables": [
+    "world"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F310"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "There are many animals in the world.",
+   "example_vi": "Trên thế giới có rất nhiều loài vật.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W04",
+   "type": "word",
+   "en": "nature",
+   "vi": "thiên nhiên",
+   "ipa": "/ˈneɪtʃər/",
+   "syllables": [
+    "na",
+    "ture"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F33F"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "I love nature.",
+   "example_vi": "Tớ yêu thiên nhiên.",
+   "pron_focus": [
+    "sh_s",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W05",
+   "type": "word",
+   "en": "environment",
+   "vi": "môi trường",
+   "ipa": "/ɪnˈvaɪrənmənt/",
+   "syllables": [
+    "en",
+    "vi",
+    "ron",
+    "ment"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F30E"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Let's keep the environment clean.",
+   "example_vi": "Hãy giữ môi trường sạch sẽ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W06",
+   "type": "word",
+   "en": "rubbish",
+   "vi": "rác",
+   "ipa": "/ˈrʌbɪʃ/",
+   "syllables": [
+    "rub",
+    "bish"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6AE"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Don't leave rubbish on the beach.",
+   "example_vi": "Đừng để rác lại trên bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W07",
+   "type": "word",
+   "en": "bin",
+   "vi": "thùng rác",
+   "ipa": "/bɪn/",
+   "syllables": [
+    "bin"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F5D1-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "Put the rubbish in the bin.",
+   "example_vi": "Bỏ rác vào thùng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W08",
+   "type": "word",
+   "en": "recycle",
+   "vi": "tái chế",
+   "ipa": "/riˈsaɪkəl/",
+   "syllables": [
+    "re",
+    "cy",
+    "cle"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "267B-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "We recycle paper and bottles.",
+   "example_vi": "Nhà tớ tái chế giấy và chai lọ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W09",
+   "type": "word",
+   "en": "reuse",
+   "vi": "dùng lại",
+   "ipa": "/riˈjuz/",
+   "syllables": [
+    "re",
+    "use"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Reuse your shopping bags.",
+   "example_vi": "Dùng lại túi đi chợ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W10",
+   "type": "word",
+   "en": "plastic",
+   "vi": "nhựa",
+   "ipa": "/ˈplæstɪk/",
+   "syllables": [
+    "plas",
+    "tic"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "This bottle is made of plastic.",
+   "example_vi": "Cái chai này làm bằng nhựa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W11",
+   "type": "word",
+   "en": "metal",
+   "vi": "kim loại",
+   "ipa": "/ˈmɛtəl/",
+   "syllables": [
+    "met",
+    "al"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F529"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "The spoon is made of metal.",
+   "example_vi": "Cái thìa làm bằng kim loại.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W12",
+   "type": "word",
+   "en": "waste",
+   "vi": "lãng phí",
+   "ipa": "/weɪst/",
+   "syllables": [
+    "waste"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6AF"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Don't waste water.",
+   "example_vi": "Đừng lãng phí nước.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W13",
+   "type": "word",
+   "en": "energy",
+   "vi": "năng lượng",
+   "ipa": "/ˈɛnərdʒi/",
+   "syllables": [
+    "en",
+    "er",
+    "gy"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "The sun gives us energy.",
+   "example_vi": "Mặt trời cho chúng ta năng lượng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W14",
+   "type": "word",
+   "en": "electricity",
+   "vi": "điện",
+   "ipa": "/ɪˌlɛkˈtrɪsəti/",
+   "syllables": [
+    "electricity"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F50C"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "The lamp needs electricity.",
+   "example_vi": "Cái đèn cần điện.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W15",
+   "type": "phrase",
+   "en": "turn off",
+   "vi": "tắt",
+   "ipa": "/tʌrn ɔf/",
+   "syllables": [
+    "turn",
+    "off"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4F4"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Turn off the light, please.",
+   "example_vi": "Con tắt đèn đi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W16",
+   "type": "word",
+   "en": "pollution",
+   "vi": "sự ô nhiễm",
+   "ipa": "/pəˈluʃən/",
+   "syllables": [
+    "pol",
+    "lu",
+    "tion"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3ED"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Cars make a lot of pollution.",
+   "example_vi": "Ô tô gây ra nhiều ô nhiễm.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W17",
+   "type": "word",
+   "en": "smoke",
+   "vi": "khói",
+   "ipa": "/smoʊk/",
+   "syllables": [
+    "smoke"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4A8"
+   },
+   "picturable": true,
+   "cat": "L3U06",
+   "example_en": "There is smoke from the factory.",
+   "example_vi": "Có khói từ nhà máy.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W18",
+   "type": "word",
+   "en": "protect",
+   "vi": "bảo vệ",
+   "ipa": "/prəˈtɛkt/",
+   "syllables": [
+    "pro",
+    "tect"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6E1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "We should protect animals.",
+   "example_vi": "Chúng ta nên bảo vệ động vật.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W19",
+   "type": "word",
+   "en": "should",
+   "vi": "nên",
+   "ipa": "/ʃʊd/",
+   "syllables": [
+    "should"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "You should drink water.",
+   "example_vi": "Cậu nên uống nước.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W20",
+   "type": "word",
+   "en": "down",
+   "vi": "xuống",
+   "ipa": "/daʊn/",
+   "syllables": [
+    "down"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "23EC"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Sit down, please.",
+   "example_vi": "Mời ngồi xuống.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W21",
+   "type": "phrase",
+   "en": "cut down",
+   "vi": "chặt (cây)",
+   "ipa": "/kʌt daʊn/",
+   "syllables": [
+    "cut",
+    "down"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1FA93"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Don't cut down the trees.",
+   "example_vi": "Đừng chặt cây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W22",
+   "type": "phrase",
+   "en": "pick up",
+   "vi": "nhặt lên",
+   "ipa": "/pɪk ʌp/",
+   "syllables": [
+    "pick",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Pick up your toys, please.",
+   "example_vi": "Nhặt đồ chơi lên nào con.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W23",
+   "type": "phrase",
+   "en": "throw away",
+   "vi": "vứt đi",
+   "ipa": "/θroʊ əˈweɪ/",
+   "syllables": [
+    "throw",
+    "away"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6AE"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Don't throw away old toys.",
+   "example_vi": "Đừng vứt đồ chơi cũ đi.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W24",
+   "type": "word",
+   "en": "ground",
+   "vi": "mặt đất",
+   "ipa": "/ɡraʊnd/",
+   "syllables": [
+    "ground"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F7EB"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "The leaves are on the ground.",
+   "example_vi": "Lá nằm trên mặt đất.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W25",
+   "type": "word",
+   "en": "fix",
+   "vi": "sửa",
+   "ipa": "/fɪks/",
+   "syllables": [
+    "fix"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F527"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Dad can fix my bike.",
+   "example_vi": "Bố sửa được xe đạp của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W26",
+   "type": "word",
+   "en": "broken",
+   "vi": "bị hỏng",
+   "ipa": "/ˈbroʊkən/",
+   "syllables": [
+    "bro",
+    "ken"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F494"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "My toy car is broken.",
+   "example_vi": "Ô tô đồ chơi của tớ bị hỏng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W27",
+   "type": "word",
+   "en": "useful",
+   "vi": "có ích",
+   "ipa": "/ˈjusfəl/",
+   "syllables": [
+    "use",
+    "ful"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "A bag is very useful.",
+   "example_vi": "Cái túi rất có ích.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W28",
+   "type": "word",
+   "en": "use",
+   "vi": "dùng, sử dụng",
+   "ipa": "/juz/",
+   "syllables": [
+    "use"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F9F0"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "I use a pencil to write.",
+   "example_vi": "Tớ dùng bút chì để viết.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W29",
+   "type": "word",
+   "en": "less",
+   "vi": "ít hơn",
+   "ipa": "/lɛs/",
+   "syllables": [
+    "less"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "2796"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Use less water.",
+   "example_vi": "Dùng ít nước hơn nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U06-W30",
+   "type": "word",
+   "en": "instead",
+   "vi": "thay vào đó",
+   "ipa": "/ˌɪnˈstɛd/",
+   "syllables": [
+    "in",
+    "stead"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L3U06",
+   "example_en": "Don't take the car. Walk instead.",
+   "example_vi": "Đừng đi ô tô. Thay vào đó hãy đi bộ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U06-P01",
+   "en": "We should {x}.",
+   "vi": "Chúng ta nên {x}.",
+   "slots": {
+    "x": [
+     "recycle paper",
+     "save water",
+     "turn off the lights",
+     "pick up rubbish"
+    ]
+   }
+  },
+  {
+   "id": "L3U06-P02",
+   "en": "Don't {x}.",
+   "vi": "Đừng {x}.",
+   "slots": {
+    "x": [
+     "waste water",
+     "throw away food",
+     "cut down trees"
+    ]
+   }
+  },
+  {
+   "id": "L3U06-P03",
+   "en": "This is made of {x}.",
+   "vi": "Cái này làm bằng {x}.",
+   "slots": {
+    "x": [
+     "plastic",
+     "metal",
+     "glass",
+     "paper"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U06-D01",
+   "title_vi": "Bỏ rác đúng chỗ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Look! There is a bottle on the ground.",
+     "vi": "Nhìn kìa! Có cái chai trên mặt đất."
+    },
+    {
+     "role": "Kid",
+     "en": "Let's pick it up.",
+     "vi": "Mình nhặt nó lên đi."
+    },
+    {
+     "role": "Bi",
+     "en": "Where should we put it?",
+     "vi": "Mình nên bỏ nó vào đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "In the recycling bin!",
+     "vi": "Vào thùng rác tái chế!"
+    },
+    {
+     "role": "Bi",
+     "en": "Good job! We can protect the Earth.",
+     "vi": "Giỏi lắm! Mình có thể bảo vệ Trái Đất."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "bottle",
+    "options": [
+     "bag",
+     "box"
+    ]
+   }
+  },
+  {
+   "id": "L3U06-D02",
+   "title_vi": "Tiết kiệm điện nước",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, the light is on, but nobody is here.",
+     "vi": "Bi ơi, đèn bật mà không có ai ở đây."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's turn it off. We shouldn't waste energy.",
+     "vi": "Mình tắt nó đi. Không nên lãng phí năng lượng."
+    },
+    {
+     "role": "Kid",
+     "en": "And we should turn off the tap too.",
+     "vi": "Và mình cũng nên khoá vòi nước nữa."
+    },
+    {
+     "role": "Bi",
+     "en": "You're right!",
+     "vi": "Cậu nói đúng!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "light",
+    "options": [
+     "TV",
+     "tap"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "planet"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Earth"
+  },
+  {
+   "type": "dictate_word",
+   "target": "world"
+  },
+  {
+   "type": "dictate_word",
+   "target": "nature"
+  },
+  {
+   "type": "dictate_word",
+   "target": "environment"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rubbish"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bin"
+  },
+  {
+   "type": "dictate_word",
+   "target": "recycle"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We live on a beautiful planet."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The Earth is our home."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "There are many animals in the world."
+  },
+  {
+   "type": "write_sentences",
+   "target": "We should|We shouldn't|I can help the Earth"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U06-R01",
+   "title_en": "Clean beach day",
+   "text_en": [
+    "Last Sunday, Lan and her class went to the beach.",
+    "But it was very dirty.",
+    "There was a lot of rubbish on the sand.",
+    "There were plastic bottles, bags and old shoes.",
+    "The children picked up all the rubbish.",
+    "They put the plastic and glass in the recycling bins.",
+    "After that, the beach was clean and beautiful again.",
+    "A turtle walked out of the sea.",
+    "Lan smiled.",
+    "She was proud of her class."
+   ],
+   "questions": [
+    {
+     "q": "Where did Lan's class go?",
+     "options": [
+      "To the beach.",
+      "To the forest.",
+      "To the zoo."
+     ],
+     "answer": "To the beach."
+    },
+    {
+     "q": "What did the children do?",
+     "options": [
+      "They picked up rubbish.",
+      "They swam in the sea.",
+      "They built a castle."
+     ],
+     "answer": "They picked up rubbish."
+    },
+    {
+     "q": "What came out of the sea?",
+     "options": [
+      "A turtle.",
+      "A dolphin.",
+      "A fish."
+     ],
+     "answer": "A turtle."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U06-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "planet",
+   "item": "planet",
+   "options": [
+    "planet",
+    "metal",
+    "bin",
+    "recycle"
+   ],
+   "answer": "planet"
+  },
+  {
+   "id": "L3U06-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Earth",
+   "item": "Earth",
+   "options": [
+    "electricity",
+    "metal",
+    "Earth",
+    "bin"
+   ],
+   "answer": "Earth"
+  },
+  {
+   "id": "L3U06-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bin",
+   "item": "bin",
+   "options": [
+    "recycle",
+    "planet",
+    "bin",
+    "Earth"
+   ],
+   "answer": "bin"
+  },
+  {
+   "id": "L3U06-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "recycle",
+   "item": "recycle",
+   "options": [
+    "smoke",
+    "recycle",
+    "planet",
+    "metal"
+   ],
+   "answer": "recycle"
+  },
+  {
+   "id": "L3U06-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "metal",
+   "item": "metal",
+   "options": [
+    "recycle",
+    "planet",
+    "metal",
+    "bin"
+   ],
+   "answer": "metal"
+  },
+  {
+   "id": "L3U06-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "electricity",
+   "item": "electricity",
+   "options": [
+    "bin",
+    "smoke",
+    "electricity",
+    "recycle"
+   ],
+   "answer": "electricity"
+  },
+  {
+   "id": "L3U06-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "smoke",
+   "item": "smoke",
+   "options": [
+    "bin",
+    "recycle",
+    "Earth",
+    "smoke"
+   ],
+   "answer": "smoke"
+  },
+  {
+   "id": "L3U06-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "world",
+   "item": "world",
+   "options": [
+    "nature",
+    "world",
+    "bin",
+    "protect"
+   ],
+   "answer": "world"
+  },
+  {
+   "id": "L3U06-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nature",
+   "item": "nature",
+   "options": [
+    "recycle",
+    "nature",
+    "smoke",
+    "rubbish"
+   ],
+   "answer": "nature"
+  },
+  {
+   "id": "L3U06-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "environment",
+   "item": "environment",
+   "options": [
+    "environment",
+    "cut down",
+    "useful",
+    "bin"
+   ],
+   "answer": "environment"
+  },
+  {
+   "id": "L3U06-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rubbish",
+   "item": "rubbish",
+   "options": [
+    "world",
+    "throw away",
+    "ground",
+    "rubbish"
+   ],
+   "answer": "rubbish"
+  },
+  {
+   "id": "L3U06-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reuse",
+   "item": "reuse",
+   "options": [
+    "use",
+    "energy",
+    "throw away",
+    "reuse"
+   ],
+   "answer": "reuse"
+  },
+  {
+   "id": "L3U06-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "plastic",
+   "item": "plastic",
+   "options": [
+    "electricity",
+    "bin",
+    "plastic",
+    "rubbish"
+   ],
+   "answer": "plastic"
+  },
+  {
+   "id": "L3U06-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "waste",
+   "item": "waste",
+   "options": [
+    "recycle",
+    "should",
+    "waste",
+    "throw away"
+   ],
+   "answer": "waste"
+  },
+  {
+   "id": "L3U06-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "energy",
+   "item": "energy",
+   "options": [
+    "broken",
+    "pick up",
+    "metal",
+    "energy"
+   ],
+   "answer": "energy"
+  },
+  {
+   "id": "L3U06-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "turn off",
+   "item": "turn off",
+   "options": [
+    "recycle",
+    "throw away",
+    "turn off",
+    "should"
+   ],
+   "answer": "turn off"
+  },
+  {
+   "id": "L3U06-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pollution",
+   "item": "pollution",
+   "options": [
+    "should",
+    "planet",
+    "pollution",
+    "broken"
+   ],
+   "answer": "pollution"
+  },
+  {
+   "id": "L3U06-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "protect",
+   "item": "protect",
+   "options": [
+    "metal",
+    "protect",
+    "nature",
+    "electricity"
+   ],
+   "answer": "protect"
+  },
+  {
+   "id": "L3U06-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "should",
+   "item": "should",
+   "options": [
+    "electricity",
+    "rubbish",
+    "world",
+    "should"
+   ],
+   "answer": "should"
+  },
+  {
+   "id": "L3U06-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "down",
+   "item": "down",
+   "options": [
+    "smoke",
+    "down",
+    "ground",
+    "reuse"
+   ],
+   "answer": "down"
+  },
+  {
+   "id": "L3U06-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cut down",
+   "item": "cut down",
+   "options": [
+    "cut down",
+    "smoke",
+    "down",
+    "waste"
+   ],
+   "answer": "cut down"
+  },
+  {
+   "id": "L3U06-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pick up",
+   "item": "pick up",
+   "options": [
+    "Earth",
+    "instead",
+    "pick up",
+    "plastic"
+   ],
+   "answer": "pick up"
+  },
+  {
+   "id": "L3U06-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "throw away",
+   "item": "throw away",
+   "options": [
+    "broken",
+    "throw away",
+    "planet",
+    "cut down"
+   ],
+   "answer": "throw away"
+  },
+  {
+   "id": "L3U06-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ground",
+   "item": "ground",
+   "options": [
+    "use",
+    "ground",
+    "protect",
+    "throw away"
+   ],
+   "answer": "ground"
+  },
+  {
+   "id": "L3U06-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fix",
+   "item": "fix",
+   "options": [
+    "waste",
+    "down",
+    "Earth",
+    "fix"
+   ],
+   "answer": "fix"
+  },
+  {
+   "id": "L3U06-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "broken",
+   "item": "broken",
+   "options": [
+    "broken",
+    "cut down",
+    "use",
+    "fix"
+   ],
+   "answer": "broken"
+  },
+  {
+   "id": "L3U06-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "useful",
+   "item": "useful",
+   "options": [
+    "pick up",
+    "recycle",
+    "should",
+    "useful"
+   ],
+   "answer": "useful"
+  },
+  {
+   "id": "L3U06-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "use",
+   "item": "use",
+   "options": [
+    "planet",
+    "less",
+    "use",
+    "broken"
+   ],
+   "answer": "use"
+  },
+  {
+   "id": "L3U06-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "less",
+   "item": "less",
+   "options": [
+    "useful",
+    "ground",
+    "less",
+    "pick up"
+   ],
+   "answer": "less"
+  },
+  {
+   "id": "L3U06-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "instead",
+   "item": "instead",
+   "options": [
+    "useful",
+    "smoke",
+    "bin",
+    "instead"
+   ],
+   "answer": "instead"
+  },
+  {
+   "id": "L3U06-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "planet",
+   "answer": "planet"
+  },
+  {
+   "id": "L3U06-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Earth",
+   "answer": "Earth"
+  },
+  {
+   "id": "L3U06-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bin",
+   "answer": "bin"
+  },
+  {
+   "id": "L3U06-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "recycle",
+   "answer": "recycle"
+  },
+  {
+   "id": "L3U06-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "metal",
+   "answer": "metal"
+  },
+  {
+   "id": "L3U06-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "electricity",
+   "answer": "electricity"
+  },
+  {
+   "id": "L3U06-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "smoke",
+   "answer": "smoke"
+  },
+  {
+   "id": "L3U06-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We live on a beautiful planet.",
+   "item": "planet",
+   "answer": "We live on a beautiful planet."
+  },
+  {
+   "id": "L3U06-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The Earth is our home.",
+   "item": "Earth",
+   "answer": "The Earth is our home."
+  },
+  {
+   "id": "L3U06-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are many animals in the world.",
+   "item": "world",
+   "answer": "There are many animals in the world."
+  },
+  {
+   "id": "L3U06-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love nature.",
+   "item": "nature",
+   "answer": "I love nature."
+  },
+  {
+   "id": "L3U06-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's keep the environment clean.",
+   "item": "environment",
+   "answer": "Let's keep the environment clean."
+  },
+  {
+   "id": "L3U06-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't leave rubbish on the beach.",
+   "item": "rubbish",
+   "answer": "Don't leave rubbish on the beach."
+  },
+  {
+   "id": "L3U06-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the rubbish in the bin.",
+   "item": "bin",
+   "answer": "Put the rubbish in the bin."
+  },
+  {
+   "id": "L3U06-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We recycle paper and bottles.",
+   "item": "recycle",
+   "answer": "We recycle paper and bottles."
+  },
+  {
+   "id": "L3U06-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Reuse your shopping bags.",
+   "item": "reuse",
+   "answer": "Reuse your shopping bags."
+  },
+  {
+   "id": "L3U06-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This bottle is made of plastic.",
+   "item": "plastic",
+   "answer": "This bottle is made of plastic."
+  },
+  {
+   "id": "L3U06-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The spoon is made of metal.",
+   "item": "metal",
+   "answer": "The spoon is made of metal."
+  },
+  {
+   "id": "L3U06-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't waste water.",
+   "item": "waste",
+   "answer": "Don't waste water."
+  },
+  {
+   "id": "L3U06-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sun gives us energy.",
+   "item": "energy",
+   "answer": "The sun gives us energy."
+  },
+  {
+   "id": "L3U06-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lamp needs electricity.",
+   "item": "electricity",
+   "answer": "The lamp needs electricity."
+  },
+  {
+   "id": "L3U06-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn off the light, please.",
+   "item": "turn off",
+   "answer": "Turn off the light, please."
+  },
+  {
+   "id": "L3U06-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cars make a lot of pollution.",
+   "item": "pollution",
+   "answer": "Cars make a lot of pollution."
+  },
+  {
+   "id": "L3U06-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is smoke from the factory.",
+   "item": "smoke",
+   "answer": "There is smoke from the factory."
+  },
+  {
+   "id": "L3U06-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should protect animals.",
+   "item": "protect",
+   "answer": "We should protect animals."
+  },
+  {
+   "id": "L3U06-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You should drink water.",
+   "item": "should",
+   "answer": "You should drink water."
+  },
+  {
+   "id": "L3U06-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sit down, please.",
+   "item": "down",
+   "answer": "Sit down, please."
+  },
+  {
+   "id": "L3U06-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't cut down the trees.",
+   "item": "cut down",
+   "answer": "Don't cut down the trees."
+  },
+  {
+   "id": "L3U06-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pick up your toys, please.",
+   "item": "pick up",
+   "answer": "Pick up your toys, please."
+  },
+  {
+   "id": "L3U06-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't throw away old toys.",
+   "item": "throw away",
+   "answer": "Don't throw away old toys."
+  },
+  {
+   "id": "L3U06-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The leaves are on the ground.",
+   "item": "ground",
+   "answer": "The leaves are on the ground."
+  },
+  {
+   "id": "L3U06-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad can fix my bike.",
+   "item": "fix",
+   "answer": "Dad can fix my bike."
+  },
+  {
+   "id": "L3U06-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My toy car is broken.",
+   "item": "broken",
+   "answer": "My toy car is broken."
+  },
+  {
+   "id": "L3U06-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A bag is very useful.",
+   "item": "useful",
+   "answer": "A bag is very useful."
+  },
+  {
+   "id": "L3U06-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I use a pencil to write.",
+   "item": "use",
+   "answer": "I use a pencil to write."
+  },
+  {
+   "id": "L3U06-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Use less water.",
+   "item": "less",
+   "answer": "Use less water."
+  },
+  {
+   "id": "L3U06-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't take the car. Walk instead.",
+   "item": "instead",
+   "answer": "Don't take the car. Walk instead."
+  },
+  {
+   "id": "L3U06-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should recycle paper.",
+   "answer": "We should recycle paper."
+  },
+  {
+   "id": "L3U06-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should save water.",
+   "answer": "We should save water."
+  },
+  {
+   "id": "L3U06-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should turn off the lights.",
+   "answer": "We should turn off the lights."
+  },
+  {
+   "id": "L3U06-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't waste water.",
+   "answer": "Don't waste water."
+  },
+  {
+   "id": "L3U06-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't throw away food.",
+   "answer": "Don't throw away food."
+  },
+  {
+   "id": "L3U06-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't cut down trees.",
+   "answer": "Don't cut down trees."
+  },
+  {
+   "id": "L3U06-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is made of plastic.",
+   "answer": "This is made of plastic."
+  },
+  {
+   "id": "L3U06-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is made of metal.",
+   "answer": "This is made of metal."
+  },
+  {
+   "id": "L3U06-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is made of glass.",
+   "answer": "This is made of glass."
+  },
+  {
+   "id": "L3U06-Q077",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where should we put it?",
+   "answer": "In the recycling bin!"
+  },
+  {
+   "id": "L3U06-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "planet",
+   "options": [
+    "recycle",
+    "electricity",
+    "planet"
+   ],
+   "answer": "planet"
+  },
+  {
+   "id": "L3U06-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Earth",
+   "options": [
+    "Earth",
+    "recycle",
+    "planet"
+   ],
+   "answer": "Earth"
+  },
+  {
+   "id": "L3U06-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bin",
+   "options": [
+    "smoke",
+    "Earth",
+    "bin"
+   ],
+   "answer": "bin"
+  },
+  {
+   "id": "L3U06-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "recycle",
+   "options": [
+    "recycle",
+    "smoke",
+    "metal"
+   ],
+   "answer": "recycle"
+  },
+  {
+   "id": "L3U06-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "metal",
+   "options": [
+    "Earth",
+    "metal",
+    "planet"
+   ],
+   "answer": "metal"
+  },
+  {
+   "id": "L3U06-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "electricity",
+   "options": [
+    "bin",
+    "electricity",
+    "metal"
+   ],
+   "answer": "electricity"
+  },
+  {
+   "id": "L3U06-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "smoke",
+   "options": [
+    "metal",
+    "planet",
+    "smoke"
+   ],
+   "answer": "smoke"
+  },
+  {
+   "id": "L3U06-Q085",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We live on a beautiful ___.",
+   "item": "planet",
+   "options": [
+    "bin",
+    "planet",
+    "fix"
+   ],
+   "answer": "planet"
+  },
+  {
+   "id": "L3U06-Q086",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are many animals in the ___.",
+   "item": "world",
+   "options": [
+    "use",
+    "protect",
+    "world"
+   ],
+   "answer": "world"
+  },
+  {
+   "id": "L3U06-Q087",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I love ___.",
+   "item": "nature",
+   "options": [
+    "should",
+    "world",
+    "nature"
+   ],
+   "answer": "nature"
+  },
+  {
+   "id": "L3U06-Q088",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's keep the ___ clean.",
+   "item": "environment",
+   "options": [
+    "down",
+    "useful",
+    "environment"
+   ],
+   "answer": "environment"
+  },
+  {
+   "id": "L3U06-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't leave ___ on the beach.",
+   "item": "rubbish",
+   "options": [
+    "rubbish",
+    "electricity",
+    "pollution"
+   ],
+   "answer": "rubbish"
+  },
+  {
+   "id": "L3U06-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the rubbish in the ___.",
+   "item": "bin",
+   "options": [
+    "should",
+    "waste",
+    "bin"
+   ],
+   "answer": "bin"
+  },
+  {
+   "id": "L3U06-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ paper and bottles.",
+   "item": "recycle",
+   "options": [
+    "rubbish",
+    "recycle",
+    "planet"
+   ],
+   "answer": "recycle"
+  },
+  {
+   "id": "L3U06-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your shopping bags.",
+   "item": "reuse",
+   "options": [
+    "Pollution",
+    "Metal",
+    "Reuse"
+   ],
+   "answer": "Reuse"
+  },
+  {
+   "id": "L3U06-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This bottle is made of ___.",
+   "item": "plastic",
+   "options": [
+    "broken",
+    "fix",
+    "plastic"
+   ],
+   "answer": "plastic"
+  },
+  {
+   "id": "L3U06-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The spoon is made of ___.",
+   "item": "metal",
+   "options": [
+    "planet",
+    "metal",
+    "protect"
+   ],
+   "answer": "metal"
+  },
+  {
+   "id": "L3U06-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ water.",
+   "item": "waste",
+   "options": [
+    "metal",
+    "electricity",
+    "waste"
+   ],
+   "answer": "waste"
+  },
+  {
+   "id": "L3U06-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sun gives us ___.",
+   "item": "energy",
+   "options": [
+    "waste",
+    "useful",
+    "energy"
+   ],
+   "answer": "energy"
+  },
+  {
+   "id": "L3U06-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The lamp needs ___.",
+   "item": "electricity",
+   "options": [
+    "protect",
+    "waste",
+    "electricity"
+   ],
+   "answer": "electricity"
+  },
+  {
+   "id": "L3U06-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cars make a lot of ___.",
+   "item": "pollution",
+   "options": [
+    "recycle",
+    "pollution",
+    "energy"
+   ],
+   "answer": "pollution"
+  },
+  {
+   "id": "L3U06-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is ___ from the factory.",
+   "item": "smoke",
+   "options": [
+    "energy",
+    "smoke",
+    "should"
+   ],
+   "answer": "smoke"
+  },
+  {
+   "id": "L3U06-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should ___ animals.",
+   "item": "protect",
+   "options": [
+    "rubbish",
+    "protect",
+    "environment"
+   ],
+   "answer": "protect"
+  },
+  {
+   "id": "L3U06-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You ___ drink water.",
+   "item": "should",
+   "options": [
+    "energy",
+    "should",
+    "bin"
+   ],
+   "answer": "should"
+  },
+  {
+   "id": "L3U06-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sit ___, please.",
+   "item": "down",
+   "options": [
+    "down",
+    "broken",
+    "rubbish"
+   ],
+   "answer": "down"
+  },
+  {
+   "id": "L3U06-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The leaves are on the ___.",
+   "item": "ground",
+   "options": [
+    "ground",
+    "instead",
+    "broken"
+   ],
+   "answer": "ground"
+  },
+  {
+   "id": "L3U06-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad can ___ my bike.",
+   "item": "fix",
+   "options": [
+    "fix",
+    "instead",
+    "useful"
+   ],
+   "answer": "fix"
+  },
+  {
+   "id": "L3U06-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My toy car is ___.",
+   "item": "broken",
+   "options": [
+    "broken",
+    "should",
+    "recycle"
+   ],
+   "answer": "broken"
+  },
+  {
+   "id": "L3U06-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A bag is very ___.",
+   "item": "useful",
+   "options": [
+    "pollution",
+    "less",
+    "useful"
+   ],
+   "answer": "useful"
+  },
+  {
+   "id": "L3U06-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a pencil to write.",
+   "item": "use",
+   "options": [
+    "use",
+    "down",
+    "useful"
+   ],
+   "answer": "use"
+  },
+  {
+   "id": "L3U06-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Use ___ water.",
+   "item": "less",
+   "options": [
+    "smoke",
+    "less",
+    "ground"
+   ],
+   "answer": "less"
+  },
+  {
+   "id": "L3U06-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't take the car. Walk ___.",
+   "item": "instead",
+   "options": [
+    "ground",
+    "instead",
+    "rubbish"
+   ],
+   "answer": "instead"
+  },
+  {
+   "id": "L3U06-Q110",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We live on a beautiful planet.",
+   "item": "planet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U06-Q111",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The Earth is our home.",
+   "item": "bin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U06-Q112",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put the rubbish in the bin.",
+   "item": "bin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U06-Q113",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We recycle paper and bottles.",
+   "item": "metal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U06-Q114",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The spoon is made of metal.",
+   "item": "metal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U06-Q115",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The lamp needs electricity.",
+   "item": "smoke",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U06-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There is smoke from the factory.",
+   "item": "smoke",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U06-Q117",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U06-R01",
+   "text_en": "Where did Lan's class go?",
+   "options": [
+    "To the beach.",
+    "To the forest.",
+    "To the zoo."
+   ],
+   "answer": "To the beach."
+  },
+  {
+   "id": "L3U06-Q118",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U06-R01",
+   "text_en": "What did the children do?",
+   "options": [
+    "They swam in the sea.",
+    "They built a castle.",
+    "They picked up rubbish."
+   ],
+   "answer": "They picked up rubbish."
+  },
+  {
+   "id": "L3U06-Q119",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U06-R01",
+   "text_en": "What came out of the sea?",
+   "options": [
+    "A dolphin.",
+    "A fish.",
+    "A turtle."
+   ],
+   "answer": "A turtle."
+  },
+  {
+   "id": "L3U06-Q120",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "planet",
+   "item": "planet",
+   "answer": "planet"
+  },
+  {
+   "id": "L3U06-Q121",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Earth",
+   "item": "Earth",
+   "answer": "Earth"
+  },
+  {
+   "id": "L3U06-Q122",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "world",
+   "item": "world",
+   "answer": "world"
+  },
+  {
+   "id": "L3U06-Q123",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "nature",
+   "item": "nature",
+   "answer": "nature"
+  },
+  {
+   "id": "L3U06-Q124",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "environment",
+   "item": "environment",
+   "answer": "environment"
+  },
+  {
+   "id": "L3U06-Q125",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rubbish",
+   "item": "rubbish",
+   "answer": "rubbish"
+  },
+  {
+   "id": "L3U06-Q126",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bin",
+   "item": "bin",
+   "answer": "bin"
+  },
+  {
+   "id": "L3U06-Q127",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "recycle",
+   "item": "recycle",
+   "answer": "recycle"
+  },
+  {
+   "id": "L3U06-Q128",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We live on a beautiful planet.",
+   "answer": "We live on a beautiful planet."
+  },
+  {
+   "id": "L3U06-Q129",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The Earth is our home.",
+   "answer": "The Earth is our home."
+  },
+  {
+   "id": "L3U06-Q130",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "There are many animals in the world.",
+   "answer": "There are many animals in the world."
+  }
+ ]
+}

@@ -1,0 +1,3038 @@
+{
+ "id": "L4U03",
+ "level": 4,
+ "unit": 3,
+ "topic_en": "Asking the way",
+ "topic_vi": "Hỏi đường",
+ "can_do_vi": [
+  "Hỏi đường lịch sự và chỉ đường cho người khác",
+  "Hiểu từ chỉ vị trí và phương hướng"
+ ],
+ "grammar_note_vi": "Hỏi đường lịch sự: \"Excuse me, how do I get to the museum?\" Chỉ đường: \"Go straight on. Take the second turning on the left. It's opposite the bank.\"",
+ "items": [
+  {
+   "id": "L4U03-W01",
+   "type": "phrase",
+   "en": "excuse me",
+   "vi": "xin lỗi (cho hỏi)",
+   "ipa": "/ɪkˈskjuz mi/",
+   "syllables": [
+    "ex",
+    "cuse",
+    "me"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Excuse me, where is the bank?",
+   "example_vi": "Xin lỗi, ngân hàng ở đâu ạ?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W02",
+   "type": "phrase",
+   "en": "get to",
+   "vi": "đến (nơi nào)",
+   "ipa": "/ɡɪt tɪ/",
+   "syllables": [
+    "get",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "How do I get to the museum?",
+   "example_vi": "Đến bảo tàng đi thế nào ạ?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W03",
+   "type": "word",
+   "en": "turning",
+   "vi": "chỗ rẽ",
+   "ipa": "/ˈtʌrnɪŋ/",
+   "syllables": [
+    "turn",
+    "ing"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "21A9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Take the second turning on the left.",
+   "example_vi": "Rẽ vào ngã rẽ thứ hai bên trái.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W04",
+   "type": "word",
+   "en": "crossroads",
+   "vi": "ngã tư",
+   "ipa": "/ˈkrɔsˌroʊdz/",
+   "syllables": [
+    "cross",
+    "roads"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2716-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Turn right at the crossroads.",
+   "example_vi": "Rẽ phải ở ngã tư.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W05",
+   "type": "word",
+   "en": "roundabout",
+   "vi": "vòng xuyến",
+   "ipa": "/ˈraʊndəˌbaʊt/",
+   "syllables": [
+    "roundabout"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "2B55"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Turn left at the roundabout.",
+   "example_vi": "Rẽ trái ở vòng xuyến.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W06",
+   "type": "word",
+   "en": "along",
+   "vi": "dọc theo",
+   "ipa": "/əˈlɔŋ/",
+   "syllables": [
+    "along"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Walk along this street.",
+   "example_vi": "Đi dọc theo phố này.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W07",
+   "type": "word",
+   "en": "across",
+   "vi": "băng qua, bên kia",
+   "ipa": "/əˈkrɔs/",
+   "syllables": [
+    "across"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The park is across the road.",
+   "example_vi": "Công viên ở bên kia đường.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W08",
+   "type": "word",
+   "en": "over",
+   "vi": "qua, phía trên",
+   "ipa": "/ˈoʊvər/",
+   "syllables": [
+    "over"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "2934-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Walk over the bridge.",
+   "example_vi": "Đi qua cầu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W09",
+   "type": "word",
+   "en": "end",
+   "vi": "cuối",
+   "ipa": "/ɛnd/",
+   "syllables": [
+    "end"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F51A"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The café is at the end of the street.",
+   "example_vi": "Quán cà phê ở cuối phố.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W10",
+   "type": "word",
+   "en": "north",
+   "vi": "phía bắc",
+   "ipa": "/nɔrθ/",
+   "syllables": [
+    "north"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Hanoi is in the north of Vietnam.",
+   "example_vi": "Hà Nội ở miền Bắc Việt Nam.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W11",
+   "type": "word",
+   "en": "south",
+   "vi": "phía nam",
+   "ipa": "/saʊθ/",
+   "syllables": [
+    "south"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "It's hot in the south.",
+   "example_vi": "Miền Nam trời nóng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W12",
+   "type": "word",
+   "en": "east",
+   "vi": "phía đông",
+   "ipa": "/ist/",
+   "syllables": [
+    "east"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The sun comes up in the east.",
+   "example_vi": "Mặt trời mọc ở phía đông.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W13",
+   "type": "word",
+   "en": "west",
+   "vi": "phía tây",
+   "ipa": "/wɛst/",
+   "syllables": [
+    "west"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The sun goes down in the west.",
+   "example_vi": "Mặt trời lặn ở phía tây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W14",
+   "type": "word",
+   "en": "direction",
+   "vi": "hướng",
+   "ipa": "/dɪˈrɛkʃɪn/",
+   "syllables": [
+    "di",
+    "rec",
+    "tion"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Which direction is the station?",
+   "example_vi": "Nhà ga ở hướng nào?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W15",
+   "type": "phrase",
+   "en": "get lost",
+   "vi": "bị lạc",
+   "ipa": "/ɡɪt lɔst/",
+   "syllables": [
+    "get",
+    "lost"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Hold my hand. Don't get lost!",
+   "example_vi": "Nắm tay mẹ. Đừng để bị lạc!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W16",
+   "type": "phrase",
+   "en": "town hall",
+   "vi": "toà thị chính",
+   "ipa": "/taʊn hɔl/",
+   "syllables": [
+    "town",
+    "hall"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The town hall is in the centre.",
+   "example_vi": "Toà thị chính ở trung tâm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W17",
+   "type": "word",
+   "en": "temple",
+   "vi": "ngôi đền",
+   "ipa": "/ˈtɛmpəl/",
+   "syllables": [
+    "tem",
+    "ple"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F6D5"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "There is an old temple on the hill.",
+   "example_vi": "Có một ngôi đền cổ trên đồi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W18",
+   "type": "word",
+   "en": "pagoda",
+   "vi": "ngôi chùa",
+   "ipa": "/pəˈɡoʊdə/",
+   "syllables": [
+    "pagoda"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6D5"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "We visited a pagoda near the lake.",
+   "example_vi": "Nhà tớ đến thăm một ngôi chùa gần hồ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W19",
+   "type": "word",
+   "en": "hotel",
+   "vi": "khách sạn",
+   "ipa": "/hoʊˈtɛl/",
+   "syllables": [
+    "ho",
+    "tel"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3E8"
+   },
+   "picturable": true,
+   "cat": "L4U03",
+   "example_en": "Our hotel is near the beach.",
+   "example_vi": "Khách sạn của nhà tớ gần bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W20",
+   "type": "phrase",
+   "en": "petrol station",
+   "vi": "trạm xăng",
+   "ipa": "/ˈpɛtroʊl ˈsteɪʃən/",
+   "syllables": [
+    "petrol",
+    "sta",
+    "tion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "26FD"
+   },
+   "picturable": true,
+   "cat": "L4U03",
+   "example_en": "Dad stops at the petrol station.",
+   "example_vi": "Bố dừng ở trạm xăng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W21",
+   "type": "phrase",
+   "en": "car park",
+   "vi": "bãi đỗ xe",
+   "ipa": "/kɑr pɑrk/",
+   "syllables": [
+    "car",
+    "park"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F17F-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U03",
+   "example_en": "The car park is behind the supermarket.",
+   "example_vi": "Bãi đỗ xe ở sau siêu thị.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W22",
+   "type": "phrase",
+   "en": "bus station",
+   "vi": "bến xe buýt",
+   "ipa": "/bʌs ˈsteɪʃən/",
+   "syllables": [
+    "bus",
+    "sta",
+    "tion"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F68F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The bus station is next to the market.",
+   "example_vi": "Bến xe buýt ở cạnh chợ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W23",
+   "type": "word",
+   "en": "tourist",
+   "vi": "khách du lịch",
+   "ipa": "/ˈtʊrɪst/",
+   "syllables": [
+    "tourist"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4F8"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Many tourists visit Hanoi.",
+   "example_vi": "Nhiều khách du lịch đến Hà Nội.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W24",
+   "type": "word",
+   "en": "guide",
+   "vi": "hướng dẫn viên",
+   "ipa": "/ɡaɪd/",
+   "syllables": [
+    "guide"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Our guide told us about the castle.",
+   "example_vi": "Hướng dẫn viên kể cho bọn tớ về lâu đài.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W25",
+   "type": "word",
+   "en": "minute",
+   "vi": "phút",
+   "ipa": "/ˈmɪnət/",
+   "syllables": [
+    "minute"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "23F1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Wait a minute, please.",
+   "example_vi": "Chờ một phút nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W26",
+   "type": "word",
+   "en": "away",
+   "vi": "cách xa",
+   "ipa": "/əˈweɪ/",
+   "syllables": [
+    "away"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F44B"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The zoo is ten minutes away.",
+   "example_vi": "Sở thú cách đây mười phút.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W27",
+   "type": "word",
+   "en": "metre",
+   "vi": "mét",
+   "ipa": "/ˈmitər/",
+   "syllables": [
+    "me",
+    "tre"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The shop is fifty metres from here.",
+   "example_vi": "Cửa hàng cách đây năm mươi mét.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W28",
+   "type": "word",
+   "en": "kilometre",
+   "vi": "ki-lô-mét",
+   "ipa": "/ˌkɪˈlɔˌmətər/",
+   "syllables": [
+    "kilometre"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "My school is two kilometres from my house.",
+   "example_vi": "Trường tớ cách nhà hai cây số.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W29",
+   "type": "word",
+   "en": "entrance",
+   "vi": "lối vào",
+   "ipa": "/ˈɛntrəns/",
+   "syllables": [
+    "en",
+    "trance"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Meet me at the entrance.",
+   "example_vi": "Gặp tớ ở lối vào nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W30",
+   "type": "word",
+   "en": "exit",
+   "vi": "lối ra",
+   "ipa": "/ˈɛksət/",
+   "syllables": [
+    "ex",
+    "it"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Where is the exit?",
+   "example_vi": "Lối ra ở đâu?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W31",
+   "type": "word",
+   "en": "lift",
+   "vi": "thang máy",
+   "ipa": "/lɪft/",
+   "syllables": [
+    "lift"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F6D7"
+   },
+   "picturable": true,
+   "cat": "L4U03",
+   "example_en": "Let's take the lift to the top floor.",
+   "example_vi": "Mình đi thang máy lên tầng trên cùng nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W32",
+   "type": "word",
+   "en": "upstairs",
+   "vi": "trên lầu",
+   "ipa": "/əpˈstɛrz/",
+   "syllables": [
+    "up",
+    "stairs"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "23EB"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "My bedroom is upstairs.",
+   "example_vi": "Phòng ngủ của tớ ở trên lầu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W33",
+   "type": "word",
+   "en": "downstairs",
+   "vi": "dưới nhà",
+   "ipa": "/ˈdaʊnˈstɛrz/",
+   "syllables": [
+    "down",
+    "stairs"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "23EC"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The kitchen is downstairs.",
+   "example_vi": "Bếp ở dưới nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W34",
+   "type": "phrase",
+   "en": "straight on",
+   "vi": "đi thẳng",
+   "ipa": "/streɪt ɔn/",
+   "syllables": [
+    "straight",
+    "on"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2B06-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Go straight on for two minutes.",
+   "example_vi": "Đi thẳng khoảng hai phút.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W35",
+   "type": "word",
+   "en": "nearby",
+   "vi": "gần đây",
+   "ipa": "/ˈnɪrˈbaɪ/",
+   "syllables": [
+    "near",
+    "by"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "Is there a bank nearby?",
+   "example_vi": "Gần đây có ngân hàng không?",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W36",
+   "type": "word",
+   "en": "fountain",
+   "vi": "đài phun nước",
+   "ipa": "/ˈfaʊntən/",
+   "syllables": [
+    "foun",
+    "tain"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26F2"
+   },
+   "picturable": true,
+   "cat": "L4U03",
+   "example_en": "There is a fountain in the park.",
+   "example_vi": "Trong công viên có đài phun nước.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W37",
+   "type": "word",
+   "en": "statue",
+   "vi": "bức tượng",
+   "ipa": "/ˈstæˌtʃu/",
+   "syllables": [
+    "stat",
+    "ue"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5FF"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The statue is in the middle of the square.",
+   "example_vi": "Bức tượng ở giữa quảng trường.",
+   "pron_focus": [
+    "cluster",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W38",
+   "type": "word",
+   "en": "pass",
+   "vi": "đi qua",
+   "ipa": "/pæs/",
+   "syllables": [
+    "pass"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "You pass a bakery on your left.",
+   "example_vi": "Cậu sẽ đi qua một tiệm bánh bên tay trái.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W39",
+   "type": "word",
+   "en": "middle",
+   "vi": "ở giữa",
+   "ipa": "/ˈmɪdəl/",
+   "syllables": [
+    "mid",
+    "dle"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "23FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "The pool is in the middle of the hotel.",
+   "example_vi": "Bể bơi ở giữa khách sạn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U03-W40",
+   "type": "word",
+   "en": "top",
+   "vi": "đỉnh, trên cùng",
+   "ipa": "/tɔp/",
+   "syllables": [
+    "top"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F51D"
+   },
+   "picturable": false,
+   "cat": "L4U03",
+   "example_en": "There is a café at the top of the tower.",
+   "example_vi": "Có quán cà phê trên đỉnh tháp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U03-P01",
+   "en": "Excuse me, how do I get to the {x}?",
+   "vi": "Xin lỗi, đến {x} đi thế nào ạ?",
+   "slots": {
+    "x": [
+     "museum",
+     "bus station",
+     "hotel",
+     "town hall"
+    ]
+   }
+  },
+  {
+   "id": "L4U03-P02",
+   "en": "Turn {x} at the crossroads.",
+   "vi": "Rẽ {x} ở ngã tư.",
+   "slots": {
+    "x": [
+     "left",
+     "right"
+    ]
+   }
+  },
+  {
+   "id": "L4U03-P03",
+   "en": "The {x} is across the road.",
+   "vi": "{x} ở bên kia đường.",
+   "slots": {
+    "x": [
+     "park",
+     "bakery",
+     "temple",
+     "café"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U03-D01",
+   "title_vi": "Chỉ đường đến bảo tàng",
+   "roles": [
+    "Tourist",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Tourist",
+     "en": "Excuse me. How do I get to the museum?",
+     "vi": "Xin lỗi cháu. Đến bảo tàng đi thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "Go straight on along this street.",
+     "vi": "Cô đi thẳng dọc phố này."
+    },
+    {
+     "role": "Tourist",
+     "en": "Okay. And then?",
+     "vi": "Được. Rồi sao nữa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Turn left at the crossroads. It's next to the bank.",
+     "vi": "Rẽ trái ở ngã tư. Nó ở cạnh ngân hàng."
+    },
+    {
+     "role": "Tourist",
+     "en": "Is it far?",
+     "vi": "Có xa không cháu?"
+    },
+    {
+     "role": "Kid",
+     "en": "No, it's only five minutes away.",
+     "vi": "Không ạ, chỉ năm phút thôi."
+    },
+    {
+     "role": "Tourist",
+     "en": "Thank you very much!",
+     "vi": "Cảm ơn cháu nhiều!"
+    },
+    {
+     "role": "Kid",
+     "en": "You're welcome!",
+     "vi": "Không có gì ạ!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "museum",
+    "options": [
+     "library",
+     "cinema"
+    ]
+   }
+  },
+  {
+   "id": "L4U03-D02",
+   "title_vi": "Bị lạc trong trung tâm mua sắm",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, where are we? I think we're lost.",
+     "vi": "Bi ơi, mình đang ở đâu? Tớ nghĩ mình bị lạc rồi."
+    },
+    {
+     "role": "Bi",
+     "en": "Don't worry. Let's look at the map.",
+     "vi": "Đừng lo. Mình xem bản đồ nào."
+    },
+    {
+     "role": "Kid",
+     "en": "We want the cinema. Is it upstairs?",
+     "vi": "Mình muốn đến rạp chiếu phim. Nó ở trên lầu à?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes, on the top floor. Let's take the lift.",
+     "vi": "Đúng, ở tầng trên cùng. Mình đi thang máy nhé."
+    }
+   ],
+   "variation": {
+    "line": 2,
+    "key": "cinema",
+    "options": [
+     "café",
+     "bookshop"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "turning"
+  },
+  {
+   "type": "dictate_word",
+   "target": "crossroads"
+  },
+  {
+   "type": "dictate_word",
+   "target": "roundabout"
+  },
+  {
+   "type": "dictate_word",
+   "target": "along"
+  },
+  {
+   "type": "dictate_word",
+   "target": "across"
+  },
+  {
+   "type": "dictate_word",
+   "target": "over"
+  },
+  {
+   "type": "dictate_word",
+   "target": "end"
+  },
+  {
+   "type": "dictate_word",
+   "target": "north"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Excuse me, where is the bank?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "How do I get to the museum?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Take the second turning on the left."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Go straight on|Turn left at|It's next to"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U03-R01",
+   "title_en": "Finding the way",
+   "text_en": [
+    "Tom and his mum were tourists in a new city.",
+    "They wanted to visit an old temple, but they didn't know the way.",
+    "Tom's mum asked a woman for directions.",
+    "The woman told them to go straight on along the street.",
+    "Then they had to turn right at the roundabout and walk over the bridge.",
+    "The temple was at the end of the road, opposite a big fountain.",
+    "Tom and his mum followed the directions.",
+    "They passed a bakery and a petrol station.",
+    "After fifteen minutes, they saw the fountain.",
+    "The temple was beautiful, and they took a lot of photos."
+   ],
+   "questions": [
+    {
+     "q": "Who did Tom's mum ask for directions?",
+     "options": [
+      "A woman.",
+      "A police officer.",
+      "A guide."
+     ],
+     "answer": "A woman."
+    },
+    {
+     "q": "What is opposite the temple?",
+     "options": [
+      "A big fountain.",
+      "A bakery.",
+      "A petrol station."
+     ],
+     "answer": "A big fountain."
+    },
+    {
+     "q": "How long did they walk?",
+     "options": [
+      "Fifteen minutes.",
+      "Five minutes.",
+      "An hour."
+     ],
+     "answer": "Fifteen minutes."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U03-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hotel",
+   "item": "hotel",
+   "options": [
+    "car park",
+    "lift",
+    "fountain",
+    "hotel"
+   ],
+   "answer": "hotel"
+  },
+  {
+   "id": "L4U03-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "petrol station",
+   "item": "petrol station",
+   "options": [
+    "petrol station",
+    "car park",
+    "hotel",
+    "lift"
+   ],
+   "answer": "petrol station"
+  },
+  {
+   "id": "L4U03-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "car park",
+   "item": "car park",
+   "options": [
+    "car park",
+    "lift",
+    "petrol station",
+    "hotel"
+   ],
+   "answer": "car park"
+  },
+  {
+   "id": "L4U03-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lift",
+   "item": "lift",
+   "options": [
+    "hotel",
+    "petrol station",
+    "lift",
+    "car park"
+   ],
+   "answer": "lift"
+  },
+  {
+   "id": "L4U03-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fountain",
+   "item": "fountain",
+   "options": [
+    "car park",
+    "petrol station",
+    "fountain",
+    "hotel"
+   ],
+   "answer": "fountain"
+  },
+  {
+   "id": "L4U03-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "excuse me",
+   "item": "excuse me",
+   "options": [
+    "petrol station",
+    "fountain",
+    "excuse me",
+    "metre"
+   ],
+   "answer": "excuse me"
+  },
+  {
+   "id": "L4U03-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "get to",
+   "item": "get to",
+   "options": [
+    "guide",
+    "turning",
+    "straight on",
+    "get to"
+   ],
+   "answer": "get to"
+  },
+  {
+   "id": "L4U03-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "turning",
+   "item": "turning",
+   "options": [
+    "turning",
+    "crossroads",
+    "kilometre",
+    "petrol station"
+   ],
+   "answer": "turning"
+  },
+  {
+   "id": "L4U03-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crossroads",
+   "item": "crossroads",
+   "options": [
+    "top",
+    "crossroads",
+    "metre",
+    "north"
+   ],
+   "answer": "crossroads"
+  },
+  {
+   "id": "L4U03-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "roundabout",
+   "item": "roundabout",
+   "options": [
+    "petrol station",
+    "roundabout",
+    "car park",
+    "direction"
+   ],
+   "answer": "roundabout"
+  },
+  {
+   "id": "L4U03-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "along",
+   "item": "along",
+   "options": [
+    "upstairs",
+    "crossroads",
+    "east",
+    "along"
+   ],
+   "answer": "along"
+  },
+  {
+   "id": "L4U03-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "across",
+   "item": "across",
+   "options": [
+    "get to",
+    "across",
+    "end",
+    "minute"
+   ],
+   "answer": "across"
+  },
+  {
+   "id": "L4U03-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "over",
+   "item": "over",
+   "options": [
+    "pagoda",
+    "along",
+    "over",
+    "nearby"
+   ],
+   "answer": "over"
+  },
+  {
+   "id": "L4U03-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "end",
+   "item": "end",
+   "options": [
+    "petrol station",
+    "straight on",
+    "north",
+    "end"
+   ],
+   "answer": "end"
+  },
+  {
+   "id": "L4U03-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "north",
+   "item": "north",
+   "options": [
+    "north",
+    "entrance",
+    "excuse me",
+    "petrol station"
+   ],
+   "answer": "north"
+  },
+  {
+   "id": "L4U03-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "south",
+   "item": "south",
+   "options": [
+    "north",
+    "south",
+    "away",
+    "over"
+   ],
+   "answer": "south"
+  },
+  {
+   "id": "L4U03-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "east",
+   "item": "east",
+   "options": [
+    "east",
+    "kilometre",
+    "across",
+    "pass"
+   ],
+   "answer": "east"
+  },
+  {
+   "id": "L4U03-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "west",
+   "item": "west",
+   "options": [
+    "hotel",
+    "west",
+    "south",
+    "middle"
+   ],
+   "answer": "west"
+  },
+  {
+   "id": "L4U03-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "direction",
+   "item": "direction",
+   "options": [
+    "excuse me",
+    "south",
+    "away",
+    "direction"
+   ],
+   "answer": "direction"
+  },
+  {
+   "id": "L4U03-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "get lost",
+   "item": "get lost",
+   "options": [
+    "fountain",
+    "over",
+    "get lost",
+    "hotel"
+   ],
+   "answer": "get lost"
+  },
+  {
+   "id": "L4U03-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "town hall",
+   "item": "town hall",
+   "options": [
+    "town hall",
+    "upstairs",
+    "get lost",
+    "minute"
+   ],
+   "answer": "town hall"
+  },
+  {
+   "id": "L4U03-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "temple",
+   "item": "temple",
+   "options": [
+    "pagoda",
+    "middle",
+    "guide",
+    "temple"
+   ],
+   "answer": "temple"
+  },
+  {
+   "id": "L4U03-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pagoda",
+   "item": "pagoda",
+   "options": [
+    "straight on",
+    "pagoda",
+    "east",
+    "crossroads"
+   ],
+   "answer": "pagoda"
+  },
+  {
+   "id": "L4U03-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bus station",
+   "item": "bus station",
+   "options": [
+    "pass",
+    "bus station",
+    "tourist",
+    "away"
+   ],
+   "answer": "bus station"
+  },
+  {
+   "id": "L4U03-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tourist",
+   "item": "tourist",
+   "options": [
+    "tourist",
+    "downstairs",
+    "lift",
+    "temple"
+   ],
+   "answer": "tourist"
+  },
+  {
+   "id": "L4U03-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "guide",
+   "item": "guide",
+   "options": [
+    "roundabout",
+    "guide",
+    "straight on",
+    "pass"
+   ],
+   "answer": "guide"
+  },
+  {
+   "id": "L4U03-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "minute",
+   "item": "minute",
+   "options": [
+    "south",
+    "minute",
+    "metre",
+    "pagoda"
+   ],
+   "answer": "minute"
+  },
+  {
+   "id": "L4U03-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "away",
+   "item": "away",
+   "options": [
+    "minute",
+    "away",
+    "tourist",
+    "downstairs"
+   ],
+   "answer": "away"
+  },
+  {
+   "id": "L4U03-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "metre",
+   "item": "metre",
+   "options": [
+    "metre",
+    "end",
+    "temple",
+    "along"
+   ],
+   "answer": "metre"
+  },
+  {
+   "id": "L4U03-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "kilometre",
+   "item": "kilometre",
+   "options": [
+    "tourist",
+    "bus station",
+    "kilometre",
+    "petrol station"
+   ],
+   "answer": "kilometre"
+  },
+  {
+   "id": "L4U03-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "entrance",
+   "item": "entrance",
+   "options": [
+    "get to",
+    "metre",
+    "entrance",
+    "along"
+   ],
+   "answer": "entrance"
+  },
+  {
+   "id": "L4U03-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "exit",
+   "item": "exit",
+   "options": [
+    "end",
+    "exit",
+    "along",
+    "turning"
+   ],
+   "answer": "exit"
+  },
+  {
+   "id": "L4U03-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "upstairs",
+   "item": "upstairs",
+   "options": [
+    "upstairs",
+    "excuse me",
+    "car park",
+    "get to"
+   ],
+   "answer": "upstairs"
+  },
+  {
+   "id": "L4U03-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "downstairs",
+   "item": "downstairs",
+   "options": [
+    "car park",
+    "south",
+    "excuse me",
+    "downstairs"
+   ],
+   "answer": "downstairs"
+  },
+  {
+   "id": "L4U03-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "straight on",
+   "item": "straight on",
+   "options": [
+    "statue",
+    "top",
+    "metre",
+    "straight on"
+   ],
+   "answer": "straight on"
+  },
+  {
+   "id": "L4U03-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nearby",
+   "item": "nearby",
+   "options": [
+    "temple",
+    "direction",
+    "pass",
+    "nearby"
+   ],
+   "answer": "nearby"
+  },
+  {
+   "id": "L4U03-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "statue",
+   "item": "statue",
+   "options": [
+    "away",
+    "straight on",
+    "statue",
+    "over"
+   ],
+   "answer": "statue"
+  },
+  {
+   "id": "L4U03-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pass",
+   "item": "pass",
+   "options": [
+    "tourist",
+    "pass",
+    "roundabout",
+    "get to"
+   ],
+   "answer": "pass"
+  },
+  {
+   "id": "L4U03-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "middle",
+   "item": "middle",
+   "options": [
+    "middle",
+    "temple",
+    "east",
+    "top"
+   ],
+   "answer": "middle"
+  },
+  {
+   "id": "L4U03-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "top",
+   "item": "top",
+   "options": [
+    "east",
+    "top",
+    "nearby",
+    "tourist"
+   ],
+   "answer": "top"
+  },
+  {
+   "id": "L4U03-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hotel",
+   "answer": "hotel"
+  },
+  {
+   "id": "L4U03-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "petrol station",
+   "answer": "petrol station"
+  },
+  {
+   "id": "L4U03-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "car park",
+   "answer": "car park"
+  },
+  {
+   "id": "L4U03-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lift",
+   "answer": "lift"
+  },
+  {
+   "id": "L4U03-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fountain",
+   "answer": "fountain"
+  },
+  {
+   "id": "L4U03-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Excuse me, where is the bank?",
+   "item": "excuse me",
+   "answer": "Excuse me, where is the bank?"
+  },
+  {
+   "id": "L4U03-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How do I get to the museum?",
+   "item": "get to",
+   "answer": "How do I get to the museum?"
+  },
+  {
+   "id": "L4U03-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Take the second turning on the left.",
+   "item": "turning",
+   "answer": "Take the second turning on the left."
+  },
+  {
+   "id": "L4U03-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn right at the crossroads.",
+   "item": "crossroads",
+   "answer": "Turn right at the crossroads."
+  },
+  {
+   "id": "L4U03-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn left at the roundabout.",
+   "item": "roundabout",
+   "answer": "Turn left at the roundabout."
+  },
+  {
+   "id": "L4U03-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk along this street.",
+   "item": "along",
+   "answer": "Walk along this street."
+  },
+  {
+   "id": "L4U03-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is across the road.",
+   "item": "across",
+   "answer": "The park is across the road."
+  },
+  {
+   "id": "L4U03-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk over the bridge.",
+   "item": "over",
+   "answer": "Walk over the bridge."
+  },
+  {
+   "id": "L4U03-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The café is at the end of the street.",
+   "item": "end",
+   "answer": "The café is at the end of the street."
+  },
+  {
+   "id": "L4U03-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hanoi is in the north of Vietnam.",
+   "item": "north",
+   "answer": "Hanoi is in the north of Vietnam."
+  },
+  {
+   "id": "L4U03-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's hot in the south.",
+   "item": "south",
+   "answer": "It's hot in the south."
+  },
+  {
+   "id": "L4U03-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sun comes up in the east.",
+   "item": "east",
+   "answer": "The sun comes up in the east."
+  },
+  {
+   "id": "L4U03-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sun goes down in the west.",
+   "item": "west",
+   "answer": "The sun goes down in the west."
+  },
+  {
+   "id": "L4U03-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Which direction is the station?",
+   "item": "direction",
+   "answer": "Which direction is the station?"
+  },
+  {
+   "id": "L4U03-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hold my hand. Don't get lost!",
+   "item": "get lost",
+   "answer": "Hold my hand. Don't get lost!"
+  },
+  {
+   "id": "L4U03-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The town hall is in the centre.",
+   "item": "town hall",
+   "answer": "The town hall is in the centre."
+  },
+  {
+   "id": "L4U03-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is an old temple on the hill.",
+   "item": "temple",
+   "answer": "There is an old temple on the hill."
+  },
+  {
+   "id": "L4U03-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We visited a pagoda near the lake.",
+   "item": "pagoda",
+   "answer": "We visited a pagoda near the lake."
+  },
+  {
+   "id": "L4U03-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our hotel is near the beach.",
+   "item": "hotel",
+   "answer": "Our hotel is near the beach."
+  },
+  {
+   "id": "L4U03-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad stops at the petrol station.",
+   "item": "petrol station",
+   "answer": "Dad stops at the petrol station."
+  },
+  {
+   "id": "L4U03-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The car park is behind the supermarket.",
+   "item": "car park",
+   "answer": "The car park is behind the supermarket."
+  },
+  {
+   "id": "L4U03-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bus station is next to the market.",
+   "item": "bus station",
+   "answer": "The bus station is next to the market."
+  },
+  {
+   "id": "L4U03-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many tourists visit Hanoi.",
+   "item": "tourist",
+   "answer": "Many tourists visit Hanoi."
+  },
+  {
+   "id": "L4U03-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our guide told us about the castle.",
+   "item": "guide",
+   "answer": "Our guide told us about the castle."
+  },
+  {
+   "id": "L4U03-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wait a minute, please.",
+   "item": "minute",
+   "answer": "Wait a minute, please."
+  },
+  {
+   "id": "L4U03-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The zoo is ten minutes away.",
+   "item": "away",
+   "answer": "The zoo is ten minutes away."
+  },
+  {
+   "id": "L4U03-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shop is fifty metres from here.",
+   "item": "metre",
+   "answer": "The shop is fifty metres from here."
+  },
+  {
+   "id": "L4U03-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My school is two kilometres from my house.",
+   "item": "kilometre",
+   "answer": "My school is two kilometres from my house."
+  },
+  {
+   "id": "L4U03-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Meet me at the entrance.",
+   "item": "entrance",
+   "answer": "Meet me at the entrance."
+  },
+  {
+   "id": "L4U03-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the exit?",
+   "item": "exit",
+   "answer": "Where is the exit?"
+  },
+  {
+   "id": "L4U03-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's take the lift to the top floor.",
+   "item": "lift",
+   "answer": "Let's take the lift to the top floor."
+  },
+  {
+   "id": "L4U03-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bedroom is upstairs.",
+   "item": "upstairs",
+   "answer": "My bedroom is upstairs."
+  },
+  {
+   "id": "L4U03-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The kitchen is downstairs.",
+   "item": "downstairs",
+   "answer": "The kitchen is downstairs."
+  },
+  {
+   "id": "L4U03-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Go straight on for two minutes.",
+   "item": "straight on",
+   "answer": "Go straight on for two minutes."
+  },
+  {
+   "id": "L4U03-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is there a bank nearby?",
+   "item": "nearby",
+   "answer": "Is there a bank nearby?"
+  },
+  {
+   "id": "L4U03-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a fountain in the park.",
+   "item": "fountain",
+   "answer": "There is a fountain in the park."
+  },
+  {
+   "id": "L4U03-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The statue is in the middle of the square.",
+   "item": "statue",
+   "answer": "The statue is in the middle of the square."
+  },
+  {
+   "id": "L4U03-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You pass a bakery on your left.",
+   "item": "pass",
+   "answer": "You pass a bakery on your left."
+  },
+  {
+   "id": "L4U03-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pool is in the middle of the hotel.",
+   "item": "middle",
+   "answer": "The pool is in the middle of the hotel."
+  },
+  {
+   "id": "L4U03-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a café at the top of the tower.",
+   "item": "top",
+   "answer": "There is a café at the top of the tower."
+  },
+  {
+   "id": "L4U03-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Excuse me, how do I get to the museum?",
+   "answer": "Excuse me, how do I get to the museum?"
+  },
+  {
+   "id": "L4U03-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Excuse me, how do I get to the bus station?",
+   "answer": "Excuse me, how do I get to the bus station?"
+  },
+  {
+   "id": "L4U03-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Excuse me, how do I get to the hotel?",
+   "answer": "Excuse me, how do I get to the hotel?"
+  },
+  {
+   "id": "L4U03-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn left at the crossroads.",
+   "answer": "Turn left at the crossroads."
+  },
+  {
+   "id": "L4U03-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn right at the crossroads.",
+   "answer": "Turn right at the crossroads."
+  },
+  {
+   "id": "L4U03-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is across the road.",
+   "answer": "The park is across the road."
+  },
+  {
+   "id": "L4U03-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bakery is across the road.",
+   "answer": "The bakery is across the road."
+  },
+  {
+   "id": "L4U03-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The temple is across the road.",
+   "answer": "The temple is across the road."
+  },
+  {
+   "id": "L4U03-Q094",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me. How do I get to the museum?",
+   "answer": "Go straight on along this street."
+  },
+  {
+   "id": "L4U03-Q095",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay. And then?",
+   "answer": "Turn left at the crossroads. It's next to the bank."
+  },
+  {
+   "id": "L4U03-Q096",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it far?",
+   "answer": "No, it's only five minutes away."
+  },
+  {
+   "id": "L4U03-Q097",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "We want the cinema. Is it upstairs?",
+   "answer": "Yes, on the top floor. Let's take the lift."
+  },
+  {
+   "id": "L4U03-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hotel",
+   "options": [
+    "fountain",
+    "hotel",
+    "lift"
+   ],
+   "answer": "hotel"
+  },
+  {
+   "id": "L4U03-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "petrol station",
+   "options": [
+    "car park",
+    "fountain",
+    "petrol station"
+   ],
+   "answer": "petrol station"
+  },
+  {
+   "id": "L4U03-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "car park",
+   "options": [
+    "lift",
+    "car park",
+    "petrol station"
+   ],
+   "answer": "car park"
+  },
+  {
+   "id": "L4U03-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lift",
+   "options": [
+    "hotel",
+    "petrol station",
+    "lift"
+   ],
+   "answer": "lift"
+  },
+  {
+   "id": "L4U03-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fountain",
+   "options": [
+    "hotel",
+    "fountain",
+    "petrol station"
+   ],
+   "answer": "fountain"
+  },
+  {
+   "id": "L4U03-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Take the second ___ on the left.",
+   "item": "turning",
+   "options": [
+    "across",
+    "turning",
+    "east"
+   ],
+   "answer": "turning"
+  },
+  {
+   "id": "L4U03-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Turn right at the ___.",
+   "item": "crossroads",
+   "options": [
+    "nearby",
+    "across",
+    "crossroads"
+   ],
+   "answer": "crossroads"
+  },
+  {
+   "id": "L4U03-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Turn left at the ___.",
+   "item": "roundabout",
+   "options": [
+    "metre",
+    "roundabout",
+    "over"
+   ],
+   "answer": "roundabout"
+  },
+  {
+   "id": "L4U03-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Walk ___ this street.",
+   "item": "along",
+   "options": [
+    "top",
+    "downstairs",
+    "along"
+   ],
+   "answer": "along"
+  },
+  {
+   "id": "L4U03-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The park is ___ the road.",
+   "item": "across",
+   "options": [
+    "lift",
+    "kilometre",
+    "across"
+   ],
+   "answer": "across"
+  },
+  {
+   "id": "L4U03-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Walk ___ the bridge.",
+   "item": "over",
+   "options": [
+    "over",
+    "minute",
+    "direction"
+   ],
+   "answer": "over"
+  },
+  {
+   "id": "L4U03-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The café is at the ___ of the street.",
+   "item": "end",
+   "options": [
+    "along",
+    "upstairs",
+    "end"
+   ],
+   "answer": "end"
+  },
+  {
+   "id": "L4U03-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hanoi is in the ___ of Vietnam.",
+   "item": "north",
+   "options": [
+    "over",
+    "north",
+    "metre"
+   ],
+   "answer": "north"
+  },
+  {
+   "id": "L4U03-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's hot in the ___.",
+   "item": "south",
+   "options": [
+    "temple",
+    "nearby",
+    "south"
+   ],
+   "answer": "south"
+  },
+  {
+   "id": "L4U03-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sun comes up in the ___.",
+   "item": "east",
+   "options": [
+    "pass",
+    "east",
+    "downstairs"
+   ],
+   "answer": "east"
+  },
+  {
+   "id": "L4U03-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sun goes down in the ___.",
+   "item": "west",
+   "options": [
+    "west",
+    "temple",
+    "over"
+   ],
+   "answer": "west"
+  },
+  {
+   "id": "L4U03-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Which ___ is the station?",
+   "item": "direction",
+   "options": [
+    "over",
+    "direction",
+    "upstairs"
+   ],
+   "answer": "direction"
+  },
+  {
+   "id": "L4U03-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is an old ___ on the hill.",
+   "item": "temple",
+   "options": [
+    "kilometre",
+    "tourist",
+    "temple"
+   ],
+   "answer": "temple"
+  },
+  {
+   "id": "L4U03-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We visited a ___ near the lake.",
+   "item": "pagoda",
+   "options": [
+    "pass",
+    "pagoda",
+    "downstairs"
+   ],
+   "answer": "pagoda"
+  },
+  {
+   "id": "L4U03-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is near the beach.",
+   "item": "hotel",
+   "options": [
+    "hotel",
+    "downstairs",
+    "nearby"
+   ],
+   "answer": "hotel"
+  },
+  {
+   "id": "L4U03-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Many ___ visit Hanoi.",
+   "item": "tourist",
+   "options": [
+    "passes",
+    "downstairses",
+    "tourists"
+   ],
+   "answer": "tourists"
+  },
+  {
+   "id": "L4U03-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ told us about the castle.",
+   "item": "guide",
+   "options": [
+    "nearby",
+    "along",
+    "guide"
+   ],
+   "answer": "guide"
+  },
+  {
+   "id": "L4U03-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wait a ___, please.",
+   "item": "minute",
+   "options": [
+    "upstairs",
+    "minute",
+    "turning"
+   ],
+   "answer": "minute"
+  },
+  {
+   "id": "L4U03-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The zoo is ten minutes ___.",
+   "item": "away",
+   "options": [
+    "downstairs",
+    "away",
+    "tourist"
+   ],
+   "answer": "away"
+  },
+  {
+   "id": "L4U03-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The shop is fifty ___ from here.",
+   "item": "metre",
+   "options": [
+    "fountains",
+    "lifts",
+    "metres"
+   ],
+   "answer": "metres"
+  },
+  {
+   "id": "L4U03-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My school is two ___ from my house.",
+   "item": "kilometre",
+   "options": [
+    "aways",
+    "passes",
+    "kilometres"
+   ],
+   "answer": "kilometres"
+  },
+  {
+   "id": "L4U03-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Meet me at the ___.",
+   "item": "entrance",
+   "options": [
+    "entrance",
+    "temple",
+    "downstairs"
+   ],
+   "answer": "entrance"
+  },
+  {
+   "id": "L4U03-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Where is the ___?",
+   "item": "exit",
+   "options": [
+    "pass",
+    "across",
+    "exit"
+   ],
+   "answer": "exit"
+  },
+  {
+   "id": "L4U03-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's take the ___ to the top floor.",
+   "item": "lift",
+   "options": [
+    "nearby",
+    "metre",
+    "lift"
+   ],
+   "answer": "lift"
+  },
+  {
+   "id": "L4U03-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My bedroom is ___.",
+   "item": "upstairs",
+   "options": [
+    "upstairs",
+    "turning",
+    "north"
+   ],
+   "answer": "upstairs"
+  },
+  {
+   "id": "L4U03-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The kitchen is ___.",
+   "item": "downstairs",
+   "options": [
+    "downstairs",
+    "crossroads",
+    "end"
+   ],
+   "answer": "downstairs"
+  },
+  {
+   "id": "L4U03-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is there a bank ___?",
+   "item": "nearby",
+   "options": [
+    "guide",
+    "nearby",
+    "across"
+   ],
+   "answer": "nearby"
+  },
+  {
+   "id": "L4U03-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ in the park.",
+   "item": "fountain",
+   "options": [
+    "across",
+    "fountain",
+    "direction"
+   ],
+   "answer": "fountain"
+  },
+  {
+   "id": "L4U03-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is in the middle of the square.",
+   "item": "statue",
+   "options": [
+    "statue",
+    "downstairs",
+    "temple"
+   ],
+   "answer": "statue"
+  },
+  {
+   "id": "L4U03-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You ___ a bakery on your left.",
+   "item": "pass",
+   "options": [
+    "nearby",
+    "downstairs",
+    "pass"
+   ],
+   "answer": "pass"
+  },
+  {
+   "id": "L4U03-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The pool is in the ___ of the hotel.",
+   "item": "middle",
+   "options": [
+    "middle",
+    "metre",
+    "downstairs"
+   ],
+   "answer": "middle"
+  },
+  {
+   "id": "L4U03-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a café at the ___ of the tower.",
+   "item": "top",
+   "options": [
+    "upstairs",
+    "top",
+    "turning"
+   ],
+   "answer": "top"
+  },
+  {
+   "id": "L4U03-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Our hotel is near the beach.",
+   "item": "hotel",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U03-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad stops at the petrol station.",
+   "item": "car park",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U03-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The car park is behind the supermarket.",
+   "item": "car park",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U03-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's take the lift to the top floor.",
+   "item": "fountain",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U03-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There is a fountain in the park.",
+   "item": "fountain",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U03-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U03-R01",
+   "text_en": "Who did Tom's mum ask for directions?",
+   "options": [
+    "A guide.",
+    "A woman.",
+    "A police officer."
+   ],
+   "answer": "A woman."
+  },
+  {
+   "id": "L4U03-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U03-R01",
+   "text_en": "What is opposite the temple?",
+   "options": [
+    "A bakery.",
+    "A big fountain.",
+    "A petrol station."
+   ],
+   "answer": "A big fountain."
+  },
+  {
+   "id": "L4U03-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U03-R01",
+   "text_en": "How long did they walk?",
+   "options": [
+    "Five minutes.",
+    "Fifteen minutes.",
+    "An hour."
+   ],
+   "answer": "Fifteen minutes."
+  },
+  {
+   "id": "L4U03-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "turning",
+   "item": "turning",
+   "answer": "turning"
+  },
+  {
+   "id": "L4U03-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "crossroads",
+   "item": "crossroads",
+   "answer": "crossroads"
+  },
+  {
+   "id": "L4U03-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "roundabout",
+   "item": "roundabout",
+   "answer": "roundabout"
+  },
+  {
+   "id": "L4U03-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "along",
+   "item": "along",
+   "answer": "along"
+  },
+  {
+   "id": "L4U03-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "across",
+   "item": "across",
+   "answer": "across"
+  },
+  {
+   "id": "L4U03-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "over",
+   "item": "over",
+   "answer": "over"
+  },
+  {
+   "id": "L4U03-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "end",
+   "item": "end",
+   "answer": "end"
+  },
+  {
+   "id": "L4U03-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "north",
+   "item": "north",
+   "answer": "north"
+  },
+  {
+   "id": "L4U03-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Excuse me, where is the bank?",
+   "answer": "Excuse me, where is the bank?"
+  },
+  {
+   "id": "L4U03-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "How do I get to the museum?",
+   "answer": "How do I get to the museum?"
+  },
+  {
+   "id": "L4U03-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Take the second turning on the left.",
+   "answer": "Take the second turning on the left."
+  }
+ ]
+}

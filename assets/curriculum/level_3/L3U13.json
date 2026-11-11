@@ -1,0 +1,2449 @@
+{
+ "id": "L3U13",
+ "level": 3,
+ "unit": 13,
+ "topic_en": "Rules and safety",
+ "topic_vi": "Nội quy và an toàn",
+ "can_do_vi": [
+  "Nói quy tắc với \"must\" và \"mustn't\"",
+  "Biết quy tắc an toàn khi đi đường, ở nhà và ở bể bơi"
+ ],
+ "grammar_note_vi": "Điều bắt buộc dùng \"must\": \"You must wear a helmet.\" (Con phải đội mũ bảo hiểm.) Điều cấm dùng \"mustn't\": \"You mustn't run near the pool.\" (Không được chạy gần bể bơi.)",
+ "items": [
+  {
+   "id": "L3U13-W01",
+   "type": "word",
+   "en": "rule",
+   "vi": "quy tắc, nội quy",
+   "ipa": "/rul/",
+   "syllables": [
+    "rule"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "We follow the rules at school.",
+   "example_vi": "Ở trường bọn tớ tuân theo nội quy.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W02",
+   "type": "word",
+   "en": "must",
+   "vi": "phải",
+   "ipa": "/mʌst/",
+   "syllables": [
+    "must"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "You must wear a seat belt in the car.",
+   "example_vi": "Con phải thắt dây an toàn khi ngồi ô tô.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W03",
+   "type": "word",
+   "en": "safe",
+   "vi": "an toàn",
+   "ipa": "/seɪf/",
+   "syllables": [
+    "safe"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Is it safe to swim here?",
+   "example_vi": "Bơi ở đây có an toàn không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W04",
+   "type": "word",
+   "en": "safety",
+   "vi": "sự an toàn",
+   "ipa": "/ˈseɪfti/",
+   "syllables": [
+    "safe",
+    "ty"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9BA"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Safety first!",
+   "example_vi": "An toàn là trên hết!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W05",
+   "type": "word",
+   "en": "danger",
+   "vi": "sự nguy hiểm",
+   "ipa": "/ˈdeɪndʒər/",
+   "syllables": [
+    "dan",
+    "ger"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Danger! Keep out!",
+   "example_vi": "Nguy hiểm! Không được vào!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W06",
+   "type": "phrase",
+   "en": "seat belt",
+   "vi": "dây an toàn",
+   "ipa": "/sit bɛlt/",
+   "syllables": [
+    "seat",
+    "belt"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4BA"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Put on your seat belt.",
+   "example_vi": "Thắt dây an toàn vào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W07",
+   "type": "word",
+   "en": "traffic",
+   "vi": "xe cộ",
+   "ipa": "/ˈtræfɪk/",
+   "syllables": [
+    "traf",
+    "fic"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F697"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "There is a lot of traffic in the city.",
+   "example_vi": "Thành phố có rất nhiều xe cộ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W08",
+   "type": "phrase",
+   "en": "traffic lights",
+   "vi": "đèn giao thông",
+   "ipa": "/ˈtræfɪk laɪts/",
+   "syllables": [
+    "traf",
+    "fic",
+    "lights"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6A6"
+   },
+   "picturable": true,
+   "cat": "L3U13",
+   "example_en": "Stop when the traffic lights are red.",
+   "example_vi": "Dừng lại khi đèn giao thông đỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W09",
+   "type": "word",
+   "en": "pavement",
+   "vi": "vỉa hè",
+   "ipa": "/ˈpeɪvmənt/",
+   "syllables": [
+    "pave",
+    "ment"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Walk on the pavement.",
+   "example_vi": "Đi bộ trên vỉa hè nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W10",
+   "type": "phrase",
+   "en": "zebra crossing",
+   "vi": "vạch sang đường",
+   "ipa": "/ˈzibrə ˈkrɔsɪŋ/",
+   "syllables": [
+    "ze",
+    "bra",
+    "cross",
+    "ing"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Cross the road at the zebra crossing.",
+   "example_vi": "Sang đường ở vạch kẻ cho người đi bộ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W11",
+   "type": "word",
+   "en": "stranger",
+   "vi": "người lạ",
+   "ipa": "/ˈstreɪndʒər/",
+   "syllables": [
+    "stranger"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F464"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Don't go with strangers.",
+   "example_vi": "Đừng đi theo người lạ.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W12",
+   "type": "word",
+   "en": "emergency",
+   "vi": "trường hợp khẩn cấp",
+   "ipa": "/ˈimərdʒənsi/",
+   "syllables": [
+    "emergency"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F6A8"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "In an emergency, call for help.",
+   "example_vi": "Khi khẩn cấp, hãy gọi người giúp đỡ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W13",
+   "type": "word",
+   "en": "call",
+   "vi": "gọi (điện)",
+   "ipa": "/kɔl/",
+   "syllables": [
+    "call"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4DE"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Call your mum if you are lost.",
+   "example_vi": "Nếu bị lạc, hãy gọi cho mẹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W14",
+   "type": "word",
+   "en": "address",
+   "vi": "địa chỉ",
+   "ipa": "/ˈæˌdrɛs/",
+   "syllables": [
+    "ad",
+    "dress"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Do you know your address?",
+   "example_vi": "Con có biết địa chỉ nhà mình không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W15",
+   "type": "word",
+   "en": "lifeguard",
+   "vi": "nhân viên cứu hộ",
+   "ipa": "/ˈlaɪfˌɡɑrd/",
+   "syllables": [
+    "life",
+    "guard"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3CA"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "The lifeguard watches the children in the pool.",
+   "example_vi": "Nhân viên cứu hộ trông các bạn nhỏ trong bể bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W16",
+   "type": "phrase",
+   "en": "life jacket",
+   "vi": "áo phao",
+   "ipa": "/laɪf ˈdʒækɪt/",
+   "syllables": [
+    "life",
+    "jack",
+    "et"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9BA"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Wear a life jacket on the boat.",
+   "example_vi": "Mặc áo phao khi đi thuyền.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W17",
+   "type": "word",
+   "en": "shallow",
+   "vi": "nông",
+   "ipa": "/ˈʃæloʊ/",
+   "syllables": [
+    "shal",
+    "low"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Little children swim in the shallow pool.",
+   "example_vi": "Các em nhỏ bơi ở bể nông.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W18",
+   "type": "word",
+   "en": "slippery",
+   "vi": "trơn",
+   "ipa": "/sˈlɪpəri/",
+   "syllables": [
+    "slippery"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "The floor is wet and slippery.",
+   "example_vi": "Sàn ướt và trơn.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W19",
+   "type": "word",
+   "en": "stairs",
+   "vi": "cầu thang",
+   "ipa": "/stɛrz/",
+   "syllables": [
+    "stairs"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FA9C"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Don't run on the stairs.",
+   "example_vi": "Đừng chạy trên cầu thang.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W20",
+   "type": "phrase",
+   "en": "first aid kit",
+   "vi": "hộp sơ cứu",
+   "ipa": "/fʌrst eɪd kɪt/",
+   "syllables": [
+    "first",
+    "aid",
+    "kit"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "26D1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "The plasters are in the first aid kit.",
+   "example_vi": "Băng dán ở trong hộp sơ cứu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W21",
+   "type": "word",
+   "en": "follow",
+   "vi": "làm theo, đi theo",
+   "ipa": "/ˈfɑloʊ/",
+   "syllables": [
+    "fol",
+    "low"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F463"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Follow me, please.",
+   "example_vi": "Hãy đi theo tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W22",
+   "type": "word",
+   "en": "allowed",
+   "vi": "được phép",
+   "ipa": "/əˈlaʊd/",
+   "syllables": [
+    "al",
+    "lowed"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F197"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Dogs are not allowed in the shop.",
+   "example_vi": "Không được mang chó vào cửa hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W23",
+   "type": "word",
+   "en": "queue",
+   "vi": "hàng (người xếp hàng)",
+   "ipa": "/kju/",
+   "syllables": [
+    "queue"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Please wait in the queue.",
+   "example_vi": "Hãy xếp hàng chờ nhé.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W24",
+   "type": "word",
+   "en": "ask",
+   "vi": "hỏi, nhờ",
+   "ipa": "/æsk/",
+   "syllables": [
+    "ask"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Ask your teacher for help.",
+   "example_vi": "Hãy nhờ cô giáo giúp đỡ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W25",
+   "type": "word",
+   "en": "parent",
+   "vi": "bố hoặc mẹ",
+   "ipa": "/ˈpɛrənt/",
+   "syllables": [
+    "par",
+    "ent"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Ask a parent before you cook.",
+   "example_vi": "Hỏi bố hoặc mẹ trước khi nấu ăn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W26",
+   "type": "word",
+   "en": "adult",
+   "vi": "người lớn",
+   "ipa": "/ˈædəlt/",
+   "syllables": [
+    "adult"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Swim with an adult.",
+   "example_vi": "Đi bơi cùng người lớn nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W27",
+   "type": "word",
+   "en": "both",
+   "vi": "cả hai",
+   "ipa": "/boʊθ/",
+   "syllables": [
+    "both"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "270C-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Look both ways before you cross.",
+   "example_vi": "Nhìn cả hai phía trước khi sang đường.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W28",
+   "type": "word",
+   "en": "side",
+   "vi": "bên, phía",
+   "ipa": "/saɪd/",
+   "syllables": [
+    "side"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "25C0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Walk on the left side.",
+   "example_vi": "Đi bên trái nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W29",
+   "type": "word",
+   "en": "sign",
+   "vi": "biển báo",
+   "ipa": "/saɪn/",
+   "syllables": [
+    "sign"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FAA7"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "The sign says no swimming.",
+   "example_vi": "Biển báo ghi cấm bơi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W30",
+   "type": "word",
+   "en": "warning",
+   "vi": "lời cảnh báo",
+   "ipa": "/ˈwɔrnɪŋ/",
+   "syllables": [
+    "warn",
+    "ing"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Listen to the warning.",
+   "example_vi": "Hãy nghe lời cảnh báo.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W31",
+   "type": "word",
+   "en": "lock",
+   "vi": "khoá",
+   "ipa": "/lɑk/",
+   "syllables": [
+    "lock"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F512"
+   },
+   "picturable": true,
+   "cat": "L3U13",
+   "example_en": "Lock the door, please.",
+   "example_vi": "Khoá cửa lại nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U13-W32",
+   "type": "word",
+   "en": "hurry",
+   "vi": "vội vàng",
+   "ipa": "/ˈhʌri/",
+   "syllables": [
+    "hur",
+    "ry"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": false,
+   "cat": "L3U13",
+   "example_en": "Don't hurry. Walk slowly.",
+   "example_vi": "Đừng vội. Đi chậm thôi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U13-P01",
+   "en": "You must {x}.",
+   "vi": "Con phải {x}.",
+   "slots": {
+    "x": [
+     "wear a helmet",
+     "wear a seat belt",
+     "stop at the red light",
+     "hold my hand"
+    ]
+   }
+  },
+  {
+   "id": "L3U13-P02",
+   "en": "You mustn't {x}.",
+   "vi": "Con không được {x}.",
+   "slots": {
+    "x": [
+     "run on the stairs",
+     "touch the plug",
+     "go with strangers",
+     "swim alone"
+    ]
+   }
+  },
+  {
+   "id": "L3U13-P03",
+   "en": "Look at the {x}!",
+   "vi": "Nhìn {x} kìa!",
+   "slots": {
+    "x": [
+     "sign",
+     "traffic lights",
+     "zebra crossing"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U13-D01",
+   "title_vi": "Sang đường",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Let's cross the road here!",
+     "vi": "Mình sang đường ở đây đi!"
+    },
+    {
+     "role": "Bi",
+     "en": "Wait! We must use the zebra crossing.",
+     "vi": "Khoan! Mình phải đi ở vạch sang đường."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. The traffic light is red.",
+     "vi": "Được. Đèn giao thông đang đỏ."
+    },
+    {
+     "role": "Bi",
+     "en": "We must stop and wait.",
+     "vi": "Mình phải dừng lại và chờ."
+    },
+    {
+     "role": "Kid",
+     "en": "Now it's green. Let's look both ways.",
+     "vi": "Giờ đèn xanh rồi. Mình nhìn cả hai phía nhé."
+    },
+    {
+     "role": "Bi",
+     "en": "Good! Now we can cross.",
+     "vi": "Tốt! Giờ mình sang được rồi."
+    }
+   ]
+  },
+  {
+   "id": "L3U13-D02",
+   "title_vi": "Ở bể bơi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Can I run to the pool?",
+     "vi": "Tớ chạy ra bể bơi được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "No! You mustn't run. The floor is slippery.",
+     "vi": "Không! Không được chạy. Sàn trơn lắm."
+    },
+    {
+     "role": "Kid",
+     "en": "Can I swim in the deep pool?",
+     "vi": "Tớ bơi ở bể sâu được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "No, swim in the shallow pool with an adult.",
+     "vi": "Không, bơi ở bể nông cùng người lớn nhé."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "rule"
+  },
+  {
+   "type": "dictate_word",
+   "target": "must"
+  },
+  {
+   "type": "dictate_word",
+   "target": "safe"
+  },
+  {
+   "type": "dictate_word",
+   "target": "safety"
+  },
+  {
+   "type": "dictate_word",
+   "target": "danger"
+  },
+  {
+   "type": "dictate_word",
+   "target": "traffic"
+  },
+  {
+   "type": "dictate_word",
+   "target": "pavement"
+  },
+  {
+   "type": "dictate_word",
+   "target": "stranger"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We follow the rules at school."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Is it safe to swim here?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Safety first!"
+  },
+  {
+   "type": "write_sentences",
+   "target": "At school, we must|At home, I mustn't|On the road, we should"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U13-R01",
+   "title_en": "Safety at the park",
+   "text_en": [
+    "Yesterday, Ben went to the park with his dad.",
+    "On the way, they walked on the pavement.",
+    "They stopped at the traffic lights and crossed at the zebra crossing.",
+    "At the park, Ben wanted to climb a tall tree.",
+    "His dad said it was not safe.",
+    "So Ben played on the slide instead.",
+    "Later, Ben couldn't see his dad.",
+    "He felt scared, but he remembered the rule.",
+    "He stayed in one place and asked a park worker for help.",
+    "Soon, his dad found him and gave him a big hug."
+   ],
+   "questions": [
+    {
+     "q": "Where did Ben and his dad cross the road?",
+     "options": [
+      "At the zebra crossing.",
+      "Near the park.",
+      "Under the bridge."
+     ],
+     "answer": "At the zebra crossing."
+    },
+    {
+     "q": "Why couldn't Ben climb the tree?",
+     "options": [
+      "It was not safe.",
+      "It was raining.",
+      "He was tired."
+     ],
+     "answer": "It was not safe."
+    },
+    {
+     "q": "What did Ben do when he couldn't see his dad?",
+     "options": [
+      "He stayed in one place and asked for help.",
+      "He went home alone.",
+      "He climbed a tree."
+     ],
+     "answer": "He stayed in one place and asked for help."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U13-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "traffic lights",
+   "item": "traffic lights",
+   "options": [
+    "campfire",
+    "lock",
+    "dirty",
+    "traffic lights"
+   ],
+   "answer": "traffic lights"
+  },
+  {
+   "id": "L3U13-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lock",
+   "item": "lock",
+   "options": [
+    "square",
+    "turn",
+    "traffic lights",
+    "lock"
+   ],
+   "answer": "lock"
+  },
+  {
+   "id": "L3U13-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rule",
+   "item": "rule",
+   "options": [
+    "stranger",
+    "rule",
+    "call",
+    "traffic"
+   ],
+   "answer": "rule"
+  },
+  {
+   "id": "L3U13-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "must",
+   "item": "must",
+   "options": [
+    "ask",
+    "emergency",
+    "must",
+    "traffic lights"
+   ],
+   "answer": "must"
+  },
+  {
+   "id": "L3U13-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "safe",
+   "item": "safe",
+   "options": [
+    "adult",
+    "first aid kit",
+    "queue",
+    "safe"
+   ],
+   "answer": "safe"
+  },
+  {
+   "id": "L3U13-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "safety",
+   "item": "safety",
+   "options": [
+    "traffic lights",
+    "safety",
+    "parent",
+    "rule"
+   ],
+   "answer": "safety"
+  },
+  {
+   "id": "L3U13-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "danger",
+   "item": "danger",
+   "options": [
+    "stranger",
+    "adult",
+    "pavement",
+    "danger"
+   ],
+   "answer": "danger"
+  },
+  {
+   "id": "L3U13-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "seat belt",
+   "item": "seat belt",
+   "options": [
+    "pavement",
+    "warning",
+    "seat belt",
+    "stairs"
+   ],
+   "answer": "seat belt"
+  },
+  {
+   "id": "L3U13-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "traffic",
+   "item": "traffic",
+   "options": [
+    "adult",
+    "call",
+    "traffic",
+    "safe"
+   ],
+   "answer": "traffic"
+  },
+  {
+   "id": "L3U13-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pavement",
+   "item": "pavement",
+   "options": [
+    "pavement",
+    "seat belt",
+    "side",
+    "first aid kit"
+   ],
+   "answer": "pavement"
+  },
+  {
+   "id": "L3U13-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "zebra crossing",
+   "item": "zebra crossing",
+   "options": [
+    "slippery",
+    "zebra crossing",
+    "lock",
+    "hurry"
+   ],
+   "answer": "zebra crossing"
+  },
+  {
+   "id": "L3U13-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stranger",
+   "item": "stranger",
+   "options": [
+    "parent",
+    "stranger",
+    "allowed",
+    "both"
+   ],
+   "answer": "stranger"
+  },
+  {
+   "id": "L3U13-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "emergency",
+   "item": "emergency",
+   "options": [
+    "hurry",
+    "both",
+    "seat belt",
+    "emergency"
+   ],
+   "answer": "emergency"
+  },
+  {
+   "id": "L3U13-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "call",
+   "item": "call",
+   "options": [
+    "ask",
+    "traffic",
+    "call",
+    "life jacket"
+   ],
+   "answer": "call"
+  },
+  {
+   "id": "L3U13-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "address",
+   "item": "address",
+   "options": [
+    "ask",
+    "shallow",
+    "address",
+    "warning"
+   ],
+   "answer": "address"
+  },
+  {
+   "id": "L3U13-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lifeguard",
+   "item": "lifeguard",
+   "options": [
+    "lifeguard",
+    "first aid kit",
+    "follow",
+    "address"
+   ],
+   "answer": "lifeguard"
+  },
+  {
+   "id": "L3U13-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "life jacket",
+   "item": "life jacket",
+   "options": [
+    "follow",
+    "life jacket",
+    "must",
+    "lifeguard"
+   ],
+   "answer": "life jacket"
+  },
+  {
+   "id": "L3U13-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shallow",
+   "item": "shallow",
+   "options": [
+    "shallow",
+    "life jacket",
+    "stairs",
+    "stranger"
+   ],
+   "answer": "shallow"
+  },
+  {
+   "id": "L3U13-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "slippery",
+   "item": "slippery",
+   "options": [
+    "parent",
+    "safe",
+    "stairs",
+    "slippery"
+   ],
+   "answer": "slippery"
+  },
+  {
+   "id": "L3U13-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stairs",
+   "item": "stairs",
+   "options": [
+    "allowed",
+    "queue",
+    "stairs",
+    "warning"
+   ],
+   "answer": "stairs"
+  },
+  {
+   "id": "L3U13-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "first aid kit",
+   "item": "first aid kit",
+   "options": [
+    "lifeguard",
+    "both",
+    "first aid kit",
+    "must"
+   ],
+   "answer": "first aid kit"
+  },
+  {
+   "id": "L3U13-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "follow",
+   "item": "follow",
+   "options": [
+    "sign",
+    "life jacket",
+    "follow",
+    "both"
+   ],
+   "answer": "follow"
+  },
+  {
+   "id": "L3U13-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "allowed",
+   "item": "allowed",
+   "options": [
+    "parent",
+    "emergency",
+    "pavement",
+    "allowed"
+   ],
+   "answer": "allowed"
+  },
+  {
+   "id": "L3U13-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "queue",
+   "item": "queue",
+   "options": [
+    "stranger",
+    "side",
+    "rule",
+    "queue"
+   ],
+   "answer": "queue"
+  },
+  {
+   "id": "L3U13-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ask",
+   "item": "ask",
+   "options": [
+    "ask",
+    "traffic lights",
+    "lifeguard",
+    "side"
+   ],
+   "answer": "ask"
+  },
+  {
+   "id": "L3U13-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "parent",
+   "item": "parent",
+   "options": [
+    "parent",
+    "emergency",
+    "hurry",
+    "seat belt"
+   ],
+   "answer": "parent"
+  },
+  {
+   "id": "L3U13-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "adult",
+   "item": "adult",
+   "options": [
+    "life jacket",
+    "lifeguard",
+    "rule",
+    "adult"
+   ],
+   "answer": "adult"
+  },
+  {
+   "id": "L3U13-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "both",
+   "item": "both",
+   "options": [
+    "allowed",
+    "call",
+    "both",
+    "adult"
+   ],
+   "answer": "both"
+  },
+  {
+   "id": "L3U13-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "side",
+   "item": "side",
+   "options": [
+    "side",
+    "stranger",
+    "zebra crossing",
+    "hurry"
+   ],
+   "answer": "side"
+  },
+  {
+   "id": "L3U13-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sign",
+   "item": "sign",
+   "options": [
+    "sign",
+    "rule",
+    "call",
+    "emergency"
+   ],
+   "answer": "sign"
+  },
+  {
+   "id": "L3U13-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "warning",
+   "item": "warning",
+   "options": [
+    "warning",
+    "lock",
+    "side",
+    "both"
+   ],
+   "answer": "warning"
+  },
+  {
+   "id": "L3U13-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hurry",
+   "item": "hurry",
+   "options": [
+    "hurry",
+    "zebra crossing",
+    "lifeguard",
+    "emergency"
+   ],
+   "answer": "hurry"
+  },
+  {
+   "id": "L3U13-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "traffic lights",
+   "answer": "traffic lights"
+  },
+  {
+   "id": "L3U13-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lock",
+   "answer": "lock"
+  },
+  {
+   "id": "L3U13-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We follow the rules at school.",
+   "item": "rule",
+   "answer": "We follow the rules at school."
+  },
+  {
+   "id": "L3U13-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You must wear a seat belt in the car.",
+   "item": "must",
+   "answer": "You must wear a seat belt in the car."
+  },
+  {
+   "id": "L3U13-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is it safe to swim here?",
+   "item": "safe",
+   "answer": "Is it safe to swim here?"
+  },
+  {
+   "id": "L3U13-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Safety first!",
+   "item": "safety",
+   "answer": "Safety first!"
+  },
+  {
+   "id": "L3U13-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Danger! Keep out!",
+   "item": "danger",
+   "answer": "Danger! Keep out!"
+  },
+  {
+   "id": "L3U13-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your seat belt.",
+   "item": "seat belt",
+   "answer": "Put on your seat belt."
+  },
+  {
+   "id": "L3U13-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a lot of traffic in the city.",
+   "item": "traffic",
+   "answer": "There is a lot of traffic in the city."
+  },
+  {
+   "id": "L3U13-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stop when the traffic lights are red.",
+   "item": "traffic lights",
+   "answer": "Stop when the traffic lights are red."
+  },
+  {
+   "id": "L3U13-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk on the pavement.",
+   "item": "pavement",
+   "answer": "Walk on the pavement."
+  },
+  {
+   "id": "L3U13-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cross the road at the zebra crossing.",
+   "item": "zebra crossing",
+   "answer": "Cross the road at the zebra crossing."
+  },
+  {
+   "id": "L3U13-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't go with strangers.",
+   "item": "stranger",
+   "answer": "Don't go with strangers."
+  },
+  {
+   "id": "L3U13-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In an emergency, call for help.",
+   "item": "emergency",
+   "answer": "In an emergency, call for help."
+  },
+  {
+   "id": "L3U13-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Call your mum if you are lost.",
+   "item": "call",
+   "answer": "Call your mum if you are lost."
+  },
+  {
+   "id": "L3U13-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you know your address?",
+   "item": "address",
+   "answer": "Do you know your address?"
+  },
+  {
+   "id": "L3U13-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lifeguard watches the children in the pool.",
+   "item": "lifeguard",
+   "answer": "The lifeguard watches the children in the pool."
+  },
+  {
+   "id": "L3U13-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wear a life jacket on the boat.",
+   "item": "life jacket",
+   "answer": "Wear a life jacket on the boat."
+  },
+  {
+   "id": "L3U13-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Little children swim in the shallow pool.",
+   "item": "shallow",
+   "answer": "Little children swim in the shallow pool."
+  },
+  {
+   "id": "L3U13-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The floor is wet and slippery.",
+   "item": "slippery",
+   "answer": "The floor is wet and slippery."
+  },
+  {
+   "id": "L3U13-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't run on the stairs.",
+   "item": "stairs",
+   "answer": "Don't run on the stairs."
+  },
+  {
+   "id": "L3U13-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The plasters are in the first aid kit.",
+   "item": "first aid kit",
+   "answer": "The plasters are in the first aid kit."
+  },
+  {
+   "id": "L3U13-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Follow me, please.",
+   "item": "follow",
+   "answer": "Follow me, please."
+  },
+  {
+   "id": "L3U13-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dogs are not allowed in the shop.",
+   "item": "allowed",
+   "answer": "Dogs are not allowed in the shop."
+  },
+  {
+   "id": "L3U13-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please wait in the queue.",
+   "item": "queue",
+   "answer": "Please wait in the queue."
+  },
+  {
+   "id": "L3U13-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask your teacher for help.",
+   "item": "ask",
+   "answer": "Ask your teacher for help."
+  },
+  {
+   "id": "L3U13-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask a parent before you cook.",
+   "item": "parent",
+   "answer": "Ask a parent before you cook."
+  },
+  {
+   "id": "L3U13-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Swim with an adult.",
+   "item": "adult",
+   "answer": "Swim with an adult."
+  },
+  {
+   "id": "L3U13-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look both ways before you cross.",
+   "item": "both",
+   "answer": "Look both ways before you cross."
+  },
+  {
+   "id": "L3U13-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk on the left side.",
+   "item": "side",
+   "answer": "Walk on the left side."
+  },
+  {
+   "id": "L3U13-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sign says no swimming.",
+   "item": "sign",
+   "answer": "The sign says no swimming."
+  },
+  {
+   "id": "L3U13-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Listen to the warning.",
+   "item": "warning",
+   "answer": "Listen to the warning."
+  },
+  {
+   "id": "L3U13-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lock the door, please.",
+   "item": "lock",
+   "answer": "Lock the door, please."
+  },
+  {
+   "id": "L3U13-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't hurry. Walk slowly.",
+   "item": "hurry",
+   "answer": "Don't hurry. Walk slowly."
+  },
+  {
+   "id": "L3U13-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You must wear a helmet.",
+   "answer": "You must wear a helmet."
+  },
+  {
+   "id": "L3U13-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You must wear a seat belt.",
+   "answer": "You must wear a seat belt."
+  },
+  {
+   "id": "L3U13-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You must stop at the red light.",
+   "answer": "You must stop at the red light."
+  },
+  {
+   "id": "L3U13-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You mustn't run on the stairs.",
+   "answer": "You mustn't run on the stairs."
+  },
+  {
+   "id": "L3U13-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You mustn't touch the plug.",
+   "answer": "You mustn't touch the plug."
+  },
+  {
+   "id": "L3U13-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You mustn't go with strangers.",
+   "answer": "You mustn't go with strangers."
+  },
+  {
+   "id": "L3U13-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the sign!",
+   "answer": "Look at the sign!"
+  },
+  {
+   "id": "L3U13-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the traffic lights!",
+   "answer": "Look at the traffic lights!"
+  },
+  {
+   "id": "L3U13-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the zebra crossing!",
+   "answer": "Look at the zebra crossing!"
+  },
+  {
+   "id": "L3U13-Q076",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I run to the pool?",
+   "answer": "No! You mustn't run. The floor is slippery."
+  },
+  {
+   "id": "L3U13-Q077",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I swim in the deep pool?",
+   "answer": "No, swim in the shallow pool with an adult."
+  },
+  {
+   "id": "L3U13-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "traffic lights",
+   "options": [
+    "traffic lights",
+    "mountain",
+    "lock"
+   ],
+   "answer": "traffic lights"
+  },
+  {
+   "id": "L3U13-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lock",
+   "options": [
+    "vet",
+    "lock",
+    "traffic lights"
+   ],
+   "answer": "lock"
+  },
+  {
+   "id": "L3U13-Q080",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We follow the ___ at school.",
+   "item": "rule",
+   "options": [
+    "locks",
+    "rules",
+    "dangers"
+   ],
+   "answer": "rules"
+  },
+  {
+   "id": "L3U13-Q081",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You ___ wear a seat belt in the car.",
+   "item": "must",
+   "options": [
+    "lifeguard",
+    "must",
+    "emergency"
+   ],
+   "answer": "must"
+  },
+  {
+   "id": "L3U13-Q082",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is it ___ to swim here?",
+   "item": "safe",
+   "options": [
+    "safe",
+    "safety",
+    "rule"
+   ],
+   "answer": "safe"
+  },
+  {
+   "id": "L3U13-Q083",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ first!",
+   "item": "safety",
+   "options": [
+    "Stranger",
+    "Safety",
+    "Rule"
+   ],
+   "answer": "Safety"
+  },
+  {
+   "id": "L3U13-Q084",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___! Keep out!",
+   "item": "danger",
+   "options": [
+    "Queue",
+    "Danger",
+    "Lifeguard"
+   ],
+   "answer": "Danger"
+  },
+  {
+   "id": "L3U13-Q085",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a lot of ___ in the city.",
+   "item": "traffic",
+   "options": [
+    "safe",
+    "hurry",
+    "traffic"
+   ],
+   "answer": "traffic"
+  },
+  {
+   "id": "L3U13-Q086",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Walk on the ___.",
+   "item": "pavement",
+   "options": [
+    "safe",
+    "pavement",
+    "both"
+   ],
+   "answer": "pavement"
+  },
+  {
+   "id": "L3U13-Q087",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't go with ___.",
+   "item": "stranger",
+   "options": [
+    "warnings",
+    "strangers",
+    "locks"
+   ],
+   "answer": "strangers"
+  },
+  {
+   "id": "L3U13-Q088",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In an ___, call for help.",
+   "item": "emergency",
+   "options": [
+    "emergency",
+    "danger",
+    "side"
+   ],
+   "answer": "emergency"
+  },
+  {
+   "id": "L3U13-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your mum if you are lost.",
+   "item": "call",
+   "options": [
+    "Traffic",
+    "Adult",
+    "Call"
+   ],
+   "answer": "Call"
+  },
+  {
+   "id": "L3U13-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you know your ___?",
+   "item": "address",
+   "options": [
+    "safety",
+    "address",
+    "ask"
+   ],
+   "answer": "address"
+  },
+  {
+   "id": "L3U13-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ watches the children in the pool.",
+   "item": "lifeguard",
+   "options": [
+    "safety",
+    "lifeguard",
+    "ask"
+   ],
+   "answer": "lifeguard"
+  },
+  {
+   "id": "L3U13-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Little children swim in the ___ pool.",
+   "item": "shallow",
+   "options": [
+    "shallow",
+    "safe",
+    "both"
+   ],
+   "answer": "shallow"
+  },
+  {
+   "id": "L3U13-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The floor is wet and ___.",
+   "item": "slippery",
+   "options": [
+    "call",
+    "slippery",
+    "ask"
+   ],
+   "answer": "slippery"
+  },
+  {
+   "id": "L3U13-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't run on the ___.",
+   "item": "stairs",
+   "options": [
+    "stairs",
+    "stranger",
+    "allowed"
+   ],
+   "answer": "stairs"
+  },
+  {
+   "id": "L3U13-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ me, please.",
+   "item": "follow",
+   "options": [
+    "Follow",
+    "Warning",
+    "Slippery"
+   ],
+   "answer": "Follow"
+  },
+  {
+   "id": "L3U13-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dogs are not ___ in the shop.",
+   "item": "allowed",
+   "options": [
+    "shallow",
+    "allowed",
+    "warning"
+   ],
+   "answer": "allowed"
+  },
+  {
+   "id": "L3U13-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please wait in the ___.",
+   "item": "queue",
+   "options": [
+    "queue",
+    "call",
+    "safe"
+   ],
+   "answer": "queue"
+  },
+  {
+   "id": "L3U13-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your teacher for help.",
+   "item": "ask",
+   "options": [
+    "Stairs",
+    "Address",
+    "Ask"
+   ],
+   "answer": "Ask"
+  },
+  {
+   "id": "L3U13-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ask a ___ before you cook.",
+   "item": "parent",
+   "options": [
+    "slippery",
+    "both",
+    "parent"
+   ],
+   "answer": "parent"
+  },
+  {
+   "id": "L3U13-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Swim with an ___.",
+   "item": "adult",
+   "options": [
+    "adult",
+    "allowed",
+    "hurry"
+   ],
+   "answer": "adult"
+  },
+  {
+   "id": "L3U13-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look ___ ways before you cross.",
+   "item": "both",
+   "options": [
+    "both",
+    "safety",
+    "safe"
+   ],
+   "answer": "both"
+  },
+  {
+   "id": "L3U13-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Walk on the left ___.",
+   "item": "side",
+   "options": [
+    "warning",
+    "queue",
+    "side"
+   ],
+   "answer": "side"
+  },
+  {
+   "id": "L3U13-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ says no swimming.",
+   "item": "sign",
+   "options": [
+    "sign",
+    "allowed",
+    "safe"
+   ],
+   "answer": "sign"
+  },
+  {
+   "id": "L3U13-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Listen to the ___.",
+   "item": "warning",
+   "options": [
+    "both",
+    "warning",
+    "safe"
+   ],
+   "answer": "warning"
+  },
+  {
+   "id": "L3U13-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the door, please.",
+   "item": "lock",
+   "options": [
+    "Address",
+    "Rule",
+    "Lock"
+   ],
+   "answer": "Lock"
+  },
+  {
+   "id": "L3U13-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___. Walk slowly.",
+   "item": "hurry",
+   "options": [
+    "hurry",
+    "stairs",
+    "pavement"
+   ],
+   "answer": "hurry"
+  },
+  {
+   "id": "L3U13-Q107",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Stop when the traffic lights are red.",
+   "item": "traffic lights",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U13-Q108",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Lock the door, please.",
+   "item": "traffic lights",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U13-Q109",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U13-R01",
+   "text_en": "Where did Ben and his dad cross the road?",
+   "options": [
+    "Under the bridge.",
+    "At the zebra crossing.",
+    "Near the park."
+   ],
+   "answer": "At the zebra crossing."
+  },
+  {
+   "id": "L3U13-Q110",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U13-R01",
+   "text_en": "Why couldn't Ben climb the tree?",
+   "options": [
+    "It was not safe.",
+    "He was tired.",
+    "It was raining."
+   ],
+   "answer": "It was not safe."
+  },
+  {
+   "id": "L3U13-Q111",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U13-R01",
+   "text_en": "What did Ben do when he couldn't see his dad?",
+   "options": [
+    "He stayed in one place and asked for help.",
+    "He went home alone.",
+    "He climbed a tree."
+   ],
+   "answer": "He stayed in one place and asked for help."
+  },
+  {
+   "id": "L3U13-Q112",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rule",
+   "item": "rule",
+   "answer": "rule"
+  },
+  {
+   "id": "L3U13-Q113",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "must",
+   "item": "must",
+   "answer": "must"
+  },
+  {
+   "id": "L3U13-Q114",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "safe",
+   "item": "safe",
+   "answer": "safe"
+  },
+  {
+   "id": "L3U13-Q115",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "safety",
+   "item": "safety",
+   "answer": "safety"
+  },
+  {
+   "id": "L3U13-Q116",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "danger",
+   "item": "danger",
+   "answer": "danger"
+  },
+  {
+   "id": "L3U13-Q117",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "traffic",
+   "item": "traffic",
+   "answer": "traffic"
+  },
+  {
+   "id": "L3U13-Q118",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "pavement",
+   "item": "pavement",
+   "answer": "pavement"
+  },
+  {
+   "id": "L3U13-Q119",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "stranger",
+   "item": "stranger",
+   "answer": "stranger"
+  },
+  {
+   "id": "L3U13-Q120",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We follow the rules at school.",
+   "answer": "We follow the rules at school."
+  },
+  {
+   "id": "L3U13-Q121",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Is it safe to swim here?",
+   "answer": "Is it safe to swim here?"
+  },
+  {
+   "id": "L3U13-Q122",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Safety first!",
+   "answer": "Safety first!"
+  }
+ ]
+}

@@ -1,0 +1,1707 @@
+{
+ "id": "L1U13",
+ "level": 1,
+ "unit": 13,
+ "topic_en": "On the move",
+ "topic_vi": "Đi lại",
+ "can_do_vi": [
+  "Gọi tên phương tiện và nơi chốn",
+  "Nói \"I go to school by bus.\""
+ ],
+ "items": [
+  {
+   "id": "L1U13-W01",
+   "type": "word",
+   "en": "taxi",
+   "vi": "xe taxi",
+   "ipa": "/ˈtæksi/",
+   "syllables": [
+    "taxi"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F695"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "It's a yellow taxi.",
+   "example_vi": "Đó là chiếc taxi vàng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W02",
+   "type": "word",
+   "en": "motorbike",
+   "vi": "xe máy",
+   "ipa": "/ˈmoʊtərˌbaɪk/",
+   "syllables": [
+    "mo",
+    "tor",
+    "bike"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3CD-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "Dad has a motorbike.",
+   "example_vi": "Bố có một chiếc xe máy.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U13-W03",
+   "type": "word",
+   "en": "lorry",
+   "vi": "xe tải lớn",
+   "ipa": "/ˈlɔri/",
+   "syllables": [
+    "lor",
+    "ry"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F69B"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The lorry is big.",
+   "example_vi": "Chiếc xe tải to.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W04",
+   "type": "word",
+   "en": "ship",
+   "vi": "con tàu",
+   "ipa": "/ʃɪp/",
+   "syllables": [
+    "ship"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6A2"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The ship is on the water.",
+   "example_vi": "Con tàu ở trên mặt nước.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W05",
+   "type": "word",
+   "en": "helicopter",
+   "vi": "máy bay trực thăng",
+   "ipa": "/ˈhɛlɪˌkɑptər/",
+   "syllables": [
+    "helicopter"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F681"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The helicopter can fly.",
+   "example_vi": "Trực thăng biết bay.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U13-W06",
+   "type": "word",
+   "en": "street",
+   "vi": "đường phố",
+   "ipa": "/strit/",
+   "syllables": [
+    "street"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6E3-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The bus is on the street.",
+   "example_vi": "Xe buýt ở trên đường.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W07",
+   "type": "word",
+   "en": "shop",
+   "vi": "cửa hàng",
+   "ipa": "/ʃɑp/",
+   "syllables": [
+    "shop"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3EA"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "Mum is at the shop.",
+   "example_vi": "Mẹ đang ở cửa hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W08",
+   "type": "word",
+   "en": "market",
+   "vi": "chợ",
+   "ipa": "/ˈmɑrkɪt/",
+   "syllables": [
+    "mar",
+    "ket"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "Let's go to the market.",
+   "example_vi": "Mình đi chợ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W09",
+   "type": "word",
+   "en": "hospital",
+   "vi": "bệnh viện",
+   "ipa": "/ˈhɑˌspɪtəl/",
+   "syllables": [
+    "hos",
+    "pi",
+    "tal"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3E5"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The hospital is big.",
+   "example_vi": "Bệnh viện to.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U13-W10",
+   "type": "word",
+   "en": "beach",
+   "vi": "bãi biển",
+   "ipa": "/bitʃ/",
+   "syllables": [
+    "beach"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3D6-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "I like the beach.",
+   "example_vi": "Tớ thích bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W11",
+   "type": "word",
+   "en": "sea",
+   "vi": "biển",
+   "ipa": "/si/",
+   "syllables": [
+    "sea"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The sea is blue.",
+   "example_vi": "Biển màu xanh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W12",
+   "type": "word",
+   "en": "town",
+   "vi": "thị trấn",
+   "ipa": "/taʊn/",
+   "syllables": [
+    "town"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "I live in a small town.",
+   "example_vi": "Tớ sống ở một thị trấn nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W13",
+   "type": "word",
+   "en": "city",
+   "vi": "thành phố",
+   "ipa": "/ˈsɪti/",
+   "syllables": [
+    "city"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D9-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The city is big.",
+   "example_vi": "Thành phố lớn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W14",
+   "type": "word",
+   "en": "driver",
+   "vi": "người lái xe",
+   "ipa": "/ˈdraɪvər/",
+   "syllables": [
+    "driv",
+    "er"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F9D1-200D-2708-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The bus driver is nice.",
+   "example_vi": "Bác lái xe buýt rất hiền.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W15",
+   "type": "word",
+   "en": "ticket",
+   "vi": "cái vé",
+   "ipa": "/ˈtɪkɪt/",
+   "syllables": [
+    "tick",
+    "et"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3AB"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "I have a bus ticket.",
+   "example_vi": "Tớ có vé xe buýt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W16",
+   "type": "word",
+   "en": "near",
+   "vi": "gần",
+   "ipa": "/nɪr/",
+   "syllables": [
+    "near"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The park is near my house.",
+   "example_vi": "Công viên gần nhà tớ.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W17",
+   "type": "word",
+   "en": "far",
+   "vi": "xa",
+   "ipa": "/fɑr/",
+   "syllables": [
+    "far"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F52D"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "The beach is far.",
+   "example_vi": "Bãi biển ở xa.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W18",
+   "type": "word",
+   "en": "by",
+   "vi": "bằng (phương tiện)",
+   "ipa": "/baɪ/",
+   "syllables": [
+    "by"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "I go by bike.",
+   "example_vi": "Tớ đi bằng xe đạp.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U13-W19",
+   "type": "word",
+   "en": "live",
+   "vi": "sống",
+   "ipa": "/lɪv/",
+   "syllables": [
+    "live"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": true,
+   "cat": "L1U13",
+   "example_en": "I live in a house.",
+   "example_vi": "Tớ sống trong một ngôi nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U13-P01",
+   "en": "I go to school by {x}.",
+   "vi": "Tớ đi học bằng {x}.",
+   "slots": {
+    "x": [
+     "bus",
+     "bike",
+     "car",
+     "motorbike"
+    ]
+   }
+  },
+  {
+   "id": "L1U13-P02",
+   "en": "Let's go to the {x}.",
+   "vi": "Mình đi {x} nhé.",
+   "slots": {
+    "x": [
+     "market",
+     "beach",
+     "shop",
+     "park"
+    ]
+   }
+  },
+  {
+   "id": "L1U13-P03",
+   "en": "The {x} is near my house.",
+   "vi": "{x} gần nhà tớ.",
+   "slots": {
+    "x": [
+     "school",
+     "park",
+     "shop",
+     "market"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U13-D01",
+   "title_vi": "Đi học bằng gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "How do you go to school?",
+     "vi": "Cậu đi học bằng gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I go to school by bus.",
+     "vi": "Tớ đi học bằng xe buýt."
+    },
+    {
+     "role": "Bi",
+     "en": "Is your school far?",
+     "vi": "Trường cậu có xa không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. It's near my house.",
+     "vi": "Không. Nó gần nhà tớ."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "bus",
+    "options": [
+     "bike",
+     "motorbike",
+     "car"
+    ]
+   }
+  },
+  {
+   "id": "L1U13-D02",
+   "title_vi": "Đi chợ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's go to the market.",
+     "vi": "Mình đi chợ nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Can I have a mango?",
+     "vi": "Được! Tớ mua một quả xoài được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! And I want some carrots.",
+     "vi": "Được! Còn tớ muốn mua ít cà rốt."
+    },
+    {
+     "role": "Kid",
+     "en": "Let's go by bike!",
+     "vi": "Mình đi bằng xe đạp đi!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "market",
+    "options": [
+     "shop",
+     "beach"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "t"
+  },
+  {
+   "type": "write_letter",
+   "target": "m"
+  },
+  {
+   "type": "write_letter",
+   "target": "l"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "copy_word",
+   "target": "taxi"
+  },
+  {
+   "type": "copy_word",
+   "target": "lorry"
+  },
+  {
+   "type": "copy_word",
+   "target": "ship"
+  },
+  {
+   "type": "copy_word",
+   "target": "street"
+  },
+  {
+   "type": "copy_word",
+   "target": "shop"
+  },
+  {
+   "type": "copy_word",
+   "target": "market"
+  },
+  {
+   "type": "copy_word",
+   "target": "beach"
+  },
+  {
+   "type": "copy_word",
+   "target": "sea"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U13-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "taxi",
+   "item": "taxi",
+   "options": [
+    "street",
+    "taxi",
+    "hospital",
+    "beach"
+   ],
+   "answer": "taxi"
+  },
+  {
+   "id": "L1U13-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "motorbike",
+   "item": "motorbike",
+   "options": [
+    "lorry",
+    "near",
+    "market",
+    "motorbike"
+   ],
+   "answer": "motorbike"
+  },
+  {
+   "id": "L1U13-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lorry",
+   "item": "lorry",
+   "options": [
+    "ticket",
+    "helicopter",
+    "city",
+    "lorry"
+   ],
+   "answer": "lorry"
+  },
+  {
+   "id": "L1U13-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ship",
+   "item": "ship",
+   "options": [
+    "ship",
+    "far",
+    "hospital",
+    "sea"
+   ],
+   "answer": "ship"
+  },
+  {
+   "id": "L1U13-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "helicopter",
+   "item": "helicopter",
+   "options": [
+    "helicopter",
+    "street",
+    "live",
+    "hospital"
+   ],
+   "answer": "helicopter"
+  },
+  {
+   "id": "L1U13-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "street",
+   "item": "street",
+   "options": [
+    "taxi",
+    "sea",
+    "street",
+    "ticket"
+   ],
+   "answer": "street"
+  },
+  {
+   "id": "L1U13-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shop",
+   "item": "shop",
+   "options": [
+    "shop",
+    "hospital",
+    "helicopter",
+    "city"
+   ],
+   "answer": "shop"
+  },
+  {
+   "id": "L1U13-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "market",
+   "item": "market",
+   "options": [
+    "market",
+    "street",
+    "sea",
+    "far"
+   ],
+   "answer": "market"
+  },
+  {
+   "id": "L1U13-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hospital",
+   "item": "hospital",
+   "options": [
+    "beach",
+    "city",
+    "shop",
+    "hospital"
+   ],
+   "answer": "hospital"
+  },
+  {
+   "id": "L1U13-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "beach",
+   "item": "beach",
+   "options": [
+    "sea",
+    "hospital",
+    "helicopter",
+    "beach"
+   ],
+   "answer": "beach"
+  },
+  {
+   "id": "L1U13-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sea",
+   "item": "sea",
+   "options": [
+    "sea",
+    "ticket",
+    "hospital",
+    "beach"
+   ],
+   "answer": "sea"
+  },
+  {
+   "id": "L1U13-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "town",
+   "item": "town",
+   "options": [
+    "live",
+    "town",
+    "driver",
+    "shop"
+   ],
+   "answer": "town"
+  },
+  {
+   "id": "L1U13-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "city",
+   "item": "city",
+   "options": [
+    "hospital",
+    "city",
+    "taxi",
+    "sea"
+   ],
+   "answer": "city"
+  },
+  {
+   "id": "L1U13-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "driver",
+   "item": "driver",
+   "options": [
+    "driver",
+    "by",
+    "street",
+    "live"
+   ],
+   "answer": "driver"
+  },
+  {
+   "id": "L1U13-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ticket",
+   "item": "ticket",
+   "options": [
+    "live",
+    "shop",
+    "market",
+    "ticket"
+   ],
+   "answer": "ticket"
+  },
+  {
+   "id": "L1U13-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "near",
+   "item": "near",
+   "options": [
+    "lorry",
+    "beach",
+    "near",
+    "town"
+   ],
+   "answer": "near"
+  },
+  {
+   "id": "L1U13-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "far",
+   "item": "far",
+   "options": [
+    "street",
+    "near",
+    "far",
+    "taxi"
+   ],
+   "answer": "far"
+  },
+  {
+   "id": "L1U13-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "by",
+   "item": "by",
+   "options": [
+    "by",
+    "near",
+    "beach",
+    "street"
+   ],
+   "answer": "by"
+  },
+  {
+   "id": "L1U13-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "live",
+   "item": "live",
+   "options": [
+    "ship",
+    "live",
+    "sea",
+    "town"
+   ],
+   "answer": "live"
+  },
+  {
+   "id": "L1U13-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the taxi red.",
+   "item": "taxi",
+   "options": [
+    "city",
+    "taxi",
+    "town"
+   ],
+   "answer": "taxi",
+   "color": "red"
+  },
+  {
+   "id": "L1U13-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the motorbike red.",
+   "item": "motorbike",
+   "options": [
+    "motorbike",
+    "helicopter",
+    "shop"
+   ],
+   "answer": "motorbike",
+   "color": "red"
+  },
+  {
+   "id": "L1U13-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the lorry blue.",
+   "item": "lorry",
+   "options": [
+    "by",
+    "far",
+    "lorry"
+   ],
+   "answer": "lorry",
+   "color": "blue"
+  },
+  {
+   "id": "L1U13-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the ship red.",
+   "item": "ship",
+   "options": [
+    "ship",
+    "ticket",
+    "town"
+   ],
+   "answer": "ship",
+   "color": "red"
+  },
+  {
+   "id": "L1U13-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "taxi",
+   "answer": "taxi"
+  },
+  {
+   "id": "L1U13-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "motorbike",
+   "answer": "motorbike"
+  },
+  {
+   "id": "L1U13-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lorry",
+   "answer": "lorry"
+  },
+  {
+   "id": "L1U13-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ship",
+   "answer": "ship"
+  },
+  {
+   "id": "L1U13-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "helicopter",
+   "answer": "helicopter"
+  },
+  {
+   "id": "L1U13-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "street",
+   "answer": "street"
+  },
+  {
+   "id": "L1U13-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shop",
+   "answer": "shop"
+  },
+  {
+   "id": "L1U13-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "market",
+   "answer": "market"
+  },
+  {
+   "id": "L1U13-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hospital",
+   "answer": "hospital"
+  },
+  {
+   "id": "L1U13-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "beach",
+   "answer": "beach"
+  },
+  {
+   "id": "L1U13-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sea",
+   "answer": "sea"
+  },
+  {
+   "id": "L1U13-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "town",
+   "answer": "town"
+  },
+  {
+   "id": "L1U13-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "city",
+   "answer": "city"
+  },
+  {
+   "id": "L1U13-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "driver",
+   "answer": "driver"
+  },
+  {
+   "id": "L1U13-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ticket",
+   "answer": "ticket"
+  },
+  {
+   "id": "L1U13-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "near",
+   "answer": "near"
+  },
+  {
+   "id": "L1U13-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "far",
+   "answer": "far"
+  },
+  {
+   "id": "L1U13-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "by",
+   "answer": "by"
+  },
+  {
+   "id": "L1U13-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "live",
+   "answer": "live"
+  },
+  {
+   "id": "L1U13-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a yellow taxi.",
+   "item": "taxi",
+   "answer": "It's a yellow taxi."
+  },
+  {
+   "id": "L1U13-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad has a motorbike.",
+   "item": "motorbike",
+   "answer": "Dad has a motorbike."
+  },
+  {
+   "id": "L1U13-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lorry is big.",
+   "item": "lorry",
+   "answer": "The lorry is big."
+  },
+  {
+   "id": "L1U13-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ship is on the water.",
+   "item": "ship",
+   "answer": "The ship is on the water."
+  },
+  {
+   "id": "L1U13-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The helicopter can fly.",
+   "item": "helicopter",
+   "answer": "The helicopter can fly."
+  },
+  {
+   "id": "L1U13-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bus is on the street.",
+   "item": "street",
+   "answer": "The bus is on the street."
+  },
+  {
+   "id": "L1U13-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum is at the shop.",
+   "item": "shop",
+   "answer": "Mum is at the shop."
+  },
+  {
+   "id": "L1U13-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the market.",
+   "item": "market",
+   "answer": "Let's go to the market."
+  },
+  {
+   "id": "L1U13-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hospital is big.",
+   "item": "hospital",
+   "answer": "The hospital is big."
+  },
+  {
+   "id": "L1U13-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the beach.",
+   "item": "beach",
+   "answer": "I like the beach."
+  },
+  {
+   "id": "L1U13-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sea is blue.",
+   "item": "sea",
+   "answer": "The sea is blue."
+  },
+  {
+   "id": "L1U13-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I live in a small town.",
+   "item": "town",
+   "answer": "I live in a small town."
+  },
+  {
+   "id": "L1U13-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The city is big.",
+   "item": "city",
+   "answer": "The city is big."
+  },
+  {
+   "id": "L1U13-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bus driver is nice.",
+   "item": "driver",
+   "answer": "The bus driver is nice."
+  },
+  {
+   "id": "L1U13-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a bus ticket.",
+   "item": "ticket",
+   "answer": "I have a bus ticket."
+  },
+  {
+   "id": "L1U13-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is near my house.",
+   "item": "near",
+   "answer": "The park is near my house."
+  },
+  {
+   "id": "L1U13-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The beach is far.",
+   "item": "far",
+   "answer": "The beach is far."
+  },
+  {
+   "id": "L1U13-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go by bike.",
+   "item": "by",
+   "answer": "I go by bike."
+  },
+  {
+   "id": "L1U13-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I live in a house.",
+   "item": "live",
+   "answer": "I live in a house."
+  },
+  {
+   "id": "L1U13-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to school by bus.",
+   "answer": "I go to school by bus."
+  },
+  {
+   "id": "L1U13-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to school by bike.",
+   "answer": "I go to school by bike."
+  },
+  {
+   "id": "L1U13-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to school by car.",
+   "answer": "I go to school by car."
+  },
+  {
+   "id": "L1U13-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the market.",
+   "answer": "Let's go to the market."
+  },
+  {
+   "id": "L1U13-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the beach.",
+   "answer": "Let's go to the beach."
+  },
+  {
+   "id": "L1U13-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the shop.",
+   "answer": "Let's go to the shop."
+  },
+  {
+   "id": "L1U13-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The school is near my house.",
+   "answer": "The school is near my house."
+  },
+  {
+   "id": "L1U13-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is near my house.",
+   "answer": "The park is near my house."
+  },
+  {
+   "id": "L1U13-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shop is near my house.",
+   "answer": "The shop is near my house."
+  },
+  {
+   "id": "L1U13-Q071",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How do you go to school?",
+   "answer": "I go to school by bus."
+  },
+  {
+   "id": "L1U13-Q072",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is your school far?",
+   "answer": "No. It's near my house."
+  },
+  {
+   "id": "L1U13-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay! Can I have a mango?",
+   "answer": "Yes! And I want some carrots."
+  },
+  {
+   "id": "L1U13-Q074",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "taxi",
+   "options": [
+    "live",
+    "taxi",
+    "ticket"
+   ],
+   "answer": "taxi"
+  },
+  {
+   "id": "L1U13-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "motorbike",
+   "options": [
+    "far",
+    "helicopter",
+    "motorbike"
+   ],
+   "answer": "motorbike"
+  },
+  {
+   "id": "L1U13-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lorry",
+   "options": [
+    "far",
+    "shop",
+    "lorry"
+   ],
+   "answer": "lorry"
+  },
+  {
+   "id": "L1U13-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ship",
+   "options": [
+    "ship",
+    "far",
+    "hospital"
+   ],
+   "answer": "ship"
+  },
+  {
+   "id": "L1U13-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "helicopter",
+   "options": [
+    "helicopter",
+    "beach",
+    "driver"
+   ],
+   "answer": "helicopter"
+  },
+  {
+   "id": "L1U13-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "street",
+   "options": [
+    "street",
+    "city",
+    "market"
+   ],
+   "answer": "street"
+  },
+  {
+   "id": "L1U13-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shop",
+   "options": [
+    "shop",
+    "street",
+    "city"
+   ],
+   "answer": "shop"
+  },
+  {
+   "id": "L1U13-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "market",
+   "options": [
+    "market",
+    "beach",
+    "town"
+   ],
+   "answer": "market"
+  },
+  {
+   "id": "L1U13-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hospital",
+   "options": [
+    "city",
+    "hospital",
+    "taxi"
+   ],
+   "answer": "hospital"
+  },
+  {
+   "id": "L1U13-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "beach",
+   "options": [
+    "near",
+    "ticket",
+    "beach"
+   ],
+   "answer": "beach"
+  },
+  {
+   "id": "L1U13-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sea",
+   "options": [
+    "live",
+    "town",
+    "sea"
+   ],
+   "answer": "sea"
+  },
+  {
+   "id": "L1U13-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "town",
+   "options": [
+    "driver",
+    "town",
+    "helicopter"
+   ],
+   "answer": "town"
+  },
+  {
+   "id": "L1U13-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "city",
+   "options": [
+    "city",
+    "helicopter",
+    "driver"
+   ],
+   "answer": "city"
+  },
+  {
+   "id": "L1U13-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "driver",
+   "options": [
+    "far",
+    "market",
+    "driver"
+   ],
+   "answer": "driver"
+  },
+  {
+   "id": "L1U13-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ticket",
+   "options": [
+    "sea",
+    "ticket",
+    "motorbike"
+   ],
+   "answer": "ticket"
+  },
+  {
+   "id": "L1U13-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "near",
+   "options": [
+    "lorry",
+    "near",
+    "town"
+   ],
+   "answer": "near"
+  },
+  {
+   "id": "L1U13-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "far",
+   "options": [
+    "ship",
+    "sea",
+    "far"
+   ],
+   "answer": "far"
+  },
+  {
+   "id": "L1U13-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "by",
+   "options": [
+    "by",
+    "taxi",
+    "ship"
+   ],
+   "answer": "by"
+  },
+  {
+   "id": "L1U13-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "live",
+   "options": [
+    "live",
+    "by",
+    "ship"
+   ],
+   "answer": "live"
+  },
+  {
+   "id": "L1U13-Q093",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "t",
+   "answer": "t"
+  },
+  {
+   "id": "L1U13-Q094",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "m",
+   "answer": "m"
+  },
+  {
+   "id": "L1U13-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "l",
+   "answer": "l"
+  },
+  {
+   "id": "L1U13-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U13-Q097",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "taxi",
+   "answer": "taxi"
+  },
+  {
+   "id": "L1U13-Q098",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "lorry",
+   "answer": "lorry"
+  },
+  {
+   "id": "L1U13-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "ship",
+   "answer": "ship"
+  },
+  {
+   "id": "L1U13-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "street",
+   "answer": "street"
+  },
+  {
+   "id": "L1U13-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "shop",
+   "answer": "shop"
+  },
+  {
+   "id": "L1U13-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "market",
+   "answer": "market"
+  },
+  {
+   "id": "L1U13-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "beach",
+   "answer": "beach"
+  },
+  {
+   "id": "L1U13-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sea",
+   "answer": "sea"
+  }
+ ]
+}

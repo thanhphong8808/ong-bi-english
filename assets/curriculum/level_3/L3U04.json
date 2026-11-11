@@ -1,0 +1,2577 @@
+{
+ "id": "L3U04",
+ "level": 3,
+ "unit": 4,
+ "topic_en": "What happened?",
+ "topic_vi": "Chuyện gì đã xảy ra?",
+ "can_do_vi": [
+  "Kể lại việc đã làm hôm qua, cuối tuần trước",
+  "Dùng các động từ quá khứ bất quy tắc thường gặp"
+ ],
+ "grammar_note_vi": "Kể chuyện đã qua dùng động từ quá khứ. Nhiều động từ chỉ cần thêm \"-ed\" (play → played), nhưng một số đổi hẳn: go → went, buy → bought, see → saw. Bé học thuộc dần từng từ.",
+ "items": [
+  {
+   "id": "L3U04-W01",
+   "type": "word",
+   "en": "happen",
+   "vi": "xảy ra",
+   "ipa": "/ˈhæpən/",
+   "syllables": [
+    "hap",
+    "pen"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "What happened yesterday?",
+   "example_vi": "Hôm qua đã xảy ra chuyện gì?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W02",
+   "type": "word",
+   "en": "bought",
+   "vi": "đã mua (buy)",
+   "ipa": "/bɔt/",
+   "syllables": [
+    "bought"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6CD-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Mum bought me a new bag.",
+   "example_vi": "Mẹ đã mua cho tớ cái cặp mới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W03",
+   "type": "word",
+   "en": "found",
+   "vi": "đã tìm thấy (find)",
+   "ipa": "/faʊnd/",
+   "syllables": [
+    "found"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F50D"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I found a coin under the sofa.",
+   "example_vi": "Tớ tìm thấy đồng xu dưới ghế sofa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W04",
+   "type": "word",
+   "en": "told",
+   "vi": "đã kể, đã bảo (tell)",
+   "ipa": "/toʊld/",
+   "syllables": [
+    "told"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Grandma told me a story.",
+   "example_vi": "Bà đã kể cho tớ một câu chuyện.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W05",
+   "type": "word",
+   "en": "thought",
+   "vi": "đã nghĩ, đã tưởng (think)",
+   "ipa": "/θɔt/",
+   "syllables": [
+    "thought"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I thought it was a cat, but it was a fox.",
+   "example_vi": "Tớ tưởng đó là mèo, nhưng hoá ra là cáo.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W06",
+   "type": "word",
+   "en": "wrote",
+   "vi": "đã viết (write)",
+   "ipa": "/roʊt/",
+   "syllables": [
+    "wrote"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I wrote a card to my aunt.",
+   "example_vi": "Tớ đã viết thiệp cho dì.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W07",
+   "type": "word",
+   "en": "flew",
+   "vi": "đã bay (fly)",
+   "ipa": "/flu/",
+   "syllables": [
+    "flew"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "The bird flew over the house.",
+   "example_vi": "Con chim đã bay qua ngôi nhà.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W08",
+   "type": "word",
+   "en": "slept",
+   "vi": "đã ngủ (sleep)",
+   "ipa": "/slɛpt/",
+   "syllables": [
+    "slept"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4A4"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "The baby slept all afternoon.",
+   "example_vi": "Em bé ngủ cả buổi chiều.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W09",
+   "type": "word",
+   "en": "lost",
+   "vi": "đã làm mất (lose)",
+   "ipa": "/lɔst/",
+   "syllables": [
+    "lost"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F61E"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I lost my pencil at school.",
+   "example_vi": "Tớ làm mất bút chì ở trường.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W10",
+   "type": "word",
+   "en": "broke",
+   "vi": "đã làm vỡ (break)",
+   "ipa": "/broʊk/",
+   "syllables": [
+    "broke"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F494"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Max broke a glass.",
+   "example_vi": "Max đã làm vỡ cái cốc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W11",
+   "type": "word",
+   "en": "fell",
+   "vi": "đã ngã (fall)",
+   "ipa": "/fɛl/",
+   "syllables": [
+    "fell"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Leo fell off his bike.",
+   "example_vi": "Leo bị ngã xe đạp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W12",
+   "type": "word",
+   "en": "forgot",
+   "vi": "đã quên (forget)",
+   "ipa": "/fərˈɡɑt/",
+   "syllables": [
+    "for",
+    "got"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I forgot my umbrella.",
+   "example_vi": "Tớ quên ô rồi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W13",
+   "type": "word",
+   "en": "caught",
+   "vi": "đã bắt được (catch)",
+   "ipa": "/kɔt/",
+   "syllables": [
+    "caught"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9E4"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "The cat caught a mouse.",
+   "example_vi": "Con mèo bắt được chuột.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W14",
+   "type": "word",
+   "en": "drew",
+   "vi": "đã vẽ (draw)",
+   "ipa": "/dru/",
+   "syllables": [
+    "drew"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F58C-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I drew a dinosaur.",
+   "example_vi": "Tớ đã vẽ một con khủng long.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W15",
+   "type": "word",
+   "en": "felt",
+   "vi": "đã cảm thấy (feel)",
+   "ipa": "/fɛlt/",
+   "syllables": [
+    "felt"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1FAC0"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I felt sleepy after lunch.",
+   "example_vi": "Sau bữa trưa tớ thấy buồn ngủ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W16",
+   "type": "word",
+   "en": "met",
+   "vi": "đã gặp (meet)",
+   "ipa": "/mɛt/",
+   "syllables": [
+    "met"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1FAC2"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I met my cousin at the park.",
+   "example_vi": "Tớ gặp chị họ ở công viên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W17",
+   "type": "word",
+   "en": "rode",
+   "vi": "đã đạp xe, đã cưỡi (ride)",
+   "ipa": "/roʊd/",
+   "syllables": [
+    "rode"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6B4"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "We rode our bikes to the lake.",
+   "example_vi": "Bọn tớ đạp xe ra hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W18",
+   "type": "word",
+   "en": "sang",
+   "vi": "đã hát (sing)",
+   "ipa": "/sæŋ/",
+   "syllables": [
+    "sang"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "We sang a song for Grandpa.",
+   "example_vi": "Bọn tớ hát tặng ông một bài.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W19",
+   "type": "word",
+   "en": "sent",
+   "vi": "đã gửi (send)",
+   "ipa": "/sɛnt/",
+   "syllables": [
+    "sent"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4E8"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Dad sent me a photo.",
+   "example_vi": "Bố gửi cho tớ một tấm ảnh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W20",
+   "type": "word",
+   "en": "taught",
+   "vi": "đã dạy (teach)",
+   "ipa": "/tɔt/",
+   "syllables": [
+    "taught"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9D1-200D-1F3EB"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "My mum taught me to cook.",
+   "example_vi": "Mẹ đã dạy tớ nấu ăn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W21",
+   "type": "word",
+   "en": "threw",
+   "vi": "đã ném (throw)",
+   "ipa": "/θru/",
+   "syllables": [
+    "threw"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F93E"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "He threw the ball to me.",
+   "example_vi": "Bạn ấy ném bóng cho tớ.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W22",
+   "type": "phrase",
+   "en": "woke up",
+   "vi": "đã thức dậy (wake up)",
+   "ipa": "/woʊk ʌp/",
+   "syllables": [
+    "woke",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F0"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I woke up early today.",
+   "example_vi": "Hôm nay tớ dậy sớm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W23",
+   "type": "word",
+   "en": "won",
+   "vi": "đã thắng (win)",
+   "ipa": "/wʌn/",
+   "syllables": [
+    "won"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Our team won the match!",
+   "example_vi": "Đội tớ thắng trận rồi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W24",
+   "type": "word",
+   "en": "wore",
+   "vi": "đã mặc (wear)",
+   "ipa": "/wɔr/",
+   "syllables": [
+    "wore"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F457"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "She wore a pink dress.",
+   "example_vi": "Bạn ấy mặc váy hồng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W25",
+   "type": "word",
+   "en": "brought",
+   "vi": "đã mang đến (bring)",
+   "ipa": "/brɔt/",
+   "syllables": [
+    "brought"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F392"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Mai brought a cake to school.",
+   "example_vi": "Mai mang bánh đến trường.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W26",
+   "type": "word",
+   "en": "heard",
+   "vi": "đã nghe thấy (hear)",
+   "ipa": "/hʌrd/",
+   "syllables": [
+    "heard"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I heard a bird in the tree.",
+   "example_vi": "Tớ nghe thấy tiếng chim trên cây.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W27",
+   "type": "word",
+   "en": "knew",
+   "vi": "đã biết (know)",
+   "ipa": "/nu/",
+   "syllables": [
+    "knew"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I knew the answer!",
+   "example_vi": "Tớ biết câu trả lời!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W28",
+   "type": "word",
+   "en": "began",
+   "vi": "đã bắt đầu (begin)",
+   "ipa": "/bɪˈɡæn/",
+   "syllables": [
+    "be",
+    "gan"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3C1"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "It began to rain.",
+   "example_vi": "Trời bắt đầu mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W29",
+   "type": "word",
+   "en": "break",
+   "vi": "làm vỡ",
+   "ipa": "/breɪk/",
+   "syllables": [
+    "break"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F494"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Be careful. Don't break the cups.",
+   "example_vi": "Cẩn thận. Đừng làm vỡ cốc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W30",
+   "type": "word",
+   "en": "meet",
+   "vi": "gặp",
+   "ipa": "/mit/",
+   "syllables": [
+    "meet"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1FAC2"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Nice to meet you!",
+   "example_vi": "Rất vui được gặp cậu!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W31",
+   "type": "word",
+   "en": "hear",
+   "vi": "nghe thấy",
+   "ipa": "/hir/",
+   "syllables": [
+    "hear"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "Can you hear me?",
+   "example_vi": "Cậu có nghe tớ nói không?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W32",
+   "type": "word",
+   "en": "send",
+   "vi": "gửi",
+   "ipa": "/sɛnd/",
+   "syllables": [
+    "send"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4E8"
+   },
+   "picturable": true,
+   "cat": "L3U04",
+   "example_en": "Send a card to Grandma.",
+   "example_vi": "Gửi thiệp cho bà nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W33",
+   "type": "word",
+   "en": "accident",
+   "vi": "sự cố, tai nạn",
+   "ipa": "/ˈæksədənt/",
+   "syllables": [
+    "ac",
+    "ci",
+    "dent"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F691"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "It was an accident. I'm sorry.",
+   "example_vi": "Tớ không cố ý đâu. Xin lỗi nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U04-W34",
+   "type": "phrase",
+   "en": "last week",
+   "vi": "tuần trước",
+   "ipa": "/læst wik/",
+   "syllables": [
+    "last",
+    "week"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4C6"
+   },
+   "picturable": false,
+   "cat": "L3U04",
+   "example_en": "I went to the zoo last week.",
+   "example_vi": "Tuần trước tớ đi sở thú.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U04-P01",
+   "en": "Yesterday I {x}.",
+   "vi": "Hôm qua tớ {x}.",
+   "slots": {
+    "x": [
+     "woke up early",
+     "met my friend",
+     "rode my bike",
+     "lost my pencil"
+    ]
+   }
+  },
+  {
+   "id": "L3U04-P02",
+   "en": "What happened to the {x}?",
+   "vi": "{x} bị làm sao thế?",
+   "slots": {
+    "x": [
+     "cup",
+     "window",
+     "kite"
+    ]
+   }
+  },
+  {
+   "id": "L3U04-P03",
+   "en": "Last week I went to the {x}.",
+   "vi": "Tuần trước tớ đi {x}.",
+   "slots": {
+    "x": [
+     "zoo",
+     "beach",
+     "museum",
+     "park"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U04-D01",
+   "title_vi": "Chuyện gì đã xảy ra?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What happened to your knee?",
+     "vi": "Đầu gối cậu bị sao thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "I fell off my bike.",
+     "vi": "Tớ bị ngã xe đạp."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Does it hurt?",
+     "vi": "Ôi không! Có đau không?"
+    },
+    {
+     "role": "Kid",
+     "en": "A little. Mum put a plaster on it.",
+     "vi": "Hơi đau. Mẹ dán băng cho tớ rồi."
+    },
+    {
+     "role": "Bi",
+     "en": "Be careful next time!",
+     "vi": "Lần sau cẩn thận nhé!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "knee",
+    "options": [
+     "arm",
+     "hand"
+    ]
+   }
+  },
+  {
+   "id": "L3U04-D02",
+   "title_vi": "Cuối tuần của cậu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What did you do last weekend?",
+     "vi": "Cuối tuần trước cậu làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I went to the park with my cousin.",
+     "vi": "Tớ đi công viên với chị họ."
+    },
+    {
+     "role": "Bi",
+     "en": "What did you do there?",
+     "vi": "Cậu làm gì ở đó?"
+    },
+    {
+     "role": "Kid",
+     "en": "We flew a kite and ate ice cream.",
+     "vi": "Bọn tớ thả diều và ăn kem."
+    },
+    {
+     "role": "Bi",
+     "en": "That's fun!",
+     "vi": "Vui thế!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "park",
+    "options": [
+     "zoo",
+     "beach"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "happen"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bought"
+  },
+  {
+   "type": "dictate_word",
+   "target": "found"
+  },
+  {
+   "type": "dictate_word",
+   "target": "told"
+  },
+  {
+   "type": "dictate_word",
+   "target": "thought"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wrote"
+  },
+  {
+   "type": "dictate_word",
+   "target": "flew"
+  },
+  {
+   "type": "dictate_word",
+   "target": "slept"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What happened yesterday?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Mum bought me a new bag."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I found a coin under the sofa."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Yesterday I|Last weekend I went to|It was"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U04-R01",
+   "title_en": "A bad morning, a good day",
+   "text_en": [
+    "Yesterday, Tom woke up late.",
+    "He forgot his homework and ran to school.",
+    "On the way, he fell and broke his ruler.",
+    "He felt sad.",
+    "At school, his friend Kim gave him a new ruler.",
+    "In the art lesson, Tom drew a big rocket.",
+    "The teacher put it on the wall!",
+    "After school, Tom found a coin in the playground.",
+    "He bought a lemonade and shared it with Kim.",
+    "It began badly, but it was a good day!"
+   ],
+   "questions": [
+    {
+     "q": "Why did Tom run to school?",
+     "options": [
+      "He woke up late.",
+      "He wanted to play.",
+      "It was raining."
+     ],
+     "answer": "He woke up late."
+    },
+    {
+     "q": "What did Kim give Tom?",
+     "options": [
+      "A new ruler.",
+      "A coin.",
+      "A lemonade."
+     ],
+     "answer": "A new ruler."
+    },
+    {
+     "q": "What did Tom draw?",
+     "options": [
+      "A rocket.",
+      "A ruler.",
+      "A cat."
+     ],
+     "answer": "A rocket."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "send",
+   "item": "send",
+   "options": [
+    "kick",
+    "stop",
+    "man",
+    "send"
+   ],
+   "answer": "send"
+  },
+  {
+   "id": "L3U04-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "happen",
+   "item": "happen",
+   "options": [
+    "won",
+    "brought",
+    "happen",
+    "heard"
+   ],
+   "answer": "happen"
+  },
+  {
+   "id": "L3U04-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bought",
+   "item": "bought",
+   "options": [
+    "drew",
+    "told",
+    "hear",
+    "bought"
+   ],
+   "answer": "bought"
+  },
+  {
+   "id": "L3U04-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "found",
+   "item": "found",
+   "options": [
+    "found",
+    "last week",
+    "heard",
+    "caught"
+   ],
+   "answer": "found"
+  },
+  {
+   "id": "L3U04-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "told",
+   "item": "told",
+   "options": [
+    "told",
+    "wore",
+    "hear",
+    "break"
+   ],
+   "answer": "told"
+  },
+  {
+   "id": "L3U04-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thought",
+   "item": "thought",
+   "options": [
+    "began",
+    "lost",
+    "fell",
+    "thought"
+   ],
+   "answer": "thought"
+  },
+  {
+   "id": "L3U04-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wrote",
+   "item": "wrote",
+   "options": [
+    "bought",
+    "last week",
+    "wrote",
+    "hear"
+   ],
+   "answer": "wrote"
+  },
+  {
+   "id": "L3U04-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flew",
+   "item": "flew",
+   "options": [
+    "slept",
+    "drew",
+    "flew",
+    "happen"
+   ],
+   "answer": "flew"
+  },
+  {
+   "id": "L3U04-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "slept",
+   "item": "slept",
+   "options": [
+    "slept",
+    "lost",
+    "brought",
+    "began"
+   ],
+   "answer": "slept"
+  },
+  {
+   "id": "L3U04-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lost",
+   "item": "lost",
+   "options": [
+    "lost",
+    "drew",
+    "flew",
+    "won"
+   ],
+   "answer": "lost"
+  },
+  {
+   "id": "L3U04-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "broke",
+   "item": "broke",
+   "options": [
+    "broke",
+    "wore",
+    "woke up",
+    "flew"
+   ],
+   "answer": "broke"
+  },
+  {
+   "id": "L3U04-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fell",
+   "item": "fell",
+   "options": [
+    "heard",
+    "brought",
+    "flew",
+    "fell"
+   ],
+   "answer": "fell"
+  },
+  {
+   "id": "L3U04-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forgot",
+   "item": "forgot",
+   "options": [
+    "wore",
+    "hear",
+    "forgot",
+    "taught"
+   ],
+   "answer": "forgot"
+  },
+  {
+   "id": "L3U04-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "caught",
+   "item": "caught",
+   "options": [
+    "caught",
+    "told",
+    "thought",
+    "last week"
+   ],
+   "answer": "caught"
+  },
+  {
+   "id": "L3U04-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drew",
+   "item": "drew",
+   "options": [
+    "taught",
+    "woke up",
+    "drew",
+    "wore"
+   ],
+   "answer": "drew"
+  },
+  {
+   "id": "L3U04-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "felt",
+   "item": "felt",
+   "options": [
+    "meet",
+    "felt",
+    "drew",
+    "accident"
+   ],
+   "answer": "felt"
+  },
+  {
+   "id": "L3U04-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "met",
+   "item": "met",
+   "options": [
+    "wore",
+    "threw",
+    "last week",
+    "met"
+   ],
+   "answer": "met"
+  },
+  {
+   "id": "L3U04-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rode",
+   "item": "rode",
+   "options": [
+    "break",
+    "rode",
+    "forgot",
+    "happen"
+   ],
+   "answer": "rode"
+  },
+  {
+   "id": "L3U04-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sang",
+   "item": "sang",
+   "options": [
+    "told",
+    "won",
+    "sang",
+    "send"
+   ],
+   "answer": "sang"
+  },
+  {
+   "id": "L3U04-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sent",
+   "item": "sent",
+   "options": [
+    "began",
+    "sent",
+    "accident",
+    "knew"
+   ],
+   "answer": "sent"
+  },
+  {
+   "id": "L3U04-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "taught",
+   "item": "taught",
+   "options": [
+    "forgot",
+    "accident",
+    "taught",
+    "heard"
+   ],
+   "answer": "taught"
+  },
+  {
+   "id": "L3U04-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "threw",
+   "item": "threw",
+   "options": [
+    "taught",
+    "bought",
+    "threw",
+    "flew"
+   ],
+   "answer": "threw"
+  },
+  {
+   "id": "L3U04-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "woke up",
+   "item": "woke up",
+   "options": [
+    "woke up",
+    "break",
+    "threw",
+    "broke"
+   ],
+   "answer": "woke up"
+  },
+  {
+   "id": "L3U04-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "won",
+   "item": "won",
+   "options": [
+    "taught",
+    "meet",
+    "break",
+    "won"
+   ],
+   "answer": "won"
+  },
+  {
+   "id": "L3U04-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wore",
+   "item": "wore",
+   "options": [
+    "found",
+    "began",
+    "wore",
+    "fell"
+   ],
+   "answer": "wore"
+  },
+  {
+   "id": "L3U04-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "brought",
+   "item": "brought",
+   "options": [
+    "drew",
+    "brought",
+    "woke up",
+    "break"
+   ],
+   "answer": "brought"
+  },
+  {
+   "id": "L3U04-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "heard",
+   "item": "heard",
+   "options": [
+    "lost",
+    "rode",
+    "brought",
+    "heard"
+   ],
+   "answer": "heard"
+  },
+  {
+   "id": "L3U04-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "knew",
+   "item": "knew",
+   "options": [
+    "forgot",
+    "found",
+    "began",
+    "knew"
+   ],
+   "answer": "knew"
+  },
+  {
+   "id": "L3U04-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "began",
+   "item": "began",
+   "options": [
+    "began",
+    "drew",
+    "wrote",
+    "lost"
+   ],
+   "answer": "began"
+  },
+  {
+   "id": "L3U04-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "break",
+   "item": "break",
+   "options": [
+    "won",
+    "break",
+    "rode",
+    "woke up"
+   ],
+   "answer": "break"
+  },
+  {
+   "id": "L3U04-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "meet",
+   "item": "meet",
+   "options": [
+    "meet",
+    "won",
+    "wrote",
+    "happen"
+   ],
+   "answer": "meet"
+  },
+  {
+   "id": "L3U04-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hear",
+   "item": "hear",
+   "options": [
+    "woke up",
+    "flew",
+    "slept",
+    "hear"
+   ],
+   "answer": "hear"
+  },
+  {
+   "id": "L3U04-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "accident",
+   "item": "accident",
+   "options": [
+    "heard",
+    "break",
+    "accident",
+    "flew"
+   ],
+   "answer": "accident"
+  },
+  {
+   "id": "L3U04-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "last week",
+   "item": "last week",
+   "options": [
+    "heard",
+    "forgot",
+    "last week",
+    "wore"
+   ],
+   "answer": "last week"
+  },
+  {
+   "id": "L3U04-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "send",
+   "answer": "send"
+  },
+  {
+   "id": "L3U04-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What happened yesterday?",
+   "item": "happen",
+   "answer": "What happened yesterday?"
+  },
+  {
+   "id": "L3U04-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum bought me a new bag.",
+   "item": "bought",
+   "answer": "Mum bought me a new bag."
+  },
+  {
+   "id": "L3U04-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I found a coin under the sofa.",
+   "item": "found",
+   "answer": "I found a coin under the sofa."
+  },
+  {
+   "id": "L3U04-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma told me a story.",
+   "item": "told",
+   "answer": "Grandma told me a story."
+  },
+  {
+   "id": "L3U04-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I thought it was a cat, but it was a fox.",
+   "item": "thought",
+   "answer": "I thought it was a cat, but it was a fox."
+  },
+  {
+   "id": "L3U04-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wrote a card to my aunt.",
+   "item": "wrote",
+   "answer": "I wrote a card to my aunt."
+  },
+  {
+   "id": "L3U04-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird flew over the house.",
+   "item": "flew",
+   "answer": "The bird flew over the house."
+  },
+  {
+   "id": "L3U04-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby slept all afternoon.",
+   "item": "slept",
+   "answer": "The baby slept all afternoon."
+  },
+  {
+   "id": "L3U04-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I lost my pencil at school.",
+   "item": "lost",
+   "answer": "I lost my pencil at school."
+  },
+  {
+   "id": "L3U04-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Max broke a glass.",
+   "item": "broke",
+   "answer": "Max broke a glass."
+  },
+  {
+   "id": "L3U04-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Leo fell off his bike.",
+   "item": "fell",
+   "answer": "Leo fell off his bike."
+  },
+  {
+   "id": "L3U04-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I forgot my umbrella.",
+   "item": "forgot",
+   "answer": "I forgot my umbrella."
+  },
+  {
+   "id": "L3U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cat caught a mouse.",
+   "item": "caught",
+   "answer": "The cat caught a mouse."
+  },
+  {
+   "id": "L3U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I drew a dinosaur.",
+   "item": "drew",
+   "answer": "I drew a dinosaur."
+  },
+  {
+   "id": "L3U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I felt sleepy after lunch.",
+   "item": "felt",
+   "answer": "I felt sleepy after lunch."
+  },
+  {
+   "id": "L3U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I met my cousin at the park.",
+   "item": "met",
+   "answer": "I met my cousin at the park."
+  },
+  {
+   "id": "L3U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We rode our bikes to the lake.",
+   "item": "rode",
+   "answer": "We rode our bikes to the lake."
+  },
+  {
+   "id": "L3U04-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We sang a song for Grandpa.",
+   "item": "sang",
+   "answer": "We sang a song for Grandpa."
+  },
+  {
+   "id": "L3U04-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad sent me a photo.",
+   "item": "sent",
+   "answer": "Dad sent me a photo."
+  },
+  {
+   "id": "L3U04-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum taught me to cook.",
+   "item": "taught",
+   "answer": "My mum taught me to cook."
+  },
+  {
+   "id": "L3U04-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He threw the ball to me.",
+   "item": "threw",
+   "answer": "He threw the ball to me."
+  },
+  {
+   "id": "L3U04-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I woke up early today.",
+   "item": "woke up",
+   "answer": "I woke up early today."
+  },
+  {
+   "id": "L3U04-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team won the match!",
+   "item": "won",
+   "answer": "Our team won the match!"
+  },
+  {
+   "id": "L3U04-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She wore a pink dress.",
+   "item": "wore",
+   "answer": "She wore a pink dress."
+  },
+  {
+   "id": "L3U04-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mai brought a cake to school.",
+   "item": "brought",
+   "answer": "Mai brought a cake to school."
+  },
+  {
+   "id": "L3U04-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I heard a bird in the tree.",
+   "item": "heard",
+   "answer": "I heard a bird in the tree."
+  },
+  {
+   "id": "L3U04-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I knew the answer!",
+   "item": "knew",
+   "answer": "I knew the answer!"
+  },
+  {
+   "id": "L3U04-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It began to rain.",
+   "item": "began",
+   "answer": "It began to rain."
+  },
+  {
+   "id": "L3U04-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful. Don't break the cups.",
+   "item": "break",
+   "answer": "Be careful. Don't break the cups."
+  },
+  {
+   "id": "L3U04-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nice to meet you!",
+   "item": "meet",
+   "answer": "Nice to meet you!"
+  },
+  {
+   "id": "L3U04-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you hear me?",
+   "item": "hear",
+   "answer": "Can you hear me?"
+  },
+  {
+   "id": "L3U04-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Send a card to Grandma.",
+   "item": "send",
+   "answer": "Send a card to Grandma."
+  },
+  {
+   "id": "L3U04-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was an accident. I'm sorry.",
+   "item": "accident",
+   "answer": "It was an accident. I'm sorry."
+  },
+  {
+   "id": "L3U04-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I went to the zoo last week.",
+   "item": "last week",
+   "answer": "I went to the zoo last week."
+  },
+  {
+   "id": "L3U04-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I woke up early.",
+   "answer": "Yesterday I woke up early."
+  },
+  {
+   "id": "L3U04-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I met my friend.",
+   "answer": "Yesterday I met my friend."
+  },
+  {
+   "id": "L3U04-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday I rode my bike.",
+   "answer": "Yesterday I rode my bike."
+  },
+  {
+   "id": "L3U04-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What happened to the cup?",
+   "answer": "What happened to the cup?"
+  },
+  {
+   "id": "L3U04-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What happened to the window?",
+   "answer": "What happened to the window?"
+  },
+  {
+   "id": "L3U04-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What happened to the kite?",
+   "answer": "What happened to the kite?"
+  },
+  {
+   "id": "L3U04-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Last week I went to the zoo.",
+   "answer": "Last week I went to the zoo."
+  },
+  {
+   "id": "L3U04-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Last week I went to the beach.",
+   "answer": "Last week I went to the beach."
+  },
+  {
+   "id": "L3U04-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Last week I went to the museum.",
+   "answer": "Last week I went to the museum."
+  },
+  {
+   "id": "L3U04-Q079",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What happened to your knee?",
+   "answer": "I fell off my bike."
+  },
+  {
+   "id": "L3U04-Q080",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Oh no! Does it hurt?",
+   "answer": "A little. Mum put a plaster on it."
+  },
+  {
+   "id": "L3U04-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What did you do last weekend?",
+   "answer": "I went to the park with my cousin."
+  },
+  {
+   "id": "L3U04-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What did you do there?",
+   "answer": "We flew a kite and ate ice cream."
+  },
+  {
+   "id": "L3U04-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "send",
+   "options": [
+    "job",
+    "sandwich",
+    "send"
+   ],
+   "answer": "send"
+  },
+  {
+   "id": "L3U04-Q084",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ yesterday?",
+   "item": "happen",
+   "options": [
+    "founded",
+    "happened",
+    "thoughted"
+   ],
+   "answer": "happened"
+  },
+  {
+   "id": "L3U04-Q085",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum ___ me a new bag.",
+   "item": "bought",
+   "options": [
+    "brought",
+    "wore",
+    "bought"
+   ],
+   "answer": "bought"
+  },
+  {
+   "id": "L3U04-Q086",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a coin under the sofa.",
+   "item": "found",
+   "options": [
+    "found",
+    "began",
+    "happen"
+   ],
+   "answer": "found"
+  },
+  {
+   "id": "L3U04-Q087",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandma ___ me a story.",
+   "item": "told",
+   "options": [
+    "break",
+    "told",
+    "heard"
+   ],
+   "answer": "told"
+  },
+  {
+   "id": "L3U04-Q088",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ it was a cat, but it was a fox.",
+   "item": "thought",
+   "options": [
+    "flew",
+    "caught",
+    "thought"
+   ],
+   "answer": "thought"
+  },
+  {
+   "id": "L3U04-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a card to my aunt.",
+   "item": "wrote",
+   "options": [
+    "wrote",
+    "accident",
+    "broke"
+   ],
+   "answer": "wrote"
+  },
+  {
+   "id": "L3U04-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird ___ over the house.",
+   "item": "flew",
+   "options": [
+    "flew",
+    "hear",
+    "wore"
+   ],
+   "answer": "flew"
+  },
+  {
+   "id": "L3U04-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby ___ all afternoon.",
+   "item": "slept",
+   "options": [
+    "slept",
+    "wrote",
+    "lost"
+   ],
+   "answer": "slept"
+  },
+  {
+   "id": "L3U04-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my pencil at school.",
+   "item": "lost",
+   "options": [
+    "taught",
+    "brought",
+    "lost"
+   ],
+   "answer": "lost"
+  },
+  {
+   "id": "L3U04-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Max ___ a glass.",
+   "item": "broke",
+   "options": [
+    "broke",
+    "caught",
+    "hear"
+   ],
+   "answer": "broke"
+  },
+  {
+   "id": "L3U04-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Leo ___ off his bike.",
+   "item": "fell",
+   "options": [
+    "broke",
+    "brought",
+    "fell"
+   ],
+   "answer": "fell"
+  },
+  {
+   "id": "L3U04-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my umbrella.",
+   "item": "forgot",
+   "options": [
+    "caught",
+    "threw",
+    "forgot"
+   ],
+   "answer": "forgot"
+  },
+  {
+   "id": "L3U04-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cat ___ a mouse.",
+   "item": "caught",
+   "options": [
+    "met",
+    "drew",
+    "caught"
+   ],
+   "answer": "caught"
+  },
+  {
+   "id": "L3U04-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a dinosaur.",
+   "item": "drew",
+   "options": [
+    "happen",
+    "drew",
+    "flew"
+   ],
+   "answer": "drew"
+  },
+  {
+   "id": "L3U04-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ sleepy after lunch.",
+   "item": "felt",
+   "options": [
+    "sent",
+    "began",
+    "felt"
+   ],
+   "answer": "felt"
+  },
+  {
+   "id": "L3U04-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my cousin at the park.",
+   "item": "met",
+   "options": [
+    "slept",
+    "met",
+    "caught"
+   ],
+   "answer": "met"
+  },
+  {
+   "id": "L3U04-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ our bikes to the lake.",
+   "item": "rode",
+   "options": [
+    "rode",
+    "taught",
+    "flew"
+   ],
+   "answer": "rode"
+  },
+  {
+   "id": "L3U04-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ a song for Grandpa.",
+   "item": "sang",
+   "options": [
+    "taught",
+    "sent",
+    "sang"
+   ],
+   "answer": "sang"
+  },
+  {
+   "id": "L3U04-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad ___ me a photo.",
+   "item": "sent",
+   "options": [
+    "lost",
+    "sent",
+    "caught"
+   ],
+   "answer": "sent"
+  },
+  {
+   "id": "L3U04-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum ___ me to cook.",
+   "item": "taught",
+   "options": [
+    "won",
+    "caught",
+    "taught"
+   ],
+   "answer": "taught"
+  },
+  {
+   "id": "L3U04-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He ___ the ball to me.",
+   "item": "threw",
+   "options": [
+    "wore",
+    "meet",
+    "threw"
+   ],
+   "answer": "threw"
+  },
+  {
+   "id": "L3U04-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our team ___ the match!",
+   "item": "won",
+   "options": [
+    "send",
+    "accident",
+    "won"
+   ],
+   "answer": "won"
+  },
+  {
+   "id": "L3U04-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She ___ a pink dress.",
+   "item": "wore",
+   "options": [
+    "hear",
+    "wore",
+    "met"
+   ],
+   "answer": "wore"
+  },
+  {
+   "id": "L3U04-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mai ___ a cake to school.",
+   "item": "brought",
+   "options": [
+    "brought",
+    "told",
+    "began"
+   ],
+   "answer": "brought"
+  },
+  {
+   "id": "L3U04-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a bird in the tree.",
+   "item": "heard",
+   "options": [
+    "happen",
+    "heard",
+    "caught"
+   ],
+   "answer": "heard"
+  },
+  {
+   "id": "L3U04-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ the answer!",
+   "item": "knew",
+   "options": [
+    "told",
+    "sent",
+    "knew"
+   ],
+   "answer": "knew"
+  },
+  {
+   "id": "L3U04-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It ___ to rain.",
+   "item": "began",
+   "options": [
+    "rode",
+    "lost",
+    "began"
+   ],
+   "answer": "began"
+  },
+  {
+   "id": "L3U04-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Be careful. Don't ___ the cups.",
+   "item": "break",
+   "options": [
+    "break",
+    "accident",
+    "told"
+   ],
+   "answer": "break"
+  },
+  {
+   "id": "L3U04-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Nice to ___ you!",
+   "item": "meet",
+   "options": [
+    "slept",
+    "sent",
+    "meet"
+   ],
+   "answer": "meet"
+  },
+  {
+   "id": "L3U04-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ me?",
+   "item": "hear",
+   "options": [
+    "slept",
+    "hear",
+    "wore"
+   ],
+   "answer": "hear"
+  },
+  {
+   "id": "L3U04-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ a card to Grandma.",
+   "item": "send",
+   "options": [
+    "Brought",
+    "Caught",
+    "Send"
+   ],
+   "answer": "Send"
+  },
+  {
+   "id": "L3U04-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was an ___. I'm sorry.",
+   "item": "accident",
+   "options": [
+    "told",
+    "heard",
+    "accident"
+   ],
+   "answer": "accident"
+  },
+  {
+   "id": "L3U04-Q116",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U04-R01",
+   "text_en": "Why did Tom run to school?",
+   "options": [
+    "He wanted to play.",
+    "It was raining.",
+    "He woke up late."
+   ],
+   "answer": "He woke up late."
+  },
+  {
+   "id": "L3U04-Q117",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U04-R01",
+   "text_en": "What did Kim give Tom?",
+   "options": [
+    "A coin.",
+    "A lemonade.",
+    "A new ruler."
+   ],
+   "answer": "A new ruler."
+  },
+  {
+   "id": "L3U04-Q118",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U04-R01",
+   "text_en": "What did Tom draw?",
+   "options": [
+    "A ruler.",
+    "A rocket.",
+    "A cat."
+   ],
+   "answer": "A rocket."
+  },
+  {
+   "id": "L3U04-Q119",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "happen",
+   "item": "happen",
+   "answer": "happen"
+  },
+  {
+   "id": "L3U04-Q120",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bought",
+   "item": "bought",
+   "answer": "bought"
+  },
+  {
+   "id": "L3U04-Q121",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "found",
+   "item": "found",
+   "answer": "found"
+  },
+  {
+   "id": "L3U04-Q122",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "told",
+   "item": "told",
+   "answer": "told"
+  },
+  {
+   "id": "L3U04-Q123",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "thought",
+   "item": "thought",
+   "answer": "thought"
+  },
+  {
+   "id": "L3U04-Q124",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wrote",
+   "item": "wrote",
+   "answer": "wrote"
+  },
+  {
+   "id": "L3U04-Q125",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "flew",
+   "item": "flew",
+   "answer": "flew"
+  },
+  {
+   "id": "L3U04-Q126",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "slept",
+   "item": "slept",
+   "answer": "slept"
+  },
+  {
+   "id": "L3U04-Q127",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What happened yesterday?",
+   "answer": "What happened yesterday?"
+  },
+  {
+   "id": "L3U04-Q128",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Mum bought me a new bag.",
+   "answer": "Mum bought me a new bag."
+  },
+  {
+   "id": "L3U04-Q129",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I found a coin under the sofa.",
+   "answer": "I found a coin under the sofa."
+  }
+ ]
+}

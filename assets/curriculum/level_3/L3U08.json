@@ -1,0 +1,2542 @@
+{
+ "id": "L3U08",
+ "level": 3,
+ "unit": 8,
+ "topic_en": "Around the world",
+ "topic_vi": "Vòng quanh thế giới",
+ "can_do_vi": [
+  "Nói mình đến từ đâu, nói được tiếng gì",
+  "Hỏi bạn \"Where are you from?\""
+ ],
+ "grammar_note_vi": "Hỏi quê quán: \"Where are you from?\" – \"I'm from Vietnam.\" Nói quốc tịch: \"I'm Vietnamese.\" Tên nước và tên ngôn ngữ luôn viết hoa chữ cái đầu.",
+ "items": [
+  {
+   "id": "L3U08-W01",
+   "type": "word",
+   "en": "country",
+   "vi": "đất nước",
+   "ipa": "/ˈkʌntri/",
+   "syllables": [
+    "coun",
+    "try"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Vietnam is a beautiful country.",
+   "example_vi": "Việt Nam là một đất nước xinh đẹp.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W02",
+   "type": "word",
+   "en": "Vietnam",
+   "vi": "Việt Nam",
+   "ipa": "/viˌɛtˈnɑm/",
+   "syllables": [
+    "Viet",
+    "nam"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F1FB-1F1F3"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "I'm from Vietnam.",
+   "example_vi": "Tớ đến từ Việt Nam.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W03",
+   "type": "word",
+   "en": "Vietnamese",
+   "vi": "người Việt, tiếng Việt",
+   "ipa": "/viˌɛtnɑˈmis/",
+   "syllables": [
+    "Vietnamese"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F1FB-1F1F3"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "I speak Vietnamese at home.",
+   "example_vi": "Ở nhà tớ nói tiếng Việt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W04",
+   "type": "word",
+   "en": "England",
+   "vi": "nước Anh",
+   "ipa": "/ˈɪŋɡlənd/",
+   "syllables": [
+    "Eng",
+    "land"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F1EC-1F1E7"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "London is in England.",
+   "example_vi": "Luân Đôn ở nước Anh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W05",
+   "type": "word",
+   "en": "English",
+   "vi": "tiếng Anh",
+   "ipa": "/ˈɪŋlɪʃ/",
+   "syllables": [
+    "Eng",
+    "lish"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F1EC-1F1E7"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "I'm learning English with Bi.",
+   "example_vi": "Tớ đang học tiếng Anh với Bi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W06",
+   "type": "word",
+   "en": "America",
+   "vi": "nước Mỹ",
+   "ipa": "/əˈmɛrɪkə/",
+   "syllables": [
+    "America"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F1FA-1F1F8"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "My uncle lives in America.",
+   "example_vi": "Chú tớ sống ở Mỹ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W07",
+   "type": "word",
+   "en": "American",
+   "vi": "người Mỹ",
+   "ipa": "/əˈmɛrɪkən/",
+   "syllables": [
+    "American"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F1FA-1F1F8"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Sam is American.",
+   "example_vi": "Sam là người Mỹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W08",
+   "type": "word",
+   "en": "Australia",
+   "vi": "nước Úc",
+   "ipa": "/ɔˈstreɪljə/",
+   "syllables": [
+    "Australia"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F1E6-1F1FA"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Kangaroos live in Australia.",
+   "example_vi": "Chuột túi sống ở Úc.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W09",
+   "type": "word",
+   "en": "Australian",
+   "vi": "người Úc",
+   "ipa": "/ɔˈstreɪljən/",
+   "syllables": [
+    "Australian"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F1E6-1F1FA"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "My teacher is Australian.",
+   "example_vi": "Thầy giáo tớ là người Úc.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W10",
+   "type": "word",
+   "en": "Japan",
+   "vi": "Nhật Bản",
+   "ipa": "/dʒəˈpæn/",
+   "syllables": [
+    "Japan"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F1EF-1F1F5"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Japan has a lot of mountains.",
+   "example_vi": "Nhật Bản có rất nhiều núi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W11",
+   "type": "word",
+   "en": "Japanese",
+   "vi": "người Nhật, tiếng Nhật",
+   "ipa": "/ˌdʒæpəˈniz/",
+   "syllables": [
+    "Ja",
+    "pa",
+    "nese"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F1EF-1F1F5"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Kim can speak Japanese.",
+   "example_vi": "Kim nói được tiếng Nhật.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W12",
+   "type": "word",
+   "en": "China",
+   "vi": "Trung Quốc",
+   "ipa": "/ˈtʃaɪnə/",
+   "syllables": [
+    "Chi",
+    "na"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F1E8-1F1F3"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Pandas live in China.",
+   "example_vi": "Gấu trúc sống ở Trung Quốc.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W13",
+   "type": "word",
+   "en": "Chinese",
+   "vi": "người Trung Quốc, tiếng Trung",
+   "ipa": "/tʃaɪˈniz/",
+   "syllables": [
+    "Chi",
+    "nese"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F1E8-1F1F3"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "My friend is learning Chinese.",
+   "example_vi": "Bạn tớ đang học tiếng Trung.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W14",
+   "type": "word",
+   "en": "Korea",
+   "vi": "Hàn Quốc",
+   "ipa": "/ˌkɔˈriə/",
+   "syllables": [
+    "Korea"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F1F0-1F1F7"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "We went to Korea last year.",
+   "example_vi": "Năm ngoái nhà tớ đi Hàn Quốc.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W15",
+   "type": "word",
+   "en": "Korean",
+   "vi": "người Hàn, tiếng Hàn",
+   "ipa": "/ˌkɔˈriən/",
+   "syllables": [
+    "Ko",
+    "re",
+    "an"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F1F0-1F1F7"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "I like Korean food.",
+   "example_vi": "Tớ thích đồ ăn Hàn Quốc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W16",
+   "type": "word",
+   "en": "Thailand",
+   "vi": "Thái Lan",
+   "ipa": "/ˈtaɪˌlænd/",
+   "syllables": [
+    "Thai",
+    "land"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F1F9-1F1ED"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Thailand is near Vietnam.",
+   "example_vi": "Thái Lan ở gần Việt Nam.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W17",
+   "type": "word",
+   "en": "Thai",
+   "vi": "người Thái, tiếng Thái",
+   "ipa": "/taɪ/",
+   "syllables": [
+    "Thai"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F1F9-1F1ED"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Thai food is very good.",
+   "example_vi": "Đồ ăn Thái rất ngon.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W18",
+   "type": "word",
+   "en": "France",
+   "vi": "nước Pháp",
+   "ipa": "/fræns/",
+   "syllables": [
+    "France"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F1EB-1F1F7"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Paris is in France.",
+   "example_vi": "Pa-ri ở nước Pháp.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W19",
+   "type": "word",
+   "en": "French",
+   "vi": "người Pháp, tiếng Pháp",
+   "ipa": "/frɛntʃ/",
+   "syllables": [
+    "French"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F1EB-1F1F7"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Emma can speak French.",
+   "example_vi": "Emma nói được tiếng Pháp.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W20",
+   "type": "word",
+   "en": "Egypt",
+   "vi": "Ai Cập",
+   "ipa": "/ˈidʒɪpt/",
+   "syllables": [
+    "Egypt"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F1EA-1F1EC"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "There are camels in Egypt.",
+   "example_vi": "Ở Ai Cập có lạc đà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W21",
+   "type": "word",
+   "en": "Brazil",
+   "vi": "Bra-xin",
+   "ipa": "/brəˈzɪl/",
+   "syllables": [
+    "Brazil"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F1E7-1F1F7"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "Brazil has a big jungle.",
+   "example_vi": "Bra-xin có một khu rừng rậm lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W22",
+   "type": "word",
+   "en": "language",
+   "vi": "ngôn ngữ",
+   "ipa": "/ˈlæŋɡwɪdʒ/",
+   "syllables": [
+    "lan",
+    "guage"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F524"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "How many languages can you speak?",
+   "example_vi": "Cậu nói được mấy thứ tiếng?",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W23",
+   "type": "word",
+   "en": "flag",
+   "vi": "lá cờ",
+   "ipa": "/flæɡ/",
+   "syllables": [
+    "flag"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F6A9"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "The Vietnamese flag is red with a yellow star.",
+   "example_vi": "Cờ Việt Nam màu đỏ có ngôi sao vàng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W24",
+   "type": "word",
+   "en": "speak",
+   "vi": "nói (một thứ tiếng)",
+   "ipa": "/spik/",
+   "syllables": [
+    "speak"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "I can speak two languages.",
+   "example_vi": "Tớ nói được hai thứ tiếng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W25",
+   "type": "word",
+   "en": "understand",
+   "vi": "hiểu",
+   "ipa": "/ˌəndərˈstænd/",
+   "syllables": [
+    "un",
+    "der",
+    "stand"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "I don't understand. Can you say it again?",
+   "example_vi": "Tớ không hiểu. Cậu nói lại được không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W26",
+   "type": "word",
+   "en": "passport",
+   "vi": "hộ chiếu",
+   "ipa": "/ˈpæˌspɔrt/",
+   "syllables": [
+    "pass",
+    "port"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F6C2"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Don't forget your passport!",
+   "example_vi": "Đừng quên hộ chiếu nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W27",
+   "type": "word",
+   "en": "airport",
+   "vi": "sân bay",
+   "ipa": "/ˈɛrˌpɔrt/",
+   "syllables": [
+    "air",
+    "port"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F6EB"
+   },
+   "picturable": true,
+   "cat": "L3U08",
+   "example_en": "We go to the airport by taxi.",
+   "example_vi": "Nhà tớ đi taxi ra sân bay.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W28",
+   "type": "word",
+   "en": "Asia",
+   "vi": "châu Á",
+   "ipa": "/ˈeɪʒə/",
+   "syllables": [
+    "Asia"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F30F"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Vietnam is in Asia.",
+   "example_vi": "Việt Nam ở châu Á.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W29",
+   "type": "word",
+   "en": "Europe",
+   "vi": "châu Âu",
+   "ipa": "/ˈjʊrəp/",
+   "syllables": [
+    "Eu",
+    "rope"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "France is in Europe.",
+   "example_vi": "Pháp ở châu Âu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W30",
+   "type": "word",
+   "en": "Africa",
+   "vi": "châu Phi",
+   "ipa": "/ˈæfrɪkɑ/",
+   "syllables": [
+    "Africa"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F30D"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Lions live in Africa.",
+   "example_vi": "Sư tử sống ở châu Phi.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U08-W31",
+   "type": "word",
+   "en": "capital",
+   "vi": "thủ đô",
+   "ipa": "/ˈkæpɪtəl/",
+   "syllables": [
+    "cap",
+    "i",
+    "tal"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U08",
+   "example_en": "Hanoi is the capital of Vietnam.",
+   "example_vi": "Hà Nội là thủ đô của Việt Nam.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U08-P01",
+   "en": "I'm from {x}.",
+   "vi": "Tớ đến từ {x}.",
+   "slots": {
+    "x": [
+     "Vietnam",
+     "England",
+     "Japan",
+     "Australia"
+    ]
+   }
+  },
+  {
+   "id": "L3U08-P02",
+   "en": "I can speak {x}.",
+   "vi": "Tớ nói được {x}.",
+   "slots": {
+    "x": [
+     "English",
+     "Vietnamese",
+     "French",
+     "Korean"
+    ]
+   }
+  },
+  {
+   "id": "L3U08-P03",
+   "en": "{x} is in Asia.",
+   "vi": "{x} ở châu Á.",
+   "slots": {
+    "x": [
+     "Vietnam",
+     "Japan",
+     "China",
+     "Thailand"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U08-D01",
+   "title_vi": "Bạn mới từ nước ngoài",
+   "roles": [
+    "Emma",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Hi! What's your name?",
+     "vi": "Chào cậu! Cậu tên gì?"
+    },
+    {
+     "role": "Emma",
+     "en": "I'm Emma. Nice to meet you.",
+     "vi": "Tớ là Emma. Rất vui được gặp cậu."
+    },
+    {
+     "role": "Kid",
+     "en": "Where are you from, Emma?",
+     "vi": "Cậu đến từ đâu vậy Emma?"
+    },
+    {
+     "role": "Emma",
+     "en": "I'm from England. And you?",
+     "vi": "Tớ đến từ nước Anh. Còn cậu?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm from Vietnam. Can you speak Vietnamese?",
+     "vi": "Tớ đến từ Việt Nam. Cậu có nói được tiếng Việt không?"
+    },
+    {
+     "role": "Emma",
+     "en": "Only a little!",
+     "vi": "Chỉ một chút thôi!"
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "England",
+    "options": [
+     "America",
+     "Australia"
+    ]
+   }
+  },
+  {
+   "id": "L3U08-D02",
+   "title_vi": "Ở sân bay",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Where are we going?",
+     "vi": "Mình đi đâu thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "We are going to Japan!",
+     "vi": "Mình đi Nhật Bản!"
+    },
+    {
+     "role": "Bi",
+     "en": "Do you have your passport?",
+     "vi": "Cậu mang hộ chiếu chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, it's in my bag.",
+     "vi": "Rồi, nó ở trong túi tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Great! Let's find our plane.",
+     "vi": "Tuyệt! Mình đi tìm máy bay thôi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "Japan",
+    "options": [
+     "Korea",
+     "Thailand"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "country"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Vietnam"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Vietnamese"
+  },
+  {
+   "type": "dictate_word",
+   "target": "England"
+  },
+  {
+   "type": "dictate_word",
+   "target": "English"
+  },
+  {
+   "type": "dictate_word",
+   "target": "America"
+  },
+  {
+   "type": "dictate_word",
+   "target": "American"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Australia"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Vietnam is a beautiful country."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I'm from Vietnam."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I speak Vietnamese at home."
+  },
+  {
+   "type": "write_sentences",
+   "target": "I'm from|I can speak|I want to visit"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U08-R01",
+   "title_en": "A letter from Leo",
+   "text_en": [
+    "Hello!",
+    "My name is Leo.",
+    "I'm eight years old and I'm from Australia.",
+    "I live in a big city near the sea.",
+    "I speak English, and I'm learning Japanese at school.",
+    "My favourite animal is the koala.",
+    "In my country, there are kangaroos and koalas.",
+    "It's hot in December and cold in July!",
+    "I want to visit Vietnam one day.",
+    "Can you tell me about your country?",
+    "Please write to me soon.",
+    "From Leo."
+   ],
+   "questions": [
+    {
+     "q": "Where is Leo from?",
+     "options": [
+      "Australia.",
+      "England.",
+      "Japan."
+     ],
+     "answer": "Australia."
+    },
+    {
+     "q": "What language is Leo learning at school?",
+     "options": [
+      "Japanese.",
+      "Vietnamese.",
+      "French."
+     ],
+     "answer": "Japanese."
+    },
+    {
+     "q": "When is it cold in Leo's country?",
+     "options": [
+      "In July.",
+      "In December.",
+      "In January."
+     ],
+     "answer": "In July."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Vietnam",
+   "item": "Vietnam",
+   "options": [
+    "Korea",
+    "America",
+    "Vietnam",
+    "Japan"
+   ],
+   "answer": "Vietnam"
+  },
+  {
+   "id": "L3U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "England",
+   "item": "England",
+   "options": [
+    "airport",
+    "Vietnam",
+    "England",
+    "France"
+   ],
+   "answer": "England"
+  },
+  {
+   "id": "L3U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "America",
+   "item": "America",
+   "options": [
+    "England",
+    "Thailand",
+    "America",
+    "France"
+   ],
+   "answer": "America"
+  },
+  {
+   "id": "L3U08-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Australia",
+   "item": "Australia",
+   "options": [
+    "airport",
+    "Australia",
+    "China",
+    "Vietnam"
+   ],
+   "answer": "Australia"
+  },
+  {
+   "id": "L3U08-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Japan",
+   "item": "Japan",
+   "options": [
+    "England",
+    "China",
+    "France",
+    "Japan"
+   ],
+   "answer": "Japan"
+  },
+  {
+   "id": "L3U08-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "China",
+   "item": "China",
+   "options": [
+    "Thailand",
+    "England",
+    "airport",
+    "China"
+   ],
+   "answer": "China"
+  },
+  {
+   "id": "L3U08-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Korea",
+   "item": "Korea",
+   "options": [
+    "Thailand",
+    "Korea",
+    "England",
+    "America"
+   ],
+   "answer": "Korea"
+  },
+  {
+   "id": "L3U08-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Thailand",
+   "item": "Thailand",
+   "options": [
+    "Thailand",
+    "Vietnam",
+    "England",
+    "Japan"
+   ],
+   "answer": "Thailand"
+  },
+  {
+   "id": "L3U08-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "France",
+   "item": "France",
+   "options": [
+    "France",
+    "flag",
+    "Japan",
+    "airport"
+   ],
+   "answer": "France"
+  },
+  {
+   "id": "L3U08-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Egypt",
+   "item": "Egypt",
+   "options": [
+    "Egypt",
+    "Brazil",
+    "Japan",
+    "China"
+   ],
+   "answer": "Egypt"
+  },
+  {
+   "id": "L3U08-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "Brazil",
+   "item": "Brazil",
+   "options": [
+    "China",
+    "Vietnam",
+    "Brazil",
+    "Japan"
+   ],
+   "answer": "Brazil"
+  },
+  {
+   "id": "L3U08-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "flag",
+   "item": "flag",
+   "options": [
+    "England",
+    "flag",
+    "America",
+    "Brazil"
+   ],
+   "answer": "flag"
+  },
+  {
+   "id": "L3U08-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "airport",
+   "item": "airport",
+   "options": [
+    "Vietnam",
+    "America",
+    "England",
+    "airport"
+   ],
+   "answer": "airport"
+  },
+  {
+   "id": "L3U08-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "country",
+   "item": "country",
+   "options": [
+    "country",
+    "Vietnamese",
+    "French",
+    "Egypt"
+   ],
+   "answer": "country"
+  },
+  {
+   "id": "L3U08-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Vietnamese",
+   "item": "Vietnamese",
+   "options": [
+    "Vietnamese",
+    "France",
+    "England",
+    "Africa"
+   ],
+   "answer": "Vietnamese"
+  },
+  {
+   "id": "L3U08-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "English",
+   "item": "English",
+   "options": [
+    "France",
+    "flag",
+    "Chinese",
+    "English"
+   ],
+   "answer": "English"
+  },
+  {
+   "id": "L3U08-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "American",
+   "item": "American",
+   "options": [
+    "China",
+    "Asia",
+    "American",
+    "Korean"
+   ],
+   "answer": "American"
+  },
+  {
+   "id": "L3U08-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Australian",
+   "item": "Australian",
+   "options": [
+    "Japan",
+    "Europe",
+    "capital",
+    "Australian"
+   ],
+   "answer": "Australian"
+  },
+  {
+   "id": "L3U08-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Japanese",
+   "item": "Japanese",
+   "options": [
+    "Egypt",
+    "Thailand",
+    "Japanese",
+    "America"
+   ],
+   "answer": "Japanese"
+  },
+  {
+   "id": "L3U08-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Chinese",
+   "item": "Chinese",
+   "options": [
+    "Australia",
+    "Chinese",
+    "country",
+    "flag"
+   ],
+   "answer": "Chinese"
+  },
+  {
+   "id": "L3U08-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Korean",
+   "item": "Korean",
+   "options": [
+    "Australian",
+    "passport",
+    "Korean",
+    "Australia"
+   ],
+   "answer": "Korean"
+  },
+  {
+   "id": "L3U08-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Thai",
+   "item": "Thai",
+   "options": [
+    "American",
+    "America",
+    "Thai",
+    "understand"
+   ],
+   "answer": "Thai"
+  },
+  {
+   "id": "L3U08-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "French",
+   "item": "French",
+   "options": [
+    "America",
+    "French",
+    "Korean",
+    "China"
+   ],
+   "answer": "French"
+  },
+  {
+   "id": "L3U08-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "language",
+   "item": "language",
+   "options": [
+    "language",
+    "Korea",
+    "Europe",
+    "China"
+   ],
+   "answer": "language"
+  },
+  {
+   "id": "L3U08-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "speak",
+   "item": "speak",
+   "options": [
+    "Australia",
+    "Japan",
+    "Australian",
+    "speak"
+   ],
+   "answer": "speak"
+  },
+  {
+   "id": "L3U08-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "understand",
+   "item": "understand",
+   "options": [
+    "France",
+    "America",
+    "Australia",
+    "understand"
+   ],
+   "answer": "understand"
+  },
+  {
+   "id": "L3U08-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "passport",
+   "item": "passport",
+   "options": [
+    "passport",
+    "Vietnam",
+    "Japan",
+    "Australian"
+   ],
+   "answer": "passport"
+  },
+  {
+   "id": "L3U08-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Asia",
+   "item": "Asia",
+   "options": [
+    "Australian",
+    "American",
+    "Asia",
+    "America"
+   ],
+   "answer": "Asia"
+  },
+  {
+   "id": "L3U08-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Europe",
+   "item": "Europe",
+   "options": [
+    "English",
+    "America",
+    "Europe",
+    "language"
+   ],
+   "answer": "Europe"
+  },
+  {
+   "id": "L3U08-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Africa",
+   "item": "Africa",
+   "options": [
+    "Chinese",
+    "Africa",
+    "Vietnamese",
+    "English"
+   ],
+   "answer": "Africa"
+  },
+  {
+   "id": "L3U08-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "capital",
+   "item": "capital",
+   "options": [
+    "capital",
+    "American",
+    "airport",
+    "French"
+   ],
+   "answer": "capital"
+  },
+  {
+   "id": "L3U08-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Vietnam",
+   "answer": "Vietnam"
+  },
+  {
+   "id": "L3U08-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "England",
+   "answer": "England"
+  },
+  {
+   "id": "L3U08-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "America",
+   "answer": "America"
+  },
+  {
+   "id": "L3U08-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Australia",
+   "answer": "Australia"
+  },
+  {
+   "id": "L3U08-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Japan",
+   "answer": "Japan"
+  },
+  {
+   "id": "L3U08-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "China",
+   "answer": "China"
+  },
+  {
+   "id": "L3U08-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Korea",
+   "answer": "Korea"
+  },
+  {
+   "id": "L3U08-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Thailand",
+   "answer": "Thailand"
+  },
+  {
+   "id": "L3U08-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "France",
+   "answer": "France"
+  },
+  {
+   "id": "L3U08-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Egypt",
+   "answer": "Egypt"
+  },
+  {
+   "id": "L3U08-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "Brazil",
+   "answer": "Brazil"
+  },
+  {
+   "id": "L3U08-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "flag",
+   "answer": "flag"
+  },
+  {
+   "id": "L3U08-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "airport",
+   "answer": "airport"
+  },
+  {
+   "id": "L3U08-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam is a beautiful country.",
+   "item": "country",
+   "answer": "Vietnam is a beautiful country."
+  },
+  {
+   "id": "L3U08-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm from Vietnam.",
+   "item": "Vietnam",
+   "answer": "I'm from Vietnam."
+  },
+  {
+   "id": "L3U08-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I speak Vietnamese at home.",
+   "item": "Vietnamese",
+   "answer": "I speak Vietnamese at home."
+  },
+  {
+   "id": "L3U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "London is in England.",
+   "item": "England",
+   "answer": "London is in England."
+  },
+  {
+   "id": "L3U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm learning English with Bi.",
+   "item": "English",
+   "answer": "I'm learning English with Bi."
+  },
+  {
+   "id": "L3U08-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle lives in America.",
+   "item": "America",
+   "answer": "My uncle lives in America."
+  },
+  {
+   "id": "L3U08-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sam is American.",
+   "item": "American",
+   "answer": "Sam is American."
+  },
+  {
+   "id": "L3U08-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Kangaroos live in Australia.",
+   "item": "Australia",
+   "answer": "Kangaroos live in Australia."
+  },
+  {
+   "id": "L3U08-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My teacher is Australian.",
+   "item": "Australian",
+   "answer": "My teacher is Australian."
+  },
+  {
+   "id": "L3U08-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Japan has a lot of mountains.",
+   "item": "Japan",
+   "answer": "Japan has a lot of mountains."
+  },
+  {
+   "id": "L3U08-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Kim can speak Japanese.",
+   "item": "Japanese",
+   "answer": "Kim can speak Japanese."
+  },
+  {
+   "id": "L3U08-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Pandas live in China.",
+   "item": "China",
+   "answer": "Pandas live in China."
+  },
+  {
+   "id": "L3U08-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My friend is learning Chinese.",
+   "item": "Chinese",
+   "answer": "My friend is learning Chinese."
+  },
+  {
+   "id": "L3U08-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went to Korea last year.",
+   "item": "Korea",
+   "answer": "We went to Korea last year."
+  },
+  {
+   "id": "L3U08-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like Korean food.",
+   "item": "Korean",
+   "answer": "I like Korean food."
+  },
+  {
+   "id": "L3U08-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thailand is near Vietnam.",
+   "item": "Thailand",
+   "answer": "Thailand is near Vietnam."
+  },
+  {
+   "id": "L3U08-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thai food is very good.",
+   "item": "Thai",
+   "answer": "Thai food is very good."
+  },
+  {
+   "id": "L3U08-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Paris is in France.",
+   "item": "France",
+   "answer": "Paris is in France."
+  },
+  {
+   "id": "L3U08-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Emma can speak French.",
+   "item": "French",
+   "answer": "Emma can speak French."
+  },
+  {
+   "id": "L3U08-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are camels in Egypt.",
+   "item": "Egypt",
+   "answer": "There are camels in Egypt."
+  },
+  {
+   "id": "L3U08-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Brazil has a big jungle.",
+   "item": "Brazil",
+   "answer": "Brazil has a big jungle."
+  },
+  {
+   "id": "L3U08-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How many languages can you speak?",
+   "item": "language",
+   "answer": "How many languages can you speak?"
+  },
+  {
+   "id": "L3U08-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The Vietnamese flag is red with a yellow star.",
+   "item": "flag",
+   "answer": "The Vietnamese flag is red with a yellow star."
+  },
+  {
+   "id": "L3U08-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can speak two languages.",
+   "item": "speak",
+   "answer": "I can speak two languages."
+  },
+  {
+   "id": "L3U08-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't understand. Can you say it again?",
+   "item": "understand",
+   "answer": "I don't understand. Can you say it again?"
+  },
+  {
+   "id": "L3U08-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't forget your passport!",
+   "item": "passport",
+   "answer": "Don't forget your passport!"
+  },
+  {
+   "id": "L3U08-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We go to the airport by taxi.",
+   "item": "airport",
+   "answer": "We go to the airport by taxi."
+  },
+  {
+   "id": "L3U08-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam is in Asia.",
+   "item": "Asia",
+   "answer": "Vietnam is in Asia."
+  },
+  {
+   "id": "L3U08-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "France is in Europe.",
+   "item": "Europe",
+   "answer": "France is in Europe."
+  },
+  {
+   "id": "L3U08-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lions live in Africa.",
+   "item": "Africa",
+   "answer": "Lions live in Africa."
+  },
+  {
+   "id": "L3U08-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hanoi is the capital of Vietnam.",
+   "item": "capital",
+   "answer": "Hanoi is the capital of Vietnam."
+  },
+  {
+   "id": "L3U08-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm from Vietnam.",
+   "answer": "I'm from Vietnam."
+  },
+  {
+   "id": "L3U08-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm from England.",
+   "answer": "I'm from England."
+  },
+  {
+   "id": "L3U08-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm from Japan.",
+   "answer": "I'm from Japan."
+  },
+  {
+   "id": "L3U08-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can speak English.",
+   "answer": "I can speak English."
+  },
+  {
+   "id": "L3U08-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can speak Vietnamese.",
+   "answer": "I can speak Vietnamese."
+  },
+  {
+   "id": "L3U08-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can speak French.",
+   "answer": "I can speak French."
+  },
+  {
+   "id": "L3U08-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Vietnam is in Asia.",
+   "answer": "Vietnam is in Asia."
+  },
+  {
+   "id": "L3U08-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Japan is in Asia.",
+   "answer": "Japan is in Asia."
+  },
+  {
+   "id": "L3U08-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "China is in Asia.",
+   "answer": "China is in Asia."
+  },
+  {
+   "id": "L3U08-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hi! What's your name?",
+   "answer": "I'm Emma. Nice to meet you."
+  },
+  {
+   "id": "L3U08-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where are you from, Emma?",
+   "answer": "I'm from England. And you?"
+  },
+  {
+   "id": "L3U08-Q087",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I'm from England. And you?",
+   "answer": "I'm from Vietnam. Can you speak Vietnamese?"
+  },
+  {
+   "id": "L3U08-Q088",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I'm from Vietnam. Can you speak Vietnamese?",
+   "answer": "Only a little!"
+  },
+  {
+   "id": "L3U08-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where are we going?",
+   "answer": "We are going to Japan!"
+  },
+  {
+   "id": "L3U08-Q090",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you have your passport?",
+   "answer": "Yes, it's in my bag."
+  },
+  {
+   "id": "L3U08-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Vietnam",
+   "options": [
+    "Vietnam",
+    "Australia",
+    "America"
+   ],
+   "answer": "Vietnam"
+  },
+  {
+   "id": "L3U08-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "England",
+   "options": [
+    "France",
+    "China",
+    "England"
+   ],
+   "answer": "England"
+  },
+  {
+   "id": "L3U08-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "America",
+   "options": [
+    "Vietnam",
+    "Japan",
+    "America"
+   ],
+   "answer": "America"
+  },
+  {
+   "id": "L3U08-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Australia",
+   "options": [
+    "Vietnam",
+    "Australia",
+    "airport"
+   ],
+   "answer": "Australia"
+  },
+  {
+   "id": "L3U08-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Japan",
+   "options": [
+    "England",
+    "flag",
+    "Japan"
+   ],
+   "answer": "Japan"
+  },
+  {
+   "id": "L3U08-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "China",
+   "options": [
+    "China",
+    "Vietnam",
+    "Brazil"
+   ],
+   "answer": "China"
+  },
+  {
+   "id": "L3U08-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Korea",
+   "options": [
+    "England",
+    "Korea",
+    "China"
+   ],
+   "answer": "Korea"
+  },
+  {
+   "id": "L3U08-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Thailand",
+   "options": [
+    "Korea",
+    "Egypt",
+    "Thailand"
+   ],
+   "answer": "Thailand"
+  },
+  {
+   "id": "L3U08-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "France",
+   "options": [
+    "Vietnam",
+    "France",
+    "England"
+   ],
+   "answer": "France"
+  },
+  {
+   "id": "L3U08-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Egypt",
+   "options": [
+    "airport",
+    "Egypt",
+    "Thailand"
+   ],
+   "answer": "Egypt"
+  },
+  {
+   "id": "L3U08-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "Brazil",
+   "options": [
+    "Brazil",
+    "England",
+    "airport"
+   ],
+   "answer": "Brazil"
+  },
+  {
+   "id": "L3U08-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "flag",
+   "options": [
+    "Brazil",
+    "China",
+    "flag"
+   ],
+   "answer": "flag"
+  },
+  {
+   "id": "L3U08-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "airport",
+   "options": [
+    "Vietnam",
+    "airport",
+    "Japan"
+   ],
+   "answer": "airport"
+  },
+  {
+   "id": "L3U08-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Vietnam is a beautiful ___.",
+   "item": "country",
+   "options": [
+    "passport",
+    "country",
+    "understand"
+   ],
+   "answer": "country"
+  },
+  {
+   "id": "L3U08-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "How many ___ can you speak?",
+   "item": "language",
+   "options": [
+    "languages",
+    "flags",
+    "understands"
+   ],
+   "answer": "languages"
+  },
+  {
+   "id": "L3U08-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The Vietnamese ___ is red with a yellow star.",
+   "item": "flag",
+   "options": [
+    "country",
+    "flag",
+    "capital"
+   ],
+   "answer": "flag"
+  },
+  {
+   "id": "L3U08-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___ two languages.",
+   "item": "speak",
+   "options": [
+    "speak",
+    "country",
+    "flag"
+   ],
+   "answer": "speak"
+  },
+  {
+   "id": "L3U08-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I don't ___. Can you say it again?",
+   "item": "understand",
+   "options": [
+    "airport",
+    "understand",
+    "capital"
+   ],
+   "answer": "understand"
+  },
+  {
+   "id": "L3U08-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't forget your ___!",
+   "item": "passport",
+   "options": [
+    "country",
+    "passport",
+    "flag"
+   ],
+   "answer": "passport"
+  },
+  {
+   "id": "L3U08-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We go to the ___ by taxi.",
+   "item": "airport",
+   "options": [
+    "airport",
+    "understand",
+    "flag"
+   ],
+   "answer": "airport"
+  },
+  {
+   "id": "L3U08-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hanoi is the ___ of Vietnam.",
+   "item": "capital",
+   "options": [
+    "understand",
+    "flag",
+    "capital"
+   ],
+   "answer": "capital"
+  },
+  {
+   "id": "L3U08-Q112",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I'm from Vietnam.",
+   "item": "Vietnam",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q113",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "London is in England.",
+   "item": "America",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q114",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My uncle lives in America.",
+   "item": "America",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q115",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Kangaroos live in Australia.",
+   "item": "Japan",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Japan has a lot of mountains.",
+   "item": "Japan",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q117",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Pandas live in China.",
+   "item": "Korea",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q118",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We went to Korea last year.",
+   "item": "Korea",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q119",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Thailand is near Vietnam.",
+   "item": "France",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q120",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Paris is in France.",
+   "item": "France",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are camels in Egypt.",
+   "item": "Brazil",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Brazil has a big jungle.",
+   "item": "Brazil",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The Vietnamese flag is red with a yellow star.",
+   "item": "airport",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U08-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We go to the airport by taxi.",
+   "item": "airport",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U08-Q125",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U08-R01",
+   "text_en": "Where is Leo from?",
+   "options": [
+    "England.",
+    "Australia.",
+    "Japan."
+   ],
+   "answer": "Australia."
+  },
+  {
+   "id": "L3U08-Q126",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U08-R01",
+   "text_en": "What language is Leo learning at school?",
+   "options": [
+    "Japanese.",
+    "French.",
+    "Vietnamese."
+   ],
+   "answer": "Japanese."
+  },
+  {
+   "id": "L3U08-Q127",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U08-R01",
+   "text_en": "When is it cold in Leo's country?",
+   "options": [
+    "In July.",
+    "In December.",
+    "In January."
+   ],
+   "answer": "In July."
+  },
+  {
+   "id": "L3U08-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "country",
+   "item": "country",
+   "answer": "country"
+  },
+  {
+   "id": "L3U08-Q129",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Vietnam",
+   "item": "Vietnam",
+   "answer": "Vietnam"
+  },
+  {
+   "id": "L3U08-Q130",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Vietnamese",
+   "item": "Vietnamese",
+   "answer": "Vietnamese"
+  },
+  {
+   "id": "L3U08-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "England",
+   "item": "England",
+   "answer": "England"
+  },
+  {
+   "id": "L3U08-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "English",
+   "item": "English",
+   "answer": "English"
+  },
+  {
+   "id": "L3U08-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "America",
+   "item": "America",
+   "answer": "America"
+  },
+  {
+   "id": "L3U08-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "American",
+   "item": "American",
+   "answer": "American"
+  },
+  {
+   "id": "L3U08-Q135",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Australia",
+   "item": "Australia",
+   "answer": "Australia"
+  },
+  {
+   "id": "L3U08-Q136",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Vietnam is a beautiful country.",
+   "answer": "Vietnam is a beautiful country."
+  },
+  {
+   "id": "L3U08-Q137",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I'm from Vietnam.",
+   "answer": "I'm from Vietnam."
+  },
+  {
+   "id": "L3U08-Q138",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I speak Vietnamese at home.",
+   "answer": "I speak Vietnamese at home."
+  }
+ ]
+}

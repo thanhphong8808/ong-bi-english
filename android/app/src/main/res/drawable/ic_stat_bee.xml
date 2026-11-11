@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome bee for the status bar (original drawing). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFF">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M7,7 C3,3 1.5,7.5 5.5,10 Z M17,7 C21,3 22.5,7.5 18.5,10 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M12,6 C16,6 18,9 18,13 C18,17.5 15.5,20 12,20 C8.5,20 6,17.5 6,13 C6,9 8,6 12,6 Z M7,13 L17,13 L17,14.6 L7,14.6 Z M8,16.6 L16,16.6 L15.2,18 L8.8,18 Z" />
+</vector>

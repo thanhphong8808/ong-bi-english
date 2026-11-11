@@ -1,0 +1,2674 @@
+{
+ "id": "L3U14",
+ "level": 3,
+ "unit": 14,
+ "topic_en": "When I grow up",
+ "topic_vi": "Khi tớ lớn lên",
+ "can_do_vi": [
+  "Nói ước mơ nghề nghiệp và lý do",
+  "Dùng \"will\" để nói về tương lai"
+ ],
+ "grammar_note_vi": "Nói về tương lai, dùng \"will + động từ\": \"I will be a doctor.\" (Tớ sẽ là bác sĩ.) \"When I grow up, I want to...\" nghĩa là \"Khi lớn lên, tớ muốn...\".",
+ "items": [
+  {
+   "id": "L3U14-W01",
+   "type": "phrase",
+   "en": "grow up",
+   "vi": "lớn lên",
+   "ipa": "/ɡroʊ ʌp/",
+   "syllables": [
+    "grow",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F331"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "I want to be a vet when I grow up.",
+   "example_vi": "Lớn lên tớ muốn làm bác sĩ thú y.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W02",
+   "type": "word",
+   "en": "future",
+   "vi": "tương lai",
+   "ipa": "/fˈjutʃər/",
+   "syllables": [
+    "fu",
+    "ture"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F52E"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "What will you do in the future?",
+   "example_vi": "Trong tương lai cậu sẽ làm gì?",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W03",
+   "type": "word",
+   "en": "become",
+   "vi": "trở thành",
+   "ipa": "/bɪˈkʌm/",
+   "syllables": [
+    "be",
+    "come"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F98B"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "I want to become a famous chef.",
+   "example_vi": "Tớ muốn trở thành một đầu bếp nổi tiếng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W04",
+   "type": "word",
+   "en": "became",
+   "vi": "đã trở thành (become)",
+   "ipa": "/bɪˈkeɪm/",
+   "syllables": [
+    "be",
+    "came"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F98B"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "My aunt became a doctor last year.",
+   "example_vi": "Năm ngoái dì tớ đã trở thành bác sĩ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W05",
+   "type": "word",
+   "en": "scientist",
+   "vi": "nhà khoa học",
+   "ipa": "/ˈsaɪəntɪst/",
+   "syllables": [
+    "scientist"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9D1-200D-1F52C"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "The scientist works in a laboratory.",
+   "example_vi": "Nhà khoa học làm việc trong phòng thí nghiệm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W06",
+   "type": "word",
+   "en": "engineer",
+   "vi": "kỹ sư",
+   "ipa": "/ˈɛndʒəˈnɪr/",
+   "syllables": [
+    "en",
+    "gi",
+    "neer"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9D1-200D-1F3ED"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "An engineer can build bridges.",
+   "example_vi": "Kỹ sư có thể xây cầu.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W07",
+   "type": "word",
+   "en": "architect",
+   "vi": "kiến trúc sư",
+   "ipa": "/ˈɑrkəˌtɛkt/",
+   "syllables": [
+    "ar",
+    "chi",
+    "tect"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4D0"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "An architect draws houses.",
+   "example_vi": "Kiến trúc sư vẽ nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W08",
+   "type": "word",
+   "en": "photographer",
+   "vi": "nhiếp ảnh gia",
+   "ipa": "/fəˈtɑɡrəfər/",
+   "syllables": [
+    "pho",
+    "tog",
+    "ra",
+    "pher"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4F8"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The photographer takes beautiful photos.",
+   "example_vi": "Nhiếp ảnh gia chụp những bức ảnh đẹp.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W09",
+   "type": "word",
+   "en": "chef",
+   "vi": "đầu bếp",
+   "ipa": "/ʃɛf/",
+   "syllables": [
+    "chef"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F373"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The chef cooks in a big restaurant.",
+   "example_vi": "Đầu bếp nấu ăn trong một nhà hàng lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W10",
+   "type": "word",
+   "en": "actor",
+   "vi": "diễn viên",
+   "ipa": "/ˈæktər/",
+   "syllables": [
+    "ac",
+    "tor"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3AC"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The actor is in a new film.",
+   "example_vi": "Diễn viên ấy đóng phim mới.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W11",
+   "type": "word",
+   "en": "musician",
+   "vi": "nhạc công",
+   "ipa": "/mjuˈzɪʃən/",
+   "syllables": [
+    "mu",
+    "si",
+    "cian"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3B7"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "My uncle is a musician. He plays the guitar.",
+   "example_vi": "Chú tớ là nhạc công. Chú chơi ghi-ta.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W12",
+   "type": "word",
+   "en": "footballer",
+   "vi": "cầu thủ bóng đá",
+   "ipa": "/footballer/",
+   "syllables": [
+    "footballer"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26BD"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "I want to be a footballer.",
+   "example_vi": "Tớ muốn trở thành cầu thủ bóng đá.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W13",
+   "type": "word",
+   "en": "journalist",
+   "vi": "nhà báo",
+   "ipa": "/ˈdʒʌrnəlɪst/",
+   "syllables": [
+    "jour",
+    "nal",
+    "ist"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F399-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "A journalist writes the news.",
+   "example_vi": "Nhà báo viết tin tức.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W14",
+   "type": "word",
+   "en": "designer",
+   "vi": "nhà thiết kế",
+   "ipa": "/dɪˈzaɪnər/",
+   "syllables": [
+    "de",
+    "sign",
+    "er"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "270F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "She is a clothes designer.",
+   "example_vi": "Cô ấy là nhà thiết kế thời trang.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W15",
+   "type": "word",
+   "en": "programmer",
+   "vi": "lập trình viên",
+   "ipa": "/ˈproʊˌɡræmər/",
+   "syllables": [
+    "pro",
+    "gram",
+    "mer"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9D1-200D-1F4BB"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "A programmer makes computer games.",
+   "example_vi": "Lập trình viên làm trò chơi máy tính.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W16",
+   "type": "word",
+   "en": "zookeeper",
+   "vi": "người trông vườn thú",
+   "ipa": "/zookeeper/",
+   "syllables": [
+    "zookeeper"
+   ],
+   "phonics": "initial_z",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The zookeeper feeds the animals.",
+   "example_vi": "Người trông vườn thú cho động vật ăn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W17",
+   "type": "word",
+   "en": "gardener",
+   "vi": "người làm vườn",
+   "ipa": "/ˈɡɑrdənər/",
+   "syllables": [
+    "gar",
+    "den",
+    "er"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F337"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The gardener plants flowers.",
+   "example_vi": "Người làm vườn trồng hoa.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W18",
+   "type": "word",
+   "en": "librarian",
+   "vi": "thủ thư",
+   "ipa": "/laɪˈbrɛˌriən/",
+   "syllables": [
+    "li",
+    "brar",
+    "i",
+    "an"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "The librarian helps me find books.",
+   "example_vi": "Cô thủ thư giúp tớ tìm sách.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W19",
+   "type": "word",
+   "en": "famous",
+   "vi": "nổi tiếng",
+   "ipa": "/ˈfeɪməs/",
+   "syllables": [
+    "fa",
+    "mous"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "She is a famous singer.",
+   "example_vi": "Cô ấy là ca sĩ nổi tiếng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W20",
+   "type": "word",
+   "en": "earn",
+   "vi": "kiếm (tiền)",
+   "ipa": "/ʌrn/",
+   "syllables": [
+    "earn"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4B5"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "People work to earn money.",
+   "example_vi": "Mọi người làm việc để kiếm tiền.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W21",
+   "type": "word",
+   "en": "study",
+   "vi": "học tập",
+   "ipa": "/ˈstʌdi/",
+   "syllables": [
+    "study"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "My sister studies at a university.",
+   "example_vi": "Chị tớ học ở trường đại học.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W22",
+   "type": "word",
+   "en": "university",
+   "vi": "trường đại học",
+   "ipa": "/ˌjunəˈvʌrsəti/",
+   "syllables": [
+    "university"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F393"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "I want to go to university.",
+   "example_vi": "Tớ muốn vào đại học.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W23",
+   "type": "word",
+   "en": "skill",
+   "vi": "kỹ năng",
+   "ipa": "/skɪl/",
+   "syllables": [
+    "skill"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6E0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "Cooking is a useful skill.",
+   "example_vi": "Nấu ăn là một kỹ năng có ích.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W24",
+   "type": "word",
+   "en": "hard-working",
+   "vi": "chăm chỉ",
+   "ipa": "/hɑrd ˈwʌrkɪŋ/",
+   "syllables": [
+    "hard-working"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F41C"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "My mum is very hard-working.",
+   "example_vi": "Mẹ tớ rất chăm chỉ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W25",
+   "type": "word",
+   "en": "laboratory",
+   "vi": "phòng thí nghiệm",
+   "ipa": "/ˈlæbrəˌtɔri/",
+   "syllables": [
+    "laboratory"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F52C"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "The laboratory is full of machines.",
+   "example_vi": "Phòng thí nghiệm có rất nhiều máy móc.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W26",
+   "type": "word",
+   "en": "change",
+   "vi": "thay đổi",
+   "ipa": "/tʃeɪndʒ/",
+   "syllables": [
+    "change"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "You can change the world!",
+   "example_vi": "Cậu có thể thay đổi thế giới!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W27",
+   "type": "word",
+   "en": "own",
+   "vi": "của riêng mình",
+   "ipa": "/oʊn/",
+   "syllables": [
+    "own"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "I want to have my own shop.",
+   "example_vi": "Tớ muốn có cửa hàng của riêng mình.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W28",
+   "type": "word",
+   "en": "someday",
+   "vi": "một ngày nào đó",
+   "ipa": "/ˈsʌmˌdeɪ/",
+   "syllables": [
+    "some",
+    "day"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "Someday I will fly a plane.",
+   "example_vi": "Một ngày nào đó tớ sẽ lái máy bay.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W29",
+   "type": "word",
+   "en": "until",
+   "vi": "cho đến khi",
+   "ipa": "/ənˈtɪl/",
+   "syllables": [
+    "un",
+    "til"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "Wait until the bus stops.",
+   "example_vi": "Chờ cho đến khi xe buýt dừng hẳn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W30",
+   "type": "word",
+   "en": "news",
+   "vi": "tin tức",
+   "ipa": "/nuz/",
+   "syllables": [
+    "news"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4F0"
+   },
+   "picturable": true,
+   "cat": "L3U14",
+   "example_en": "Dad watches the news every evening.",
+   "example_vi": "Tối nào bố cũng xem thời sự.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W31",
+   "type": "word",
+   "en": "build",
+   "vi": "xây, xếp",
+   "ipa": "/bɪld/",
+   "syllables": [
+    "build"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9F1"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "Let's build a house with blocks.",
+   "example_vi": "Mình xếp nhà bằng các khối nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U14-W32",
+   "type": "word",
+   "en": "theatre",
+   "vi": "nhà hát",
+   "ipa": "/ˈθiətər/",
+   "syllables": [
+    "theatre"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L3U14",
+   "example_en": "We saw a show at the theatre.",
+   "example_vi": "Nhà tớ đi xem biểu diễn ở nhà hát.",
+   "pron_focus": [
+    "th_sound",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U14-P01",
+   "en": "When I grow up, I will be a {x}.",
+   "vi": "Khi lớn lên, tớ sẽ là {x}.",
+   "slots": {
+    "x": [
+     "scientist",
+     "chef",
+     "footballer",
+     "photographer"
+    ]
+   }
+  },
+  {
+   "id": "L3U14-P02",
+   "en": "I will {x} someday.",
+   "vi": "Một ngày nào đó tớ sẽ {x}.",
+   "slots": {
+    "x": [
+     "travel the world",
+     "fly a plane",
+     "build a house",
+     "write a book"
+    ]
+   }
+  },
+  {
+   "id": "L3U14-P03",
+   "en": "She is a famous {x}.",
+   "vi": "Cô ấy là {x} nổi tiếng.",
+   "slots": {
+    "x": [
+     "singer",
+     "actor",
+     "chef",
+     "designer"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U14-D01",
+   "title_vi": "Ước mơ của tớ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What will you be when you grow up?",
+     "vi": "Lớn lên cậu sẽ làm nghề gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I will be a scientist.",
+     "vi": "Tớ sẽ là nhà khoa học."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because I love experiments!",
+     "vi": "Vì tớ thích làm thí nghiệm!"
+    },
+    {
+     "role": "Bi",
+     "en": "Cool! You can change the world.",
+     "vi": "Tuyệt! Cậu có thể thay đổi thế giới."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "scientist",
+    "options": [
+     "engineer",
+     "programmer"
+    ]
+   }
+  },
+  {
+   "id": "L3U14-D02",
+   "title_vi": "Nghề trong tương lai",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, what do you want to be?",
+     "vi": "Bi ơi, cậu muốn làm nghề gì?"
+    },
+    {
+     "role": "Bi",
+     "en": "I want to be a chef. I love cooking!",
+     "vi": "Tớ muốn làm đầu bếp. Tớ thích nấu ăn lắm!"
+    },
+    {
+     "role": "Kid",
+     "en": "Will you have your own restaurant?",
+     "vi": "Cậu sẽ có nhà hàng riêng chứ?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! And you can be my first customer!",
+     "vi": "Có! Và cậu sẽ là khách hàng đầu tiên của tớ!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "chef",
+    "options": [
+     "musician",
+     "photographer"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "future"
+  },
+  {
+   "type": "dictate_word",
+   "target": "become"
+  },
+  {
+   "type": "dictate_word",
+   "target": "became"
+  },
+  {
+   "type": "dictate_word",
+   "target": "scientist"
+  },
+  {
+   "type": "dictate_word",
+   "target": "engineer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "architect"
+  },
+  {
+   "type": "dictate_word",
+   "target": "photographer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "chef"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What will you do in the future?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I want to become a famous chef."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My aunt became a doctor last year."
+  },
+  {
+   "type": "write_sentences",
+   "target": "When I grow up, I will be|I want this job because|To do this job, I must"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U14-R01",
+   "title_en": "My dream job",
+   "text_en": [
+    "My name is Anna, and I'm nine years old.",
+    "When I grow up, I will be a vet.",
+    "I love animals, and I want to help them.",
+    "My aunt is a vet, and sometimes I go to work with her.",
+    "Last week, I saw her help a little dog with a broken leg.",
+    "It was amazing!",
+    "To become a vet, I must study hard.",
+    "I will go to university and learn a lot about animals.",
+    "Someday, I will have my own animal hospital.",
+    "I hope my dream comes true!"
+   ],
+   "questions": [
+    {
+     "q": "What will Anna be when she grows up?",
+     "options": [
+      "A vet.",
+      "A doctor.",
+      "A teacher."
+     ],
+     "answer": "A vet."
+    },
+    {
+     "q": "Who is a vet in Anna's family?",
+     "options": [
+      "Her aunt.",
+      "Her mum.",
+      "Her brother."
+     ],
+     "answer": "Her aunt."
+    },
+    {
+     "q": "What does Anna want to have someday?",
+     "options": [
+      "Her own animal hospital.",
+      "A big house.",
+      "A pet shop."
+     ],
+     "answer": "Her own animal hospital."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U14-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "scientist",
+   "item": "scientist",
+   "options": [
+    "programmer",
+    "laboratory",
+    "news",
+    "scientist"
+   ],
+   "answer": "scientist"
+  },
+  {
+   "id": "L3U14-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "engineer",
+   "item": "engineer",
+   "options": [
+    "laboratory",
+    "scientist",
+    "musician",
+    "engineer"
+   ],
+   "answer": "engineer"
+  },
+  {
+   "id": "L3U14-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "musician",
+   "item": "musician",
+   "options": [
+    "news",
+    "laboratory",
+    "musician",
+    "university"
+   ],
+   "answer": "musician"
+  },
+  {
+   "id": "L3U14-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "programmer",
+   "item": "programmer",
+   "options": [
+    "scientist",
+    "university",
+    "musician",
+    "programmer"
+   ],
+   "answer": "programmer"
+  },
+  {
+   "id": "L3U14-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "university",
+   "item": "university",
+   "options": [
+    "engineer",
+    "musician",
+    "university",
+    "programmer"
+   ],
+   "answer": "university"
+  },
+  {
+   "id": "L3U14-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "laboratory",
+   "item": "laboratory",
+   "options": [
+    "laboratory",
+    "news",
+    "scientist",
+    "engineer"
+   ],
+   "answer": "laboratory"
+  },
+  {
+   "id": "L3U14-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "news",
+   "item": "news",
+   "options": [
+    "scientist",
+    "university",
+    "programmer",
+    "news"
+   ],
+   "answer": "news"
+  },
+  {
+   "id": "L3U14-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grow up",
+   "item": "grow up",
+   "options": [
+    "grow up",
+    "theatre",
+    "engineer",
+    "scientist"
+   ],
+   "answer": "grow up"
+  },
+  {
+   "id": "L3U14-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "future",
+   "item": "future",
+   "options": [
+    "change",
+    "news",
+    "earn",
+    "future"
+   ],
+   "answer": "future"
+  },
+  {
+   "id": "L3U14-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "become",
+   "item": "become",
+   "options": [
+    "news",
+    "theatre",
+    "until",
+    "become"
+   ],
+   "answer": "become"
+  },
+  {
+   "id": "L3U14-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "became",
+   "item": "became",
+   "options": [
+    "change",
+    "future",
+    "became",
+    "news"
+   ],
+   "answer": "became"
+  },
+  {
+   "id": "L3U14-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "architect",
+   "item": "architect",
+   "options": [
+    "actor",
+    "photographer",
+    "architect",
+    "librarian"
+   ],
+   "answer": "architect"
+  },
+  {
+   "id": "L3U14-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "photographer",
+   "item": "photographer",
+   "options": [
+    "chef",
+    "grow up",
+    "change",
+    "photographer"
+   ],
+   "answer": "photographer"
+  },
+  {
+   "id": "L3U14-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chef",
+   "item": "chef",
+   "options": [
+    "footballer",
+    "photographer",
+    "build",
+    "chef"
+   ],
+   "answer": "chef"
+  },
+  {
+   "id": "L3U14-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "actor",
+   "item": "actor",
+   "options": [
+    "became",
+    "actor",
+    "gardener",
+    "until"
+   ],
+   "answer": "actor"
+  },
+  {
+   "id": "L3U14-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "footballer",
+   "item": "footballer",
+   "options": [
+    "famous",
+    "became",
+    "footballer",
+    "scientist"
+   ],
+   "answer": "footballer"
+  },
+  {
+   "id": "L3U14-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "journalist",
+   "item": "journalist",
+   "options": [
+    "earn",
+    "journalist",
+    "study",
+    "designer"
+   ],
+   "answer": "journalist"
+  },
+  {
+   "id": "L3U14-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "designer",
+   "item": "designer",
+   "options": [
+    "designer",
+    "became",
+    "gardener",
+    "zookeeper"
+   ],
+   "answer": "designer"
+  },
+  {
+   "id": "L3U14-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "zookeeper",
+   "item": "zookeeper",
+   "options": [
+    "scientist",
+    "zookeeper",
+    "librarian",
+    "gardener"
+   ],
+   "answer": "zookeeper"
+  },
+  {
+   "id": "L3U14-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gardener",
+   "item": "gardener",
+   "options": [
+    "librarian",
+    "gardener",
+    "someday",
+    "engineer"
+   ],
+   "answer": "gardener"
+  },
+  {
+   "id": "L3U14-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "librarian",
+   "item": "librarian",
+   "options": [
+    "librarian",
+    "footballer",
+    "university",
+    "chef"
+   ],
+   "answer": "librarian"
+  },
+  {
+   "id": "L3U14-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "famous",
+   "item": "famous",
+   "options": [
+    "grow up",
+    "musician",
+    "skill",
+    "famous"
+   ],
+   "answer": "famous"
+  },
+  {
+   "id": "L3U14-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "earn",
+   "item": "earn",
+   "options": [
+    "study",
+    "earn",
+    "change",
+    "until"
+   ],
+   "answer": "earn"
+  },
+  {
+   "id": "L3U14-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "study",
+   "item": "study",
+   "options": [
+    "musician",
+    "laboratory",
+    "photographer",
+    "study"
+   ],
+   "answer": "study"
+  },
+  {
+   "id": "L3U14-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "skill",
+   "item": "skill",
+   "options": [
+    "became",
+    "grow up",
+    "until",
+    "skill"
+   ],
+   "answer": "skill"
+  },
+  {
+   "id": "L3U14-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hard-working",
+   "item": "hard-working",
+   "options": [
+    "chef",
+    "study",
+    "hard-working",
+    "photographer"
+   ],
+   "answer": "hard-working"
+  },
+  {
+   "id": "L3U14-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "change",
+   "item": "change",
+   "options": [
+    "grow up",
+    "become",
+    "earn",
+    "change"
+   ],
+   "answer": "change"
+  },
+  {
+   "id": "L3U14-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "own",
+   "item": "own",
+   "options": [
+    "architect",
+    "journalist",
+    "someday",
+    "own"
+   ],
+   "answer": "own"
+  },
+  {
+   "id": "L3U14-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "someday",
+   "item": "someday",
+   "options": [
+    "actor",
+    "photographer",
+    "someday",
+    "footballer"
+   ],
+   "answer": "someday"
+  },
+  {
+   "id": "L3U14-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "until",
+   "item": "until",
+   "options": [
+    "chef",
+    "programmer",
+    "architect",
+    "until"
+   ],
+   "answer": "until"
+  },
+  {
+   "id": "L3U14-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "build",
+   "item": "build",
+   "options": [
+    "journalist",
+    "own",
+    "build",
+    "until"
+   ],
+   "answer": "build"
+  },
+  {
+   "id": "L3U14-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "theatre",
+   "item": "theatre",
+   "options": [
+    "theatre",
+    "photographer",
+    "programmer",
+    "someday"
+   ],
+   "answer": "theatre"
+  },
+  {
+   "id": "L3U14-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "scientist",
+   "answer": "scientist"
+  },
+  {
+   "id": "L3U14-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "engineer",
+   "answer": "engineer"
+  },
+  {
+   "id": "L3U14-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "musician",
+   "answer": "musician"
+  },
+  {
+   "id": "L3U14-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "programmer",
+   "answer": "programmer"
+  },
+  {
+   "id": "L3U14-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "university",
+   "answer": "university"
+  },
+  {
+   "id": "L3U14-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "laboratory",
+   "answer": "laboratory"
+  },
+  {
+   "id": "L3U14-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "news",
+   "answer": "news"
+  },
+  {
+   "id": "L3U14-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a vet when I grow up.",
+   "item": "grow up",
+   "answer": "I want to be a vet when I grow up."
+  },
+  {
+   "id": "L3U14-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What will you do in the future?",
+   "item": "future",
+   "answer": "What will you do in the future?"
+  },
+  {
+   "id": "L3U14-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to become a famous chef.",
+   "item": "become",
+   "answer": "I want to become a famous chef."
+  },
+  {
+   "id": "L3U14-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My aunt became a doctor last year.",
+   "item": "became",
+   "answer": "My aunt became a doctor last year."
+  },
+  {
+   "id": "L3U14-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The scientist works in a laboratory.",
+   "item": "scientist",
+   "answer": "The scientist works in a laboratory."
+  },
+  {
+   "id": "L3U14-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An engineer can build bridges.",
+   "item": "engineer",
+   "answer": "An engineer can build bridges."
+  },
+  {
+   "id": "L3U14-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An architect draws houses.",
+   "item": "architect",
+   "answer": "An architect draws houses."
+  },
+  {
+   "id": "L3U14-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The photographer takes beautiful photos.",
+   "item": "photographer",
+   "answer": "The photographer takes beautiful photos."
+  },
+  {
+   "id": "L3U14-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The chef cooks in a big restaurant.",
+   "item": "chef",
+   "answer": "The chef cooks in a big restaurant."
+  },
+  {
+   "id": "L3U14-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The actor is in a new film.",
+   "item": "actor",
+   "answer": "The actor is in a new film."
+  },
+  {
+   "id": "L3U14-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle is a musician. He plays the guitar.",
+   "item": "musician",
+   "answer": "My uncle is a musician. He plays the guitar."
+  },
+  {
+   "id": "L3U14-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be a footballer.",
+   "item": "footballer",
+   "answer": "I want to be a footballer."
+  },
+  {
+   "id": "L3U14-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A journalist writes the news.",
+   "item": "journalist",
+   "answer": "A journalist writes the news."
+  },
+  {
+   "id": "L3U14-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a clothes designer.",
+   "item": "designer",
+   "answer": "She is a clothes designer."
+  },
+  {
+   "id": "L3U14-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A programmer makes computer games.",
+   "item": "programmer",
+   "answer": "A programmer makes computer games."
+  },
+  {
+   "id": "L3U14-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The zookeeper feeds the animals.",
+   "item": "zookeeper",
+   "answer": "The zookeeper feeds the animals."
+  },
+  {
+   "id": "L3U14-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The gardener plants flowers.",
+   "item": "gardener",
+   "answer": "The gardener plants flowers."
+  },
+  {
+   "id": "L3U14-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The librarian helps me find books.",
+   "item": "librarian",
+   "answer": "The librarian helps me find books."
+  },
+  {
+   "id": "L3U14-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a famous singer.",
+   "item": "famous",
+   "answer": "She is a famous singer."
+  },
+  {
+   "id": "L3U14-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People work to earn money.",
+   "item": "earn",
+   "answer": "People work to earn money."
+  },
+  {
+   "id": "L3U14-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister studies at a university.",
+   "item": "study",
+   "answer": "My sister studies at a university."
+  },
+  {
+   "id": "L3U14-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to go to university.",
+   "item": "university",
+   "answer": "I want to go to university."
+  },
+  {
+   "id": "L3U14-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cooking is a useful skill.",
+   "item": "skill",
+   "answer": "Cooking is a useful skill."
+  },
+  {
+   "id": "L3U14-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My mum is very hard-working.",
+   "item": "hard-working",
+   "answer": "My mum is very hard-working."
+  },
+  {
+   "id": "L3U14-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The laboratory is full of machines.",
+   "item": "laboratory",
+   "answer": "The laboratory is full of machines."
+  },
+  {
+   "id": "L3U14-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You can change the world!",
+   "item": "change",
+   "answer": "You can change the world!"
+  },
+  {
+   "id": "L3U14-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to have my own shop.",
+   "item": "own",
+   "answer": "I want to have my own shop."
+  },
+  {
+   "id": "L3U14-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Someday I will fly a plane.",
+   "item": "someday",
+   "answer": "Someday I will fly a plane."
+  },
+  {
+   "id": "L3U14-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wait until the bus stops.",
+   "item": "until",
+   "answer": "Wait until the bus stops."
+  },
+  {
+   "id": "L3U14-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad watches the news every evening.",
+   "item": "news",
+   "answer": "Dad watches the news every evening."
+  },
+  {
+   "id": "L3U14-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's build a house with blocks.",
+   "item": "build",
+   "answer": "Let's build a house with blocks."
+  },
+  {
+   "id": "L3U14-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We saw a show at the theatre.",
+   "item": "theatre",
+   "answer": "We saw a show at the theatre."
+  },
+  {
+   "id": "L3U14-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "When I grow up, I will be a scientist.",
+   "answer": "When I grow up, I will be a scientist."
+  },
+  {
+   "id": "L3U14-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "When I grow up, I will be a chef.",
+   "answer": "When I grow up, I will be a chef."
+  },
+  {
+   "id": "L3U14-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "When I grow up, I will be a footballer.",
+   "answer": "When I grow up, I will be a footballer."
+  },
+  {
+   "id": "L3U14-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will travel the world someday.",
+   "answer": "I will travel the world someday."
+  },
+  {
+   "id": "L3U14-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will fly a plane someday.",
+   "answer": "I will fly a plane someday."
+  },
+  {
+   "id": "L3U14-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I will build a house someday.",
+   "answer": "I will build a house someday."
+  },
+  {
+   "id": "L3U14-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a famous singer.",
+   "answer": "She is a famous singer."
+  },
+  {
+   "id": "L3U14-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a famous actor.",
+   "answer": "She is a famous actor."
+  },
+  {
+   "id": "L3U14-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is a famous chef.",
+   "answer": "She is a famous chef."
+  },
+  {
+   "id": "L3U14-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What will you be when you grow up?",
+   "answer": "I will be a scientist."
+  },
+  {
+   "id": "L3U14-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "Because I love experiments!"
+  },
+  {
+   "id": "L3U14-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Bi, what do you want to be?",
+   "answer": "I want to be a chef. I love cooking!"
+  },
+  {
+   "id": "L3U14-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Will you have your own restaurant?",
+   "answer": "Yes! And you can be my first customer!"
+  },
+  {
+   "id": "L3U14-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "scientist",
+   "options": [
+    "scientist",
+    "engineer",
+    "laboratory"
+   ],
+   "answer": "scientist"
+  },
+  {
+   "id": "L3U14-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "engineer",
+   "options": [
+    "news",
+    "musician",
+    "engineer"
+   ],
+   "answer": "engineer"
+  },
+  {
+   "id": "L3U14-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "musician",
+   "options": [
+    "laboratory",
+    "university",
+    "musician"
+   ],
+   "answer": "musician"
+  },
+  {
+   "id": "L3U14-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "programmer",
+   "options": [
+    "university",
+    "programmer",
+    "news"
+   ],
+   "answer": "programmer"
+  },
+  {
+   "id": "L3U14-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "university",
+   "options": [
+    "news",
+    "scientist",
+    "university"
+   ],
+   "answer": "university"
+  },
+  {
+   "id": "L3U14-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "laboratory",
+   "options": [
+    "engineer",
+    "laboratory",
+    "scientist"
+   ],
+   "answer": "laboratory"
+  },
+  {
+   "id": "L3U14-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "news",
+   "options": [
+    "musician",
+    "news",
+    "scientist"
+   ],
+   "answer": "news"
+  },
+  {
+   "id": "L3U14-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What will you do in the ___?",
+   "item": "future",
+   "options": [
+    "become",
+    "future",
+    "someday"
+   ],
+   "answer": "future"
+  },
+  {
+   "id": "L3U14-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to ___ a famous chef.",
+   "item": "become",
+   "options": [
+    "future",
+    "study",
+    "become"
+   ],
+   "answer": "become"
+  },
+  {
+   "id": "L3U14-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My aunt ___ a doctor last year.",
+   "item": "became",
+   "options": [
+    "future",
+    "became",
+    "footballer"
+   ],
+   "answer": "became"
+  },
+  {
+   "id": "L3U14-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ works in a laboratory.",
+   "item": "scientist",
+   "options": [
+    "university",
+    "scientist",
+    "study"
+   ],
+   "answer": "scientist"
+  },
+  {
+   "id": "L3U14-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ can build bridges.",
+   "item": "engineer",
+   "options": [
+    "engineer",
+    "study",
+    "earn"
+   ],
+   "answer": "engineer"
+  },
+  {
+   "id": "L3U14-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ___ draws houses.",
+   "item": "architect",
+   "options": [
+    "change",
+    "until",
+    "architect"
+   ],
+   "answer": "architect"
+  },
+  {
+   "id": "L3U14-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ takes beautiful photos.",
+   "item": "photographer",
+   "options": [
+    "someday",
+    "became",
+    "photographer"
+   ],
+   "answer": "photographer"
+  },
+  {
+   "id": "L3U14-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ cooks in a big restaurant.",
+   "item": "chef",
+   "options": [
+    "chef",
+    "become",
+    "earn"
+   ],
+   "answer": "chef"
+  },
+  {
+   "id": "L3U14-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is in a new film.",
+   "item": "actor",
+   "options": [
+    "build",
+    "actor",
+    "change"
+   ],
+   "answer": "actor"
+  },
+  {
+   "id": "L3U14-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle is a ___. He plays the guitar.",
+   "item": "musician",
+   "options": [
+    "someday",
+    "musician",
+    "study"
+   ],
+   "answer": "musician"
+  },
+  {
+   "id": "L3U14-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to be a ___.",
+   "item": "footballer",
+   "options": [
+    "study",
+    "footballer",
+    "became"
+   ],
+   "answer": "footballer"
+  },
+  {
+   "id": "L3U14-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ writes the news.",
+   "item": "journalist",
+   "options": [
+    "designer",
+    "journalist",
+    "became"
+   ],
+   "answer": "journalist"
+  },
+  {
+   "id": "L3U14-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She is a clothes ___.",
+   "item": "designer",
+   "options": [
+    "news",
+    "designer",
+    "famous"
+   ],
+   "answer": "designer"
+  },
+  {
+   "id": "L3U14-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ makes computer games.",
+   "item": "programmer",
+   "options": [
+    "build",
+    "became",
+    "programmer"
+   ],
+   "answer": "programmer"
+  },
+  {
+   "id": "L3U14-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ feeds the animals.",
+   "item": "zookeeper",
+   "options": [
+    "change",
+    "zookeeper",
+    "became"
+   ],
+   "answer": "zookeeper"
+  },
+  {
+   "id": "L3U14-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ plants flowers.",
+   "item": "gardener",
+   "options": [
+    "gardener",
+    "became",
+    "study"
+   ],
+   "answer": "gardener"
+  },
+  {
+   "id": "L3U14-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ helps me find books.",
+   "item": "librarian",
+   "options": [
+    "librarian",
+    "become",
+    "skill"
+   ],
+   "answer": "librarian"
+  },
+  {
+   "id": "L3U14-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She is a ___ singer.",
+   "item": "famous",
+   "options": [
+    "designer",
+    "earn",
+    "famous"
+   ],
+   "answer": "famous"
+  },
+  {
+   "id": "L3U14-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People work to ___ money.",
+   "item": "earn",
+   "options": [
+    "earn",
+    "zookeeper",
+    "laboratory"
+   ],
+   "answer": "earn"
+  },
+  {
+   "id": "L3U14-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to go to ___.",
+   "item": "university",
+   "options": [
+    "architect",
+    "until",
+    "university"
+   ],
+   "answer": "university"
+  },
+  {
+   "id": "L3U14-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cooking is a useful ___.",
+   "item": "skill",
+   "options": [
+    "designer",
+    "librarian",
+    "skill"
+   ],
+   "answer": "skill"
+  },
+  {
+   "id": "L3U14-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My mum is very ___.",
+   "item": "hard-working",
+   "options": [
+    "engineer",
+    "hard-working",
+    "musician"
+   ],
+   "answer": "hard-working"
+  },
+  {
+   "id": "L3U14-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is full of machines.",
+   "item": "laboratory",
+   "options": [
+    "laboratory",
+    "skill",
+    "build"
+   ],
+   "answer": "laboratory"
+  },
+  {
+   "id": "L3U14-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You can ___ the world!",
+   "item": "change",
+   "options": [
+    "change",
+    "until",
+    "zookeeper"
+   ],
+   "answer": "change"
+  },
+  {
+   "id": "L3U14-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to have my ___ shop.",
+   "item": "own",
+   "options": [
+    "until",
+    "university",
+    "own"
+   ],
+   "answer": "own"
+  },
+  {
+   "id": "L3U14-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ I will fly a plane.",
+   "item": "someday",
+   "options": [
+    "Became",
+    "Someday",
+    "Until"
+   ],
+   "answer": "Someday"
+  },
+  {
+   "id": "L3U14-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wait ___ the bus stops.",
+   "item": "until",
+   "options": [
+    "build",
+    "until",
+    "someday"
+   ],
+   "answer": "until"
+  },
+  {
+   "id": "L3U14-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad watches the ___ every evening.",
+   "item": "news",
+   "options": [
+    "news",
+    "designer",
+    "become"
+   ],
+   "answer": "news"
+  },
+  {
+   "id": "L3U14-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ a house with blocks.",
+   "item": "build",
+   "options": [
+    "chef",
+    "build",
+    "skill"
+   ],
+   "answer": "build"
+  },
+  {
+   "id": "L3U14-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We saw a show at the ___.",
+   "item": "theatre",
+   "options": [
+    "become",
+    "until",
+    "theatre"
+   ],
+   "answer": "theatre"
+  },
+  {
+   "id": "L3U14-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The scientist works in a laboratory.",
+   "item": "scientist",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U14-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "An engineer can build bridges.",
+   "item": "musician",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U14-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My uncle is a musician. He plays the guitar.",
+   "item": "musician",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U14-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A programmer makes computer games.",
+   "item": "university",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U14-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I want to go to university.",
+   "item": "university",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U14-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The laboratory is full of machines.",
+   "item": "news",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U14-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad watches the news every evening.",
+   "item": "news",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U14-Q129",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U14-R01",
+   "text_en": "What will Anna be when she grows up?",
+   "options": [
+    "A teacher.",
+    "A vet.",
+    "A doctor."
+   ],
+   "answer": "A vet."
+  },
+  {
+   "id": "L3U14-Q130",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U14-R01",
+   "text_en": "Who is a vet in Anna's family?",
+   "options": [
+    "Her brother.",
+    "Her mum.",
+    "Her aunt."
+   ],
+   "answer": "Her aunt."
+  },
+  {
+   "id": "L3U14-Q131",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U14-R01",
+   "text_en": "What does Anna want to have someday?",
+   "options": [
+    "A big house.",
+    "Her own animal hospital.",
+    "A pet shop."
+   ],
+   "answer": "Her own animal hospital."
+  },
+  {
+   "id": "L3U14-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "future",
+   "item": "future",
+   "answer": "future"
+  },
+  {
+   "id": "L3U14-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "become",
+   "item": "become",
+   "answer": "become"
+  },
+  {
+   "id": "L3U14-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "became",
+   "item": "became",
+   "answer": "became"
+  },
+  {
+   "id": "L3U14-Q135",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "scientist",
+   "item": "scientist",
+   "answer": "scientist"
+  },
+  {
+   "id": "L3U14-Q136",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "engineer",
+   "item": "engineer",
+   "answer": "engineer"
+  },
+  {
+   "id": "L3U14-Q137",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "architect",
+   "item": "architect",
+   "answer": "architect"
+  },
+  {
+   "id": "L3U14-Q138",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "photographer",
+   "item": "photographer",
+   "answer": "photographer"
+  },
+  {
+   "id": "L3U14-Q139",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "chef",
+   "item": "chef",
+   "answer": "chef"
+  },
+  {
+   "id": "L3U14-Q140",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What will you do in the future?",
+   "answer": "What will you do in the future?"
+  },
+  {
+   "id": "L3U14-Q141",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I want to become a famous chef.",
+   "answer": "I want to become a famous chef."
+  },
+  {
+   "id": "L3U14-Q142",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My aunt became a doctor last year.",
+   "answer": "My aunt became a doctor last year."
+  }
+ ]
+}

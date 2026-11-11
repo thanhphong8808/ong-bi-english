@@ -1,0 +1,2829 @@
+{
+ "id": "L2U03",
+ "level": 2,
+ "unit": 3,
+ "topic_en": "Weather and seasons",
+ "topic_vi": "Thời tiết và mùa",
+ "can_do_vi": [
+  "Nói về thời tiết hôm nay",
+  "Kể mùa mình thích"
+ ],
+ "items": [
+  {
+   "id": "L2U03-W01",
+   "type": "word",
+   "en": "weather",
+   "vi": "thời tiết",
+   "ipa": "/ˈwɛðər/",
+   "syllables": [
+    "weath",
+    "er"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F326-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "What's the weather like?",
+   "example_vi": "Thời tiết thế nào?",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W02",
+   "type": "word",
+   "en": "sunny",
+   "vi": "có nắng",
+   "ipa": "/ˈsʌni/",
+   "syllables": [
+    "sun",
+    "ny"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2600-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's sunny today.",
+   "example_vi": "Hôm nay trời nắng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W03",
+   "type": "word",
+   "en": "rainy",
+   "vi": "có mưa",
+   "ipa": "/ˈreɪni/",
+   "syllables": [
+    "rainy"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F327-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's rainy. Take an umbrella.",
+   "example_vi": "Trời mưa. Mang ô theo nhé.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W04",
+   "type": "word",
+   "en": "cloudy",
+   "vi": "nhiều mây",
+   "ipa": "/ˈklaʊdi/",
+   "syllables": [
+    "cloudy"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2601-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's cloudy and cold.",
+   "example_vi": "Trời nhiều mây và lạnh.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W05",
+   "type": "word",
+   "en": "windy",
+   "vi": "có gió",
+   "ipa": "/ˈwɪndi/",
+   "syllables": [
+    "windy"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F32C-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's windy. Let's fly a kite!",
+   "example_vi": "Trời có gió. Mình thả diều đi!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W06",
+   "type": "word",
+   "en": "snowy",
+   "vi": "có tuyết",
+   "ipa": "/snoʊi/",
+   "syllables": [
+    "snowy"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F328-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's snowy in the mountains.",
+   "example_vi": "Trên núi có tuyết.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W07",
+   "type": "word",
+   "en": "snow",
+   "vi": "tuyết",
+   "ipa": "/snoʊ/",
+   "syllables": [
+    "snow"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2744-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "The snow is white.",
+   "example_vi": "Tuyết màu trắng.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W08",
+   "type": "word",
+   "en": "wind",
+   "vi": "gió",
+   "ipa": "/wɪnd/",
+   "syllables": [
+    "wind"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F343"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "The wind is strong.",
+   "example_vi": "Gió mạnh quá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W09",
+   "type": "word",
+   "en": "storm",
+   "vi": "cơn bão",
+   "ipa": "/stɔrm/",
+   "syllables": [
+    "storm"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26C8-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Stay inside. There's a storm.",
+   "example_vi": "Ở trong nhà nhé. Có bão.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W10",
+   "type": "word",
+   "en": "rainbow",
+   "vi": "cầu vồng",
+   "ipa": "/ˈreɪnˌboʊ/",
+   "syllables": [
+    "rain",
+    "bow"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F308"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Look! A rainbow!",
+   "example_vi": "Nhìn kìa! Cầu vồng!",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W11",
+   "type": "word",
+   "en": "ice",
+   "vi": "băng, đá",
+   "ipa": "/aɪs/",
+   "syllables": [
+    "ice"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "The ice is very cold.",
+   "example_vi": "Đá lạnh lắm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W12",
+   "type": "word",
+   "en": "thunder",
+   "vi": "sấm",
+   "ipa": "/ˈθʌndər/",
+   "syllables": [
+    "thun",
+    "der"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F329-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "I don't like thunder.",
+   "example_vi": "Tớ không thích tiếng sấm.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W13",
+   "type": "word",
+   "en": "lightning",
+   "vi": "tia chớp",
+   "ipa": "/ˈlaɪtnɪŋ/",
+   "syllables": [
+    "light",
+    "ning"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "26A1"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Lightning is very bright.",
+   "example_vi": "Tia chớp rất sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W14",
+   "type": "word",
+   "en": "warm",
+   "vi": "ấm áp",
+   "ipa": "/wɔrm/",
+   "syllables": [
+    "warm"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F321-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "It's warm in spring.",
+   "example_vi": "Mùa xuân trời ấm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W15",
+   "type": "word",
+   "en": "cool",
+   "vi": "mát mẻ",
+   "ipa": "/kul/",
+   "syllables": [
+    "cool"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F60E"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "The evening is cool.",
+   "example_vi": "Buổi tối trời mát.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W16",
+   "type": "word",
+   "en": "wet",
+   "vi": "ướt",
+   "ipa": "/wɛt/",
+   "syllables": [
+    "wet"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F4A6"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "My shoes are wet.",
+   "example_vi": "Giày của tớ bị ướt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W17",
+   "type": "word",
+   "en": "dry",
+   "vi": "khô",
+   "ipa": "/draɪ/",
+   "syllables": [
+    "dry"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "My T-shirt is dry now.",
+   "example_vi": "Áo phông của tớ khô rồi.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W18",
+   "type": "word",
+   "en": "spring",
+   "vi": "mùa xuân",
+   "ipa": "/spərɪŋ/",
+   "syllables": [
+    "spring"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F338"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Flowers grow in spring.",
+   "example_vi": "Hoa nở vào mùa xuân.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W19",
+   "type": "word",
+   "en": "summer",
+   "vi": "mùa hè",
+   "ipa": "/ˈsʌmər/",
+   "syllables": [
+    "sum",
+    "mer"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3DD-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "I swim in the summer.",
+   "example_vi": "Tớ đi bơi vào mùa hè.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W20",
+   "type": "word",
+   "en": "autumn",
+   "vi": "mùa thu",
+   "ipa": "/ˈɔtəm/",
+   "syllables": [
+    "au",
+    "tumn"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F342"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Leaves fall in autumn.",
+   "example_vi": "Lá rụng vào mùa thu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W21",
+   "type": "word",
+   "en": "winter",
+   "vi": "mùa đông",
+   "ipa": "/ˈwɪntər/",
+   "syllables": [
+    "win",
+    "ter"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "26C4"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's cold in winter.",
+   "example_vi": "Mùa đông trời lạnh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W22",
+   "type": "word",
+   "en": "season",
+   "vi": "mùa",
+   "ipa": "/ˈsizən/",
+   "syllables": [
+    "sea",
+    "son"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "My favourite season is summer.",
+   "example_vi": "Mùa tớ thích nhất là mùa hè.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W23",
+   "type": "word",
+   "en": "coat",
+   "vi": "áo khoác dày",
+   "ipa": "/koʊt/",
+   "syllables": [
+    "coat"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9E5"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "Put on your coat.",
+   "example_vi": "Mặc áo khoác vào nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W24",
+   "type": "word",
+   "en": "gloves",
+   "vi": "đôi găng tay",
+   "ipa": "/ɡlʌvz/",
+   "syllables": [
+    "gloves"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F9E4"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "I wear gloves in winter.",
+   "example_vi": "Tớ đeo găng tay vào mùa đông.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W25",
+   "type": "word",
+   "en": "sunglasses",
+   "vi": "kính râm",
+   "ipa": "/ˈsʌnˌɡlæsɪz/",
+   "syllables": [
+    "sun",
+    "glass",
+    "es"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F576-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's sunny. Wear your sunglasses!",
+   "example_vi": "Trời nắng. Đeo kính râm vào!",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W26",
+   "type": "word",
+   "en": "outside",
+   "vi": "bên ngoài",
+   "ipa": "/ˈaʊtˈsaɪd/",
+   "syllables": [
+    "out",
+    "side"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "Let's play outside!",
+   "example_vi": "Mình ra ngoài chơi đi!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W27",
+   "type": "word",
+   "en": "inside",
+   "vi": "bên trong",
+   "ipa": "/ˌɪnˈsaɪd/",
+   "syllables": [
+    "in",
+    "side"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": true,
+   "cat": "L2U03",
+   "example_en": "It's rainy. Let's play inside.",
+   "example_vi": "Trời mưa. Mình chơi trong nhà nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U03-W28",
+   "type": "word",
+   "en": "fall",
+   "vi": "rơi, rụng",
+   "ipa": "/fɔl/",
+   "syllables": [
+    "fall"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U03",
+   "example_en": "The rain falls on the roof.",
+   "example_vi": "Mưa rơi trên mái nhà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U03-P01",
+   "en": "It's {x} today.",
+   "vi": "Hôm nay trời {x}.",
+   "slots": {
+    "x": [
+     "sunny",
+     "rainy",
+     "cloudy",
+     "windy"
+    ]
+   }
+  },
+  {
+   "id": "L2U03-P02",
+   "en": "My favourite season is {x}.",
+   "vi": "Mùa tớ thích nhất là {x}.",
+   "slots": {
+    "x": [
+     "summer",
+     "winter",
+     "spring",
+     "autumn"
+    ]
+   }
+  },
+  {
+   "id": "L2U03-P03",
+   "en": "Put on your {x}.",
+   "vi": "Mặc / đeo {x} vào nhé.",
+   "slots": {
+    "x": [
+     "coat",
+     "gloves",
+     "sunglasses",
+     "boots"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U03-D01",
+   "title_vi": "Thời tiết hôm nay",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's the weather like today?",
+     "vi": "Hôm nay thời tiết thế nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's rainy and cold.",
+     "vi": "Trời mưa và lạnh."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Let's play inside.",
+     "vi": "Ôi không! Mình chơi trong nhà nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Let's draw a rainbow.",
+     "vi": "Được! Mình vẽ cầu vồng đi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "rainy",
+    "options": [
+     "sunny",
+     "windy"
+    ]
+   }
+  },
+  {
+   "id": "L2U03-D02",
+   "title_vi": "Mùa yêu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite season?",
+     "vi": "Mùa yêu thích của cậu là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like summer.",
+     "vi": "Tớ thích mùa hè."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "I can swim in the sea.",
+     "vi": "Tớ được bơi ở biển."
+    },
+    {
+     "role": "Bi",
+     "en": "Cool! I like spring. I love flowers!",
+     "vi": "Hay quá! Tớ thích mùa xuân. Tớ mê hoa!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "summer",
+    "options": [
+     "winter",
+     "autumn"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "weather"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sunny"
+  },
+  {
+   "type": "dictate_word",
+   "target": "rainy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cloudy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "windy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "snowy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "snow"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wind"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's the weather like?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "It's sunny today."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "It's rainy. Take an umbrella."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U03-R01",
+   "title_en": "A windy day",
+   "text_en": [
+    "Today is windy.",
+    "Mai and Nam go to the park.",
+    "They have a big red kite.",
+    "The kite flies very high.",
+    "Then it starts to rain.",
+    "They run home.",
+    "They are wet but happy!"
+   ],
+   "questions": [
+    {
+     "q": "What colour is the kite?",
+     "options": [
+      "Red.",
+      "Blue.",
+      "Yellow."
+     ],
+     "answer": "Red."
+    },
+    {
+     "q": "Why do Mai and Nam run home?",
+     "options": [
+      "It starts to rain.",
+      "It is night.",
+      "They are hungry."
+     ],
+     "answer": "It starts to rain."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U03-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sunny",
+   "item": "sunny",
+   "options": [
+    "rainy",
+    "windy",
+    "sunny",
+    "inside"
+   ],
+   "answer": "sunny"
+  },
+  {
+   "id": "L2U03-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rainy",
+   "item": "rainy",
+   "options": [
+    "rainy",
+    "coat",
+    "windy",
+    "ice"
+   ],
+   "answer": "rainy"
+  },
+  {
+   "id": "L2U03-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cloudy",
+   "item": "cloudy",
+   "options": [
+    "gloves",
+    "spring",
+    "cloudy",
+    "wind"
+   ],
+   "answer": "cloudy"
+  },
+  {
+   "id": "L2U03-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "windy",
+   "item": "windy",
+   "options": [
+    "storm",
+    "ice",
+    "windy",
+    "cloudy"
+   ],
+   "answer": "windy"
+  },
+  {
+   "id": "L2U03-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snowy",
+   "item": "snowy",
+   "options": [
+    "autumn",
+    "windy",
+    "snowy",
+    "snow"
+   ],
+   "answer": "snowy"
+  },
+  {
+   "id": "L2U03-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snow",
+   "item": "snow",
+   "options": [
+    "autumn",
+    "lightning",
+    "snow",
+    "snowy"
+   ],
+   "answer": "snow"
+  },
+  {
+   "id": "L2U03-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wind",
+   "item": "wind",
+   "options": [
+    "wind",
+    "coat",
+    "snow",
+    "ice"
+   ],
+   "answer": "wind"
+  },
+  {
+   "id": "L2U03-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "storm",
+   "item": "storm",
+   "options": [
+    "sunny",
+    "wet",
+    "storm",
+    "rainbow"
+   ],
+   "answer": "storm"
+  },
+  {
+   "id": "L2U03-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rainbow",
+   "item": "rainbow",
+   "options": [
+    "rainbow",
+    "wet",
+    "snow",
+    "summer"
+   ],
+   "answer": "rainbow"
+  },
+  {
+   "id": "L2U03-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ice",
+   "item": "ice",
+   "options": [
+    "thunder",
+    "snowy",
+    "ice",
+    "winter"
+   ],
+   "answer": "ice"
+  },
+  {
+   "id": "L2U03-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "thunder",
+   "item": "thunder",
+   "options": [
+    "cloudy",
+    "sunny",
+    "snowy",
+    "thunder"
+   ],
+   "answer": "thunder"
+  },
+  {
+   "id": "L2U03-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lightning",
+   "item": "lightning",
+   "options": [
+    "inside",
+    "lightning",
+    "sunglasses",
+    "coat"
+   ],
+   "answer": "lightning"
+  },
+  {
+   "id": "L2U03-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wet",
+   "item": "wet",
+   "options": [
+    "snowy",
+    "wind",
+    "coat",
+    "wet"
+   ],
+   "answer": "wet"
+  },
+  {
+   "id": "L2U03-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "spring",
+   "item": "spring",
+   "options": [
+    "ice",
+    "spring",
+    "snowy",
+    "coat"
+   ],
+   "answer": "spring"
+  },
+  {
+   "id": "L2U03-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "summer",
+   "item": "summer",
+   "options": [
+    "inside",
+    "gloves",
+    "winter",
+    "summer"
+   ],
+   "answer": "summer"
+  },
+  {
+   "id": "L2U03-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "autumn",
+   "item": "autumn",
+   "options": [
+    "windy",
+    "ice",
+    "autumn",
+    "snow"
+   ],
+   "answer": "autumn"
+  },
+  {
+   "id": "L2U03-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "winter",
+   "item": "winter",
+   "options": [
+    "coat",
+    "cloudy",
+    "winter",
+    "ice"
+   ],
+   "answer": "winter"
+  },
+  {
+   "id": "L2U03-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "coat",
+   "item": "coat",
+   "options": [
+    "coat",
+    "autumn",
+    "summer",
+    "snow"
+   ],
+   "answer": "coat"
+  },
+  {
+   "id": "L2U03-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "gloves",
+   "item": "gloves",
+   "options": [
+    "wind",
+    "storm",
+    "windy",
+    "gloves"
+   ],
+   "answer": "gloves"
+  },
+  {
+   "id": "L2U03-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sunglasses",
+   "item": "sunglasses",
+   "options": [
+    "sunglasses",
+    "ice",
+    "gloves",
+    "snowy"
+   ],
+   "answer": "sunglasses"
+  },
+  {
+   "id": "L2U03-Q021",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "inside",
+   "item": "inside",
+   "options": [
+    "wind",
+    "winter",
+    "inside",
+    "sunny"
+   ],
+   "answer": "inside"
+  },
+  {
+   "id": "L2U03-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "weather",
+   "item": "weather",
+   "options": [
+    "cloudy",
+    "thunder",
+    "weather",
+    "snow"
+   ],
+   "answer": "weather"
+  },
+  {
+   "id": "L2U03-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "warm",
+   "item": "warm",
+   "options": [
+    "wet",
+    "winter",
+    "sunny",
+    "warm"
+   ],
+   "answer": "warm"
+  },
+  {
+   "id": "L2U03-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cool",
+   "item": "cool",
+   "options": [
+    "sunny",
+    "cool",
+    "cloudy",
+    "season"
+   ],
+   "answer": "cool"
+  },
+  {
+   "id": "L2U03-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dry",
+   "item": "dry",
+   "options": [
+    "warm",
+    "cloudy",
+    "dry",
+    "windy"
+   ],
+   "answer": "dry"
+  },
+  {
+   "id": "L2U03-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "season",
+   "item": "season",
+   "options": [
+    "snowy",
+    "thunder",
+    "season",
+    "spring"
+   ],
+   "answer": "season"
+  },
+  {
+   "id": "L2U03-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "outside",
+   "item": "outside",
+   "options": [
+    "wind",
+    "thunder",
+    "outside",
+    "sunglasses"
+   ],
+   "answer": "outside"
+  },
+  {
+   "id": "L2U03-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fall",
+   "item": "fall",
+   "options": [
+    "lightning",
+    "rainbow",
+    "autumn",
+    "fall"
+   ],
+   "answer": "fall"
+  },
+  {
+   "id": "L2U03-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sunny",
+   "answer": "sunny"
+  },
+  {
+   "id": "L2U03-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rainy",
+   "answer": "rainy"
+  },
+  {
+   "id": "L2U03-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cloudy",
+   "answer": "cloudy"
+  },
+  {
+   "id": "L2U03-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "windy",
+   "answer": "windy"
+  },
+  {
+   "id": "L2U03-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snowy",
+   "answer": "snowy"
+  },
+  {
+   "id": "L2U03-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snow",
+   "answer": "snow"
+  },
+  {
+   "id": "L2U03-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wind",
+   "answer": "wind"
+  },
+  {
+   "id": "L2U03-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "storm",
+   "answer": "storm"
+  },
+  {
+   "id": "L2U03-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rainbow",
+   "answer": "rainbow"
+  },
+  {
+   "id": "L2U03-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ice",
+   "answer": "ice"
+  },
+  {
+   "id": "L2U03-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "thunder",
+   "answer": "thunder"
+  },
+  {
+   "id": "L2U03-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lightning",
+   "answer": "lightning"
+  },
+  {
+   "id": "L2U03-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wet",
+   "answer": "wet"
+  },
+  {
+   "id": "L2U03-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "spring",
+   "answer": "spring"
+  },
+  {
+   "id": "L2U03-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "summer",
+   "answer": "summer"
+  },
+  {
+   "id": "L2U03-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "autumn",
+   "answer": "autumn"
+  },
+  {
+   "id": "L2U03-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "winter",
+   "answer": "winter"
+  },
+  {
+   "id": "L2U03-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "coat",
+   "answer": "coat"
+  },
+  {
+   "id": "L2U03-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "gloves",
+   "answer": "gloves"
+  },
+  {
+   "id": "L2U03-Q048",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sunglasses",
+   "answer": "sunglasses"
+  },
+  {
+   "id": "L2U03-Q049",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "inside",
+   "answer": "inside"
+  },
+  {
+   "id": "L2U03-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's the weather like?",
+   "item": "weather",
+   "answer": "What's the weather like?"
+  },
+  {
+   "id": "L2U03-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's sunny today.",
+   "item": "sunny",
+   "answer": "It's sunny today."
+  },
+  {
+   "id": "L2U03-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's rainy. Take an umbrella.",
+   "item": "rainy",
+   "answer": "It's rainy. Take an umbrella."
+  },
+  {
+   "id": "L2U03-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cloudy and cold.",
+   "item": "cloudy",
+   "answer": "It's cloudy and cold."
+  },
+  {
+   "id": "L2U03-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's windy. Let's fly a kite!",
+   "item": "windy",
+   "answer": "It's windy. Let's fly a kite!"
+  },
+  {
+   "id": "L2U03-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's snowy in the mountains.",
+   "item": "snowy",
+   "answer": "It's snowy in the mountains."
+  },
+  {
+   "id": "L2U03-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The snow is white.",
+   "item": "snow",
+   "answer": "The snow is white."
+  },
+  {
+   "id": "L2U03-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The wind is strong.",
+   "item": "wind",
+   "answer": "The wind is strong."
+  },
+  {
+   "id": "L2U03-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stay inside. There's a storm.",
+   "item": "storm",
+   "answer": "Stay inside. There's a storm."
+  },
+  {
+   "id": "L2U03-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look! A rainbow!",
+   "item": "rainbow",
+   "answer": "Look! A rainbow!"
+  },
+  {
+   "id": "L2U03-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ice is very cold.",
+   "item": "ice",
+   "answer": "The ice is very cold."
+  },
+  {
+   "id": "L2U03-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like thunder.",
+   "item": "thunder",
+   "answer": "I don't like thunder."
+  },
+  {
+   "id": "L2U03-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lightning is very bright.",
+   "item": "lightning",
+   "answer": "Lightning is very bright."
+  },
+  {
+   "id": "L2U03-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's warm in spring.",
+   "item": "warm",
+   "answer": "It's warm in spring."
+  },
+  {
+   "id": "L2U03-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The evening is cool.",
+   "item": "cool",
+   "answer": "The evening is cool."
+  },
+  {
+   "id": "L2U03-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My shoes are wet.",
+   "item": "wet",
+   "answer": "My shoes are wet."
+  },
+  {
+   "id": "L2U03-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My T-shirt is dry now.",
+   "item": "dry",
+   "answer": "My T-shirt is dry now."
+  },
+  {
+   "id": "L2U03-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Flowers grow in spring.",
+   "item": "spring",
+   "answer": "Flowers grow in spring."
+  },
+  {
+   "id": "L2U03-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I swim in the summer.",
+   "item": "summer",
+   "answer": "I swim in the summer."
+  },
+  {
+   "id": "L2U03-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Leaves fall in autumn.",
+   "item": "autumn",
+   "answer": "Leaves fall in autumn."
+  },
+  {
+   "id": "L2U03-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cold in winter.",
+   "item": "winter",
+   "answer": "It's cold in winter."
+  },
+  {
+   "id": "L2U03-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite season is summer.",
+   "item": "season",
+   "answer": "My favourite season is summer."
+  },
+  {
+   "id": "L2U03-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your coat.",
+   "item": "coat",
+   "answer": "Put on your coat."
+  },
+  {
+   "id": "L2U03-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wear gloves in winter.",
+   "item": "gloves",
+   "answer": "I wear gloves in winter."
+  },
+  {
+   "id": "L2U03-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's sunny. Wear your sunglasses!",
+   "item": "sunglasses",
+   "answer": "It's sunny. Wear your sunglasses!"
+  },
+  {
+   "id": "L2U03-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play outside!",
+   "item": "outside",
+   "answer": "Let's play outside!"
+  },
+  {
+   "id": "L2U03-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's rainy. Let's play inside.",
+   "item": "inside",
+   "answer": "It's rainy. Let's play inside."
+  },
+  {
+   "id": "L2U03-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rain falls on the roof.",
+   "item": "fall",
+   "answer": "The rain falls on the roof."
+  },
+  {
+   "id": "L2U03-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's sunny today.",
+   "answer": "It's sunny today."
+  },
+  {
+   "id": "L2U03-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's rainy today.",
+   "answer": "It's rainy today."
+  },
+  {
+   "id": "L2U03-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cloudy today.",
+   "answer": "It's cloudy today."
+  },
+  {
+   "id": "L2U03-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite season is summer.",
+   "answer": "My favourite season is summer."
+  },
+  {
+   "id": "L2U03-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite season is winter.",
+   "answer": "My favourite season is winter."
+  },
+  {
+   "id": "L2U03-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite season is spring.",
+   "answer": "My favourite season is spring."
+  },
+  {
+   "id": "L2U03-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your coat.",
+   "answer": "Put on your coat."
+  },
+  {
+   "id": "L2U03-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your gloves.",
+   "answer": "Put on your gloves."
+  },
+  {
+   "id": "L2U03-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your sunglasses.",
+   "answer": "Put on your sunglasses."
+  },
+  {
+   "id": "L2U03-Q087",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's the weather like today?",
+   "answer": "It's rainy and cold."
+  },
+  {
+   "id": "L2U03-Q088",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite season?",
+   "answer": "I like summer."
+  },
+  {
+   "id": "L2U03-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "I can swim in the sea."
+  },
+  {
+   "id": "L2U03-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sunny",
+   "options": [
+    "lightning",
+    "sunny",
+    "snow"
+   ],
+   "answer": "sunny"
+  },
+  {
+   "id": "L2U03-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rainy",
+   "options": [
+    "rainy",
+    "wet",
+    "storm"
+   ],
+   "answer": "rainy"
+  },
+  {
+   "id": "L2U03-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cloudy",
+   "options": [
+    "cloudy",
+    "sunny",
+    "storm"
+   ],
+   "answer": "cloudy"
+  },
+  {
+   "id": "L2U03-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "windy",
+   "options": [
+    "autumn",
+    "windy",
+    "coat"
+   ],
+   "answer": "windy"
+  },
+  {
+   "id": "L2U03-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snowy",
+   "options": [
+    "snowy",
+    "winter",
+    "autumn"
+   ],
+   "answer": "snowy"
+  },
+  {
+   "id": "L2U03-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snow",
+   "options": [
+    "thunder",
+    "snow",
+    "summer"
+   ],
+   "answer": "snow"
+  },
+  {
+   "id": "L2U03-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wind",
+   "options": [
+    "coat",
+    "inside",
+    "wind"
+   ],
+   "answer": "wind"
+  },
+  {
+   "id": "L2U03-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "storm",
+   "options": [
+    "storm",
+    "rainbow",
+    "snow"
+   ],
+   "answer": "storm"
+  },
+  {
+   "id": "L2U03-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rainbow",
+   "options": [
+    "rainbow",
+    "gloves",
+    "snow"
+   ],
+   "answer": "rainbow"
+  },
+  {
+   "id": "L2U03-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ice",
+   "options": [
+    "wind",
+    "ice",
+    "snow"
+   ],
+   "answer": "ice"
+  },
+  {
+   "id": "L2U03-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "thunder",
+   "options": [
+    "ice",
+    "thunder",
+    "wind"
+   ],
+   "answer": "thunder"
+  },
+  {
+   "id": "L2U03-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lightning",
+   "options": [
+    "lightning",
+    "wind",
+    "rainbow"
+   ],
+   "answer": "lightning"
+  },
+  {
+   "id": "L2U03-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wet",
+   "options": [
+    "wet",
+    "rainy",
+    "snow"
+   ],
+   "answer": "wet"
+  },
+  {
+   "id": "L2U03-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "spring",
+   "options": [
+    "ice",
+    "spring",
+    "cloudy"
+   ],
+   "answer": "spring"
+  },
+  {
+   "id": "L2U03-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "summer",
+   "options": [
+    "rainbow",
+    "sunglasses",
+    "summer"
+   ],
+   "answer": "summer"
+  },
+  {
+   "id": "L2U03-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "autumn",
+   "options": [
+    "autumn",
+    "sunny",
+    "rainbow"
+   ],
+   "answer": "autumn"
+  },
+  {
+   "id": "L2U03-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "winter",
+   "options": [
+    "summer",
+    "winter",
+    "rainy"
+   ],
+   "answer": "winter"
+  },
+  {
+   "id": "L2U03-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "coat",
+   "options": [
+    "inside",
+    "coat",
+    "summer"
+   ],
+   "answer": "coat"
+  },
+  {
+   "id": "L2U03-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "gloves",
+   "options": [
+    "snowy",
+    "wet",
+    "gloves"
+   ],
+   "answer": "gloves"
+  },
+  {
+   "id": "L2U03-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sunglasses",
+   "options": [
+    "windy",
+    "sunglasses",
+    "cloudy"
+   ],
+   "answer": "sunglasses"
+  },
+  {
+   "id": "L2U03-Q110",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "inside",
+   "options": [
+    "cloudy",
+    "inside",
+    "rainy"
+   ],
+   "answer": "inside"
+  },
+  {
+   "id": "L2U03-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's the ___ like?",
+   "item": "weather",
+   "options": [
+    "outside",
+    "weather",
+    "sunny"
+   ],
+   "answer": "weather"
+  },
+  {
+   "id": "L2U03-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ today.",
+   "item": "sunny",
+   "options": [
+    "storm",
+    "cool",
+    "sunny"
+   ],
+   "answer": "sunny"
+  },
+  {
+   "id": "L2U03-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___. Take an umbrella.",
+   "item": "rainy",
+   "options": [
+    "gloves",
+    "rainy",
+    "summer"
+   ],
+   "answer": "rainy"
+  },
+  {
+   "id": "L2U03-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ and cold.",
+   "item": "cloudy",
+   "options": [
+    "cloudy",
+    "lightning",
+    "weather"
+   ],
+   "answer": "cloudy"
+  },
+  {
+   "id": "L2U03-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___. Let's fly a kite!",
+   "item": "windy",
+   "options": [
+    "windy",
+    "inside",
+    "weather"
+   ],
+   "answer": "windy"
+  },
+  {
+   "id": "L2U03-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ in the mountains.",
+   "item": "snowy",
+   "options": [
+    "snowy",
+    "storm",
+    "weather"
+   ],
+   "answer": "snowy"
+  },
+  {
+   "id": "L2U03-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is white.",
+   "item": "snow",
+   "options": [
+    "snow",
+    "wet",
+    "dry"
+   ],
+   "answer": "snow"
+  },
+  {
+   "id": "L2U03-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is strong.",
+   "item": "wind",
+   "options": [
+    "spring",
+    "cloudy",
+    "wind"
+   ],
+   "answer": "wind"
+  },
+  {
+   "id": "L2U03-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Stay inside. There's a ___.",
+   "item": "storm",
+   "options": [
+    "storm",
+    "wet",
+    "snowy"
+   ],
+   "answer": "storm"
+  },
+  {
+   "id": "L2U03-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look! A ___!",
+   "item": "rainbow",
+   "options": [
+    "snowy",
+    "dry",
+    "rainbow"
+   ],
+   "answer": "rainbow"
+  },
+  {
+   "id": "L2U03-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very cold.",
+   "item": "ice",
+   "options": [
+    "outside",
+    "snowy",
+    "ice"
+   ],
+   "answer": "ice"
+  },
+  {
+   "id": "L2U03-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I don't like ___.",
+   "item": "thunder",
+   "options": [
+    "coat",
+    "autumn",
+    "thunder"
+   ],
+   "answer": "thunder"
+  },
+  {
+   "id": "L2U03-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is very bright.",
+   "item": "lightning",
+   "options": [
+    "Snowy",
+    "Lightning",
+    "Inside"
+   ],
+   "answer": "Lightning"
+  },
+  {
+   "id": "L2U03-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ in spring.",
+   "item": "warm",
+   "options": [
+    "outside",
+    "warm",
+    "sunglasses"
+   ],
+   "answer": "warm"
+  },
+  {
+   "id": "L2U03-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The evening is ___.",
+   "item": "cool",
+   "options": [
+    "weather",
+    "coat",
+    "cool"
+   ],
+   "answer": "cool"
+  },
+  {
+   "id": "L2U03-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My shoes are ___.",
+   "item": "wet",
+   "options": [
+    "outside",
+    "sunglasses",
+    "wet"
+   ],
+   "answer": "wet"
+  },
+  {
+   "id": "L2U03-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My T-shirt is ___ now.",
+   "item": "dry",
+   "options": [
+    "cloudy",
+    "dry",
+    "weather"
+   ],
+   "answer": "dry"
+  },
+  {
+   "id": "L2U03-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Flowers grow in ___.",
+   "item": "spring",
+   "options": [
+    "rainbow",
+    "coat",
+    "spring"
+   ],
+   "answer": "spring"
+  },
+  {
+   "id": "L2U03-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I swim in the ___.",
+   "item": "summer",
+   "options": [
+    "summer",
+    "wet",
+    "outside"
+   ],
+   "answer": "summer"
+  },
+  {
+   "id": "L2U03-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Leaves fall in ___.",
+   "item": "autumn",
+   "options": [
+    "autumn",
+    "season",
+    "outside"
+   ],
+   "answer": "autumn"
+  },
+  {
+   "id": "L2U03-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's cold in ___.",
+   "item": "winter",
+   "options": [
+    "windy",
+    "inside",
+    "winter"
+   ],
+   "answer": "winter"
+  },
+  {
+   "id": "L2U03-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My favourite ___ is summer.",
+   "item": "season",
+   "options": [
+    "ice",
+    "weather",
+    "season"
+   ],
+   "answer": "season"
+  },
+  {
+   "id": "L2U03-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on your ___.",
+   "item": "coat",
+   "options": [
+    "coat",
+    "cool",
+    "lightning"
+   ],
+   "answer": "coat"
+  },
+  {
+   "id": "L2U03-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wear ___ in winter.",
+   "item": "gloves",
+   "options": [
+    "wind",
+    "gloves",
+    "storm"
+   ],
+   "answer": "gloves"
+  },
+  {
+   "id": "L2U03-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's sunny. Wear your ___!",
+   "item": "sunglasses",
+   "options": [
+    "dry",
+    "sunglasses",
+    "thunder"
+   ],
+   "answer": "sunglasses"
+  },
+  {
+   "id": "L2U03-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's play ___!",
+   "item": "outside",
+   "options": [
+    "wind",
+    "rainy",
+    "outside"
+   ],
+   "answer": "outside"
+  },
+  {
+   "id": "L2U03-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's rainy. Let's play ___.",
+   "item": "inside",
+   "options": [
+    "inside",
+    "gloves",
+    "windy"
+   ],
+   "answer": "inside"
+  },
+  {
+   "id": "L2U03-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rain ___ on the roof.",
+   "item": "fall",
+   "options": [
+    "sunnys",
+    "falls",
+    "ices"
+   ],
+   "answer": "falls"
+  },
+  {
+   "id": "L2U03-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's sunny today.",
+   "item": "sunny",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's rainy. Take an umbrella.",
+   "item": "cloudy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's cloudy and cold.",
+   "item": "cloudy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's windy. Let's fly a kite!",
+   "item": "snowy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's snowy in the mountains.",
+   "item": "snowy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The snow is white.",
+   "item": "wind",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The wind is strong.",
+   "item": "wind",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Stay inside. There's a storm.",
+   "item": "rainbow",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Look! A rainbow!",
+   "item": "rainbow",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The ice is very cold.",
+   "item": "thunder",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I don't like thunder.",
+   "item": "thunder",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Lightning is very bright.",
+   "item": "wet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My shoes are wet.",
+   "item": "wet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Flowers grow in spring.",
+   "item": "summer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q153",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I swim in the summer.",
+   "item": "summer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q154",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Leaves fall in autumn.",
+   "item": "winter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q155",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's cold in winter.",
+   "item": "winter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q156",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put on your coat.",
+   "item": "gloves",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q157",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I wear gloves in winter.",
+   "item": "gloves",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q158",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's sunny. Wear your sunglasses!",
+   "item": "inside",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U03-Q159",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's rainy. Let's play inside.",
+   "item": "inside",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U03-Q160",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U03-R01",
+   "text_en": "What colour is the kite?",
+   "options": [
+    "Blue.",
+    "Red.",
+    "Yellow."
+   ],
+   "answer": "Red."
+  },
+  {
+   "id": "L2U03-Q161",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U03-R01",
+   "text_en": "Why do Mai and Nam run home?",
+   "options": [
+    "It is night.",
+    "It starts to rain.",
+    "They are hungry."
+   ],
+   "answer": "It starts to rain."
+  },
+  {
+   "id": "L2U03-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "weather",
+   "item": "weather",
+   "answer": "weather"
+  },
+  {
+   "id": "L2U03-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sunny",
+   "item": "sunny",
+   "answer": "sunny"
+  },
+  {
+   "id": "L2U03-Q164",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "rainy",
+   "item": "rainy",
+   "answer": "rainy"
+  },
+  {
+   "id": "L2U03-Q165",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cloudy",
+   "item": "cloudy",
+   "answer": "cloudy"
+  },
+  {
+   "id": "L2U03-Q166",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "windy",
+   "item": "windy",
+   "answer": "windy"
+  },
+  {
+   "id": "L2U03-Q167",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "snowy",
+   "item": "snowy",
+   "answer": "snowy"
+  },
+  {
+   "id": "L2U03-Q168",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "snow",
+   "item": "snow",
+   "answer": "snow"
+  },
+  {
+   "id": "L2U03-Q169",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wind",
+   "item": "wind",
+   "answer": "wind"
+  },
+  {
+   "id": "L2U03-Q170",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's the weather like?",
+   "answer": "What's the weather like?"
+  },
+  {
+   "id": "L2U03-Q171",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "It's sunny today.",
+   "answer": "It's sunny today."
+  },
+  {
+   "id": "L2U03-Q172",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "It's rainy. Take an umbrella.",
+   "answer": "It's rainy. Take an umbrella."
+  }
+ ]
+}

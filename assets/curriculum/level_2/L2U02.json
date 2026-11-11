@@ -1,0 +1,2456 @@
+{
+ "id": "L2U02",
+ "level": 2,
+ "unit": 2,
+ "topic_en": "Days and dates",
+ "topic_vi": "Ngày và tháng",
+ "can_do_vi": [
+  "Nói được các ngày trong tuần",
+  "Kể về ngày sinh nhật"
+ ],
+ "items": [
+  {
+   "id": "L2U02-W01",
+   "type": "word",
+   "en": "Monday",
+   "vi": "thứ Hai",
+   "ipa": "/ˈmʌnˌdeɪ/",
+   "syllables": [
+    "Mon",
+    "day"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "31-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "I go to school on Monday.",
+   "example_vi": "Tớ đi học vào thứ Hai.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W02",
+   "type": "word",
+   "en": "Tuesday",
+   "vi": "thứ Ba",
+   "ipa": "/ˈtuzˌdeɪ/",
+   "syllables": [
+    "Tues",
+    "day"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "32-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "We have music on Tuesday.",
+   "example_vi": "Thứ Ba bọn tớ có giờ âm nhạc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W03",
+   "type": "word",
+   "en": "Wednesday",
+   "vi": "thứ Tư",
+   "ipa": "/ˈwɛnzˌdeɪ/",
+   "syllables": [
+    "Wednes",
+    "day"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "33-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "I swim on Wednesday.",
+   "example_vi": "Tớ bơi vào thứ Tư.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W04",
+   "type": "word",
+   "en": "Thursday",
+   "vi": "thứ Năm",
+   "ipa": "/ˈθʌrzˌdeɪ/",
+   "syllables": [
+    "Thurs",
+    "day"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "34-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "Thursday is a busy day.",
+   "example_vi": "Thứ Năm là một ngày bận rộn.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W05",
+   "type": "word",
+   "en": "Friday",
+   "vi": "thứ Sáu",
+   "ipa": "/ˈfraɪˌdeɪ/",
+   "syllables": [
+    "Fri",
+    "day"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "35-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "I love Friday!",
+   "example_vi": "Tớ thích thứ Sáu!",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W06",
+   "type": "word",
+   "en": "Saturday",
+   "vi": "thứ Bảy",
+   "ipa": "/ˈsæˌtɪˌdeɪ/",
+   "syllables": [
+    "Sat",
+    "ur",
+    "day"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "36-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "On Saturday I play football.",
+   "example_vi": "Thứ Bảy tớ chơi bóng đá.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W07",
+   "type": "word",
+   "en": "Sunday",
+   "vi": "Chủ nhật",
+   "ipa": "/ˈsʌnˌdi/",
+   "syllables": [
+    "Sun",
+    "day"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "37-FE0F-20E3"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "On Sunday we visit Grandma.",
+   "example_vi": "Chủ nhật nhà tớ thăm bà.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W08",
+   "type": "word",
+   "en": "week",
+   "vi": "tuần",
+   "ipa": "/wik/",
+   "syllables": [
+    "week"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4C6"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "There are seven days in a week.",
+   "example_vi": "Một tuần có bảy ngày.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W09",
+   "type": "word",
+   "en": "weekend",
+   "vi": "cuối tuần",
+   "ipa": "/ˈwiˌkɪnd/",
+   "syllables": [
+    "week",
+    "end"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F3D6-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "I like the weekend.",
+   "example_vi": "Tớ thích cuối tuần.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W10",
+   "type": "word",
+   "en": "tomorrow",
+   "vi": "ngày mai",
+   "ipa": "/təˈmɑˌroʊ/",
+   "syllables": [
+    "to",
+    "mor",
+    "row"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F51C"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "See you tomorrow!",
+   "example_vi": "Hẹn gặp cậu ngày mai!",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W11",
+   "type": "word",
+   "en": "yesterday",
+   "vi": "hôm qua",
+   "ipa": "/ˈjɛstərˌdeɪ/",
+   "syllables": [
+    "yes",
+    "ter",
+    "day"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F519"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "Yesterday was Sunday.",
+   "example_vi": "Hôm qua là Chủ nhật.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W12",
+   "type": "word",
+   "en": "month",
+   "vi": "tháng",
+   "ipa": "/mʌnθ/",
+   "syllables": [
+    "month"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "My birthday is this month.",
+   "example_vi": "Sinh nhật tớ vào tháng này.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W13",
+   "type": "word",
+   "en": "year",
+   "vi": "năm",
+   "ipa": "/jɪr/",
+   "syllables": [
+    "year"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F386"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "I am seven this year.",
+   "example_vi": "Năm nay tớ bảy tuổi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W14",
+   "type": "word",
+   "en": "birthday",
+   "vi": "sinh nhật",
+   "ipa": "/ˈbʌrθˌdeɪ/",
+   "syllables": [
+    "birth",
+    "day"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F382"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Happy birthday!",
+   "example_vi": "Chúc mừng sinh nhật!",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W15",
+   "type": "word",
+   "en": "calendar",
+   "vi": "lịch",
+   "ipa": "/ˈkæləndər/",
+   "syllables": [
+    "cal",
+    "en",
+    "dar"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Look at the calendar.",
+   "example_vi": "Nhìn vào tờ lịch nhé.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W16",
+   "type": "word",
+   "en": "first",
+   "vi": "thứ nhất",
+   "ipa": "/fʌrst/",
+   "syllables": [
+    "first"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F947"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Monday is the first day.",
+   "example_vi": "Thứ Hai là ngày đầu tiên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W17",
+   "type": "word",
+   "en": "second",
+   "vi": "thứ hai",
+   "ipa": "/ˈsɛkənd/",
+   "syllables": [
+    "sec",
+    "ond"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F948"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Tuesday is the second day.",
+   "example_vi": "Thứ Ba là ngày thứ hai.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W18",
+   "type": "word",
+   "en": "third",
+   "vi": "thứ ba",
+   "ipa": "/θʌrd/",
+   "syllables": [
+    "third"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F949"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "I am third in the line.",
+   "example_vi": "Tớ đứng thứ ba trong hàng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W19",
+   "type": "word",
+   "en": "next",
+   "vi": "tiếp theo, sau",
+   "ipa": "/nɛkst/",
+   "syllables": [
+    "next"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "23E9"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "See you next week!",
+   "example_vi": "Hẹn gặp cậu tuần sau!",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W20",
+   "type": "word",
+   "en": "last",
+   "vi": "cuối, trước",
+   "ipa": "/læst/",
+   "syllables": [
+    "last"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F51A"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "Sunday is the last day of the week.",
+   "example_vi": "Chủ nhật là ngày cuối của tuần.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W21",
+   "type": "word",
+   "en": "party",
+   "vi": "bữa tiệc",
+   "ipa": "/ˈpɑrti/",
+   "syllables": [
+    "par",
+    "ty"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F973"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Come to my party!",
+   "example_vi": "Đến dự tiệc của tớ nhé!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W22",
+   "type": "word",
+   "en": "present",
+   "vi": "món quà",
+   "ipa": "/ˈprɛzənt/",
+   "syllables": [
+    "present"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "This present is for you.",
+   "example_vi": "Món quà này tặng cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W23",
+   "type": "word",
+   "en": "candle",
+   "vi": "cây nến",
+   "ipa": "/ˈkændəl/",
+   "syllables": [
+    "can",
+    "dle"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F56F-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "There are seven candles on the cake.",
+   "example_vi": "Có bảy cây nến trên bánh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W24",
+   "type": "word",
+   "en": "card",
+   "vi": "tấm thiệp",
+   "ipa": "/kɑrd/",
+   "syllables": [
+    "card"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F48C"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "I make a card for my mum.",
+   "example_vi": "Tớ làm thiệp tặng mẹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W25",
+   "type": "word",
+   "en": "invite",
+   "vi": "mời",
+   "ipa": "/ˌɪnˈvaɪt/",
+   "syllables": [
+    "in",
+    "vite"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2709-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "I invite my friends.",
+   "example_vi": "Tớ mời các bạn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W26",
+   "type": "word",
+   "en": "guest",
+   "vi": "khách",
+   "ipa": "/ɡɛst/",
+   "syllables": [
+    "guest"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "The guests are here!",
+   "example_vi": "Khách đến rồi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W27",
+   "type": "word",
+   "en": "wish",
+   "vi": "điều ước",
+   "ipa": "/wɪʃ/",
+   "syllables": [
+    "wish"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F320"
+   },
+   "picturable": true,
+   "cat": "L2U02",
+   "example_en": "Make a wish!",
+   "example_vi": "Ước một điều đi!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U02-W28",
+   "type": "word",
+   "en": "date",
+   "vi": "ngày (trong tháng)",
+   "ipa": "/deɪt/",
+   "syllables": [
+    "date"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L2U02",
+   "example_en": "What's the date today?",
+   "example_vi": "Hôm nay là ngày bao nhiêu?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U02-P01",
+   "en": "Today is {x}.",
+   "vi": "Hôm nay là {x}.",
+   "slots": {
+    "x": [
+     "Monday",
+     "Tuesday",
+     "Friday",
+     "Sunday"
+    ]
+   }
+  },
+  {
+   "id": "L2U02-P02",
+   "en": "I {x} on Saturday.",
+   "vi": "Tớ {x} vào thứ Bảy.",
+   "slots": {
+    "x": [
+     "play football",
+     "visit Grandma",
+     "go to the park"
+    ]
+   }
+  },
+  {
+   "id": "L2U02-P03",
+   "en": "My birthday is in {x}.",
+   "vi": "Sinh nhật tớ vào {x}.",
+   "slots": {
+    "x": [
+     "the summer",
+     "this month",
+     "the winter"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U02-D01",
+   "title_vi": "Hôm nay thứ mấy?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What day is it today?",
+     "vi": "Hôm nay là thứ mấy?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's Friday!",
+     "vi": "Thứ Sáu!"
+    },
+    {
+     "role": "Bi",
+     "en": "Yay! Tomorrow is Saturday.",
+     "vi": "Tuyệt! Mai là thứ Bảy."
+    },
+    {
+     "role": "Kid",
+     "en": "I love the weekend!",
+     "vi": "Tớ thích cuối tuần!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "Friday",
+    "options": [
+     "Monday",
+     "Sunday"
+    ]
+   }
+  },
+  {
+   "id": "L2U02-D02",
+   "title_vi": "Tiệc sinh nhật",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Happy birthday! This present is for you.",
+     "vi": "Chúc mừng sinh nhật! Quà này tặng cậu."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, Bi! Can I open it?",
+     "vi": "Cảm ơn Bi! Tớ mở được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure!",
+     "vi": "Được chứ!"
+    },
+    {
+     "role": "Kid",
+     "en": "Wow, a robot! I love it!",
+     "vi": "Ồ, một con rô-bốt! Tớ thích lắm!"
+    },
+    {
+     "role": "Bi",
+     "en": "Make a wish!",
+     "vi": "Ước một điều đi!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "present",
+    "options": [
+     "card",
+     "cake"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "Monday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Tuesday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Wednesday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Thursday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Friday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Saturday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "Sunday"
+  },
+  {
+   "type": "dictate_word",
+   "target": "week"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I go to school on Monday."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We have music on Tuesday."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I swim on Wednesday."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U02-R01",
+   "title_en": "Tom's week",
+   "text_en": [
+    "Tom is very busy.",
+    "On Monday he has a music lesson.",
+    "On Wednesday he swims.",
+    "On Friday he plays football with his friends.",
+    "On Saturday he visits his grandma.",
+    "On Sunday he sleeps late!"
+   ],
+   "questions": [
+    {
+     "q": "What does Tom do on Wednesday?",
+     "options": [
+      "He swims.",
+      "He plays football.",
+      "He visits his grandma."
+     ],
+     "answer": "He swims."
+    },
+    {
+     "q": "When does Tom sleep late?",
+     "options": [
+      "On Sunday.",
+      "On Monday.",
+      "On Friday."
+     ],
+     "answer": "On Sunday."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U02-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "weekend",
+   "item": "weekend",
+   "options": [
+    "card",
+    "weekend",
+    "third",
+    "second"
+   ],
+   "answer": "weekend"
+  },
+  {
+   "id": "L2U02-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "month",
+   "item": "month",
+   "options": [
+    "month",
+    "party",
+    "card",
+    "birthday"
+   ],
+   "answer": "month"
+  },
+  {
+   "id": "L2U02-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "birthday",
+   "item": "birthday",
+   "options": [
+    "candle",
+    "third",
+    "calendar",
+    "birthday"
+   ],
+   "answer": "birthday"
+  },
+  {
+   "id": "L2U02-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "calendar",
+   "item": "calendar",
+   "options": [
+    "candle",
+    "birthday",
+    "wish",
+    "calendar"
+   ],
+   "answer": "calendar"
+  },
+  {
+   "id": "L2U02-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "first",
+   "item": "first",
+   "options": [
+    "card",
+    "party",
+    "first",
+    "candle"
+   ],
+   "answer": "first"
+  },
+  {
+   "id": "L2U02-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "second",
+   "item": "second",
+   "options": [
+    "calendar",
+    "present",
+    "second",
+    "card"
+   ],
+   "answer": "second"
+  },
+  {
+   "id": "L2U02-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "third",
+   "item": "third",
+   "options": [
+    "third",
+    "first",
+    "weekend",
+    "candle"
+   ],
+   "answer": "third"
+  },
+  {
+   "id": "L2U02-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "party",
+   "item": "party",
+   "options": [
+    "third",
+    "month",
+    "present",
+    "party"
+   ],
+   "answer": "party"
+  },
+  {
+   "id": "L2U02-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "present",
+   "item": "present",
+   "options": [
+    "second",
+    "first",
+    "card",
+    "present"
+   ],
+   "answer": "present"
+  },
+  {
+   "id": "L2U02-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "candle",
+   "item": "candle",
+   "options": [
+    "weekend",
+    "candle",
+    "third",
+    "first"
+   ],
+   "answer": "candle"
+  },
+  {
+   "id": "L2U02-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "card",
+   "item": "card",
+   "options": [
+    "month",
+    "second",
+    "card",
+    "candle"
+   ],
+   "answer": "card"
+  },
+  {
+   "id": "L2U02-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wish",
+   "item": "wish",
+   "options": [
+    "candle",
+    "card",
+    "wish",
+    "birthday"
+   ],
+   "answer": "wish"
+  },
+  {
+   "id": "L2U02-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Monday",
+   "item": "Monday",
+   "options": [
+    "Sunday",
+    "invite",
+    "Monday",
+    "present"
+   ],
+   "answer": "Monday"
+  },
+  {
+   "id": "L2U02-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Tuesday",
+   "item": "Tuesday",
+   "options": [
+    "birthday",
+    "present",
+    "invite",
+    "Tuesday"
+   ],
+   "answer": "Tuesday"
+  },
+  {
+   "id": "L2U02-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Wednesday",
+   "item": "Wednesday",
+   "options": [
+    "wish",
+    "year",
+    "party",
+    "Wednesday"
+   ],
+   "answer": "Wednesday"
+  },
+  {
+   "id": "L2U02-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Thursday",
+   "item": "Thursday",
+   "options": [
+    "year",
+    "invite",
+    "Thursday",
+    "Sunday"
+   ],
+   "answer": "Thursday"
+  },
+  {
+   "id": "L2U02-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Friday",
+   "item": "Friday",
+   "options": [
+    "Tuesday",
+    "card",
+    "Friday",
+    "weekend"
+   ],
+   "answer": "Friday"
+  },
+  {
+   "id": "L2U02-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Saturday",
+   "item": "Saturday",
+   "options": [
+    "Saturday",
+    "calendar",
+    "second",
+    "week"
+   ],
+   "answer": "Saturday"
+  },
+  {
+   "id": "L2U02-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "Sunday",
+   "item": "Sunday",
+   "options": [
+    "Sunday",
+    "guest",
+    "party",
+    "date"
+   ],
+   "answer": "Sunday"
+  },
+  {
+   "id": "L2U02-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "week",
+   "item": "week",
+   "options": [
+    "last",
+    "week",
+    "Thursday",
+    "Wednesday"
+   ],
+   "answer": "week"
+  },
+  {
+   "id": "L2U02-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tomorrow",
+   "item": "tomorrow",
+   "options": [
+    "Tuesday",
+    "tomorrow",
+    "first",
+    "date"
+   ],
+   "answer": "tomorrow"
+  },
+  {
+   "id": "L2U02-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "yesterday",
+   "item": "yesterday",
+   "options": [
+    "Tuesday",
+    "yesterday",
+    "tomorrow",
+    "year"
+   ],
+   "answer": "yesterday"
+  },
+  {
+   "id": "L2U02-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "year",
+   "item": "year",
+   "options": [
+    "month",
+    "party",
+    "week",
+    "year"
+   ],
+   "answer": "year"
+  },
+  {
+   "id": "L2U02-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "next",
+   "item": "next",
+   "options": [
+    "card",
+    "next",
+    "birthday",
+    "date"
+   ],
+   "answer": "next"
+  },
+  {
+   "id": "L2U02-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "last",
+   "item": "last",
+   "options": [
+    "last",
+    "second",
+    "party",
+    "card"
+   ],
+   "answer": "last"
+  },
+  {
+   "id": "L2U02-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "invite",
+   "item": "invite",
+   "options": [
+    "calendar",
+    "invite",
+    "candle",
+    "yesterday"
+   ],
+   "answer": "invite"
+  },
+  {
+   "id": "L2U02-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "guest",
+   "item": "guest",
+   "options": [
+    "week",
+    "invite",
+    "guest",
+    "Saturday"
+   ],
+   "answer": "guest"
+  },
+  {
+   "id": "L2U02-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "date",
+   "item": "date",
+   "options": [
+    "date",
+    "Friday",
+    "Saturday",
+    "candle"
+   ],
+   "answer": "date"
+  },
+  {
+   "id": "L2U02-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "weekend",
+   "answer": "weekend"
+  },
+  {
+   "id": "L2U02-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "month",
+   "answer": "month"
+  },
+  {
+   "id": "L2U02-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "birthday",
+   "answer": "birthday"
+  },
+  {
+   "id": "L2U02-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "calendar",
+   "answer": "calendar"
+  },
+  {
+   "id": "L2U02-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "first",
+   "answer": "first"
+  },
+  {
+   "id": "L2U02-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "second",
+   "answer": "second"
+  },
+  {
+   "id": "L2U02-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "third",
+   "answer": "third"
+  },
+  {
+   "id": "L2U02-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "party",
+   "answer": "party"
+  },
+  {
+   "id": "L2U02-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "present",
+   "answer": "present"
+  },
+  {
+   "id": "L2U02-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "candle",
+   "answer": "candle"
+  },
+  {
+   "id": "L2U02-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "card",
+   "answer": "card"
+  },
+  {
+   "id": "L2U02-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wish",
+   "answer": "wish"
+  },
+  {
+   "id": "L2U02-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to school on Monday.",
+   "item": "Monday",
+   "answer": "I go to school on Monday."
+  },
+  {
+   "id": "L2U02-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have music on Tuesday.",
+   "item": "Tuesday",
+   "answer": "We have music on Tuesday."
+  },
+  {
+   "id": "L2U02-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I swim on Wednesday.",
+   "item": "Wednesday",
+   "answer": "I swim on Wednesday."
+  },
+  {
+   "id": "L2U02-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thursday is a busy day.",
+   "item": "Thursday",
+   "answer": "Thursday is a busy day."
+  },
+  {
+   "id": "L2U02-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love Friday!",
+   "item": "Friday",
+   "answer": "I love Friday!"
+  },
+  {
+   "id": "L2U02-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "On Saturday I play football.",
+   "item": "Saturday",
+   "answer": "On Saturday I play football."
+  },
+  {
+   "id": "L2U02-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "On Sunday we visit Grandma.",
+   "item": "Sunday",
+   "answer": "On Sunday we visit Grandma."
+  },
+  {
+   "id": "L2U02-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are seven days in a week.",
+   "item": "week",
+   "answer": "There are seven days in a week."
+  },
+  {
+   "id": "L2U02-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the weekend.",
+   "item": "weekend",
+   "answer": "I like the weekend."
+  },
+  {
+   "id": "L2U02-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "See you tomorrow!",
+   "item": "tomorrow",
+   "answer": "See you tomorrow!"
+  },
+  {
+   "id": "L2U02-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yesterday was Sunday.",
+   "item": "yesterday",
+   "answer": "Yesterday was Sunday."
+  },
+  {
+   "id": "L2U02-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My birthday is this month.",
+   "item": "month",
+   "answer": "My birthday is this month."
+  },
+  {
+   "id": "L2U02-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I am seven this year.",
+   "item": "year",
+   "answer": "I am seven this year."
+  },
+  {
+   "id": "L2U02-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Happy birthday!",
+   "item": "birthday",
+   "answer": "Happy birthday!"
+  },
+  {
+   "id": "L2U02-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at the calendar.",
+   "item": "calendar",
+   "answer": "Look at the calendar."
+  },
+  {
+   "id": "L2U02-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Monday is the first day.",
+   "item": "first",
+   "answer": "Monday is the first day."
+  },
+  {
+   "id": "L2U02-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tuesday is the second day.",
+   "item": "second",
+   "answer": "Tuesday is the second day."
+  },
+  {
+   "id": "L2U02-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I am third in the line.",
+   "item": "third",
+   "answer": "I am third in the line."
+  },
+  {
+   "id": "L2U02-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "See you next week!",
+   "item": "next",
+   "answer": "See you next week!"
+  },
+  {
+   "id": "L2U02-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sunday is the last day of the week.",
+   "item": "last",
+   "answer": "Sunday is the last day of the week."
+  },
+  {
+   "id": "L2U02-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Come to my party!",
+   "item": "party",
+   "answer": "Come to my party!"
+  },
+  {
+   "id": "L2U02-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This present is for you.",
+   "item": "present",
+   "answer": "This present is for you."
+  },
+  {
+   "id": "L2U02-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are seven candles on the cake.",
+   "item": "candle",
+   "answer": "There are seven candles on the cake."
+  },
+  {
+   "id": "L2U02-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I make a card for my mum.",
+   "item": "card",
+   "answer": "I make a card for my mum."
+  },
+  {
+   "id": "L2U02-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I invite my friends.",
+   "item": "invite",
+   "answer": "I invite my friends."
+  },
+  {
+   "id": "L2U02-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The guests are here!",
+   "item": "guest",
+   "answer": "The guests are here!"
+  },
+  {
+   "id": "L2U02-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Make a wish!",
+   "item": "wish",
+   "answer": "Make a wish!"
+  },
+  {
+   "id": "L2U02-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's the date today?",
+   "item": "date",
+   "answer": "What's the date today?"
+  },
+  {
+   "id": "L2U02-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Today is Monday.",
+   "answer": "Today is Monday."
+  },
+  {
+   "id": "L2U02-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Today is Tuesday.",
+   "answer": "Today is Tuesday."
+  },
+  {
+   "id": "L2U02-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Today is Friday.",
+   "answer": "Today is Friday."
+  },
+  {
+   "id": "L2U02-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play football on Saturday.",
+   "answer": "I play football on Saturday."
+  },
+  {
+   "id": "L2U02-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I visit Grandma on Saturday.",
+   "answer": "I visit Grandma on Saturday."
+  },
+  {
+   "id": "L2U02-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to the park on Saturday.",
+   "answer": "I go to the park on Saturday."
+  },
+  {
+   "id": "L2U02-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My birthday is in the summer.",
+   "answer": "My birthday is in the summer."
+  },
+  {
+   "id": "L2U02-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My birthday is in this month.",
+   "answer": "My birthday is in this month."
+  },
+  {
+   "id": "L2U02-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My birthday is in the winter.",
+   "answer": "My birthday is in the winter."
+  },
+  {
+   "id": "L2U02-Q078",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What day is it today?",
+   "answer": "It's Friday!"
+  },
+  {
+   "id": "L2U02-Q079",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Thank you, Bi! Can I open it?",
+   "answer": "Sure!"
+  },
+  {
+   "id": "L2U02-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "weekend",
+   "options": [
+    "first",
+    "wish",
+    "weekend"
+   ],
+   "answer": "weekend"
+  },
+  {
+   "id": "L2U02-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "month",
+   "options": [
+    "first",
+    "present",
+    "month"
+   ],
+   "answer": "month"
+  },
+  {
+   "id": "L2U02-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "birthday",
+   "options": [
+    "first",
+    "birthday",
+    "party"
+   ],
+   "answer": "birthday"
+  },
+  {
+   "id": "L2U02-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "calendar",
+   "options": [
+    "calendar",
+    "present",
+    "month"
+   ],
+   "answer": "calendar"
+  },
+  {
+   "id": "L2U02-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "first",
+   "options": [
+    "first",
+    "second",
+    "third"
+   ],
+   "answer": "first"
+  },
+  {
+   "id": "L2U02-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "second",
+   "options": [
+    "second",
+    "party",
+    "first"
+   ],
+   "answer": "second"
+  },
+  {
+   "id": "L2U02-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "third",
+   "options": [
+    "month",
+    "third",
+    "weekend"
+   ],
+   "answer": "third"
+  },
+  {
+   "id": "L2U02-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "party",
+   "options": [
+    "month",
+    "party",
+    "card"
+   ],
+   "answer": "party"
+  },
+  {
+   "id": "L2U02-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "present",
+   "options": [
+    "present",
+    "party",
+    "first"
+   ],
+   "answer": "present"
+  },
+  {
+   "id": "L2U02-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "candle",
+   "options": [
+    "candle",
+    "third",
+    "second"
+   ],
+   "answer": "candle"
+  },
+  {
+   "id": "L2U02-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "card",
+   "options": [
+    "month",
+    "card",
+    "party"
+   ],
+   "answer": "card"
+  },
+  {
+   "id": "L2U02-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wish",
+   "options": [
+    "wish",
+    "month",
+    "present"
+   ],
+   "answer": "wish"
+  },
+  {
+   "id": "L2U02-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are seven days in a ___.",
+   "item": "week",
+   "options": [
+    "week",
+    "next",
+    "tomorrow"
+   ],
+   "answer": "week"
+  },
+  {
+   "id": "L2U02-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like the ___.",
+   "item": "weekend",
+   "options": [
+    "weekend",
+    "yesterday",
+    "next"
+   ],
+   "answer": "weekend"
+  },
+  {
+   "id": "L2U02-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "See you ___!",
+   "item": "tomorrow",
+   "options": [
+    "tomorrow",
+    "wish",
+    "first"
+   ],
+   "answer": "tomorrow"
+  },
+  {
+   "id": "L2U02-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ was Sunday.",
+   "item": "yesterday",
+   "options": [
+    "Yesterday",
+    "Guest",
+    "Year"
+   ],
+   "answer": "Yesterday"
+  },
+  {
+   "id": "L2U02-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My birthday is this ___.",
+   "item": "month",
+   "options": [
+    "invite",
+    "month",
+    "yesterday"
+   ],
+   "answer": "month"
+  },
+  {
+   "id": "L2U02-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I am seven this ___.",
+   "item": "year",
+   "options": [
+    "third",
+    "birthday",
+    "year"
+   ],
+   "answer": "year"
+  },
+  {
+   "id": "L2U02-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Happy ___!",
+   "item": "birthday",
+   "options": [
+    "invite",
+    "third",
+    "birthday"
+   ],
+   "answer": "birthday"
+  },
+  {
+   "id": "L2U02-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look at the ___.",
+   "item": "calendar",
+   "options": [
+    "third",
+    "calendar",
+    "birthday"
+   ],
+   "answer": "calendar"
+  },
+  {
+   "id": "L2U02-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Monday is the ___ day.",
+   "item": "first",
+   "options": [
+    "first",
+    "next",
+    "tomorrow"
+   ],
+   "answer": "first"
+  },
+  {
+   "id": "L2U02-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Tuesday is the ___ day.",
+   "item": "second",
+   "options": [
+    "second",
+    "next",
+    "yesterday"
+   ],
+   "answer": "second"
+  },
+  {
+   "id": "L2U02-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I am ___ in the line.",
+   "item": "third",
+   "options": [
+    "third",
+    "weekend",
+    "date"
+   ],
+   "answer": "third"
+  },
+  {
+   "id": "L2U02-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "See you ___ week!",
+   "item": "next",
+   "options": [
+    "next",
+    "candle",
+    "card"
+   ],
+   "answer": "next"
+  },
+  {
+   "id": "L2U02-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sunday is the ___ day of the week.",
+   "item": "last",
+   "options": [
+    "tomorrow",
+    "last",
+    "next"
+   ],
+   "answer": "last"
+  },
+  {
+   "id": "L2U02-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Come to my ___!",
+   "item": "party",
+   "options": [
+    "candle",
+    "party",
+    "third"
+   ],
+   "answer": "party"
+  },
+  {
+   "id": "L2U02-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ is for you.",
+   "item": "present",
+   "options": [
+    "tomorrow",
+    "third",
+    "present"
+   ],
+   "answer": "present"
+  },
+  {
+   "id": "L2U02-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are seven ___ on the cake.",
+   "item": "candle",
+   "options": [
+    "cards",
+    "candles",
+    "wishes"
+   ],
+   "answer": "candles"
+  },
+  {
+   "id": "L2U02-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I make a ___ for my mum.",
+   "item": "card",
+   "options": [
+    "card",
+    "yesterday",
+    "tomorrow"
+   ],
+   "answer": "card"
+  },
+  {
+   "id": "L2U02-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my friends.",
+   "item": "invite",
+   "options": [
+    "invite",
+    "present",
+    "card"
+   ],
+   "answer": "invite"
+  },
+  {
+   "id": "L2U02-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ are here!",
+   "item": "guest",
+   "options": [
+    "birthdays",
+    "candles",
+    "guests"
+   ],
+   "answer": "guests"
+  },
+  {
+   "id": "L2U02-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Make a ___!",
+   "item": "wish",
+   "options": [
+    "yesterday",
+    "birthday",
+    "wish"
+   ],
+   "answer": "wish"
+  },
+  {
+   "id": "L2U02-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's the ___ today?",
+   "item": "date",
+   "options": [
+    "birthday",
+    "invite",
+    "date"
+   ],
+   "answer": "date"
+  },
+  {
+   "id": "L2U02-Q113",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I like the weekend.",
+   "item": "weekend",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q114",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My birthday is this month.",
+   "item": "birthday",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q115",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Happy birthday!",
+   "item": "birthday",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q116",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Look at the calendar.",
+   "item": "first",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q117",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Monday is the first day.",
+   "item": "first",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q118",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Tuesday is the second day.",
+   "item": "third",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q119",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I am third in the line.",
+   "item": "third",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q120",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Come to my party!",
+   "item": "present",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q121",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "This present is for you.",
+   "item": "present",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q122",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are seven candles on the cake.",
+   "item": "card",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I make a card for my mum.",
+   "item": "card",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U02-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Make a wish!",
+   "item": "weekend",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U02-Q125",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U02-R01",
+   "text_en": "What does Tom do on Wednesday?",
+   "options": [
+    "He visits his grandma.",
+    "He swims.",
+    "He plays football."
+   ],
+   "answer": "He swims."
+  },
+  {
+   "id": "L2U02-Q126",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U02-R01",
+   "text_en": "When does Tom sleep late?",
+   "options": [
+    "On Sunday.",
+    "On Monday.",
+    "On Friday."
+   ],
+   "answer": "On Sunday."
+  },
+  {
+   "id": "L2U02-Q127",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Monday",
+   "item": "Monday",
+   "answer": "Monday"
+  },
+  {
+   "id": "L2U02-Q128",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Tuesday",
+   "item": "Tuesday",
+   "answer": "Tuesday"
+  },
+  {
+   "id": "L2U02-Q129",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Wednesday",
+   "item": "Wednesday",
+   "answer": "Wednesday"
+  },
+  {
+   "id": "L2U02-Q130",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Thursday",
+   "item": "Thursday",
+   "answer": "Thursday"
+  },
+  {
+   "id": "L2U02-Q131",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Friday",
+   "item": "Friday",
+   "answer": "Friday"
+  },
+  {
+   "id": "L2U02-Q132",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Saturday",
+   "item": "Saturday",
+   "answer": "Saturday"
+  },
+  {
+   "id": "L2U02-Q133",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "Sunday",
+   "item": "Sunday",
+   "answer": "Sunday"
+  },
+  {
+   "id": "L2U02-Q134",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "week",
+   "item": "week",
+   "answer": "week"
+  },
+  {
+   "id": "L2U02-Q135",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I go to school on Monday.",
+   "answer": "I go to school on Monday."
+  },
+  {
+   "id": "L2U02-Q136",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We have music on Tuesday.",
+   "answer": "We have music on Tuesday."
+  },
+  {
+   "id": "L2U02-Q137",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I swim on Wednesday.",
+   "answer": "I swim on Wednesday."
+  }
+ ]
+}

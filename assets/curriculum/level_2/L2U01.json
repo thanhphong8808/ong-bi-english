@@ -1,0 +1,2660 @@
+{
+ "id": "L2U01",
+ "level": 2,
+ "unit": 1,
+ "topic_en": "My day",
+ "topic_vi": "Một ngày của bé",
+ "can_do_vi": [
+  "Kể được các việc làm hằng ngày",
+  "Nói giờ đơn giản với \"o'clock\""
+ ],
+ "items": [
+  {
+   "id": "L2U01-W01",
+   "type": "word",
+   "en": "morning",
+   "vi": "buổi sáng",
+   "ipa": "/ˈmɔrnɪŋ/",
+   "syllables": [
+    "morn",
+    "ing"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F305"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I get up in the morning.",
+   "example_vi": "Tớ dậy vào buổi sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W02",
+   "type": "word",
+   "en": "afternoon",
+   "vi": "buổi chiều",
+   "ipa": "/ˌæftərˈnun/",
+   "syllables": [
+    "af",
+    "ter",
+    "noon"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F324-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I play in the afternoon.",
+   "example_vi": "Tớ chơi vào buổi chiều.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W03",
+   "type": "word",
+   "en": "evening",
+   "vi": "buổi tối",
+   "ipa": "/ˈivnɪŋ/",
+   "syllables": [
+    "evening"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F306"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "We have dinner in the evening.",
+   "example_vi": "Nhà tớ ăn tối vào buổi tối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W04",
+   "type": "word",
+   "en": "night",
+   "vi": "ban đêm",
+   "ipa": "/naɪt/",
+   "syllables": [
+    "night"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F303"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "The moon comes out at night.",
+   "example_vi": "Mặt trăng hiện ra vào ban đêm.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W05",
+   "type": "word",
+   "en": "day",
+   "vi": "ngày",
+   "ipa": "/deɪ/",
+   "syllables": [
+    "day"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "It is a happy day.",
+   "example_vi": "Hôm nay là một ngày vui.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W06",
+   "type": "phrase",
+   "en": "wake up",
+   "vi": "thức dậy",
+   "ipa": "/weɪk ʌp/",
+   "syllables": [
+    "wake",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F0"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I wake up at six o'clock.",
+   "example_vi": "Tớ thức dậy lúc sáu giờ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W07",
+   "type": "phrase",
+   "en": "get up",
+   "vi": "ra khỏi giường",
+   "ipa": "/ɡɪt ʌp/",
+   "syllables": [
+    "get",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I get up and wash my face.",
+   "example_vi": "Tớ ra khỏi giường và rửa mặt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W08",
+   "type": "word",
+   "en": "shower",
+   "vi": "tắm vòi sen",
+   "ipa": "/ʃaʊʌr/",
+   "syllables": [
+    "shower"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6BF"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I have a shower in the morning.",
+   "example_vi": "Tớ tắm vòi sen vào buổi sáng.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W09",
+   "type": "word",
+   "en": "bath",
+   "vi": "tắm bồn",
+   "ipa": "/bæθ/",
+   "syllables": [
+    "bath"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6C1"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "The baby has a bath.",
+   "example_vi": "Em bé được tắm bồn.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W10",
+   "type": "word",
+   "en": "teeth",
+   "vi": "răng (nhiều cái)",
+   "ipa": "/tiθ/",
+   "syllables": [
+    "teeth"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9B7"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I brush my teeth.",
+   "example_vi": "Tớ đánh răng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W11",
+   "type": "word",
+   "en": "towel",
+   "vi": "khăn tắm",
+   "ipa": "/taʊʌl/",
+   "syllables": [
+    "towel"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9FA"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "This is my blue towel.",
+   "example_vi": "Đây là khăn tắm màu xanh của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W12",
+   "type": "word",
+   "en": "soap",
+   "vi": "xà phòng",
+   "ipa": "/soʊp/",
+   "syllables": [
+    "soap"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9FC"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "Wash your hands with soap.",
+   "example_vi": "Rửa tay bằng xà phòng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W13",
+   "type": "word",
+   "en": "comb",
+   "vi": "cái lược",
+   "ipa": "/koʊm/",
+   "syllables": [
+    "comb"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F487"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I comb my hair.",
+   "example_vi": "Tớ chải tóc.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W14",
+   "type": "word",
+   "en": "homework",
+   "vi": "bài tập về nhà",
+   "ipa": "/ˈhoʊmˌwərk/",
+   "syllables": [
+    "home",
+    "work"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I do my homework after school.",
+   "example_vi": "Tớ làm bài tập về nhà sau giờ học.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W15",
+   "type": "word",
+   "en": "watch",
+   "vi": "xem",
+   "ipa": "/wɔtʃ/",
+   "syllables": [
+    "watch"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I watch cartoons.",
+   "example_vi": "Tớ xem phim hoạt hình.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W16",
+   "type": "phrase",
+   "en": "go to bed",
+   "vi": "đi ngủ",
+   "ipa": "/ɡoʊ tɪ bɛd/",
+   "syllables": [
+    "go",
+    "to",
+    "bed"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CC"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "I go to bed at nine o'clock.",
+   "example_vi": "Tớ đi ngủ lúc chín giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W17",
+   "type": "word",
+   "en": "early",
+   "vi": "sớm",
+   "ipa": "/ˈʌrli/",
+   "syllables": [
+    "ear",
+    "ly"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F413"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "My dad gets up early.",
+   "example_vi": "Bố tớ dậy sớm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W18",
+   "type": "word",
+   "en": "late",
+   "vi": "muộn",
+   "ipa": "/leɪt/",
+   "syllables": [
+    "late"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "231B"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "Hurry! We are late!",
+   "example_vi": "Nhanh lên! Mình muộn rồi!",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W19",
+   "type": "word",
+   "en": "every",
+   "vi": "mỗi",
+   "ipa": "/ˈɛvəri/",
+   "syllables": [
+    "every"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I read every day.",
+   "example_vi": "Ngày nào tớ cũng đọc sách.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W20",
+   "type": "word",
+   "en": "always",
+   "vi": "luôn luôn",
+   "ipa": "/ˈɔlˌweɪz/",
+   "syllables": [
+    "al",
+    "ways"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4AF"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I always brush my teeth.",
+   "example_vi": "Tớ luôn đánh răng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W21",
+   "type": "word",
+   "en": "usually",
+   "vi": "thường thường",
+   "ipa": "/ˈjuʒəwəli/",
+   "syllables": [
+    "usually"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I usually walk to school.",
+   "example_vi": "Tớ thường đi bộ đến trường.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W22",
+   "type": "word",
+   "en": "sometimes",
+   "vi": "thỉnh thoảng",
+   "ipa": "/ˈsʌmˌtaɪmz/",
+   "syllables": [
+    "some",
+    "times"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F937"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "Sometimes I go by bus.",
+   "example_vi": "Thỉnh thoảng tớ đi xe buýt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W23",
+   "type": "word",
+   "en": "never",
+   "vi": "không bao giờ",
+   "ipa": "/ˈnɛvər/",
+   "syllables": [
+    "nev",
+    "er"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I never eat in bed.",
+   "example_vi": "Tớ không bao giờ ăn trên giường.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W24",
+   "type": "word",
+   "en": "then",
+   "vi": "sau đó",
+   "ipa": "/ðɛn/",
+   "syllables": [
+    "then"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I get up. Then I have breakfast.",
+   "example_vi": "Tớ dậy. Sau đó tớ ăn sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W25",
+   "type": "word",
+   "en": "after",
+   "vi": "sau khi",
+   "ipa": "/ˈæftər/",
+   "syllables": [
+    "af",
+    "ter"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "23ED-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I play after lunch.",
+   "example_vi": "Tớ chơi sau bữa trưa.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W26",
+   "type": "word",
+   "en": "before",
+   "vi": "trước khi",
+   "ipa": "/ˌbiˈfɔr/",
+   "syllables": [
+    "be",
+    "fore"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "23EE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U01",
+   "example_en": "I wash my hands before dinner.",
+   "example_vi": "Tớ rửa tay trước bữa tối.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W27",
+   "type": "word",
+   "en": "time",
+   "vi": "thời gian, giờ",
+   "ipa": "/taɪm/",
+   "syllables": [
+    "time"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "23F1-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "What time is it?",
+   "example_vi": "Mấy giờ rồi?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U01-W28",
+   "type": "word",
+   "en": "o'clock",
+   "vi": "giờ đúng",
+   "ipa": "/əˈklɑk/",
+   "syllables": [
+    "o'",
+    "clock"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F556"
+   },
+   "picturable": true,
+   "cat": "L2U01",
+   "example_en": "It's seven o'clock.",
+   "example_vi": "Bây giờ là bảy giờ đúng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U01-P01",
+   "en": "I {x} at seven o'clock.",
+   "vi": "Tớ {x} lúc bảy giờ.",
+   "slots": {
+    "x": [
+     "wake up",
+     "get up",
+     "have breakfast",
+     "go to school"
+    ]
+   }
+  },
+  {
+   "id": "L2U01-P02",
+   "en": "I always {x}.",
+   "vi": "Tớ luôn {x}.",
+   "slots": {
+    "x": [
+     "brush my teeth",
+     "wash my hands",
+     "do my homework"
+    ]
+   }
+  },
+  {
+   "id": "L2U01-P03",
+   "en": "What time do you {x}?",
+   "vi": "Cậu {x} lúc mấy giờ?",
+   "slots": {
+    "x": [
+     "get up",
+     "go to bed",
+     "have dinner"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U01-D01",
+   "title_vi": "Buổi sáng của tớ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What time do you get up?",
+     "vi": "Cậu dậy lúc mấy giờ?"
+    },
+    {
+     "role": "Kid",
+     "en": "I get up at six o'clock.",
+     "vi": "Tớ dậy lúc sáu giờ."
+    },
+    {
+     "role": "Bi",
+     "en": "Wow, early! What do you do then?",
+     "vi": "Ồ, sớm thế! Sau đó cậu làm gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I have a shower.",
+     "vi": "Tớ tắm vòi sen."
+    },
+    {
+     "role": "Bi",
+     "en": "And then?",
+     "vi": "Rồi sao nữa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Then I have breakfast.",
+     "vi": "Sau đó tớ ăn sáng."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "shower",
+    "options": [
+     "bath",
+     "breakfast"
+    ]
+   }
+  },
+  {
+   "id": "L2U01-D02",
+   "title_vi": "Muộn rồi!",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "Wake up! It's seven o'clock!",
+     "vi": "Dậy đi con! Bảy giờ rồi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Oh no! I'm late!",
+     "vi": "Ôi không! Con muộn rồi!"
+    },
+    {
+     "role": "Mum",
+     "en": "Brush your teeth, please.",
+     "vi": "Con đánh răng đi."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay, Mum. Where's my bag?",
+     "vi": "Vâng mẹ. Cặp của con đâu ạ?"
+    },
+    {
+     "role": "Mum",
+     "en": "It's on the chair. Hurry!",
+     "vi": "Trên ghế đấy. Nhanh lên!"
+    }
+   ]
+  },
+  {
+   "id": "L2U01-D03",
+   "title_vi": "Buổi tối",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What do you do in the evening?",
+     "vi": "Cậu làm gì vào buổi tối?"
+    },
+    {
+     "role": "Kid",
+     "en": "I do my homework.",
+     "vi": "Tớ làm bài tập về nhà."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you watch TV?",
+     "vi": "Cậu có xem ti vi không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Sometimes. I like cartoons.",
+     "vi": "Thỉnh thoảng. Tớ thích phim hoạt hình."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "cartoons",
+    "options": [
+     "games",
+     "puzzles"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "morning"
+  },
+  {
+   "type": "dictate_word",
+   "target": "afternoon"
+  },
+  {
+   "type": "dictate_word",
+   "target": "evening"
+  },
+  {
+   "type": "dictate_word",
+   "target": "night"
+  },
+  {
+   "type": "dictate_word",
+   "target": "day"
+  },
+  {
+   "type": "dictate_word",
+   "target": "shower"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bath"
+  },
+  {
+   "type": "dictate_word",
+   "target": "teeth"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I get up in the morning."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I play in the afternoon."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We have dinner in the evening."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U01-R01",
+   "title_en": "Lan's day",
+   "text_en": [
+    "Lan wakes up at six o'clock.",
+    "She has a shower and brushes her teeth.",
+    "Then she has breakfast with her mum.",
+    "She goes to school at seven o'clock.",
+    "In the evening, she does her homework.",
+    "She goes to bed at nine o'clock."
+   ],
+   "questions": [
+    {
+     "q": "What time does Lan wake up?",
+     "options": [
+      "At six o'clock.",
+      "At seven o'clock.",
+      "At nine o'clock."
+     ],
+     "answer": "At six o'clock."
+    },
+    {
+     "q": "What does Lan do in the evening?",
+     "options": [
+      "She does her homework.",
+      "She goes to school.",
+      "She has a shower."
+     ],
+     "answer": "She does her homework."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U01-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "morning",
+   "item": "morning",
+   "options": [
+    "homework",
+    "night",
+    "morning",
+    "time"
+   ],
+   "answer": "morning"
+  },
+  {
+   "id": "L2U01-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "evening",
+   "item": "evening",
+   "options": [
+    "morning",
+    "bath",
+    "homework",
+    "evening"
+   ],
+   "answer": "evening"
+  },
+  {
+   "id": "L2U01-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "night",
+   "item": "night",
+   "options": [
+    "morning",
+    "time",
+    "night",
+    "watch"
+   ],
+   "answer": "night"
+  },
+  {
+   "id": "L2U01-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wake up",
+   "item": "wake up",
+   "options": [
+    "evening",
+    "soap",
+    "wake up",
+    "time"
+   ],
+   "answer": "wake up"
+  },
+  {
+   "id": "L2U01-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "get up",
+   "item": "get up",
+   "options": [
+    "morning",
+    "get up",
+    "early",
+    "shower"
+   ],
+   "answer": "get up"
+  },
+  {
+   "id": "L2U01-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shower",
+   "item": "shower",
+   "options": [
+    "shower",
+    "homework",
+    "morning",
+    "watch"
+   ],
+   "answer": "shower"
+  },
+  {
+   "id": "L2U01-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bath",
+   "item": "bath",
+   "options": [
+    "morning",
+    "bath",
+    "early",
+    "evening"
+   ],
+   "answer": "bath"
+  },
+  {
+   "id": "L2U01-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "teeth",
+   "item": "teeth",
+   "options": [
+    "soap",
+    "teeth",
+    "morning",
+    "watch"
+   ],
+   "answer": "teeth"
+  },
+  {
+   "id": "L2U01-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "soap",
+   "item": "soap",
+   "options": [
+    "bath",
+    "early",
+    "soap",
+    "teeth"
+   ],
+   "answer": "soap"
+  },
+  {
+   "id": "L2U01-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "homework",
+   "item": "homework",
+   "options": [
+    "homework",
+    "time",
+    "teeth",
+    "go to bed"
+   ],
+   "answer": "homework"
+  },
+  {
+   "id": "L2U01-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "watch",
+   "item": "watch",
+   "options": [
+    "get up",
+    "watch",
+    "bath",
+    "time"
+   ],
+   "answer": "watch"
+  },
+  {
+   "id": "L2U01-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "go to bed",
+   "item": "go to bed",
+   "options": [
+    "get up",
+    "early",
+    "go to bed",
+    "bath"
+   ],
+   "answer": "go to bed"
+  },
+  {
+   "id": "L2U01-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "early",
+   "item": "early",
+   "options": [
+    "get up",
+    "early",
+    "o'clock",
+    "teeth"
+   ],
+   "answer": "early"
+  },
+  {
+   "id": "L2U01-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "time",
+   "item": "time",
+   "options": [
+    "soap",
+    "o'clock",
+    "time",
+    "homework"
+   ],
+   "answer": "time"
+  },
+  {
+   "id": "L2U01-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "o'clock",
+   "item": "o'clock",
+   "options": [
+    "teeth",
+    "evening",
+    "o'clock",
+    "night"
+   ],
+   "answer": "o'clock"
+  },
+  {
+   "id": "L2U01-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "afternoon",
+   "item": "afternoon",
+   "options": [
+    "towel",
+    "always",
+    "afternoon",
+    "wake up"
+   ],
+   "answer": "afternoon"
+  },
+  {
+   "id": "L2U01-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "day",
+   "item": "day",
+   "options": [
+    "evening",
+    "day",
+    "usually",
+    "sometimes"
+   ],
+   "answer": "day"
+  },
+  {
+   "id": "L2U01-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "towel",
+   "item": "towel",
+   "options": [
+    "day",
+    "towel",
+    "late",
+    "sometimes"
+   ],
+   "answer": "towel"
+  },
+  {
+   "id": "L2U01-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "comb",
+   "item": "comb",
+   "options": [
+    "day",
+    "comb",
+    "wake up",
+    "shower"
+   ],
+   "answer": "comb"
+  },
+  {
+   "id": "L2U01-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "late",
+   "item": "late",
+   "options": [
+    "late",
+    "every",
+    "after",
+    "comb"
+   ],
+   "answer": "late"
+  },
+  {
+   "id": "L2U01-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "every",
+   "item": "every",
+   "options": [
+    "shower",
+    "always",
+    "every",
+    "teeth"
+   ],
+   "answer": "every"
+  },
+  {
+   "id": "L2U01-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "always",
+   "item": "always",
+   "options": [
+    "o'clock",
+    "wake up",
+    "sometimes",
+    "always"
+   ],
+   "answer": "always"
+  },
+  {
+   "id": "L2U01-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "usually",
+   "item": "usually",
+   "options": [
+    "usually",
+    "bath",
+    "wake up",
+    "after"
+   ],
+   "answer": "usually"
+  },
+  {
+   "id": "L2U01-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sometimes",
+   "item": "sometimes",
+   "options": [
+    "sometimes",
+    "then",
+    "night",
+    "before"
+   ],
+   "answer": "sometimes"
+  },
+  {
+   "id": "L2U01-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "never",
+   "item": "never",
+   "options": [
+    "never",
+    "afternoon",
+    "morning",
+    "before"
+   ],
+   "answer": "never"
+  },
+  {
+   "id": "L2U01-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "then",
+   "item": "then",
+   "options": [
+    "day",
+    "sometimes",
+    "usually",
+    "then"
+   ],
+   "answer": "then"
+  },
+  {
+   "id": "L2U01-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "after",
+   "item": "after",
+   "options": [
+    "then",
+    "morning",
+    "o'clock",
+    "after"
+   ],
+   "answer": "after"
+  },
+  {
+   "id": "L2U01-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "before",
+   "item": "before",
+   "options": [
+    "wake up",
+    "before",
+    "day",
+    "always"
+   ],
+   "answer": "before"
+  },
+  {
+   "id": "L2U01-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "morning",
+   "answer": "morning"
+  },
+  {
+   "id": "L2U01-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "evening",
+   "answer": "evening"
+  },
+  {
+   "id": "L2U01-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "night",
+   "answer": "night"
+  },
+  {
+   "id": "L2U01-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wake up",
+   "answer": "wake up"
+  },
+  {
+   "id": "L2U01-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "get up",
+   "answer": "get up"
+  },
+  {
+   "id": "L2U01-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shower",
+   "answer": "shower"
+  },
+  {
+   "id": "L2U01-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bath",
+   "answer": "bath"
+  },
+  {
+   "id": "L2U01-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "teeth",
+   "answer": "teeth"
+  },
+  {
+   "id": "L2U01-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "soap",
+   "answer": "soap"
+  },
+  {
+   "id": "L2U01-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "homework",
+   "answer": "homework"
+  },
+  {
+   "id": "L2U01-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "watch",
+   "answer": "watch"
+  },
+  {
+   "id": "L2U01-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "go to bed",
+   "answer": "go to bed"
+  },
+  {
+   "id": "L2U01-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "early",
+   "answer": "early"
+  },
+  {
+   "id": "L2U01-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "time",
+   "answer": "time"
+  },
+  {
+   "id": "L2U01-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "o'clock",
+   "answer": "o'clock"
+  },
+  {
+   "id": "L2U01-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I get up in the morning.",
+   "item": "morning",
+   "answer": "I get up in the morning."
+  },
+  {
+   "id": "L2U01-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play in the afternoon.",
+   "item": "afternoon",
+   "answer": "I play in the afternoon."
+  },
+  {
+   "id": "L2U01-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have dinner in the evening.",
+   "item": "evening",
+   "answer": "We have dinner in the evening."
+  },
+  {
+   "id": "L2U01-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The moon comes out at night.",
+   "item": "night",
+   "answer": "The moon comes out at night."
+  },
+  {
+   "id": "L2U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It is a happy day.",
+   "item": "day",
+   "answer": "It is a happy day."
+  },
+  {
+   "id": "L2U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wake up at six o'clock.",
+   "item": "wake up",
+   "answer": "I wake up at six o'clock."
+  },
+  {
+   "id": "L2U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I get up and wash my face.",
+   "item": "get up",
+   "answer": "I get up and wash my face."
+  },
+  {
+   "id": "L2U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a shower in the morning.",
+   "item": "shower",
+   "answer": "I have a shower in the morning."
+  },
+  {
+   "id": "L2U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby has a bath.",
+   "item": "bath",
+   "answer": "The baby has a bath."
+  },
+  {
+   "id": "L2U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I brush my teeth.",
+   "item": "teeth",
+   "answer": "I brush my teeth."
+  },
+  {
+   "id": "L2U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my blue towel.",
+   "item": "towel",
+   "answer": "This is my blue towel."
+  },
+  {
+   "id": "L2U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wash your hands with soap.",
+   "item": "soap",
+   "answer": "Wash your hands with soap."
+  },
+  {
+   "id": "L2U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I comb my hair.",
+   "item": "comb",
+   "answer": "I comb my hair."
+  },
+  {
+   "id": "L2U01-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I do my homework after school.",
+   "item": "homework",
+   "answer": "I do my homework after school."
+  },
+  {
+   "id": "L2U01-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I watch cartoons.",
+   "item": "watch",
+   "answer": "I watch cartoons."
+  },
+  {
+   "id": "L2U01-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to bed at nine o'clock.",
+   "item": "go to bed",
+   "answer": "I go to bed at nine o'clock."
+  },
+  {
+   "id": "L2U01-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad gets up early.",
+   "item": "early",
+   "answer": "My dad gets up early."
+  },
+  {
+   "id": "L2U01-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hurry! We are late!",
+   "item": "late",
+   "answer": "Hurry! We are late!"
+  },
+  {
+   "id": "L2U01-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read every day.",
+   "item": "every",
+   "answer": "I read every day."
+  },
+  {
+   "id": "L2U01-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always brush my teeth.",
+   "item": "always",
+   "answer": "I always brush my teeth."
+  },
+  {
+   "id": "L2U01-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I usually walk to school.",
+   "item": "usually",
+   "answer": "I usually walk to school."
+  },
+  {
+   "id": "L2U01-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sometimes I go by bus.",
+   "item": "sometimes",
+   "answer": "Sometimes I go by bus."
+  },
+  {
+   "id": "L2U01-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I never eat in bed.",
+   "item": "never",
+   "answer": "I never eat in bed."
+  },
+  {
+   "id": "L2U01-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I get up. Then I have breakfast.",
+   "item": "then",
+   "answer": "I get up. Then I have breakfast."
+  },
+  {
+   "id": "L2U01-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play after lunch.",
+   "item": "after",
+   "answer": "I play after lunch."
+  },
+  {
+   "id": "L2U01-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wash my hands before dinner.",
+   "item": "before",
+   "answer": "I wash my hands before dinner."
+  },
+  {
+   "id": "L2U01-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time is it?",
+   "item": "time",
+   "answer": "What time is it?"
+  },
+  {
+   "id": "L2U01-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's seven o'clock.",
+   "item": "o'clock",
+   "answer": "It's seven o'clock."
+  },
+  {
+   "id": "L2U01-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wake up at seven o'clock.",
+   "answer": "I wake up at seven o'clock."
+  },
+  {
+   "id": "L2U01-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I get up at seven o'clock.",
+   "answer": "I get up at seven o'clock."
+  },
+  {
+   "id": "L2U01-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have breakfast at seven o'clock.",
+   "answer": "I have breakfast at seven o'clock."
+  },
+  {
+   "id": "L2U01-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always brush my teeth.",
+   "answer": "I always brush my teeth."
+  },
+  {
+   "id": "L2U01-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always wash my hands.",
+   "answer": "I always wash my hands."
+  },
+  {
+   "id": "L2U01-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I always do my homework.",
+   "answer": "I always do my homework."
+  },
+  {
+   "id": "L2U01-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time do you get up?",
+   "answer": "What time do you get up?"
+  },
+  {
+   "id": "L2U01-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time do you go to bed?",
+   "answer": "What time do you go to bed?"
+  },
+  {
+   "id": "L2U01-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time do you have dinner?",
+   "answer": "What time do you have dinner?"
+  },
+  {
+   "id": "L2U01-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What time do you get up?",
+   "answer": "I get up at six o'clock."
+  },
+  {
+   "id": "L2U01-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Wow, early! What do you do then?",
+   "answer": "I have a shower."
+  },
+  {
+   "id": "L2U01-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "And then?",
+   "answer": "Then I have breakfast."
+  },
+  {
+   "id": "L2U01-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay, Mum. Where's my bag?",
+   "answer": "It's on the chair. Hurry!"
+  },
+  {
+   "id": "L2U01-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do you do in the evening?",
+   "answer": "I do my homework."
+  },
+  {
+   "id": "L2U01-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you watch TV?",
+   "answer": "Sometimes. I like cartoons."
+  },
+  {
+   "id": "L2U01-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "morning",
+   "options": [
+    "bath",
+    "teeth",
+    "morning"
+   ],
+   "answer": "morning"
+  },
+  {
+   "id": "L2U01-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "evening",
+   "options": [
+    "evening",
+    "get up",
+    "soap"
+   ],
+   "answer": "evening"
+  },
+  {
+   "id": "L2U01-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "night",
+   "options": [
+    "get up",
+    "night",
+    "teeth"
+   ],
+   "answer": "night"
+  },
+  {
+   "id": "L2U01-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wake up",
+   "options": [
+    "watch",
+    "morning",
+    "wake up"
+   ],
+   "answer": "wake up"
+  },
+  {
+   "id": "L2U01-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "get up",
+   "options": [
+    "homework",
+    "get up",
+    "evening"
+   ],
+   "answer": "get up"
+  },
+  {
+   "id": "L2U01-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shower",
+   "options": [
+    "shower",
+    "get up",
+    "bath"
+   ],
+   "answer": "shower"
+  },
+  {
+   "id": "L2U01-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bath",
+   "options": [
+    "bath",
+    "o'clock",
+    "watch"
+   ],
+   "answer": "bath"
+  },
+  {
+   "id": "L2U01-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "teeth",
+   "options": [
+    "teeth",
+    "soap",
+    "morning"
+   ],
+   "answer": "teeth"
+  },
+  {
+   "id": "L2U01-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "soap",
+   "options": [
+    "night",
+    "go to bed",
+    "soap"
+   ],
+   "answer": "soap"
+  },
+  {
+   "id": "L2U01-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "homework",
+   "options": [
+    "bath",
+    "evening",
+    "homework"
+   ],
+   "answer": "homework"
+  },
+  {
+   "id": "L2U01-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "watch",
+   "options": [
+    "watch",
+    "morning",
+    "night"
+   ],
+   "answer": "watch"
+  },
+  {
+   "id": "L2U01-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "go to bed",
+   "options": [
+    "time",
+    "go to bed",
+    "teeth"
+   ],
+   "answer": "go to bed"
+  },
+  {
+   "id": "L2U01-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "early",
+   "options": [
+    "early",
+    "homework",
+    "morning"
+   ],
+   "answer": "early"
+  },
+  {
+   "id": "L2U01-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "time",
+   "options": [
+    "time",
+    "wake up",
+    "night"
+   ],
+   "answer": "time"
+  },
+  {
+   "id": "L2U01-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "o'clock",
+   "options": [
+    "o'clock",
+    "soap",
+    "wake up"
+   ],
+   "answer": "o'clock"
+  },
+  {
+   "id": "L2U01-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I get up in the ___.",
+   "item": "morning",
+   "options": [
+    "morning",
+    "comb",
+    "every"
+   ],
+   "answer": "morning"
+  },
+  {
+   "id": "L2U01-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I play in the ___.",
+   "item": "afternoon",
+   "options": [
+    "then",
+    "sometimes",
+    "afternoon"
+   ],
+   "answer": "afternoon"
+  },
+  {
+   "id": "L2U01-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have dinner in the ___.",
+   "item": "evening",
+   "options": [
+    "night",
+    "o'clock",
+    "evening"
+   ],
+   "answer": "evening"
+  },
+  {
+   "id": "L2U01-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The moon comes out at ___.",
+   "item": "night",
+   "options": [
+    "day",
+    "night",
+    "early"
+   ],
+   "answer": "night"
+  },
+  {
+   "id": "L2U01-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It is a happy ___.",
+   "item": "day",
+   "options": [
+    "watch",
+    "day",
+    "o'clock"
+   ],
+   "answer": "day"
+  },
+  {
+   "id": "L2U01-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have a ___ in the morning.",
+   "item": "shower",
+   "options": [
+    "o'clock",
+    "shower",
+    "late"
+   ],
+   "answer": "shower"
+  },
+  {
+   "id": "L2U01-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby has a ___.",
+   "item": "bath",
+   "options": [
+    "bath",
+    "then",
+    "usually"
+   ],
+   "answer": "bath"
+  },
+  {
+   "id": "L2U01-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I brush my ___.",
+   "item": "teeth",
+   "options": [
+    "teeth",
+    "comb",
+    "o'clock"
+   ],
+   "answer": "teeth"
+  },
+  {
+   "id": "L2U01-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is my blue ___.",
+   "item": "towel",
+   "options": [
+    "day",
+    "towel",
+    "teeth"
+   ],
+   "answer": "towel"
+  },
+  {
+   "id": "L2U01-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wash your hands with ___.",
+   "item": "soap",
+   "options": [
+    "soap",
+    "bath",
+    "time"
+   ],
+   "answer": "soap"
+  },
+  {
+   "id": "L2U01-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my hair.",
+   "item": "comb",
+   "options": [
+    "every",
+    "comb",
+    "evening"
+   ],
+   "answer": "comb"
+  },
+  {
+   "id": "L2U01-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I do my ___ after school.",
+   "item": "homework",
+   "options": [
+    "o'clock",
+    "homework",
+    "never"
+   ],
+   "answer": "homework"
+  },
+  {
+   "id": "L2U01-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ cartoons.",
+   "item": "watch",
+   "options": [
+    "early",
+    "watch",
+    "evening"
+   ],
+   "answer": "watch"
+  },
+  {
+   "id": "L2U01-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad gets up ___.",
+   "item": "early",
+   "options": [
+    "early",
+    "time",
+    "comb"
+   ],
+   "answer": "early"
+  },
+  {
+   "id": "L2U01-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hurry! We are ___!",
+   "item": "late",
+   "options": [
+    "bath",
+    "watch",
+    "late"
+   ],
+   "answer": "late"
+  },
+  {
+   "id": "L2U01-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read ___ day.",
+   "item": "every",
+   "options": [
+    "early",
+    "before",
+    "every"
+   ],
+   "answer": "every"
+  },
+  {
+   "id": "L2U01-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ brush my teeth.",
+   "item": "always",
+   "options": [
+    "morning",
+    "o'clock",
+    "always"
+   ],
+   "answer": "always"
+  },
+  {
+   "id": "L2U01-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ walk to school.",
+   "item": "usually",
+   "options": [
+    "before",
+    "teeth",
+    "usually"
+   ],
+   "answer": "usually"
+  },
+  {
+   "id": "L2U01-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ I go by bus.",
+   "item": "sometimes",
+   "options": [
+    "Sometimes",
+    "Night",
+    "Teeth"
+   ],
+   "answer": "Sometimes"
+  },
+  {
+   "id": "L2U01-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ eat in bed.",
+   "item": "never",
+   "options": [
+    "never",
+    "teeth",
+    "day"
+   ],
+   "answer": "never"
+  },
+  {
+   "id": "L2U01-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I get up. ___ I have breakfast.",
+   "item": "then",
+   "options": [
+    "evening",
+    "Then",
+    "after"
+   ],
+   "answer": "Then"
+  },
+  {
+   "id": "L2U01-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I play ___ lunch.",
+   "item": "after",
+   "options": [
+    "teeth",
+    "sometimes",
+    "after"
+   ],
+   "answer": "after"
+  },
+  {
+   "id": "L2U01-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wash my hands ___ dinner.",
+   "item": "before",
+   "options": [
+    "sometimes",
+    "bath",
+    "before"
+   ],
+   "answer": "before"
+  },
+  {
+   "id": "L2U01-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ is it?",
+   "item": "time",
+   "options": [
+    "shower",
+    "comb",
+    "time"
+   ],
+   "answer": "time"
+  },
+  {
+   "id": "L2U01-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's seven ___.",
+   "item": "o'clock",
+   "options": [
+    "o'clock",
+    "afternoon",
+    "before"
+   ],
+   "answer": "o'clock"
+  },
+  {
+   "id": "L2U01-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I get up in the morning.",
+   "item": "morning",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We have dinner in the evening.",
+   "item": "night",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The moon comes out at night.",
+   "item": "night",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I wake up at six o'clock.",
+   "item": "get up",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I get up and wash my face.",
+   "item": "get up",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have a shower in the morning.",
+   "item": "bath",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The baby has a bath.",
+   "item": "bath",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I brush my teeth.",
+   "item": "soap",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Wash your hands with soap.",
+   "item": "soap",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I do my homework after school.",
+   "item": "watch",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I watch cartoons.",
+   "item": "watch",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I go to bed at nine o'clock.",
+   "item": "early",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My dad gets up early.",
+   "item": "early",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What time is it?",
+   "item": "o'clock",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U01-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's seven o'clock.",
+   "item": "o'clock",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U01-Q142",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U01-R01",
+   "text_en": "What time does Lan wake up?",
+   "options": [
+    "At seven o'clock.",
+    "At six o'clock.",
+    "At nine o'clock."
+   ],
+   "answer": "At six o'clock."
+  },
+  {
+   "id": "L2U01-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U01-R01",
+   "text_en": "What does Lan do in the evening?",
+   "options": [
+    "She has a shower.",
+    "She does her homework.",
+    "She goes to school."
+   ],
+   "answer": "She does her homework."
+  },
+  {
+   "id": "L2U01-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "morning",
+   "item": "morning",
+   "answer": "morning"
+  },
+  {
+   "id": "L2U01-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "afternoon",
+   "item": "afternoon",
+   "answer": "afternoon"
+  },
+  {
+   "id": "L2U01-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "evening",
+   "item": "evening",
+   "answer": "evening"
+  },
+  {
+   "id": "L2U01-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "night",
+   "item": "night",
+   "answer": "night"
+  },
+  {
+   "id": "L2U01-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "day",
+   "item": "day",
+   "answer": "day"
+  },
+  {
+   "id": "L2U01-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "shower",
+   "item": "shower",
+   "answer": "shower"
+  },
+  {
+   "id": "L2U01-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bath",
+   "item": "bath",
+   "answer": "bath"
+  },
+  {
+   "id": "L2U01-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "teeth",
+   "item": "teeth",
+   "answer": "teeth"
+  },
+  {
+   "id": "L2U01-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I get up in the morning.",
+   "answer": "I get up in the morning."
+  },
+  {
+   "id": "L2U01-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I play in the afternoon.",
+   "answer": "I play in the afternoon."
+  },
+  {
+   "id": "L2U01-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We have dinner in the evening.",
+   "answer": "We have dinner in the evening."
+  }
+ ]
+}

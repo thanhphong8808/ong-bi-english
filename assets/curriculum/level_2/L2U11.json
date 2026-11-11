@@ -1,0 +1,2650 @@
+{
+ "id": "L2U11",
+ "level": 2,
+ "unit": 11,
+ "topic_en": "At the doctor's",
+ "topic_vi": "Đi khám bệnh",
+ "can_do_vi": [
+  "Nói mình bị đau ở đâu",
+  "Hỏi \"What's the matter?\""
+ ],
+ "items": [
+  {
+   "id": "L2U11-W01",
+   "type": "word",
+   "en": "doctor",
+   "vi": "bác sĩ",
+   "ipa": "/ˈdɔktər/",
+   "syllables": [
+    "doc",
+    "tor"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F9D1-200D-2695-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "The doctor is very kind.",
+   "example_vi": "Bác sĩ rất tốt bụng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W02",
+   "type": "word",
+   "en": "nurse",
+   "vi": "y tá",
+   "ipa": "/nʌrs/",
+   "syllables": [
+    "nurse"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1FA7A"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "The nurse helps the doctor.",
+   "example_vi": "Y tá giúp bác sĩ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W03",
+   "type": "word",
+   "en": "dentist",
+   "vi": "nha sĩ",
+   "ipa": "/ˈdɛntɪst/",
+   "syllables": [
+    "den",
+    "tist"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1FAA5"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "I go to the dentist every year.",
+   "example_vi": "Năm nào tớ cũng đi nha sĩ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W04",
+   "type": "word",
+   "en": "clinic",
+   "vi": "phòng khám",
+   "ipa": "/ˈklɪnɪk/",
+   "syllables": [
+    "clin",
+    "ic"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3E5"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "The clinic is near my house.",
+   "example_vi": "Phòng khám ở gần nhà tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W05",
+   "type": "word",
+   "en": "medicine",
+   "vi": "thuốc",
+   "ipa": "/ˈmɛdəsən/",
+   "syllables": [
+    "medicine"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F48A"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Take your medicine, please.",
+   "example_vi": "Con uống thuốc đi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W06",
+   "type": "word",
+   "en": "headache",
+   "vi": "đau đầu",
+   "ipa": "/ˈhɛˌdeɪk/",
+   "syllables": [
+    "headache"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F915"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "I have a headache.",
+   "example_vi": "Tớ bị đau đầu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W07",
+   "type": "word",
+   "en": "toothache",
+   "vi": "đau răng",
+   "ipa": "/toothache/",
+   "syllables": [
+    "toothache"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9B7"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "I have a toothache.",
+   "example_vi": "Tớ bị đau răng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W08",
+   "type": "phrase",
+   "en": "stomach ache",
+   "vi": "đau bụng",
+   "ipa": "/ˈstʌmək eɪk/",
+   "syllables": [
+    "stom",
+    "ach",
+    "ache"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F922"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "He has a stomach ache.",
+   "example_vi": "Bạn ấy bị đau bụng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W09",
+   "type": "word",
+   "en": "earache",
+   "vi": "đau tai",
+   "ipa": "/earache/",
+   "syllables": [
+    "earache"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "She has an earache.",
+   "example_vi": "Bạn ấy bị đau tai.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W10",
+   "type": "word",
+   "en": "cough",
+   "vi": "ho",
+   "ipa": "/kɔf/",
+   "syllables": [
+    "cough"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F637"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "I have a cough.",
+   "example_vi": "Tớ bị ho.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W11",
+   "type": "word",
+   "en": "sneeze",
+   "vi": "hắt hơi",
+   "ipa": "/sniz/",
+   "syllables": [
+    "sneeze"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F927"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Cover your nose when you sneeze.",
+   "example_vi": "Che mũi khi hắt hơi nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W12",
+   "type": "word",
+   "en": "fever",
+   "vi": "sốt",
+   "ipa": "/ˈfivər/",
+   "syllables": [
+    "fever"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F912"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "The baby has a fever.",
+   "example_vi": "Em bé bị sốt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W13",
+   "type": "phrase",
+   "en": "sore throat",
+   "vi": "đau họng",
+   "ipa": "/sɔr θroʊt/",
+   "syllables": [
+    "sore",
+    "throat"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "I have a sore throat.",
+   "example_vi": "Tớ bị đau họng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W14",
+   "type": "word",
+   "en": "throat",
+   "vi": "cổ họng",
+   "ipa": "/θroʊt/",
+   "syllables": [
+    "throat"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F62E"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "Open your mouth. Let me see your throat.",
+   "example_vi": "Há miệng ra. Để bác xem họng nào.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W15",
+   "type": "word",
+   "en": "temperature",
+   "vi": "nhiệt độ",
+   "ipa": "/ˈtɛmpərətʃər/",
+   "syllables": [
+    "temperature"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F321-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Let's take your temperature.",
+   "example_vi": "Mình đo nhiệt độ nhé.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W16",
+   "type": "word",
+   "en": "thermometer",
+   "vi": "nhiệt kế",
+   "ipa": "/θərˈmɑmətər/",
+   "syllables": [
+    "thermometer"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "The thermometer is in my mouth.",
+   "example_vi": "Cái nhiệt kế ở trong miệng tớ.",
+   "pron_focus": [
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W17",
+   "type": "word",
+   "en": "ill",
+   "vi": "ốm",
+   "ipa": "/ɪl/",
+   "syllables": [
+    "ill"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F6CC"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "I'm ill today.",
+   "example_vi": "Hôm nay tớ bị ốm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W18",
+   "type": "word",
+   "en": "hurt",
+   "vi": "đau",
+   "ipa": "/hʌrt/",
+   "syllables": [
+    "hurt"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1FA79"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "My knee hurts.",
+   "example_vi": "Đầu gối tớ đau.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W19",
+   "type": "word",
+   "en": "matter",
+   "vi": "vấn đề",
+   "ipa": "/ˈmætər/",
+   "syllables": [
+    "mat",
+    "ter"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2754"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "What's the matter?",
+   "example_vi": "Có chuyện gì vậy?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W20",
+   "type": "word",
+   "en": "rest",
+   "vi": "nghỉ ngơi",
+   "ipa": "/rɛst/",
+   "syllables": [
+    "rest"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4A4"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "You need to rest.",
+   "example_vi": "Cháu cần nghỉ ngơi.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W21",
+   "type": "word",
+   "en": "healthy",
+   "vi": "khoẻ mạnh",
+   "ipa": "/ˈhɛlθi/",
+   "syllables": [
+    "healthy"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F966"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Fruit is healthy.",
+   "example_vi": "Hoa quả tốt cho sức khoẻ.",
+   "pron_focus": [
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W22",
+   "type": "word",
+   "en": "exercise",
+   "vi": "tập thể dục",
+   "ipa": "/ˈɛksərˌsaɪz/",
+   "syllables": [
+    "ex",
+    "er",
+    "cise"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F938"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "I exercise every morning.",
+   "example_vi": "Sáng nào tớ cũng tập thể dục.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W23",
+   "type": "word",
+   "en": "plaster",
+   "vi": "băng dán cá nhân",
+   "ipa": "/ˈplæstər/",
+   "syllables": [
+    "plas",
+    "ter"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1FA79"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Put a plaster on your finger.",
+   "example_vi": "Dán băng lên ngón tay nhé.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W24",
+   "type": "word",
+   "en": "ambulance",
+   "vi": "xe cứu thương",
+   "ipa": "/ˈæmbjələns/",
+   "syllables": [
+    "am",
+    "bu",
+    "lance"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F691"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "The ambulance is fast.",
+   "example_vi": "Xe cứu thương chạy nhanh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W25",
+   "type": "word",
+   "en": "tissue",
+   "vi": "khăn giấy",
+   "ipa": "/ˈtɪʃu/",
+   "syllables": [
+    "tis",
+    "sue"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9FB"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Here's a tissue for your nose.",
+   "example_vi": "Khăn giấy lau mũi đây.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W26",
+   "type": "word",
+   "en": "check",
+   "vi": "kiểm tra",
+   "ipa": "/tʃɛk/",
+   "syllables": [
+    "check"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "The doctor checks my eyes.",
+   "example_vi": "Bác sĩ kiểm tra mắt cho tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W27",
+   "type": "word",
+   "en": "chemist",
+   "vi": "hiệu thuốc",
+   "ipa": "/ˈkɛmɪst/",
+   "syllables": [
+    "chemist"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3EA"
+   },
+   "picturable": false,
+   "cat": "L2U11",
+   "example_en": "Mum buys medicine at the chemist.",
+   "example_vi": "Mẹ mua thuốc ở hiệu thuốc.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U11-W28",
+   "type": "word",
+   "en": "cream",
+   "vi": "kem bôi",
+   "ipa": "/krim/",
+   "syllables": [
+    "cream"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9F4"
+   },
+   "picturable": true,
+   "cat": "L2U11",
+   "example_en": "Put some cream on your arm.",
+   "example_vi": "Bôi chút kem lên tay nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U11-P01",
+   "en": "I have a {x}.",
+   "vi": "Tớ bị {x}.",
+   "slots": {
+    "x": [
+     "headache",
+     "toothache",
+     "cough",
+     "fever"
+    ]
+   }
+  },
+  {
+   "id": "L2U11-P02",
+   "en": "My {x} hurts.",
+   "vi": "{x} của tớ bị đau.",
+   "slots": {
+    "x": [
+     "head",
+     "arm",
+     "leg",
+     "tummy"
+    ]
+   }
+  },
+  {
+   "id": "L2U11-P03",
+   "en": "You should {x}.",
+   "vi": "Cháu nên {x}.",
+   "slots": {
+    "x": [
+     "rest",
+     "drink water",
+     "go to bed early"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U11-D01",
+   "title_vi": "Ở phòng khám",
+   "roles": [
+    "Doctor",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Doctor",
+     "en": "Hello. What's the matter?",
+     "vi": "Chào cháu. Cháu bị làm sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "I have a headache.",
+     "vi": "Cháu bị đau đầu ạ."
+    },
+    {
+     "role": "Doctor",
+     "en": "Let's take your temperature.",
+     "vi": "Để bác đo nhiệt độ nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Do I have a fever?",
+     "vi": "Cháu có bị sốt không ạ?"
+    },
+    {
+     "role": "Doctor",
+     "en": "Yes, a little. Take this medicine and rest.",
+     "vi": "Có, hơi sốt. Uống thuốc này và nghỉ ngơi nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, doctor.",
+     "vi": "Cháu cảm ơn bác sĩ."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "headache",
+    "options": [
+     "cough",
+     "fever"
+    ]
+   }
+  },
+  {
+   "id": "L2U11-D02",
+   "title_vi": "Bạn ốm",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "You look tired. Are you okay?",
+     "vi": "Trông cậu mệt. Cậu có sao không?"
+    },
+    {
+     "role": "Kid",
+     "en": "I have a sore throat.",
+     "vi": "Tớ bị đau họng."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh no! Drink some warm water.",
+     "vi": "Ôi không! Uống chút nước ấm đi."
+    },
+    {
+     "role": "Kid",
+     "en": "Thanks, Bi. I feel better.",
+     "vi": "Cảm ơn Bi. Tớ thấy đỡ hơn rồi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "sore throat",
+    "options": [
+     "cough",
+     "headache"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "doctor"
+  },
+  {
+   "type": "dictate_word",
+   "target": "nurse"
+  },
+  {
+   "type": "dictate_word",
+   "target": "dentist"
+  },
+  {
+   "type": "dictate_word",
+   "target": "clinic"
+  },
+  {
+   "type": "dictate_word",
+   "target": "medicine"
+  },
+  {
+   "type": "dictate_word",
+   "target": "headache"
+  },
+  {
+   "type": "dictate_word",
+   "target": "toothache"
+  },
+  {
+   "type": "dictate_word",
+   "target": "earache"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The doctor is very kind."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The nurse helps the doctor."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I go to the dentist every year."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U11-R01",
+   "title_en": "Nam is ill",
+   "text_en": [
+    "Nam has a cough and a fever.",
+    "He can't go to school.",
+    "His mum takes him to the clinic.",
+    "The doctor checks his throat.",
+    "She gives him some medicine.",
+    "Nam stays in bed for two days."
+   ],
+   "questions": [
+    {
+     "q": "What does Nam have?",
+     "options": [
+      "A cough and a fever.",
+      "A toothache.",
+      "A stomach ache."
+     ],
+     "answer": "A cough and a fever."
+    },
+    {
+     "q": "How long does Nam stay in bed?",
+     "options": [
+      "Two days.",
+      "One week.",
+      "Three days."
+     ],
+     "answer": "Two days."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U11-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "doctor",
+   "item": "doctor",
+   "options": [
+    "check",
+    "doctor",
+    "fever",
+    "plaster"
+   ],
+   "answer": "doctor"
+  },
+  {
+   "id": "L2U11-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clinic",
+   "item": "clinic",
+   "options": [
+    "ambulance",
+    "temperature",
+    "clinic",
+    "headache"
+   ],
+   "answer": "clinic"
+  },
+  {
+   "id": "L2U11-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "medicine",
+   "item": "medicine",
+   "options": [
+    "healthy",
+    "tissue",
+    "cream",
+    "medicine"
+   ],
+   "answer": "medicine"
+  },
+  {
+   "id": "L2U11-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "headache",
+   "item": "headache",
+   "options": [
+    "cough",
+    "doctor",
+    "healthy",
+    "headache"
+   ],
+   "answer": "headache"
+  },
+  {
+   "id": "L2U11-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cough",
+   "item": "cough",
+   "options": [
+    "cough",
+    "plaster",
+    "fever",
+    "headache"
+   ],
+   "answer": "cough"
+  },
+  {
+   "id": "L2U11-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sneeze",
+   "item": "sneeze",
+   "options": [
+    "clinic",
+    "check",
+    "sneeze",
+    "plaster"
+   ],
+   "answer": "sneeze"
+  },
+  {
+   "id": "L2U11-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fever",
+   "item": "fever",
+   "options": [
+    "headache",
+    "exercise",
+    "fever",
+    "plaster"
+   ],
+   "answer": "fever"
+  },
+  {
+   "id": "L2U11-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "temperature",
+   "item": "temperature",
+   "options": [
+    "ambulance",
+    "temperature",
+    "healthy",
+    "headache"
+   ],
+   "answer": "temperature"
+  },
+  {
+   "id": "L2U11-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rest",
+   "item": "rest",
+   "options": [
+    "rest",
+    "cough",
+    "tissue",
+    "ambulance"
+   ],
+   "answer": "rest"
+  },
+  {
+   "id": "L2U11-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "healthy",
+   "item": "healthy",
+   "options": [
+    "sneeze",
+    "clinic",
+    "fever",
+    "healthy"
+   ],
+   "answer": "healthy"
+  },
+  {
+   "id": "L2U11-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "exercise",
+   "item": "exercise",
+   "options": [
+    "ambulance",
+    "clinic",
+    "headache",
+    "exercise"
+   ],
+   "answer": "exercise"
+  },
+  {
+   "id": "L2U11-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "plaster",
+   "item": "plaster",
+   "options": [
+    "doctor",
+    "plaster",
+    "tissue",
+    "rest"
+   ],
+   "answer": "plaster"
+  },
+  {
+   "id": "L2U11-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ambulance",
+   "item": "ambulance",
+   "options": [
+    "ambulance",
+    "rest",
+    "tissue",
+    "cream"
+   ],
+   "answer": "ambulance"
+  },
+  {
+   "id": "L2U11-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tissue",
+   "item": "tissue",
+   "options": [
+    "healthy",
+    "plaster",
+    "headache",
+    "tissue"
+   ],
+   "answer": "tissue"
+  },
+  {
+   "id": "L2U11-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "check",
+   "item": "check",
+   "options": [
+    "fever",
+    "cream",
+    "clinic",
+    "check"
+   ],
+   "answer": "check"
+  },
+  {
+   "id": "L2U11-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cream",
+   "item": "cream",
+   "options": [
+    "cream",
+    "headache",
+    "plaster",
+    "healthy"
+   ],
+   "answer": "cream"
+  },
+  {
+   "id": "L2U11-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nurse",
+   "item": "nurse",
+   "options": [
+    "nurse",
+    "ambulance",
+    "fever",
+    "sneeze"
+   ],
+   "answer": "nurse"
+  },
+  {
+   "id": "L2U11-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dentist",
+   "item": "dentist",
+   "options": [
+    "dentist",
+    "check",
+    "matter",
+    "throat"
+   ],
+   "answer": "dentist"
+  },
+  {
+   "id": "L2U11-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "toothache",
+   "item": "toothache",
+   "options": [
+    "rest",
+    "medicine",
+    "healthy",
+    "toothache"
+   ],
+   "answer": "toothache"
+  },
+  {
+   "id": "L2U11-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stomach ache",
+   "item": "stomach ache",
+   "options": [
+    "dentist",
+    "fever",
+    "matter",
+    "stomach ache"
+   ],
+   "answer": "stomach ache"
+  },
+  {
+   "id": "L2U11-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "earache",
+   "item": "earache",
+   "options": [
+    "sore throat",
+    "earache",
+    "hurt",
+    "medicine"
+   ],
+   "answer": "earache"
+  },
+  {
+   "id": "L2U11-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sore throat",
+   "item": "sore throat",
+   "options": [
+    "sore throat",
+    "stomach ache",
+    "toothache",
+    "clinic"
+   ],
+   "answer": "sore throat"
+  },
+  {
+   "id": "L2U11-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "throat",
+   "item": "throat",
+   "options": [
+    "throat",
+    "nurse",
+    "dentist",
+    "headache"
+   ],
+   "answer": "throat"
+  },
+  {
+   "id": "L2U11-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thermometer",
+   "item": "thermometer",
+   "options": [
+    "hurt",
+    "stomach ache",
+    "earache",
+    "thermometer"
+   ],
+   "answer": "thermometer"
+  },
+  {
+   "id": "L2U11-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ill",
+   "item": "ill",
+   "options": [
+    "ill",
+    "cream",
+    "earache",
+    "plaster"
+   ],
+   "answer": "ill"
+  },
+  {
+   "id": "L2U11-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hurt",
+   "item": "hurt",
+   "options": [
+    "check",
+    "chemist",
+    "hurt",
+    "sore throat"
+   ],
+   "answer": "hurt"
+  },
+  {
+   "id": "L2U11-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "matter",
+   "item": "matter",
+   "options": [
+    "nurse",
+    "earache",
+    "rest",
+    "matter"
+   ],
+   "answer": "matter"
+  },
+  {
+   "id": "L2U11-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chemist",
+   "item": "chemist",
+   "options": [
+    "dentist",
+    "nurse",
+    "exercise",
+    "chemist"
+   ],
+   "answer": "chemist"
+  },
+  {
+   "id": "L2U11-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "doctor",
+   "answer": "doctor"
+  },
+  {
+   "id": "L2U11-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clinic",
+   "answer": "clinic"
+  },
+  {
+   "id": "L2U11-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "medicine",
+   "answer": "medicine"
+  },
+  {
+   "id": "L2U11-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "headache",
+   "answer": "headache"
+  },
+  {
+   "id": "L2U11-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cough",
+   "answer": "cough"
+  },
+  {
+   "id": "L2U11-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sneeze",
+   "answer": "sneeze"
+  },
+  {
+   "id": "L2U11-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fever",
+   "answer": "fever"
+  },
+  {
+   "id": "L2U11-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "temperature",
+   "answer": "temperature"
+  },
+  {
+   "id": "L2U11-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rest",
+   "answer": "rest"
+  },
+  {
+   "id": "L2U11-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "healthy",
+   "answer": "healthy"
+  },
+  {
+   "id": "L2U11-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "exercise",
+   "answer": "exercise"
+  },
+  {
+   "id": "L2U11-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "plaster",
+   "answer": "plaster"
+  },
+  {
+   "id": "L2U11-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ambulance",
+   "answer": "ambulance"
+  },
+  {
+   "id": "L2U11-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tissue",
+   "answer": "tissue"
+  },
+  {
+   "id": "L2U11-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "check",
+   "answer": "check"
+  },
+  {
+   "id": "L2U11-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cream",
+   "answer": "cream"
+  },
+  {
+   "id": "L2U11-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The doctor is very kind.",
+   "item": "doctor",
+   "answer": "The doctor is very kind."
+  },
+  {
+   "id": "L2U11-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The nurse helps the doctor.",
+   "item": "nurse",
+   "answer": "The nurse helps the doctor."
+  },
+  {
+   "id": "L2U11-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to the dentist every year.",
+   "item": "dentist",
+   "answer": "I go to the dentist every year."
+  },
+  {
+   "id": "L2U11-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The clinic is near my house.",
+   "item": "clinic",
+   "answer": "The clinic is near my house."
+  },
+  {
+   "id": "L2U11-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Take your medicine, please.",
+   "item": "medicine",
+   "answer": "Take your medicine, please."
+  },
+  {
+   "id": "L2U11-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a headache.",
+   "item": "headache",
+   "answer": "I have a headache."
+  },
+  {
+   "id": "L2U11-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a toothache.",
+   "item": "toothache",
+   "answer": "I have a toothache."
+  },
+  {
+   "id": "L2U11-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He has a stomach ache.",
+   "item": "stomach ache",
+   "answer": "He has a stomach ache."
+  },
+  {
+   "id": "L2U11-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has an earache.",
+   "item": "earache",
+   "answer": "She has an earache."
+  },
+  {
+   "id": "L2U11-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a cough.",
+   "item": "cough",
+   "answer": "I have a cough."
+  },
+  {
+   "id": "L2U11-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cover your nose when you sneeze.",
+   "item": "sneeze",
+   "answer": "Cover your nose when you sneeze."
+  },
+  {
+   "id": "L2U11-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby has a fever.",
+   "item": "fever",
+   "answer": "The baby has a fever."
+  },
+  {
+   "id": "L2U11-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a sore throat.",
+   "item": "sore throat",
+   "answer": "I have a sore throat."
+  },
+  {
+   "id": "L2U11-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open your mouth. Let me see your throat.",
+   "item": "throat",
+   "answer": "Open your mouth. Let me see your throat."
+  },
+  {
+   "id": "L2U11-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's take your temperature.",
+   "item": "temperature",
+   "answer": "Let's take your temperature."
+  },
+  {
+   "id": "L2U11-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The thermometer is in my mouth.",
+   "item": "thermometer",
+   "answer": "The thermometer is in my mouth."
+  },
+  {
+   "id": "L2U11-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm ill today.",
+   "item": "ill",
+   "answer": "I'm ill today."
+  },
+  {
+   "id": "L2U11-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My knee hurts.",
+   "item": "hurt",
+   "answer": "My knee hurts."
+  },
+  {
+   "id": "L2U11-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's the matter?",
+   "item": "matter",
+   "answer": "What's the matter?"
+  },
+  {
+   "id": "L2U11-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You need to rest.",
+   "item": "rest",
+   "answer": "You need to rest."
+  },
+  {
+   "id": "L2U11-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Fruit is healthy.",
+   "item": "healthy",
+   "answer": "Fruit is healthy."
+  },
+  {
+   "id": "L2U11-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I exercise every morning.",
+   "item": "exercise",
+   "answer": "I exercise every morning."
+  },
+  {
+   "id": "L2U11-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put a plaster on your finger.",
+   "item": "plaster",
+   "answer": "Put a plaster on your finger."
+  },
+  {
+   "id": "L2U11-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ambulance is fast.",
+   "item": "ambulance",
+   "answer": "The ambulance is fast."
+  },
+  {
+   "id": "L2U11-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Here's a tissue for your nose.",
+   "item": "tissue",
+   "answer": "Here's a tissue for your nose."
+  },
+  {
+   "id": "L2U11-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The doctor checks my eyes.",
+   "item": "check",
+   "answer": "The doctor checks my eyes."
+  },
+  {
+   "id": "L2U11-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum buys medicine at the chemist.",
+   "item": "chemist",
+   "answer": "Mum buys medicine at the chemist."
+  },
+  {
+   "id": "L2U11-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put some cream on your arm.",
+   "item": "cream",
+   "answer": "Put some cream on your arm."
+  },
+  {
+   "id": "L2U11-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a headache.",
+   "answer": "I have a headache."
+  },
+  {
+   "id": "L2U11-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a toothache.",
+   "answer": "I have a toothache."
+  },
+  {
+   "id": "L2U11-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a cough.",
+   "answer": "I have a cough."
+  },
+  {
+   "id": "L2U11-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My head hurts.",
+   "answer": "My head hurts."
+  },
+  {
+   "id": "L2U11-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My arm hurts.",
+   "answer": "My arm hurts."
+  },
+  {
+   "id": "L2U11-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My leg hurts.",
+   "answer": "My leg hurts."
+  },
+  {
+   "id": "L2U11-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You should rest.",
+   "answer": "You should rest."
+  },
+  {
+   "id": "L2U11-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You should drink water.",
+   "answer": "You should drink water."
+  },
+  {
+   "id": "L2U11-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You should go to bed early.",
+   "answer": "You should go to bed early."
+  },
+  {
+   "id": "L2U11-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hello. What's the matter?",
+   "answer": "I have a headache."
+  },
+  {
+   "id": "L2U11-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do I have a fever?",
+   "answer": "Yes, a little. Take this medicine and rest."
+  },
+  {
+   "id": "L2U11-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "You look tired. Are you okay?",
+   "answer": "I have a sore throat."
+  },
+  {
+   "id": "L2U11-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "doctor",
+   "options": [
+    "doctor",
+    "healthy",
+    "cough"
+   ],
+   "answer": "doctor"
+  },
+  {
+   "id": "L2U11-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clinic",
+   "options": [
+    "medicine",
+    "rest",
+    "clinic"
+   ],
+   "answer": "clinic"
+  },
+  {
+   "id": "L2U11-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "medicine",
+   "options": [
+    "medicine",
+    "check",
+    "cream"
+   ],
+   "answer": "medicine"
+  },
+  {
+   "id": "L2U11-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "headache",
+   "options": [
+    "temperature",
+    "fever",
+    "headache"
+   ],
+   "answer": "headache"
+  },
+  {
+   "id": "L2U11-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cough",
+   "options": [
+    "cough",
+    "tissue",
+    "doctor"
+   ],
+   "answer": "cough"
+  },
+  {
+   "id": "L2U11-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sneeze",
+   "options": [
+    "fever",
+    "sneeze",
+    "exercise"
+   ],
+   "answer": "sneeze"
+  },
+  {
+   "id": "L2U11-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fever",
+   "options": [
+    "fever",
+    "plaster",
+    "rest"
+   ],
+   "answer": "fever"
+  },
+  {
+   "id": "L2U11-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "temperature",
+   "options": [
+    "healthy",
+    "temperature",
+    "check"
+   ],
+   "answer": "temperature"
+  },
+  {
+   "id": "L2U11-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rest",
+   "options": [
+    "fever",
+    "rest",
+    "doctor"
+   ],
+   "answer": "rest"
+  },
+  {
+   "id": "L2U11-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "healthy",
+   "options": [
+    "ambulance",
+    "plaster",
+    "healthy"
+   ],
+   "answer": "healthy"
+  },
+  {
+   "id": "L2U11-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "exercise",
+   "options": [
+    "rest",
+    "exercise",
+    "headache"
+   ],
+   "answer": "exercise"
+  },
+  {
+   "id": "L2U11-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "plaster",
+   "options": [
+    "medicine",
+    "plaster",
+    "healthy"
+   ],
+   "answer": "plaster"
+  },
+  {
+   "id": "L2U11-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ambulance",
+   "options": [
+    "temperature",
+    "medicine",
+    "ambulance"
+   ],
+   "answer": "ambulance"
+  },
+  {
+   "id": "L2U11-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tissue",
+   "options": [
+    "medicine",
+    "fever",
+    "tissue"
+   ],
+   "answer": "tissue"
+  },
+  {
+   "id": "L2U11-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "check",
+   "options": [
+    "medicine",
+    "check",
+    "plaster"
+   ],
+   "answer": "check"
+  },
+  {
+   "id": "L2U11-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cream",
+   "options": [
+    "cough",
+    "cream",
+    "tissue"
+   ],
+   "answer": "cream"
+  },
+  {
+   "id": "L2U11-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very kind.",
+   "item": "doctor",
+   "options": [
+    "doctor",
+    "check",
+    "exercise"
+   ],
+   "answer": "doctor"
+  },
+  {
+   "id": "L2U11-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ helps the doctor.",
+   "item": "nurse",
+   "options": [
+    "nurse",
+    "ill",
+    "check"
+   ],
+   "answer": "nurse"
+  },
+  {
+   "id": "L2U11-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I go to the ___ every year.",
+   "item": "dentist",
+   "options": [
+    "healthy",
+    "dentist",
+    "ill"
+   ],
+   "answer": "dentist"
+  },
+  {
+   "id": "L2U11-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is near my house.",
+   "item": "clinic",
+   "options": [
+    "ill",
+    "clinic",
+    "check"
+   ],
+   "answer": "clinic"
+  },
+  {
+   "id": "L2U11-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Take your ___, please.",
+   "item": "medicine",
+   "options": [
+    "check",
+    "medicine",
+    "hurt"
+   ],
+   "answer": "medicine"
+  },
+  {
+   "id": "L2U11-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have a ___.",
+   "item": "headache",
+   "options": [
+    "sneeze",
+    "rest",
+    "headache"
+   ],
+   "answer": "headache"
+  },
+  {
+   "id": "L2U11-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have a ___.",
+   "item": "toothache",
+   "options": [
+    "toothache",
+    "exercise",
+    "check"
+   ],
+   "answer": "toothache"
+  },
+  {
+   "id": "L2U11-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has an ___.",
+   "item": "earache",
+   "options": [
+    "earache",
+    "ill",
+    "hurt"
+   ],
+   "answer": "earache"
+  },
+  {
+   "id": "L2U11-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have a ___.",
+   "item": "cough",
+   "options": [
+    "cough",
+    "rest",
+    "hurt"
+   ],
+   "answer": "cough"
+  },
+  {
+   "id": "L2U11-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cover your nose when you ___.",
+   "item": "sneeze",
+   "options": [
+    "toothache",
+    "sneeze",
+    "cough"
+   ],
+   "answer": "sneeze"
+  },
+  {
+   "id": "L2U11-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby has a ___.",
+   "item": "fever",
+   "options": [
+    "healthy",
+    "hurt",
+    "fever"
+   ],
+   "answer": "fever"
+  },
+  {
+   "id": "L2U11-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Open your mouth. Let me see your ___.",
+   "item": "throat",
+   "options": [
+    "throat",
+    "check",
+    "hurt"
+   ],
+   "answer": "throat"
+  },
+  {
+   "id": "L2U11-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's take your ___.",
+   "item": "temperature",
+   "options": [
+    "sneeze",
+    "rest",
+    "temperature"
+   ],
+   "answer": "temperature"
+  },
+  {
+   "id": "L2U11-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is in my mouth.",
+   "item": "thermometer",
+   "options": [
+    "check",
+    "healthy",
+    "thermometer"
+   ],
+   "answer": "thermometer"
+  },
+  {
+   "id": "L2U11-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm ___ today.",
+   "item": "ill",
+   "options": [
+    "ill",
+    "matter",
+    "cough"
+   ],
+   "answer": "ill"
+  },
+  {
+   "id": "L2U11-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My knee ___.",
+   "item": "hurt",
+   "options": [
+    "hurts",
+    "checks",
+    "creams"
+   ],
+   "answer": "hurts"
+  },
+  {
+   "id": "L2U11-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's the ___?",
+   "item": "matter",
+   "options": [
+    "check",
+    "rest",
+    "matter"
+   ],
+   "answer": "matter"
+  },
+  {
+   "id": "L2U11-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You need to ___.",
+   "item": "rest",
+   "options": [
+    "earache",
+    "ill",
+    "rest"
+   ],
+   "answer": "rest"
+  },
+  {
+   "id": "L2U11-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Fruit is ___.",
+   "item": "healthy",
+   "options": [
+    "toothache",
+    "healthy",
+    "doctor"
+   ],
+   "answer": "healthy"
+  },
+  {
+   "id": "L2U11-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ every morning.",
+   "item": "exercise",
+   "options": [
+    "chemist",
+    "toothache",
+    "exercise"
+   ],
+   "answer": "exercise"
+  },
+  {
+   "id": "L2U11-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put a ___ on your finger.",
+   "item": "plaster",
+   "options": [
+    "check",
+    "rest",
+    "plaster"
+   ],
+   "answer": "plaster"
+  },
+  {
+   "id": "L2U11-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is fast.",
+   "item": "ambulance",
+   "options": [
+    "ambulance",
+    "check",
+    "rest"
+   ],
+   "answer": "ambulance"
+  },
+  {
+   "id": "L2U11-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Here's a ___ for your nose.",
+   "item": "tissue",
+   "options": [
+    "tissue",
+    "check",
+    "sneeze"
+   ],
+   "answer": "tissue"
+  },
+  {
+   "id": "L2U11-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The doctor ___ my eyes.",
+   "item": "check",
+   "options": [
+    "temperatures",
+    "exercises",
+    "checks"
+   ],
+   "answer": "checks"
+  },
+  {
+   "id": "L2U11-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum buys medicine at the ___.",
+   "item": "chemist",
+   "options": [
+    "chemist",
+    "exercise",
+    "healthy"
+   ],
+   "answer": "chemist"
+  },
+  {
+   "id": "L2U11-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put some ___ on your arm.",
+   "item": "cream",
+   "options": [
+    "cream",
+    "hurt",
+    "exercise"
+   ],
+   "answer": "cream"
+  },
+  {
+   "id": "L2U11-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The doctor is very kind.",
+   "item": "doctor",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The clinic is near my house.",
+   "item": "medicine",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Take your medicine, please.",
+   "item": "medicine",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have a headache.",
+   "item": "cough",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have a cough.",
+   "item": "cough",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Cover your nose when you sneeze.",
+   "item": "fever",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The baby has a fever.",
+   "item": "fever",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's take your temperature.",
+   "item": "rest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "You need to rest.",
+   "item": "rest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Fruit is healthy.",
+   "item": "exercise",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I exercise every morning.",
+   "item": "exercise",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put a plaster on your finger.",
+   "item": "ambulance",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The ambulance is fast.",
+   "item": "ambulance",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Here's a tissue for your nose.",
+   "item": "check",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The doctor checks my eyes.",
+   "item": "check",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U11-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put some cream on your arm.",
+   "item": "doctor",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U11-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U11-R01",
+   "text_en": "What does Nam have?",
+   "options": [
+    "A toothache.",
+    "A stomach ache.",
+    "A cough and a fever."
+   ],
+   "answer": "A cough and a fever."
+  },
+  {
+   "id": "L2U11-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U11-R01",
+   "text_en": "How long does Nam stay in bed?",
+   "options": [
+    "Three days.",
+    "Two days.",
+    "One week."
+   ],
+   "answer": "Two days."
+  },
+  {
+   "id": "L2U11-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "doctor",
+   "item": "doctor",
+   "answer": "doctor"
+  },
+  {
+   "id": "L2U11-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "nurse",
+   "item": "nurse",
+   "answer": "nurse"
+  },
+  {
+   "id": "L2U11-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "dentist",
+   "item": "dentist",
+   "answer": "dentist"
+  },
+  {
+   "id": "L2U11-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "clinic",
+   "item": "clinic",
+   "answer": "clinic"
+  },
+  {
+   "id": "L2U11-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "medicine",
+   "item": "medicine",
+   "answer": "medicine"
+  },
+  {
+   "id": "L2U11-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "headache",
+   "item": "headache",
+   "answer": "headache"
+  },
+  {
+   "id": "L2U11-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "toothache",
+   "item": "toothache",
+   "answer": "toothache"
+  },
+  {
+   "id": "L2U11-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "earache",
+   "item": "earache",
+   "answer": "earache"
+  },
+  {
+   "id": "L2U11-Q153",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The doctor is very kind.",
+   "answer": "The doctor is very kind."
+  },
+  {
+   "id": "L2U11-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The nurse helps the doctor.",
+   "answer": "The nurse helps the doctor."
+  },
+  {
+   "id": "L2U11-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I go to the dentist every year.",
+   "answer": "I go to the dentist every year."
+  }
+ ]
+}

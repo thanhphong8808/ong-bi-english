@@ -1,0 +1,1767 @@
+{
+ "id": "L1U01",
+ "level": 1,
+ "unit": 1,
+ "topic_en": "My family",
+ "topic_vi": "Gia đình của bé",
+ "can_do_vi": [
+  "Giới thiệu được các thành viên trong gia đình",
+  "Hỏi và trả lời \"Who's that?\""
+ ],
+ "items": [
+  {
+   "id": "L1U01-W01",
+   "type": "word",
+   "en": "mother",
+   "vi": "mẹ",
+   "ipa": "/ˈmʌðər/",
+   "syllables": [
+    "moth",
+    "er"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "This is my mother.",
+   "example_vi": "Đây là mẹ tớ.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W02",
+   "type": "word",
+   "en": "father",
+   "vi": "bố",
+   "ipa": "/ˈfɑðər/",
+   "syllables": [
+    "fa",
+    "ther"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F468"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "This is my father.",
+   "example_vi": "Đây là bố tớ.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W03",
+   "type": "word",
+   "en": "parents",
+   "vi": "bố mẹ",
+   "ipa": "/ˈpɛrənts/",
+   "syllables": [
+    "par",
+    "ents"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F46B"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "I love my parents.",
+   "example_vi": "Tớ yêu bố mẹ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U01-W04",
+   "type": "word",
+   "en": "grandmother",
+   "vi": "bà",
+   "ipa": "/ˈɡrændˌməðər/",
+   "syllables": [
+    "grand",
+    "moth",
+    "er"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F475"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "My grandmother is happy.",
+   "example_vi": "Bà tớ đang vui.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U01-W05",
+   "type": "word",
+   "en": "grandfather",
+   "vi": "ông",
+   "ipa": "/ˈɡrænˌfɑðər/",
+   "syllables": [
+    "grand",
+    "fa",
+    "ther"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F474"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "My grandfather is funny.",
+   "example_vi": "Ông tớ vui tính.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U01-W06",
+   "type": "word",
+   "en": "aunt",
+   "vi": "cô, dì",
+   "ipa": "/ɔnt/",
+   "syllables": [
+    "aunt"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F469-200D-1F9B0"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "This is my aunt.",
+   "example_vi": "Đây là cô tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W07",
+   "type": "word",
+   "en": "uncle",
+   "vi": "chú, bác",
+   "ipa": "/ˈʌŋkəl/",
+   "syllables": [
+    "un",
+    "cle"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F9D4"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "This is my uncle.",
+   "example_vi": "Đây là chú tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W08",
+   "type": "word",
+   "en": "cousin",
+   "vi": "anh chị em họ",
+   "ipa": "/ˈkʌzən/",
+   "syllables": [
+    "cousin"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D2"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "I have a cousin.",
+   "example_vi": "Tớ có một người em họ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W09",
+   "type": "word",
+   "en": "son",
+   "vi": "con trai",
+   "ipa": "/sʌn/",
+   "syllables": [
+    "son"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F466"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "He is my son.",
+   "example_vi": "Thằng bé là con trai tôi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W10",
+   "type": "word",
+   "en": "daughter",
+   "vi": "con gái",
+   "ipa": "/ˈdɔtər/",
+   "syllables": [
+    "daugh",
+    "ter"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F467"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "She is my daughter.",
+   "example_vi": "Con bé là con gái tôi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U01-W11",
+   "type": "word",
+   "en": "boy",
+   "vi": "bạn trai, cậu bé",
+   "ipa": "/bɔɪ/",
+   "syllables": [
+    "boy"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "He is a boy.",
+   "example_vi": "Bạn ấy là con trai.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W12",
+   "type": "word",
+   "en": "man",
+   "vi": "người đàn ông",
+   "ipa": "/mæn/",
+   "syllables": [
+    "man"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F468-200D-1F9B1"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "That man is my uncle.",
+   "example_vi": "Người đàn ông đó là chú tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W13",
+   "type": "word",
+   "en": "woman",
+   "vi": "người phụ nữ",
+   "ipa": "/ˈwʊmən/",
+   "syllables": [
+    "wom",
+    "an"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F469-200D-1F9B1"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "That woman is my aunt.",
+   "example_vi": "Người phụ nữ đó là cô tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W14",
+   "type": "word",
+   "en": "child",
+   "vi": "đứa trẻ",
+   "ipa": "/tʃaɪld/",
+   "syllables": [
+    "child"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F476"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "The child is happy.",
+   "example_vi": "Đứa trẻ đang vui.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W15",
+   "type": "word",
+   "en": "old",
+   "vi": "già",
+   "ipa": "/oʊld/",
+   "syllables": [
+    "old"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F9D3"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "My grandfather is old.",
+   "example_vi": "Ông tớ già rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W16",
+   "type": "word",
+   "en": "young",
+   "vi": "trẻ",
+   "ipa": "/jʌŋ/",
+   "syllables": [
+    "young"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F64B-200D-2642-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "My aunt is young.",
+   "example_vi": "Cô tớ còn trẻ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W17",
+   "type": "word",
+   "en": "he",
+   "vi": "anh ấy, bạn ấy (nam)",
+   "ipa": "/hi/",
+   "syllables": [
+    "he"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "He is my brother.",
+   "example_vi": "Anh ấy là anh trai tớ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W18",
+   "type": "word",
+   "en": "she",
+   "vi": "cô ấy, bạn ấy (nữ)",
+   "ipa": "/ʃi/",
+   "syllables": [
+    "she"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F448"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "She is my sister.",
+   "example_vi": "Chị ấy là chị gái tớ.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U01-W19",
+   "type": "word",
+   "en": "photo",
+   "vi": "bức ảnh",
+   "ipa": "/ˈfoʊˌtoʊ/",
+   "syllables": [
+    "pho",
+    "to"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U01",
+   "example_en": "This is a photo of my family.",
+   "example_vi": "Đây là ảnh gia đình tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U01-P01",
+   "en": "This is my {x}.",
+   "vi": "Đây là {x} tớ.",
+   "slots": {
+    "x": [
+     "mother",
+     "father",
+     "aunt",
+     "uncle"
+    ]
+   }
+  },
+  {
+   "id": "L1U01-P02",
+   "en": "Who's that? That's my {x}.",
+   "vi": "Ai kia? Đó là {x} tớ.",
+   "slots": {
+    "x": [
+     "cousin",
+     "grandmother",
+     "grandfather",
+     "sister"
+    ]
+   }
+  },
+  {
+   "id": "L1U01-P03",
+   "en": "He is my {x}.",
+   "vi": "Anh ấy là {x} tớ.",
+   "slots": {
+    "x": [
+     "brother",
+     "father",
+     "uncle",
+     "cousin"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U01-D01",
+   "title_vi": "Giới thiệu gia đình",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Hi! Who's that?",
+     "vi": "Chào! Ai kia thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "That's my mother.",
+     "vi": "Đó là mẹ tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Oh, hello! She's so nice!",
+     "vi": "Ồ, chào cô ạ! Mẹ cậu hiền quá!"
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you!",
+     "vi": "Cảm ơn cậu!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "mother",
+    "options": [
+     "father",
+     "aunt",
+     "grandmother"
+    ]
+   }
+  },
+  {
+   "id": "L1U01-D02",
+   "title_vi": "Xem ảnh",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Is this a photo of your family?",
+     "vi": "Đây là ảnh gia đình cậu à?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! This is my uncle.",
+     "vi": "Ừ! Đây là chú tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "And who's that boy?",
+     "vi": "Thế cậu bé kia là ai?"
+    },
+    {
+     "role": "Kid",
+     "en": "He is my cousin.",
+     "vi": "Em ấy là em họ tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "He's funny!",
+     "vi": "Em ấy trông vui quá!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "uncle",
+    "options": [
+     "cousin",
+     "brother",
+     "grandfather"
+    ]
+   }
+  },
+  {
+   "id": "L1U01-D03",
+   "title_vi": "Ông bà",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Is your grandfather old?",
+     "vi": "Ông cậu già chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. He's old and happy.",
+     "vi": "Rồi. Ông già và vui vẻ."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you love your grandparents?",
+     "vi": "Cậu có yêu ông bà không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I love my grandmother and grandfather.",
+     "vi": "Có! Tớ yêu bà và ông."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "m"
+  },
+  {
+   "type": "write_letter",
+   "target": "f"
+  },
+  {
+   "type": "write_letter",
+   "target": "p"
+  },
+  {
+   "type": "write_letter",
+   "target": "g"
+  },
+  {
+   "type": "copy_word",
+   "target": "mother"
+  },
+  {
+   "type": "copy_word",
+   "target": "father"
+  },
+  {
+   "type": "copy_word",
+   "target": "aunt"
+  },
+  {
+   "type": "copy_word",
+   "target": "uncle"
+  },
+  {
+   "type": "copy_word",
+   "target": "cousin"
+  },
+  {
+   "type": "copy_word",
+   "target": "son"
+  },
+  {
+   "type": "copy_word",
+   "target": "boy"
+  },
+  {
+   "type": "copy_word",
+   "target": "man"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U01-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mother",
+   "item": "mother",
+   "options": [
+    "man",
+    "daughter",
+    "mother",
+    "he"
+   ],
+   "answer": "mother"
+  },
+  {
+   "id": "L1U01-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "father",
+   "item": "father",
+   "options": [
+    "grandmother",
+    "mother",
+    "he",
+    "father"
+   ],
+   "answer": "father"
+  },
+  {
+   "id": "L1U01-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "parents",
+   "item": "parents",
+   "options": [
+    "photo",
+    "father",
+    "parents",
+    "woman"
+   ],
+   "answer": "parents"
+  },
+  {
+   "id": "L1U01-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "grandmother",
+   "item": "grandmother",
+   "options": [
+    "parents",
+    "woman",
+    "boy",
+    "grandmother"
+   ],
+   "answer": "grandmother"
+  },
+  {
+   "id": "L1U01-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "grandfather",
+   "item": "grandfather",
+   "options": [
+    "grandfather",
+    "daughter",
+    "young",
+    "child"
+   ],
+   "answer": "grandfather"
+  },
+  {
+   "id": "L1U01-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "aunt",
+   "item": "aunt",
+   "options": [
+    "aunt",
+    "he",
+    "grandfather",
+    "old"
+   ],
+   "answer": "aunt"
+  },
+  {
+   "id": "L1U01-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "uncle",
+   "item": "uncle",
+   "options": [
+    "boy",
+    "she",
+    "man",
+    "uncle"
+   ],
+   "answer": "uncle"
+  },
+  {
+   "id": "L1U01-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cousin",
+   "item": "cousin",
+   "options": [
+    "cousin",
+    "woman",
+    "young",
+    "she"
+   ],
+   "answer": "cousin"
+  },
+  {
+   "id": "L1U01-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "son",
+   "item": "son",
+   "options": [
+    "son",
+    "mother",
+    "aunt",
+    "woman"
+   ],
+   "answer": "son"
+  },
+  {
+   "id": "L1U01-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "daughter",
+   "item": "daughter",
+   "options": [
+    "she",
+    "daughter",
+    "cousin",
+    "woman"
+   ],
+   "answer": "daughter"
+  },
+  {
+   "id": "L1U01-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "boy",
+   "item": "boy",
+   "options": [
+    "grandfather",
+    "she",
+    "boy",
+    "parents"
+   ],
+   "answer": "boy"
+  },
+  {
+   "id": "L1U01-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "man",
+   "item": "man",
+   "options": [
+    "aunt",
+    "parents",
+    "daughter",
+    "man"
+   ],
+   "answer": "man"
+  },
+  {
+   "id": "L1U01-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "woman",
+   "item": "woman",
+   "options": [
+    "old",
+    "daughter",
+    "woman",
+    "parents"
+   ],
+   "answer": "woman"
+  },
+  {
+   "id": "L1U01-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "child",
+   "item": "child",
+   "options": [
+    "photo",
+    "he",
+    "child",
+    "son"
+   ],
+   "answer": "child"
+  },
+  {
+   "id": "L1U01-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "old",
+   "item": "old",
+   "options": [
+    "old",
+    "mother",
+    "he",
+    "photo"
+   ],
+   "answer": "old"
+  },
+  {
+   "id": "L1U01-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "young",
+   "item": "young",
+   "options": [
+    "grandmother",
+    "young",
+    "daughter",
+    "boy"
+   ],
+   "answer": "young"
+  },
+  {
+   "id": "L1U01-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "he",
+   "item": "he",
+   "options": [
+    "he",
+    "child",
+    "young",
+    "parents"
+   ],
+   "answer": "he"
+  },
+  {
+   "id": "L1U01-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "she",
+   "item": "she",
+   "options": [
+    "old",
+    "she",
+    "he",
+    "aunt"
+   ],
+   "answer": "she"
+  },
+  {
+   "id": "L1U01-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "photo",
+   "item": "photo",
+   "options": [
+    "photo",
+    "child",
+    "cousin",
+    "aunt"
+   ],
+   "answer": "photo"
+  },
+  {
+   "id": "L1U01-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the mother pink.",
+   "item": "mother",
+   "options": [
+    "parents",
+    "grandmother",
+    "mother"
+   ],
+   "answer": "mother",
+   "color": "pink"
+  },
+  {
+   "id": "L1U01-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the father red.",
+   "item": "father",
+   "options": [
+    "old",
+    "father",
+    "cousin"
+   ],
+   "answer": "father",
+   "color": "red"
+  },
+  {
+   "id": "L1U01-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the parents pink.",
+   "item": "parents",
+   "options": [
+    "cousin",
+    "parents",
+    "daughter"
+   ],
+   "answer": "parents",
+   "color": "pink"
+  },
+  {
+   "id": "L1U01-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the grandmother pink.",
+   "item": "grandmother",
+   "options": [
+    "grandmother",
+    "photo",
+    "boy"
+   ],
+   "answer": "grandmother",
+   "color": "pink"
+  },
+  {
+   "id": "L1U01-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mother",
+   "answer": "mother"
+  },
+  {
+   "id": "L1U01-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "father",
+   "answer": "father"
+  },
+  {
+   "id": "L1U01-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "parents",
+   "answer": "parents"
+  },
+  {
+   "id": "L1U01-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "grandmother",
+   "answer": "grandmother"
+  },
+  {
+   "id": "L1U01-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "grandfather",
+   "answer": "grandfather"
+  },
+  {
+   "id": "L1U01-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "aunt",
+   "answer": "aunt"
+  },
+  {
+   "id": "L1U01-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "uncle",
+   "answer": "uncle"
+  },
+  {
+   "id": "L1U01-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cousin",
+   "answer": "cousin"
+  },
+  {
+   "id": "L1U01-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "son",
+   "answer": "son"
+  },
+  {
+   "id": "L1U01-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "daughter",
+   "answer": "daughter"
+  },
+  {
+   "id": "L1U01-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "boy",
+   "answer": "boy"
+  },
+  {
+   "id": "L1U01-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "man",
+   "answer": "man"
+  },
+  {
+   "id": "L1U01-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "woman",
+   "answer": "woman"
+  },
+  {
+   "id": "L1U01-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "child",
+   "answer": "child"
+  },
+  {
+   "id": "L1U01-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "old",
+   "answer": "old"
+  },
+  {
+   "id": "L1U01-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "young",
+   "answer": "young"
+  },
+  {
+   "id": "L1U01-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "he",
+   "answer": "he"
+  },
+  {
+   "id": "L1U01-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "she",
+   "answer": "she"
+  },
+  {
+   "id": "L1U01-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "photo",
+   "answer": "photo"
+  },
+  {
+   "id": "L1U01-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my mother.",
+   "item": "mother",
+   "answer": "This is my mother."
+  },
+  {
+   "id": "L1U01-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my father.",
+   "item": "father",
+   "answer": "This is my father."
+  },
+  {
+   "id": "L1U01-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love my parents.",
+   "item": "parents",
+   "answer": "I love my parents."
+  },
+  {
+   "id": "L1U01-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandmother is happy.",
+   "item": "grandmother",
+   "answer": "My grandmother is happy."
+  },
+  {
+   "id": "L1U01-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandfather is funny.",
+   "item": "grandfather",
+   "answer": "My grandfather is funny."
+  },
+  {
+   "id": "L1U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my aunt.",
+   "item": "aunt",
+   "answer": "This is my aunt."
+  },
+  {
+   "id": "L1U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my uncle.",
+   "item": "uncle",
+   "answer": "This is my uncle."
+  },
+  {
+   "id": "L1U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have a cousin.",
+   "item": "cousin",
+   "answer": "I have a cousin."
+  },
+  {
+   "id": "L1U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is my son.",
+   "item": "son",
+   "answer": "He is my son."
+  },
+  {
+   "id": "L1U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is my daughter.",
+   "item": "daughter",
+   "answer": "She is my daughter."
+  },
+  {
+   "id": "L1U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is a boy.",
+   "item": "boy",
+   "answer": "He is a boy."
+  },
+  {
+   "id": "L1U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That man is my uncle.",
+   "item": "man",
+   "answer": "That man is my uncle."
+  },
+  {
+   "id": "L1U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That woman is my aunt.",
+   "item": "woman",
+   "answer": "That woman is my aunt."
+  },
+  {
+   "id": "L1U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The child is happy.",
+   "item": "child",
+   "answer": "The child is happy."
+  },
+  {
+   "id": "L1U01-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandfather is old.",
+   "item": "old",
+   "answer": "My grandfather is old."
+  },
+  {
+   "id": "L1U01-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My aunt is young.",
+   "item": "young",
+   "answer": "My aunt is young."
+  },
+  {
+   "id": "L1U01-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is my brother.",
+   "item": "he",
+   "answer": "He is my brother."
+  },
+  {
+   "id": "L1U01-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She is my sister.",
+   "item": "she",
+   "answer": "She is my sister."
+  },
+  {
+   "id": "L1U01-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is a photo of my family.",
+   "item": "photo",
+   "answer": "This is a photo of my family."
+  },
+  {
+   "id": "L1U01-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my mother.",
+   "answer": "This is my mother."
+  },
+  {
+   "id": "L1U01-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my father.",
+   "answer": "This is my father."
+  },
+  {
+   "id": "L1U01-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my aunt.",
+   "answer": "This is my aunt."
+  },
+  {
+   "id": "L1U01-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Who's that? That's my cousin.",
+   "answer": "Who's that? That's my cousin."
+  },
+  {
+   "id": "L1U01-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Who's that? That's my grandmother.",
+   "answer": "Who's that? That's my grandmother."
+  },
+  {
+   "id": "L1U01-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Who's that? That's my grandfather.",
+   "answer": "Who's that? That's my grandfather."
+  },
+  {
+   "id": "L1U01-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is my brother.",
+   "answer": "He is my brother."
+  },
+  {
+   "id": "L1U01-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is my father.",
+   "answer": "He is my father."
+  },
+  {
+   "id": "L1U01-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is my uncle.",
+   "answer": "He is my uncle."
+  },
+  {
+   "id": "L1U01-Q071",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hi! Who's that?",
+   "answer": "That's my mother."
+  },
+  {
+   "id": "L1U01-Q072",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is this a photo of your family?",
+   "answer": "Yes! This is my uncle."
+  },
+  {
+   "id": "L1U01-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "And who's that boy?",
+   "answer": "He is my cousin."
+  },
+  {
+   "id": "L1U01-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is your grandfather old?",
+   "answer": "Yes. He's old and happy."
+  },
+  {
+   "id": "L1U01-Q075",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you love your grandparents?",
+   "answer": "Yes! I love my grandmother and grandfather."
+  },
+  {
+   "id": "L1U01-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mother",
+   "options": [
+    "grandfather",
+    "old",
+    "mother"
+   ],
+   "answer": "mother"
+  },
+  {
+   "id": "L1U01-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "father",
+   "options": [
+    "father",
+    "mother",
+    "son"
+   ],
+   "answer": "father"
+  },
+  {
+   "id": "L1U01-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "parents",
+   "options": [
+    "uncle",
+    "parents",
+    "she"
+   ],
+   "answer": "parents"
+  },
+  {
+   "id": "L1U01-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "grandmother",
+   "options": [
+    "daughter",
+    "grandmother",
+    "old"
+   ],
+   "answer": "grandmother"
+  },
+  {
+   "id": "L1U01-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "grandfather",
+   "options": [
+    "he",
+    "mother",
+    "grandfather"
+   ],
+   "answer": "grandfather"
+  },
+  {
+   "id": "L1U01-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "aunt",
+   "options": [
+    "aunt",
+    "child",
+    "young"
+   ],
+   "answer": "aunt"
+  },
+  {
+   "id": "L1U01-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "uncle",
+   "options": [
+    "mother",
+    "grandmother",
+    "uncle"
+   ],
+   "answer": "uncle"
+  },
+  {
+   "id": "L1U01-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cousin",
+   "options": [
+    "parents",
+    "grandmother",
+    "cousin"
+   ],
+   "answer": "cousin"
+  },
+  {
+   "id": "L1U01-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "son",
+   "options": [
+    "son",
+    "man",
+    "daughter"
+   ],
+   "answer": "son"
+  },
+  {
+   "id": "L1U01-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "daughter",
+   "options": [
+    "uncle",
+    "cousin",
+    "daughter"
+   ],
+   "answer": "daughter"
+  },
+  {
+   "id": "L1U01-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "boy",
+   "options": [
+    "woman",
+    "boy",
+    "she"
+   ],
+   "answer": "boy"
+  },
+  {
+   "id": "L1U01-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "man",
+   "options": [
+    "grandmother",
+    "he",
+    "man"
+   ],
+   "answer": "man"
+  },
+  {
+   "id": "L1U01-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "woman",
+   "options": [
+    "woman",
+    "old",
+    "child"
+   ],
+   "answer": "woman"
+  },
+  {
+   "id": "L1U01-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "child",
+   "options": [
+    "he",
+    "child",
+    "daughter"
+   ],
+   "answer": "child"
+  },
+  {
+   "id": "L1U01-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "old",
+   "options": [
+    "old",
+    "mother",
+    "uncle"
+   ],
+   "answer": "old"
+  },
+  {
+   "id": "L1U01-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "young",
+   "options": [
+    "young",
+    "aunt",
+    "father"
+   ],
+   "answer": "young"
+  },
+  {
+   "id": "L1U01-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "he",
+   "options": [
+    "father",
+    "he",
+    "uncle"
+   ],
+   "answer": "he"
+  },
+  {
+   "id": "L1U01-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "she",
+   "options": [
+    "she",
+    "woman",
+    "uncle"
+   ],
+   "answer": "she"
+  },
+  {
+   "id": "L1U01-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "photo",
+   "options": [
+    "man",
+    "grandfather",
+    "photo"
+   ],
+   "answer": "photo"
+  },
+  {
+   "id": "L1U01-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "m",
+   "answer": "m"
+  },
+  {
+   "id": "L1U01-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "f",
+   "answer": "f"
+  },
+  {
+   "id": "L1U01-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "p",
+   "answer": "p"
+  },
+  {
+   "id": "L1U01-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "g",
+   "answer": "g"
+  },
+  {
+   "id": "L1U01-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "mother",
+   "answer": "mother"
+  },
+  {
+   "id": "L1U01-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "father",
+   "answer": "father"
+  },
+  {
+   "id": "L1U01-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "aunt",
+   "answer": "aunt"
+  },
+  {
+   "id": "L1U01-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "uncle",
+   "answer": "uncle"
+  },
+  {
+   "id": "L1U01-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "cousin",
+   "answer": "cousin"
+  },
+  {
+   "id": "L1U01-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "son",
+   "answer": "son"
+  },
+  {
+   "id": "L1U01-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "boy",
+   "answer": "boy"
+  },
+  {
+   "id": "L1U01-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "man",
+   "answer": "man"
+  }
+ ]
+}

@@ -1,0 +1,1279 @@
+{
+ "id": "L0U01",
+ "level": 0,
+ "unit": 1,
+ "topic_en": "Hello!",
+ "topic_vi": "Xin chào",
+ "can_do_vi": [
+  "Chào và tạm biệt bằng tiếng Anh",
+  "Nói tên mình với \"I'm ...\""
+ ],
+ "items": [
+  {
+   "id": "L0U01-W01",
+   "type": "word",
+   "en": "hello",
+   "vi": "xin chào",
+   "ipa": "/hɛˈloʊ/",
+   "syllables": [
+    "hel",
+    "lo"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F44B"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Hello, Bi!",
+   "example_vi": "Chào Bi!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W02",
+   "type": "word",
+   "en": "hi",
+   "vi": "chào",
+   "ipa": "/haɪ/",
+   "syllables": [
+    "hi"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Hi! I'm Bi.",
+   "example_vi": "Chào! Tớ là Bi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W03",
+   "type": "word",
+   "en": "bye",
+   "vi": "tạm biệt",
+   "ipa": "/baɪ/",
+   "syllables": [
+    "bye"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Bye, Bi!",
+   "example_vi": "Tạm biệt Bi!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-L01",
+   "type": "letter",
+   "en": "s",
+   "vi": "chữ s",
+   "letter": "s",
+   "sound": "/s/",
+   "tip_vi": "Âm \"s\": để răng gần nhau và xì hơi ra như con rắn: sss.",
+   "sound_words": [
+    "sun",
+    "sock"
+   ],
+   "image": {
+    "emoji": "2600-FE0F"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/s/",
+   "syllables": [
+    "s"
+   ],
+   "phonics": "sound_s",
+   "example_en": "",
+   "example_vi": "Âm \"s\": để răng gần nhau và xì hơi ra như con rắn: sss.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U01-W04",
+   "type": "word",
+   "en": "sun",
+   "vi": "mặt trời",
+   "ipa": "/sʌn/",
+   "syllables": [
+    "sun"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "2600-FE0F"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "I see the sun.",
+   "example_vi": "Tớ thấy mặt trời.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W05",
+   "type": "word",
+   "en": "sock",
+   "vi": "chiếc tất",
+   "ipa": "/sɑk/",
+   "syllables": [
+    "sock"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9E6"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "It's a red sock.",
+   "example_vi": "Đó là chiếc tất đỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W06",
+   "type": "word",
+   "en": "yes",
+   "vi": "có, vâng",
+   "ipa": "/jɛs/",
+   "syllables": [
+    "yes"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Yes, please!",
+   "example_vi": "Vâng ạ!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W07",
+   "type": "word",
+   "en": "no",
+   "vi": "không",
+   "ipa": "/noʊ/",
+   "syllables": [
+    "no"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "No, thank you.",
+   "example_vi": "Dạ không, cảm ơn ạ.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W08",
+   "type": "word",
+   "en": "please",
+   "vi": "làm ơn",
+   "ipa": "/pliz/",
+   "syllables": [
+    "please"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F64F"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Yes, please.",
+   "example_vi": "Vâng, làm ơn ạ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-L02",
+   "type": "letter",
+   "en": "a",
+   "vi": "chữ a",
+   "letter": "a",
+   "sound": "/æ/",
+   "tip_vi": "Âm \"a\": mở miệng thật to như sắp ăn quả táo: a-a.",
+   "sound_words": [
+    "ant",
+    "apple"
+   ],
+   "image": {
+    "emoji": "1F41C"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/æ/",
+   "syllables": [
+    "a"
+   ],
+   "phonics": "sound_a",
+   "example_en": "",
+   "example_vi": "Âm \"a\": mở miệng thật to như sắp ăn quả táo: a-a.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U01-W09",
+   "type": "word",
+   "en": "ant",
+   "vi": "con kiến",
+   "ipa": "/ænt/",
+   "syllables": [
+    "ant"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F41C"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "It's a small ant.",
+   "example_vi": "Đó là một con kiến nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W10",
+   "type": "word",
+   "en": "apple",
+   "vi": "quả táo",
+   "ipa": "/ˈæpəl/",
+   "syllables": [
+    "ap",
+    "ple"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F34E"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "It's a red apple.",
+   "example_vi": "Đó là quả táo đỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W11",
+   "type": "phrase",
+   "en": "thank you",
+   "vi": "cảm ơn",
+   "ipa": "/θæŋk ju/",
+   "syllables": [
+    "thank",
+    "you"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F49D"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Thank you, Bi!",
+   "example_vi": "Cảm ơn Bi!",
+   "pron_focus": [
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W12",
+   "type": "word",
+   "en": "sorry",
+   "vi": "xin lỗi",
+   "ipa": "/ˈsɑri/",
+   "syllables": [
+    "sor",
+    "ry"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F614"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "Oh, sorry!",
+   "example_vi": "Ôi, tớ xin lỗi!",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W13",
+   "type": "word",
+   "en": "friend",
+   "vi": "bạn",
+   "ipa": "/frɛnd/",
+   "syllables": [
+    "friend"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "You are my friend.",
+   "example_vi": "Cậu là bạn của tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-L03",
+   "type": "letter",
+   "en": "t",
+   "vi": "chữ t",
+   "letter": "t",
+   "sound": "/t/",
+   "tip_vi": "Âm \"t\": chạm lưỡi sau răng trên rồi bật hơi nhẹ: t-t.",
+   "sound_words": [
+    "ten",
+    "tap"
+   ],
+   "image": {
+    "emoji": "1F51F"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/t/",
+   "syllables": [
+    "t"
+   ],
+   "phonics": "sound_t",
+   "example_en": "",
+   "example_vi": "Âm \"t\": chạm lưỡi sau răng trên rồi bật hơi nhẹ: t-t.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U01-W14",
+   "type": "word",
+   "en": "ten",
+   "vi": "số mười",
+   "ipa": "/tɛn/",
+   "syllables": [
+    "ten"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F51F"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "I have ten stars.",
+   "example_vi": "Tớ có mười ngôi sao.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W15",
+   "type": "word",
+   "en": "tap",
+   "vi": "vòi nước",
+   "ipa": "/tæp/",
+   "syllables": [
+    "tap"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F6B0"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "It's a tap.",
+   "example_vi": "Đó là cái vòi nước.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U01-W16",
+   "type": "word",
+   "en": "name",
+   "vi": "tên",
+   "ipa": "/neɪm/",
+   "syllables": [
+    "name"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4DB"
+   },
+   "picturable": true,
+   "cat": "L0U01",
+   "example_en": "My name is Bi.",
+   "example_vi": "Tên tớ là Bi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U01-P01",
+   "en": "Hello, {x}!",
+   "vi": "Chào {x}!",
+   "slots": {
+    "x": [
+     "Bi",
+     "friend"
+    ]
+   }
+  },
+  {
+   "id": "L0U01-P02",
+   "en": "I'm {x}.",
+   "vi": "Tớ là {x}.",
+   "slots": {
+    "x": [
+     "Bi",
+     "Kid"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U01-D01",
+   "title_vi": "Chào bạn mới",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Hello! I'm Bi.",
+     "vi": "Xin chào! Tớ là Bi."
+    },
+    {
+     "role": "Kid",
+     "en": "Hi, Bi!",
+     "vi": "Chào Bi!"
+    },
+    {
+     "role": "Bi",
+     "en": "What's your name?",
+     "vi": "Cậu tên là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "My name is Kid.",
+     "vi": "Tên tớ là Kid."
+    }
+   ]
+  },
+  {
+   "id": "L0U01-D02",
+   "title_vi": "Tạm biệt",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Thank you, my friend!",
+     "vi": "Cảm ơn bạn của tớ!"
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, Bi!",
+     "vi": "Cảm ơn Bi!"
+    },
+    {
+     "role": "Bi",
+     "en": "Bye!",
+     "vi": "Tạm biệt nhé!"
+    },
+    {
+     "role": "Kid",
+     "en": "Bye, Bi!",
+     "vi": "Tạm biệt Bi!"
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "S"
+  },
+  {
+   "type": "trace_letter",
+   "target": "s"
+  },
+  {
+   "type": "trace_letter",
+   "target": "A"
+  },
+  {
+   "type": "trace_letter",
+   "target": "a"
+  },
+  {
+   "type": "trace_letter",
+   "target": "T"
+  },
+  {
+   "type": "trace_letter",
+   "target": "t"
+  },
+  {
+   "type": "trace_letter",
+   "target": "h"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  },
+  {
+   "type": "trace_letter",
+   "target": "y"
+  },
+  {
+   "type": "trace_letter",
+   "target": "n"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U01-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hello",
+   "item": "hello",
+   "options": [
+    "hi",
+    "hello",
+    "please"
+   ],
+   "answer": "hello"
+  },
+  {
+   "id": "L0U01-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hi",
+   "item": "hi",
+   "options": [
+    "apple",
+    "hi",
+    "ten"
+   ],
+   "answer": "hi"
+  },
+  {
+   "id": "L0U01-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bye",
+   "item": "bye",
+   "options": [
+    "apple",
+    "bye",
+    "tap"
+   ],
+   "answer": "bye"
+  },
+  {
+   "id": "L0U01-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sun",
+   "item": "sun",
+   "options": [
+    "please",
+    "name",
+    "sun"
+   ],
+   "answer": "sun"
+  },
+  {
+   "id": "L0U01-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sock",
+   "item": "sock",
+   "options": [
+    "sorry",
+    "bye",
+    "sock"
+   ],
+   "answer": "sock"
+  },
+  {
+   "id": "L0U01-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "yes",
+   "item": "yes",
+   "options": [
+    "thank you",
+    "yes",
+    "hi"
+   ],
+   "answer": "yes"
+  },
+  {
+   "id": "L0U01-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "no",
+   "item": "no",
+   "options": [
+    "yes",
+    "no",
+    "friend"
+   ],
+   "answer": "no"
+  },
+  {
+   "id": "L0U01-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "please",
+   "item": "please",
+   "options": [
+    "apple",
+    "please",
+    "ten"
+   ],
+   "answer": "please"
+  },
+  {
+   "id": "L0U01-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ant",
+   "item": "ant",
+   "options": [
+    "ant",
+    "apple",
+    "bye"
+   ],
+   "answer": "ant"
+  },
+  {
+   "id": "L0U01-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "apple",
+   "item": "apple",
+   "options": [
+    "apple",
+    "ant",
+    "tap"
+   ],
+   "answer": "apple"
+  },
+  {
+   "id": "L0U01-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "thank you",
+   "item": "thank you",
+   "options": [
+    "ten",
+    "ant",
+    "thank you"
+   ],
+   "answer": "thank you"
+  },
+  {
+   "id": "L0U01-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sorry",
+   "item": "sorry",
+   "options": [
+    "please",
+    "sorry",
+    "apple"
+   ],
+   "answer": "sorry"
+  },
+  {
+   "id": "L0U01-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "friend",
+   "item": "friend",
+   "options": [
+    "friend",
+    "bye",
+    "name"
+   ],
+   "answer": "friend"
+  },
+  {
+   "id": "L0U01-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ten",
+   "item": "ten",
+   "options": [
+    "sorry",
+    "ten",
+    "sock"
+   ],
+   "answer": "ten"
+  },
+  {
+   "id": "L0U01-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tap",
+   "item": "tap",
+   "options": [
+    "tap",
+    "hello",
+    "yes"
+   ],
+   "answer": "tap"
+  },
+  {
+   "id": "L0U01-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "name",
+   "item": "name",
+   "options": [
+    "no",
+    "name",
+    "sorry"
+   ],
+   "answer": "name"
+  },
+  {
+   "id": "L0U01-Q017",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hello red.",
+   "item": "hello",
+   "options": [
+    "name",
+    "hello",
+    "sun"
+   ],
+   "answer": "hello",
+   "color": "red"
+  },
+  {
+   "id": "L0U01-Q018",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hi green.",
+   "item": "hi",
+   "options": [
+    "tap",
+    "hi",
+    "apple"
+   ],
+   "answer": "hi",
+   "color": "green"
+  },
+  {
+   "id": "L0U01-Q019",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the bye green.",
+   "item": "bye",
+   "options": [
+    "bye",
+    "thank you",
+    "sun"
+   ],
+   "answer": "bye",
+   "color": "green"
+  },
+  {
+   "id": "L0U01-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the sun pink.",
+   "item": "sun",
+   "options": [
+    "no",
+    "sun",
+    "friend"
+   ],
+   "answer": "sun",
+   "color": "pink"
+  },
+  {
+   "id": "L0U01-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hello",
+   "answer": "hello"
+  },
+  {
+   "id": "L0U01-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hi",
+   "answer": "hi"
+  },
+  {
+   "id": "L0U01-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bye",
+   "answer": "bye"
+  },
+  {
+   "id": "L0U01-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sun",
+   "answer": "sun"
+  },
+  {
+   "id": "L0U01-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sock",
+   "answer": "sock"
+  },
+  {
+   "id": "L0U01-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "yes",
+   "answer": "yes"
+  },
+  {
+   "id": "L0U01-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "no",
+   "answer": "no"
+  },
+  {
+   "id": "L0U01-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "please",
+   "answer": "please"
+  },
+  {
+   "id": "L0U01-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ant",
+   "answer": "ant"
+  },
+  {
+   "id": "L0U01-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "apple",
+   "answer": "apple"
+  },
+  {
+   "id": "L0U01-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "thank you",
+   "answer": "thank you"
+  },
+  {
+   "id": "L0U01-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sorry",
+   "answer": "sorry"
+  },
+  {
+   "id": "L0U01-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "friend",
+   "answer": "friend"
+  },
+  {
+   "id": "L0U01-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ten",
+   "answer": "ten"
+  },
+  {
+   "id": "L0U01-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tap",
+   "answer": "tap"
+  },
+  {
+   "id": "L0U01-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "name",
+   "answer": "name"
+  },
+  {
+   "id": "L0U01-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hello, Bi!",
+   "item": "hello",
+   "answer": "Hello, Bi!"
+  },
+  {
+   "id": "L0U01-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hi! I'm Bi.",
+   "item": "hi",
+   "answer": "Hi! I'm Bi."
+  },
+  {
+   "id": "L0U01-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bye, Bi!",
+   "item": "bye",
+   "answer": "Bye, Bi!"
+  },
+  {
+   "id": "L0U01-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see the sun.",
+   "item": "sun",
+   "answer": "I see the sun."
+  },
+  {
+   "id": "L0U01-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a red sock.",
+   "item": "sock",
+   "answer": "It's a red sock."
+  },
+  {
+   "id": "L0U01-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yes, please!",
+   "item": "yes",
+   "answer": "Yes, please!"
+  },
+  {
+   "id": "L0U01-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "No, thank you.",
+   "item": "no",
+   "answer": "No, thank you."
+  },
+  {
+   "id": "L0U01-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yes, please.",
+   "item": "please",
+   "answer": "Yes, please."
+  },
+  {
+   "id": "L0U01-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a small ant.",
+   "item": "ant",
+   "answer": "It's a small ant."
+  },
+  {
+   "id": "L0U01-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a red apple.",
+   "item": "apple",
+   "answer": "It's a red apple."
+  },
+  {
+   "id": "L0U01-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you, Bi!",
+   "item": "thank you",
+   "answer": "Thank you, Bi!"
+  },
+  {
+   "id": "L0U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Oh, sorry!",
+   "item": "sorry",
+   "answer": "Oh, sorry!"
+  },
+  {
+   "id": "L0U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You are my friend.",
+   "item": "friend",
+   "answer": "You are my friend."
+  },
+  {
+   "id": "L0U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have ten stars.",
+   "item": "ten",
+   "answer": "I have ten stars."
+  },
+  {
+   "id": "L0U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a tap.",
+   "item": "tap",
+   "answer": "It's a tap."
+  },
+  {
+   "id": "L0U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My name is Bi.",
+   "item": "name",
+   "answer": "My name is Bi."
+  },
+  {
+   "id": "L0U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hello, Bi!",
+   "answer": "Hello, Bi!"
+  },
+  {
+   "id": "L0U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hello, friend!",
+   "answer": "Hello, friend!"
+  },
+  {
+   "id": "L0U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm Bi.",
+   "answer": "I'm Bi."
+  },
+  {
+   "id": "L0U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm Kid.",
+   "answer": "I'm Kid."
+  },
+  {
+   "id": "L0U01-Q057",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your name?",
+   "answer": "My name is Kid."
+  },
+  {
+   "id": "L0U01-Q058",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "s",
+   "options": [
+    "s",
+    "b",
+    "a"
+   ],
+   "answer": "s"
+  },
+  {
+   "id": "L0U01-Q059",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "a",
+   "options": [
+    "p",
+    "a",
+    "l"
+   ],
+   "answer": "a"
+  },
+  {
+   "id": "L0U01-Q060",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "t",
+   "options": [
+    "t",
+    "l",
+    "f"
+   ],
+   "answer": "t"
+  },
+  {
+   "id": "L0U01-Q061",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "S"
+  },
+  {
+   "id": "L0U01-Q062",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "s"
+  },
+  {
+   "id": "L0U01-Q063",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "A"
+  },
+  {
+   "id": "L0U01-Q064",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "a"
+  },
+  {
+   "id": "L0U01-Q065",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "T"
+  },
+  {
+   "id": "L0U01-Q066",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "t"
+  },
+  {
+   "id": "L0U01-Q067",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "h"
+  },
+  {
+   "id": "L0U01-Q068",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  },
+  {
+   "id": "L0U01-Q069",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "y"
+  },
+  {
+   "id": "L0U01-Q070",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "n"
+  }
+ ]
+}

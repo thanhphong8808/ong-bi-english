@@ -1,0 +1,2707 @@
+{
+ "id": "L2U04",
+ "level": 2,
+ "unit": 4,
+ "topic_en": "Food and cooking",
+ "topic_vi": "Đồ ăn và nấu ăn",
+ "can_do_vi": [
+  "Gọi tên đồ dùng ăn uống",
+  "Nói \"Can I have some ..., please?\""
+ ],
+ "items": [
+  {
+   "id": "L2U04-W01",
+   "type": "word",
+   "en": "plate",
+   "vi": "cái đĩa",
+   "ipa": "/pleɪt/",
+   "syllables": [
+    "plate"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Put the cake on the plate.",
+   "example_vi": "Đặt bánh lên đĩa nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W02",
+   "type": "word",
+   "en": "knife",
+   "vi": "con dao",
+   "ipa": "/naɪf/",
+   "syllables": [
+    "knife"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F52A"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Be careful with the knife.",
+   "example_vi": "Cẩn thận với con dao nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W03",
+   "type": "word",
+   "en": "fork",
+   "vi": "cái dĩa",
+   "ipa": "/fɔrk/",
+   "syllables": [
+    "fork"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F374"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I eat pasta with a fork.",
+   "example_vi": "Tớ ăn mì Ý bằng dĩa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W04",
+   "type": "word",
+   "en": "glass",
+   "vi": "cái cốc thuỷ tinh",
+   "ipa": "/ɡlæs/",
+   "syllables": [
+    "glass"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "A glass of milk, please.",
+   "example_vi": "Cho tớ một cốc sữa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W05",
+   "type": "word",
+   "en": "bottle",
+   "vi": "cái chai",
+   "ipa": "/ˈbɑtəl/",
+   "syllables": [
+    "bot",
+    "tle"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F37C"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "The baby has a bottle.",
+   "example_vi": "Em bé có một bình sữa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W06",
+   "type": "word",
+   "en": "salt",
+   "vi": "muối",
+   "ipa": "/sɔlt/",
+   "syllables": [
+    "salt"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9C2"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "The soup needs salt.",
+   "example_vi": "Món canh cần thêm muối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W07",
+   "type": "word",
+   "en": "sugar",
+   "vi": "đường",
+   "ipa": "/ˈʃʊɡər/",
+   "syllables": [
+    "sug",
+    "ar"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F36C"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "I don't want sugar in my tea.",
+   "example_vi": "Tớ không muốn cho đường vào trà.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W08",
+   "type": "word",
+   "en": "butter",
+   "vi": "bơ",
+   "ipa": "/ˈbʌtər/",
+   "syllables": [
+    "but",
+    "ter"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9C8"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I like bread and butter.",
+   "example_vi": "Tớ thích bánh mì phết bơ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W09",
+   "type": "word",
+   "en": "oil",
+   "vi": "dầu ăn",
+   "ipa": "/ɔɪl/",
+   "syllables": [
+    "oil"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1FAD2"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Mum cooks with oil.",
+   "example_vi": "Mẹ nấu ăn bằng dầu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W10",
+   "type": "word",
+   "en": "honey",
+   "vi": "mật ong",
+   "ipa": "/ˈhʌni/",
+   "syllables": [
+    "hon",
+    "ey"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F36F"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Bees make honey.",
+   "example_vi": "Ong làm ra mật.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W11",
+   "type": "word",
+   "en": "salad",
+   "vi": "món rau trộn",
+   "ipa": "/ˈsæləd/",
+   "syllables": [
+    "sal",
+    "ad"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F957"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I have salad for lunch.",
+   "example_vi": "Tớ ăn rau trộn vào bữa trưa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W12",
+   "type": "word",
+   "en": "sandwich",
+   "vi": "bánh kẹp",
+   "ipa": "/ˈsænwɪtʃ/",
+   "syllables": [
+    "sand",
+    "wich"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F96A"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "This sandwich is yummy!",
+   "example_vi": "Bánh kẹp này ngon quá!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W13",
+   "type": "word",
+   "en": "pancake",
+   "vi": "bánh kếp",
+   "ipa": "/ˈpænˌkeɪk/",
+   "syllables": [
+    "pan",
+    "cake"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F95E"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "We make pancakes on Sunday.",
+   "example_vi": "Chủ nhật nhà tớ làm bánh kếp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W14",
+   "type": "word",
+   "en": "pasta",
+   "vi": "mì Ý",
+   "ipa": "/ˈpɑstə/",
+   "syllables": [
+    "pas",
+    "ta"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F35D"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I love pasta with tomato.",
+   "example_vi": "Tớ thích mì Ý sốt cà chua.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W15",
+   "type": "word",
+   "en": "toast",
+   "vi": "bánh mì nướng",
+   "ipa": "/toʊst/",
+   "syllables": [
+    "toast"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F35E"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I have toast for breakfast.",
+   "example_vi": "Tớ ăn bánh mì nướng vào bữa sáng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W16",
+   "type": "word",
+   "en": "cereal",
+   "vi": "ngũ cốc",
+   "ipa": "/ˈsɪriəl/",
+   "syllables": [
+    "ce",
+    "re",
+    "al"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F963"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "I eat cereal with milk.",
+   "example_vi": "Tớ ăn ngũ cốc với sữa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W17",
+   "type": "word",
+   "en": "yogurt",
+   "vi": "sữa chua",
+   "ipa": "/ˈjoʊɡərt/",
+   "syllables": [
+    "yo",
+    "gurt"
+   ],
+   "phonics": "initial_y",
+   "image": {
+    "emoji": "1F366"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "Yogurt is good for you.",
+   "example_vi": "Sữa chua tốt cho cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W18",
+   "type": "word",
+   "en": "snack",
+   "vi": "đồ ăn vặt",
+   "ipa": "/snæk/",
+   "syllables": [
+    "snack"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F36A"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Can I have a snack?",
+   "example_vi": "Cho tớ ăn chút đồ ăn vặt nhé?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W19",
+   "type": "word",
+   "en": "delicious",
+   "vi": "rất ngon",
+   "ipa": "/dɪˈlɪʃəs/",
+   "syllables": [
+    "de",
+    "li",
+    "cious"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F60B"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "The soup is delicious!",
+   "example_vi": "Món canh ngon tuyệt!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W20",
+   "type": "word",
+   "en": "cut",
+   "vi": "cắt",
+   "ipa": "/kʌt/",
+   "syllables": [
+    "cut"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "2702-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Cut the bread, please.",
+   "example_vi": "Cắt bánh mì giúp tớ nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W21",
+   "type": "word",
+   "en": "mix",
+   "vi": "trộn",
+   "ipa": "/mɪks/",
+   "syllables": [
+    "mix"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F944"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "Mix the egg and the milk.",
+   "example_vi": "Trộn trứng với sữa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W22",
+   "type": "word",
+   "en": "bake",
+   "vi": "nướng (bánh)",
+   "ipa": "/beɪk/",
+   "syllables": [
+    "bake"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9C1"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "Let's bake a cake!",
+   "example_vi": "Mình nướng bánh đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W23",
+   "type": "word",
+   "en": "fry",
+   "vi": "rán, chiên",
+   "ipa": "/fraɪ/",
+   "syllables": [
+    "fry"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F373"
+   },
+   "picturable": true,
+   "cat": "L2U04",
+   "example_en": "Dad fries the eggs.",
+   "example_vi": "Bố rán trứng.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W24",
+   "type": "word",
+   "en": "make",
+   "vi": "làm",
+   "ipa": "/meɪk/",
+   "syllables": [
+    "make"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F6E0-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "I make a sandwich.",
+   "example_vi": "Tớ làm bánh kẹp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W25",
+   "type": "word",
+   "en": "full",
+   "vi": "no, đầy",
+   "ipa": "/fʊl/",
+   "syllables": [
+    "full"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F645"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "No more, thanks. I'm full.",
+   "example_vi": "Thôi, cảm ơn. Tớ no rồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W26",
+   "type": "word",
+   "en": "empty",
+   "vi": "trống, rỗng",
+   "ipa": "/ˈɛmti/",
+   "syllables": [
+    "emp",
+    "ty"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1FAD9"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "My glass is empty.",
+   "example_vi": "Cốc của tớ hết rồi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U04-W27",
+   "type": "word",
+   "en": "some",
+   "vi": "một ít",
+   "ipa": "/sʌm/",
+   "syllables": [
+    "some"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": false,
+   "cat": "L2U04",
+   "example_en": "Can I have some water, please?",
+   "example_vi": "Cho tớ ít nước nhé?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U04-P01",
+   "en": "Can I have some {x}, please?",
+   "vi": "Cho tớ một ít {x} nhé?",
+   "slots": {
+    "x": [
+     "bread",
+     "water",
+     "salad",
+     "honey"
+    ]
+   }
+  },
+  {
+   "id": "L2U04-P02",
+   "en": "I eat {x} with a fork.",
+   "vi": "Tớ ăn {x} bằng dĩa.",
+   "slots": {
+    "x": [
+     "pasta",
+     "salad",
+     "cake"
+    ]
+   }
+  },
+  {
+   "id": "L2U04-P03",
+   "en": "Let's make {x}!",
+   "vi": "Mình làm {x} đi!",
+   "slots": {
+    "x": [
+     "pancakes",
+     "sandwiches",
+     "a cake"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U04-D01",
+   "title_vi": "Bữa sáng",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "What do you want for breakfast?",
+     "vi": "Con muốn ăn sáng món gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "Can I have some toast, please?",
+     "vi": "Cho con ít bánh mì nướng ạ?"
+    },
+    {
+     "role": "Mum",
+     "en": "Sure. With butter or honey?",
+     "vi": "Được. Phết bơ hay mật ong?"
+    },
+    {
+     "role": "Kid",
+     "en": "Honey, please!",
+     "vi": "Mật ong ạ!"
+    },
+    {
+     "role": "Mum",
+     "en": "Here you are.",
+     "vi": "Của con đây."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you. It's delicious!",
+     "vi": "Con cảm ơn. Ngon quá!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "toast",
+    "options": [
+     "cereal",
+     "pancakes"
+    ]
+   }
+  },
+  {
+   "id": "L2U04-D02",
+   "title_vi": "Làm bánh kếp",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's make pancakes!",
+     "vi": "Mình làm bánh kếp đi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! What do we need?",
+     "vi": "Ừ! Mình cần gì?"
+    },
+    {
+     "role": "Bi",
+     "en": "Eggs, milk and flour.",
+     "vi": "Trứng, sữa và bột mì."
+    },
+    {
+     "role": "Kid",
+     "en": "I can mix the eggs.",
+     "vi": "Tớ trộn trứng được."
+    },
+    {
+     "role": "Bi",
+     "en": "Great! Be careful.",
+     "vi": "Tuyệt! Cẩn thận nhé."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "eggs",
+    "options": [
+     "milk",
+     "sugar"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "plate"
+  },
+  {
+   "type": "dictate_word",
+   "target": "knife"
+  },
+  {
+   "type": "dictate_word",
+   "target": "fork"
+  },
+  {
+   "type": "dictate_word",
+   "target": "glass"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bottle"
+  },
+  {
+   "type": "dictate_word",
+   "target": "salt"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sugar"
+  },
+  {
+   "type": "dictate_word",
+   "target": "butter"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Put the cake on the plate."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Be careful with the knife."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I eat pasta with a fork."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U04-R01",
+   "title_en": "Pancake day",
+   "text_en": [
+    "It is Sunday.",
+    "Dad and Lan make pancakes.",
+    "Lan mixes the eggs and the milk.",
+    "Dad fries the pancakes.",
+    "They eat the pancakes with honey.",
+    "They are delicious!"
+   ],
+   "questions": [
+    {
+     "q": "Who fries the pancakes?",
+     "options": [
+      "Dad.",
+      "Lan.",
+      "Mum."
+     ],
+     "answer": "Dad."
+    },
+    {
+     "q": "What do they eat with the pancakes?",
+     "options": [
+      "Honey.",
+      "Salt.",
+      "Butter."
+     ],
+     "answer": "Honey."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "plate",
+   "item": "plate",
+   "options": [
+    "sandwich",
+    "salad",
+    "plate",
+    "salt"
+   ],
+   "answer": "plate"
+  },
+  {
+   "id": "L2U04-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "knife",
+   "item": "knife",
+   "options": [
+    "fork",
+    "snack",
+    "toast",
+    "knife"
+   ],
+   "answer": "knife"
+  },
+  {
+   "id": "L2U04-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fork",
+   "item": "fork",
+   "options": [
+    "fork",
+    "bottle",
+    "salad",
+    "cereal"
+   ],
+   "answer": "fork"
+  },
+  {
+   "id": "L2U04-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "glass",
+   "item": "glass",
+   "options": [
+    "fry",
+    "knife",
+    "pancake",
+    "glass"
+   ],
+   "answer": "glass"
+  },
+  {
+   "id": "L2U04-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bottle",
+   "item": "bottle",
+   "options": [
+    "delicious",
+    "salt",
+    "plate",
+    "bottle"
+   ],
+   "answer": "bottle"
+  },
+  {
+   "id": "L2U04-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "salt",
+   "item": "salt",
+   "options": [
+    "sandwich",
+    "delicious",
+    "fork",
+    "salt"
+   ],
+   "answer": "salt"
+  },
+  {
+   "id": "L2U04-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "butter",
+   "item": "butter",
+   "options": [
+    "pasta",
+    "sandwich",
+    "oil",
+    "butter"
+   ],
+   "answer": "butter"
+  },
+  {
+   "id": "L2U04-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "oil",
+   "item": "oil",
+   "options": [
+    "fork",
+    "toast",
+    "oil",
+    "plate"
+   ],
+   "answer": "oil"
+  },
+  {
+   "id": "L2U04-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "honey",
+   "item": "honey",
+   "options": [
+    "honey",
+    "pasta",
+    "plate",
+    "snack"
+   ],
+   "answer": "honey"
+  },
+  {
+   "id": "L2U04-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "salad",
+   "item": "salad",
+   "options": [
+    "pancake",
+    "salad",
+    "honey",
+    "toast"
+   ],
+   "answer": "salad"
+  },
+  {
+   "id": "L2U04-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sandwich",
+   "item": "sandwich",
+   "options": [
+    "pasta",
+    "sandwich",
+    "salt",
+    "bottle"
+   ],
+   "answer": "sandwich"
+  },
+  {
+   "id": "L2U04-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pancake",
+   "item": "pancake",
+   "options": [
+    "knife",
+    "cut",
+    "pancake",
+    "oil"
+   ],
+   "answer": "pancake"
+  },
+  {
+   "id": "L2U04-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pasta",
+   "item": "pasta",
+   "options": [
+    "honey",
+    "fork",
+    "butter",
+    "pasta"
+   ],
+   "answer": "pasta"
+  },
+  {
+   "id": "L2U04-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "toast",
+   "item": "toast",
+   "options": [
+    "honey",
+    "fry",
+    "knife",
+    "toast"
+   ],
+   "answer": "toast"
+  },
+  {
+   "id": "L2U04-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cereal",
+   "item": "cereal",
+   "options": [
+    "salt",
+    "cereal",
+    "toast",
+    "fork"
+   ],
+   "answer": "cereal"
+  },
+  {
+   "id": "L2U04-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snack",
+   "item": "snack",
+   "options": [
+    "butter",
+    "pasta",
+    "knife",
+    "snack"
+   ],
+   "answer": "snack"
+  },
+  {
+   "id": "L2U04-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "delicious",
+   "item": "delicious",
+   "options": [
+    "plate",
+    "honey",
+    "sandwich",
+    "delicious"
+   ],
+   "answer": "delicious"
+  },
+  {
+   "id": "L2U04-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cut",
+   "item": "cut",
+   "options": [
+    "fry",
+    "cut",
+    "knife",
+    "honey"
+   ],
+   "answer": "cut"
+  },
+  {
+   "id": "L2U04-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fry",
+   "item": "fry",
+   "options": [
+    "pancake",
+    "cereal",
+    "fry",
+    "plate"
+   ],
+   "answer": "fry"
+  },
+  {
+   "id": "L2U04-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sugar",
+   "item": "sugar",
+   "options": [
+    "yogurt",
+    "salad",
+    "sugar",
+    "honey"
+   ],
+   "answer": "sugar"
+  },
+  {
+   "id": "L2U04-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "yogurt",
+   "item": "yogurt",
+   "options": [
+    "toast",
+    "some",
+    "mix",
+    "yogurt"
+   ],
+   "answer": "yogurt"
+  },
+  {
+   "id": "L2U04-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mix",
+   "item": "mix",
+   "options": [
+    "full",
+    "snack",
+    "mix",
+    "knife"
+   ],
+   "answer": "mix"
+  },
+  {
+   "id": "L2U04-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bake",
+   "item": "bake",
+   "options": [
+    "salad",
+    "salt",
+    "bake",
+    "make"
+   ],
+   "answer": "bake"
+  },
+  {
+   "id": "L2U04-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "make",
+   "item": "make",
+   "options": [
+    "fork",
+    "make",
+    "pasta",
+    "fry"
+   ],
+   "answer": "make"
+  },
+  {
+   "id": "L2U04-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "full",
+   "item": "full",
+   "options": [
+    "plate",
+    "bake",
+    "full",
+    "honey"
+   ],
+   "answer": "full"
+  },
+  {
+   "id": "L2U04-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "empty",
+   "item": "empty",
+   "options": [
+    "sugar",
+    "empty",
+    "full",
+    "snack"
+   ],
+   "answer": "empty"
+  },
+  {
+   "id": "L2U04-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "some",
+   "item": "some",
+   "options": [
+    "butter",
+    "make",
+    "some",
+    "bake"
+   ],
+   "answer": "some"
+  },
+  {
+   "id": "L2U04-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "plate",
+   "answer": "plate"
+  },
+  {
+   "id": "L2U04-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "knife",
+   "answer": "knife"
+  },
+  {
+   "id": "L2U04-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fork",
+   "answer": "fork"
+  },
+  {
+   "id": "L2U04-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "glass",
+   "answer": "glass"
+  },
+  {
+   "id": "L2U04-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bottle",
+   "answer": "bottle"
+  },
+  {
+   "id": "L2U04-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "salt",
+   "answer": "salt"
+  },
+  {
+   "id": "L2U04-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "butter",
+   "answer": "butter"
+  },
+  {
+   "id": "L2U04-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "oil",
+   "answer": "oil"
+  },
+  {
+   "id": "L2U04-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "honey",
+   "answer": "honey"
+  },
+  {
+   "id": "L2U04-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "salad",
+   "answer": "salad"
+  },
+  {
+   "id": "L2U04-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sandwich",
+   "answer": "sandwich"
+  },
+  {
+   "id": "L2U04-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pancake",
+   "answer": "pancake"
+  },
+  {
+   "id": "L2U04-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pasta",
+   "answer": "pasta"
+  },
+  {
+   "id": "L2U04-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "toast",
+   "answer": "toast"
+  },
+  {
+   "id": "L2U04-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cereal",
+   "answer": "cereal"
+  },
+  {
+   "id": "L2U04-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snack",
+   "answer": "snack"
+  },
+  {
+   "id": "L2U04-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "delicious",
+   "answer": "delicious"
+  },
+  {
+   "id": "L2U04-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cut",
+   "answer": "cut"
+  },
+  {
+   "id": "L2U04-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fry",
+   "answer": "fry"
+  },
+  {
+   "id": "L2U04-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the cake on the plate.",
+   "item": "plate",
+   "answer": "Put the cake on the plate."
+  },
+  {
+   "id": "L2U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful with the knife.",
+   "item": "knife",
+   "answer": "Be careful with the knife."
+  },
+  {
+   "id": "L2U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat pasta with a fork.",
+   "item": "fork",
+   "answer": "I eat pasta with a fork."
+  },
+  {
+   "id": "L2U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A glass of milk, please.",
+   "item": "glass",
+   "answer": "A glass of milk, please."
+  },
+  {
+   "id": "L2U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby has a bottle.",
+   "item": "bottle",
+   "answer": "The baby has a bottle."
+  },
+  {
+   "id": "L2U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The soup needs salt.",
+   "item": "salt",
+   "answer": "The soup needs salt."
+  },
+  {
+   "id": "L2U04-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't want sugar in my tea.",
+   "item": "sugar",
+   "answer": "I don't want sugar in my tea."
+  },
+  {
+   "id": "L2U04-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like bread and butter.",
+   "item": "butter",
+   "answer": "I like bread and butter."
+  },
+  {
+   "id": "L2U04-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum cooks with oil.",
+   "item": "oil",
+   "answer": "Mum cooks with oil."
+  },
+  {
+   "id": "L2U04-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bees make honey.",
+   "item": "honey",
+   "answer": "Bees make honey."
+  },
+  {
+   "id": "L2U04-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have salad for lunch.",
+   "item": "salad",
+   "answer": "I have salad for lunch."
+  },
+  {
+   "id": "L2U04-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This sandwich is yummy!",
+   "item": "sandwich",
+   "answer": "This sandwich is yummy!"
+  },
+  {
+   "id": "L2U04-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We make pancakes on Sunday.",
+   "item": "pancake",
+   "answer": "We make pancakes on Sunday."
+  },
+  {
+   "id": "L2U04-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love pasta with tomato.",
+   "item": "pasta",
+   "answer": "I love pasta with tomato."
+  },
+  {
+   "id": "L2U04-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have toast for breakfast.",
+   "item": "toast",
+   "answer": "I have toast for breakfast."
+  },
+  {
+   "id": "L2U04-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat cereal with milk.",
+   "item": "cereal",
+   "answer": "I eat cereal with milk."
+  },
+  {
+   "id": "L2U04-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Yogurt is good for you.",
+   "item": "yogurt",
+   "answer": "Yogurt is good for you."
+  },
+  {
+   "id": "L2U04-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have a snack?",
+   "item": "snack",
+   "answer": "Can I have a snack?"
+  },
+  {
+   "id": "L2U04-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The soup is delicious!",
+   "item": "delicious",
+   "answer": "The soup is delicious!"
+  },
+  {
+   "id": "L2U04-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cut the bread, please.",
+   "item": "cut",
+   "answer": "Cut the bread, please."
+  },
+  {
+   "id": "L2U04-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mix the egg and the milk.",
+   "item": "mix",
+   "answer": "Mix the egg and the milk."
+  },
+  {
+   "id": "L2U04-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's bake a cake!",
+   "item": "bake",
+   "answer": "Let's bake a cake!"
+  },
+  {
+   "id": "L2U04-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad fries the eggs.",
+   "item": "fry",
+   "answer": "Dad fries the eggs."
+  },
+  {
+   "id": "L2U04-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I make a sandwich.",
+   "item": "make",
+   "answer": "I make a sandwich."
+  },
+  {
+   "id": "L2U04-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "No more, thanks. I'm full.",
+   "item": "full",
+   "answer": "No more, thanks. I'm full."
+  },
+  {
+   "id": "L2U04-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My glass is empty.",
+   "item": "empty",
+   "answer": "My glass is empty."
+  },
+  {
+   "id": "L2U04-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some water, please?",
+   "item": "some",
+   "answer": "Can I have some water, please?"
+  },
+  {
+   "id": "L2U04-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some bread, please?",
+   "answer": "Can I have some bread, please?"
+  },
+  {
+   "id": "L2U04-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some water, please?",
+   "answer": "Can I have some water, please?"
+  },
+  {
+   "id": "L2U04-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I have some salad, please?",
+   "answer": "Can I have some salad, please?"
+  },
+  {
+   "id": "L2U04-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat pasta with a fork.",
+   "answer": "I eat pasta with a fork."
+  },
+  {
+   "id": "L2U04-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat salad with a fork.",
+   "answer": "I eat salad with a fork."
+  },
+  {
+   "id": "L2U04-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I eat cake with a fork.",
+   "answer": "I eat cake with a fork."
+  },
+  {
+   "id": "L2U04-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's make pancakes!",
+   "answer": "Let's make pancakes!"
+  },
+  {
+   "id": "L2U04-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's make sandwiches!",
+   "answer": "Let's make sandwiches!"
+  },
+  {
+   "id": "L2U04-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's make a cake!",
+   "answer": "Let's make a cake!"
+  },
+  {
+   "id": "L2U04-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What do you want for breakfast?",
+   "answer": "Can I have some toast, please?"
+  },
+  {
+   "id": "L2U04-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I have some toast, please?",
+   "answer": "Sure. With butter or honey?"
+  },
+  {
+   "id": "L2U04-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sure. With butter or honey?",
+   "answer": "Honey, please!"
+  },
+  {
+   "id": "L2U04-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes! What do we need?",
+   "answer": "Eggs, milk and flour."
+  },
+  {
+   "id": "L2U04-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "plate",
+   "options": [
+    "honey",
+    "plate",
+    "delicious"
+   ],
+   "answer": "plate"
+  },
+  {
+   "id": "L2U04-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "knife",
+   "options": [
+    "glass",
+    "fork",
+    "knife"
+   ],
+   "answer": "knife"
+  },
+  {
+   "id": "L2U04-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fork",
+   "options": [
+    "butter",
+    "fork",
+    "salad"
+   ],
+   "answer": "fork"
+  },
+  {
+   "id": "L2U04-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "glass",
+   "options": [
+    "salad",
+    "cereal",
+    "glass"
+   ],
+   "answer": "glass"
+  },
+  {
+   "id": "L2U04-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bottle",
+   "options": [
+    "bottle",
+    "cut",
+    "oil"
+   ],
+   "answer": "bottle"
+  },
+  {
+   "id": "L2U04-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "salt",
+   "options": [
+    "toast",
+    "oil",
+    "salt"
+   ],
+   "answer": "salt"
+  },
+  {
+   "id": "L2U04-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "butter",
+   "options": [
+    "sandwich",
+    "butter",
+    "cut"
+   ],
+   "answer": "butter"
+  },
+  {
+   "id": "L2U04-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "oil",
+   "options": [
+    "pasta",
+    "sandwich",
+    "oil"
+   ],
+   "answer": "oil"
+  },
+  {
+   "id": "L2U04-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "honey",
+   "options": [
+    "sandwich",
+    "honey",
+    "toast"
+   ],
+   "answer": "honey"
+  },
+  {
+   "id": "L2U04-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "salad",
+   "options": [
+    "pasta",
+    "butter",
+    "salad"
+   ],
+   "answer": "salad"
+  },
+  {
+   "id": "L2U04-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sandwich",
+   "options": [
+    "knife",
+    "toast",
+    "sandwich"
+   ],
+   "answer": "sandwich"
+  },
+  {
+   "id": "L2U04-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pancake",
+   "options": [
+    "cut",
+    "pancake",
+    "snack"
+   ],
+   "answer": "pancake"
+  },
+  {
+   "id": "L2U04-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pasta",
+   "options": [
+    "cereal",
+    "pasta",
+    "honey"
+   ],
+   "answer": "pasta"
+  },
+  {
+   "id": "L2U04-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "toast",
+   "options": [
+    "toast",
+    "salt",
+    "pancake"
+   ],
+   "answer": "toast"
+  },
+  {
+   "id": "L2U04-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cereal",
+   "options": [
+    "toast",
+    "salt",
+    "cereal"
+   ],
+   "answer": "cereal"
+  },
+  {
+   "id": "L2U04-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snack",
+   "options": [
+    "snack",
+    "pancake",
+    "oil"
+   ],
+   "answer": "snack"
+  },
+  {
+   "id": "L2U04-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "delicious",
+   "options": [
+    "delicious",
+    "salad",
+    "oil"
+   ],
+   "answer": "delicious"
+  },
+  {
+   "id": "L2U04-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cut",
+   "options": [
+    "cut",
+    "salt",
+    "glass"
+   ],
+   "answer": "cut"
+  },
+  {
+   "id": "L2U04-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fry",
+   "options": [
+    "fry",
+    "butter",
+    "glass"
+   ],
+   "answer": "fry"
+  },
+  {
+   "id": "L2U04-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the cake on the ___.",
+   "item": "plate",
+   "options": [
+    "bake",
+    "plate",
+    "cut"
+   ],
+   "answer": "plate"
+  },
+  {
+   "id": "L2U04-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Be careful with the ___.",
+   "item": "knife",
+   "options": [
+    "honey",
+    "salad",
+    "knife"
+   ],
+   "answer": "knife"
+  },
+  {
+   "id": "L2U04-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I eat pasta with a ___.",
+   "item": "fork",
+   "options": [
+    "fork",
+    "some",
+    "salad"
+   ],
+   "answer": "fork"
+  },
+  {
+   "id": "L2U04-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ of milk, please.",
+   "item": "glass",
+   "options": [
+    "glass",
+    "yogurt",
+    "mix"
+   ],
+   "answer": "glass"
+  },
+  {
+   "id": "L2U04-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby has a ___.",
+   "item": "bottle",
+   "options": [
+    "delicious",
+    "bottle",
+    "yogurt"
+   ],
+   "answer": "bottle"
+  },
+  {
+   "id": "L2U04-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The soup needs ___.",
+   "item": "salt",
+   "options": [
+    "cereal",
+    "salt",
+    "knife"
+   ],
+   "answer": "salt"
+  },
+  {
+   "id": "L2U04-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I don't want ___ in my tea.",
+   "item": "sugar",
+   "options": [
+    "sugar",
+    "some",
+    "make"
+   ],
+   "answer": "sugar"
+  },
+  {
+   "id": "L2U04-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like bread and ___.",
+   "item": "butter",
+   "options": [
+    "plate",
+    "fork",
+    "butter"
+   ],
+   "answer": "butter"
+  },
+  {
+   "id": "L2U04-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum cooks with ___.",
+   "item": "oil",
+   "options": [
+    "oil",
+    "cut",
+    "empty"
+   ],
+   "answer": "oil"
+  },
+  {
+   "id": "L2U04-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Bees make ___.",
+   "item": "honey",
+   "options": [
+    "honey",
+    "pancake",
+    "bake"
+   ],
+   "answer": "honey"
+  },
+  {
+   "id": "L2U04-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ___ for lunch.",
+   "item": "salad",
+   "options": [
+    "toast",
+    "salad",
+    "fork"
+   ],
+   "answer": "salad"
+  },
+  {
+   "id": "L2U04-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ is yummy!",
+   "item": "sandwich",
+   "options": [
+    "bake",
+    "some",
+    "sandwich"
+   ],
+   "answer": "sandwich"
+  },
+  {
+   "id": "L2U04-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We make ___ on Sunday.",
+   "item": "pancake",
+   "options": [
+    "pancakes",
+    "glasses",
+    "snacks"
+   ],
+   "answer": "pancakes"
+  },
+  {
+   "id": "L2U04-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I love ___ with tomato.",
+   "item": "pasta",
+   "options": [
+    "pasta",
+    "salad",
+    "cut"
+   ],
+   "answer": "pasta"
+  },
+  {
+   "id": "L2U04-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have ___ for breakfast.",
+   "item": "toast",
+   "options": [
+    "toast",
+    "butter",
+    "fry"
+   ],
+   "answer": "toast"
+  },
+  {
+   "id": "L2U04-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I eat ___ with milk.",
+   "item": "cereal",
+   "options": [
+    "butter",
+    "fry",
+    "cereal"
+   ],
+   "answer": "cereal"
+  },
+  {
+   "id": "L2U04-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is good for you.",
+   "item": "yogurt",
+   "options": [
+    "Delicious",
+    "Fork",
+    "Yogurt"
+   ],
+   "answer": "Yogurt"
+  },
+  {
+   "id": "L2U04-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I have a ___?",
+   "item": "snack",
+   "options": [
+    "pasta",
+    "snack",
+    "toast"
+   ],
+   "answer": "snack"
+  },
+  {
+   "id": "L2U04-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The soup is ___!",
+   "item": "delicious",
+   "options": [
+    "delicious",
+    "cut",
+    "salad"
+   ],
+   "answer": "delicious"
+  },
+  {
+   "id": "L2U04-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the bread, please.",
+   "item": "cut",
+   "options": [
+    "Sandwich",
+    "Cut",
+    "Bottle"
+   ],
+   "answer": "Cut"
+  },
+  {
+   "id": "L2U04-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the egg and the milk.",
+   "item": "mix",
+   "options": [
+    "Delicious",
+    "Mix",
+    "Cereal"
+   ],
+   "answer": "Mix"
+  },
+  {
+   "id": "L2U04-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ a cake!",
+   "item": "bake",
+   "options": [
+    "fry",
+    "empty",
+    "bake"
+   ],
+   "answer": "bake"
+  },
+  {
+   "id": "L2U04-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a sandwich.",
+   "item": "make",
+   "options": [
+    "make",
+    "oil",
+    "empty"
+   ],
+   "answer": "make"
+  },
+  {
+   "id": "L2U04-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "No more, thanks. I'm ___.",
+   "item": "full",
+   "options": [
+    "plate",
+    "full",
+    "empty"
+   ],
+   "answer": "full"
+  },
+  {
+   "id": "L2U04-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My glass is ___.",
+   "item": "empty",
+   "options": [
+    "empty",
+    "plate",
+    "make"
+   ],
+   "answer": "empty"
+  },
+  {
+   "id": "L2U04-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I have ___ water, please?",
+   "item": "some",
+   "options": [
+    "empty",
+    "sandwich",
+    "some"
+   ],
+   "answer": "some"
+  },
+  {
+   "id": "L2U04-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put the cake on the plate.",
+   "item": "plate",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Be careful with the knife.",
+   "item": "fork",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I eat pasta with a fork.",
+   "item": "fork",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A glass of milk, please.",
+   "item": "bottle",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The baby has a bottle.",
+   "item": "bottle",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The soup needs salt.",
+   "item": "butter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I like bread and butter.",
+   "item": "butter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mum cooks with oil.",
+   "item": "honey",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Bees make honey.",
+   "item": "honey",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have salad for lunch.",
+   "item": "sandwich",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "This sandwich is yummy!",
+   "item": "sandwich",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We make pancakes on Sunday.",
+   "item": "pasta",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I love pasta with tomato.",
+   "item": "pasta",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have toast for breakfast.",
+   "item": "cereal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I eat cereal with milk.",
+   "item": "cereal",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Can I have a snack?",
+   "item": "delicious",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The soup is delicious!",
+   "item": "delicious",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Cut the bread, please.",
+   "item": "fry",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U04-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad fries the eggs.",
+   "item": "fry",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U04-Q151",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U04-R01",
+   "text_en": "Who fries the pancakes?",
+   "options": [
+    "Dad.",
+    "Mum.",
+    "Lan."
+   ],
+   "answer": "Dad."
+  },
+  {
+   "id": "L2U04-Q152",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U04-R01",
+   "text_en": "What do they eat with the pancakes?",
+   "options": [
+    "Honey.",
+    "Butter.",
+    "Salt."
+   ],
+   "answer": "Honey."
+  },
+  {
+   "id": "L2U04-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "plate",
+   "item": "plate",
+   "answer": "plate"
+  },
+  {
+   "id": "L2U04-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "knife",
+   "item": "knife",
+   "answer": "knife"
+  },
+  {
+   "id": "L2U04-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "fork",
+   "item": "fork",
+   "answer": "fork"
+  },
+  {
+   "id": "L2U04-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "glass",
+   "item": "glass",
+   "answer": "glass"
+  },
+  {
+   "id": "L2U04-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bottle",
+   "item": "bottle",
+   "answer": "bottle"
+  },
+  {
+   "id": "L2U04-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "salt",
+   "item": "salt",
+   "answer": "salt"
+  },
+  {
+   "id": "L2U04-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sugar",
+   "item": "sugar",
+   "answer": "sugar"
+  },
+  {
+   "id": "L2U04-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "butter",
+   "item": "butter",
+   "answer": "butter"
+  },
+  {
+   "id": "L2U04-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Put the cake on the plate.",
+   "answer": "Put the cake on the plate."
+  },
+  {
+   "id": "L2U04-Q162",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Be careful with the knife.",
+   "answer": "Be careful with the knife."
+  },
+  {
+   "id": "L2U04-Q163",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I eat pasta with a fork.",
+   "answer": "I eat pasta with a fork."
+  }
+ ]
+}

@@ -1,0 +1,2587 @@
+{
+ "id": "L3U01",
+ "level": 3,
+ "unit": 1,
+ "topic_en": "All about me",
+ "topic_vi": "Tất cả về tớ",
+ "can_do_vi": [
+  "Giới thiệu bản thân: tháng sinh, tính cách, sở thích",
+  "Nói lý do bằng \"because\""
+ ],
+ "grammar_note_vi": "Muốn nói lý do, dùng \"because\" (vì): \"I like Sundays because I can sleep late.\" Phần sau \"because\" là một câu đầy đủ.",
+ "items": [
+  {
+   "id": "L3U01-W01",
+   "type": "word",
+   "en": "know",
+   "vi": "biết",
+   "ipa": "/noʊ/",
+   "syllables": [
+    "know"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I know your name.",
+   "example_vi": "Tớ biết tên cậu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W02",
+   "type": "word",
+   "en": "think",
+   "vi": "nghĩ",
+   "ipa": "/θɪŋk/",
+   "syllables": [
+    "think"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F914"
+   },
+   "picturable": true,
+   "cat": "L3U01",
+   "example_en": "I think he is very kind.",
+   "example_vi": "Tớ nghĩ bạn ấy rất tốt bụng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W03",
+   "type": "word",
+   "en": "see",
+   "vi": "nhìn thấy",
+   "ipa": "/si/",
+   "syllables": [
+    "see"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F52D"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I can see a rainbow.",
+   "example_vi": "Tớ nhìn thấy cầu vồng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W04",
+   "type": "word",
+   "en": "tell",
+   "vi": "kể, nói cho biết",
+   "ipa": "/tɛl/",
+   "syllables": [
+    "tell"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Tell me about your family.",
+   "example_vi": "Kể cho tớ về gia đình cậu đi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W05",
+   "type": "word",
+   "en": "say",
+   "vi": "nói",
+   "ipa": "/seɪ/",
+   "syllables": [
+    "say"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Say hello to Grandma.",
+   "example_vi": "Chào bà đi con.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W06",
+   "type": "word",
+   "en": "because",
+   "vi": "bởi vì",
+   "ipa": "/bɪˈkʌz/",
+   "syllables": [
+    "be",
+    "cause"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "27A1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I'm happy because it's my birthday.",
+   "example_vi": "Tớ vui vì hôm nay là sinh nhật tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W07",
+   "type": "word",
+   "en": "about",
+   "vi": "về",
+   "ipa": "/əˈbaʊt/",
+   "syllables": [
+    "about"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "This book is about animals.",
+   "example_vi": "Cuốn sách này nói về động vật.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W08",
+   "type": "word",
+   "en": "from",
+   "vi": "từ",
+   "ipa": "/frʌm/",
+   "syllables": [
+    "from"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "This card is from my aunt.",
+   "example_vi": "Tấm thiệp này là của dì gửi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W09",
+   "type": "word",
+   "en": "now",
+   "vi": "bây giờ",
+   "ipa": "/naʊ/",
+   "syllables": [
+    "now"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "23F0"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "It's time for bed now.",
+   "example_vi": "Giờ đi ngủ rồi.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W10",
+   "type": "word",
+   "en": "also",
+   "vi": "cũng",
+   "ipa": "/ˈɔlsoʊ/",
+   "syllables": [
+    "al",
+    "so"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I like cats. I also like dogs.",
+   "example_vi": "Tớ thích mèo. Tớ cũng thích chó.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W11",
+   "type": "word",
+   "en": "only",
+   "vi": "chỉ",
+   "ipa": "/ˈoʊnli/",
+   "syllables": [
+    "on",
+    "ly"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "261D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I only have one brother.",
+   "example_vi": "Tớ chỉ có một anh trai.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W12",
+   "type": "word",
+   "en": "little",
+   "vi": "nhỏ, bé",
+   "ipa": "/ˈlɪtəl/",
+   "syllables": [
+    "lit",
+    "tle"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F423"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My little sister is two.",
+   "example_vi": "Em gái nhỏ của tớ hai tuổi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W13",
+   "type": "word",
+   "en": "born",
+   "vi": "được sinh ra",
+   "ipa": "/bɔrn/",
+   "syllables": [
+    "born"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F37C"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "I was born in a small town.",
+   "example_vi": "Tớ sinh ra ở một thị trấn nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W14",
+   "type": "word",
+   "en": "January",
+   "vi": "tháng Một",
+   "ipa": "/ˈdʒænjuˌɛri/",
+   "syllables": [
+    "January"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My birthday is in January.",
+   "example_vi": "Sinh nhật tớ vào tháng Một.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W15",
+   "type": "word",
+   "en": "February",
+   "vi": "tháng Hai",
+   "ipa": "/ˈfɛbruˌɛri/",
+   "syllables": [
+    "February"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "It's cold in February.",
+   "example_vi": "Tháng Hai trời lạnh.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W16",
+   "type": "word",
+   "en": "March",
+   "vi": "tháng Ba",
+   "ipa": "/mɑrtʃ/",
+   "syllables": [
+    "March"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "The trees are green in March.",
+   "example_vi": "Cây xanh vào tháng Ba.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W17",
+   "type": "word",
+   "en": "April",
+   "vi": "tháng Tư",
+   "ipa": "/ˈeɪprəl/",
+   "syllables": [
+    "April"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "It often rains in April.",
+   "example_vi": "Tháng Tư hay mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W18",
+   "type": "word",
+   "en": "May",
+   "vi": "tháng Năm",
+   "ipa": "/meɪ/",
+   "syllables": [
+    "May"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "We have a holiday in May.",
+   "example_vi": "Nhà tớ có kỳ nghỉ vào tháng Năm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W19",
+   "type": "word",
+   "en": "June",
+   "vi": "tháng Sáu",
+   "ipa": "/dʒun/",
+   "syllables": [
+    "June"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "School finishes in June.",
+   "example_vi": "Tháng Sáu là hết năm học.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W20",
+   "type": "word",
+   "en": "July",
+   "vi": "tháng Bảy",
+   "ipa": "/ˌdʒuˈlaɪ/",
+   "syllables": [
+    "Ju",
+    "ly"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "It's very hot in July.",
+   "example_vi": "Tháng Bảy trời rất nóng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W21",
+   "type": "word",
+   "en": "August",
+   "vi": "tháng Tám",
+   "ipa": "/ˈɔɡəst/",
+   "syllables": [
+    "Au",
+    "gust"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "We go to the beach in August.",
+   "example_vi": "Nhà tớ đi biển vào tháng Tám.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W22",
+   "type": "word",
+   "en": "September",
+   "vi": "tháng Chín",
+   "ipa": "/sɛpˈtɛmbər/",
+   "syllables": [
+    "Sep",
+    "tem",
+    "ber"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "School starts in September.",
+   "example_vi": "Năm học bắt đầu vào tháng Chín.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W23",
+   "type": "word",
+   "en": "October",
+   "vi": "tháng Mười",
+   "ipa": "/ɑkˈtoʊbər/",
+   "syllables": [
+    "Oc",
+    "to",
+    "ber"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My dad's birthday is in October.",
+   "example_vi": "Sinh nhật bố tớ vào tháng Mười.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W24",
+   "type": "word",
+   "en": "November",
+   "vi": "tháng Mười Một",
+   "ipa": "/noʊˈvɛmbər/",
+   "syllables": [
+    "No",
+    "vem",
+    "ber"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "It's cool in November.",
+   "example_vi": "Tháng Mười Một trời mát.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W25",
+   "type": "word",
+   "en": "December",
+   "vi": "tháng Mười Hai",
+   "ipa": "/dɪˈsɛmbər/",
+   "syllables": [
+    "De",
+    "cem",
+    "ber"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "December is the last month of the year.",
+   "example_vi": "Tháng Mười Hai là tháng cuối cùng của năm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W26",
+   "type": "word",
+   "en": "friendly",
+   "vi": "thân thiện",
+   "ipa": "/ˈfrɛndli/",
+   "syllables": [
+    "friend",
+    "ly"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F60A"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My new teacher is friendly.",
+   "example_vi": "Cô giáo mới của tớ thân thiện.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W27",
+   "type": "word",
+   "en": "shy",
+   "vi": "nhút nhát",
+   "ipa": "/ʃaɪ/",
+   "syllables": [
+    "shy"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F636"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Don't be shy. Say hello!",
+   "example_vi": "Đừng ngại. Chào đi nào!",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W28",
+   "type": "word",
+   "en": "brave",
+   "vi": "dũng cảm",
+   "ipa": "/breɪv/",
+   "syllables": [
+    "brave"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "The firefighter is very brave.",
+   "example_vi": "Chú lính cứu hoả rất dũng cảm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W29",
+   "type": "word",
+   "en": "polite",
+   "vi": "lễ phép",
+   "ipa": "/pəˈlaɪt/",
+   "syllables": [
+    "po",
+    "lite"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F647"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Say please and thank you. Be polite!",
+   "example_vi": "Nói làm ơn và cảm ơn nhé. Hãy lễ phép!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W30",
+   "type": "word",
+   "en": "helpful",
+   "vi": "hay giúp đỡ",
+   "ipa": "/ˈhɛlpfəl/",
+   "syllables": [
+    "help",
+    "ful"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1FAF1"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My brother is very helpful.",
+   "example_vi": "Anh tớ rất hay giúp đỡ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W31",
+   "type": "word",
+   "en": "naughty",
+   "vi": "nghịch ngợm",
+   "ipa": "/ˈnɔti/",
+   "syllables": [
+    "naughty"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F61C"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "The puppy is naughty.",
+   "example_vi": "Cún con nghịch ngợm.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W32",
+   "type": "word",
+   "en": "curious",
+   "vi": "tò mò",
+   "ipa": "/ˈkjʊriəs/",
+   "syllables": [
+    "cu",
+    "ri",
+    "ous"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D0"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Cats are curious.",
+   "example_vi": "Mèo rất tò mò.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W33",
+   "type": "word",
+   "en": "calm",
+   "vi": "bình tĩnh",
+   "ipa": "/kɑm/",
+   "syllables": [
+    "calm"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F60C"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Stay calm and listen.",
+   "example_vi": "Bình tĩnh và lắng nghe nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W34",
+   "type": "word",
+   "en": "lazy",
+   "vi": "lười",
+   "ipa": "/ˈleɪzi/",
+   "syllables": [
+    "lazy"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F9A5"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "Don't be lazy. Help your mum!",
+   "example_vi": "Đừng lười. Giúp mẹ đi!",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W35",
+   "type": "word",
+   "en": "same",
+   "vi": "giống nhau",
+   "ipa": "/seɪm/",
+   "syllables": [
+    "same"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F7F0"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "We are in the same class.",
+   "example_vi": "Chúng tớ học cùng lớp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U01-W36",
+   "type": "word",
+   "en": "different",
+   "vi": "khác nhau",
+   "ipa": "/ˈdɪfərənt/",
+   "syllables": [
+    "different"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F500"
+   },
+   "picturable": false,
+   "cat": "L3U01",
+   "example_en": "My cat and my dog are very different.",
+   "example_vi": "Mèo và chó của tớ rất khác nhau.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U01-P01",
+   "en": "I was born in {x}.",
+   "vi": "Tớ sinh vào {x}.",
+   "slots": {
+    "x": [
+     "January",
+     "May",
+     "July",
+     "October"
+    ]
+   }
+  },
+  {
+   "id": "L3U01-P02",
+   "en": "I like {x} because it's fun.",
+   "vi": "Tớ thích {x} vì nó vui.",
+   "slots": {
+    "x": [
+     "swimming",
+     "reading",
+     "drawing",
+     "dancing"
+    ]
+   }
+  },
+  {
+   "id": "L3U01-P03",
+   "en": "My friend is very {x}.",
+   "vi": "Bạn tớ rất {x}.",
+   "slots": {
+    "x": [
+     "friendly",
+     "brave",
+     "helpful",
+     "curious"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U01-D01",
+   "title_vi": "Làm quen",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Tell me about you. When were you born?",
+     "vi": "Kể về cậu đi. Cậu sinh vào tháng nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I was born in May. And you?",
+     "vi": "Tớ sinh vào tháng Năm. Còn cậu?"
+    },
+    {
+     "role": "Bi",
+     "en": "In June! Are you shy?",
+     "vi": "Tháng Sáu! Cậu có nhút nhát không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No, I'm friendly. I like new friends.",
+     "vi": "Không, tớ thân thiện. Tớ thích bạn mới."
+    },
+    {
+     "role": "Bi",
+     "en": "Me too! Let's be friends.",
+     "vi": "Tớ cũng vậy! Mình làm bạn nhé."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "May",
+    "options": [
+     "June",
+     "March"
+    ]
+   }
+  },
+  {
+   "id": "L3U01-D02",
+   "title_vi": "Vì sao cậu thích?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite day?",
+     "vi": "Cậu thích ngày nào nhất?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like Sundays.",
+     "vi": "Tớ thích Chủ nhật."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "Because I can sleep late and play with Dad.",
+     "vi": "Vì tớ được ngủ muộn và chơi với bố."
+    },
+    {
+     "role": "Bi",
+     "en": "I like Sundays too!",
+     "vi": "Tớ cũng thích Chủ nhật!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "Sundays",
+    "options": [
+     "Saturdays",
+     "holidays"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "know"
+  },
+  {
+   "type": "dictate_word",
+   "target": "think"
+  },
+  {
+   "type": "dictate_word",
+   "target": "see"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tell"
+  },
+  {
+   "type": "dictate_word",
+   "target": "say"
+  },
+  {
+   "type": "dictate_word",
+   "target": "because"
+  },
+  {
+   "type": "dictate_word",
+   "target": "about"
+  },
+  {
+   "type": "dictate_word",
+   "target": "from"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I know your name."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I think he is very kind."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I can see a rainbow."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My name is|I was born in|I like"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U01-R01",
+   "title_en": "This is me",
+   "text_en": [
+    "Hi!",
+    "My name is Mai.",
+    "I'm seven years old.",
+    "I was born in October.",
+    "I live in a small house with my mum, my dad and my little brother.",
+    "I'm friendly and curious.",
+    "I like books because I can learn about animals.",
+    "My brother is naughty, but he is funny too.",
+    "My best friend is Linh.",
+    "We are in the same class, but we are very different.",
+    "Linh is calm and I am noisy!"
+   ],
+   "questions": [
+    {
+     "q": "When was Mai born?",
+     "options": [
+      "In October.",
+      "In May.",
+      "In July."
+     ],
+     "answer": "In October."
+    },
+    {
+     "q": "Why does Mai like books?",
+     "options": [
+      "She can learn about animals.",
+      "They are cheap.",
+      "Her brother likes them."
+     ],
+     "answer": "She can learn about animals."
+    },
+    {
+     "q": "Who is calm?",
+     "options": [
+      "Linh.",
+      "Mai.",
+      "Mai's brother."
+     ],
+     "answer": "Linh."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U01-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "think",
+   "item": "think",
+   "options": [
+    "come",
+    "jam",
+    "cut",
+    "think"
+   ],
+   "answer": "think"
+  },
+  {
+   "id": "L3U01-Q002",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "know",
+   "item": "know",
+   "options": [
+    "November",
+    "know",
+    "born",
+    "September"
+   ],
+   "answer": "know"
+  },
+  {
+   "id": "L3U01-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "see",
+   "item": "see",
+   "options": [
+    "shy",
+    "naughty",
+    "see",
+    "helpful"
+   ],
+   "answer": "see"
+  },
+  {
+   "id": "L3U01-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tell",
+   "item": "tell",
+   "options": [
+    "brave",
+    "September",
+    "tell",
+    "because"
+   ],
+   "answer": "tell"
+  },
+  {
+   "id": "L3U01-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "say",
+   "item": "say",
+   "options": [
+    "now",
+    "friendly",
+    "September",
+    "say"
+   ],
+   "answer": "say"
+  },
+  {
+   "id": "L3U01-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "because",
+   "item": "because",
+   "options": [
+    "February",
+    "because",
+    "polite",
+    "from"
+   ],
+   "answer": "because"
+  },
+  {
+   "id": "L3U01-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "about",
+   "item": "about",
+   "options": [
+    "February",
+    "about",
+    "naughty",
+    "helpful"
+   ],
+   "answer": "about"
+  },
+  {
+   "id": "L3U01-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "from",
+   "item": "from",
+   "options": [
+    "know",
+    "different",
+    "from",
+    "curious"
+   ],
+   "answer": "from"
+  },
+  {
+   "id": "L3U01-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "now",
+   "item": "now",
+   "options": [
+    "June",
+    "now",
+    "lazy",
+    "only"
+   ],
+   "answer": "now"
+  },
+  {
+   "id": "L3U01-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "also",
+   "item": "also",
+   "options": [
+    "polite",
+    "August",
+    "different",
+    "also"
+   ],
+   "answer": "also"
+  },
+  {
+   "id": "L3U01-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "only",
+   "item": "only",
+   "options": [
+    "tell",
+    "say",
+    "February",
+    "only"
+   ],
+   "answer": "only"
+  },
+  {
+   "id": "L3U01-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "little",
+   "item": "little",
+   "options": [
+    "naughty",
+    "little",
+    "September",
+    "February"
+   ],
+   "answer": "little"
+  },
+  {
+   "id": "L3U01-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "born",
+   "item": "born",
+   "options": [
+    "shy",
+    "born",
+    "February",
+    "August"
+   ],
+   "answer": "born"
+  },
+  {
+   "id": "L3U01-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "January",
+   "item": "January",
+   "options": [
+    "November",
+    "January",
+    "from",
+    "born"
+   ],
+   "answer": "January"
+  },
+  {
+   "id": "L3U01-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "February",
+   "item": "February",
+   "options": [
+    "little",
+    "February",
+    "lazy",
+    "curious"
+   ],
+   "answer": "February"
+  },
+  {
+   "id": "L3U01-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "March",
+   "item": "March",
+   "options": [
+    "August",
+    "know",
+    "brave",
+    "March"
+   ],
+   "answer": "March"
+  },
+  {
+   "id": "L3U01-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "April",
+   "item": "April",
+   "options": [
+    "know",
+    "see",
+    "from",
+    "April"
+   ],
+   "answer": "April"
+  },
+  {
+   "id": "L3U01-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "May",
+   "item": "May",
+   "options": [
+    "May",
+    "think",
+    "July",
+    "January"
+   ],
+   "answer": "May"
+  },
+  {
+   "id": "L3U01-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "June",
+   "item": "June",
+   "options": [
+    "only",
+    "also",
+    "see",
+    "June"
+   ],
+   "answer": "June"
+  },
+  {
+   "id": "L3U01-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "July",
+   "item": "July",
+   "options": [
+    "same",
+    "see",
+    "little",
+    "July"
+   ],
+   "answer": "July"
+  },
+  {
+   "id": "L3U01-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "August",
+   "item": "August",
+   "options": [
+    "August",
+    "naughty",
+    "helpful",
+    "only"
+   ],
+   "answer": "August"
+  },
+  {
+   "id": "L3U01-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "September",
+   "item": "September",
+   "options": [
+    "September",
+    "shy",
+    "only",
+    "December"
+   ],
+   "answer": "September"
+  },
+  {
+   "id": "L3U01-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "October",
+   "item": "October",
+   "options": [
+    "brave",
+    "August",
+    "October",
+    "May"
+   ],
+   "answer": "October"
+  },
+  {
+   "id": "L3U01-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "November",
+   "item": "November",
+   "options": [
+    "know",
+    "June",
+    "calm",
+    "November"
+   ],
+   "answer": "November"
+  },
+  {
+   "id": "L3U01-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "December",
+   "item": "December",
+   "options": [
+    "same",
+    "December",
+    "also",
+    "lazy"
+   ],
+   "answer": "December"
+  },
+  {
+   "id": "L3U01-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "friendly",
+   "item": "friendly",
+   "options": [
+    "curious",
+    "know",
+    "say",
+    "friendly"
+   ],
+   "answer": "friendly"
+  },
+  {
+   "id": "L3U01-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shy",
+   "item": "shy",
+   "options": [
+    "shy",
+    "July",
+    "same",
+    "born"
+   ],
+   "answer": "shy"
+  },
+  {
+   "id": "L3U01-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "brave",
+   "item": "brave",
+   "options": [
+    "born",
+    "brave",
+    "about",
+    "April"
+   ],
+   "answer": "brave"
+  },
+  {
+   "id": "L3U01-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "polite",
+   "item": "polite",
+   "options": [
+    "little",
+    "October",
+    "polite",
+    "calm"
+   ],
+   "answer": "polite"
+  },
+  {
+   "id": "L3U01-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "helpful",
+   "item": "helpful",
+   "options": [
+    "brave",
+    "May",
+    "helpful",
+    "July"
+   ],
+   "answer": "helpful"
+  },
+  {
+   "id": "L3U01-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "naughty",
+   "item": "naughty",
+   "options": [
+    "naughty",
+    "curious",
+    "August",
+    "only"
+   ],
+   "answer": "naughty"
+  },
+  {
+   "id": "L3U01-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "curious",
+   "item": "curious",
+   "options": [
+    "September",
+    "curious",
+    "also",
+    "helpful"
+   ],
+   "answer": "curious"
+  },
+  {
+   "id": "L3U01-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "calm",
+   "item": "calm",
+   "options": [
+    "born",
+    "different",
+    "friendly",
+    "calm"
+   ],
+   "answer": "calm"
+  },
+  {
+   "id": "L3U01-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lazy",
+   "item": "lazy",
+   "options": [
+    "polite",
+    "March",
+    "lazy",
+    "June"
+   ],
+   "answer": "lazy"
+  },
+  {
+   "id": "L3U01-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "same",
+   "item": "same",
+   "options": [
+    "same",
+    "little",
+    "know",
+    "also"
+   ],
+   "answer": "same"
+  },
+  {
+   "id": "L3U01-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "different",
+   "item": "different",
+   "options": [
+    "little",
+    "different",
+    "from",
+    "also"
+   ],
+   "answer": "different"
+  },
+  {
+   "id": "L3U01-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "think",
+   "answer": "think"
+  },
+  {
+   "id": "L3U01-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I know your name.",
+   "item": "know",
+   "answer": "I know your name."
+  },
+  {
+   "id": "L3U01-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I think he is very kind.",
+   "item": "think",
+   "answer": "I think he is very kind."
+  },
+  {
+   "id": "L3U01-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a rainbow.",
+   "item": "see",
+   "answer": "I can see a rainbow."
+  },
+  {
+   "id": "L3U01-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tell me about your family.",
+   "item": "tell",
+   "answer": "Tell me about your family."
+  },
+  {
+   "id": "L3U01-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Say hello to Grandma.",
+   "item": "say",
+   "answer": "Say hello to Grandma."
+  },
+  {
+   "id": "L3U01-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm happy because it's my birthday.",
+   "item": "because",
+   "answer": "I'm happy because it's my birthday."
+  },
+  {
+   "id": "L3U01-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This book is about animals.",
+   "item": "about",
+   "answer": "This book is about animals."
+  },
+  {
+   "id": "L3U01-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This card is from my aunt.",
+   "item": "from",
+   "answer": "This card is from my aunt."
+  },
+  {
+   "id": "L3U01-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's time for bed now.",
+   "item": "now",
+   "answer": "It's time for bed now."
+  },
+  {
+   "id": "L3U01-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like cats. I also like dogs.",
+   "item": "also",
+   "answer": "I like cats. I also like dogs."
+  },
+  {
+   "id": "L3U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I only have one brother.",
+   "item": "only",
+   "answer": "I only have one brother."
+  },
+  {
+   "id": "L3U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My little sister is two.",
+   "item": "little",
+   "answer": "My little sister is two."
+  },
+  {
+   "id": "L3U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was born in a small town.",
+   "item": "born",
+   "answer": "I was born in a small town."
+  },
+  {
+   "id": "L3U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My birthday is in January.",
+   "item": "January",
+   "answer": "My birthday is in January."
+  },
+  {
+   "id": "L3U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cold in February.",
+   "item": "February",
+   "answer": "It's cold in February."
+  },
+  {
+   "id": "L3U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The trees are green in March.",
+   "item": "March",
+   "answer": "The trees are green in March."
+  },
+  {
+   "id": "L3U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It often rains in April.",
+   "item": "April",
+   "answer": "It often rains in April."
+  },
+  {
+   "id": "L3U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a holiday in May.",
+   "item": "May",
+   "answer": "We have a holiday in May."
+  },
+  {
+   "id": "L3U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "School finishes in June.",
+   "item": "June",
+   "answer": "School finishes in June."
+  },
+  {
+   "id": "L3U01-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's very hot in July.",
+   "item": "July",
+   "answer": "It's very hot in July."
+  },
+  {
+   "id": "L3U01-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We go to the beach in August.",
+   "item": "August",
+   "answer": "We go to the beach in August."
+  },
+  {
+   "id": "L3U01-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "School starts in September.",
+   "item": "September",
+   "answer": "School starts in September."
+  },
+  {
+   "id": "L3U01-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad's birthday is in October.",
+   "item": "October",
+   "answer": "My dad's birthday is in October."
+  },
+  {
+   "id": "L3U01-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's cool in November.",
+   "item": "November",
+   "answer": "It's cool in November."
+  },
+  {
+   "id": "L3U01-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "December is the last month of the year.",
+   "item": "December",
+   "answer": "December is the last month of the year."
+  },
+  {
+   "id": "L3U01-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My new teacher is friendly.",
+   "item": "friendly",
+   "answer": "My new teacher is friendly."
+  },
+  {
+   "id": "L3U01-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't be shy. Say hello!",
+   "item": "shy",
+   "answer": "Don't be shy. Say hello!"
+  },
+  {
+   "id": "L3U01-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The firefighter is very brave.",
+   "item": "brave",
+   "answer": "The firefighter is very brave."
+  },
+  {
+   "id": "L3U01-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Say please and thank you. Be polite!",
+   "item": "polite",
+   "answer": "Say please and thank you. Be polite!"
+  },
+  {
+   "id": "L3U01-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother is very helpful.",
+   "item": "helpful",
+   "answer": "My brother is very helpful."
+  },
+  {
+   "id": "L3U01-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The puppy is naughty.",
+   "item": "naughty",
+   "answer": "The puppy is naughty."
+  },
+  {
+   "id": "L3U01-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cats are curious.",
+   "item": "curious",
+   "answer": "Cats are curious."
+  },
+  {
+   "id": "L3U01-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stay calm and listen.",
+   "item": "calm",
+   "answer": "Stay calm and listen."
+  },
+  {
+   "id": "L3U01-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't be lazy. Help your mum!",
+   "item": "lazy",
+   "answer": "Don't be lazy. Help your mum!"
+  },
+  {
+   "id": "L3U01-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We are in the same class.",
+   "item": "same",
+   "answer": "We are in the same class."
+  },
+  {
+   "id": "L3U01-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cat and my dog are very different.",
+   "item": "different",
+   "answer": "My cat and my dog are very different."
+  },
+  {
+   "id": "L3U01-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was born in January.",
+   "answer": "I was born in January."
+  },
+  {
+   "id": "L3U01-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was born in May.",
+   "answer": "I was born in May."
+  },
+  {
+   "id": "L3U01-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I was born in July.",
+   "answer": "I was born in July."
+  },
+  {
+   "id": "L3U01-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like swimming because it's fun.",
+   "answer": "I like swimming because it's fun."
+  },
+  {
+   "id": "L3U01-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like reading because it's fun.",
+   "answer": "I like reading because it's fun."
+  },
+  {
+   "id": "L3U01-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like drawing because it's fun.",
+   "answer": "I like drawing because it's fun."
+  },
+  {
+   "id": "L3U01-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My friend is very friendly.",
+   "answer": "My friend is very friendly."
+  },
+  {
+   "id": "L3U01-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My friend is very brave.",
+   "answer": "My friend is very brave."
+  },
+  {
+   "id": "L3U01-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My friend is very helpful.",
+   "answer": "My friend is very helpful."
+  },
+  {
+   "id": "L3U01-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Tell me about you. When were you born?",
+   "answer": "I was born in May. And you?"
+  },
+  {
+   "id": "L3U01-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I was born in May. And you?",
+   "answer": "In June! Are you shy?"
+  },
+  {
+   "id": "L3U01-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "In June! Are you shy?",
+   "answer": "No, I'm friendly. I like new friends."
+  },
+  {
+   "id": "L3U01-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite day?",
+   "answer": "I like Sundays."
+  },
+  {
+   "id": "L3U01-Q087",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "Because I can sleep late and play with Dad."
+  },
+  {
+   "id": "L3U01-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "think",
+   "options": [
+    "think",
+    "third",
+    "pet"
+   ],
+   "answer": "think"
+  },
+  {
+   "id": "L3U01-Q089",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ your name.",
+   "item": "know",
+   "options": [
+    "know",
+    "helpful",
+    "different"
+   ],
+   "answer": "know"
+  },
+  {
+   "id": "L3U01-Q090",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ he is very kind.",
+   "item": "think",
+   "options": [
+    "polite",
+    "think",
+    "same"
+   ],
+   "answer": "think"
+  },
+  {
+   "id": "L3U01-Q091",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___ a rainbow.",
+   "item": "see",
+   "options": [
+    "see",
+    "shy",
+    "polite"
+   ],
+   "answer": "see"
+  },
+  {
+   "id": "L3U01-Q092",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ me about your family.",
+   "item": "tell",
+   "options": [
+    "Shy",
+    "Same",
+    "Tell"
+   ],
+   "answer": "Tell"
+  },
+  {
+   "id": "L3U01-Q093",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ hello to Grandma.",
+   "item": "say",
+   "options": [
+    "Now",
+    "About",
+    "Say"
+   ],
+   "answer": "Say"
+  },
+  {
+   "id": "L3U01-Q094",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm happy ___ it's my birthday.",
+   "item": "because",
+   "options": [
+    "because",
+    "also",
+    "from"
+   ],
+   "answer": "because"
+  },
+  {
+   "id": "L3U01-Q095",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This book is ___ animals.",
+   "item": "about",
+   "options": [
+    "now",
+    "about",
+    "only"
+   ],
+   "answer": "about"
+  },
+  {
+   "id": "L3U01-Q096",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This card is ___ my aunt.",
+   "item": "from",
+   "options": [
+    "same",
+    "from",
+    "only"
+   ],
+   "answer": "from"
+  },
+  {
+   "id": "L3U01-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's time for bed ___.",
+   "item": "now",
+   "options": [
+    "now",
+    "see",
+    "tell"
+   ],
+   "answer": "now"
+  },
+  {
+   "id": "L3U01-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like cats. I ___ like dogs.",
+   "item": "also",
+   "options": [
+    "polite",
+    "also",
+    "born"
+   ],
+   "answer": "also"
+  },
+  {
+   "id": "L3U01-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ have one brother.",
+   "item": "only",
+   "options": [
+    "shy",
+    "only",
+    "lazy"
+   ],
+   "answer": "only"
+  },
+  {
+   "id": "L3U01-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ sister is two.",
+   "item": "little",
+   "options": [
+    "about",
+    "friendly",
+    "little"
+   ],
+   "answer": "little"
+  },
+  {
+   "id": "L3U01-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I was ___ in a small town.",
+   "item": "born",
+   "options": [
+    "think",
+    "also",
+    "born"
+   ],
+   "answer": "born"
+  },
+  {
+   "id": "L3U01-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My new teacher is ___.",
+   "item": "friendly",
+   "options": [
+    "friendly",
+    "now",
+    "because"
+   ],
+   "answer": "friendly"
+  },
+  {
+   "id": "L3U01-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't be ___. Say hello!",
+   "item": "shy",
+   "options": [
+    "shy",
+    "tell",
+    "little"
+   ],
+   "answer": "shy"
+  },
+  {
+   "id": "L3U01-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The firefighter is very ___.",
+   "item": "brave",
+   "options": [
+    "same",
+    "tell",
+    "brave"
+   ],
+   "answer": "brave"
+  },
+  {
+   "id": "L3U01-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Say please and thank you. Be ___!",
+   "item": "polite",
+   "options": [
+    "see",
+    "tell",
+    "polite"
+   ],
+   "answer": "polite"
+  },
+  {
+   "id": "L3U01-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother is very ___.",
+   "item": "helpful",
+   "options": [
+    "also",
+    "tell",
+    "helpful"
+   ],
+   "answer": "helpful"
+  },
+  {
+   "id": "L3U01-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The puppy is ___.",
+   "item": "naughty",
+   "options": [
+    "see",
+    "now",
+    "naughty"
+   ],
+   "answer": "naughty"
+  },
+  {
+   "id": "L3U01-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cats are ___.",
+   "item": "curious",
+   "options": [
+    "now",
+    "think",
+    "curious"
+   ],
+   "answer": "curious"
+  },
+  {
+   "id": "L3U01-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Stay ___ and listen.",
+   "item": "calm",
+   "options": [
+    "say",
+    "calm",
+    "now"
+   ],
+   "answer": "calm"
+  },
+  {
+   "id": "L3U01-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't be ___. Help your mum!",
+   "item": "lazy",
+   "options": [
+    "now",
+    "only",
+    "lazy"
+   ],
+   "answer": "lazy"
+  },
+  {
+   "id": "L3U01-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We are in the ___ class.",
+   "item": "same",
+   "options": [
+    "lazy",
+    "same",
+    "helpful"
+   ],
+   "answer": "same"
+  },
+  {
+   "id": "L3U01-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cat and my dog are very ___.",
+   "item": "different",
+   "options": [
+    "different",
+    "tell",
+    "say"
+   ],
+   "answer": "different"
+  },
+  {
+   "id": "L3U01-Q113",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U01-R01",
+   "text_en": "When was Mai born?",
+   "options": [
+    "In May.",
+    "In October.",
+    "In July."
+   ],
+   "answer": "In October."
+  },
+  {
+   "id": "L3U01-Q114",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U01-R01",
+   "text_en": "Why does Mai like books?",
+   "options": [
+    "She can learn about animals.",
+    "Her brother likes them.",
+    "They are cheap."
+   ],
+   "answer": "She can learn about animals."
+  },
+  {
+   "id": "L3U01-Q115",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U01-R01",
+   "text_en": "Who is calm?",
+   "options": [
+    "Linh.",
+    "Mai's brother.",
+    "Mai."
+   ],
+   "answer": "Linh."
+  },
+  {
+   "id": "L3U01-Q116",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "know",
+   "item": "know",
+   "answer": "know"
+  },
+  {
+   "id": "L3U01-Q117",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "think",
+   "item": "think",
+   "answer": "think"
+  },
+  {
+   "id": "L3U01-Q118",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "see",
+   "item": "see",
+   "answer": "see"
+  },
+  {
+   "id": "L3U01-Q119",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tell",
+   "item": "tell",
+   "answer": "tell"
+  },
+  {
+   "id": "L3U01-Q120",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "say",
+   "item": "say",
+   "answer": "say"
+  },
+  {
+   "id": "L3U01-Q121",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "because",
+   "item": "because",
+   "answer": "because"
+  },
+  {
+   "id": "L3U01-Q122",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "about",
+   "item": "about",
+   "answer": "about"
+  },
+  {
+   "id": "L3U01-Q123",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "from",
+   "item": "from",
+   "answer": "from"
+  },
+  {
+   "id": "L3U01-Q124",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I know your name.",
+   "answer": "I know your name."
+  },
+  {
+   "id": "L3U01-Q125",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I think he is very kind.",
+   "answer": "I think he is very kind."
+  },
+  {
+   "id": "L3U01-Q126",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I can see a rainbow.",
+   "answer": "I can see a rainbow."
+  }
+ ]
+}

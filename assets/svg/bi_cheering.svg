@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Bi the bee: original mascot drawn for Ong Bi English -->
+  <ellipse cx="120" cy="222" rx="54" ry="8" fill="#000000" fill-opacity="0.10"/>
+  <path d="M90 92 C70 30 34 60 74 108 Z" fill="#DDF3FF" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M150 92 C170 30 206 60 166 108 Z" fill="#DDF3FF" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M104 66 Q94 38 80 34" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M136 66 Q146 38 160 34" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="79" cy="33" r="7" fill="#FFB703" stroke="#3A2A1A" stroke-width="3"/>
+  <circle cx="161" cy="33" r="7" fill="#FFB703" stroke="#3A2A1A" stroke-width="3"/>
+  <ellipse cx="120" cy="160" rx="54" ry="50" fill="#FFC531" stroke="#3A2A1A" stroke-width="4"/>
+  <path d="M68 150 Q120 168 172 150 L173 166 Q120 184 67 166 Z" fill="#3A2A1A"/>
+  <path d="M76 184 Q120 200 164 184 L154 198 Q120 210 86 198 Z" fill="#3A2A1A"/>
+  <circle cx="120" cy="100" r="48" fill="#FFD23F" stroke="#3A2A1A" stroke-width="4"/>
+  <circle cx="88" cy="112" r="9" fill="#FF8FA3" fill-opacity="0.75"/>
+  <circle cx="152" cy="112" r="9" fill="#FF8FA3" fill-opacity="0.75"/>
+  <path d="M70 148 Q44 132 40 108" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170 148 Q196 132 200 108" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M94 98 Q102 86 110 98" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M130 98 Q138 86 146 98" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M102 112 Q120 138 138 112 Z" fill="#3A2A1A"/>
+  <path d="M110 122 Q120 132 130 122 Z" fill="#FF6B6B"/>
+  <path d="M30 60 L34 70 L44 72 L36 79 L38 90 L30 84 L22 90 L24 79 L16 72 L26 70 Z" fill="#FFD23F" stroke="#3A2A1A" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M212 50 L215 58 L223 59 L217 65 L219 73 L212 69 L205 73 L207 65 L201 59 L209 58 Z" fill="#FF8FA3" stroke="#3A2A1A" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,1794 @@
+{
+ "id": "L1U12",
+ "level": 1,
+ "unit": 12,
+ "topic_en": "In the park",
+ "topic_vi": "Ở công viên",
+ "can_do_vi": [
+  "Gọi tên những thứ ở công viên",
+  "Rủ bạn chơi với \"Let's ...\""
+ ],
+ "items": [
+  {
+   "id": "L1U12-W01",
+   "type": "word",
+   "en": "park",
+   "vi": "công viên",
+   "ipa": "/pɑrk/",
+   "syllables": [
+    "park"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Let's go to the park!",
+   "example_vi": "Mình đi công viên đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W02",
+   "type": "word",
+   "en": "playground",
+   "vi": "sân chơi",
+   "ipa": "/ˈpleɪˌɡraʊnd/",
+   "syllables": [
+    "play",
+    "ground"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F938"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "I like the playground.",
+   "example_vi": "Tớ thích sân chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U12-W03",
+   "type": "word",
+   "en": "slide",
+   "vi": "cầu trượt",
+   "ipa": "/slaɪd/",
+   "syllables": [
+    "slide"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6DD"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The slide is fun.",
+   "example_vi": "Cầu trượt vui lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W04",
+   "type": "word",
+   "en": "swing",
+   "vi": "xích đu",
+   "ipa": "/swɪŋ/",
+   "syllables": [
+    "swing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3A0"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "I'm on the swing.",
+   "example_vi": "Tớ đang ngồi xích đu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W05",
+   "type": "word",
+   "en": "grass",
+   "vi": "cỏ",
+   "ipa": "/ɡræs/",
+   "syllables": [
+    "grass"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F33F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The grass is green.",
+   "example_vi": "Cỏ màu xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W06",
+   "type": "word",
+   "en": "bench",
+   "vi": "ghế dài",
+   "ipa": "/bɛntʃ/",
+   "syllables": [
+    "bench"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FA91"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Grandma is on the bench.",
+   "example_vi": "Bà đang ngồi trên ghế dài.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W07",
+   "type": "word",
+   "en": "lake",
+   "vi": "cái hồ",
+   "ipa": "/leɪk/",
+   "syllables": [
+    "lake"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F3DD-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The ducks are on the lake.",
+   "example_vi": "Đàn vịt ở trên hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W08",
+   "type": "word",
+   "en": "bridge",
+   "vi": "cây cầu",
+   "ipa": "/brɪdʒ/",
+   "syllables": [
+    "bridge"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F309"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Walk on the bridge.",
+   "example_vi": "Đi bộ trên cầu nào.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W09",
+   "type": "word",
+   "en": "rock",
+   "vi": "hòn đá",
+   "ipa": "/rɑk/",
+   "syllables": [
+    "rock"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1FAA8"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The frog is on the rock.",
+   "example_vi": "Con ếch ở trên hòn đá.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W10",
+   "type": "word",
+   "en": "leaf",
+   "vi": "chiếc lá",
+   "ipa": "/lif/",
+   "syllables": [
+    "leaf"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F343"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The leaf is green.",
+   "example_vi": "Chiếc lá màu xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W11",
+   "type": "word",
+   "en": "butterfly",
+   "vi": "con bướm",
+   "ipa": "/ˈbʌtərˌflaɪ/",
+   "syllables": [
+    "but",
+    "ter",
+    "fly"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F98B"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "I see a butterfly.",
+   "example_vi": "Tớ thấy một con bướm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U12-W12",
+   "type": "word",
+   "en": "sky",
+   "vi": "bầu trời",
+   "ipa": "/skaɪ/",
+   "syllables": [
+    "sky"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F324-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The sky is blue.",
+   "example_vi": "Bầu trời màu xanh.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W13",
+   "type": "word",
+   "en": "cloud",
+   "vi": "đám mây",
+   "ipa": "/klaʊd/",
+   "syllables": [
+    "cloud"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2601-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The cloud is white.",
+   "example_vi": "Đám mây màu trắng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W14",
+   "type": "word",
+   "en": "rain",
+   "vi": "mưa",
+   "ipa": "/reɪn/",
+   "syllables": [
+    "rain"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F327-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Oh no! Rain!",
+   "example_vi": "Ôi không! Mưa rồi!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W15",
+   "type": "word",
+   "en": "picnic",
+   "vi": "buổi dã ngoại",
+   "ipa": "/ˈpɪkˌnɪk/",
+   "syllables": [
+    "pic",
+    "nic"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9FA"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Let's have a picnic!",
+   "example_vi": "Mình đi dã ngoại nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W16",
+   "type": "word",
+   "en": "fun",
+   "vi": "vui",
+   "ipa": "/fʌn/",
+   "syllables": [
+    "fun"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F389"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "The park is fun.",
+   "example_vi": "Công viên vui lắm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W17",
+   "type": "word",
+   "en": "hide",
+   "vi": "trốn",
+   "ipa": "/haɪd/",
+   "syllables": [
+    "hide"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1FAE3"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Let's hide!",
+   "example_vi": "Mình trốn đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W18",
+   "type": "word",
+   "en": "find",
+   "vi": "tìm thấy",
+   "ipa": "/faɪnd/",
+   "syllables": [
+    "find"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F50E"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "I can't find Bi.",
+   "example_vi": "Tớ không tìm thấy Bi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W19",
+   "type": "word",
+   "en": "turn",
+   "vi": "lượt",
+   "ipa": "/tʌrn/",
+   "syllables": [
+    "turn"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F504"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "It's my turn.",
+   "example_vi": "Đến lượt tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U12-W20",
+   "type": "word",
+   "en": "together",
+   "vi": "cùng nhau",
+   "ipa": "/təˈɡɛðər/",
+   "syllables": [
+    "to",
+    "geth",
+    "er"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F46D"
+   },
+   "picturable": true,
+   "cat": "L1U12",
+   "example_en": "Let's play together.",
+   "example_vi": "Mình chơi cùng nhau nhé.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U12-P01",
+   "en": "Let's go to the {x}!",
+   "vi": "Mình đi {x} đi!",
+   "slots": {
+    "x": [
+     "park",
+     "playground",
+     "lake",
+     "zoo"
+    ]
+   }
+  },
+  {
+   "id": "L1U12-P02",
+   "en": "Let's {x}!",
+   "vi": "Mình {x} đi!",
+   "slots": {
+    "x": [
+     "hide",
+     "play together",
+     "have a picnic",
+     "run"
+    ]
+   }
+  },
+  {
+   "id": "L1U12-P03",
+   "en": "It's {x} turn.",
+   "vi": "Đến lượt {x}.",
+   "slots": {
+    "x": [
+     "my",
+     "your"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U12-D01",
+   "title_vi": "Rủ đi công viên",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's go to the park!",
+     "vi": "Mình đi công viên đi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Can I go on the slide?",
+     "vi": "Được! Tớ chơi cầu trượt được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! Let's play together.",
+     "vi": "Được chứ! Mình chơi cùng nhau nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Yay! It's fun!",
+     "vi": "Hoan hô! Vui quá!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "park",
+    "options": [
+     "playground",
+     "lake"
+    ]
+   }
+  },
+  {
+   "id": "L1U12-D02",
+   "title_vi": "Giờ ra chơi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Can I play too?",
+     "vi": "Tớ chơi cùng được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! It's your turn.",
+     "vi": "Được chứ! Đến lượt cậu đấy."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you! Look, I'm on the swing!",
+     "vi": "Cảm ơn cậu! Nhìn này, tớ đang ngồi xích đu!"
+    },
+    {
+     "role": "Bi",
+     "en": "Good! Now it's my turn.",
+     "vi": "Giỏi lắm! Giờ đến lượt tớ."
+    }
+   ]
+  },
+  {
+   "id": "L1U12-D03",
+   "title_vi": "Trốn tìm",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's hide! One, two, three!",
+     "vi": "Mình chơi trốn tìm nhé! Một, hai, ba!"
+    },
+    {
+     "role": "Kid",
+     "en": "Where is Bi? I can't find Bi.",
+     "vi": "Bi đâu rồi? Tớ không tìm thấy Bi."
+    },
+    {
+     "role": "Bi",
+     "en": "I'm here! Under the bench!",
+     "vi": "Tớ ở đây! Dưới ghế dài!"
+    },
+    {
+     "role": "Kid",
+     "en": "Oh! You are funny, Bi.",
+     "vi": "Ồ! Bi buồn cười thật."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "p"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "g"
+  },
+  {
+   "type": "write_letter",
+   "target": "b"
+  },
+  {
+   "type": "copy_word",
+   "target": "park"
+  },
+  {
+   "type": "copy_word",
+   "target": "slide"
+  },
+  {
+   "type": "copy_word",
+   "target": "swing"
+  },
+  {
+   "type": "copy_word",
+   "target": "grass"
+  },
+  {
+   "type": "copy_word",
+   "target": "bench"
+  },
+  {
+   "type": "copy_word",
+   "target": "lake"
+  },
+  {
+   "type": "copy_word",
+   "target": "bridge"
+  },
+  {
+   "type": "copy_word",
+   "target": "rock"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U12-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "park",
+   "item": "park",
+   "options": [
+    "playground",
+    "park",
+    "bridge",
+    "swing"
+   ],
+   "answer": "park"
+  },
+  {
+   "id": "L1U12-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "playground",
+   "item": "playground",
+   "options": [
+    "find",
+    "playground",
+    "rock",
+    "leaf"
+   ],
+   "answer": "playground"
+  },
+  {
+   "id": "L1U12-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "slide",
+   "item": "slide",
+   "options": [
+    "grass",
+    "bridge",
+    "slide",
+    "sky"
+   ],
+   "answer": "slide"
+  },
+  {
+   "id": "L1U12-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "swing",
+   "item": "swing",
+   "options": [
+    "hide",
+    "park",
+    "swing",
+    "picnic"
+   ],
+   "answer": "swing"
+  },
+  {
+   "id": "L1U12-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "grass",
+   "item": "grass",
+   "options": [
+    "together",
+    "grass",
+    "swing",
+    "fun"
+   ],
+   "answer": "grass"
+  },
+  {
+   "id": "L1U12-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bench",
+   "item": "bench",
+   "options": [
+    "rain",
+    "grass",
+    "fun",
+    "bench"
+   ],
+   "answer": "bench"
+  },
+  {
+   "id": "L1U12-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "lake",
+   "item": "lake",
+   "options": [
+    "lake",
+    "cloud",
+    "butterfly",
+    "swing"
+   ],
+   "answer": "lake"
+  },
+  {
+   "id": "L1U12-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bridge",
+   "item": "bridge",
+   "options": [
+    "rock",
+    "swing",
+    "bridge",
+    "fun"
+   ],
+   "answer": "bridge"
+  },
+  {
+   "id": "L1U12-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rock",
+   "item": "rock",
+   "options": [
+    "grass",
+    "cloud",
+    "rock",
+    "playground"
+   ],
+   "answer": "rock"
+  },
+  {
+   "id": "L1U12-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "leaf",
+   "item": "leaf",
+   "options": [
+    "slide",
+    "rain",
+    "rock",
+    "leaf"
+   ],
+   "answer": "leaf"
+  },
+  {
+   "id": "L1U12-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "butterfly",
+   "item": "butterfly",
+   "options": [
+    "cloud",
+    "butterfly",
+    "leaf",
+    "swing"
+   ],
+   "answer": "butterfly"
+  },
+  {
+   "id": "L1U12-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sky",
+   "item": "sky",
+   "options": [
+    "sky",
+    "find",
+    "rock",
+    "picnic"
+   ],
+   "answer": "sky"
+  },
+  {
+   "id": "L1U12-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cloud",
+   "item": "cloud",
+   "options": [
+    "playground",
+    "rain",
+    "lake",
+    "cloud"
+   ],
+   "answer": "cloud"
+  },
+  {
+   "id": "L1U12-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rain",
+   "item": "rain",
+   "options": [
+    "lake",
+    "turn",
+    "rain",
+    "bench"
+   ],
+   "answer": "rain"
+  },
+  {
+   "id": "L1U12-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "picnic",
+   "item": "picnic",
+   "options": [
+    "swing",
+    "hide",
+    "picnic",
+    "park"
+   ],
+   "answer": "picnic"
+  },
+  {
+   "id": "L1U12-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fun",
+   "item": "fun",
+   "options": [
+    "hide",
+    "fun",
+    "park",
+    "rock"
+   ],
+   "answer": "fun"
+  },
+  {
+   "id": "L1U12-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hide",
+   "item": "hide",
+   "options": [
+    "hide",
+    "fun",
+    "rock",
+    "rain"
+   ],
+   "answer": "hide"
+  },
+  {
+   "id": "L1U12-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "find",
+   "item": "find",
+   "options": [
+    "rock",
+    "picnic",
+    "find",
+    "lake"
+   ],
+   "answer": "find"
+  },
+  {
+   "id": "L1U12-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "turn",
+   "item": "turn",
+   "options": [
+    "sky",
+    "bridge",
+    "picnic",
+    "turn"
+   ],
+   "answer": "turn"
+  },
+  {
+   "id": "L1U12-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "together",
+   "item": "together",
+   "options": [
+    "swing",
+    "leaf",
+    "together",
+    "sky"
+   ],
+   "answer": "together"
+  },
+  {
+   "id": "L1U12-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the park orange.",
+   "item": "park",
+   "options": [
+    "park",
+    "turn",
+    "fun"
+   ],
+   "answer": "park",
+   "color": "orange"
+  },
+  {
+   "id": "L1U12-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the playground orange.",
+   "item": "playground",
+   "options": [
+    "playground",
+    "picnic",
+    "rock"
+   ],
+   "answer": "playground",
+   "color": "orange"
+  },
+  {
+   "id": "L1U12-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the slide blue.",
+   "item": "slide",
+   "options": [
+    "rain",
+    "bench",
+    "slide"
+   ],
+   "answer": "slide",
+   "color": "blue"
+  },
+  {
+   "id": "L1U12-Q024",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the swing red.",
+   "item": "swing",
+   "options": [
+    "slide",
+    "swing",
+    "find"
+   ],
+   "answer": "swing",
+   "color": "red"
+  },
+  {
+   "id": "L1U12-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "park",
+   "answer": "park"
+  },
+  {
+   "id": "L1U12-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "playground",
+   "answer": "playground"
+  },
+  {
+   "id": "L1U12-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "slide",
+   "answer": "slide"
+  },
+  {
+   "id": "L1U12-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "swing",
+   "answer": "swing"
+  },
+  {
+   "id": "L1U12-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "grass",
+   "answer": "grass"
+  },
+  {
+   "id": "L1U12-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bench",
+   "answer": "bench"
+  },
+  {
+   "id": "L1U12-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "lake",
+   "answer": "lake"
+  },
+  {
+   "id": "L1U12-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bridge",
+   "answer": "bridge"
+  },
+  {
+   "id": "L1U12-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rock",
+   "answer": "rock"
+  },
+  {
+   "id": "L1U12-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "leaf",
+   "answer": "leaf"
+  },
+  {
+   "id": "L1U12-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "butterfly",
+   "answer": "butterfly"
+  },
+  {
+   "id": "L1U12-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sky",
+   "answer": "sky"
+  },
+  {
+   "id": "L1U12-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cloud",
+   "answer": "cloud"
+  },
+  {
+   "id": "L1U12-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rain",
+   "answer": "rain"
+  },
+  {
+   "id": "L1U12-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "picnic",
+   "answer": "picnic"
+  },
+  {
+   "id": "L1U12-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fun",
+   "answer": "fun"
+  },
+  {
+   "id": "L1U12-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hide",
+   "answer": "hide"
+  },
+  {
+   "id": "L1U12-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "find",
+   "answer": "find"
+  },
+  {
+   "id": "L1U12-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "turn",
+   "answer": "turn"
+  },
+  {
+   "id": "L1U12-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "together",
+   "answer": "together"
+  },
+  {
+   "id": "L1U12-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the park!",
+   "item": "park",
+   "answer": "Let's go to the park!"
+  },
+  {
+   "id": "L1U12-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the playground.",
+   "item": "playground",
+   "answer": "I like the playground."
+  },
+  {
+   "id": "L1U12-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The slide is fun.",
+   "item": "slide",
+   "answer": "The slide is fun."
+  },
+  {
+   "id": "L1U12-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm on the swing.",
+   "item": "swing",
+   "answer": "I'm on the swing."
+  },
+  {
+   "id": "L1U12-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The grass is green.",
+   "item": "grass",
+   "answer": "The grass is green."
+  },
+  {
+   "id": "L1U12-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandma is on the bench.",
+   "item": "bench",
+   "answer": "Grandma is on the bench."
+  },
+  {
+   "id": "L1U12-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ducks are on the lake.",
+   "item": "lake",
+   "answer": "The ducks are on the lake."
+  },
+  {
+   "id": "L1U12-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk on the bridge.",
+   "item": "bridge",
+   "answer": "Walk on the bridge."
+  },
+  {
+   "id": "L1U12-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The frog is on the rock.",
+   "item": "rock",
+   "answer": "The frog is on the rock."
+  },
+  {
+   "id": "L1U12-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The leaf is green.",
+   "item": "leaf",
+   "answer": "The leaf is green."
+  },
+  {
+   "id": "L1U12-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a butterfly.",
+   "item": "butterfly",
+   "answer": "I see a butterfly."
+  },
+  {
+   "id": "L1U12-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sky is blue.",
+   "item": "sky",
+   "answer": "The sky is blue."
+  },
+  {
+   "id": "L1U12-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cloud is white.",
+   "item": "cloud",
+   "answer": "The cloud is white."
+  },
+  {
+   "id": "L1U12-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Oh no! Rain!",
+   "item": "rain",
+   "answer": "Oh no! Rain!"
+  },
+  {
+   "id": "L1U12-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's have a picnic!",
+   "item": "picnic",
+   "answer": "Let's have a picnic!"
+  },
+  {
+   "id": "L1U12-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The park is fun.",
+   "item": "fun",
+   "answer": "The park is fun."
+  },
+  {
+   "id": "L1U12-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's hide!",
+   "item": "hide",
+   "answer": "Let's hide!"
+  },
+  {
+   "id": "L1U12-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't find Bi.",
+   "item": "find",
+   "answer": "I can't find Bi."
+  },
+  {
+   "id": "L1U12-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my turn.",
+   "item": "turn",
+   "answer": "It's my turn."
+  },
+  {
+   "id": "L1U12-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play together.",
+   "item": "together",
+   "answer": "Let's play together."
+  },
+  {
+   "id": "L1U12-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the park!",
+   "answer": "Let's go to the park!"
+  },
+  {
+   "id": "L1U12-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the playground!",
+   "answer": "Let's go to the playground!"
+  },
+  {
+   "id": "L1U12-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go to the lake!",
+   "answer": "Let's go to the lake!"
+  },
+  {
+   "id": "L1U12-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's hide!",
+   "answer": "Let's hide!"
+  },
+  {
+   "id": "L1U12-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play together!",
+   "answer": "Let's play together!"
+  },
+  {
+   "id": "L1U12-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's have a picnic!",
+   "answer": "Let's have a picnic!"
+  },
+  {
+   "id": "L1U12-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my turn.",
+   "answer": "It's my turn."
+  },
+  {
+   "id": "L1U12-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's your turn.",
+   "answer": "It's your turn."
+  },
+  {
+   "id": "L1U12-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay! Can I go on the slide?",
+   "answer": "Sure! Let's play together."
+  },
+  {
+   "id": "L1U12-Q074",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I play too?",
+   "answer": "Sure! It's your turn."
+  },
+  {
+   "id": "L1U12-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "park",
+   "options": [
+    "cloud",
+    "bridge",
+    "park"
+   ],
+   "answer": "park"
+  },
+  {
+   "id": "L1U12-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "playground",
+   "options": [
+    "hide",
+    "bench",
+    "playground"
+   ],
+   "answer": "playground"
+  },
+  {
+   "id": "L1U12-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "slide",
+   "options": [
+    "together",
+    "cloud",
+    "slide"
+   ],
+   "answer": "slide"
+  },
+  {
+   "id": "L1U12-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "swing",
+   "options": [
+    "slide",
+    "playground",
+    "swing"
+   ],
+   "answer": "swing"
+  },
+  {
+   "id": "L1U12-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "grass",
+   "options": [
+    "swing",
+    "picnic",
+    "grass"
+   ],
+   "answer": "grass"
+  },
+  {
+   "id": "L1U12-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bench",
+   "options": [
+    "turn",
+    "bench",
+    "hide"
+   ],
+   "answer": "bench"
+  },
+  {
+   "id": "L1U12-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "lake",
+   "options": [
+    "lake",
+    "playground",
+    "together"
+   ],
+   "answer": "lake"
+  },
+  {
+   "id": "L1U12-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bridge",
+   "options": [
+    "bridge",
+    "fun",
+    "park"
+   ],
+   "answer": "bridge"
+  },
+  {
+   "id": "L1U12-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rock",
+   "options": [
+    "butterfly",
+    "lake",
+    "rock"
+   ],
+   "answer": "rock"
+  },
+  {
+   "id": "L1U12-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "leaf",
+   "options": [
+    "bench",
+    "leaf",
+    "bridge"
+   ],
+   "answer": "leaf"
+  },
+  {
+   "id": "L1U12-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "butterfly",
+   "options": [
+    "rock",
+    "swing",
+    "butterfly"
+   ],
+   "answer": "butterfly"
+  },
+  {
+   "id": "L1U12-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sky",
+   "options": [
+    "picnic",
+    "together",
+    "sky"
+   ],
+   "answer": "sky"
+  },
+  {
+   "id": "L1U12-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cloud",
+   "options": [
+    "picnic",
+    "butterfly",
+    "cloud"
+   ],
+   "answer": "cloud"
+  },
+  {
+   "id": "L1U12-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "rain",
+   "options": [
+    "rain",
+    "playground",
+    "butterfly"
+   ],
+   "answer": "rain"
+  },
+  {
+   "id": "L1U12-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "picnic",
+   "options": [
+    "slide",
+    "picnic",
+    "together"
+   ],
+   "answer": "picnic"
+  },
+  {
+   "id": "L1U12-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fun",
+   "options": [
+    "fun",
+    "butterfly",
+    "bench"
+   ],
+   "answer": "fun"
+  },
+  {
+   "id": "L1U12-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hide",
+   "options": [
+    "hide",
+    "butterfly",
+    "park"
+   ],
+   "answer": "hide"
+  },
+  {
+   "id": "L1U12-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "find",
+   "options": [
+    "find",
+    "sky",
+    "together"
+   ],
+   "answer": "find"
+  },
+  {
+   "id": "L1U12-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "turn",
+   "options": [
+    "fun",
+    "turn",
+    "rain"
+   ],
+   "answer": "turn"
+  },
+  {
+   "id": "L1U12-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "together",
+   "options": [
+    "together",
+    "grass",
+    "park"
+   ],
+   "answer": "together"
+  },
+  {
+   "id": "L1U12-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "p",
+   "answer": "p"
+  },
+  {
+   "id": "L1U12-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U12-Q097",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "g",
+   "answer": "g"
+  },
+  {
+   "id": "L1U12-Q098",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "b",
+   "answer": "b"
+  },
+  {
+   "id": "L1U12-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "park",
+   "answer": "park"
+  },
+  {
+   "id": "L1U12-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "slide",
+   "answer": "slide"
+  },
+  {
+   "id": "L1U12-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "swing",
+   "answer": "swing"
+  },
+  {
+   "id": "L1U12-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "grass",
+   "answer": "grass"
+  },
+  {
+   "id": "L1U12-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "bench",
+   "answer": "bench"
+  },
+  {
+   "id": "L1U12-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "lake",
+   "answer": "lake"
+  },
+  {
+   "id": "L1U12-Q105",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "bridge",
+   "answer": "bridge"
+  },
+  {
+   "id": "L1U12-Q106",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "rock",
+   "answer": "rock"
+  }
+ ]
+}

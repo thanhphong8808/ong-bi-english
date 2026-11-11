@@ -1,0 +1,1200 @@
+{
+ "id": "L0U05",
+ "level": 0,
+ "unit": 5,
+ "topic_en": "Food and drink",
+ "topic_vi": "Đồ ăn, thức uống",
+ "can_do_vi": [
+  "Gọi tên 10 món ăn, thức uống",
+  "Nói \"I like ...\" và \"I don't like ...\""
+ ],
+ "items": [
+  {
+   "id": "L0U05-W01",
+   "type": "word",
+   "en": "banana",
+   "vi": "quả chuối",
+   "ipa": "/bəˈnænə/",
+   "syllables": [
+    "banana"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F34C"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "The banana is yellow.",
+   "example_vi": "Quả chuối màu vàng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W02",
+   "type": "word",
+   "en": "bread",
+   "vi": "bánh mì",
+   "ipa": "/brɛd/",
+   "syllables": [
+    "bread"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F35E"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I like bread.",
+   "example_vi": "Tớ thích bánh mì.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-L01",
+   "type": "letter",
+   "en": "d",
+   "vi": "chữ d",
+   "letter": "d",
+   "sound": "/d/",
+   "tip_vi": "Âm \"d\": chạm lưỡi sau răng trên rồi bật ra, có rung cổ: d-d.",
+   "sound_words": [
+    "dog",
+    "dad"
+   ],
+   "image": {
+    "emoji": "1F436"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/d/",
+   "syllables": [
+    "d"
+   ],
+   "phonics": "sound_d",
+   "example_en": "",
+   "example_vi": "Âm \"d\": chạm lưỡi sau răng trên rồi bật ra, có rung cổ: d-d.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U05-W03",
+   "type": "word",
+   "en": "dad",
+   "vi": "bố",
+   "ipa": "/dæd/",
+   "syllables": [
+    "dad"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F468"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I love my dad.",
+   "example_vi": "Tớ yêu bố.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W04",
+   "type": "word",
+   "en": "rice",
+   "vi": "cơm",
+   "ipa": "/raɪs/",
+   "syllables": [
+    "rice"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F35A"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I have rice.",
+   "example_vi": "Tớ ăn cơm.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W05",
+   "type": "word",
+   "en": "milk",
+   "vi": "sữa",
+   "ipa": "/mɪlk/",
+   "syllables": [
+    "milk"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F95B"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I like milk.",
+   "example_vi": "Tớ thích sữa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-L02",
+   "type": "letter",
+   "en": "g",
+   "vi": "chữ g",
+   "letter": "g",
+   "sound": "/ɡ/",
+   "tip_vi": "Âm \"g\": bật hơi từ cổ họng, có rung cổ: g-g.",
+   "sound_words": [
+    "goat",
+    "girl"
+   ],
+   "image": {
+    "emoji": "1F410"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/ɡ/",
+   "syllables": [
+    "g"
+   ],
+   "phonics": "sound_g",
+   "example_en": "",
+   "example_vi": "Âm \"g\": bật hơi từ cổ họng, có rung cổ: g-g.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U05-W06",
+   "type": "word",
+   "en": "goat",
+   "vi": "con dê",
+   "ipa": "/ɡoʊt/",
+   "syllables": [
+    "goat"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F410"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "It's a white goat.",
+   "example_vi": "Đó là con dê trắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W07",
+   "type": "word",
+   "en": "girl",
+   "vi": "bạn gái",
+   "ipa": "/ɡʌrl/",
+   "syllables": [
+    "girl"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F467"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "The girl is happy.",
+   "example_vi": "Bạn gái đang vui.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W08",
+   "type": "word",
+   "en": "water",
+   "vi": "nước",
+   "ipa": "/ˈwɔtər/",
+   "syllables": [
+    "wa",
+    "ter"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "Water, please.",
+   "example_vi": "Cho tớ xin nước ạ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W09",
+   "type": "word",
+   "en": "cake",
+   "vi": "bánh ngọt",
+   "ipa": "/keɪk/",
+   "syllables": [
+    "cake"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F370"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I like cake!",
+   "example_vi": "Tớ thích bánh ngọt!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W10",
+   "type": "word",
+   "en": "juice",
+   "vi": "nước ép",
+   "ipa": "/dʒus/",
+   "syllables": [
+    "juice"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F9C3"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "Juice, please.",
+   "example_vi": "Cho tớ xin nước ép ạ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-L03",
+   "type": "letter",
+   "en": "o",
+   "vi": "chữ o",
+   "letter": "o",
+   "sound": "/ɑ/",
+   "tip_vi": "Âm \"o\": tròn miệng và mở to: o-o.",
+   "sound_words": [
+    "octopus",
+    "ox"
+   ],
+   "image": {
+    "emoji": "1F419"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/ɑ/",
+   "syllables": [
+    "o"
+   ],
+   "phonics": "sound_o",
+   "example_en": "",
+   "example_vi": "Âm \"o\": tròn miệng và mở to: o-o.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U05-W11",
+   "type": "word",
+   "en": "octopus",
+   "vi": "con bạch tuộc",
+   "ipa": "/ˈɑktəˌpʊs/",
+   "syllables": [
+    "oc",
+    "to",
+    "pus"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F419"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "The octopus is funny.",
+   "example_vi": "Con bạch tuộc buồn cười quá.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W12",
+   "type": "word",
+   "en": "ox",
+   "vi": "con bò đực",
+   "ipa": "/ɑks/",
+   "syllables": [
+    "ox"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F402"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "The ox is big.",
+   "example_vi": "Con bò đực to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U05-W13",
+   "type": "word",
+   "en": "noodles",
+   "vi": "mì, phở",
+   "ipa": "/ˈnudəlz/",
+   "syllables": [
+    "noo",
+    "dles"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F35C"
+   },
+   "picturable": true,
+   "cat": "L0U05",
+   "example_en": "I like noodles.",
+   "example_vi": "Tớ thích mì.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U05-P01",
+   "en": "I like {x}.",
+   "vi": "Tớ thích {x}.",
+   "slots": {
+    "x": [
+     "apples",
+     "bananas",
+     "milk",
+     "cake"
+    ]
+   }
+  },
+  {
+   "id": "L0U05-P02",
+   "en": "{x}, please.",
+   "vi": "Cho tớ xin {x} ạ.",
+   "slots": {
+    "x": [
+     "Water",
+     "Juice",
+     "Bread",
+     "Rice"
+    ]
+   }
+  },
+  {
+   "id": "L0U05-P03",
+   "en": "I don't like {x}.",
+   "vi": "Tớ không thích {x}.",
+   "slots": {
+    "x": [
+     "eggs",
+     "milk",
+     "noodles"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U05-D01",
+   "title_vi": "Cậu thích ăn gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "I like apples. Do you like apples?",
+     "vi": "Tớ thích táo. Cậu có thích táo không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I like apples.",
+     "vi": "Có! Tớ thích táo."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you like milk?",
+     "vi": "Cậu có thích sữa không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. I don't like milk.",
+     "vi": "Không. Tớ không thích sữa."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "apples",
+    "options": [
+     "bananas",
+     "cake",
+     "noodles"
+    ]
+   }
+  },
+  {
+   "id": "L0U05-D02",
+   "title_vi": "Xin nước uống",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Water, please.",
+     "vi": "Cho tớ xin nước ạ."
+    },
+    {
+     "role": "Bi",
+     "en": "Here you are.",
+     "vi": "Của cậu đây."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you, Bi!",
+     "vi": "Cảm ơn Bi!"
+    },
+    {
+     "role": "Bi",
+     "en": "You're welcome!",
+     "vi": "Không có gì!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "Water",
+    "options": [
+     "Juice",
+     "Milk"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "D"
+  },
+  {
+   "type": "trace_letter",
+   "target": "d"
+  },
+  {
+   "type": "trace_letter",
+   "target": "G"
+  },
+  {
+   "type": "trace_letter",
+   "target": "g"
+  },
+  {
+   "type": "trace_letter",
+   "target": "O"
+  },
+  {
+   "type": "trace_letter",
+   "target": "o"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  },
+  {
+   "type": "trace_letter",
+   "target": "r"
+  },
+  {
+   "type": "trace_letter",
+   "target": "m"
+  },
+  {
+   "type": "trace_letter",
+   "target": "w"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "banana",
+   "item": "banana",
+   "options": [
+    "cake",
+    "rice",
+    "banana"
+   ],
+   "answer": "banana"
+  },
+  {
+   "id": "L0U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bread",
+   "item": "bread",
+   "options": [
+    "bread",
+    "milk",
+    "juice"
+   ],
+   "answer": "bread"
+  },
+  {
+   "id": "L0U05-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dad",
+   "item": "dad",
+   "options": [
+    "girl",
+    "dad",
+    "banana"
+   ],
+   "answer": "dad"
+  },
+  {
+   "id": "L0U05-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rice",
+   "item": "rice",
+   "options": [
+    "noodles",
+    "rice",
+    "dad"
+   ],
+   "answer": "rice"
+  },
+  {
+   "id": "L0U05-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "milk",
+   "item": "milk",
+   "options": [
+    "octopus",
+    "banana",
+    "milk"
+   ],
+   "answer": "milk"
+  },
+  {
+   "id": "L0U05-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "goat",
+   "item": "goat",
+   "options": [
+    "goat",
+    "water",
+    "noodles"
+   ],
+   "answer": "goat"
+  },
+  {
+   "id": "L0U05-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "girl",
+   "item": "girl",
+   "options": [
+    "bread",
+    "juice",
+    "girl"
+   ],
+   "answer": "girl"
+  },
+  {
+   "id": "L0U05-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "water",
+   "item": "water",
+   "options": [
+    "water",
+    "juice",
+    "milk"
+   ],
+   "answer": "water"
+  },
+  {
+   "id": "L0U05-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cake",
+   "item": "cake",
+   "options": [
+    "goat",
+    "cake",
+    "octopus"
+   ],
+   "answer": "cake"
+  },
+  {
+   "id": "L0U05-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "juice",
+   "item": "juice",
+   "options": [
+    "juice",
+    "ox",
+    "goat"
+   ],
+   "answer": "juice"
+  },
+  {
+   "id": "L0U05-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "octopus",
+   "item": "octopus",
+   "options": [
+    "water",
+    "octopus",
+    "dad"
+   ],
+   "answer": "octopus"
+  },
+  {
+   "id": "L0U05-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ox",
+   "item": "ox",
+   "options": [
+    "ox",
+    "dad",
+    "milk"
+   ],
+   "answer": "ox"
+  },
+  {
+   "id": "L0U05-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "noodles",
+   "item": "noodles",
+   "options": [
+    "bread",
+    "noodles",
+    "juice"
+   ],
+   "answer": "noodles"
+  },
+  {
+   "id": "L0U05-Q014",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the banana pink.",
+   "item": "banana",
+   "options": [
+    "banana",
+    "ox",
+    "goat"
+   ],
+   "answer": "banana",
+   "color": "pink"
+  },
+  {
+   "id": "L0U05-Q015",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the bread blue.",
+   "item": "bread",
+   "options": [
+    "goat",
+    "bread",
+    "girl"
+   ],
+   "answer": "bread",
+   "color": "blue"
+  },
+  {
+   "id": "L0U05-Q016",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the dad pink.",
+   "item": "dad",
+   "options": [
+    "ox",
+    "juice",
+    "dad"
+   ],
+   "answer": "dad",
+   "color": "pink"
+  },
+  {
+   "id": "L0U05-Q017",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the rice pink.",
+   "item": "rice",
+   "options": [
+    "noodles",
+    "rice",
+    "bread"
+   ],
+   "answer": "rice",
+   "color": "pink"
+  },
+  {
+   "id": "L0U05-Q018",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "banana",
+   "answer": "banana"
+  },
+  {
+   "id": "L0U05-Q019",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bread",
+   "answer": "bread"
+  },
+  {
+   "id": "L0U05-Q020",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dad",
+   "answer": "dad"
+  },
+  {
+   "id": "L0U05-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rice",
+   "answer": "rice"
+  },
+  {
+   "id": "L0U05-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "milk",
+   "answer": "milk"
+  },
+  {
+   "id": "L0U05-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "goat",
+   "answer": "goat"
+  },
+  {
+   "id": "L0U05-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "girl",
+   "answer": "girl"
+  },
+  {
+   "id": "L0U05-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "water",
+   "answer": "water"
+  },
+  {
+   "id": "L0U05-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cake",
+   "answer": "cake"
+  },
+  {
+   "id": "L0U05-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "juice",
+   "answer": "juice"
+  },
+  {
+   "id": "L0U05-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "octopus",
+   "answer": "octopus"
+  },
+  {
+   "id": "L0U05-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ox",
+   "answer": "ox"
+  },
+  {
+   "id": "L0U05-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "noodles",
+   "answer": "noodles"
+  },
+  {
+   "id": "L0U05-Q031",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The banana is yellow.",
+   "item": "banana",
+   "answer": "The banana is yellow."
+  },
+  {
+   "id": "L0U05-Q032",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like bread.",
+   "item": "bread",
+   "answer": "I like bread."
+  },
+  {
+   "id": "L0U05-Q033",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love my dad.",
+   "item": "dad",
+   "answer": "I love my dad."
+  },
+  {
+   "id": "L0U05-Q034",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have rice.",
+   "item": "rice",
+   "answer": "I have rice."
+  },
+  {
+   "id": "L0U05-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like milk.",
+   "item": "milk",
+   "answer": "I like milk."
+  },
+  {
+   "id": "L0U05-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a white goat.",
+   "item": "goat",
+   "answer": "It's a white goat."
+  },
+  {
+   "id": "L0U05-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The girl is happy.",
+   "item": "girl",
+   "answer": "The girl is happy."
+  },
+  {
+   "id": "L0U05-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water, please.",
+   "item": "water",
+   "answer": "Water, please."
+  },
+  {
+   "id": "L0U05-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like cake!",
+   "item": "cake",
+   "answer": "I like cake!"
+  },
+  {
+   "id": "L0U05-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Juice, please.",
+   "item": "juice",
+   "answer": "Juice, please."
+  },
+  {
+   "id": "L0U05-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The octopus is funny.",
+   "item": "octopus",
+   "answer": "The octopus is funny."
+  },
+  {
+   "id": "L0U05-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ox is big.",
+   "item": "ox",
+   "answer": "The ox is big."
+  },
+  {
+   "id": "L0U05-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like noodles.",
+   "item": "noodles",
+   "answer": "I like noodles."
+  },
+  {
+   "id": "L0U05-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like apples.",
+   "answer": "I like apples."
+  },
+  {
+   "id": "L0U05-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like bananas.",
+   "answer": "I like bananas."
+  },
+  {
+   "id": "L0U05-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like milk.",
+   "answer": "I like milk."
+  },
+  {
+   "id": "L0U05-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water, please.",
+   "answer": "Water, please."
+  },
+  {
+   "id": "L0U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Juice, please.",
+   "answer": "Juice, please."
+  },
+  {
+   "id": "L0U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bread, please.",
+   "answer": "Bread, please."
+  },
+  {
+   "id": "L0U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like eggs.",
+   "answer": "I don't like eggs."
+  },
+  {
+   "id": "L0U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like milk.",
+   "answer": "I don't like milk."
+  },
+  {
+   "id": "L0U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I don't like noodles.",
+   "answer": "I don't like noodles."
+  },
+  {
+   "id": "L0U05-Q053",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I like apples. Do you like apples?",
+   "answer": "Yes! I like apples."
+  },
+  {
+   "id": "L0U05-Q054",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like milk?",
+   "answer": "No. I don't like milk."
+  },
+  {
+   "id": "L0U05-Q055",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "d",
+   "options": [
+    "n",
+    "t",
+    "d"
+   ],
+   "answer": "d"
+  },
+  {
+   "id": "L0U05-Q056",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "g",
+   "options": [
+    "l",
+    "g",
+    "f"
+   ],
+   "answer": "g"
+  },
+  {
+   "id": "L0U05-Q057",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "o",
+   "options": [
+    "l",
+    "o",
+    "f"
+   ],
+   "answer": "o"
+  },
+  {
+   "id": "L0U05-Q058",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "D"
+  },
+  {
+   "id": "L0U05-Q059",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "d"
+  },
+  {
+   "id": "L0U05-Q060",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "G"
+  },
+  {
+   "id": "L0U05-Q061",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "g"
+  },
+  {
+   "id": "L0U05-Q062",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "O"
+  },
+  {
+   "id": "L0U05-Q063",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "o"
+  },
+  {
+   "id": "L0U05-Q064",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  },
+  {
+   "id": "L0U05-Q065",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "r"
+  },
+  {
+   "id": "L0U05-Q066",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "m"
+  },
+  {
+   "id": "L0U05-Q067",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "w"
+  }
+ ]
+}

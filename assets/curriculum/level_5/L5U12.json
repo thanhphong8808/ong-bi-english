@@ -1,0 +1,3199 @@
+{
+ "id": "L5U12",
+ "level": 5,
+ "unit": 12,
+ "topic_en": "Helping our community",
+ "topic_vi": "Giúp đỡ cộng đồng",
+ "can_do_vi": [
+  "Nói về các hoạt động tình nguyện",
+  "Đề xuất và nhận lời giúp đỡ người khác"
+ ],
+ "grammar_note_vi": "Đề nghị giúp: \"Shall I carry your bag?\" (Để tớ xách túi giúp nhé?). Gợi ý cùng làm: \"Why don't we plant some trees?\" hoặc \"Let's...\" Hưởng ứng: \"That's a great idea!\"",
+ "items": [
+  {
+   "id": "L5U12-W01",
+   "type": "word",
+   "en": "community",
+   "vi": "cộng đồng",
+   "ipa": "/kəmˈjunɪti/",
+   "syllables": [
+    "com",
+    "mu",
+    "ni",
+    "ty"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We should help our community.",
+   "example_vi": "Chúng ta nên giúp đỡ cộng đồng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W02",
+   "type": "word",
+   "en": "volunteer",
+   "vi": "tình nguyện viên",
+   "ipa": "/ˌvɑlənˈtɪr/",
+   "syllables": [
+    "vol",
+    "un",
+    "teer"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "My sister is a volunteer at the hospital.",
+   "example_vi": "Chị tớ là tình nguyện viên ở bệnh viện.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W03",
+   "type": "phrase",
+   "en": "raise money",
+   "vi": "gây quỹ",
+   "ipa": "/reɪz ˈmʌni/",
+   "syllables": [
+    "raise",
+    "mon",
+    "ey"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4B0"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We raised money for the animal charity.",
+   "example_vi": "Bọn tớ gây quỹ cho tổ chức bảo vệ động vật.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W04",
+   "type": "word",
+   "en": "organise",
+   "vi": "tổ chức",
+   "ipa": "/orɡanise/",
+   "syllables": [
+    "organise"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Our class organised a book fair.",
+   "example_vi": "Lớp tớ tổ chức hội sách.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W05",
+   "type": "word",
+   "en": "elderly",
+   "vi": "cao tuổi",
+   "ipa": "/ˈɛldərli/",
+   "syllables": [
+    "el",
+    "der",
+    "ly"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9D3"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We visited elderly people in the village.",
+   "example_vi": "Bọn tớ đến thăm người cao tuổi trong làng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W06",
+   "type": "word",
+   "en": "wheelchair",
+   "vi": "xe lăn",
+   "ipa": "/ˈwiˌltʃɛr/",
+   "syllables": [
+    "wheel",
+    "chair"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F9BD"
+   },
+   "picturable": true,
+   "cat": "L5U12",
+   "example_en": "My neighbour uses a wheelchair.",
+   "example_vi": "Hàng xóm nhà tớ ngồi xe lăn.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W07",
+   "type": "word",
+   "en": "homeless",
+   "vi": "vô gia cư",
+   "ipa": "/ˈhoʊmləs/",
+   "syllables": [
+    "home",
+    "less"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3DA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "The charity helps homeless people.",
+   "example_vi": "Tổ chức từ thiện giúp người vô gia cư.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W08",
+   "type": "phrase",
+   "en": "care for",
+   "vi": "chăm sóc",
+   "ipa": "/kɛr fʌr/",
+   "syllables": [
+    "care",
+    "for"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F917"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Nurses care for sick people.",
+   "example_vi": "Y tá chăm sóc người ốm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W09",
+   "type": "phrase",
+   "en": "look after",
+   "vi": "trông nom",
+   "ipa": "/lʊk ˈæftər/",
+   "syllables": [
+    "look",
+    "af",
+    "ter"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F932"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I look after my little brother.",
+   "example_vi": "Tớ trông em trai.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W10",
+   "type": "phrase",
+   "en": "old people's home",
+   "vi": "viện dưỡng lão",
+   "ipa": "/oʊld ˈpipəlz hoʊm/",
+   "syllables": [
+    "old",
+    "peo",
+    "ple's",
+    "home"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3E1"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We sang songs at the old people's home.",
+   "example_vi": "Bọn tớ hát ở viện dưỡng lão.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W11",
+   "type": "phrase",
+   "en": "clean up",
+   "vi": "dọn dẹp",
+   "ipa": "/klin ʌp/",
+   "syllables": [
+    "clean",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9F9"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Let's clean up the beach.",
+   "example_vi": "Mình cùng dọn dẹp bãi biển nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W12",
+   "type": "word",
+   "en": "poster",
+   "vi": "áp phích",
+   "ipa": "/ˈpoʊstər/",
+   "syllables": [
+    "poster"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1FAA7"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We made posters for the event.",
+   "example_vi": "Bọn tớ làm áp phích cho sự kiện.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W13",
+   "type": "phrase",
+   "en": "bake sale",
+   "vi": "buổi bán bánh gây quỹ",
+   "ipa": "/beɪk seɪl/",
+   "syllables": [
+    "bake",
+    "sale"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9C1"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We had a bake sale to raise money.",
+   "example_vi": "Bọn tớ bán bánh để gây quỹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W14",
+   "type": "word",
+   "en": "thankful",
+   "vi": "biết ơn",
+   "ipa": "/ˈθæŋkfəl/",
+   "syllables": [
+    "thank",
+    "ful"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F64F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I'm thankful for my family.",
+   "example_vi": "Tớ biết ơn gia đình mình.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W15",
+   "type": "word",
+   "en": "grateful",
+   "vi": "biết ơn",
+   "ipa": "/ˈɡreɪtfəl/",
+   "syllables": [
+    "grate",
+    "ful"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F49D"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We are grateful for your help.",
+   "example_vi": "Chúng tôi rất biết ơn sự giúp đỡ của bạn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W16",
+   "type": "word",
+   "en": "teamwork",
+   "vi": "làm việc nhóm",
+   "ipa": "/ˈtimˌwərk/",
+   "syllables": [
+    "team",
+    "work"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Teamwork makes everything easier.",
+   "example_vi": "Làm việc nhóm giúp mọi việc dễ dàng hơn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W17",
+   "type": "word",
+   "en": "responsibility",
+   "vi": "trách nhiệm",
+   "ipa": "/riˌspɑnsəˈbɪləti/",
+   "syllables": [
+    "re",
+    "spon",
+    "si",
+    "bil",
+    "i",
+    "ty"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "It's our responsibility to keep the park clean.",
+   "example_vi": "Giữ công viên sạch là trách nhiệm của chúng ta.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W18",
+   "type": "word",
+   "en": "citizen",
+   "vi": "công dân",
+   "ipa": "/ˈsɪtɪzən/",
+   "syllables": [
+    "cit",
+    "i",
+    "zen"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "A good citizen follows the rules.",
+   "example_vi": "Một công dân tốt tuân thủ quy tắc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W19",
+   "type": "word",
+   "en": "public",
+   "vi": "công cộng",
+   "ipa": "/ˈpʌblɪk/",
+   "syllables": [
+    "pub",
+    "lic"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Don't make noise in public places.",
+   "example_vi": "Đừng làm ồn ở nơi công cộng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W20",
+   "type": "word",
+   "en": "improve",
+   "vi": "cải thiện",
+   "ipa": "/ˌɪmˈpruv/",
+   "syllables": [
+    "im",
+    "prove"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We want to improve our school garden.",
+   "example_vi": "Bọn tớ muốn cải thiện vườn trường.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W21",
+   "type": "phrase",
+   "en": "food bank",
+   "vi": "ngân hàng thực phẩm",
+   "ipa": "/fud bæŋk/",
+   "syllables": [
+    "food",
+    "bank"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F96B"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We gave rice to the food bank.",
+   "example_vi": "Bọn tớ tặng gạo cho ngân hàng thực phẩm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W22",
+   "type": "word",
+   "en": "member",
+   "vi": "thành viên",
+   "ipa": "/ˈmɛmbər/",
+   "syllables": [
+    "mem",
+    "ber"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F464"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I'm a member of the school club.",
+   "example_vi": "Tớ là thành viên câu lạc bộ của trường.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W23",
+   "type": "word",
+   "en": "meeting",
+   "vi": "cuộc họp",
+   "ipa": "/ˈmitɪŋ/",
+   "syllables": [
+    "meet",
+    "ing"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We have a club meeting on Friday.",
+   "example_vi": "Thứ Sáu bọn tớ có họp câu lạc bộ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W24",
+   "type": "word",
+   "en": "teach",
+   "vi": "dạy",
+   "ipa": "/titʃ/",
+   "syllables": [
+    "teach"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F9D1-200D-1F3EB"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I teach my grandma to use her phone.",
+   "example_vi": "Tớ dạy bà dùng điện thoại.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W25",
+   "type": "word",
+   "en": "offer",
+   "vi": "đề nghị, mời",
+   "ipa": "/ˈɔfər/",
+   "syllables": [
+    "of",
+    "fer"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1FAF4"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "She offered to help me.",
+   "example_vi": "Bạn ấy đề nghị giúp tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W26",
+   "type": "word",
+   "en": "shall",
+   "vi": "nhé (lời đề nghị)",
+   "ipa": "/ʃæl/",
+   "syllables": [
+    "shall"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Shall I carry your bag?",
+   "example_vi": "Để tớ xách túi giúp cậu nhé?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W27",
+   "type": "phrase",
+   "en": "why don't we",
+   "vi": "sao chúng ta không",
+   "ipa": "/waɪ doʊnt wi/",
+   "syllables": [
+    "why",
+    "don't",
+    "we"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Why don't we plant some trees?",
+   "example_vi": "Sao chúng ta không trồng thêm cây nhỉ?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W28",
+   "type": "phrase",
+   "en": "make a difference",
+   "vi": "tạo nên sự khác biệt",
+   "ipa": "/meɪk ə ˈdɪfərəns/",
+   "syllables": [
+    "make",
+    "a",
+    "difference"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Small actions can make a difference.",
+   "example_vi": "Những hành động nhỏ có thể tạo nên khác biệt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W29",
+   "type": "word",
+   "en": "neighbourhood",
+   "vi": "khu phố",
+   "ipa": "/ˈneɪbərˌhʊd/",
+   "syllables": [
+    "neigh",
+    "bour",
+    "hood"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Our neighbourhood is clean and friendly.",
+   "example_vi": "Khu phố của tớ sạch sẽ và thân thiện.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W30",
+   "type": "word",
+   "en": "donation",
+   "vi": "sự quyên góp",
+   "ipa": "/doʊˈneɪʃən/",
+   "syllables": [
+    "do",
+    "na",
+    "tion"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Thank you for your donation.",
+   "example_vi": "Cảm ơn bạn đã quyên góp.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W31",
+   "type": "word",
+   "en": "sponsor",
+   "vi": "tài trợ",
+   "ipa": "/ˈspɑnsər/",
+   "syllables": [
+    "spon",
+    "sor"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "A local shop sponsored our race.",
+   "example_vi": "Một cửa hàng địa phương tài trợ cho cuộc đua.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W32",
+   "type": "word",
+   "en": "target",
+   "vi": "mục tiêu",
+   "ipa": "/ˈtʌrɡət/",
+   "syllables": [
+    "tar",
+    "get"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3AF"
+   },
+   "picturable": true,
+   "cat": "L5U12",
+   "example_en": "Our target is to collect one hundred books.",
+   "example_vi": "Mục tiêu của bọn tớ là thu thập một trăm cuốn sách.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W33",
+   "type": "word",
+   "en": "achieve",
+   "vi": "đạt được",
+   "ipa": "/əˈtʃiv/",
+   "syllables": [
+    "achieve"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We achieved our target!",
+   "example_vi": "Bọn tớ đã đạt được mục tiêu!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W34",
+   "type": "word",
+   "en": "success",
+   "vi": "sự thành công",
+   "ipa": "/səkˈsɛs/",
+   "syllables": [
+    "suc",
+    "cess"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "The bake sale was a big success.",
+   "example_vi": "Buổi bán bánh thành công lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W35",
+   "type": "word",
+   "en": "successful",
+   "vi": "thành công",
+   "ipa": "/səkˈsɛsfəl/",
+   "syllables": [
+    "suc",
+    "cess",
+    "ful"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "It was a successful event.",
+   "example_vi": "Đó là một sự kiện thành công.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W36",
+   "type": "word",
+   "en": "effort",
+   "vi": "nỗ lực",
+   "ipa": "/ˈɛfərt/",
+   "syllables": [
+    "ef",
+    "fort"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Thank you for your effort.",
+   "example_vi": "Cảm ơn sự cố gắng của bạn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W37",
+   "type": "phrase",
+   "en": "sign up",
+   "vi": "đăng ký",
+   "ipa": "/saɪn ʌp/",
+   "syllables": [
+    "sign",
+    "up"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I signed up to be a volunteer.",
+   "example_vi": "Tớ đã đăng ký làm tình nguyện viên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W38",
+   "type": "word",
+   "en": "leaflet",
+   "vi": "tờ rơi",
+   "ipa": "/ˈliflət/",
+   "syllables": [
+    "leaflet"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "We gave leaflets to our neighbours.",
+   "example_vi": "Bọn tớ phát tờ rơi cho hàng xóm.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W39",
+   "type": "word",
+   "en": "announce",
+   "vi": "thông báo",
+   "ipa": "/əˈnaʊns/",
+   "syllables": [
+    "an",
+    "nounce"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "The headteacher announced the winners.",
+   "example_vi": "Thầy hiệu trưởng thông báo những người thắng cuộc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W40",
+   "type": "word",
+   "en": "blind",
+   "vi": "khiếm thị",
+   "ipa": "/blaɪnd/",
+   "syllables": [
+    "blind"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9AF"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Blind people can read with their fingers.",
+   "example_vi": "Người khiếm thị có thể đọc bằng ngón tay.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W41",
+   "type": "word",
+   "en": "deaf",
+   "vi": "khiếm thính",
+   "ipa": "/dɛf/",
+   "syllables": [
+    "deaf"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F9CF"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "My cousin is deaf. He uses sign language.",
+   "example_vi": "Anh họ tớ bị khiếm thính. Anh dùng ngôn ngữ ký hiệu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W42",
+   "type": "phrase",
+   "en": "guide dog",
+   "vi": "chó dẫn đường",
+   "ipa": "/ɡaɪd dɔɡ/",
+   "syllables": [
+    "guide",
+    "dog"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9AE"
+   },
+   "picturable": true,
+   "cat": "L5U12",
+   "example_en": "The guide dog helps a blind man.",
+   "example_vi": "Chú chó dẫn đường giúp một người khiếm thị.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W43",
+   "type": "phrase",
+   "en": "sign language",
+   "vi": "ngôn ngữ ký hiệu",
+   "ipa": "/saɪn ˈlæŋɡwɪdʒ/",
+   "syllables": [
+    "sign",
+    "lan",
+    "guage"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F91F"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "I can say hello in sign language.",
+   "example_vi": "Tớ có thể chào bằng ngôn ngữ ký hiệu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U12-W44",
+   "type": "word",
+   "en": "equal",
+   "vi": "bình đẳng",
+   "ipa": "/ˈikwəl/",
+   "syllables": [
+    "equal"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F7F0"
+   },
+   "picturable": false,
+   "cat": "L5U12",
+   "example_en": "Everyone is equal.",
+   "example_vi": "Mọi người đều bình đẳng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U12-P01",
+   "en": "Why don't we {x}?",
+   "vi": "Sao chúng ta không {x}?",
+   "slots": {
+    "x": [
+     "clean up the park",
+     "have a bake sale",
+     "visit the old people's home",
+     "collect books"
+    ]
+   }
+  },
+  {
+   "id": "L5U12-P02",
+   "en": "Shall I {x}?",
+   "vi": "Để tớ {x} nhé?",
+   "slots": {
+    "x": [
+     "carry your bag",
+     "help you",
+     "open the door"
+    ]
+   }
+  },
+  {
+   "id": "L5U12-P03",
+   "en": "We raised money for {x}.",
+   "vi": "Bọn tớ gây quỹ cho {x}.",
+   "slots": {
+    "x": [
+     "the animal charity",
+     "the food bank",
+     "the hospital"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U12-D01",
+   "title_vi": "Ý tưởng tình nguyện",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Our club wants to help the community. Any ideas?",
+     "vi": "Câu lạc bộ mình muốn giúp cộng đồng. Có ý tưởng gì không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Why don't we have a bake sale?",
+     "vi": "Sao mình không tổ chức bán bánh?"
+    },
+    {
+     "role": "Bi",
+     "en": "Great idea! What will we do with the money?",
+     "vi": "Ý hay đấy! Mình sẽ làm gì với số tiền?"
+    },
+    {
+     "role": "Kid",
+     "en": "We can donate it to the food bank.",
+     "vi": "Mình có thể quyên góp cho ngân hàng thực phẩm."
+    },
+    {
+     "role": "Bi",
+     "en": "Shall I make some posters?",
+     "vi": "Để tớ làm vài tấm áp phích nhé?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, please! And I'll bake cupcakes.",
+     "vi": "Ừ! Còn tớ sẽ nướng bánh cupcake."
+    }
+   ]
+  },
+  {
+   "id": "L5U12-D02",
+   "title_vi": "Giúp đỡ bà cụ",
+   "roles": [
+    "Woman",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Excuse me. Shall I help you with your bags?",
+     "vi": "Bà ơi, để cháu xách túi giúp bà nhé?"
+    },
+    {
+     "role": "Woman",
+     "en": "Oh, thank you! They're very heavy.",
+     "vi": "Ôi, cảm ơn cháu! Chúng nặng lắm."
+    },
+    {
+     "role": "Kid",
+     "en": "Where do you live?",
+     "vi": "Bà sống ở đâu ạ?"
+    },
+    {
+     "role": "Woman",
+     "en": "Just across the road. You're very kind.",
+     "vi": "Ngay bên kia đường. Cháu thật tốt bụng."
+    },
+    {
+     "role": "Kid",
+     "en": "It's no problem. Let's cross at the zebra crossing.",
+     "vi": "Không có gì đâu ạ. Mình qua đường ở vạch kẻ nhé."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "community"
+  },
+  {
+   "type": "dictate_word",
+   "target": "volunteer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "organise"
+  },
+  {
+   "type": "dictate_word",
+   "target": "elderly"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wheelchair"
+  },
+  {
+   "type": "dictate_word",
+   "target": "homeless"
+  },
+  {
+   "type": "dictate_word",
+   "target": "poster"
+  },
+  {
+   "type": "dictate_word",
+   "target": "thankful"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We should help our community."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We raised money for the animal charity."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Our class organised a book fair."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Why don't we|I can help my community by|I am grateful for"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U12-R01",
+   "title_en": "The book collection",
+   "text_en": [
+    "Last month, the students in Lan's class wanted to make a difference.",
+    "They decided to collect books for children in a village school.",
+    "The village school had a small library with very few books.",
+    "The students made posters and leaflets, and they announced the project at the school meeting.",
+    "Many families donated books, and the students sorted them into boxes.",
+    "Their target was two hundred books, but they collected over five hundred!",
+    "Then they took the books to the village by bus.",
+    "The village children were very excited and grateful.",
+    "The students felt proud.",
+    "They learned that teamwork can achieve great things."
+   ],
+   "questions": [
+    {
+     "q": "What did the students collect?",
+     "options": [
+      "Books.",
+      "Toys.",
+      "Clothes."
+     ],
+     "answer": "Books."
+    },
+    {
+     "q": "What was their target?",
+     "options": [
+      "Two hundred books.",
+      "Five hundred books.",
+      "One hundred books."
+     ],
+     "answer": "Two hundred books."
+    },
+    {
+     "q": "How did the village children feel?",
+     "options": [
+      "Excited and grateful.",
+      "Bored.",
+      "Angry."
+     ],
+     "answer": "Excited and grateful."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U12-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wheelchair",
+   "item": "wheelchair",
+   "options": [
+    "cap",
+    "target",
+    "wheelchair",
+    "guide dog"
+   ],
+   "answer": "wheelchair"
+  },
+  {
+   "id": "L5U12-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "target",
+   "item": "target",
+   "options": [
+    "open",
+    "target",
+    "wheelchair",
+    "guide dog"
+   ],
+   "answer": "target"
+  },
+  {
+   "id": "L5U12-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "guide dog",
+   "item": "guide dog",
+   "options": [
+    "full moon",
+    "guide dog",
+    "wheelchair",
+    "target"
+   ],
+   "answer": "guide dog"
+  },
+  {
+   "id": "L5U12-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "community",
+   "item": "community",
+   "options": [
+    "community",
+    "meeting",
+    "why don't we",
+    "teach"
+   ],
+   "answer": "community"
+  },
+  {
+   "id": "L5U12-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "volunteer",
+   "item": "volunteer",
+   "options": [
+    "member",
+    "teach",
+    "volunteer",
+    "why don't we"
+   ],
+   "answer": "volunteer"
+  },
+  {
+   "id": "L5U12-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "raise money",
+   "item": "raise money",
+   "options": [
+    "raise money",
+    "leaflet",
+    "responsibility",
+    "food bank"
+   ],
+   "answer": "raise money"
+  },
+  {
+   "id": "L5U12-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "organise",
+   "item": "organise",
+   "options": [
+    "old people's home",
+    "food bank",
+    "organise",
+    "effort"
+   ],
+   "answer": "organise"
+  },
+  {
+   "id": "L5U12-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "elderly",
+   "item": "elderly",
+   "options": [
+    "look after",
+    "teach",
+    "elderly",
+    "member"
+   ],
+   "answer": "elderly"
+  },
+  {
+   "id": "L5U12-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "homeless",
+   "item": "homeless",
+   "options": [
+    "homeless",
+    "care for",
+    "food bank",
+    "sponsor"
+   ],
+   "answer": "homeless"
+  },
+  {
+   "id": "L5U12-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "care for",
+   "item": "care for",
+   "options": [
+    "care for",
+    "responsibility",
+    "guide dog",
+    "meeting"
+   ],
+   "answer": "care for"
+  },
+  {
+   "id": "L5U12-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "look after",
+   "item": "look after",
+   "options": [
+    "look after",
+    "equal",
+    "effort",
+    "sponsor"
+   ],
+   "answer": "look after"
+  },
+  {
+   "id": "L5U12-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "old people's home",
+   "item": "old people's home",
+   "options": [
+    "guide dog",
+    "old people's home",
+    "grateful",
+    "neighbourhood"
+   ],
+   "answer": "old people's home"
+  },
+  {
+   "id": "L5U12-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "clean up",
+   "item": "clean up",
+   "options": [
+    "blind",
+    "clean up",
+    "member",
+    "citizen"
+   ],
+   "answer": "clean up"
+  },
+  {
+   "id": "L5U12-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "poster",
+   "item": "poster",
+   "options": [
+    "wheelchair",
+    "teach",
+    "sponsor",
+    "poster"
+   ],
+   "answer": "poster"
+  },
+  {
+   "id": "L5U12-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bake sale",
+   "item": "bake sale",
+   "options": [
+    "sponsor",
+    "public",
+    "bake sale",
+    "success"
+   ],
+   "answer": "bake sale"
+  },
+  {
+   "id": "L5U12-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thankful",
+   "item": "thankful",
+   "options": [
+    "look after",
+    "deaf",
+    "thankful",
+    "neighbourhood"
+   ],
+   "answer": "thankful"
+  },
+  {
+   "id": "L5U12-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grateful",
+   "item": "grateful",
+   "options": [
+    "sign up",
+    "neighbourhood",
+    "homeless",
+    "grateful"
+   ],
+   "answer": "grateful"
+  },
+  {
+   "id": "L5U12-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "teamwork",
+   "item": "teamwork",
+   "options": [
+    "effort",
+    "success",
+    "teamwork",
+    "blind"
+   ],
+   "answer": "teamwork"
+  },
+  {
+   "id": "L5U12-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "responsibility",
+   "item": "responsibility",
+   "options": [
+    "poster",
+    "responsibility",
+    "shall",
+    "achieve"
+   ],
+   "answer": "responsibility"
+  },
+  {
+   "id": "L5U12-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "citizen",
+   "item": "citizen",
+   "options": [
+    "neighbourhood",
+    "success",
+    "citizen",
+    "deaf"
+   ],
+   "answer": "citizen"
+  },
+  {
+   "id": "L5U12-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "public",
+   "item": "public",
+   "options": [
+    "public",
+    "make a difference",
+    "care for",
+    "elderly"
+   ],
+   "answer": "public"
+  },
+  {
+   "id": "L5U12-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "improve",
+   "item": "improve",
+   "options": [
+    "improve",
+    "make a difference",
+    "poster",
+    "announce"
+   ],
+   "answer": "improve"
+  },
+  {
+   "id": "L5U12-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "food bank",
+   "item": "food bank",
+   "options": [
+    "sign language",
+    "clean up",
+    "volunteer",
+    "food bank"
+   ],
+   "answer": "food bank"
+  },
+  {
+   "id": "L5U12-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "member",
+   "item": "member",
+   "options": [
+    "offer",
+    "shall",
+    "member",
+    "public"
+   ],
+   "answer": "member"
+  },
+  {
+   "id": "L5U12-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "meeting",
+   "item": "meeting",
+   "options": [
+    "meeting",
+    "grateful",
+    "success",
+    "responsibility"
+   ],
+   "answer": "meeting"
+  },
+  {
+   "id": "L5U12-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "teach",
+   "item": "teach",
+   "options": [
+    "why don't we",
+    "make a difference",
+    "equal",
+    "teach"
+   ],
+   "answer": "teach"
+  },
+  {
+   "id": "L5U12-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "offer",
+   "item": "offer",
+   "options": [
+    "look after",
+    "announce",
+    "sign up",
+    "offer"
+   ],
+   "answer": "offer"
+  },
+  {
+   "id": "L5U12-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shall",
+   "item": "shall",
+   "options": [
+    "raise money",
+    "citizen",
+    "shall",
+    "volunteer"
+   ],
+   "answer": "shall"
+  },
+  {
+   "id": "L5U12-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "why don't we",
+   "item": "why don't we",
+   "options": [
+    "leaflet",
+    "why don't we",
+    "responsibility",
+    "teamwork"
+   ],
+   "answer": "why don't we"
+  },
+  {
+   "id": "L5U12-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "make a difference",
+   "item": "make a difference",
+   "options": [
+    "make a difference",
+    "offer",
+    "donation",
+    "elderly"
+   ],
+   "answer": "make a difference"
+  },
+  {
+   "id": "L5U12-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "neighbourhood",
+   "item": "neighbourhood",
+   "options": [
+    "thankful",
+    "neighbourhood",
+    "guide dog",
+    "wheelchair"
+   ],
+   "answer": "neighbourhood"
+  },
+  {
+   "id": "L5U12-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "donation",
+   "item": "donation",
+   "options": [
+    "organise",
+    "announce",
+    "donation",
+    "thankful"
+   ],
+   "answer": "donation"
+  },
+  {
+   "id": "L5U12-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sponsor",
+   "item": "sponsor",
+   "options": [
+    "announce",
+    "sponsor",
+    "organise",
+    "why don't we"
+   ],
+   "answer": "sponsor"
+  },
+  {
+   "id": "L5U12-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "achieve",
+   "item": "achieve",
+   "options": [
+    "achieve",
+    "shall",
+    "successful",
+    "citizen"
+   ],
+   "answer": "achieve"
+  },
+  {
+   "id": "L5U12-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "success",
+   "item": "success",
+   "options": [
+    "improve",
+    "success",
+    "blind",
+    "offer"
+   ],
+   "answer": "success"
+  },
+  {
+   "id": "L5U12-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "successful",
+   "item": "successful",
+   "options": [
+    "volunteer",
+    "equal",
+    "offer",
+    "successful"
+   ],
+   "answer": "successful"
+  },
+  {
+   "id": "L5U12-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "effort",
+   "item": "effort",
+   "options": [
+    "community",
+    "sponsor",
+    "shall",
+    "effort"
+   ],
+   "answer": "effort"
+  },
+  {
+   "id": "L5U12-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sign up",
+   "item": "sign up",
+   "options": [
+    "shall",
+    "sign up",
+    "meeting",
+    "blind"
+   ],
+   "answer": "sign up"
+  },
+  {
+   "id": "L5U12-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "leaflet",
+   "item": "leaflet",
+   "options": [
+    "volunteer",
+    "responsibility",
+    "make a difference",
+    "leaflet"
+   ],
+   "answer": "leaflet"
+  },
+  {
+   "id": "L5U12-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "announce",
+   "item": "announce",
+   "options": [
+    "food bank",
+    "teach",
+    "shall",
+    "announce"
+   ],
+   "answer": "announce"
+  },
+  {
+   "id": "L5U12-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "blind",
+   "item": "blind",
+   "options": [
+    "blind",
+    "improve",
+    "teach",
+    "why don't we"
+   ],
+   "answer": "blind"
+  },
+  {
+   "id": "L5U12-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "deaf",
+   "item": "deaf",
+   "options": [
+    "elderly",
+    "poster",
+    "deaf",
+    "guide dog"
+   ],
+   "answer": "deaf"
+  },
+  {
+   "id": "L5U12-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sign language",
+   "item": "sign language",
+   "options": [
+    "meeting",
+    "sign language",
+    "responsibility",
+    "teamwork"
+   ],
+   "answer": "sign language"
+  },
+  {
+   "id": "L5U12-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "equal",
+   "item": "equal",
+   "options": [
+    "offer",
+    "community",
+    "equal",
+    "donation"
+   ],
+   "answer": "equal"
+  },
+  {
+   "id": "L5U12-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wheelchair",
+   "answer": "wheelchair"
+  },
+  {
+   "id": "L5U12-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "target",
+   "answer": "target"
+  },
+  {
+   "id": "L5U12-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "guide dog",
+   "answer": "guide dog"
+  },
+  {
+   "id": "L5U12-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We should help our community.",
+   "item": "community",
+   "answer": "We should help our community."
+  },
+  {
+   "id": "L5U12-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister is a volunteer at the hospital.",
+   "item": "volunteer",
+   "answer": "My sister is a volunteer at the hospital."
+  },
+  {
+   "id": "L5U12-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We raised money for the animal charity.",
+   "item": "raise money",
+   "answer": "We raised money for the animal charity."
+  },
+  {
+   "id": "L5U12-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our class organised a book fair.",
+   "item": "organise",
+   "answer": "Our class organised a book fair."
+  },
+  {
+   "id": "L5U12-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We visited elderly people in the village.",
+   "item": "elderly",
+   "answer": "We visited elderly people in the village."
+  },
+  {
+   "id": "L5U12-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My neighbour uses a wheelchair.",
+   "item": "wheelchair",
+   "answer": "My neighbour uses a wheelchair."
+  },
+  {
+   "id": "L5U12-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The charity helps homeless people.",
+   "item": "homeless",
+   "answer": "The charity helps homeless people."
+  },
+  {
+   "id": "L5U12-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nurses care for sick people.",
+   "item": "care for",
+   "answer": "Nurses care for sick people."
+  },
+  {
+   "id": "L5U12-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I look after my little brother.",
+   "item": "look after",
+   "answer": "I look after my little brother."
+  },
+  {
+   "id": "L5U12-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We sang songs at the old people's home.",
+   "item": "old people's home",
+   "answer": "We sang songs at the old people's home."
+  },
+  {
+   "id": "L5U12-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's clean up the beach.",
+   "item": "clean up",
+   "answer": "Let's clean up the beach."
+  },
+  {
+   "id": "L5U12-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We made posters for the event.",
+   "item": "poster",
+   "answer": "We made posters for the event."
+  },
+  {
+   "id": "L5U12-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had a bake sale to raise money.",
+   "item": "bake sale",
+   "answer": "We had a bake sale to raise money."
+  },
+  {
+   "id": "L5U12-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm thankful for my family.",
+   "item": "thankful",
+   "answer": "I'm thankful for my family."
+  },
+  {
+   "id": "L5U12-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We are grateful for your help.",
+   "item": "grateful",
+   "answer": "We are grateful for your help."
+  },
+  {
+   "id": "L5U12-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Teamwork makes everything easier.",
+   "item": "teamwork",
+   "answer": "Teamwork makes everything easier."
+  },
+  {
+   "id": "L5U12-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's our responsibility to keep the park clean.",
+   "item": "responsibility",
+   "answer": "It's our responsibility to keep the park clean."
+  },
+  {
+   "id": "L5U12-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good citizen follows the rules.",
+   "item": "citizen",
+   "answer": "A good citizen follows the rules."
+  },
+  {
+   "id": "L5U12-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't make noise in public places.",
+   "item": "public",
+   "answer": "Don't make noise in public places."
+  },
+  {
+   "id": "L5U12-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We want to improve our school garden.",
+   "item": "improve",
+   "answer": "We want to improve our school garden."
+  },
+  {
+   "id": "L5U12-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We gave rice to the food bank.",
+   "item": "food bank",
+   "answer": "We gave rice to the food bank."
+  },
+  {
+   "id": "L5U12-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm a member of the school club.",
+   "item": "member",
+   "answer": "I'm a member of the school club."
+  },
+  {
+   "id": "L5U12-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a club meeting on Friday.",
+   "item": "meeting",
+   "answer": "We have a club meeting on Friday."
+  },
+  {
+   "id": "L5U12-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I teach my grandma to use her phone.",
+   "item": "teach",
+   "answer": "I teach my grandma to use her phone."
+  },
+  {
+   "id": "L5U12-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She offered to help me.",
+   "item": "offer",
+   "answer": "She offered to help me."
+  },
+  {
+   "id": "L5U12-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Shall I carry your bag?",
+   "item": "shall",
+   "answer": "Shall I carry your bag?"
+  },
+  {
+   "id": "L5U12-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Why don't we plant some trees?",
+   "item": "why don't we",
+   "answer": "Why don't we plant some trees?"
+  },
+  {
+   "id": "L5U12-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Small actions can make a difference.",
+   "item": "make a difference",
+   "answer": "Small actions can make a difference."
+  },
+  {
+   "id": "L5U12-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our neighbourhood is clean and friendly.",
+   "item": "neighbourhood",
+   "answer": "Our neighbourhood is clean and friendly."
+  },
+  {
+   "id": "L5U12-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you for your donation.",
+   "item": "donation",
+   "answer": "Thank you for your donation."
+  },
+  {
+   "id": "L5U12-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A local shop sponsored our race.",
+   "item": "sponsor",
+   "answer": "A local shop sponsored our race."
+  },
+  {
+   "id": "L5U12-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our target is to collect one hundred books.",
+   "item": "target",
+   "answer": "Our target is to collect one hundred books."
+  },
+  {
+   "id": "L5U12-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We achieved our target!",
+   "item": "achieve",
+   "answer": "We achieved our target!"
+  },
+  {
+   "id": "L5U12-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bake sale was a big success.",
+   "item": "success",
+   "answer": "The bake sale was a big success."
+  },
+  {
+   "id": "L5U12-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was a successful event.",
+   "item": "successful",
+   "answer": "It was a successful event."
+  },
+  {
+   "id": "L5U12-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you for your effort.",
+   "item": "effort",
+   "answer": "Thank you for your effort."
+  },
+  {
+   "id": "L5U12-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I signed up to be a volunteer.",
+   "item": "sign up",
+   "answer": "I signed up to be a volunteer."
+  },
+  {
+   "id": "L5U12-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We gave leaflets to our neighbours.",
+   "item": "leaflet",
+   "answer": "We gave leaflets to our neighbours."
+  },
+  {
+   "id": "L5U12-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The headteacher announced the winners.",
+   "item": "announce",
+   "answer": "The headteacher announced the winners."
+  },
+  {
+   "id": "L5U12-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Blind people can read with their fingers.",
+   "item": "blind",
+   "answer": "Blind people can read with their fingers."
+  },
+  {
+   "id": "L5U12-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin is deaf. He uses sign language.",
+   "item": "deaf",
+   "answer": "My cousin is deaf. He uses sign language."
+  },
+  {
+   "id": "L5U12-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The guide dog helps a blind man.",
+   "item": "guide dog",
+   "answer": "The guide dog helps a blind man."
+  },
+  {
+   "id": "L5U12-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can say hello in sign language.",
+   "item": "sign language",
+   "answer": "I can say hello in sign language."
+  },
+  {
+   "id": "L5U12-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Everyone is equal.",
+   "item": "equal",
+   "answer": "Everyone is equal."
+  },
+  {
+   "id": "L5U12-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Why don't we clean up the park?",
+   "answer": "Why don't we clean up the park?"
+  },
+  {
+   "id": "L5U12-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Why don't we have a bake sale?",
+   "answer": "Why don't we have a bake sale?"
+  },
+  {
+   "id": "L5U12-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Why don't we visit the old people's home?",
+   "answer": "Why don't we visit the old people's home?"
+  },
+  {
+   "id": "L5U12-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Shall I carry your bag?",
+   "answer": "Shall I carry your bag?"
+  },
+  {
+   "id": "L5U12-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Shall I help you?",
+   "answer": "Shall I help you?"
+  },
+  {
+   "id": "L5U12-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Shall I open the door?",
+   "answer": "Shall I open the door?"
+  },
+  {
+   "id": "L5U12-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We raised money for the animal charity.",
+   "answer": "We raised money for the animal charity."
+  },
+  {
+   "id": "L5U12-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We raised money for the food bank.",
+   "answer": "We raised money for the food bank."
+  },
+  {
+   "id": "L5U12-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We raised money for the hospital.",
+   "answer": "We raised money for the hospital."
+  },
+  {
+   "id": "L5U12-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Our club wants to help the community. Any ideas?",
+   "answer": "Why don't we have a bake sale?"
+  },
+  {
+   "id": "L5U12-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why don't we have a bake sale?",
+   "answer": "Great idea! What will we do with the money?"
+  },
+  {
+   "id": "L5U12-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Great idea! What will we do with the money?",
+   "answer": "We can donate it to the food bank."
+  },
+  {
+   "id": "L5U12-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Shall I make some posters?",
+   "answer": "Yes, please! And I'll bake cupcakes."
+  },
+  {
+   "id": "L5U12-Q105",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me. Shall I help you with your bags?",
+   "answer": "Oh, thank you! They're very heavy."
+  },
+  {
+   "id": "L5U12-Q106",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where do you live?",
+   "answer": "Just across the road. You're very kind."
+  },
+  {
+   "id": "L5U12-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wheelchair",
+   "options": [
+    "target",
+    "wheelchair",
+    "guide dog"
+   ],
+   "answer": "wheelchair"
+  },
+  {
+   "id": "L5U12-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "target",
+   "options": [
+    "wheelchair",
+    "target",
+    "guide dog"
+   ],
+   "answer": "target"
+  },
+  {
+   "id": "L5U12-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "guide dog",
+   "options": [
+    "guide dog",
+    "wheelchair",
+    "target"
+   ],
+   "answer": "guide dog"
+  },
+  {
+   "id": "L5U12-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We should help our ___.",
+   "item": "community",
+   "options": [
+    "community",
+    "organise",
+    "sponsor"
+   ],
+   "answer": "community"
+  },
+  {
+   "id": "L5U12-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister is a ___ at the hospital.",
+   "item": "volunteer",
+   "options": [
+    "improve",
+    "volunteer",
+    "elderly"
+   ],
+   "answer": "volunteer"
+  },
+  {
+   "id": "L5U12-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our class ___ a book fair.",
+   "item": "organise",
+   "options": [
+    "organised",
+    "neighbourhooded",
+    "thankfuled"
+   ],
+   "answer": "organised"
+  },
+  {
+   "id": "L5U12-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We visited ___ people in the village.",
+   "item": "elderly",
+   "options": [
+    "community",
+    "success",
+    "elderly"
+   ],
+   "answer": "elderly"
+  },
+  {
+   "id": "L5U12-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My neighbour uses a ___.",
+   "item": "wheelchair",
+   "options": [
+    "blind",
+    "poster",
+    "wheelchair"
+   ],
+   "answer": "wheelchair"
+  },
+  {
+   "id": "L5U12-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The charity helps ___ people.",
+   "item": "homeless",
+   "options": [
+    "equal",
+    "homeless",
+    "public"
+   ],
+   "answer": "homeless"
+  },
+  {
+   "id": "L5U12-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We made ___ for the event.",
+   "item": "poster",
+   "options": [
+    "posters",
+    "wheelchairs",
+    "targets"
+   ],
+   "answer": "posters"
+  },
+  {
+   "id": "L5U12-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm ___ for my family.",
+   "item": "thankful",
+   "options": [
+    "thankful",
+    "teamwork",
+    "organise"
+   ],
+   "answer": "thankful"
+  },
+  {
+   "id": "L5U12-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We are ___ for your help.",
+   "item": "grateful",
+   "options": [
+    "grateful",
+    "achieve",
+    "effort"
+   ],
+   "answer": "grateful"
+  },
+  {
+   "id": "L5U12-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ makes everything easier.",
+   "item": "teamwork",
+   "options": [
+    "Teamwork",
+    "Citizen",
+    "Homeless"
+   ],
+   "answer": "Teamwork"
+  },
+  {
+   "id": "L5U12-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's our ___ to keep the park clean.",
+   "item": "responsibility",
+   "options": [
+    "teach",
+    "responsibility",
+    "achieve"
+   ],
+   "answer": "responsibility"
+  },
+  {
+   "id": "L5U12-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A good ___ follows the rules.",
+   "item": "citizen",
+   "options": [
+    "homeless",
+    "citizen",
+    "equal"
+   ],
+   "answer": "citizen"
+  },
+  {
+   "id": "L5U12-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't make noise in ___ places.",
+   "item": "public",
+   "options": [
+    "public",
+    "volunteer",
+    "shall"
+   ],
+   "answer": "public"
+  },
+  {
+   "id": "L5U12-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We want to ___ our school garden.",
+   "item": "improve",
+   "options": [
+    "successful",
+    "improve",
+    "organise"
+   ],
+   "answer": "improve"
+  },
+  {
+   "id": "L5U12-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'm a ___ of the school club.",
+   "item": "member",
+   "options": [
+    "member",
+    "thankful",
+    "equal"
+   ],
+   "answer": "member"
+  },
+  {
+   "id": "L5U12-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have a club ___ on Friday.",
+   "item": "meeting",
+   "options": [
+    "meeting",
+    "teamwork",
+    "leaflet"
+   ],
+   "answer": "meeting"
+  },
+  {
+   "id": "L5U12-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my grandma to use her phone.",
+   "item": "teach",
+   "options": [
+    "volunteer",
+    "teach",
+    "deaf"
+   ],
+   "answer": "teach"
+  },
+  {
+   "id": "L5U12-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She ___ to help me.",
+   "item": "offer",
+   "options": [
+    "offered",
+    "wheelchaired",
+    "leafleted"
+   ],
+   "answer": "offered"
+  },
+  {
+   "id": "L5U12-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ I carry your bag?",
+   "item": "shall",
+   "options": [
+    "Donation",
+    "Shall",
+    "Announce"
+   ],
+   "answer": "Shall"
+  },
+  {
+   "id": "L5U12-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is clean and friendly.",
+   "item": "neighbourhood",
+   "options": [
+    "neighbourhood",
+    "blind",
+    "leaflet"
+   ],
+   "answer": "neighbourhood"
+  },
+  {
+   "id": "L5U12-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you for your ___.",
+   "item": "donation",
+   "options": [
+    "poster",
+    "donation",
+    "success"
+   ],
+   "answer": "donation"
+  },
+  {
+   "id": "L5U12-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A local shop ___ our race.",
+   "item": "sponsor",
+   "options": [
+    "successed",
+    "deafed",
+    "sponsored"
+   ],
+   "answer": "sponsored"
+  },
+  {
+   "id": "L5U12-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is to collect one hundred books.",
+   "item": "target",
+   "options": [
+    "shall",
+    "target",
+    "teach"
+   ],
+   "answer": "target"
+  },
+  {
+   "id": "L5U12-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ our target!",
+   "item": "achieve",
+   "options": [
+    "elderlyed",
+    "achieved",
+    "thankfuled"
+   ],
+   "answer": "achieved"
+  },
+  {
+   "id": "L5U12-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bake sale was a big ___.",
+   "item": "success",
+   "options": [
+    "grateful",
+    "sponsor",
+    "success"
+   ],
+   "answer": "success"
+  },
+  {
+   "id": "L5U12-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was a ___ event.",
+   "item": "successful",
+   "options": [
+    "successful",
+    "thankful",
+    "deaf"
+   ],
+   "answer": "successful"
+  },
+  {
+   "id": "L5U12-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you for your ___.",
+   "item": "effort",
+   "options": [
+    "effort",
+    "thankful",
+    "equal"
+   ],
+   "answer": "effort"
+  },
+  {
+   "id": "L5U12-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We gave ___ to our neighbours.",
+   "item": "leaflet",
+   "options": [
+    "leaflets",
+    "wheelchairs",
+    "targets"
+   ],
+   "answer": "leaflets"
+  },
+  {
+   "id": "L5U12-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The headteacher ___ the winners.",
+   "item": "announce",
+   "options": [
+    "communityed",
+    "announced",
+    "neighbourhooded"
+   ],
+   "answer": "announced"
+  },
+  {
+   "id": "L5U12-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ people can read with their fingers.",
+   "item": "blind",
+   "options": [
+    "Blind",
+    "Successful",
+    "Grateful"
+   ],
+   "answer": "Blind"
+  },
+  {
+   "id": "L5U12-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin is ___. He uses sign language.",
+   "item": "deaf",
+   "options": [
+    "poster",
+    "deaf",
+    "improve"
+   ],
+   "answer": "deaf"
+  },
+  {
+   "id": "L5U12-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Everyone is ___.",
+   "item": "equal",
+   "options": [
+    "citizen",
+    "equal",
+    "wheelchair"
+   ],
+   "answer": "equal"
+  },
+  {
+   "id": "L5U12-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My neighbour uses a wheelchair.",
+   "item": "wheelchair",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U12-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Our target is to collect one hundred books.",
+   "item": "guide dog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U12-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The guide dog helps a blind man.",
+   "item": "guide dog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U12-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U12-R01",
+   "text_en": "What did the students collect?",
+   "options": [
+    "Clothes.",
+    "Toys.",
+    "Books."
+   ],
+   "answer": "Books."
+  },
+  {
+   "id": "L5U12-Q146",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U12-R01",
+   "text_en": "What was their target?",
+   "options": [
+    "Five hundred books.",
+    "Two hundred books.",
+    "One hundred books."
+   ],
+   "answer": "Two hundred books."
+  },
+  {
+   "id": "L5U12-Q147",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U12-R01",
+   "text_en": "How did the village children feel?",
+   "options": [
+    "Bored.",
+    "Angry.",
+    "Excited and grateful."
+   ],
+   "answer": "Excited and grateful."
+  },
+  {
+   "id": "L5U12-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "community",
+   "item": "community",
+   "answer": "community"
+  },
+  {
+   "id": "L5U12-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "volunteer",
+   "item": "volunteer",
+   "answer": "volunteer"
+  },
+  {
+   "id": "L5U12-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "organise",
+   "item": "organise",
+   "answer": "organise"
+  },
+  {
+   "id": "L5U12-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "elderly",
+   "item": "elderly",
+   "answer": "elderly"
+  },
+  {
+   "id": "L5U12-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wheelchair",
+   "item": "wheelchair",
+   "answer": "wheelchair"
+  },
+  {
+   "id": "L5U12-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "homeless",
+   "item": "homeless",
+   "answer": "homeless"
+  },
+  {
+   "id": "L5U12-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "poster",
+   "item": "poster",
+   "answer": "poster"
+  },
+  {
+   "id": "L5U12-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "thankful",
+   "item": "thankful",
+   "answer": "thankful"
+  },
+  {
+   "id": "L5U12-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We should help our community.",
+   "answer": "We should help our community."
+  },
+  {
+   "id": "L5U12-Q157",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We raised money for the animal charity.",
+   "answer": "We raised money for the animal charity."
+  },
+  {
+   "id": "L5U12-Q158",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Our class organised a book fair.",
+   "answer": "Our class organised a book fair."
+  }
+ ]
+}

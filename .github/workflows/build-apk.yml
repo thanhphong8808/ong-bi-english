@@ -1,0 +1,99 @@
+# .github/workflows/build-apk.yml
+# Builds the Ong Bi English APK for free on GitHub Actions.
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Flutter (stable)
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Show versions
+        run: flutter --version
+
+      - name: Install packages
+        run: flutter pub get
+
+      - name: Analyze
+        run: flutter analyze --no-fatal-infos
+
+      - name: Unit tests
+        run: flutter test
+
+      - name: Validate curriculum
+        run: |
+          dart run tool/validate_curriculum.dart
+          dart run tool/coverage_report.dart
+
+      # Release signing is optional. Without the four secrets the Gradle
+      # script falls back to the debug key, so an installable APK is still built.
+      - name: Configure release signing
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          if [ -n "$KEYSTORE_BASE64" ] && [ -n "$KEYSTORE_PASSWORD" ] && [ -n "$KEY_ALIAS" ] && [ -n "$KEY_PASSWORD" ]; then
+            echo "$KEYSTORE_BASE64" | base64 --decode > android/app/upload-keystore.jks
+            {
+              echo "storeFile=app/upload-keystore.jks"
+              echo "storePassword=$KEYSTORE_PASSWORD"
+              echo "keyAlias=$KEY_ALIAS"
+              echo "keyPassword=$KEY_PASSWORD"
+            } > android/key.properties
+            echo "Signing with the release keystore."
+          else
+            echo "No signing secrets found: the APK will be signed with the debug key."
+          fi
+
+      - name: Build APK
+        run: flutter build apk --release --split-per-abi
+
+      - name: Rename APK
+        run: |
+          mkdir -p out
+          cp build/app/outputs/flutter-apk/app-arm64-v8a-release.apk out/OngBiEnglish-arm64-v8a.apk
+          ls -la out
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OngBiEnglish-arm64-v8a
+          path: out/OngBiEnglish-arm64-v8a.apk
+          if-no-files-found: error
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Ong Bi English - build ${{ github.run_number }}
+          body: |
+            Bản build tự động. Tải file `OngBiEnglish-arm64-v8a.apk` bên dưới về điện thoại để cài.
+          files: out/OngBiEnglish-arm64-v8a.apk

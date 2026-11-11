@@ -1,0 +1,2881 @@
+{
+ "id": "L3U10",
+ "level": 3,
+ "unit": 10,
+ "topic_en": "Technology",
+ "topic_vi": "Công nghệ",
+ "can_do_vi": [
+  "Gọi tên đồ dùng công nghệ trong nhà",
+  "Nói đồ vật dùng để làm gì: \"We use it to...\""
+ ],
+ "grammar_note_vi": "Nói công dụng: \"We use a computer to write emails.\" (dùng ... để ...). Phần \"to + động từ\" cho biết mục đích.",
+ "items": [
+  {
+   "id": "L3U10-W01",
+   "type": "word",
+   "en": "computer",
+   "vi": "máy tính",
+   "ipa": "/kəmˈpjutər/",
+   "syllables": [
+    "com",
+    "put",
+    "er"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F5A5-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "My dad works on a computer.",
+   "example_vi": "Bố tớ làm việc trên máy tính.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W02",
+   "type": "word",
+   "en": "laptop",
+   "vi": "máy tính xách tay",
+   "ipa": "/ˈlæpˌtɑp/",
+   "syllables": [
+    "lap",
+    "top"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4BB"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "My laptop is in my bag.",
+   "example_vi": "Máy tính xách tay của tớ ở trong túi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W03",
+   "type": "word",
+   "en": "tablet",
+   "vi": "máy tính bảng",
+   "ipa": "/ˈtæblət/",
+   "syllables": [
+    "tablet"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4F2"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "I read stories on a tablet.",
+   "example_vi": "Tớ đọc truyện trên máy tính bảng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W04",
+   "type": "word",
+   "en": "screen",
+   "vi": "màn hình",
+   "ipa": "/skrin/",
+   "syllables": [
+    "screen"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5A5-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Don't sit too near the screen.",
+   "example_vi": "Đừng ngồi quá gần màn hình.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W05",
+   "type": "word",
+   "en": "keyboard",
+   "vi": "bàn phím",
+   "ipa": "/ˈkiˌbɔrd/",
+   "syllables": [
+    "key",
+    "board"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "2328-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "Type your name on the keyboard.",
+   "example_vi": "Gõ tên con trên bàn phím.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W06",
+   "type": "word",
+   "en": "printer",
+   "vi": "máy in",
+   "ipa": "/ˈprɪnər/",
+   "syllables": [
+    "print",
+    "er"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5A8-FE0F"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "The printer needs paper.",
+   "example_vi": "Máy in cần giấy.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W07",
+   "type": "word",
+   "en": "email",
+   "vi": "thư điện tử",
+   "ipa": "/iˈmeɪl/",
+   "syllables": [
+    "email"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4E7"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "Mum sends an email to her friend.",
+   "example_vi": "Mẹ gửi thư điện tử cho bạn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W08",
+   "type": "word",
+   "en": "message",
+   "vi": "tin nhắn",
+   "ipa": "/ˈmɛsɪdʒ/",
+   "syllables": [
+    "mes",
+    "sage"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "I got a message from Grandma.",
+   "example_vi": "Tớ nhận được tin nhắn của bà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W09",
+   "type": "word",
+   "en": "internet",
+   "vi": "mạng internet",
+   "ipa": "/ˈɪntərˌnɛt/",
+   "syllables": [
+    "in",
+    "ter",
+    "net"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F310"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Use the internet with Mum or Dad.",
+   "example_vi": "Dùng mạng internet cùng bố hoặc mẹ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W10",
+   "type": "word",
+   "en": "video",
+   "vi": "đoạn phim, video",
+   "ipa": "/ˈvɪdioʊ/",
+   "syllables": [
+    "video"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F4F9"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "Let's watch a video about whales.",
+   "example_vi": "Mình xem video về cá voi nhé.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W11",
+   "type": "word",
+   "en": "password",
+   "vi": "mật khẩu",
+   "ipa": "/ˈpæsˌwərd/",
+   "syllables": [
+    "pass",
+    "word"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F510"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Don't tell anyone your password.",
+   "example_vi": "Đừng nói mật khẩu cho ai biết.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W12",
+   "type": "word",
+   "en": "battery",
+   "vi": "pin",
+   "ipa": "/ˈbætəri/",
+   "syllables": [
+    "battery"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F50B"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "My robot needs a new battery.",
+   "example_vi": "Rô-bốt của tớ cần pin mới.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W13",
+   "type": "word",
+   "en": "charge",
+   "vi": "sạc",
+   "ipa": "/tʃɑrdʒ/",
+   "syllables": [
+    "charge"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F50C"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Charge the tablet tonight.",
+   "example_vi": "Tối nay sạc máy tính bảng nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W14",
+   "type": "word",
+   "en": "button",
+   "vi": "cái nút",
+   "ipa": "/ˈbʌtən/",
+   "syllables": [
+    "but",
+    "ton"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F518"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Press the green button.",
+   "example_vi": "Bấm cái nút màu xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W15",
+   "type": "word",
+   "en": "press",
+   "vi": "bấm, ấn",
+   "ipa": "/prɛs/",
+   "syllables": [
+    "press"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F447"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Press here to start.",
+   "example_vi": "Bấm vào đây để bắt đầu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W16",
+   "type": "phrase",
+   "en": "turn on",
+   "vi": "bật",
+   "ipa": "/tʌrn ɔn/",
+   "syllables": [
+    "turn",
+    "on"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F51B"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Turn on the light, please.",
+   "example_vi": "Bật đèn lên giúp tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W17",
+   "type": "word",
+   "en": "machine",
+   "vi": "máy móc",
+   "ipa": "/məˈʃin/",
+   "syllables": [
+    "ma",
+    "chine"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2699-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "This machine makes ice cream!",
+   "example_vi": "Cái máy này làm ra kem!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W18",
+   "type": "word",
+   "en": "invent",
+   "vi": "phát minh",
+   "ipa": "/ˌɪnˈvɛnt/",
+   "syllables": [
+    "in",
+    "vent"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Who invented the telephone?",
+   "example_vi": "Ai đã phát minh ra điện thoại?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W19",
+   "type": "word",
+   "en": "inventor",
+   "vi": "nhà phát minh",
+   "ipa": "/ˌɪnˈvɛntər/",
+   "syllables": [
+    "in",
+    "ven",
+    "tor"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9D1-200D-1F52C"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "I want to be an inventor.",
+   "example_vi": "Tớ muốn trở thành nhà phát minh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W20",
+   "type": "word",
+   "en": "wheel",
+   "vi": "bánh xe",
+   "ipa": "/wil/",
+   "syllables": [
+    "wheel"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6B2"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "A bike has two wheels.",
+   "example_vi": "Xe đạp có hai bánh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W21",
+   "type": "phrase",
+   "en": "light bulb",
+   "vi": "bóng đèn",
+   "ipa": "/laɪt bʌlb/",
+   "syllables": [
+    "light",
+    "bulb"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "The light bulb is broken.",
+   "example_vi": "Bóng đèn bị hỏng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W22",
+   "type": "word",
+   "en": "radio",
+   "vi": "đài, ra-đi-ô",
+   "ipa": "/ˈreɪdiˌoʊ/",
+   "syllables": [
+    "radio"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4FB"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "Grandpa listens to the radio.",
+   "example_vi": "Ông nghe đài.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W23",
+   "type": "word",
+   "en": "music",
+   "vi": "âm nhạc",
+   "ipa": "/mˈjuzɪk/",
+   "syllables": [
+    "mu",
+    "sic"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3B6"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "I listen to music every day.",
+   "example_vi": "Ngày nào tớ cũng nghe nhạc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W24",
+   "type": "word",
+   "en": "headphones",
+   "vi": "tai nghe",
+   "ipa": "/ˈhɛdˌfoʊnz/",
+   "syllables": [
+    "head",
+    "phones"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3A7"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "Use headphones on the bus.",
+   "example_vi": "Đeo tai nghe khi đi xe buýt nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W25",
+   "type": "word",
+   "en": "speaker",
+   "vi": "cái loa",
+   "ipa": "/ˈspikər/",
+   "syllables": [
+    "speak",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F508"
+   },
+   "picturable": true,
+   "cat": "L3U10",
+   "example_en": "The speaker is too loud.",
+   "example_vi": "Cái loa to quá.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W26",
+   "type": "phrase",
+   "en": "video call",
+   "vi": "gọi video",
+   "ipa": "/ˈvɪdioʊ kɔl/",
+   "syllables": [
+    "video",
+    "call"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F933"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "We have a video call with Grandma every Sunday.",
+   "example_vi": "Chủ nhật nào nhà tớ cũng gọi video cho bà.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W27",
+   "type": "word",
+   "en": "online",
+   "vi": "trên mạng",
+   "ipa": "/ˈɔnˌlaɪn/",
+   "syllables": [
+    "on",
+    "line"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4F6"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "My cousin has lessons online.",
+   "example_vi": "Anh họ tớ học trên mạng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W28",
+   "type": "word",
+   "en": "click",
+   "vi": "nhấp chuột",
+   "ipa": "/klɪk/",
+   "syllables": [
+    "click"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F5B1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Click on the star.",
+   "example_vi": "Nhấp vào ngôi sao.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W29",
+   "type": "word",
+   "en": "type",
+   "vi": "gõ phím",
+   "ipa": "/taɪp/",
+   "syllables": [
+    "type"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2328-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "I can type my name.",
+   "example_vi": "Tớ gõ được tên mình.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W30",
+   "type": "word",
+   "en": "plug",
+   "vi": "phích cắm",
+   "ipa": "/plʌɡ/",
+   "syllables": [
+    "plug"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F50C"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Don't touch the plug with wet hands.",
+   "example_vi": "Đừng chạm vào phích cắm khi tay ướt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W31",
+   "type": "phrase",
+   "en": "remote control",
+   "vi": "cái điều khiển",
+   "ipa": "/rɪˈmoʊt kənˈtroʊl/",
+   "syllables": [
+    "re",
+    "mote",
+    "con",
+    "trol"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DF"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Where is the remote control?",
+   "example_vi": "Cái điều khiển đâu rồi?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W32",
+   "type": "phrase",
+   "en": "washing machine",
+   "vi": "máy giặt",
+   "ipa": "/ˈwɑʃɪŋ məˈʃin/",
+   "syllables": [
+    "wash",
+    "ing",
+    "ma",
+    "chine"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9FA"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Put your clothes in the washing machine.",
+   "example_vi": "Cho quần áo vào máy giặt nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W33",
+   "type": "word",
+   "en": "fridge",
+   "vi": "tủ lạnh",
+   "ipa": "/frɪdʒ/",
+   "syllables": [
+    "fridge"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "The milk is in the fridge.",
+   "example_vi": "Sữa ở trong tủ lạnh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L3U10-W34",
+   "type": "word",
+   "en": "microwave",
+   "vi": "lò vi sóng",
+   "ipa": "/ˈmaɪkrəˌweɪv/",
+   "syllables": [
+    "microwave"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L3U10",
+   "example_en": "Heat the soup in the microwave.",
+   "example_vi": "Hâm súp trong lò vi sóng.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L3U10-P01",
+   "en": "We use a computer to {x}.",
+   "vi": "Chúng ta dùng máy tính để {x}.",
+   "slots": {
+    "x": [
+     "write emails",
+     "watch videos",
+     "play games",
+     "do homework"
+    ]
+   }
+  },
+  {
+   "id": "L3U10-P02",
+   "en": "Press the {x} button.",
+   "vi": "Bấm nút {x}.",
+   "slots": {
+    "x": [
+     "red",
+     "green",
+     "blue",
+     "big"
+    ]
+   }
+  },
+  {
+   "id": "L3U10-P03",
+   "en": "Can you turn on the {x}?",
+   "vi": "Cậu bật {x} lên được không?",
+   "slots": {
+    "x": [
+     "light",
+     "TV",
+     "radio",
+     "computer"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L3U10-D01",
+   "title_vi": "Gọi video cho bà",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, can you help me? I want to call Grandma.",
+     "vi": "Bi ơi, giúp tớ với? Tớ muốn gọi cho bà."
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! Is the tablet charged?",
+     "vi": "Được chứ! Máy tính bảng sạc chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. What do I press?",
+     "vi": "Rồi. Tớ bấm gì đây?"
+    },
+    {
+     "role": "Bi",
+     "en": "Press the green button for a video call.",
+     "vi": "Bấm nút xanh để gọi video."
+    },
+    {
+     "role": "Kid",
+     "en": "It's working! I can see her!",
+     "vi": "Được rồi! Tớ nhìn thấy bà rồi!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "Grandma",
+    "options": [
+     "Grandpa",
+     "aunt"
+    ]
+   }
+  },
+  {
+   "id": "L3U10-D02",
+   "title_vi": "Nhà phát minh nhỏ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you making?",
+     "vi": "Cậu đang làm gì thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm making a robot. It can clean my room!",
+     "vi": "Tớ đang làm rô-bốt. Nó có thể dọn phòng cho tớ!"
+    },
+    {
+     "role": "Bi",
+     "en": "Wow! You are a great inventor.",
+     "vi": "Oa! Cậu là nhà phát minh tài ba."
+    },
+    {
+     "role": "Kid",
+     "en": "But it needs a battery.",
+     "vi": "Nhưng nó cần pin."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "robot",
+    "options": [
+     "machine",
+     "car"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "computer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "laptop"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tablet"
+  },
+  {
+   "type": "dictate_word",
+   "target": "screen"
+  },
+  {
+   "type": "dictate_word",
+   "target": "keyboard"
+  },
+  {
+   "type": "dictate_word",
+   "target": "printer"
+  },
+  {
+   "type": "dictate_word",
+   "target": "email"
+  },
+  {
+   "type": "dictate_word",
+   "target": "message"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My dad works on a computer."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My laptop is in my bag."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I read stories on a tablet."
+  },
+  {
+   "type": "write_sentences",
+   "target": "I use a computer to|My favourite machine is|I want to invent"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L3U10-R01",
+   "title_en": "Screen time",
+   "text_en": [
+    "Nick loves his tablet.",
+    "He watches videos and plays games every day.",
+    "One evening, his eyes hurt and he felt grumpy.",
+    "His mum said that he should take a break.",
+    "So Nick turned off the tablet.",
+    "He went to the park and rode his bike with his friends.",
+    "They played football until dinner.",
+    "That night, Nick slept very well.",
+    "Now he plays on the tablet for a short time, then he plays outside!"
+   ],
+   "questions": [
+    {
+     "q": "How did Nick feel one evening?",
+     "options": [
+      "Grumpy.",
+      "Excited.",
+      "Proud."
+     ],
+     "answer": "Grumpy."
+    },
+    {
+     "q": "What did Nick do in the park?",
+     "options": [
+      "He rode his bike.",
+      "He watched videos.",
+      "He slept."
+     ],
+     "answer": "He rode his bike."
+    },
+    {
+     "q": "What does Nick do now?",
+     "options": [
+      "He plays on the tablet for a short time.",
+      "He never plays outside.",
+      "He plays games all day."
+     ],
+     "answer": "He plays on the tablet for a short time."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L3U10-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "computer",
+   "item": "computer",
+   "options": [
+    "laptop",
+    "radio",
+    "computer",
+    "video"
+   ],
+   "answer": "computer"
+  },
+  {
+   "id": "L3U10-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "laptop",
+   "item": "laptop",
+   "options": [
+    "speaker",
+    "keyboard",
+    "video",
+    "laptop"
+   ],
+   "answer": "laptop"
+  },
+  {
+   "id": "L3U10-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "keyboard",
+   "item": "keyboard",
+   "options": [
+    "email",
+    "keyboard",
+    "video",
+    "music"
+   ],
+   "answer": "keyboard"
+  },
+  {
+   "id": "L3U10-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "printer",
+   "item": "printer",
+   "options": [
+    "printer",
+    "email",
+    "battery",
+    "computer"
+   ],
+   "answer": "printer"
+  },
+  {
+   "id": "L3U10-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "email",
+   "item": "email",
+   "options": [
+    "music",
+    "computer",
+    "headphones",
+    "email"
+   ],
+   "answer": "email"
+  },
+  {
+   "id": "L3U10-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "video",
+   "item": "video",
+   "options": [
+    "music",
+    "keyboard",
+    "email",
+    "video"
+   ],
+   "answer": "video"
+  },
+  {
+   "id": "L3U10-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "battery",
+   "item": "battery",
+   "options": [
+    "printer",
+    "radio",
+    "keyboard",
+    "battery"
+   ],
+   "answer": "battery"
+  },
+  {
+   "id": "L3U10-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "radio",
+   "item": "radio",
+   "options": [
+    "video",
+    "email",
+    "radio",
+    "keyboard"
+   ],
+   "answer": "radio"
+  },
+  {
+   "id": "L3U10-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "music",
+   "item": "music",
+   "options": [
+    "radio",
+    "music",
+    "email",
+    "headphones"
+   ],
+   "answer": "music"
+  },
+  {
+   "id": "L3U10-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "headphones",
+   "item": "headphones",
+   "options": [
+    "battery",
+    "printer",
+    "headphones",
+    "keyboard"
+   ],
+   "answer": "headphones"
+  },
+  {
+   "id": "L3U10-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "speaker",
+   "item": "speaker",
+   "options": [
+    "headphones",
+    "video",
+    "battery",
+    "speaker"
+   ],
+   "answer": "speaker"
+  },
+  {
+   "id": "L3U10-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tablet",
+   "item": "tablet",
+   "options": [
+    "message",
+    "light bulb",
+    "invent",
+    "tablet"
+   ],
+   "answer": "tablet"
+  },
+  {
+   "id": "L3U10-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "screen",
+   "item": "screen",
+   "options": [
+    "screen",
+    "light bulb",
+    "keyboard",
+    "microwave"
+   ],
+   "answer": "screen"
+  },
+  {
+   "id": "L3U10-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "message",
+   "item": "message",
+   "options": [
+    "video call",
+    "message",
+    "password",
+    "remote control"
+   ],
+   "answer": "message"
+  },
+  {
+   "id": "L3U10-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "internet",
+   "item": "internet",
+   "options": [
+    "remote control",
+    "email",
+    "inventor",
+    "internet"
+   ],
+   "answer": "internet"
+  },
+  {
+   "id": "L3U10-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "password",
+   "item": "password",
+   "options": [
+    "turn on",
+    "password",
+    "email",
+    "tablet"
+   ],
+   "answer": "password"
+  },
+  {
+   "id": "L3U10-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "charge",
+   "item": "charge",
+   "options": [
+    "video",
+    "wheel",
+    "computer",
+    "charge"
+   ],
+   "answer": "charge"
+  },
+  {
+   "id": "L3U10-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "button",
+   "item": "button",
+   "options": [
+    "machine",
+    "music",
+    "button",
+    "wheel"
+   ],
+   "answer": "button"
+  },
+  {
+   "id": "L3U10-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "press",
+   "item": "press",
+   "options": [
+    "email",
+    "video",
+    "turn on",
+    "press"
+   ],
+   "answer": "press"
+  },
+  {
+   "id": "L3U10-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "turn on",
+   "item": "turn on",
+   "options": [
+    "turn on",
+    "video",
+    "light bulb",
+    "online"
+   ],
+   "answer": "turn on"
+  },
+  {
+   "id": "L3U10-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "machine",
+   "item": "machine",
+   "options": [
+    "microwave",
+    "type",
+    "machine",
+    "light bulb"
+   ],
+   "answer": "machine"
+  },
+  {
+   "id": "L3U10-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "invent",
+   "item": "invent",
+   "options": [
+    "invent",
+    "machine",
+    "inventor",
+    "laptop"
+   ],
+   "answer": "invent"
+  },
+  {
+   "id": "L3U10-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "inventor",
+   "item": "inventor",
+   "options": [
+    "video",
+    "inventor",
+    "remote control",
+    "light bulb"
+   ],
+   "answer": "inventor"
+  },
+  {
+   "id": "L3U10-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wheel",
+   "item": "wheel",
+   "options": [
+    "video",
+    "password",
+    "click",
+    "wheel"
+   ],
+   "answer": "wheel"
+  },
+  {
+   "id": "L3U10-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "light bulb",
+   "item": "light bulb",
+   "options": [
+    "washing machine",
+    "speaker",
+    "plug",
+    "light bulb"
+   ],
+   "answer": "light bulb"
+  },
+  {
+   "id": "L3U10-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "video call",
+   "item": "video call",
+   "options": [
+    "video call",
+    "washing machine",
+    "keyboard",
+    "invent"
+   ],
+   "answer": "video call"
+  },
+  {
+   "id": "L3U10-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "online",
+   "item": "online",
+   "options": [
+    "online",
+    "battery",
+    "speaker",
+    "computer"
+   ],
+   "answer": "online"
+  },
+  {
+   "id": "L3U10-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "click",
+   "item": "click",
+   "options": [
+    "headphones",
+    "button",
+    "laptop",
+    "click"
+   ],
+   "answer": "click"
+  },
+  {
+   "id": "L3U10-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "type",
+   "item": "type",
+   "options": [
+    "headphones",
+    "type",
+    "email",
+    "microwave"
+   ],
+   "answer": "type"
+  },
+  {
+   "id": "L3U10-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "plug",
+   "item": "plug",
+   "options": [
+    "light bulb",
+    "video call",
+    "internet",
+    "plug"
+   ],
+   "answer": "plug"
+  },
+  {
+   "id": "L3U10-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "remote control",
+   "item": "remote control",
+   "options": [
+    "button",
+    "message",
+    "remote control",
+    "computer"
+   ],
+   "answer": "remote control"
+  },
+  {
+   "id": "L3U10-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "washing machine",
+   "item": "washing machine",
+   "options": [
+    "washing machine",
+    "invent",
+    "light bulb",
+    "radio"
+   ],
+   "answer": "washing machine"
+  },
+  {
+   "id": "L3U10-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fridge",
+   "item": "fridge",
+   "options": [
+    "internet",
+    "fridge",
+    "video",
+    "type"
+   ],
+   "answer": "fridge"
+  },
+  {
+   "id": "L3U10-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "microwave",
+   "item": "microwave",
+   "options": [
+    "video",
+    "washing machine",
+    "turn on",
+    "microwave"
+   ],
+   "answer": "microwave"
+  },
+  {
+   "id": "L3U10-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "computer",
+   "answer": "computer"
+  },
+  {
+   "id": "L3U10-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "laptop",
+   "answer": "laptop"
+  },
+  {
+   "id": "L3U10-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "keyboard",
+   "answer": "keyboard"
+  },
+  {
+   "id": "L3U10-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "printer",
+   "answer": "printer"
+  },
+  {
+   "id": "L3U10-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "email",
+   "answer": "email"
+  },
+  {
+   "id": "L3U10-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "video",
+   "answer": "video"
+  },
+  {
+   "id": "L3U10-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "battery",
+   "answer": "battery"
+  },
+  {
+   "id": "L3U10-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "radio",
+   "answer": "radio"
+  },
+  {
+   "id": "L3U10-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "music",
+   "answer": "music"
+  },
+  {
+   "id": "L3U10-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "headphones",
+   "answer": "headphones"
+  },
+  {
+   "id": "L3U10-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "speaker",
+   "answer": "speaker"
+  },
+  {
+   "id": "L3U10-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad works on a computer.",
+   "item": "computer",
+   "answer": "My dad works on a computer."
+  },
+  {
+   "id": "L3U10-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My laptop is in my bag.",
+   "item": "laptop",
+   "answer": "My laptop is in my bag."
+  },
+  {
+   "id": "L3U10-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read stories on a tablet.",
+   "item": "tablet",
+   "answer": "I read stories on a tablet."
+  },
+  {
+   "id": "L3U10-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't sit too near the screen.",
+   "item": "screen",
+   "answer": "Don't sit too near the screen."
+  },
+  {
+   "id": "L3U10-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Type your name on the keyboard.",
+   "item": "keyboard",
+   "answer": "Type your name on the keyboard."
+  },
+  {
+   "id": "L3U10-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The printer needs paper.",
+   "item": "printer",
+   "answer": "The printer needs paper."
+  },
+  {
+   "id": "L3U10-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum sends an email to her friend.",
+   "item": "email",
+   "answer": "Mum sends an email to her friend."
+  },
+  {
+   "id": "L3U10-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got a message from Grandma.",
+   "item": "message",
+   "answer": "I got a message from Grandma."
+  },
+  {
+   "id": "L3U10-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Use the internet with Mum or Dad.",
+   "item": "internet",
+   "answer": "Use the internet with Mum or Dad."
+  },
+  {
+   "id": "L3U10-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's watch a video about whales.",
+   "item": "video",
+   "answer": "Let's watch a video about whales."
+  },
+  {
+   "id": "L3U10-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't tell anyone your password.",
+   "item": "password",
+   "answer": "Don't tell anyone your password."
+  },
+  {
+   "id": "L3U10-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My robot needs a new battery.",
+   "item": "battery",
+   "answer": "My robot needs a new battery."
+  },
+  {
+   "id": "L3U10-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Charge the tablet tonight.",
+   "item": "charge",
+   "answer": "Charge the tablet tonight."
+  },
+  {
+   "id": "L3U10-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press the green button.",
+   "item": "button",
+   "answer": "Press the green button."
+  },
+  {
+   "id": "L3U10-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press here to start.",
+   "item": "press",
+   "answer": "Press here to start."
+  },
+  {
+   "id": "L3U10-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn on the light, please.",
+   "item": "turn on",
+   "answer": "Turn on the light, please."
+  },
+  {
+   "id": "L3U10-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This machine makes ice cream!",
+   "item": "machine",
+   "answer": "This machine makes ice cream!"
+  },
+  {
+   "id": "L3U10-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Who invented the telephone?",
+   "item": "invent",
+   "answer": "Who invented the telephone?"
+  },
+  {
+   "id": "L3U10-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to be an inventor.",
+   "item": "inventor",
+   "answer": "I want to be an inventor."
+  },
+  {
+   "id": "L3U10-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A bike has two wheels.",
+   "item": "wheel",
+   "answer": "A bike has two wheels."
+  },
+  {
+   "id": "L3U10-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The light bulb is broken.",
+   "item": "light bulb",
+   "answer": "The light bulb is broken."
+  },
+  {
+   "id": "L3U10-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa listens to the radio.",
+   "item": "radio",
+   "answer": "Grandpa listens to the radio."
+  },
+  {
+   "id": "L3U10-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I listen to music every day.",
+   "item": "music",
+   "answer": "I listen to music every day."
+  },
+  {
+   "id": "L3U10-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Use headphones on the bus.",
+   "item": "headphones",
+   "answer": "Use headphones on the bus."
+  },
+  {
+   "id": "L3U10-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The speaker is too loud.",
+   "item": "speaker",
+   "answer": "The speaker is too loud."
+  },
+  {
+   "id": "L3U10-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a video call with Grandma every Sunday.",
+   "item": "video call",
+   "answer": "We have a video call with Grandma every Sunday."
+  },
+  {
+   "id": "L3U10-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin has lessons online.",
+   "item": "online",
+   "answer": "My cousin has lessons online."
+  },
+  {
+   "id": "L3U10-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Click on the star.",
+   "item": "click",
+   "answer": "Click on the star."
+  },
+  {
+   "id": "L3U10-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can type my name.",
+   "item": "type",
+   "answer": "I can type my name."
+  },
+  {
+   "id": "L3U10-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't touch the plug with wet hands.",
+   "item": "plug",
+   "answer": "Don't touch the plug with wet hands."
+  },
+  {
+   "id": "L3U10-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is the remote control?",
+   "item": "remote control",
+   "answer": "Where is the remote control?"
+  },
+  {
+   "id": "L3U10-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put your clothes in the washing machine.",
+   "item": "washing machine",
+   "answer": "Put your clothes in the washing machine."
+  },
+  {
+   "id": "L3U10-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The milk is in the fridge.",
+   "item": "fridge",
+   "answer": "The milk is in the fridge."
+  },
+  {
+   "id": "L3U10-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Heat the soup in the microwave.",
+   "item": "microwave",
+   "answer": "Heat the soup in the microwave."
+  },
+  {
+   "id": "L3U10-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We use a computer to write emails.",
+   "answer": "We use a computer to write emails."
+  },
+  {
+   "id": "L3U10-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We use a computer to watch videos.",
+   "answer": "We use a computer to watch videos."
+  },
+  {
+   "id": "L3U10-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We use a computer to play games.",
+   "answer": "We use a computer to play games."
+  },
+  {
+   "id": "L3U10-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press the red button.",
+   "answer": "Press the red button."
+  },
+  {
+   "id": "L3U10-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press the green button.",
+   "answer": "Press the green button."
+  },
+  {
+   "id": "L3U10-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Press the blue button.",
+   "answer": "Press the blue button."
+  },
+  {
+   "id": "L3U10-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you turn on the light?",
+   "answer": "Can you turn on the light?"
+  },
+  {
+   "id": "L3U10-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you turn on the TV?",
+   "answer": "Can you turn on the TV?"
+  },
+  {
+   "id": "L3U10-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you turn on the radio?",
+   "answer": "Can you turn on the radio?"
+  },
+  {
+   "id": "L3U10-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Sure! Is the tablet charged?",
+   "answer": "Yes. What do I press?"
+  },
+  {
+   "id": "L3U10-Q090",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes. What do I press?",
+   "answer": "Press the green button for a video call."
+  },
+  {
+   "id": "L3U10-Q091",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you making?",
+   "answer": "I'm making a robot. It can clean my room!"
+  },
+  {
+   "id": "L3U10-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "computer",
+   "options": [
+    "laptop",
+    "email",
+    "computer"
+   ],
+   "answer": "computer"
+  },
+  {
+   "id": "L3U10-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "laptop",
+   "options": [
+    "keyboard",
+    "radio",
+    "laptop"
+   ],
+   "answer": "laptop"
+  },
+  {
+   "id": "L3U10-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "keyboard",
+   "options": [
+    "headphones",
+    "computer",
+    "keyboard"
+   ],
+   "answer": "keyboard"
+  },
+  {
+   "id": "L3U10-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "printer",
+   "options": [
+    "printer",
+    "radio",
+    "keyboard"
+   ],
+   "answer": "printer"
+  },
+  {
+   "id": "L3U10-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "email",
+   "options": [
+    "email",
+    "radio",
+    "battery"
+   ],
+   "answer": "email"
+  },
+  {
+   "id": "L3U10-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "video",
+   "options": [
+    "speaker",
+    "computer",
+    "video"
+   ],
+   "answer": "video"
+  },
+  {
+   "id": "L3U10-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "battery",
+   "options": [
+    "headphones",
+    "battery",
+    "video"
+   ],
+   "answer": "battery"
+  },
+  {
+   "id": "L3U10-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "radio",
+   "options": [
+    "video",
+    "email",
+    "radio"
+   ],
+   "answer": "radio"
+  },
+  {
+   "id": "L3U10-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "music",
+   "options": [
+    "laptop",
+    "radio",
+    "music"
+   ],
+   "answer": "music"
+  },
+  {
+   "id": "L3U10-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "headphones",
+   "options": [
+    "headphones",
+    "video",
+    "computer"
+   ],
+   "answer": "headphones"
+  },
+  {
+   "id": "L3U10-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "speaker",
+   "options": [
+    "battery",
+    "video",
+    "speaker"
+   ],
+   "answer": "speaker"
+  },
+  {
+   "id": "L3U10-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad works on a ___.",
+   "item": "computer",
+   "options": [
+    "press",
+    "headphones",
+    "computer"
+   ],
+   "answer": "computer"
+  },
+  {
+   "id": "L3U10-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is in my bag.",
+   "item": "laptop",
+   "options": [
+    "charge",
+    "click",
+    "laptop"
+   ],
+   "answer": "laptop"
+  },
+  {
+   "id": "L3U10-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read stories on a ___.",
+   "item": "tablet",
+   "options": [
+    "online",
+    "tablet",
+    "headphones"
+   ],
+   "answer": "tablet"
+  },
+  {
+   "id": "L3U10-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't sit too near the ___.",
+   "item": "screen",
+   "options": [
+    "button",
+    "click",
+    "screen"
+   ],
+   "answer": "screen"
+  },
+  {
+   "id": "L3U10-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Type your name on the ___.",
+   "item": "keyboard",
+   "options": [
+    "keyboard",
+    "invent",
+    "charge"
+   ],
+   "answer": "keyboard"
+  },
+  {
+   "id": "L3U10-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ needs paper.",
+   "item": "printer",
+   "options": [
+    "headphones",
+    "printer",
+    "press"
+   ],
+   "answer": "printer"
+  },
+  {
+   "id": "L3U10-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum sends an ___ to her friend.",
+   "item": "email",
+   "options": [
+    "button",
+    "email",
+    "type"
+   ],
+   "answer": "email"
+  },
+  {
+   "id": "L3U10-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I got a ___ from Grandma.",
+   "item": "message",
+   "options": [
+    "charge",
+    "press",
+    "message"
+   ],
+   "answer": "message"
+  },
+  {
+   "id": "L3U10-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Use the ___ with Mum or Dad.",
+   "item": "internet",
+   "options": [
+    "type",
+    "internet",
+    "press"
+   ],
+   "answer": "internet"
+  },
+  {
+   "id": "L3U10-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's watch a ___ about whales.",
+   "item": "video",
+   "options": [
+    "video",
+    "type",
+    "click"
+   ],
+   "answer": "video"
+  },
+  {
+   "id": "L3U10-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't tell anyone your ___.",
+   "item": "password",
+   "options": [
+    "password",
+    "charge",
+    "music"
+   ],
+   "answer": "password"
+  },
+  {
+   "id": "L3U10-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My robot needs a new ___.",
+   "item": "battery",
+   "options": [
+    "message",
+    "battery",
+    "printer"
+   ],
+   "answer": "battery"
+  },
+  {
+   "id": "L3U10-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the tablet tonight.",
+   "item": "charge",
+   "options": [
+    "Charge",
+    "Radio",
+    "Video"
+   ],
+   "answer": "Charge"
+  },
+  {
+   "id": "L3U10-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Press the green ___.",
+   "item": "button",
+   "options": [
+    "button",
+    "password",
+    "wheel"
+   ],
+   "answer": "button"
+  },
+  {
+   "id": "L3U10-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ here to start.",
+   "item": "press",
+   "options": [
+    "Press",
+    "Internet",
+    "Speaker"
+   ],
+   "answer": "Press"
+  },
+  {
+   "id": "L3U10-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ makes ice cream!",
+   "item": "machine",
+   "options": [
+    "invent",
+    "machine",
+    "charge"
+   ],
+   "answer": "machine"
+  },
+  {
+   "id": "L3U10-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Who ___ the telephone?",
+   "item": "invent",
+   "options": [
+    "invented",
+    "onlined",
+    "tableted"
+   ],
+   "answer": "invented"
+  },
+  {
+   "id": "L3U10-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to be an ___.",
+   "item": "inventor",
+   "options": [
+    "charge",
+    "inventor",
+    "type"
+   ],
+   "answer": "inventor"
+  },
+  {
+   "id": "L3U10-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A bike has two ___.",
+   "item": "wheel",
+   "options": [
+    "batterys",
+    "headphoneses",
+    "wheels"
+   ],
+   "answer": "wheels"
+  },
+  {
+   "id": "L3U10-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa listens to the ___.",
+   "item": "radio",
+   "options": [
+    "button",
+    "headphones",
+    "radio"
+   ],
+   "answer": "radio"
+  },
+  {
+   "id": "L3U10-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I listen to ___ every day.",
+   "item": "music",
+   "options": [
+    "radio",
+    "music",
+    "inventor"
+   ],
+   "answer": "music"
+  },
+  {
+   "id": "L3U10-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Use ___ on the bus.",
+   "item": "headphones",
+   "options": [
+    "printer",
+    "headphones",
+    "plug"
+   ],
+   "answer": "headphones"
+  },
+  {
+   "id": "L3U10-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is too loud.",
+   "item": "speaker",
+   "options": [
+    "type",
+    "speaker",
+    "press"
+   ],
+   "answer": "speaker"
+  },
+  {
+   "id": "L3U10-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin has lessons ___.",
+   "item": "online",
+   "options": [
+    "laptop",
+    "online",
+    "headphones"
+   ],
+   "answer": "online"
+  },
+  {
+   "id": "L3U10-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ on the star.",
+   "item": "click",
+   "options": [
+    "Video",
+    "Laptop",
+    "Click"
+   ],
+   "answer": "Click"
+  },
+  {
+   "id": "L3U10-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___ my name.",
+   "item": "type",
+   "options": [
+    "inventor",
+    "button",
+    "type"
+   ],
+   "answer": "type"
+  },
+  {
+   "id": "L3U10-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't touch the ___ with wet hands.",
+   "item": "plug",
+   "options": [
+    "online",
+    "plug",
+    "headphones"
+   ],
+   "answer": "plug"
+  },
+  {
+   "id": "L3U10-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The milk is in the ___.",
+   "item": "fridge",
+   "options": [
+    "fridge",
+    "press",
+    "online"
+   ],
+   "answer": "fridge"
+  },
+  {
+   "id": "L3U10-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Heat the soup in the ___.",
+   "item": "microwave",
+   "options": [
+    "microwave",
+    "headphones",
+    "battery"
+   ],
+   "answer": "microwave"
+  },
+  {
+   "id": "L3U10-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My dad works on a computer.",
+   "item": "computer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My laptop is in my bag.",
+   "item": "keyboard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U10-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Type your name on the keyboard.",
+   "item": "keyboard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The printer needs paper.",
+   "item": "email",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U10-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Mum sends an email to her friend.",
+   "item": "email",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's watch a video about whales.",
+   "item": "battery",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U10-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My robot needs a new battery.",
+   "item": "battery",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Grandpa listens to the radio.",
+   "item": "music",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U10-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I listen to music every day.",
+   "item": "music",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Use headphones on the bus.",
+   "item": "speaker",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L3U10-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The speaker is too loud.",
+   "item": "speaker",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L3U10-Q143",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U10-R01",
+   "text_en": "How did Nick feel one evening?",
+   "options": [
+    "Proud.",
+    "Excited.",
+    "Grumpy."
+   ],
+   "answer": "Grumpy."
+  },
+  {
+   "id": "L3U10-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U10-R01",
+   "text_en": "What did Nick do in the park?",
+   "options": [
+    "He slept.",
+    "He rode his bike.",
+    "He watched videos."
+   ],
+   "answer": "He rode his bike."
+  },
+  {
+   "id": "L3U10-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L3U10-R01",
+   "text_en": "What does Nick do now?",
+   "options": [
+    "He plays on the tablet for a short time.",
+    "He never plays outside.",
+    "He plays games all day."
+   ],
+   "answer": "He plays on the tablet for a short time."
+  },
+  {
+   "id": "L3U10-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "computer",
+   "item": "computer",
+   "answer": "computer"
+  },
+  {
+   "id": "L3U10-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "laptop",
+   "item": "laptop",
+   "answer": "laptop"
+  },
+  {
+   "id": "L3U10-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tablet",
+   "item": "tablet",
+   "answer": "tablet"
+  },
+  {
+   "id": "L3U10-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "screen",
+   "item": "screen",
+   "answer": "screen"
+  },
+  {
+   "id": "L3U10-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "keyboard",
+   "item": "keyboard",
+   "answer": "keyboard"
+  },
+  {
+   "id": "L3U10-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "printer",
+   "item": "printer",
+   "answer": "printer"
+  },
+  {
+   "id": "L3U10-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "email",
+   "item": "email",
+   "answer": "email"
+  },
+  {
+   "id": "L3U10-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "message",
+   "item": "message",
+   "answer": "message"
+  },
+  {
+   "id": "L3U10-Q154",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My dad works on a computer.",
+   "answer": "My dad works on a computer."
+  },
+  {
+   "id": "L3U10-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My laptop is in my bag.",
+   "answer": "My laptop is in my bag."
+  },
+  {
+   "id": "L3U10-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I read stories on a tablet.",
+   "answer": "I read stories on a tablet."
+  }
+ ]
+}

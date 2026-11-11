@@ -1,0 +1,57 @@
+name: ong_bi_english
+description: "Ong Bi English - app học tiếng Anh offline, miễn phí cho bé 6 tuổi."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+  flutter: ">=3.47.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.11.0
+  flutter_riverpod: ^3.5.0
+  go_router: ^18.1.4
+  drift: ^2.35.4
+  drift_flutter: ^0.3.1
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  # Pinned on purpose: 2.x removed the bundled espeak-ng / piper-phonemize
+  # that the Kokoro and Piper voices rely on. See docs/STACK.md.
+  sherpa_onnx: 1.12.29
+  record: ^7.2.0
+  just_audio: ^0.10.6
+  flutter_svg: ^2.3.2
+  flutter_tts: ^4.2.5
+  google_mlkit_digital_ink_recognition: ^1.0.0
+  crypto: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/svg/
+    - assets/curriculum/
+    - assets/curriculum/level_0/
+    - assets/curriculum/level_1/
+    - assets/curriculum/level_2/
+    - assets/curriculum/level_3/
+    - assets/curriculum/level_4/
+    - assets/curriculum/level_5/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-Variable.ttf
+    - family: Andika
+      fonts:
+        - asset: assets/fonts/Andika-Regular.ttf
+        - asset: assets/fonts/Andika-Bold.ttf
+          weight: 700
+    - family: NotoColorEmoji
+      fonts:
+        - asset: assets/fonts/NotoColorEmoji-Regular.ttf

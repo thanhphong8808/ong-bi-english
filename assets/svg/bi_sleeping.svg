@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Bi the bee: original mascot drawn for Ong Bi English -->
+  <ellipse cx="120" cy="222" rx="54" ry="8" fill="#000000" fill-opacity="0.10"/>
+  <path d="M92 96 C58 52 40 88 76 116 Z" fill="#DDF3FF" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M148 96 C182 52 200 88 164 116 Z" fill="#DDF3FF" stroke="#3A2A1A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M104 66 Q94 38 80 34" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M136 66 Q146 38 160 34" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="79" cy="33" r="7" fill="#FFB703" stroke="#3A2A1A" stroke-width="3"/>
+  <circle cx="161" cy="33" r="7" fill="#FFB703" stroke="#3A2A1A" stroke-width="3"/>
+  <ellipse cx="120" cy="160" rx="54" ry="50" fill="#FFC531" stroke="#3A2A1A" stroke-width="4"/>
+  <path d="M68 150 Q120 168 172 150 L173 166 Q120 184 67 166 Z" fill="#3A2A1A"/>
+  <path d="M76 184 Q120 200 164 184 L154 198 Q120 210 86 198 Z" fill="#3A2A1A"/>
+  <circle cx="120" cy="100" r="48" fill="#FFD23F" stroke="#3A2A1A" stroke-width="4"/>
+  <circle cx="88" cy="112" r="9" fill="#FF8FA3" fill-opacity="0.75"/>
+  <circle cx="152" cy="112" r="9" fill="#FF8FA3" fill-opacity="0.75"/>
+  <path d="M70 150 Q52 160 56 176" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170 150 Q188 160 184 176" fill="none" stroke="#3A2A1A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M94 98 Q102 106 110 98" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130 98 Q138 106 146 98" fill="none" stroke="#3A2A1A" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="120" cy="120" rx="5" ry="4" fill="#3A2A1A"/>
+  <path d="M176 60 L190 60 L176 76 L190 76" fill="none" stroke="#5E60CE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M198 34 L216 34 L198 54 L216 54" fill="none" stroke="#5E60CE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 60 Q120 20 158 60 Q120 50 82 60 Z" fill="#5E60CE" stroke="#3A2A1A" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="160" cy="58" r="6" fill="#FFFFFF" stroke="#3A2A1A" stroke-width="3"/>
+</svg>

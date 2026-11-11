@@ -1,0 +1,796 @@
+# Level 4 - A2+
+@U 1 | Shopping for clothes | Đi mua quần áo | Hỏi giá, hỏi cỡ, xin thử đồ ; Trả tiền và cảm ơn người bán hàng
+G Hỏi giá một món: "How much is this T-shirt?" Hỏi giá nhiều món hoặc một đôi: "How much are these shoes?" Xin thử đồ: "Can I try it on?"
+W colour | màu sắc | ~🎨 | What colour do you want? | Cậu muốn màu gì?
+W medium | cỡ vừa | ~Ⓜ️ | I need a medium T-shirt. | Tớ cần áo phông cỡ vừa.
+W changing room | phòng thử đồ | ~🚪 | The changing room is over there. | Phòng thử đồ ở đằng kia.
+W fit | vừa (cỡ) | ~👌 | These shoes don't fit me. | Đôi giày này không vừa với tớ.
+W tight | chật | ~🤏 | The jeans are too tight. | Quần bò chật quá.
+W loose | rộng | ~👐 | This jumper is a bit loose. | Áo len này hơi rộng.
+W receipt | hoá đơn | 🧾 | Here's your receipt. | Hoá đơn của bạn đây.
+W cash | tiền mặt | ~💴 | Can I pay in cash? | Tôi trả bằng tiền mặt được không?
+W credit card | thẻ tín dụng | ~💳 | Mum pays with her credit card. | Mẹ trả bằng thẻ tín dụng.
+W discount | giảm giá | ~🏷️ | Is there a discount for children? | Có giảm giá cho trẻ em không?
+W sale | đợt giảm giá | ~🏷️ | Everything is cheap in the sale. | Mùa giảm giá mọi thứ đều rẻ.
+W half price | nửa giá | ~➗ | These boots are half price today. | Hôm nay đôi ủng này giảm nửa giá.
+W shop assistant | nhân viên bán hàng | ~🧑‍💼 | The shop assistant is very helpful. | Cô bán hàng rất nhiệt tình.
+W look for | tìm kiếm | ~🔍 | I'm looking for a red hat. | Tớ đang tìm một chiếc mũ đỏ.
+W spend | tiêu (tiền) | ~💸 | Don't spend all your money. | Đừng tiêu hết tiền nhé.
+W spent | đã tiêu (spend) | ~💸 | I spent my pocket money on a book. | Tớ đã tiêu tiền tiêu vặt để mua sách.
+W pair | đôi | ~🧦 | I need a new pair of socks. | Tớ cần một đôi tất mới.
+W jeans | quần bò | ~👖 | My jeans are blue. | Quần bò của tớ màu xanh.
+W jumper | áo len | ~🧶 | Put on a jumper. It's cold. | Mặc áo len vào. Trời lạnh.
+W hoodie | áo nỉ có mũ | ~🧥 | My hoodie has a big pocket. | Áo nỉ của tớ có một cái túi to.
+W sandals | dép xăng-đan | 👡 | I wear sandals in summer. | Mùa hè tớ đi dép xăng-đan.
+W slippers | dép đi trong nhà | 🥿 | My slippers are warm and soft. | Dép đi trong nhà của tớ ấm và êm.
+W trainers | giày thể thao | ~👟 | I need trainers for sports day. | Tớ cần giày thể thao cho ngày hội thể thao.
+W swimsuit | đồ bơi | ~🩱 | Don't forget your swimsuit! | Đừng quên đồ bơi nhé!
+W raincoat | áo mưa | ~🧥 | Wear your raincoat. It's raining. | Mặc áo mưa vào. Trời đang mưa.
+W striped | kẻ sọc | ~🦓 | I like your striped shirt. | Tớ thích áo kẻ sọc của cậu.
+W spotted | có chấm bi | ~🐞 | She has a spotted dress. | Bạn ấy có chiếc váy chấm bi.
+W wool | len | ~🐑 | My scarf is made of wool. | Khăn quàng của tớ làm bằng len.
+W fashionable | hợp thời trang | ~💃 | Your new jacket is very fashionable. | Áo khoác mới của cậu rất hợp mốt.
+W comfortable | thoải mái | ~🛋️ | These trainers are very comfortable. | Đôi giày thể thao này rất thoải mái.
+W suit | hợp với | ~👌 | The green dress suits you. | Chiếc váy xanh hợp với cậu đấy.
+W mirror | cái gương | 🪞 | Look in the mirror. | Nhìn vào gương đi.
+W shopping centre | trung tâm mua sắm | 🏬 | We go to the shopping centre on Saturdays. | Thứ Bảy nhà tớ đi trung tâm mua sắm.
+W pocket money | tiền tiêu vặt | ~🪙 | I save my pocket money. | Tớ để dành tiền tiêu vặt.
+W perfect | hoàn hảo | ~💯 | This hat is perfect! | Cái mũ này thật hoàn hảo!
+W thirty | ba mươi | ~🔢 | There are thirty children in my class. | Lớp tớ có ba mươi bạn.
+W forty | bốn mươi | ~🔢 | My dad is forty years old. | Bố tớ bốn mươi tuổi.
+W fifty | năm mươi | ~🔢 | This book costs fifty thousand dong. | Cuốn sách này giá năm mươi nghìn đồng.
+W sixty | sáu mươi | ~🔢 | Grandpa is sixty years old. | Ông tớ sáu mươi tuổi.
+W seventy | bảy mươi | ~🔢 | My grandma is seventy. | Bà tớ bảy mươi tuổi.
+W eighty | tám mươi | ~🔢 | Eighty people came to the concert. | Tám mươi người đến buổi hoà nhạc.
+W ninety | chín mươi | ~🔢 | I got ninety points in the game. | Tớ được chín mươi điểm trong trò chơi.
+P How much is this {x}? | {x} này bao nhiêu tiền? | jumper,hoodie,raincoat,swimsuit
+P How much are these {x}? | {x} này bao nhiêu tiền? | jeans,trainers,sandals,slippers
+P Can I try on the {x} one? | Tôi thử cái {x} được không? | striped,spotted,blue,medium
+D Mua áo phông | Assistant,Kid | blue,red,green
+> Assistant: Hello! Can I help you? | Chào cháu! Cô giúp gì được cháu?
+> Kid: Yes, please. I'm looking for a T-shirt. | Vâng ạ. Cháu đang tìm áo phông.
+> Assistant: What colour do you want? | Cháu muốn màu gì?
+> Kid: Blue, please. Size medium. | Màu xanh ạ. Cỡ vừa.
+> Assistant: Here you are. The changing room is there. | Đây cháu. Phòng thử đồ ở đằng kia.
+> Kid: Thank you. It fits! How much is it? | Cháu cảm ơn. Vừa ạ! Bao nhiêu tiền ạ?
+> Assistant: It's half price today. Only fifty thousand dong. | Hôm nay giảm nửa giá. Chỉ năm mươi nghìn đồng.
+> Kid: Great! Here you are. | Tuyệt! Tiền đây ạ.
+D Đôi giày mới | Mum,Kid | trainers,sandals,boots
+> Mum: Do you like these trainers? | Con có thích đôi giày thể thao này không?
+> Kid: Yes, but they are too tight. | Có ạ, nhưng chật quá.
+> Mum: Let's try a bigger size. | Mình thử cỡ to hơn nhé.
+> Kid: These are perfect. They are very comfortable! | Đôi này vừa khít ạ. Rất thoải mái!
+> Mum: Good. Let's go and pay. | Tốt. Mình đi trả tiền nhé.
+R The birthday present
+> Lan wanted to buy a present for her mum's birthday. She had sixty thousand dong of pocket money. She went to the shopping centre with her dad. First, they looked at scarves, but they were too expensive. Then Lan saw a beautiful striped bag in a sale. It was half price! The shop assistant said it was fifty thousand dong. Lan paid in cash and got a receipt. She spent most of her money, but she was happy. Her mum loved the bag and wore it the next day.
+? How much money did Lan have? | Sixty thousand dong. | Fifty thousand dong. | Ninety thousand dong.
+? Why didn't Lan buy a scarf? | It was too expensive. | It was too big. | It was the wrong colour.
+? What did Lan buy? | A striped bag. | A spotted dress. | A wool scarf.
+S I'm looking for | How much | My favourite clothes are
+
+@U 2 | At the restaurant | Ở nhà hàng | Gọi món lịch sự với "I'd like..." ; Hỏi về món ăn và xin hoá đơn
+G Gọi món lịch sự: "I'd like a bowl of pho, please." ("I'd like" là "I would like", lịch sự hơn "I want"). Mời ai: "Would you like some water?" (Bạn có muốn uống nước không?)
+W menu | thực đơn | ~📋 | Can I see the menu, please? | Cho tôi xem thực đơn được không?
+W order | gọi món | ~📝 | Are you ready to order? | Bạn sẵn sàng gọi món chưa?
+W would | sẽ (lịch sự) | ~🙏 | Would you like some water? | Bạn có muốn uống nước không?
+W starter | món khai vị | ~🥗 | For a starter, I'd like soup. | Món khai vị, tôi muốn súp.
+W main course | món chính | ~🍛 | What would you like for your main course? | Món chính bạn muốn gì?
+W dessert | món tráng miệng | 🍮 | Let's have ice cream for dessert. | Mình ăn kem tráng miệng nhé.
+W bill | hoá đơn thanh toán | ~🧾 | Can we have the bill, please? | Cho chúng tôi xin hoá đơn.
+W spicy | cay | ~🥵 | This soup is too spicy for me. | Súp này cay quá với tớ.
+W sauce | nước sốt | ~🥫 | I like pasta with tomato sauce. | Tớ thích mì Ý với sốt cà chua.
+W pepper | hạt tiêu | ~🧂 | Can you pass the salt and pepper? | Đưa giúp tớ muối và tiêu được không?
+W chopsticks | đôi đũa | 🥢 | I can eat noodles with chopsticks. | Tớ ăn mì bằng đũa được.
+W napkin | khăn ăn | ~🧻 | Here's a napkin for your face. | Khăn ăn để lau mặt đây.
+W straw | ống hút | ~🥤 | Please don't give me a plastic straw. | Đừng đưa tôi ống hút nhựa nhé.
+W grilled | nướng | ~🍢 | I'd like grilled fish, please. | Cho tôi món cá nướng.
+W fried | rán, chiên | ~🍤 | Fried rice is my favourite. | Cơm rang là món tớ thích nhất.
+W roast | quay, nướng lò | ~🍗 | We have roast chicken on Sundays. | Chủ nhật nhà tớ ăn gà quay.
+W seafood | hải sản | ~🦞 | Do you like seafood? | Cậu có thích hải sản không?
+W prawn | con tôm | 🦐 | The prawns are big and pink. | Tôm to và màu hồng.
+W beef | thịt bò | ~🐄 | Pho with beef is very popular. | Phở bò rất được ưa chuộng.
+W pork | thịt lợn | ~🐖 | We had pork and rice for lunch. | Bữa trưa nhà tớ ăn thịt lợn với cơm.
+W tofu | đậu phụ | ~⬜ | My sister doesn't eat meat. She eats tofu. | Chị tớ không ăn thịt. Chị ăn đậu phụ.
+W mushroom | nấm | 🍄 | I don't like mushrooms on my pizza. | Tớ không thích nấm trên pizza.
+W chilli | ớt | 🌶️ | Be careful! The chilli is very hot. | Cẩn thận! Ớt cay lắm.
+W garlic | tỏi | 🧄 | Mum puts garlic in the soup. | Mẹ cho tỏi vào súp.
+W pho | phở | ~🍜 | I eat pho for breakfast. | Tớ ăn phở vào bữa sáng.
+W fish sauce | nước mắm | ~🐟 | Spring rolls are good with fish sauce. | Nem rán chấm nước mắm rất ngon.
+W vegetarian | người ăn chay, món chay | ~🥦 | Do you have vegetarian food? | Ở đây có món chay không?
+W tasty | ngon | ~😋 | This cake is really tasty! | Bánh này ngon thật!
+W smell | mùi, ngửi | ~👃 | That smells good! | Thơm quá!
+W taste | nếm, vị | ~👅 | Taste this soup. Is it salty? | Nếm súp này đi. Có mặn không?
+W waitress | nữ phục vụ | ~👩‍🍳 | The waitress brings our drinks. | Chị phục vụ mang đồ uống đến.
+W meal | bữa ăn | ~🍽️ | Breakfast is the most important meal. | Bữa sáng là bữa ăn quan trọng nhất.
+W milkshake | sữa lắc | ~🥛 | A chocolate milkshake, please! | Cho tôi một ly sữa lắc sô-cô-la!
+W cupcake | bánh nướng nhỏ | 🧁 | I made cupcakes for the party. | Tớ làm bánh cupcake cho bữa tiệc.
+W pie | bánh nướng nhân | 🥧 | Grandma makes apple pie. | Bà làm bánh táo nướng.
+W jelly | thạch | ~🍮 | Children love jelly. | Trẻ em rất thích thạch.
+W enough | đủ | ~✋ | Thank you, that's enough. | Cảm ơn, thế là đủ rồi.
+W another | thêm một, cái khác | ~➕ | Can I have another spoon? | Cho tôi thêm một cái thìa nữa được không?
+W bitter | đắng | ~😖 | This medicine is bitter. | Thuốc này đắng.
+W salty | mặn | ~🧂 | The chips are too salty. | Khoai tây chiên mặn quá.
+W takeaway | đồ ăn mang về | 🥡 | Let's get a takeaway tonight. | Tối nay mình mua đồ ăn mang về nhé.
+P I'd like {x}, please. | Cho tôi {x}. | a bowl of pho,fried rice,grilled fish,a milkshake
+P Would you like some {x}? | Bạn có muốn dùng {x} không? | dessert,water,sauce,bread
+P This soup is too {x}. | Súp này {x} quá. | spicy,salty,hot,sweet
+D Gọi món | Waiter,Kid | pho,noodles,pasta
+> Waiter: Good evening. Are you ready to order? | Chào buổi tối. Bạn sẵn sàng gọi món chưa?
+> Kid: Yes. I'd like a bowl of pho, please. | Vâng. Cho cháu một bát phở ạ.
+> Waiter: Beef or chicken? | Bò hay gà ạ?
+> Kid: Chicken, please. Not spicy. | Gà ạ. Không cay nhé.
+> Waiter: And what would you like to drink? | Cháu muốn uống gì?
+> Kid: An orange juice, please. | Một cốc nước cam ạ.
+> Waiter: Would you like a dessert? | Cháu có muốn ăn tráng miệng không?
+> Kid: No, thank you. That's enough. | Dạ không, cảm ơn. Thế là đủ rồi.
+D Tráng miệng | Bi,Kid | jelly,cupcake,pie
+> Bi: That was a delicious meal! | Bữa ăn ngon quá!
+> Kid: Yes! Can we have dessert? | Đúng! Mình ăn tráng miệng được không?
+> Bi: Sure. I'd like some jelly. And you? | Được chứ. Tớ muốn ăn thạch. Còn cậu?
+> Kid: A chocolate milkshake, please! | Cho tớ một ly sữa lắc sô-cô-la!
+> Bi: Then let's ask for the bill. | Sau đó mình xin hoá đơn nhé.
+R Dinner at the new restaurant
+> Last Saturday, Mai's family went to a new restaurant in town. The waitress gave them the menu. For a starter, they had spring rolls with fish sauce. For the main course, Dad ordered grilled fish and Mum ordered beef noodles. Mai is a vegetarian, so she had fried rice with tofu and mushrooms. Her brother wanted something spicy, but the chilli was too hot for him! For dessert, they all shared a big apple pie. The food was tasty, and the waitress was friendly. When Dad asked for the bill, everyone was full and happy.
+? What did Mai have? | Fried rice with tofu. | Grilled fish. | Beef noodles.
+? Why doesn't Mai eat meat? | She is a vegetarian. | She doesn't like noodles. | She was full.
+? What did they share for dessert? | An apple pie. | Ice cream. | Jelly.
+S I'd like | My favourite meal is | At a restaurant, I usually
+
+@U 3 | Asking the way | Hỏi đường | Hỏi đường lịch sự và chỉ đường cho người khác ; Hiểu từ chỉ vị trí và phương hướng
+G Hỏi đường lịch sự: "Excuse me, how do I get to the museum?" Chỉ đường: "Go straight on. Take the second turning on the left. It's opposite the bank."
+W excuse me | xin lỗi (cho hỏi) | ~🙋 | Excuse me, where is the bank? | Xin lỗi, ngân hàng ở đâu ạ?
+W get to | đến (nơi nào) | ~📍 | How do I get to the museum? | Đến bảo tàng đi thế nào ạ?
+W turning | chỗ rẽ | ~↩️ | Take the second turning on the left. | Rẽ vào ngã rẽ thứ hai bên trái.
+W crossroads | ngã tư | ~✖️ | Turn right at the crossroads. | Rẽ phải ở ngã tư.
+W roundabout | vòng xuyến | ~⭕ | Turn left at the roundabout. | Rẽ trái ở vòng xuyến.
+W along | dọc theo | ~➡️ | Walk along this street. | Đi dọc theo phố này.
+W across | băng qua, bên kia | ~↔️ | The park is across the road. | Công viên ở bên kia đường.
+W over | qua, phía trên | ~⤴️ | Walk over the bridge. | Đi qua cầu.
+W end | cuối | ~🔚 | The café is at the end of the street. | Quán cà phê ở cuối phố.
+W north | phía bắc | ~🧭 | Hanoi is in the north of Vietnam. | Hà Nội ở miền Bắc Việt Nam.
+W south | phía nam | ~🧭 | It's hot in the south. | Miền Nam trời nóng.
+W east | phía đông | ~🧭 | The sun comes up in the east. | Mặt trời mọc ở phía đông.
+W west | phía tây | ~🧭 | The sun goes down in the west. | Mặt trời lặn ở phía tây.
+W direction | hướng | ~🧭 | Which direction is the station? | Nhà ga ở hướng nào?
+W get lost | bị lạc | ~❓ | Hold my hand. Don't get lost! | Nắm tay mẹ. Đừng để bị lạc!
+W town hall | toà thị chính | ~🏛️ | The town hall is in the centre. | Toà thị chính ở trung tâm.
+W temple | ngôi đền | ~🛕 | There is an old temple on the hill. | Có một ngôi đền cổ trên đồi.
+W pagoda | ngôi chùa | ~🛕 | We visited a pagoda near the lake. | Nhà tớ đến thăm một ngôi chùa gần hồ.
+W hotel | khách sạn | 🏨 | Our hotel is near the beach. | Khách sạn của nhà tớ gần bãi biển.
+W petrol station | trạm xăng | ⛽ | Dad stops at the petrol station. | Bố dừng ở trạm xăng.
+W car park | bãi đỗ xe | 🅿️ | The car park is behind the supermarket. | Bãi đỗ xe ở sau siêu thị.
+W bus station | bến xe buýt | ~🚏 | The bus station is next to the market. | Bến xe buýt ở cạnh chợ.
+W tourist | khách du lịch | ~📸 | Many tourists visit Hanoi. | Nhiều khách du lịch đến Hà Nội.
+W guide | hướng dẫn viên | ~🙋 | Our guide told us about the castle. | Hướng dẫn viên kể cho bọn tớ về lâu đài.
+W minute | phút | ~⏱️ | Wait a minute, please. | Chờ một phút nhé.
+W away | cách xa | ~👋 | The zoo is ten minutes away. | Sở thú cách đây mười phút.
+W metre | mét | ~📏 | The shop is fifty metres from here. | Cửa hàng cách đây năm mươi mét.
+W kilometre | ki-lô-mét | ~📏 | My school is two kilometres from my house. | Trường tớ cách nhà hai cây số.
+W entrance | lối vào | ~🚪 | Meet me at the entrance. | Gặp tớ ở lối vào nhé.
+W exit | lối ra | ~🚪 | Where is the exit? | Lối ra ở đâu?
+W lift | thang máy | 🛗 | Let's take the lift to the top floor. | Mình đi thang máy lên tầng trên cùng nhé.
+W upstairs | trên lầu | ~⏫ | My bedroom is upstairs. | Phòng ngủ của tớ ở trên lầu.
+W downstairs | dưới nhà | ~⏬ | The kitchen is downstairs. | Bếp ở dưới nhà.
+W straight on | đi thẳng | ~⬆️ | Go straight on for two minutes. | Đi thẳng khoảng hai phút.
+W nearby | gần đây | ~📍 | Is there a bank nearby? | Gần đây có ngân hàng không?
+W fountain | đài phun nước | ⛲ | There is a fountain in the park. | Trong công viên có đài phun nước.
+W statue | bức tượng | ~🗿 | The statue is in the middle of the square. | Bức tượng ở giữa quảng trường.
+W pass | đi qua | ~🚶 | You pass a bakery on your left. | Cậu sẽ đi qua một tiệm bánh bên tay trái.
+W middle | ở giữa | ~⏺️ | The pool is in the middle of the hotel. | Bể bơi ở giữa khách sạn.
+W top | đỉnh, trên cùng | ~🔝 | There is a café at the top of the tower. | Có quán cà phê trên đỉnh tháp.
+P Excuse me, how do I get to the {x}? | Xin lỗi, đến {x} đi thế nào ạ? | museum,bus station,hotel,town hall
+P Turn {x} at the crossroads. | Rẽ {x} ở ngã tư. | left,right
+P The {x} is across the road. | {x} ở bên kia đường. | park,bakery,temple,café
+D Chỉ đường đến bảo tàng | Tourist,Kid | museum,library,cinema
+> Tourist: Excuse me. How do I get to the museum? | Xin lỗi cháu. Đến bảo tàng đi thế nào?
+> Kid: Go straight on along this street. | Cô đi thẳng dọc phố này.
+> Tourist: Okay. And then? | Được. Rồi sao nữa?
+> Kid: Turn left at the crossroads. It's next to the bank. | Rẽ trái ở ngã tư. Nó ở cạnh ngân hàng.
+> Tourist: Is it far? | Có xa không cháu?
+> Kid: No, it's only five minutes away. | Không ạ, chỉ năm phút thôi.
+> Tourist: Thank you very much! | Cảm ơn cháu nhiều!
+> Kid: You're welcome! | Không có gì ạ!
+D Bị lạc trong trung tâm mua sắm | Bi,Kid | cinema,café,bookshop
+> Kid: Bi, where are we? I think we're lost. | Bi ơi, mình đang ở đâu? Tớ nghĩ mình bị lạc rồi.
+> Bi: Don't worry. Let's look at the map. | Đừng lo. Mình xem bản đồ nào.
+> Kid: We want the cinema. Is it upstairs? | Mình muốn đến rạp chiếu phim. Nó ở trên lầu à?
+> Bi: Yes, on the top floor. Let's take the lift. | Đúng, ở tầng trên cùng. Mình đi thang máy nhé.
+R Finding the way
+> Tom and his mum were tourists in a new city. They wanted to visit an old temple, but they didn't know the way. Tom's mum asked a woman for directions. The woman told them to go straight on along the street. Then they had to turn right at the roundabout and walk over the bridge. The temple was at the end of the road, opposite a big fountain. Tom and his mum followed the directions. They passed a bakery and a petrol station. After fifteen minutes, they saw the fountain. The temple was beautiful, and they took a lot of photos.
+? Who did Tom's mum ask for directions? | A woman. | A police officer. | A guide.
+? What is opposite the temple? | A big fountain. | A bakery. | A petrol station.
+? How long did they walk? | Fifteen minutes. | Five minutes. | An hour.
+S Go straight on | Turn left at | It's next to
+
+@U 4 | Travel and transport | Đi lại và phương tiện | Mua vé, hỏi giờ tàu xe chạy ; Kể về một chuyến đi xa
+G Hỏi giờ: "What time does the train leave?" – "It leaves at half past nine." Giờ rưỡi nói "half past", mười lăm phút nói "a quarter past".
+W journey | chuyến đi | ~🛤️ | The journey to Grandma's house is long. | Đường đến nhà bà xa lắm.
+W hour | giờ đồng hồ | ~🕐 | The film is two hours long. | Bộ phim dài hai tiếng.
+W half | một nửa | ~🌗 | Cut the apple in half. | Cắt đôi quả táo ra.
+W quarter | một phần tư, mười lăm phút | ~🕒 | It's a quarter past ten. | Bây giờ là mười giờ mười lăm.
+W timetable | lịch trình | ~🗓️ | Let's look at the train timetable. | Mình xem lịch tàu nhé.
+W platform | sân ga | 🚉 | The train leaves from platform two. | Tàu chạy từ sân ga số hai.
+W arrive | đến nơi | ~🛬 | We arrived at the hotel at six o'clock. | Nhà tớ đến khách sạn lúc sáu giờ.
+W leave | rời đi, khởi hành | ~🛫 | The bus leaves at half past eight. | Xe buýt chạy lúc tám giờ rưỡi.
+W delay | sự chậm trễ | ~⏳ | There is a delay because of the storm. | Có sự chậm trễ vì bão.
+W on time | đúng giờ | ~⏰ | The train is on time today. | Hôm nay tàu đến đúng giờ.
+W return ticket | vé khứ hồi | ~🎟️ | A return ticket to Hue, please. | Cho tôi một vé khứ hồi đi Huế.
+W single ticket | vé một chiều | ~🎟️ | A single ticket is cheaper. | Vé một chiều rẻ hơn.
+W passenger | hành khách | ~🧍 | The bus is full of passengers. | Xe buýt chật kín hành khách.
+W luggage | hành lý | ~🧳 | Don't leave your luggage alone. | Đừng để hành lý một mình.
+W suitcase | va li | ~🧳 | My suitcase is very heavy. | Va li của tớ rất nặng.
+W backpack | ba lô | ~🎒 | I carry my backpack on the plane. | Tớ mang ba lô lên máy bay.
+W seat | chỗ ngồi | 💺 | Is this seat free? | Chỗ này còn trống không?
+W traffic jam | tắc đường | ~🚗 | We were late because of a traffic jam. | Bọn tớ đến muộn vì tắc đường.
+W underground | tàu điện ngầm | 🚇 | We took the underground in London. | Nhà tớ đi tàu điện ngầm ở Luân Đôn.
+W tram | xe điện | 🚋 | The tram goes along the river. | Xe điện chạy dọc bờ sông.
+W ferry | phà | ⛴️ | We took a ferry to the island. | Nhà tớ đi phà ra đảo.
+W cable car | cáp treo | 🚡 | The cable car goes up the mountain. | Cáp treo đi lên núi.
+W scooter | xe trượt scooter | 🛴 | I ride my scooter to the park. | Tớ đi xe trượt đến công viên.
+W check in | làm thủ tục | ~🛄 | We check in at the airport. | Nhà tớ làm thủ tục ở sân bay.
+W flight | chuyến bay | ~✈️ | Our flight is at nine o'clock. | Chuyến bay của nhà tớ lúc chín giờ.
+W miss | lỡ (chuyến) | ~😩 | Hurry up! Don't miss the bus! | Nhanh lên! Đừng để lỡ xe buýt!
+W get on | lên (xe) | ~⬆️ | Get on the bus, please. | Mời lên xe buýt.
+W get off | xuống (xe) | ~⬇️ | We get off at the next stop. | Mình xuống ở bến sau.
+W ticket office | phòng bán vé | ~🎫 | Buy your ticket at the ticket office. | Mua vé ở phòng bán vé nhé.
+W crowded | đông đúc | ~👥 | The train is very crowded today. | Hôm nay tàu rất đông.
+W speed | tốc độ | ~🏎️ | The train goes at a high speed. | Tàu chạy với tốc độ cao.
+W overnight | qua đêm | ~🌙 | We took an overnight train. | Nhà tớ đi tàu đêm.
+W abroad | ở nước ngoài | ~🌏 | My uncle works abroad. | Chú tớ làm việc ở nước ngoài.
+W carriage | toa tàu | 🚃 | Our seats are in carriage four. | Chỗ của nhà tớ ở toa số bốn.
+W fasten | thắt, buộc | ~🔗 | Please fasten your seat belt. | Xin thắt dây an toàn.
+W announcement | thông báo | ~📢 | Listen to the announcement. | Hãy nghe thông báo.
+W gate | cổng | ~🚧 | Our plane leaves from gate five. | Máy bay của nhà tớ cất cánh ở cổng số năm.
+W boarding pass | thẻ lên máy bay | ~🎫 | Show your boarding pass, please. | Xin cho xem thẻ lên máy bay.
+W how long | bao lâu | ~⏳ | How long is the journey? | Chuyến đi mất bao lâu?
+P What time does the {x} leave? | {x} khởi hành lúc mấy giờ? | train,bus,ferry,plane
+P It leaves at {x}. | Nó khởi hành lúc {x}. | half past nine,a quarter past ten,seven o'clock
+P A {x} to Hanoi, please. | Cho tôi {x} đi Hà Nội. | return ticket,single ticket
+D Mua vé tàu | Assistant,Kid
+> Kid: Excuse me. When does the next train to Hanoi leave? | Xin lỗi cô. Chuyến tàu tiếp theo đi Hà Nội chạy lúc mấy giờ ạ?
+> Assistant: At a quarter past ten. | Lúc mười giờ mười lăm.
+> Kid: Can I have two return tickets, please? | Cho cháu hai vé khứ hồi ạ.
+> Assistant: Here you are. The train leaves from platform three. | Của cháu đây. Tàu chạy từ sân ga số ba.
+> Kid: How long is the journey? | Chuyến đi mất bao lâu ạ?
+> Assistant: About two hours. | Khoảng hai tiếng.
+> Kid: Thank you! | Cháu cảm ơn!
+D Ở sân bay | Bi,Kid
+> Bi: Do you have your boarding pass? | Cậu có thẻ lên máy bay chưa?
+> Kid: Yes, here it is. Which gate is it? | Có, đây này. Cổng số mấy nhỉ?
+> Bi: Gate twelve. Listen! There's an announcement. | Cổng mười hai. Nghe kìa! Có thông báo.
+> Kid: Oh no! Our flight has a delay. | Ôi không! Chuyến bay của mình bị hoãn.
+> Bi: Never mind. Let's have a snack. | Không sao. Mình ăn nhẹ nhé.
+R A long journey
+> Last summer, Nam's family travelled to the north of Vietnam. They got up very early and took a taxi to the station. The train left at a quarter past six, and it was on time. The journey took eight hours. Nam sat by the window and looked at the rice fields and mountains. He ate snacks and played cards with his sister. When they arrived, they took a bus to their hotel. The next day, they went up a mountain in a cable car. The view from the top was amazing! Nam was tired, but he loved the trip.
+? How did the family travel to the north? | By train. | By plane. | By car.
+? How long was the journey? | Eight hours. | Two hours. | Six hours.
+? How did they go up the mountain? | In a cable car. | On foot. | By bus.
+S Last summer, I travelled to | We went by | The journey took
+
+@U 5 | Holidays and hotels | Kỳ nghỉ và khách sạn | Hỏi thông tin ở khách sạn ; Kể về kỳ nghỉ đã qua và viết bưu thiếp
+G Kể kỳ nghỉ dùng thì quá khứ: "We stayed in a hotel. We went sightseeing." Hỏi: "Did you have a good time?" – "Yes, I did!" / "No, I didn't."
+W reception | quầy lễ tân | 🛎️ | Ask at reception for a map. | Hỏi quầy lễ tân để xin bản đồ nhé.
+W receptionist | nhân viên lễ tân | ~💁 | The receptionist gave us our keys. | Nhân viên lễ tân đưa chìa khoá cho nhà tớ.
+W book a room | đặt phòng | ~📞 | Mum booked a room by the sea. | Mẹ đặt một phòng cạnh biển.
+W double room | phòng đôi | ~🛏️ | We stayed in a double room. | Nhà tớ ở phòng đôi.
+W key card | thẻ phòng | ~🔑 | Don't lose your key card. | Đừng làm mất thẻ phòng nhé.
+W sightseeing | đi tham quan | ~📸 | We went sightseeing in the old town. | Nhà tớ đi tham quan phố cổ.
+W souvenir | quà lưu niệm | ~🎁 | I bought a souvenir for my friend. | Tớ mua quà lưu niệm cho bạn.
+W postcard | bưu thiếp | ~📮 | I sent a postcard to Grandma. | Tớ gửi bưu thiếp cho bà.
+W sunscreen | kem chống nắng | ~🧴 | Put on sunscreen at the beach. | Bôi kem chống nắng khi ra biển nhé.
+W sunbathe | tắm nắng | ~😎 | Mum likes to sunbathe by the pool. | Mẹ thích tắm nắng cạnh bể bơi.
+W sandcastle | lâu đài cát | ~🏰 | We made a big sandcastle. | Bọn tớ đắp một lâu đài cát to.
+W resort | khu nghỉ dưỡng | ~🏝️ | The resort has three pools. | Khu nghỉ dưỡng có ba bể bơi.
+W campsite | khu cắm trại | ~🏕️ | The campsite is near a lake. | Khu cắm trại gần hồ.
+W balcony | ban công | ~🏢 | We had breakfast on the balcony. | Nhà tớ ăn sáng ngoài ban công.
+W buffet | tiệc tự chọn | ~🍱 | The hotel has a big breakfast buffet. | Khách sạn có tiệc buffet sáng lớn.
+W tour | chuyến tham quan | ~🚌 | We went on a boat tour. | Nhà tớ đi tham quan bằng thuyền.
+W gallery | phòng tranh | ~🖼️ | There are beautiful paintings in the gallery. | Phòng tranh có nhiều bức tranh đẹp.
+W old town | phố cổ | ~🏘️ | The old town has narrow streets. | Phố cổ có những con phố hẹp.
+W local | địa phương | ~📍 | We tried the local food. | Nhà tớ ăn thử món ăn địa phương.
+W relaxing | thư thái | ~🛀 | The beach holiday was very relaxing. | Kỳ nghỉ ở biển rất thư thái.
+W peaceful | yên bình | ~🕊️ | The village is quiet and peaceful. | Ngôi làng yên tĩnh và thanh bình.
+W snorkelling | lặn ngắm san hô | 🤿 | We saw colourful fish when we went snorkelling. | Bọn tớ thấy cá nhiều màu khi đi lặn.
+W diving | lặn biển | ~🤿 | My uncle loves diving. | Chú tớ rất mê lặn biển.
+W kayak | thuyền kayak | 🛶 | We went in a kayak on the river. | Nhà tớ chèo thuyền kayak trên sông.
+W sunburn | cháy nắng | ~🥵 | Wear a hat, or you will get sunburn. | Đội mũ vào, không sẽ bị cháy nắng đấy.
+W flip-flops | dép tông | 🩴 | I wear flip-flops on the beach. | Tớ đi dép tông trên bãi biển.
+W sunhat | mũ chống nắng | ~👒 | Don't forget your sunhat. | Đừng quên mũ chống nắng.
+W enjoy | thích thú, tận hưởng | ~😊 | I enjoyed the boat trip. | Tớ rất thích chuyến đi thuyền.
+W relax | thư giãn | ~😌 | Let's relax on the beach. | Mình thư giãn trên bãi biển nhé.
+W memory | kỷ niệm | ~💭 | That holiday is my best memory. | Kỳ nghỉ đó là kỷ niệm đẹp nhất của tớ.
+W album | cuốn album | ~📔 | Let's put the photos in an album. | Mình cho ảnh vào album nhé.
+W amazing | tuyệt vời | ~🤩 | The view from the balcony was amazing. | Cảnh nhìn từ ban công thật tuyệt.
+W awful | kinh khủng | ~😖 | The weather was awful. It rained every day. | Thời tiết kinh khủng. Ngày nào cũng mưa.
+W excellent | xuất sắc | ~🌟 | The food at the hotel was excellent. | Đồ ăn ở khách sạn rất tuyệt.
+W lovely | dễ thương, đáng yêu | ~🥰 | What a lovely room! | Căn phòng dễ thương quá!
+W check out | trả phòng | ~🛎️ | We check out at twelve o'clock. | Nhà tớ trả phòng lúc mười hai giờ.
+W brilliant | tuyệt vời | ~✨ | We had a brilliant time! | Bọn tớ đã có khoảng thời gian tuyệt vời!
+W visitor | du khách | ~🙋 | The museum has many visitors. | Bảo tàng có nhiều du khách.
+W cliff | vách đá | ~🏔️ | Don't go near the cliff. | Đừng lại gần vách đá.
+W lighthouse | ngọn hải đăng | ~🌊 | The lighthouse is on the island. | Ngọn hải đăng ở trên đảo.
+W harbour | bến cảng | ⚓ | There are many boats in the harbour. | Bến cảng có nhiều thuyền.
+W palm tree | cây cọ | ~🌴 | There are palm trees on the beach. | Trên bãi biển có những cây cọ.
+P We stayed in a {x}. | Nhà tớ ở {x}. | hotel,resort,campsite,double room
+P We went {x}. | Nhà tớ đã đi {x}. | sightseeing,snorkelling,diving,swimming
+P The holiday was {x}! | Kỳ nghỉ thật {x}! | amazing,brilliant,relaxing,awful
+D Ở quầy lễ tân | Receptionist,Kid
+> Receptionist: Good afternoon! Welcome to Sunny Hotel. | Chào buổi chiều! Chào mừng đến khách sạn Sunny.
+> Kid: Hello. My mum booked a double room. | Cháu chào cô. Mẹ cháu đã đặt một phòng đôi.
+> Receptionist: Here is your key card. Your room is on the fifth floor. | Thẻ phòng đây. Phòng ở tầng năm.
+> Kid: Does the room have a balcony? | Phòng có ban công không ạ?
+> Receptionist: Yes, with a lovely view of the sea. | Có, nhìn ra biển rất đẹp.
+> Kid: What time is breakfast? | Bữa sáng lúc mấy giờ ạ?
+> Receptionist: From seven to ten, in the restaurant. | Từ bảy đến mười giờ, ở nhà hàng.
+> Kid: Thank you very much! | Cháu cảm ơn cô!
+D Kỳ nghỉ của cậu | Bi,Kid | beach,island,lake
+> Bi: Did you have a good holiday? | Kỳ nghỉ của cậu vui không?
+> Kid: Yes! We went to the beach. It was brilliant. | Vui lắm! Nhà tớ đi biển. Tuyệt lắm.
+> Bi: What did you do there? | Cậu đã làm gì ở đó?
+> Kid: I went snorkelling and made sandcastles. | Tớ đi lặn và đắp lâu đài cát.
+> Bi: Did you get sunburn? | Cậu có bị cháy nắng không?
+> Kid: No, I wore sunscreen and a sunhat! | Không, tớ bôi kem chống nắng và đội mũ!
+R Holiday postcard
+> Dear Grandma, We are having a lovely holiday at the beach. Our hotel is next to the sea, and our room has a balcony. Every morning, we eat breakfast at the buffet. Yesterday, we went on a boat tour to an island with a lighthouse. I went snorkelling and saw colourful fish. Today, Dad got sunburn because he forgot his sunscreen! I bought a souvenir for you. See you next week. Love, Mai.
+? Where is Mai's hotel? | Next to the sea. | In the mountains. | In the city.
+? What did Mai see when she went snorkelling? | Colourful fish. | A lighthouse. | A shark.
+? Why did Dad get sunburn? | He forgot his sunscreen. | He went diving. | He slept on the balcony.
+S Dear | We are staying in | Yesterday we
+
+@U 6 | Messages and invitations | Tin nhắn và lời mời | Viết lời mời và trả lời lời mời ; Viết tin nhắn, thư ngắn khoảng 40–60 từ
+G Mời ai: "Would you like to come to my party?" Nhận lời: "I'd love to!" Từ chối lịch sự: "I'm sorry, I can't. I have to..." Thư mở đầu bằng "Dear...", kết thúc bằng "Love from..." hoặc "Best wishes".
+W invitation | thiệp mời, lời mời | ~💌 | Thank you for the invitation! | Cảm ơn cậu đã mời tớ!
+W reply | trả lời | ~↩️ | Please reply to my message. | Hãy trả lời tin nhắn của tớ nhé.
+W accept | nhận lời | ~✅ | I accept your invitation. | Tớ nhận lời mời của cậu.
+W I'd love to | tớ rất muốn | ~😍 | I'd love to come to your party! | Tớ rất muốn đến bữa tiệc của cậu!
+W unfortunately | thật tiếc là | ~😕 | Unfortunately, I can't come. | Thật tiếc là tớ không đến được.
+W dear | thân mến | ~💌 | Dear Tom, thank you for your letter. | Tom thân mến, cảm ơn thư của cậu.
+W best wishes | thân ái | ~🌟 | Best wishes, Anna. | Thân ái, Anna.
+W love from | thương yêu | ~❤️ | Love from Grandma. | Thương con, Bà.
+W text message | tin nhắn điện thoại | ~📱 | Mum sent me a text message. | Mẹ gửi cho tớ một tin nhắn.
+W note | mẩu ghi chú | ~🗒️ | I left a note on the fridge. | Tớ để lại mẩu ghi chú trên tủ lạnh.
+W envelope | phong bì | ✉️ | Put the letter in the envelope. | Cho lá thư vào phong bì.
+W stamp | tem thư | ~📮 | You need a stamp for the postcard. | Cậu cần dán tem cho bưu thiếp.
+W letter | lá thư | ~✉️ | I wrote a letter to my pen friend. | Tớ viết thư cho bạn qua thư.
+W write back | viết thư trả lời | ~✍️ | Please write back soon! | Hãy sớm viết thư trả lời nhé!
+W hear from | nhận tin từ | ~👂 | I hope to hear from you soon. | Mong sớm nhận tin của cậu.
+W place | nơi, chỗ | ~📍 | This is a nice place for a picnic. | Đây là chỗ rất đẹp để đi dã ngoại.
+W fancy dress | trang phục hoá trang | ~🦸 | It's a fancy dress party! | Đó là tiệc hoá trang!
+W sleepover | ngủ lại nhà bạn | ~🛌 | Can you come to my sleepover on Friday? | Thứ Sáu cậu đến ngủ lại nhà tớ được không?
+W barbecue | tiệc nướng ngoài trời | 🍖 | We are having a barbecue in the garden. | Nhà tớ tổ chức tiệc nướng ngoài vườn.
+W celebration | buổi ăn mừng | ~🎊 | Let's have a celebration! | Mình tổ chức ăn mừng nhé!
+W surprise | sự bất ngờ | ~🎁 | It's a surprise. Don't tell Mum! | Đây là bất ngờ. Đừng nói với mẹ nhé!
+W wedding | đám cưới | 💒 | My aunt's wedding is in May. | Đám cưới của dì tớ vào tháng Năm.
+W anniversary | ngày kỷ niệm | ~💐 | It's my parents' wedding anniversary. | Hôm nay là kỷ niệm ngày cưới của bố mẹ tớ.
+W host | chủ nhà, chủ tiệc | ~🙋 | Lan is the host of the party. | Lan là chủ bữa tiệc.
+W cancel | huỷ | ~❌ | We cancelled the picnic because of the rain. | Nhà tớ huỷ chuyến dã ngoại vì trời mưa.
+W free | rảnh, miễn phí | ~🆓 | Are you free on Saturday? | Thứ Bảy cậu rảnh không?
+W receive | nhận được | ~📥 | I received a card from my cousin. | Tớ nhận được thiệp của anh họ.
+W see you | hẹn gặp lại | ~👋 | See you on Saturday! | Hẹn gặp cậu thứ Bảy nhé!
+W if | nếu | ~❔ | Call me if you are free. | Gọi cho tớ nếu cậu rảnh nhé.
+W let me know | cho tớ biết | ~💬 | Let me know if you can come. | Cho tớ biết nếu cậu đến được nhé.
+W lots of love | thương nhiều | ~💕 | Lots of love, Lan. | Thương cậu nhiều, Lan.
+W looking forward to | mong chờ | ~🤩 | I'm looking forward to your party! | Tớ rất mong đến bữa tiệc của cậu!
+W remember | nhớ | ~🧠 | Remember to bring your swimsuit. | Nhớ mang đồ bơi nhé.
+W forget | quên | ~❓ | Don't forget my birthday! | Đừng quên sinh nhật tớ nhé!
+W information | thông tin | ~ℹ️ | Here is the information about the trip. | Đây là thông tin về chuyến đi.
+W phone number | số điện thoại | ~☎️ | What's your phone number? | Số điện thoại của cậu là gì?
+W bowling | chơi bowling | ~🎳 | Let's go bowling for my birthday. | Sinh nhật tớ mình đi chơi bowling nhé.
+W karaoke | hát karaoke | ~🎤 | We sang karaoke at the party. | Bọn tớ hát karaoke ở bữa tiệc.
+W magician | ảo thuật gia | 🎩 | There will be a magician at the party! | Sẽ có ảo thuật gia ở bữa tiệc!
+W wrap | gói (quà) | ~🎁 | Let's wrap the present. | Mình gói quà nhé.
+W ribbon | ruy băng | ~🎀 | Put a red ribbon on the box. | Buộc ruy băng đỏ lên hộp.
+W blow out | thổi tắt | ~🕯️ | Make a wish and blow out the candles! | Ước đi rồi thổi nến nào!
+P Would you like to come to my {x}? | Cậu có muốn đến {x} của tớ không? | party,sleepover,barbecue,birthday party
+P I'm sorry, I can't. I have to {x}. | Tớ xin lỗi, tớ không đi được. Tớ phải {x}. | visit my grandma,do my homework,go to the dentist
+P Remember to bring {x}. | Nhớ mang {x} nhé. | your swimsuit,a present,your costume,a torch
+D Lời mời ngủ lại | Bi,Kid | sleepover,party,barbecue
+> Bi: Would you like to come to my sleepover on Saturday? | Thứ Bảy cậu có muốn đến ngủ lại nhà tớ không?
+> Kid: I'd love to! What time? | Tớ rất muốn! Mấy giờ thế?
+> Bi: At six o'clock. Remember to bring your pyjamas. | Lúc sáu giờ. Nhớ mang đồ ngủ nhé.
+> Kid: Okay! Can I bring a game too? | Được! Tớ mang theo trò chơi được không?
+> Bi: Sure! See you on Saturday! | Được chứ! Hẹn gặp cậu thứ Bảy!
+D Từ chối lịch sự | Bi,Kid
+> Bi: Are you free on Sunday? Let's go bowling! | Chủ nhật cậu rảnh không? Mình đi chơi bowling đi!
+> Kid: I'm sorry, I can't. I have to visit my grandma. | Tớ xin lỗi, tớ không đi được. Tớ phải đi thăm bà.
+> Bi: That's okay. Maybe next week? | Không sao. Có lẽ tuần sau nhé?
+> Kid: Yes! Let me know. Thanks for inviting me. | Được! Cho tớ biết nhé. Cảm ơn cậu đã mời tớ.
+R A party invitation
+> Dear Nick, I'm having a fancy dress party for my birthday! It's on Saturday, the twelfth of May, from three to six o'clock. The party is at my house, 25 Lake Street. There will be a magician, games and a big chocolate cake. Please wear a costume. I'm going to be a dragon! Let me know if you can come. My phone number is on the back of the card. I hope you can come! Best wishes, Kim.
+? What kind of party is it? | A fancy dress party. | A sleepover. | A barbecue.
+? Where is the party? | At Kim's house. | At a restaurant. | In the park.
+? What will Kim be at the party? | A dragon. | A magician. | A princess.
+S Dear | Would you like to come to | Best wishes
+
+@U 7 | School life | Cuộc sống ở trường | Nói về các môn học và thời khoá biểu ; Kể về một ngày ở trường
+G Nói số lần: "We have maths every day." / "We have music twice a week." (twice = hai lần, once = một lần). Hỏi: "How often do you have science?"
+W subject | môn học | ~📚 | What's your favourite subject? | Môn học yêu thích của cậu là gì?
+W maths | môn toán | ~➕ | We have maths every day. | Ngày nào bọn tớ cũng học toán.
+W science | môn khoa học | 🧪 | In science, we learn about plants. | Trong giờ khoa học, bọn tớ học về cây cối.
+W history | môn lịch sử | ~📜 | History is about the past. | Lịch sử là môn học về quá khứ.
+W geography | môn địa lý | ~🗺️ | We learn about mountains in geography. | Bọn tớ học về núi trong giờ địa lý.
+W art | môn mỹ thuật | ~🎨 | I painted a tiger in art. | Tớ vẽ một con hổ trong giờ mỹ thuật.
+W PE | môn thể dục | ~🤸 | We play football in PE. | Bọn tớ đá bóng trong giờ thể dục.
+W drama | môn kịch | ~🎭 | In drama, I was a giant. | Trong giờ kịch, tớ đóng vai người khổng lồ.
+W break time | giờ ra chơi | ~🔔 | We play in the playground at break time. | Giờ ra chơi bọn tớ chơi ở sân.
+W classmate | bạn cùng lớp | ~🧑‍🤝‍🧑 | My classmates are friendly. | Các bạn cùng lớp của tớ rất thân thiện.
+W headteacher | hiệu trưởng | ~🧑‍🏫 | The headteacher gave me a prize. | Thầy hiệu trưởng trao giải cho tớ.
+W exam | kỳ thi | ~📝 | We have an exam next week. | Tuần sau bọn tớ có kỳ thi.
+W project | dự án | ~📊 | Our project is about the solar system. | Dự án của bọn tớ là về hệ Mặt Trời.
+W mark | điểm số | ~✔️ | I got a good mark in maths. | Tớ được điểm tốt môn toán.
+W report | báo cáo, sổ liên lạc | ~📄 | My school report was excellent. | Sổ liên lạc của tớ rất tốt.
+W term | học kỳ | ~🗓️ | The new term starts in September. | Học kỳ mới bắt đầu vào tháng Chín.
+W canteen | căng tin | ~🍱 | We eat lunch in the canteen. | Bọn tớ ăn trưa ở căng tin.
+W hall | hội trường | ~🏛️ | The concert is in the school hall. | Buổi hoà nhạc ở hội trường của trường.
+W gym | phòng tập thể dục | ~🏋️ | We have PE in the gym when it rains. | Trời mưa thì bọn tớ học thể dục trong phòng tập.
+W notebook | quyển vở | 📓 | Write the new words in your notebook. | Viết từ mới vào vở nhé.
+W dictionary | từ điển | ~📕 | Look for the word in the dictionary. | Tra từ đó trong từ điển nhé.
+W textbook | sách giáo khoa | ~📗 | Open your textbook at page ten. | Mở sách giáo khoa trang mười.
+W calculator | máy tính cầm tay | ~🧮 | Don't use a calculator in the test. | Không dùng máy tính trong bài kiểm tra.
+W glue | keo dán | ~🧴 | I need glue for my project. | Tớ cần keo dán cho dự án.
+W scissors | cái kéo | ~✂️ | Be careful with the scissors. | Cẩn thận với cái kéo.
+W locker | tủ đồ cá nhân | ~🔐 | My books are in my locker. | Sách của tớ ở trong tủ đồ.
+W absent | vắng mặt | ~🚫 | Nam is absent today. He is ill. | Hôm nay Nam vắng. Bạn ấy bị ốm.
+W twice | hai lần | ~✌️ | We have music twice a week. | Một tuần bọn tớ học nhạc hai lần.
+W once | một lần | ~☝️ | We go swimming once a week. | Một tuần bọn tớ đi bơi một lần.
+W revise | ôn bài | ~📖 | I revise for my test every evening. | Tối nào tớ cũng ôn bài kiểm tra.
+W spelling | chính tả | ~🔤 | We have a spelling test on Friday. | Thứ Sáu bọn tớ kiểm tra chính tả.
+W answer | câu trả lời | ~💬 | Do you know the answer? | Cậu có biết câu trả lời không?
+W question | câu hỏi | ~❓ | Can I ask a question? | Em hỏi một câu được không ạ?
+W correct | đúng | ~✔️ | Your answer is correct! | Câu trả lời của em đúng rồi!
+W mistake | lỗi sai | ~❌ | Don't worry about mistakes. | Đừng lo về lỗi sai.
+W explain | giải thích | ~🗣️ | Can you explain it again, please? | Cô giải thích lại được không ạ?
+W repeat | nhắc lại | ~🔁 | Listen and repeat. | Nghe và nhắc lại.
+W raise | giơ lên | ~✋ | Raise your hand to answer. | Giơ tay để trả lời nhé.
+W pupil | học sinh | ~🧒 | There are thirty pupils in our class. | Lớp tớ có ba mươi học sinh.
+W student | sinh viên, học sinh | ~🧑‍🎓 | My cousin is a university student. | Anh họ tớ là sinh viên đại học.
+W computing | môn tin học | ~💻 | In computing, we learn to make games. | Trong giờ tin học, bọn tớ học làm trò chơi.
+W group | nhóm | ~👥 | Work in groups of four. | Làm việc theo nhóm bốn người.
+W class | lớp học | ~🏫 | Our class has thirty pupils. | Lớp tớ có ba mươi học sinh.
+P My favourite subject is {x}. | Môn học yêu thích của tớ là {x}. | maths,science,art,PE
+P We have {x} twice a week. | Bọn tớ học {x} hai lần một tuần. | music,drama,computing,geography
+P Can I {x}, please? | Em {x} được không ạ? | ask a question,use your glue,open the window
+D Môn học yêu thích | Bi,Kid | science,history,art
+> Bi: What's your favourite subject? | Cậu thích môn gì nhất?
+> Kid: I love science. We do experiments! | Tớ thích khoa học. Bọn tớ làm thí nghiệm!
+> Bi: Cool! How often do you have science? | Hay đấy! Cậu học khoa học mấy lần?
+> Kid: Twice a week, on Monday and Thursday. | Hai lần một tuần, thứ Hai và thứ Năm.
+> Bi: I like art best. I love painting. | Tớ thích mỹ thuật nhất. Tớ mê vẽ tranh.
+D Trong lớp | Teacher,Kid
+> Teacher: Open your textbooks, please. | Các em mở sách giáo khoa ra.
+> Kid: Excuse me. Can you repeat the question, please? | Thưa cô, cô nhắc lại câu hỏi được không ạ?
+> Teacher: Of course. What is the capital of Vietnam? | Tất nhiên rồi. Thủ đô của Việt Nam là gì?
+> Kid: It's Hanoi! | Là Hà Nội ạ!
+> Teacher: Correct! Well done. | Đúng rồi! Giỏi lắm.
+R My school day
+> My name is Linh, and I'm in Year 3. My school day starts at half past seven. We have maths every morning. I like maths, but sometimes I make mistakes. At break time, I play in the playground with my classmates. On Tuesdays, we have science in the laboratory. My favourite subject is art because I love painting. We eat lunch in the canteen at twelve o'clock. In the afternoon, we work in groups on our projects. This term, our project is about animals in danger. School finishes at four o'clock.
+? When does Linh's school day start? | At half past seven. | At eight o'clock. | At seven o'clock.
+? Where does Linh have science? | In the laboratory. | In the gym. | In the canteen.
+? What is Linh's project about? | Animals in danger. | The solar system. | Plants.
+S My favourite subject is | At break time, I | This term, we
+
+@U 8 | Home and chores | Việc nhà | Gọi tên đồ đạc trong nhà ; Nói việc nhà mình làm và mức độ thường xuyên
+G Nói mức độ thường xuyên: always (luôn luôn), usually (thường), often (hay), sometimes (thỉnh thoảng), never (không bao giờ). Các từ này đứng trước động từ: "I always make my bed."
+W chores | việc nhà | ~🧹 | I help with the chores every day. | Ngày nào tớ cũng giúp làm việc nhà.
+W often | hay, thường | ~🔁 | I often help my mum in the kitchen. | Tớ hay giúp mẹ trong bếp.
+W tidy | gọn gàng, dọn gọn | ~✨ | Please tidy your room. | Con dọn phòng cho gọn đi.
+W make the bed | dọn giường | ~🛏️ | I make the bed every morning. | Sáng nào tớ cũng dọn giường.
+W vacuum | hút bụi | ~🌀 | Dad vacuums the carpet on Saturdays. | Thứ Bảy bố hút bụi thảm.
+W sweep | quét | ~🧹 | Can you sweep the floor? | Con quét nhà được không?
+W mop | lau nhà | ~🧽 | Mum mops the kitchen floor. | Mẹ lau sàn bếp.
+W iron | là (ủi) quần áo | ~👔 | Grandma irons Grandpa's shirts. | Bà là áo cho ông.
+W laundry | quần áo cần giặt | ~🧺 | Put the laundry in the basket. | Cho quần áo bẩn vào giỏ.
+W dishes | bát đĩa | ~🍽️ | I help to wash the dishes. | Tớ giúp rửa bát đĩa.
+W wash up | rửa bát | ~🧼 | It's my turn to wash up. | Đến lượt tớ rửa bát.
+W lay the table | dọn bàn ăn | ~🍴 | Can you lay the table for dinner? | Con dọn bàn ăn tối được không?
+W take out | mang ra ngoài | ~🚮 | I take out the rubbish on Mondays. | Thứ Hai tớ đổ rác.
+W cupboard | tủ bếp | ~🚪 | The cups are in the cupboard. | Cốc ở trong tủ.
+W shelf | cái giá, kệ | ~📚 | Put the books on the shelf. | Đặt sách lên giá.
+W drawer | ngăn kéo | 🗄️ | My socks are in the top drawer. | Tất của tớ ở ngăn kéo trên cùng.
+W wardrobe | tủ quần áo | ~👚 | Hang your coat in the wardrobe. | Treo áo khoác vào tủ quần áo.
+W curtain | rèm cửa | ~🪟 | Open the curtains, please. | Mở rèm cửa ra nhé.
+W carpet | tấm thảm | ~🟥 | The cat is sleeping on the carpet. | Con mèo đang ngủ trên thảm.
+W cushion | gối tựa | ~🛋️ | The sofa has five cushions. | Ghế sofa có năm cái gối tựa.
+W pillow | gối | ~🛏️ | My pillow is soft. | Gối của tớ mềm.
+W blanket | chăn | ~🛌 | It's cold. I need a blanket. | Trời lạnh. Tớ cần chăn.
+W sink | bồn rửa | ~🚰 | Put the dirty cups in the sink. | Cho cốc bẩn vào bồn rửa.
+W dining room | phòng ăn | ~🍽️ | We eat dinner in the dining room. | Nhà tớ ăn tối ở phòng ăn.
+W garage | nhà để xe | ~🚗 | Dad's car is in the garage. | Ô tô của bố ở trong ga-ra.
+W roof | mái nhà | ~🏠 | There is a bird on the roof. | Có con chim trên mái nhà.
+W furniture | đồ đạc | ~🪑 | We have new furniture in the living room. | Phòng khách nhà tớ có đồ đạc mới.
+W armchair | ghế bành | ~💺 | Grandpa sits in his armchair. | Ông ngồi trên ghế bành.
+W bookcase | tủ sách | ~📚 | My bookcase is full of stories. | Tủ sách của tớ đầy truyện.
+W messy | bừa bộn | ~🌪️ | My brother's room is very messy. | Phòng anh tớ rất bừa bộn.
+W neat | ngăn nắp | ~✨ | Her desk is always neat. | Bàn của bạn ấy lúc nào cũng ngăn nắp.
+W untidy | lộn xộn | ~🌪️ | Don't leave your room untidy. | Đừng để phòng lộn xộn.
+W flat | căn hộ | ~🏢 | We live in a flat on the tenth floor. | Nhà tớ sống ở căn hộ tầng mười.
+W neighbour | hàng xóm | ~🏘️ | Our neighbour has a big dog. | Hàng xóm nhà tớ có con chó to.
+W bucket | cái xô | 🪣 | Fill the bucket with water. | Đổ đầy nước vào xô.
+W broom | cái chổi | ~🧹 | Where is the broom? | Cái chổi đâu rồi?
+W hang up | treo lên | ~🪝 | Hang up your clothes. | Treo quần áo lên nhé.
+W put away | cất đi | ~📦 | Put away your toys after you play. | Chơi xong thì cất đồ chơi đi.
+W fold | gấp | ~👕 | I fold my clothes and put them away. | Tớ gấp quần áo và cất đi.
+W toilet | nhà vệ sinh | 🚽 | Where is the toilet, please? | Nhà vệ sinh ở đâu ạ?
+W doorbell | chuông cửa | ~🔔 | The doorbell is ringing. | Chuông cửa đang reo.
+P I always {x}. | Tớ luôn luôn {x}. | make my bed,lay the table,put away my toys,fold my clothes
+P I {x} wash the dishes. | Tớ {x} rửa bát. | always,usually,often,sometimes,never
+P Put it in the {x}. | Để nó vào {x}. | cupboard,drawer,wardrobe,bookcase
+D Dọn phòng | Mum,Kid
+> Mum: Your room is very messy! | Phòng con bừa bộn quá!
+> Kid: Sorry, Mum. I'll tidy it now. | Con xin lỗi mẹ. Con dọn ngay đây.
+> Mum: Put your clothes in the wardrobe, please. | Cho quần áo vào tủ nhé.
+> Kid: Okay. Where do the books go? | Vâng. Sách để đâu ạ?
+> Mum: On the shelf. And make your bed too. | Lên giá. Và dọn giường nữa nhé.
+> Kid: Finished! Is it neat now? | Xong rồi ạ! Giờ gọn chưa mẹ?
+> Mum: Yes! Thank you. You're very helpful. | Gọn rồi! Cảm ơn con. Con giỏi lắm.
+D Việc nhà của cậu | Bi,Kid | dishes,floor,car
+> Bi: Do you help with the chores at home? | Cậu có giúp làm việc nhà không?
+> Kid: Yes. I usually wash the dishes after dinner. | Có. Tớ thường rửa bát sau bữa tối.
+> Bi: Do you vacuum? | Cậu có hút bụi không?
+> Kid: Sometimes. And I always take out the rubbish. | Thỉnh thoảng. Và tớ luôn đi đổ rác.
+> Bi: You're very helpful! | Cậu chăm quá!
+R Saturday chores
+> Every Saturday morning, Leo's family cleans their flat together. Leo's dad vacuums the carpets, and his mum mops the kitchen floor. Leo's sister, Mia, does the laundry. She washes, irons and folds the clothes. Leo always tidies his bedroom and makes his bed. He also waters the plants on the balcony. After that, he takes out the rubbish. When they finish, the flat is neat and clean. Then the family goes to the park for a picnic. Leo thinks chores are boring, but he likes the picnic!
+? Who mops the kitchen floor? | Leo's mum. | Leo's dad. | Mia.
+? What does Leo do on the balcony? | He waters the plants. | He vacuums. | He folds clothes.
+? What does the family do after the chores? | They have a picnic in the park. | They watch TV. | They go shopping.
+S I always | I sometimes | I never
+
+@U 9 | In the kitchen | Vào bếp | Đọc và làm theo công thức nấu ăn đơn giản ; Dùng động từ nấu ăn và từ chỉ trình tự
+G Hướng dẫn nấu ăn dùng câu mệnh lệnh: động từ đứng đầu câu, không cần chủ ngữ: "Chop the onion. Stir the soup." Thêm "First, Next, Then, Finally" để nói thứ tự các bước.
+W recipe | công thức nấu ăn | ~🧾 | This is Grandma's recipe for soup. | Đây là công thức nấu súp của bà.
+W ingredient | nguyên liệu | ~🥕 | What ingredients do we need? | Mình cần những nguyên liệu gì?
+W flour | bột mì | ~🌾 | We need flour to make bread. | Mình cần bột mì để làm bánh mì.
+W oven | lò nướng | ~♨️ | Put the cake in the oven. | Cho bánh vào lò nướng.
+W pot | cái nồi | ~🍲 | Cook the rice in a big pot. | Nấu cơm trong nồi to.
+W boil | đun sôi, luộc | ~♨️ | Boil the eggs for ten minutes. | Luộc trứng trong mười phút.
+W chop | thái nhỏ | ~🔪 | Chop the onion into small pieces. | Thái nhỏ hành tây.
+W stir | khuấy | ~🥄 | Stir the soup with a spoon. | Khuấy súp bằng thìa.
+W pour | rót, đổ | ~🥛 | Pour the milk into the bowl. | Rót sữa vào bát.
+W slice | lát, cắt lát | ~🍕 | Can I have a slice of cake? | Cho tớ một miếng bánh nhé?
+W peel | gọt vỏ, bóc vỏ | ~🍌 | Peel the banana. | Bóc vỏ quả chuối.
+W add | thêm vào | ~➕ | Add some salt. | Thêm chút muối.
+W heat | làm nóng | ~🔥 | Heat the oil in the frying pan. | Làm nóng dầu trong chảo.
+W melt | tan chảy | ~🧈 | The ice cream is melting! | Kem đang chảy ra kìa!
+W spread | phết | ~🧈 | Spread butter on the bread. | Phết bơ lên bánh mì.
+W sprinkle | rắc | ~🧂 | Sprinkle sugar on the pancake. | Rắc đường lên bánh kếp.
+W roll | lăn, cán | ~🌀 | Roll the dough into a ball. | Lăn bột thành một viên tròn.
+W whisk | đánh (trứng) | ~🥣 | Whisk the eggs and milk together. | Đánh trứng với sữa.
+W measure | đo, đong | ~📏 | Measure the flour carefully. | Đong bột cẩn thận nhé.
+W teaspoon | thìa cà phê | ~🥄 | Add a teaspoon of sugar. | Thêm một thìa đường.
+W gram | gam | ~⚖️ | We need two hundred grams of flour. | Mình cần hai trăm gam bột mì.
+W litre | lít | ~🥛 | Buy a litre of milk, please. | Mua giúp một lít sữa nhé.
+W dough | bột nhào | ~🥖 | The pizza dough is soft. | Bột bánh pizza mềm.
+W raw | sống (chưa nấu) | ~🥩 | Don't eat raw meat. | Đừng ăn thịt sống.
+W burnt | bị cháy | ~🔥 | Oh no! The toast is burnt. | Ôi không! Bánh mì cháy rồi.
+W apron | tạp dề | ~🧑‍🍳 | Put on your apron before you cook. | Đeo tạp dề trước khi nấu ăn nhé.
+W kettle | ấm đun nước | ~🫖 | The kettle is hot. Don't touch it. | Ấm nước đang nóng. Đừng chạm vào.
+W frying pan | cái chảo | ~🍳 | Cook the egg in the frying pan. | Rán trứng trong chảo.
+W chopping board | cái thớt | ~🔪 | Cut the carrots on the chopping board. | Cắt cà rốt trên thớt.
+W omelette | trứng tráng | ~🍳 | I made an omelette for breakfast. | Tớ làm trứng tráng cho bữa sáng.
+W smoothie | sinh tố | ~🥤 | A banana smoothie is delicious. | Sinh tố chuối rất ngon.
+W cucumber | dưa chuột | 🥒 | Slice the cucumber for the salad. | Thái lát dưa chuột cho món sa-lát.
+W lettuce | xà lách | ~🥬 | Wash the lettuce in cold water. | Rửa rau xà lách bằng nước lạnh.
+W broccoli | súp lơ xanh | ~🥦 | Broccoli is good for you. | Súp lơ xanh tốt cho sức khoẻ.
+W cabbage | bắp cải | ~🥬 | Grandma grows cabbages in the garden. | Bà trồng bắp cải trong vườn.
+W cherry | quả anh đào | 🍒 | Put a cherry on top of the cake. | Đặt một quả anh đào lên trên bánh.
+W kiwi | quả kiwi | 🥝 | A kiwi is green inside. | Quả kiwi bên trong màu xanh.
+W avocado | quả bơ | 🥑 | I like avocado smoothies. | Tớ thích sinh tố bơ.
+W vinegar | giấm | ~🍶 | Add a little vinegar to the salad. | Thêm chút giấm vào sa-lát.
+W steam | hấp | ~♨️ | Mum steams the fish with ginger. | Mẹ hấp cá với gừng.
+W serve | dọn (món ăn) | ~🍽️ | Serve the soup hot. | Dọn súp khi còn nóng.
+W mixture | hỗn hợp | ~🥣 | Pour the mixture into the pan. | Đổ hỗn hợp vào chảo.
+P Add some {x}. | Thêm chút {x}. | salt,sugar,butter,vinegar
+P First, {x}. | Đầu tiên, {x}. | wash your hands,put on your apron,read the recipe
+P Put the {x} in the oven. | Cho {x} vào lò nướng. | cake,pizza,bread,pie
+D Làm bánh kếp | Bi,Kid
+> Bi: Let's make pancakes! Do we have all the ingredients? | Mình làm bánh kếp nhé! Mình có đủ nguyên liệu chưa?
+> Kid: We have flour, eggs and milk. | Có bột mì, trứng và sữa.
+> Bi: Great! First, put the flour in a bowl. | Tuyệt! Đầu tiên, cho bột vào bát.
+> Kid: Then I add the eggs and milk and whisk them. | Rồi tớ thêm trứng và sữa và đánh đều.
+> Bi: Yes! Now ask your mum to heat the frying pan. | Đúng! Giờ nhờ mẹ làm nóng chảo nhé.
+> Kid: They smell delicious! | Thơm quá!
+D Sinh tố trái cây | Bi,Kid | banana,mango,avocado
+> Kid: I'm thirsty. Can we make a smoothie? | Tớ khát. Mình làm sinh tố được không?
+> Bi: Sure! What fruit do you want? | Được chứ! Cậu muốn quả gì?
+> Kid: A banana, please. | Chuối nhé.
+> Bi: Peel it and put it in the machine with some milk. | Bóc vỏ rồi cho vào máy cùng chút sữa.
+> Kid: It's ready! It's so tasty! | Xong rồi! Ngon quá!
+R How to make a fruit salad
+> A fruit salad is easy to make, and it's very healthy. First, wash your hands and put on an apron. Then wash the fruit: two apples, a banana, a kiwi and some grapes. Ask an adult to help you with the knife. Peel the banana and the kiwi, and slice them on a chopping board. Chop the apples into small pieces. Put all the fruit into a big bowl. Next, add some orange juice and a teaspoon of honey. Stir the mixture gently. Finally, put the bowl in the fridge for ten minutes. Serve it cold and enjoy!
+? What should you do first? | Wash your hands and put on an apron. | Peel the banana. | Add honey.
+? Who should help you with the knife? | An adult. | A friend. | Nobody.
+? Where do you put the bowl at the end? | In the fridge. | In the oven. | On the table.
+S First, | Then | Finally
+
+@U 10 | Staying healthy | Giữ gìn sức khoẻ | Nói về thói quen tốt cho sức khoẻ ; Hỏi thăm và khuyên bạn khi bạn bị ốm
+G Khuyên nên: "You should drink more water." Khuyên không nên: "You shouldn't eat too many sweets." Nói bệnh: "I've got a cold." ("I've got" nghĩa là "I have").
+W have a cold | bị cảm lạnh | ~🤧 | I have a cold and a runny nose. | Tớ bị cảm và sổ mũi.
+W flu | bệnh cúm | ~🤒 | My dad has the flu. He's in bed. | Bố tớ bị cúm. Bố đang nằm trên giường.
+W germ | vi trùng | 🦠 | Wash your hands to stop germs. | Rửa tay để ngăn vi trùng.
+W pill | viên thuốc | ~💊 | Take one pill after breakfast. | Uống một viên thuốc sau bữa sáng.
+W vitamin | vi-ta-min | ~🍊 | Oranges have a lot of vitamins. | Cam có rất nhiều vi-ta-min.
+W appointment | cuộc hẹn | ~📅 | I have a dentist appointment on Monday. | Thứ Hai tớ có hẹn với nha sĩ.
+W bandage | băng gạc | ~🩹 | The nurse put a bandage on my arm. | Cô y tá băng tay cho tớ.
+W injection | mũi tiêm | 💉 | The injection hurt a little. | Mũi tiêm hơi đau một chút.
+W x-ray | chụp X-quang | ~🦴 | The doctor looked at the x-ray of my arm. | Bác sĩ xem phim chụp X-quang tay tớ.
+W bruise | vết bầm | ~🟣 | I have a bruise on my knee. | Tớ bị bầm ở đầu gối.
+W scratch | vết xước, cào | ~🐈 | The cat scratched my hand. | Con mèo cào vào tay tớ.
+W itchy | ngứa | ~🦟 | My arm is itchy. | Tay tớ ngứa.
+W rash | phát ban | ~🔴 | The baby has a rash on her face. | Em bé bị phát ban trên mặt.
+W allergy | dị ứng | ~🤧 | My friend has an allergy to nuts. | Bạn tớ bị dị ứng với các loại hạt.
+W pain | cơn đau | ~🤕 | I have a pain in my back. | Tớ bị đau lưng.
+W painful | đau đớn | ~😣 | My toothache is very painful. | Cơn đau răng của tớ rất đau.
+W dizzy | chóng mặt | 😵 | I feel dizzy. I need to sit down. | Tớ thấy chóng mặt. Tớ cần ngồi xuống.
+W runny nose | sổ mũi | ~🤧 | I have a runny nose. Can I have a tissue? | Tớ bị sổ mũi. Cho tớ xin khăn giấy nhé?
+W blow | thổi, xì (mũi) | ~🌬️ | Blow your nose, please. | Xì mũi đi con.
+W habit | thói quen | ~🔁 | Brushing your teeth is a good habit. | Đánh răng là một thói quen tốt.
+W diet | chế độ ăn | ~🥗 | A healthy diet has lots of vegetables. | Chế độ ăn lành mạnh có nhiều rau.
+W balanced | cân bằng | ~⚖️ | Eat a balanced meal every day. | Ăn bữa ăn cân bằng mỗi ngày.
+W junk food | đồ ăn vặt không tốt | ~🍟 | Don't eat too much junk food. | Đừng ăn quá nhiều đồ ăn vặt.
+W fast food | đồ ăn nhanh | ~🍔 | Burgers and chips are fast food. | Bánh mì kẹp và khoai chiên là đồ ăn nhanh.
+W check-up | khám sức khoẻ | ~🩺 | I go to the doctor for a check-up every year. | Năm nào tớ cũng đi khám sức khoẻ.
+W patient | bệnh nhân | ~🛏️ | The doctor has many patients today. | Hôm nay bác sĩ có nhiều bệnh nhân.
+W get better | khỏi bệnh | ~💪 | I hope you get better soon! | Mong cậu sớm khỏi bệnh!
+W stay in bed | nằm nghỉ trên giường | ~🛌 | You should stay in bed today. | Hôm nay cháu nên nằm nghỉ.
+W outdoors | ngoài trời | ~🌳 | Children should play outdoors every day. | Trẻ em nên chơi ngoài trời mỗi ngày.
+W indoors | trong nhà | ~🏠 | It's raining, so we play indoors. | Trời mưa nên bọn tớ chơi trong nhà.
+W sunlight | ánh nắng | ~☀️ | Plants need sunlight to grow. | Cây cần ánh nắng để lớn.
+W bedtime | giờ đi ngủ | ~🛏️ | My bedtime is nine o'clock. | Giờ đi ngủ của tớ là chín giờ.
+W jog | chạy bộ | ~🏃 | My mum jogs in the park every morning. | Sáng nào mẹ tớ cũng chạy bộ trong công viên.
+W yoga | yoga | ~🧘 | Yoga helps me relax. | Yoga giúp tớ thư giãn.
+W breathe | thở | ~🌬️ | Breathe in, breathe out. | Hít vào, thở ra.
+W breath | hơi thở | ~💨 | Take a deep breath. | Hít một hơi thật sâu.
+W sweat | đổ mồ hôi | ~💦 | I sweat when I play football. | Tớ đổ mồ hôi khi đá bóng.
+W pharmacy | nhà thuốc | ~🏪 | You can buy plasters at the pharmacy. | Cậu có thể mua băng dán ở nhà thuốc.
+W drop | làm rơi | ~💧 | Don't drop the eggs! | Đừng làm rơi trứng!
+W lie down | nằm xuống | ~🛌 | Lie down and rest. | Nằm xuống nghỉ đi.
+P You should {x}. | Cậu nên {x}. | drink more water,go to bed early,stay in bed,see a doctor
+P You shouldn't {x}. | Cậu không nên {x}. | eat too much junk food,go to bed late,play outdoors today
+P I've got {x}. | Tớ bị {x}. | a cold,the flu,a runny nose,a rash
+D Đi khám bác sĩ | Doctor,Kid
+> Doctor: Hello. What's the matter? | Chào cháu. Cháu bị làm sao?
+> Kid: I've got a cold. I have a runny nose and a cough. | Cháu bị cảm ạ. Cháu sổ mũi và ho.
+> Doctor: Do you feel dizzy? | Cháu có thấy chóng mặt không?
+> Kid: No, but I feel very tired. | Không ạ, nhưng cháu rất mệt.
+> Doctor: You should stay in bed and drink lots of water. | Cháu nên nằm nghỉ và uống nhiều nước.
+> Kid: Do I need an injection? | Cháu có phải tiêm không ạ?
+> Doctor: No. Just rest. You'll get better soon. | Không. Chỉ cần nghỉ ngơi. Cháu sẽ sớm khỏi thôi.
+> Kid: Thank you, doctor. | Cháu cảm ơn bác sĩ.
+D Thói quen lành mạnh | Bi,Kid | yoga,karate,swimming
+> Bi: What do you do to stay healthy? | Cậu làm gì để giữ sức khoẻ?
+> Kid: I eat a balanced diet and play outdoors. | Tớ ăn uống cân bằng và chơi ngoài trời.
+> Bi: Me too. I also do yoga with my mum. | Tớ cũng vậy. Tớ còn tập yoga với mẹ nữa.
+> Kid: Cool! And I always go to bed at bedtime! | Hay đấy! Và tớ luôn đi ngủ đúng giờ!
+R Healthy habits
+> Doctors say that healthy habits are very important for children. First, eat a balanced diet with lots of fruit and vegetables. Don't eat too much junk food or too many sweets. Second, drink water instead of fizzy drinks. Third, play outdoors and exercise every day. Running, swimming and cycling all make your heart strong. Next, wash your hands often to stop germs. Finally, sleep for about ten hours every night. If you follow these habits, you will feel happy and full of energy!
+? What should you drink instead of fizzy drinks? | Water. | Juice. | Milk.
+? Why should you wash your hands often? | To stop germs. | To feel happy. | To sleep well.
+? How long should children sleep every night? | About ten hours. | About six hours. | About two hours.
+S To stay healthy, I | You should | You shouldn't
+
+@U 11 | Wild weather | Thời tiết khắc nghiệt | Nghe hiểu bản tin dự báo thời tiết ; Nói cách giữ an toàn khi thời tiết xấu
+G Dự báo thời tiết dùng "will": "It will be sunny tomorrow." / "It will rain in the afternoon." Nói nhiệt độ: "It's thirty degrees." (ba mươi độ).
+W forecast | dự báo | ~🌦️ | The weather forecast says it will rain. | Dự báo thời tiết nói trời sẽ mưa.
+W degree | độ | ~🌡️ | It's thirty-five degrees today! | Hôm nay ba mươi lăm độ!
+W fog | sương mù | 🌫️ | There is thick fog on the road. | Có sương mù dày trên đường.
+W foggy | có sương mù | 🌁 | It's foggy this morning. Drive slowly. | Sáng nay có sương mù. Lái xe chậm thôi.
+W icy | đóng băng | ~🧊 | The road is icy. Be careful! | Đường đóng băng. Cẩn thận!
+W frost | sương giá | ~❄️ | There is frost on the car window. | Có sương giá trên cửa kính ô tô.
+W hail | mưa đá | ~🌨️ | Hail is small balls of ice. | Mưa đá là những viên đá nhỏ.
+W flood | lũ lụt | ~🌊 | The flood damaged many houses. | Lũ lụt làm hỏng nhiều ngôi nhà.
+W drought | hạn hán | ~🏜️ | There is no rain in a drought. | Khi hạn hán thì không có mưa.
+W typhoon | bão lớn | 🌀 | A typhoon is coming. Stay inside! | Bão sắp đến. Ở trong nhà nhé!
+W tornado | lốc xoáy | 🌪️ | A tornado is a very strong wind. | Lốc xoáy là cơn gió rất mạnh.
+W heatwave | đợt nắng nóng | ~🥵 | In a heatwave, drink lots of water. | Trong đợt nắng nóng, hãy uống nhiều nước.
+W puddle | vũng nước | ~💧 | I love jumping in puddles! | Tớ thích nhảy vào vũng nước!
+W freezing | lạnh cóng | ~🥶 | It's freezing outside. Wear your gloves. | Ngoài trời lạnh cóng. Đeo găng tay vào.
+W boiling | nóng như thiêu | ~♨️ | It's boiling today! Let's go swimming. | Hôm nay nóng quá! Mình đi bơi đi.
+W humid | nồm, ẩm ướt | ~💦 | Hanoi is very humid in spring. | Hà Nội mùa xuân rất nồm.
+W breeze | gió nhẹ | ~🍃 | There is a cool breeze by the sea. | Có làn gió mát bên bờ biển.
+W damage | làm hỏng, thiệt hại | ~🏚️ | The storm damaged the roof. | Cơn bão làm hỏng mái nhà.
+W power cut | mất điện | ~🔌 | There was a power cut in the storm. | Trong cơn bão đã bị mất điện.
+W shelter | nơi trú ẩn | ~🏠 | We found shelter in a café. | Bọn tớ trú mưa trong một quán cà phê.
+W wellies | ủng cao su | ~🥾 | Put on your wellies. It's muddy. | Đi ủng vào. Trời lầy lội.
+W thunderstorm | dông | ~⛈️ | Don't swim in a thunderstorm. | Đừng bơi khi trời dông.
+W chilly | se lạnh | ~🧣 | It's chilly in the evening. | Buổi tối trời se lạnh.
+W minus | âm | ~➖ | It's minus five degrees in the mountains. | Trên núi âm năm độ.
+W snowflake | bông tuyết | ~❄️ | Every snowflake is different. | Mỗi bông tuyết đều khác nhau.
+W snowman | người tuyết | ☃️ | Let's build a snowman! | Mình đắp người tuyết nhé!
+W sledge | xe trượt tuyết | 🛷 | We went down the hill on a sledge. | Bọn tớ trượt xuống đồi bằng xe trượt tuyết.
+W sunrise | bình minh | ~🌅 | We got up early to watch the sunrise. | Bọn tớ dậy sớm ngắm bình minh.
+W prepare | chuẩn bị | ~📋 | We prepared for the typhoon. | Nhà tớ đã chuẩn bị đón bão.
+W shut | đóng | ~🚪 | Shut the windows. It's windy. | Đóng cửa sổ lại. Trời gió.
+W branch | cành cây | ~🌿 | The wind broke a branch. | Gió làm gãy một cành cây.
+W coast | bờ biển | ~🏖️ | The typhoon hit the coast. | Cơn bão đổ bộ vào bờ biển.
+W below | dưới | ~⬇️ | The temperature is below zero. | Nhiệt độ dưới không độ.
+W sunshine | ánh nắng | ~☀️ | Enjoy the sunshine! | Tận hưởng ánh nắng nào!
+W raindrop | hạt mưa | ~💧 | Raindrops are falling on the window. | Hạt mưa rơi trên cửa sổ.
+W slip | trượt chân | ~🍌 | Don't slip on the wet floor. | Đừng trượt chân trên sàn ướt.
+P It will be {x} tomorrow. | Ngày mai trời sẽ {x}. | sunny,foggy,windy,freezing
+P In a typhoon, you should {x}. | Khi có bão, bạn nên {x}. | stay inside,shut the windows,listen to the news
+P It's {x} degrees. | Trời {x} độ. | thirty,minus five,twenty
+D Bản tin thời tiết | Bi,Kid
+> Kid: Bi, what's the weather forecast for tomorrow? | Bi ơi, dự báo thời tiết ngày mai thế nào?
+> Bi: It will be cloudy in the morning. | Buổi sáng trời sẽ nhiều mây.
+> Kid: Will it be sunny in the afternoon? | Buổi chiều có nắng không?
+> Bi: No. There will be a thunderstorm. | Không. Sẽ có dông.
+> Kid: Oh no! We can't have our picnic. | Ôi không! Mình không đi dã ngoại được rồi.
+> Bi: Let's play indoors instead. | Thay vào đó mình chơi trong nhà nhé.
+D Chuẩn bị đón bão | Mum,Kid
+> Mum: A typhoon is coming tonight. | Tối nay bão sẽ đến.
+> Kid: Is it dangerous? | Có nguy hiểm không mẹ?
+> Mum: It can be. Let's shut all the windows. | Có thể đấy. Mình đóng hết cửa sổ lại nhé.
+> Kid: Should we get the torch? | Mình có nên lấy đèn pin không ạ?
+> Mum: Yes, in case there's a power cut. | Có, phòng khi mất điện.
+> Kid: I'll put my bike in the garage too. | Con sẽ cất xe đạp vào ga-ra nữa.
+R The typhoon
+> Last October, a big typhoon hit the coast near Minh's town. The weather forecast on TV told everyone to prepare. Minh's family shut all the windows and put their bikes in the garage. They had torches, candles, water and food. That night, the wind was very strong, and it rained heavily. There was a power cut, so they used torches. The next morning, the storm was over. The wind broke some branches, and there were big puddles in the streets. Everyone in Minh's family was safe.
+? When did the typhoon hit? | Last October. | Last summer. | Last week.
+? Why did the family use torches? | There was a power cut. | It was foggy. | They were camping.
+? What was in the streets the next morning? | Big puddles. | Snow. | Sand.
+S Tomorrow it will be | In a storm, we should | My favourite weather is
+
+@U 12 | Friendship | Tình bạn | Nói về phẩm chất của một người bạn tốt ; Xin lỗi, tha thứ và làm lành với bạn
+G Xin lỗi: "I'm sorry I broke your pencil." Đáp lại: "That's okay." / "Don't worry about it." Mượn đồ dùng "borrow": "Can I borrow your ruler?" Cho mượn dùng "lend": "Can you lend me your ruler?"
+W friendship | tình bạn | ~🤝 | Our friendship is very special. | Tình bạn của chúng tớ rất đặc biệt.
+W honest | trung thực | ~😇 | An honest person tells the truth. | Người trung thực luôn nói thật.
+W generous | hào phóng | ~🎁 | Lan is generous. She shares her snacks. | Lan rất hào phóng. Bạn ấy chia sẻ đồ ăn vặt.
+W selfish | ích kỷ | ~🙅 | Don't be selfish. Share your toys. | Đừng ích kỷ. Chia sẻ đồ chơi đi.
+W rude | thô lỗ, vô lễ | ~😛 | It's rude to shout at people. | Hét vào người khác là vô lễ.
+W patient | kiên nhẫn | ~⏳ | Be patient and wait your turn. | Hãy kiên nhẫn chờ đến lượt.
+W loyal | trung thành | ~🐕 | A good friend is loyal. | Một người bạn tốt thì trung thành.
+W caring | biết quan tâm | ~🤗 | My sister is very caring. | Chị tớ rất biết quan tâm.
+W cheerful | vui vẻ | ~😄 | Ben is always cheerful. | Ben lúc nào cũng vui vẻ.
+W bossy | hống hách | ~👉 | Don't be bossy. Let your friends choose too. | Đừng hống hách. Để các bạn cùng chọn nữa.
+W mean | xấu tính | ~😠 | It was mean to laugh at him. | Cười nhạo bạn ấy là xấu tính.
+W argue | cãi nhau | ~🗯️ | My brother and I sometimes argue. | Anh tớ và tớ thỉnh thoảng cãi nhau.
+W apologise | xin lỗi | ~🙇 | You should apologise to your friend. | Cậu nên xin lỗi bạn.
+W forgive | tha thứ | ~💗 | I forgive you. Let's be friends again. | Tớ tha thứ cho cậu. Mình lại làm bạn nhé.
+W trust | tin tưởng | ~🤞 | I trust my best friend. | Tớ tin bạn thân của tớ.
+W borrow | mượn | ~📥 | Can I borrow your ruler? | Tớ mượn thước của cậu được không?
+W lend | cho mượn | ~📤 | Can you lend me a pencil? | Cậu cho tớ mượn bút chì được không?
+W keep | giữ | ~🔒 | Can you keep a secret? | Cậu giữ bí mật được không?
+W support | ủng hộ, giúp đỡ | ~🫂 | Friends support each other. | Bạn bè luôn giúp đỡ nhau.
+W encourage | động viên | ~📣 | My friends encourage me in races. | Các bạn động viên tớ khi thi chạy.
+W tease | trêu chọc | ~😜 | Don't tease your little brother. | Đừng trêu em trai.
+W bully | bắt nạt | ~😠 | If someone bullies you, tell a teacher. | Nếu ai bắt nạt con, hãy nói với cô giáo.
+W fall out | giận nhau | ~💔 | We fell out, but now we are friends again. | Bọn tớ đã giận nhau, nhưng giờ lại là bạn rồi.
+W make up | làm lành | ~🤝 | They made up after the argument. | Họ làm lành sau trận cãi nhau.
+W get along | hoà hợp | ~😊 | I get along well with my classmates. | Tớ hoà hợp với các bạn cùng lớp.
+W include | cho tham gia | ~➕ | Let's include the new girl in our game. | Mình cho bạn gái mới chơi cùng nhé.
+W ignore | phớt lờ | ~🙉 | Don't ignore your friend when she talks. | Đừng phớt lờ khi bạn đang nói.
+W in common | có điểm chung | ~🟰 | We have a lot in common. We both love dogs. | Bọn tớ có nhiều điểm chung. Cả hai đều thích chó.
+W kindness | lòng tốt | ~💝 | Thank you for your kindness. | Cảm ơn lòng tốt của cậu.
+W unfair | không công bằng | ~⚖️ | It's unfair! It's my turn! | Không công bằng! Đến lượt tớ mà!
+W take turns | thay phiên nhau | ~🔄 | Let's take turns on the swing. | Mình thay phiên nhau chơi xích đu nhé.
+W each other | lẫn nhau | ~↔️ | Good friends help each other. | Bạn tốt giúp đỡ lẫn nhau.
+W someone | ai đó | ~👤 | Someone is at the door. | Có ai đó ở cửa.
+W everyone | mọi người | ~👥 | Everyone loves Grandma's cake. | Mọi người đều thích bánh của bà.
+W nobody | không ai | ~🚫 | Nobody knows the answer. | Không ai biết câu trả lời.
+W anyone | bất kỳ ai | ~❔ | Is anyone at home? | Có ai ở nhà không?
+W something | cái gì đó | ~📦 | I want to tell you something. | Tớ muốn nói với cậu một điều.
+W nothing | không có gì | ~🫙 | There is nothing in the box. | Trong hộp không có gì.
+W everything | mọi thứ | ~🌐 | Thank you for everything! | Cảm ơn cậu vì tất cả!
+W anything | bất cứ thứ gì | ~❓ | Do you need anything? | Cậu có cần gì không?
+P A good friend is {x}. | Một người bạn tốt thì {x}. | honest,generous,loyal,caring
+P Can I borrow your {x}? | Tớ mượn {x} của cậu được không? | ruler,pencil,rubber,scissors
+P I'm sorry I {x}. | Tớ xin lỗi vì đã {x}. | broke your pencil,was rude,lost your book,teased you
+D Xin lỗi bạn | Bi,Kid | pencil,ruler,crayon
+> Kid: Bi, I'm sorry. I broke your pencil. | Bi ơi, tớ xin lỗi. Tớ làm gãy bút chì của cậu rồi.
+> Bi: Oh! That was my favourite pencil. | Ôi! Đó là bút chì tớ thích nhất.
+> Kid: I know. It was an accident. You can have my new one. | Tớ biết. Tớ không cố ý. Cậu lấy cái mới của tớ nhé.
+> Bi: That's very kind. Don't worry about it. | Cậu tốt quá. Đừng lo nhé.
+> Kid: Are we still friends? | Mình vẫn là bạn chứ?
+> Bi: Of course! Best friends! | Tất nhiên rồi! Bạn thân mà!
+D Bạn mới | Bi,Kid
+> Bi: Look, the new boy is alone. | Nhìn kìa, bạn trai mới đang ngồi một mình.
+> Kid: Let's include him in our game. | Mình rủ bạn ấy chơi cùng đi.
+> Bi: Good idea. Hi! Do you want to play with us? | Ý hay. Chào cậu! Cậu muốn chơi với bọn tớ không?
+> Kid: We can take turns. You go first! | Mình thay phiên nhau. Cậu đi trước nhé!
+R Two friends
+> Hoa and Mai are best friends. They have a lot in common. They both love drawing and reading. Last week, they fell out. Mai borrowed Hoa's new pens and lost one. Hoa was upset and said something mean. Mai felt sad, and the two girls didn't talk for two days. Then Mai decided to apologise. She bought Hoa a new pen with her pocket money. Hoa said sorry too, because she was rude. They forgave each other and made up. Now they know that good friends are honest and kind, and they say sorry when they make mistakes.
+? What do Hoa and Mai both love? | Drawing and reading. | Dancing and singing. | Football.
+? Why was Hoa upset? | Mai lost one of her pens. | Mai was late. | Mai teased her.
+? What did Mai buy for Hoa? | A new pen. | A book. | A cake.
+S A good friend is | My best friend and I | I'm sorry

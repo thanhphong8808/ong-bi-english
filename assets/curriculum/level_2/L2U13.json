@@ -1,0 +1,2671 @@
+{
+ "id": "L2U13",
+ "level": 2,
+ "unit": 13,
+ "topic_en": "The countryside",
+ "topic_vi": "Miền quê",
+ "can_do_vi": [
+  "Tả cảnh miền quê",
+  "So sánh thành phố và nông thôn đơn giản"
+ ],
+ "items": [
+  {
+   "id": "L2U13-W01",
+   "type": "word",
+   "en": "countryside",
+   "vi": "nông thôn",
+   "ipa": "/ˈkʌntriˌsaɪd/",
+   "syllables": [
+    "coun",
+    "try",
+    "side"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "My grandparents live in the countryside.",
+   "example_vi": "Ông bà tớ sống ở nông thôn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W02",
+   "type": "word",
+   "en": "mountain",
+   "vi": "núi",
+   "ipa": "/ˈmaʊntən/",
+   "syllables": [
+    "moun",
+    "tain"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "26F0-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "The mountain is very high.",
+   "example_vi": "Ngọn núi rất cao.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W03",
+   "type": "word",
+   "en": "river",
+   "vi": "dòng sông",
+   "ipa": "/ˈrɪvər/",
+   "syllables": [
+    "riv",
+    "er"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "Ducks swim in the river.",
+   "example_vi": "Vịt bơi trên sông.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W04",
+   "type": "word",
+   "en": "hill",
+   "vi": "đồi",
+   "ipa": "/hɪl/",
+   "syllables": [
+    "hill"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F304"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "We walk up the hill.",
+   "example_vi": "Nhà tớ đi bộ lên đồi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W05",
+   "type": "word",
+   "en": "field",
+   "vi": "cánh đồng",
+   "ipa": "/fild/",
+   "syllables": [
+    "field"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F33E"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "Cows eat grass in the field.",
+   "example_vi": "Bò ăn cỏ trên cánh đồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W06",
+   "type": "phrase",
+   "en": "rice field",
+   "vi": "ruộng lúa",
+   "ipa": "/raɪs fild/",
+   "syllables": [
+    "rice",
+    "field"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F33E"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "The rice field is green.",
+   "example_vi": "Ruộng lúa xanh mướt.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W07",
+   "type": "word",
+   "en": "village",
+   "vi": "ngôi làng",
+   "ipa": "/ˈvɪlɪdʒ/",
+   "syllables": [
+    "vil",
+    "lage"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "My grandma lives in a small village.",
+   "example_vi": "Bà tớ sống ở một ngôi làng nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W08",
+   "type": "word",
+   "en": "island",
+   "vi": "hòn đảo",
+   "ipa": "/ˈaɪlənd/",
+   "syllables": [
+    "is",
+    "land"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F3DD-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "We took a boat to the island.",
+   "example_vi": "Nhà tớ đi thuyền ra đảo.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W09",
+   "type": "word",
+   "en": "waterfall",
+   "vi": "thác nước",
+   "ipa": "/ˈwɔtərˌfɔl/",
+   "syllables": [
+    "wa",
+    "ter",
+    "fall"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "The waterfall is very beautiful.",
+   "example_vi": "Thác nước rất đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W10",
+   "type": "word",
+   "en": "cave",
+   "vi": "hang động",
+   "ipa": "/keɪv/",
+   "syllables": [
+    "cave"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F573-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "It's dark in the cave.",
+   "example_vi": "Trong hang tối lắm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W11",
+   "type": "word",
+   "en": "sand",
+   "vi": "cát",
+   "ipa": "/sænd/",
+   "syllables": [
+    "sand"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "I play in the sand.",
+   "example_vi": "Tớ chơi cát.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W12",
+   "type": "word",
+   "en": "shell",
+   "vi": "vỏ sò",
+   "ipa": "/ʃɛl/",
+   "syllables": [
+    "shell"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F41A"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "I found a shell on the beach.",
+   "example_vi": "Tớ nhặt được vỏ sò trên bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W13",
+   "type": "word",
+   "en": "pond",
+   "vi": "cái ao",
+   "ipa": "/pɑnd/",
+   "syllables": [
+    "pond"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F986"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "There are fish in the pond.",
+   "example_vi": "Trong ao có cá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W14",
+   "type": "word",
+   "en": "stone",
+   "vi": "hòn đá",
+   "ipa": "/stoʊn/",
+   "syllables": [
+    "stone"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FAA8"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "Don't throw stones.",
+   "example_vi": "Đừng ném đá nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W15",
+   "type": "word",
+   "en": "path",
+   "vi": "lối đi",
+   "ipa": "/pæθ/",
+   "syllables": [
+    "path"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F97E"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "Walk on the path.",
+   "example_vi": "Đi trên lối đi nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W16",
+   "type": "word",
+   "en": "plant",
+   "vi": "cây trồng, trồng",
+   "ipa": "/plænt/",
+   "syllables": [
+    "plant"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1FAB4"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "Water the plants, please.",
+   "example_vi": "Tưới cây giúp tớ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W17",
+   "type": "word",
+   "en": "seed",
+   "vi": "hạt giống",
+   "ipa": "/sid/",
+   "syllables": [
+    "seed"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F331"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "Plant the seeds in spring.",
+   "example_vi": "Gieo hạt vào mùa xuân.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W18",
+   "type": "word",
+   "en": "grow",
+   "vi": "lớn lên, trồng",
+   "ipa": "/ɡroʊ/",
+   "syllables": [
+    "grow"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "Plants grow in the sun.",
+   "example_vi": "Cây lớn lên nhờ ánh nắng.",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W19",
+   "type": "word",
+   "en": "root",
+   "vi": "rễ cây",
+   "ipa": "/rut/",
+   "syllables": [
+    "root"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F333"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "The tree has long roots.",
+   "example_vi": "Cái cây có rễ dài.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W20",
+   "type": "word",
+   "en": "fresh",
+   "vi": "tươi, trong lành",
+   "ipa": "/frɛʃ/",
+   "syllables": [
+    "fresh"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F343"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "The air is fresh here.",
+   "example_vi": "Không khí ở đây trong lành.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W21",
+   "type": "word",
+   "en": "air",
+   "vi": "không khí",
+   "ipa": "/ɛr/",
+   "syllables": [
+    "air"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4A8"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "Plants need air and water.",
+   "example_vi": "Cây cần không khí và nước.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W22",
+   "type": "word",
+   "en": "view",
+   "vi": "quang cảnh",
+   "ipa": "/vju/",
+   "syllables": [
+    "view"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "What a beautiful view!",
+   "example_vi": "Cảnh đẹp quá!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W23",
+   "type": "word",
+   "en": "wood",
+   "vi": "gỗ, rừng nhỏ",
+   "ipa": "/wʊd/",
+   "syllables": [
+    "wood"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FAB5"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "The table is made of wood.",
+   "example_vi": "Cái bàn làm bằng gỗ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W24",
+   "type": "word",
+   "en": "mud",
+   "vi": "bùn",
+   "ipa": "/mʌd/",
+   "syllables": [
+    "mud"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F7EB"
+   },
+   "picturable": false,
+   "cat": "L2U13",
+   "example_en": "My boots are full of mud.",
+   "example_vi": "Ủng của tớ dính đầy bùn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W25",
+   "type": "word",
+   "en": "fence",
+   "vi": "hàng rào",
+   "ipa": "/fɛns/",
+   "syllables": [
+    "fence"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F6A7"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "The horse is behind the fence.",
+   "example_vi": "Con ngựa ở sau hàng rào.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W26",
+   "type": "word",
+   "en": "tractor",
+   "vi": "máy cày",
+   "ipa": "/ˈtræktər/",
+   "syllables": [
+    "trac",
+    "tor"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F69C"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "The farmer drives a tractor.",
+   "example_vi": "Bác nông dân lái máy cày.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W27",
+   "type": "word",
+   "en": "buffalo",
+   "vi": "con trâu",
+   "ipa": "/ˈbʌfəˌloʊ/",
+   "syllables": [
+    "buf",
+    "fa",
+    "lo"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F403"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "The buffalo works in the rice field.",
+   "example_vi": "Con trâu làm việc trên ruộng lúa.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U13-W28",
+   "type": "word",
+   "en": "sunset",
+   "vi": "hoàng hôn",
+   "ipa": "/ˈsʌnˌsɛt/",
+   "syllables": [
+    "sun",
+    "set"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F307"
+   },
+   "picturable": true,
+   "cat": "L2U13",
+   "example_en": "We watch the sunset.",
+   "example_vi": "Nhà tớ ngắm hoàng hôn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U13-P01",
+   "en": "There is a {x} in the village.",
+   "vi": "Trong làng có {x}.",
+   "slots": {
+    "x": [
+     "pond",
+     "river",
+     "school",
+     "market"
+    ]
+   }
+  },
+  {
+   "id": "L2U13-P02",
+   "en": "I can see a {x}.",
+   "vi": "Tớ nhìn thấy {x}.",
+   "slots": {
+    "x": [
+     "mountain",
+     "waterfall",
+     "buffalo",
+     "tractor"
+    ]
+   }
+  },
+  {
+   "id": "L2U13-P03",
+   "en": "The countryside is {x} than the city.",
+   "vi": "Nông thôn {x} hơn thành phố.",
+   "slots": {
+    "x": [
+     "quieter",
+     "greener",
+     "cooler"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U13-D01",
+   "title_vi": "Về quê",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Where does your grandma live?",
+     "vi": "Bà cậu sống ở đâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "In a village in the countryside.",
+     "vi": "Ở một ngôi làng ở nông thôn."
+    },
+    {
+     "role": "Bi",
+     "en": "What can you see there?",
+     "vi": "Ở đó cậu thấy gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I can see a buffalo and rice fields.",
+     "vi": "Tớ thấy con trâu và ruộng lúa."
+    },
+    {
+     "role": "Bi",
+     "en": "Is it quiet?",
+     "vi": "Ở đó có yên tĩnh không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. The air is very fresh.",
+     "vi": "Có. Không khí rất trong lành."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "buffalo",
+    "options": [
+     "ducks",
+     "chickens"
+    ]
+   }
+  },
+  {
+   "id": "L2U13-D02",
+   "title_vi": "Gieo hạt",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Let's plant some seeds!",
+     "vi": "Mình gieo hạt đi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! What do they need?",
+     "vi": "Được! Chúng cần gì?"
+    },
+    {
+     "role": "Bi",
+     "en": "Water, air and sun.",
+     "vi": "Nước, không khí và ánh nắng."
+    },
+    {
+     "role": "Kid",
+     "en": "I can water them every day.",
+     "vi": "Ngày nào tớ cũng tưới được."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "seeds",
+    "options": [
+     "flowers",
+     "tomatoes"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "countryside"
+  },
+  {
+   "type": "dictate_word",
+   "target": "mountain"
+  },
+  {
+   "type": "dictate_word",
+   "target": "river"
+  },
+  {
+   "type": "dictate_word",
+   "target": "hill"
+  },
+  {
+   "type": "dictate_word",
+   "target": "field"
+  },
+  {
+   "type": "dictate_word",
+   "target": "village"
+  },
+  {
+   "type": "dictate_word",
+   "target": "island"
+  },
+  {
+   "type": "dictate_word",
+   "target": "waterfall"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My grandparents live in the countryside."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The mountain is very high."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Ducks swim in the river."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U13-R01",
+   "title_en": "At Grandpa's farm",
+   "text_en": [
+    "In the summer, Lan visits her grandpa in the countryside.",
+    "He has a farm near a river.",
+    "There are cows, ducks and a big buffalo.",
+    "Lan helps Grandpa plant seeds.",
+    "In the evening, they watch the sunset from the hill."
+   ],
+   "questions": [
+    {
+     "q": "Where is Grandpa's farm?",
+     "options": [
+      "Near a river.",
+      "In the city.",
+      "On an island."
+     ],
+     "answer": "Near a river."
+    },
+    {
+     "q": "What do Lan and Grandpa watch in the evening?",
+     "options": [
+      "The sunset.",
+      "A film.",
+      "The rain."
+     ],
+     "answer": "The sunset."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U13-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "countryside",
+   "item": "countryside",
+   "options": [
+    "shell",
+    "buffalo",
+    "tractor",
+    "countryside"
+   ],
+   "answer": "countryside"
+  },
+  {
+   "id": "L2U13-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mountain",
+   "item": "mountain",
+   "options": [
+    "fence",
+    "hill",
+    "mountain",
+    "countryside"
+   ],
+   "answer": "mountain"
+  },
+  {
+   "id": "L2U13-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hill",
+   "item": "hill",
+   "options": [
+    "hill",
+    "stone",
+    "countryside",
+    "tractor"
+   ],
+   "answer": "hill"
+  },
+  {
+   "id": "L2U13-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "field",
+   "item": "field",
+   "options": [
+    "island",
+    "stone",
+    "field",
+    "seed"
+   ],
+   "answer": "field"
+  },
+  {
+   "id": "L2U13-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "village",
+   "item": "village",
+   "options": [
+    "field",
+    "village",
+    "hill",
+    "tractor"
+   ],
+   "answer": "village"
+  },
+  {
+   "id": "L2U13-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "island",
+   "item": "island",
+   "options": [
+    "stone",
+    "seed",
+    "countryside",
+    "island"
+   ],
+   "answer": "island"
+  },
+  {
+   "id": "L2U13-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shell",
+   "item": "shell",
+   "options": [
+    "plant",
+    "tractor",
+    "shell",
+    "field"
+   ],
+   "answer": "shell"
+  },
+  {
+   "id": "L2U13-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "stone",
+   "item": "stone",
+   "options": [
+    "sunset",
+    "buffalo",
+    "countryside",
+    "stone"
+   ],
+   "answer": "stone"
+  },
+  {
+   "id": "L2U13-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "plant",
+   "item": "plant",
+   "options": [
+    "countryside",
+    "tractor",
+    "plant",
+    "seed"
+   ],
+   "answer": "plant"
+  },
+  {
+   "id": "L2U13-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "seed",
+   "item": "seed",
+   "options": [
+    "seed",
+    "sunset",
+    "stone",
+    "tractor"
+   ],
+   "answer": "seed"
+  },
+  {
+   "id": "L2U13-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "view",
+   "item": "view",
+   "options": [
+    "countryside",
+    "seed",
+    "view",
+    "sunset"
+   ],
+   "answer": "view"
+  },
+  {
+   "id": "L2U13-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wood",
+   "item": "wood",
+   "options": [
+    "mountain",
+    "island",
+    "tractor",
+    "wood"
+   ],
+   "answer": "wood"
+  },
+  {
+   "id": "L2U13-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fence",
+   "item": "fence",
+   "options": [
+    "plant",
+    "shell",
+    "village",
+    "fence"
+   ],
+   "answer": "fence"
+  },
+  {
+   "id": "L2U13-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tractor",
+   "item": "tractor",
+   "options": [
+    "island",
+    "tractor",
+    "field",
+    "hill"
+   ],
+   "answer": "tractor"
+  },
+  {
+   "id": "L2U13-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "buffalo",
+   "item": "buffalo",
+   "options": [
+    "stone",
+    "shell",
+    "buffalo",
+    "view"
+   ],
+   "answer": "buffalo"
+  },
+  {
+   "id": "L2U13-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sunset",
+   "item": "sunset",
+   "options": [
+    "sunset",
+    "stone",
+    "hill",
+    "shell"
+   ],
+   "answer": "sunset"
+  },
+  {
+   "id": "L2U13-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "river",
+   "item": "river",
+   "options": [
+    "river",
+    "hill",
+    "mud",
+    "root"
+   ],
+   "answer": "river"
+  },
+  {
+   "id": "L2U13-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rice field",
+   "item": "rice field",
+   "options": [
+    "mountain",
+    "stone",
+    "field",
+    "rice field"
+   ],
+   "answer": "rice field"
+  },
+  {
+   "id": "L2U13-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "waterfall",
+   "item": "waterfall",
+   "options": [
+    "fresh",
+    "wood",
+    "waterfall",
+    "island"
+   ],
+   "answer": "waterfall"
+  },
+  {
+   "id": "L2U13-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cave",
+   "item": "cave",
+   "options": [
+    "countryside",
+    "sand",
+    "plant",
+    "cave"
+   ],
+   "answer": "cave"
+  },
+  {
+   "id": "L2U13-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sand",
+   "item": "sand",
+   "options": [
+    "mountain",
+    "shell",
+    "sand",
+    "sunset"
+   ],
+   "answer": "sand"
+  },
+  {
+   "id": "L2U13-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pond",
+   "item": "pond",
+   "options": [
+    "seed",
+    "grow",
+    "countryside",
+    "pond"
+   ],
+   "answer": "pond"
+  },
+  {
+   "id": "L2U13-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "path",
+   "item": "path",
+   "options": [
+    "path",
+    "air",
+    "view",
+    "field"
+   ],
+   "answer": "path"
+  },
+  {
+   "id": "L2U13-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "grow",
+   "item": "grow",
+   "options": [
+    "grow",
+    "village",
+    "view",
+    "mountain"
+   ],
+   "answer": "grow"
+  },
+  {
+   "id": "L2U13-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "root",
+   "item": "root",
+   "options": [
+    "root",
+    "mud",
+    "buffalo",
+    "field"
+   ],
+   "answer": "root"
+  },
+  {
+   "id": "L2U13-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fresh",
+   "item": "fresh",
+   "options": [
+    "island",
+    "grow",
+    "fresh",
+    "mud"
+   ],
+   "answer": "fresh"
+  },
+  {
+   "id": "L2U13-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "air",
+   "item": "air",
+   "options": [
+    "plant",
+    "mountain",
+    "shell",
+    "air"
+   ],
+   "answer": "air"
+  },
+  {
+   "id": "L2U13-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mud",
+   "item": "mud",
+   "options": [
+    "grow",
+    "mud",
+    "sunset",
+    "village"
+   ],
+   "answer": "mud"
+  },
+  {
+   "id": "L2U13-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "countryside",
+   "answer": "countryside"
+  },
+  {
+   "id": "L2U13-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mountain",
+   "answer": "mountain"
+  },
+  {
+   "id": "L2U13-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hill",
+   "answer": "hill"
+  },
+  {
+   "id": "L2U13-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "field",
+   "answer": "field"
+  },
+  {
+   "id": "L2U13-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "village",
+   "answer": "village"
+  },
+  {
+   "id": "L2U13-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "island",
+   "answer": "island"
+  },
+  {
+   "id": "L2U13-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shell",
+   "answer": "shell"
+  },
+  {
+   "id": "L2U13-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "stone",
+   "answer": "stone"
+  },
+  {
+   "id": "L2U13-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "plant",
+   "answer": "plant"
+  },
+  {
+   "id": "L2U13-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "seed",
+   "answer": "seed"
+  },
+  {
+   "id": "L2U13-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "view",
+   "answer": "view"
+  },
+  {
+   "id": "L2U13-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wood",
+   "answer": "wood"
+  },
+  {
+   "id": "L2U13-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fence",
+   "answer": "fence"
+  },
+  {
+   "id": "L2U13-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tractor",
+   "answer": "tractor"
+  },
+  {
+   "id": "L2U13-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "buffalo",
+   "answer": "buffalo"
+  },
+  {
+   "id": "L2U13-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sunset",
+   "answer": "sunset"
+  },
+  {
+   "id": "L2U13-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandparents live in the countryside.",
+   "item": "countryside",
+   "answer": "My grandparents live in the countryside."
+  },
+  {
+   "id": "L2U13-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mountain is very high.",
+   "item": "mountain",
+   "answer": "The mountain is very high."
+  },
+  {
+   "id": "L2U13-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ducks swim in the river.",
+   "item": "river",
+   "answer": "Ducks swim in the river."
+  },
+  {
+   "id": "L2U13-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We walk up the hill.",
+   "item": "hill",
+   "answer": "We walk up the hill."
+  },
+  {
+   "id": "L2U13-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cows eat grass in the field.",
+   "item": "field",
+   "answer": "Cows eat grass in the field."
+  },
+  {
+   "id": "L2U13-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rice field is green.",
+   "item": "rice field",
+   "answer": "The rice field is green."
+  },
+  {
+   "id": "L2U13-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandma lives in a small village.",
+   "item": "village",
+   "answer": "My grandma lives in a small village."
+  },
+  {
+   "id": "L2U13-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We took a boat to the island.",
+   "item": "island",
+   "answer": "We took a boat to the island."
+  },
+  {
+   "id": "L2U13-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The waterfall is very beautiful.",
+   "item": "waterfall",
+   "answer": "The waterfall is very beautiful."
+  },
+  {
+   "id": "L2U13-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's dark in the cave.",
+   "item": "cave",
+   "answer": "It's dark in the cave."
+  },
+  {
+   "id": "L2U13-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play in the sand.",
+   "item": "sand",
+   "answer": "I play in the sand."
+  },
+  {
+   "id": "L2U13-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I found a shell on the beach.",
+   "item": "shell",
+   "answer": "I found a shell on the beach."
+  },
+  {
+   "id": "L2U13-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are fish in the pond.",
+   "item": "pond",
+   "answer": "There are fish in the pond."
+  },
+  {
+   "id": "L2U13-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't throw stones.",
+   "item": "stone",
+   "answer": "Don't throw stones."
+  },
+  {
+   "id": "L2U13-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Walk on the path.",
+   "item": "path",
+   "answer": "Walk on the path."
+  },
+  {
+   "id": "L2U13-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water the plants, please.",
+   "item": "plant",
+   "answer": "Water the plants, please."
+  },
+  {
+   "id": "L2U13-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plant the seeds in spring.",
+   "item": "seed",
+   "answer": "Plant the seeds in spring."
+  },
+  {
+   "id": "L2U13-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plants grow in the sun.",
+   "item": "grow",
+   "answer": "Plants grow in the sun."
+  },
+  {
+   "id": "L2U13-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tree has long roots.",
+   "item": "root",
+   "answer": "The tree has long roots."
+  },
+  {
+   "id": "L2U13-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The air is fresh here.",
+   "item": "fresh",
+   "answer": "The air is fresh here."
+  },
+  {
+   "id": "L2U13-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plants need air and water.",
+   "item": "air",
+   "answer": "Plants need air and water."
+  },
+  {
+   "id": "L2U13-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What a beautiful view!",
+   "item": "view",
+   "answer": "What a beautiful view!"
+  },
+  {
+   "id": "L2U13-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The table is made of wood.",
+   "item": "wood",
+   "answer": "The table is made of wood."
+  },
+  {
+   "id": "L2U13-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My boots are full of mud.",
+   "item": "mud",
+   "answer": "My boots are full of mud."
+  },
+  {
+   "id": "L2U13-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The horse is behind the fence.",
+   "item": "fence",
+   "answer": "The horse is behind the fence."
+  },
+  {
+   "id": "L2U13-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The farmer drives a tractor.",
+   "item": "tractor",
+   "answer": "The farmer drives a tractor."
+  },
+  {
+   "id": "L2U13-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The buffalo works in the rice field.",
+   "item": "buffalo",
+   "answer": "The buffalo works in the rice field."
+  },
+  {
+   "id": "L2U13-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We watch the sunset.",
+   "item": "sunset",
+   "answer": "We watch the sunset."
+  },
+  {
+   "id": "L2U13-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a pond in the village.",
+   "answer": "There is a pond in the village."
+  },
+  {
+   "id": "L2U13-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a river in the village.",
+   "answer": "There is a river in the village."
+  },
+  {
+   "id": "L2U13-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a school in the village.",
+   "answer": "There is a school in the village."
+  },
+  {
+   "id": "L2U13-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a mountain.",
+   "answer": "I can see a mountain."
+  },
+  {
+   "id": "L2U13-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a waterfall.",
+   "answer": "I can see a waterfall."
+  },
+  {
+   "id": "L2U13-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can see a buffalo.",
+   "answer": "I can see a buffalo."
+  },
+  {
+   "id": "L2U13-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The countryside is quieter than the city.",
+   "answer": "The countryside is quieter than the city."
+  },
+  {
+   "id": "L2U13-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The countryside is greener than the city.",
+   "answer": "The countryside is greener than the city."
+  },
+  {
+   "id": "L2U13-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The countryside is cooler than the city.",
+   "answer": "The countryside is cooler than the city."
+  },
+  {
+   "id": "L2U13-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Where does your grandma live?",
+   "answer": "In a village in the countryside."
+  },
+  {
+   "id": "L2U13-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What can you see there?",
+   "answer": "I can see a buffalo and rice fields."
+  },
+  {
+   "id": "L2U13-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it quiet?",
+   "answer": "Yes. The air is very fresh."
+  },
+  {
+   "id": "L2U13-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay! What do they need?",
+   "answer": "Water, air and sun."
+  },
+  {
+   "id": "L2U13-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "countryside",
+   "options": [
+    "wood",
+    "field",
+    "countryside"
+   ],
+   "answer": "countryside"
+  },
+  {
+   "id": "L2U13-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mountain",
+   "options": [
+    "seed",
+    "wood",
+    "mountain"
+   ],
+   "answer": "mountain"
+  },
+  {
+   "id": "L2U13-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hill",
+   "options": [
+    "stone",
+    "sunset",
+    "hill"
+   ],
+   "answer": "hill"
+  },
+  {
+   "id": "L2U13-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "field",
+   "options": [
+    "view",
+    "sunset",
+    "field"
+   ],
+   "answer": "field"
+  },
+  {
+   "id": "L2U13-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "village",
+   "options": [
+    "shell",
+    "village",
+    "mountain"
+   ],
+   "answer": "village"
+  },
+  {
+   "id": "L2U13-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "island",
+   "options": [
+    "village",
+    "seed",
+    "island"
+   ],
+   "answer": "island"
+  },
+  {
+   "id": "L2U13-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shell",
+   "options": [
+    "sunset",
+    "island",
+    "shell"
+   ],
+   "answer": "shell"
+  },
+  {
+   "id": "L2U13-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "stone",
+   "options": [
+    "island",
+    "hill",
+    "stone"
+   ],
+   "answer": "stone"
+  },
+  {
+   "id": "L2U13-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "plant",
+   "options": [
+    "countryside",
+    "plant",
+    "village"
+   ],
+   "answer": "plant"
+  },
+  {
+   "id": "L2U13-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "seed",
+   "options": [
+    "plant",
+    "seed",
+    "hill"
+   ],
+   "answer": "seed"
+  },
+  {
+   "id": "L2U13-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "view",
+   "options": [
+    "fence",
+    "mountain",
+    "view"
+   ],
+   "answer": "view"
+  },
+  {
+   "id": "L2U13-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wood",
+   "options": [
+    "view",
+    "wood",
+    "buffalo"
+   ],
+   "answer": "wood"
+  },
+  {
+   "id": "L2U13-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fence",
+   "options": [
+    "shell",
+    "stone",
+    "fence"
+   ],
+   "answer": "fence"
+  },
+  {
+   "id": "L2U13-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tractor",
+   "options": [
+    "stone",
+    "tractor",
+    "shell"
+   ],
+   "answer": "tractor"
+  },
+  {
+   "id": "L2U13-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "buffalo",
+   "options": [
+    "buffalo",
+    "hill",
+    "field"
+   ],
+   "answer": "buffalo"
+  },
+  {
+   "id": "L2U13-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sunset",
+   "options": [
+    "view",
+    "sunset",
+    "village"
+   ],
+   "answer": "sunset"
+  },
+  {
+   "id": "L2U13-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandparents live in the ___.",
+   "item": "countryside",
+   "options": [
+    "countryside",
+    "air",
+    "fresh"
+   ],
+   "answer": "countryside"
+  },
+  {
+   "id": "L2U13-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very high.",
+   "item": "mountain",
+   "options": [
+    "mountain",
+    "fresh",
+    "stone"
+   ],
+   "answer": "mountain"
+  },
+  {
+   "id": "L2U13-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ducks swim in the ___.",
+   "item": "river",
+   "options": [
+    "view",
+    "river",
+    "stone"
+   ],
+   "answer": "river"
+  },
+  {
+   "id": "L2U13-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We walk up the ___.",
+   "item": "hill",
+   "options": [
+    "grow",
+    "hill",
+    "view"
+   ],
+   "answer": "hill"
+  },
+  {
+   "id": "L2U13-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cows eat grass in the ___.",
+   "item": "field",
+   "options": [
+    "view",
+    "root",
+    "field"
+   ],
+   "answer": "field"
+  },
+  {
+   "id": "L2U13-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandma lives in a small ___.",
+   "item": "village",
+   "options": [
+    "path",
+    "village",
+    "field"
+   ],
+   "answer": "village"
+  },
+  {
+   "id": "L2U13-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We took a boat to the ___.",
+   "item": "island",
+   "options": [
+    "view",
+    "fresh",
+    "island"
+   ],
+   "answer": "island"
+  },
+  {
+   "id": "L2U13-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very beautiful.",
+   "item": "waterfall",
+   "options": [
+    "view",
+    "air",
+    "waterfall"
+   ],
+   "answer": "waterfall"
+  },
+  {
+   "id": "L2U13-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's dark in the ___.",
+   "item": "cave",
+   "options": [
+    "air",
+    "grow",
+    "cave"
+   ],
+   "answer": "cave"
+  },
+  {
+   "id": "L2U13-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I play in the ___.",
+   "item": "sand",
+   "options": [
+    "air",
+    "stone",
+    "sand"
+   ],
+   "answer": "sand"
+  },
+  {
+   "id": "L2U13-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I found a ___ on the beach.",
+   "item": "shell",
+   "options": [
+    "view",
+    "grow",
+    "shell"
+   ],
+   "answer": "shell"
+  },
+  {
+   "id": "L2U13-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are fish in the ___.",
+   "item": "pond",
+   "options": [
+    "grow",
+    "pond",
+    "view"
+   ],
+   "answer": "pond"
+  },
+  {
+   "id": "L2U13-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't throw ___.",
+   "item": "stone",
+   "options": [
+    "hills",
+    "views",
+    "stones"
+   ],
+   "answer": "stones"
+  },
+  {
+   "id": "L2U13-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Walk on the ___.",
+   "item": "path",
+   "options": [
+    "path",
+    "root",
+    "grow"
+   ],
+   "answer": "path"
+  },
+  {
+   "id": "L2U13-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Water the ___, please.",
+   "item": "plant",
+   "options": [
+    "villages",
+    "stones",
+    "plants"
+   ],
+   "answer": "plants"
+  },
+  {
+   "id": "L2U13-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plant the ___ in spring.",
+   "item": "seed",
+   "options": [
+    "seeds",
+    "views",
+    "villages"
+   ],
+   "answer": "seeds"
+  },
+  {
+   "id": "L2U13-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plants ___ in the sun.",
+   "item": "grow",
+   "options": [
+    "field",
+    "grow",
+    "seed"
+   ],
+   "answer": "grow"
+  },
+  {
+   "id": "L2U13-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The tree has long ___.",
+   "item": "root",
+   "options": [
+    "hills",
+    "villages",
+    "roots"
+   ],
+   "answer": "roots"
+  },
+  {
+   "id": "L2U13-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The air is ___ here.",
+   "item": "fresh",
+   "options": [
+    "fresh",
+    "wood",
+    "village"
+   ],
+   "answer": "fresh"
+  },
+  {
+   "id": "L2U13-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plants need ___ and water.",
+   "item": "air",
+   "options": [
+    "pond",
+    "air",
+    "fence"
+   ],
+   "answer": "air"
+  },
+  {
+   "id": "L2U13-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What a beautiful ___!",
+   "item": "view",
+   "options": [
+    "view",
+    "tractor",
+    "mountain"
+   ],
+   "answer": "view"
+  },
+  {
+   "id": "L2U13-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The table is made of ___.",
+   "item": "wood",
+   "options": [
+    "fresh",
+    "view",
+    "wood"
+   ],
+   "answer": "wood"
+  },
+  {
+   "id": "L2U13-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My boots are full of ___.",
+   "item": "mud",
+   "options": [
+    "grow",
+    "stone",
+    "mud"
+   ],
+   "answer": "mud"
+  },
+  {
+   "id": "L2U13-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The horse is behind the ___.",
+   "item": "fence",
+   "options": [
+    "stone",
+    "fresh",
+    "fence"
+   ],
+   "answer": "fence"
+  },
+  {
+   "id": "L2U13-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The farmer drives a ___.",
+   "item": "tractor",
+   "options": [
+    "grow",
+    "tractor",
+    "view"
+   ],
+   "answer": "tractor"
+  },
+  {
+   "id": "L2U13-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ works in the rice field.",
+   "item": "buffalo",
+   "options": [
+    "buffalo",
+    "air",
+    "root"
+   ],
+   "answer": "buffalo"
+  },
+  {
+   "id": "L2U13-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We watch the ___.",
+   "item": "sunset",
+   "options": [
+    "sunset",
+    "village",
+    "air"
+   ],
+   "answer": "sunset"
+  },
+  {
+   "id": "L2U13-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My grandparents live in the countryside.",
+   "item": "countryside",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The mountain is very high.",
+   "item": "hill",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We walk up the hill.",
+   "item": "hill",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Cows eat grass in the field.",
+   "item": "village",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My grandma lives in a small village.",
+   "item": "village",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We took a boat to the island.",
+   "item": "shell",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I found a shell on the beach.",
+   "item": "shell",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Don't throw stones.",
+   "item": "plant",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Water the plants, please.",
+   "item": "plant",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Plant the seeds in spring.",
+   "item": "view",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What a beautiful view!",
+   "item": "view",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The table is made of wood.",
+   "item": "fence",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The horse is behind the fence.",
+   "item": "fence",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The farmer drives a tractor.",
+   "item": "buffalo",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The buffalo works in the rice field.",
+   "item": "buffalo",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U13-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We watch the sunset.",
+   "item": "countryside",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U13-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U13-R01",
+   "text_en": "Where is Grandpa's farm?",
+   "options": [
+    "In the city.",
+    "On an island.",
+    "Near a river."
+   ],
+   "answer": "Near a river."
+  },
+  {
+   "id": "L2U13-Q146",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U13-R01",
+   "text_en": "What do Lan and Grandpa watch in the evening?",
+   "options": [
+    "A film.",
+    "The rain.",
+    "The sunset."
+   ],
+   "answer": "The sunset."
+  },
+  {
+   "id": "L2U13-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "countryside",
+   "item": "countryside",
+   "answer": "countryside"
+  },
+  {
+   "id": "L2U13-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "mountain",
+   "item": "mountain",
+   "answer": "mountain"
+  },
+  {
+   "id": "L2U13-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "river",
+   "item": "river",
+   "answer": "river"
+  },
+  {
+   "id": "L2U13-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "hill",
+   "item": "hill",
+   "answer": "hill"
+  },
+  {
+   "id": "L2U13-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "field",
+   "item": "field",
+   "answer": "field"
+  },
+  {
+   "id": "L2U13-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "village",
+   "item": "village",
+   "answer": "village"
+  },
+  {
+   "id": "L2U13-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "island",
+   "item": "island",
+   "answer": "island"
+  },
+  {
+   "id": "L2U13-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "waterfall",
+   "item": "waterfall",
+   "answer": "waterfall"
+  },
+  {
+   "id": "L2U13-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My grandparents live in the countryside.",
+   "answer": "My grandparents live in the countryside."
+  },
+  {
+   "id": "L2U13-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The mountain is very high.",
+   "answer": "The mountain is very high."
+  },
+  {
+   "id": "L2U13-Q157",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Ducks swim in the river.",
+   "answer": "Ducks swim in the river."
+  }
+ ]
+}

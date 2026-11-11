@@ -1,0 +1,3314 @@
+{
+ "id": "L5U03",
+ "level": 5,
+ "unit": 3,
+ "topic_en": "Media and online safety",
+ "topic_vi": "Truyền thông và an toàn trên mạng",
+ "can_do_vi": [
+  "Nói về các loại phương tiện truyền thông",
+  "Biết các quy tắc an toàn khi dùng internet"
+ ],
+ "grammar_note_vi": "Lời khuyên mạnh dùng \"must/mustn't\", nhẹ hơn dùng \"should/shouldn't\": \"You mustn't share your password.\" Nối hai việc bằng \"before/after\": \"Ask a parent before you download an app.\"",
+ "items": [
+  {
+   "id": "L5U03-W01",
+   "type": "word",
+   "en": "media",
+   "vi": "phương tiện truyền thông",
+   "ipa": "/ˈmidiə/",
+   "syllables": [
+    "media"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "TV and newspapers are types of media.",
+   "example_vi": "Ti vi và báo là các loại phương tiện truyền thông.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W02",
+   "type": "word",
+   "en": "film",
+   "vi": "bộ phim",
+   "ipa": "/fɪlm/",
+   "syllables": [
+    "film"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F39E-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U03",
+   "example_en": "Let's watch a film tonight.",
+   "example_vi": "Tối nay mình xem phim nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W03",
+   "type": "word",
+   "en": "cartoon",
+   "vi": "phim hoạt hình",
+   "ipa": "/kɑrˈtun/",
+   "syllables": [
+    "car",
+    "toon"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "My little brother loves cartoons.",
+   "example_vi": "Em trai tớ mê phim hoạt hình.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W04",
+   "type": "word",
+   "en": "programme",
+   "vi": "chương trình",
+   "ipa": "/ˈproʊˌɡræm/",
+   "syllables": [
+    "pro",
+    "gramme"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "This is my favourite TV programme.",
+   "example_vi": "Đây là chương trình TV tớ thích nhất.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W05",
+   "type": "word",
+   "en": "channel",
+   "vi": "kênh",
+   "ipa": "/ˈtʃænəl/",
+   "syllables": [
+    "chan",
+    "nel"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4E1"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Can you change the channel?",
+   "example_vi": "Cậu chuyển kênh được không?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W06",
+   "type": "word",
+   "en": "advert",
+   "vi": "quảng cáo",
+   "ipa": "/advert/",
+   "syllables": [
+    "advert"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "There are too many adverts on TV.",
+   "example_vi": "Trên TV có quá nhiều quảng cáo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W07",
+   "type": "word",
+   "en": "newspaper",
+   "vi": "tờ báo",
+   "ipa": "/ˈnuzˌpeɪpər/",
+   "syllables": [
+    "news",
+    "pa",
+    "per"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F5DE-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U03",
+   "example_en": "Grandpa reads the newspaper every morning.",
+   "example_vi": "Sáng nào ông cũng đọc báo.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W08",
+   "type": "word",
+   "en": "magazine",
+   "vi": "tạp chí",
+   "ipa": "/ˈmæɡəˌzin/",
+   "syllables": [
+    "mag",
+    "a",
+    "zine"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4F0"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I read a science magazine for children.",
+   "example_vi": "Tớ đọc tạp chí khoa học cho trẻ em.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W09",
+   "type": "word",
+   "en": "article",
+   "vi": "bài báo",
+   "ipa": "/ˈɑrtɪkəl/",
+   "syllables": [
+    "ar",
+    "ti",
+    "cle"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I wrote an article for the school magazine.",
+   "example_vi": "Tớ viết một bài cho tạp chí của trường.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W10",
+   "type": "word",
+   "en": "reporter",
+   "vi": "phóng viên",
+   "ipa": "/rɪˈpɔrtər/",
+   "syllables": [
+    "reporter"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F399-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "The reporter asked us some questions.",
+   "example_vi": "Phóng viên hỏi bọn tớ vài câu.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W11",
+   "type": "word",
+   "en": "interview",
+   "vi": "phỏng vấn",
+   "ipa": "/ˈɪntərvˌju/",
+   "syllables": [
+    "in",
+    "ter",
+    "view"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "We had an interview with a famous writer.",
+   "example_vi": "Bọn tớ phỏng vấn một nhà văn nổi tiếng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W12",
+   "type": "word",
+   "en": "website",
+   "vi": "trang web",
+   "ipa": "/ˈwɛbˌsaɪt/",
+   "syllables": [
+    "web",
+    "site"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F310"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "This website has fun games for learning.",
+   "example_vi": "Trang web này có trò chơi học tập vui.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W13",
+   "type": "word",
+   "en": "search",
+   "vi": "tìm kiếm",
+   "ipa": "/sʌrtʃ/",
+   "syllables": [
+    "search"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F50D"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I searched for information about whales.",
+   "example_vi": "Tớ tìm thông tin về cá voi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W14",
+   "type": "word",
+   "en": "app",
+   "vi": "ứng dụng",
+   "ipa": "/æp/",
+   "syllables": [
+    "app"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "This app helps me learn English.",
+   "example_vi": "Ứng dụng này giúp tớ học tiếng Anh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W15",
+   "type": "word",
+   "en": "download",
+   "vi": "tải về",
+   "ipa": "/ˈdaʊnˌloʊd/",
+   "syllables": [
+    "down",
+    "load"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Ask a parent before you download a game.",
+   "example_vi": "Hỏi bố mẹ trước khi tải trò chơi về.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W16",
+   "type": "word",
+   "en": "upload",
+   "vi": "tải lên",
+   "ipa": "/ˈʌˌploʊd/",
+   "syllables": [
+    "up",
+    "load"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "2B06-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Don't upload photos without permission.",
+   "example_vi": "Đừng đăng ảnh khi chưa được phép.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W17",
+   "type": "word",
+   "en": "link",
+   "vi": "đường dẫn",
+   "ipa": "/lɪŋk/",
+   "syllables": [
+    "link"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F517"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Never click on a strange link.",
+   "example_vi": "Đừng bao giờ bấm vào đường dẫn lạ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W18",
+   "type": "word",
+   "en": "comment",
+   "vi": "bình luận",
+   "ipa": "/ˈkɑmɛnt/",
+   "syllables": [
+    "com",
+    "ment"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Always write kind comments.",
+   "example_vi": "Hãy luôn viết bình luận tử tế.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W19",
+   "type": "word",
+   "en": "post",
+   "vi": "đăng (bài)",
+   "ipa": "/poʊst/",
+   "syllables": [
+    "post"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4CC"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Think before you post anything online.",
+   "example_vi": "Hãy suy nghĩ trước khi đăng gì lên mạng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W20",
+   "type": "word",
+   "en": "selfie",
+   "vi": "ảnh tự chụp",
+   "ipa": "/ˈsɛlˌfi/",
+   "syllables": [
+    "self",
+    "ie"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F933"
+   },
+   "picturable": true,
+   "cat": "L5U03",
+   "example_en": "We took a selfie at the zoo.",
+   "example_vi": "Bọn tớ chụp ảnh tự sướng ở sở thú.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W21",
+   "type": "phrase",
+   "en": "social media",
+   "vi": "mạng xã hội",
+   "ipa": "/ˈsoʊʃəl ˈmidiə/",
+   "syllables": [
+    "so",
+    "cial",
+    "media"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "You must be thirteen to use most social media.",
+   "example_vi": "Phải đủ mười ba tuổi mới được dùng hầu hết mạng xã hội.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W22",
+   "type": "word",
+   "en": "username",
+   "vi": "tên người dùng",
+   "ipa": "/username/",
+   "syllables": [
+    "username"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F464"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Choose a username without your real name.",
+   "example_vi": "Chọn tên người dùng không có tên thật của cậu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W23",
+   "type": "word",
+   "en": "private",
+   "vi": "riêng tư",
+   "ipa": "/ˈpraɪvət/",
+   "syllables": [
+    "pri",
+    "vate"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F512"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Keep your password private.",
+   "example_vi": "Giữ mật khẩu riêng tư.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W24",
+   "type": "word",
+   "en": "personal",
+   "vi": "cá nhân",
+   "ipa": "/ˈpʌrsɪnəl/",
+   "syllables": [
+    "per",
+    "son",
+    "al"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Don't share personal information online.",
+   "example_vi": "Đừng chia sẻ thông tin cá nhân trên mạng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W25",
+   "type": "word",
+   "en": "block",
+   "vi": "chặn",
+   "ipa": "/blɑk/",
+   "syllables": [
+    "block"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "26D4"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "You can block people who are unkind.",
+   "example_vi": "Cậu có thể chặn những người không tử tế.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W26",
+   "type": "word",
+   "en": "delete",
+   "vi": "xoá",
+   "ipa": "/dɪˈlit/",
+   "syllables": [
+    "delete"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F5D1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I deleted the old photos.",
+   "example_vi": "Tớ đã xoá những ảnh cũ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W27",
+   "type": "word",
+   "en": "fake",
+   "vi": "giả",
+   "ipa": "/feɪk/",
+   "syllables": [
+    "fake"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Some news on the internet is fake.",
+   "example_vi": "Một số tin trên mạng là tin giả.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W28",
+   "type": "word",
+   "en": "real",
+   "vi": "thật",
+   "ipa": "/ril/",
+   "syllables": [
+    "real"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Is this photo real or fake?",
+   "example_vi": "Bức ảnh này thật hay giả?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W29",
+   "type": "word",
+   "en": "virus",
+   "vi": "vi-rút",
+   "ipa": "/ˈvaɪrəs/",
+   "syllables": [
+    "virus"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F9A0"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "A virus can damage your computer.",
+   "example_vi": "Vi-rút có thể làm hỏng máy tính.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W30",
+   "type": "word",
+   "en": "device",
+   "vi": "thiết bị",
+   "ipa": "/dɪˈvaɪs/",
+   "syllables": [
+    "de",
+    "vice"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Turn off your devices at bedtime.",
+   "example_vi": "Tắt các thiết bị khi đến giờ đi ngủ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W31",
+   "type": "word",
+   "en": "console",
+   "vi": "máy chơi game",
+   "ipa": "/ˈkɑnsoʊl/",
+   "syllables": [
+    "con",
+    "sole"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F579-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U03",
+   "example_en": "My cousin has a new game console.",
+   "example_vi": "Anh họ tớ có máy chơi game mới.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W32",
+   "type": "word",
+   "en": "chat",
+   "vi": "trò chuyện",
+   "ipa": "/tʃæt/",
+   "syllables": [
+    "chat"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I chat with my grandma on video calls.",
+   "example_vi": "Tớ trò chuyện với bà qua gọi video.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W33",
+   "type": "word",
+   "en": "permission",
+   "vi": "sự cho phép",
+   "ipa": "/pərˈmɪʃən/",
+   "syllables": [
+    "per",
+    "mis",
+    "sion"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Ask for permission before you use the tablet.",
+   "example_vi": "Xin phép trước khi dùng máy tính bảng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W34",
+   "type": "word",
+   "en": "notice",
+   "vi": "để ý, nhận thấy",
+   "ipa": "/ˈnoʊtɪs/",
+   "syllables": [
+    "no",
+    "tice"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Tell an adult if you notice something strange.",
+   "example_vi": "Nói với người lớn nếu con thấy điều gì lạ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W35",
+   "type": "phrase",
+   "en": "screen time",
+   "vi": "thời gian dùng màn hình",
+   "ipa": "/skrin taɪm/",
+   "syllables": [
+    "screen",
+    "time"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "My screen time is one hour a day.",
+   "example_vi": "Mỗi ngày tớ dùng màn hình một tiếng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W36",
+   "type": "word",
+   "en": "offline",
+   "vi": "không dùng mạng",
+   "ipa": "/ˈɔˌflaɪn/",
+   "syllables": [
+    "off",
+    "line"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F4F4"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Spend time offline with your family.",
+   "example_vi": "Dành thời gian không dùng mạng với gia đình.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W37",
+   "type": "phrase",
+   "en": "log in",
+   "vi": "đăng nhập",
+   "ipa": "/lɔɡ ɪn/",
+   "syllables": [
+    "log",
+    "in"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F511"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Log in with your username and password.",
+   "example_vi": "Đăng nhập bằng tên và mật khẩu.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W38",
+   "type": "phrase",
+   "en": "log out",
+   "vi": "đăng xuất",
+   "ipa": "/lɔɡ aʊt/",
+   "syllables": [
+    "log",
+    "out"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Always log out when you finish.",
+   "example_vi": "Luôn đăng xuất khi dùng xong.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W39",
+   "type": "word",
+   "en": "avatar",
+   "vi": "ảnh đại diện",
+   "ipa": "/ˈævəˌtɑr/",
+   "syllables": [
+    "avatar"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "My avatar is a cartoon cat.",
+   "example_vi": "Ảnh đại diện của tớ là một con mèo hoạt hình.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W40",
+   "type": "word",
+   "en": "entertainment",
+   "vi": "giải trí",
+   "ipa": "/ˌɛnərˈteɪnmənt/",
+   "syllables": [
+    "en",
+    "ter",
+    "tain",
+    "ment"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F3AA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "Films and music are entertainment.",
+   "example_vi": "Phim và nhạc là để giải trí.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W41",
+   "type": "word",
+   "en": "documentary",
+   "vi": "phim tài liệu",
+   "ipa": "/ˌdɑkjəˈmɛnəri/",
+   "syllables": [
+    "documentary"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3A5"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "We watched a documentary about penguins.",
+   "example_vi": "Bọn tớ xem phim tài liệu về chim cánh cụt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W42",
+   "type": "word",
+   "en": "episode",
+   "vi": "tập (phim)",
+   "ipa": "/ˈɛpɪˌsoʊd/",
+   "syllables": [
+    "episode"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "I watch one episode every evening.",
+   "example_vi": "Tối nào tớ cũng xem một tập.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W43",
+   "type": "word",
+   "en": "series",
+   "vi": "loạt phim",
+   "ipa": "/ˈsɪriz/",
+   "syllables": [
+    "se",
+    "ries"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4FA"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "This cartoon series has ten episodes.",
+   "example_vi": "Loạt phim hoạt hình này có mười tập.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U03-W44",
+   "type": "word",
+   "en": "headline",
+   "vi": "tiêu đề",
+   "ipa": "/ˈhɛˌdlaɪn/",
+   "syllables": [
+    "head",
+    "line"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F5DE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U03",
+   "example_en": "The headline was about a new zoo.",
+   "example_vi": "Tiêu đề là về một sở thú mới.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U03-P01",
+   "en": "Never share your {x} online.",
+   "vi": "Đừng bao giờ chia sẻ {x} trên mạng.",
+   "slots": {
+    "x": [
+     "password",
+     "address",
+     "phone number",
+     "personal information"
+    ]
+   }
+  },
+  {
+   "id": "L5U03-P02",
+   "en": "Ask for permission before you {x}.",
+   "vi": "Hãy xin phép trước khi {x}.",
+   "slots": {
+    "x": [
+     "download an app",
+     "upload a photo",
+     "use the tablet"
+    ]
+   }
+  },
+  {
+   "id": "L5U03-P03",
+   "en": "My favourite {x} is about animals.",
+   "vi": "{x} yêu thích của tớ là về động vật.",
+   "slots": {
+    "x": [
+     "programme",
+     "documentary",
+     "magazine",
+     "cartoon"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U03-D01",
+   "title_vi": "An toàn trên mạng",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, someone sent me a message. They want my address.",
+     "vi": "Bi ơi, có người nhắn tin cho tớ. Họ muốn biết địa chỉ nhà tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Do you know them in real life?",
+     "vi": "Cậu có quen họ ngoài đời không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No. They are a stranger.",
+     "vi": "Không. Đó là người lạ."
+    },
+    {
+     "role": "Bi",
+     "en": "Then you mustn't share your address. Tell your parents now.",
+     "vi": "Vậy cậu không được chia sẻ địa chỉ. Hãy nói với bố mẹ ngay."
+    },
+    {
+     "role": "Kid",
+     "en": "Should I block them?",
+     "vi": "Tớ có nên chặn họ không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes. Your parents can help you block and report them.",
+     "vi": "Có. Bố mẹ sẽ giúp cậu chặn và báo cáo họ."
+    }
+   ]
+  },
+  {
+   "id": "L5U03-D02",
+   "title_vi": "Phim tài liệu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What are you watching?",
+     "vi": "Cậu đang xem gì thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "A documentary about whales. It's really interesting.",
+     "vi": "Phim tài liệu về cá voi. Hay lắm."
+    },
+    {
+     "role": "Bi",
+     "en": "How long is it?",
+     "vi": "Nó dài bao lâu?"
+    },
+    {
+     "role": "Kid",
+     "en": "Only one episode. Then I'll turn off the TV.",
+     "vi": "Chỉ một tập thôi. Sau đó tớ sẽ tắt TV."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "whales",
+    "options": [
+     "sharks",
+     "penguins"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "media"
+  },
+  {
+   "type": "dictate_word",
+   "target": "film"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cartoon"
+  },
+  {
+   "type": "dictate_word",
+   "target": "programme"
+  },
+  {
+   "type": "dictate_word",
+   "target": "channel"
+  },
+  {
+   "type": "dictate_word",
+   "target": "advert"
+  },
+  {
+   "type": "dictate_word",
+   "target": "newspaper"
+  },
+  {
+   "type": "dictate_word",
+   "target": "magazine"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "TV and newspapers are types of media."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Let's watch a film tonight."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My little brother loves cartoons."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Online, you should never|If someone sends me a strange message, I will|My favourite programme is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U03-R01",
+   "title_en": "Staying safe online",
+   "text_en": [
+    "The internet is useful and fun.",
+    "We can search for information, watch documentaries and chat with our family.",
+    "However, we must be careful.",
+    "First, never share personal information, such as your address, school or phone number.",
+    "Second, keep your password private, even from friends.",
+    "Third, don't click on strange links or download apps without permission.",
+    "Also, remember that some news online is fake.",
+    "If someone sends you an unkind message, don't reply.",
+    "Block them and tell an adult you trust.",
+    "Finally, don't forget to spend time offline.",
+    "Play outside, read books and talk to your family!"
+   ],
+   "questions": [
+    {
+     "q": "What information should you never share?",
+     "options": [
+      "Your address and phone number.",
+      "Your favourite colour.",
+      "Your favourite film."
+     ],
+     "answer": "Your address and phone number."
+    },
+    {
+     "q": "What should you do if someone sends an unkind message?",
+     "options": [
+      "Block them and tell an adult.",
+      "Reply quickly.",
+      "Send a message back."
+     ],
+     "answer": "Block them and tell an adult."
+    },
+    {
+     "q": "What does the writer say about news online?",
+     "options": [
+      "Some of it is fake.",
+      "All of it is true.",
+      "It is boring."
+     ],
+     "answer": "Some of it is fake."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U03-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "film",
+   "item": "film",
+   "options": [
+    "console",
+    "newspaper",
+    "selfie",
+    "film"
+   ],
+   "answer": "film"
+  },
+  {
+   "id": "L5U03-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "newspaper",
+   "item": "newspaper",
+   "options": [
+    "console",
+    "film",
+    "newspaper",
+    "selfie"
+   ],
+   "answer": "newspaper"
+  },
+  {
+   "id": "L5U03-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "selfie",
+   "item": "selfie",
+   "options": [
+    "film",
+    "selfie",
+    "newspaper",
+    "console"
+   ],
+   "answer": "selfie"
+  },
+  {
+   "id": "L5U03-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "console",
+   "item": "console",
+   "options": [
+    "newspaper",
+    "film",
+    "selfie",
+    "console"
+   ],
+   "answer": "console"
+  },
+  {
+   "id": "L5U03-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "media",
+   "item": "media",
+   "options": [
+    "cartoon",
+    "username",
+    "media",
+    "avatar"
+   ],
+   "answer": "media"
+  },
+  {
+   "id": "L5U03-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cartoon",
+   "item": "cartoon",
+   "options": [
+    "private",
+    "cartoon",
+    "post",
+    "newspaper"
+   ],
+   "answer": "cartoon"
+  },
+  {
+   "id": "L5U03-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "programme",
+   "item": "programme",
+   "options": [
+    "programme",
+    "magazine",
+    "screen time",
+    "log out"
+   ],
+   "answer": "programme"
+  },
+  {
+   "id": "L5U03-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "channel",
+   "item": "channel",
+   "options": [
+    "series",
+    "search",
+    "offline",
+    "channel"
+   ],
+   "answer": "channel"
+  },
+  {
+   "id": "L5U03-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "advert",
+   "item": "advert",
+   "options": [
+    "notice",
+    "advert",
+    "channel",
+    "virus"
+   ],
+   "answer": "advert"
+  },
+  {
+   "id": "L5U03-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "magazine",
+   "item": "magazine",
+   "options": [
+    "magazine",
+    "device",
+    "newspaper",
+    "comment"
+   ],
+   "answer": "magazine"
+  },
+  {
+   "id": "L5U03-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "article",
+   "item": "article",
+   "options": [
+    "entertainment",
+    "permission",
+    "article",
+    "private"
+   ],
+   "answer": "article"
+  },
+  {
+   "id": "L5U03-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reporter",
+   "item": "reporter",
+   "options": [
+    "social media",
+    "reporter",
+    "log out",
+    "post"
+   ],
+   "answer": "reporter"
+  },
+  {
+   "id": "L5U03-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "interview",
+   "item": "interview",
+   "options": [
+    "chat",
+    "comment",
+    "interview",
+    "console"
+   ],
+   "answer": "interview"
+  },
+  {
+   "id": "L5U03-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "website",
+   "item": "website",
+   "options": [
+    "website",
+    "private",
+    "article",
+    "notice"
+   ],
+   "answer": "website"
+  },
+  {
+   "id": "L5U03-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "search",
+   "item": "search",
+   "options": [
+    "offline",
+    "chat",
+    "article",
+    "search"
+   ],
+   "answer": "search"
+  },
+  {
+   "id": "L5U03-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "app",
+   "item": "app",
+   "options": [
+    "app",
+    "advert",
+    "channel",
+    "programme"
+   ],
+   "answer": "app"
+  },
+  {
+   "id": "L5U03-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "download",
+   "item": "download",
+   "options": [
+    "documentary",
+    "interview",
+    "download",
+    "avatar"
+   ],
+   "answer": "download"
+  },
+  {
+   "id": "L5U03-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "upload",
+   "item": "upload",
+   "options": [
+    "upload",
+    "magazine",
+    "newspaper",
+    "website"
+   ],
+   "answer": "upload"
+  },
+  {
+   "id": "L5U03-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "link",
+   "item": "link",
+   "options": [
+    "fake",
+    "permission",
+    "link",
+    "app"
+   ],
+   "answer": "link"
+  },
+  {
+   "id": "L5U03-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "comment",
+   "item": "comment",
+   "options": [
+    "entertainment",
+    "newspaper",
+    "comment",
+    "virus"
+   ],
+   "answer": "comment"
+  },
+  {
+   "id": "L5U03-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "post",
+   "item": "post",
+   "options": [
+    "post",
+    "interview",
+    "film",
+    "entertainment"
+   ],
+   "answer": "post"
+  },
+  {
+   "id": "L5U03-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "social media",
+   "item": "social media",
+   "options": [
+    "entertainment",
+    "screen time",
+    "social media",
+    "series"
+   ],
+   "answer": "social media"
+  },
+  {
+   "id": "L5U03-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "username",
+   "item": "username",
+   "options": [
+    "media",
+    "search",
+    "virus",
+    "username"
+   ],
+   "answer": "username"
+  },
+  {
+   "id": "L5U03-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "private",
+   "item": "private",
+   "options": [
+    "reporter",
+    "permission",
+    "upload",
+    "private"
+   ],
+   "answer": "private"
+  },
+  {
+   "id": "L5U03-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "personal",
+   "item": "personal",
+   "options": [
+    "episode",
+    "channel",
+    "personal",
+    "avatar"
+   ],
+   "answer": "personal"
+  },
+  {
+   "id": "L5U03-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "block",
+   "item": "block",
+   "options": [
+    "cartoon",
+    "personal",
+    "block",
+    "fake"
+   ],
+   "answer": "block"
+  },
+  {
+   "id": "L5U03-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "delete",
+   "item": "delete",
+   "options": [
+    "comment",
+    "social media",
+    "delete",
+    "search"
+   ],
+   "answer": "delete"
+  },
+  {
+   "id": "L5U03-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fake",
+   "item": "fake",
+   "options": [
+    "private",
+    "chat",
+    "website",
+    "fake"
+   ],
+   "answer": "fake"
+  },
+  {
+   "id": "L5U03-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "real",
+   "item": "real",
+   "options": [
+    "offline",
+    "console",
+    "real",
+    "channel"
+   ],
+   "answer": "real"
+  },
+  {
+   "id": "L5U03-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "virus",
+   "item": "virus",
+   "options": [
+    "newspaper",
+    "app",
+    "virus",
+    "log out"
+   ],
+   "answer": "virus"
+  },
+  {
+   "id": "L5U03-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "device",
+   "item": "device",
+   "options": [
+    "film",
+    "device",
+    "magazine",
+    "log in"
+   ],
+   "answer": "device"
+  },
+  {
+   "id": "L5U03-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chat",
+   "item": "chat",
+   "options": [
+    "block",
+    "chat",
+    "episode",
+    "link"
+   ],
+   "answer": "chat"
+  },
+  {
+   "id": "L5U03-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "permission",
+   "item": "permission",
+   "options": [
+    "reporter",
+    "permission",
+    "series",
+    "personal"
+   ],
+   "answer": "permission"
+  },
+  {
+   "id": "L5U03-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "notice",
+   "item": "notice",
+   "options": [
+    "link",
+    "fake",
+    "reporter",
+    "notice"
+   ],
+   "answer": "notice"
+  },
+  {
+   "id": "L5U03-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "screen time",
+   "item": "screen time",
+   "options": [
+    "log out",
+    "screen time",
+    "private",
+    "device"
+   ],
+   "answer": "screen time"
+  },
+  {
+   "id": "L5U03-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "offline",
+   "item": "offline",
+   "options": [
+    "episode",
+    "real",
+    "log out",
+    "offline"
+   ],
+   "answer": "offline"
+  },
+  {
+   "id": "L5U03-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "log in",
+   "item": "log in",
+   "options": [
+    "device",
+    "magazine",
+    "log in",
+    "entertainment"
+   ],
+   "answer": "log in"
+  },
+  {
+   "id": "L5U03-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "log out",
+   "item": "log out",
+   "options": [
+    "link",
+    "log out",
+    "username",
+    "upload"
+   ],
+   "answer": "log out"
+  },
+  {
+   "id": "L5U03-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "avatar",
+   "item": "avatar",
+   "options": [
+    "avatar",
+    "series",
+    "entertainment",
+    "offline"
+   ],
+   "answer": "avatar"
+  },
+  {
+   "id": "L5U03-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "entertainment",
+   "item": "entertainment",
+   "options": [
+    "link",
+    "headline",
+    "entertainment",
+    "cartoon"
+   ],
+   "answer": "entertainment"
+  },
+  {
+   "id": "L5U03-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "documentary",
+   "item": "documentary",
+   "options": [
+    "screen time",
+    "documentary",
+    "series",
+    "app"
+   ],
+   "answer": "documentary"
+  },
+  {
+   "id": "L5U03-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "episode",
+   "item": "episode",
+   "options": [
+    "screen time",
+    "episode",
+    "console",
+    "reporter"
+   ],
+   "answer": "episode"
+  },
+  {
+   "id": "L5U03-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "series",
+   "item": "series",
+   "options": [
+    "series",
+    "username",
+    "media",
+    "log in"
+   ],
+   "answer": "series"
+  },
+  {
+   "id": "L5U03-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "headline",
+   "item": "headline",
+   "options": [
+    "media",
+    "interview",
+    "cartoon",
+    "headline"
+   ],
+   "answer": "headline"
+  },
+  {
+   "id": "L5U03-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "film",
+   "answer": "film"
+  },
+  {
+   "id": "L5U03-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "newspaper",
+   "answer": "newspaper"
+  },
+  {
+   "id": "L5U03-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "selfie",
+   "answer": "selfie"
+  },
+  {
+   "id": "L5U03-Q048",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "console",
+   "answer": "console"
+  },
+  {
+   "id": "L5U03-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "TV and newspapers are types of media.",
+   "item": "media",
+   "answer": "TV and newspapers are types of media."
+  },
+  {
+   "id": "L5U03-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's watch a film tonight.",
+   "item": "film",
+   "answer": "Let's watch a film tonight."
+  },
+  {
+   "id": "L5U03-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My little brother loves cartoons.",
+   "item": "cartoon",
+   "answer": "My little brother loves cartoons."
+  },
+  {
+   "id": "L5U03-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is my favourite TV programme.",
+   "item": "programme",
+   "answer": "This is my favourite TV programme."
+  },
+  {
+   "id": "L5U03-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you change the channel?",
+   "item": "channel",
+   "answer": "Can you change the channel?"
+  },
+  {
+   "id": "L5U03-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are too many adverts on TV.",
+   "item": "advert",
+   "answer": "There are too many adverts on TV."
+  },
+  {
+   "id": "L5U03-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa reads the newspaper every morning.",
+   "item": "newspaper",
+   "answer": "Grandpa reads the newspaper every morning."
+  },
+  {
+   "id": "L5U03-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I read a science magazine for children.",
+   "item": "magazine",
+   "answer": "I read a science magazine for children."
+  },
+  {
+   "id": "L5U03-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wrote an article for the school magazine.",
+   "item": "article",
+   "answer": "I wrote an article for the school magazine."
+  },
+  {
+   "id": "L5U03-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The reporter asked us some questions.",
+   "item": "reporter",
+   "answer": "The reporter asked us some questions."
+  },
+  {
+   "id": "L5U03-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had an interview with a famous writer.",
+   "item": "interview",
+   "answer": "We had an interview with a famous writer."
+  },
+  {
+   "id": "L5U03-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This website has fun games for learning.",
+   "item": "website",
+   "answer": "This website has fun games for learning."
+  },
+  {
+   "id": "L5U03-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I searched for information about whales.",
+   "item": "search",
+   "answer": "I searched for information about whales."
+  },
+  {
+   "id": "L5U03-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This app helps me learn English.",
+   "item": "app",
+   "answer": "This app helps me learn English."
+  },
+  {
+   "id": "L5U03-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask a parent before you download a game.",
+   "item": "download",
+   "answer": "Ask a parent before you download a game."
+  },
+  {
+   "id": "L5U03-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't upload photos without permission.",
+   "item": "upload",
+   "answer": "Don't upload photos without permission."
+  },
+  {
+   "id": "L5U03-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Never click on a strange link.",
+   "item": "link",
+   "answer": "Never click on a strange link."
+  },
+  {
+   "id": "L5U03-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Always write kind comments.",
+   "item": "comment",
+   "answer": "Always write kind comments."
+  },
+  {
+   "id": "L5U03-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Think before you post anything online.",
+   "item": "post",
+   "answer": "Think before you post anything online."
+  },
+  {
+   "id": "L5U03-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We took a selfie at the zoo.",
+   "item": "selfie",
+   "answer": "We took a selfie at the zoo."
+  },
+  {
+   "id": "L5U03-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You must be thirteen to use most social media.",
+   "item": "social media",
+   "answer": "You must be thirteen to use most social media."
+  },
+  {
+   "id": "L5U03-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Choose a username without your real name.",
+   "item": "username",
+   "answer": "Choose a username without your real name."
+  },
+  {
+   "id": "L5U03-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Keep your password private.",
+   "item": "private",
+   "answer": "Keep your password private."
+  },
+  {
+   "id": "L5U03-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't share personal information online.",
+   "item": "personal",
+   "answer": "Don't share personal information online."
+  },
+  {
+   "id": "L5U03-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You can block people who are unkind.",
+   "item": "block",
+   "answer": "You can block people who are unkind."
+  },
+  {
+   "id": "L5U03-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I deleted the old photos.",
+   "item": "delete",
+   "answer": "I deleted the old photos."
+  },
+  {
+   "id": "L5U03-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Some news on the internet is fake.",
+   "item": "fake",
+   "answer": "Some news on the internet is fake."
+  },
+  {
+   "id": "L5U03-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is this photo real or fake?",
+   "item": "real",
+   "answer": "Is this photo real or fake?"
+  },
+  {
+   "id": "L5U03-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A virus can damage your computer.",
+   "item": "virus",
+   "answer": "A virus can damage your computer."
+  },
+  {
+   "id": "L5U03-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Turn off your devices at bedtime.",
+   "item": "device",
+   "answer": "Turn off your devices at bedtime."
+  },
+  {
+   "id": "L5U03-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin has a new game console.",
+   "item": "console",
+   "answer": "My cousin has a new game console."
+  },
+  {
+   "id": "L5U03-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I chat with my grandma on video calls.",
+   "item": "chat",
+   "answer": "I chat with my grandma on video calls."
+  },
+  {
+   "id": "L5U03-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask for permission before you use the tablet.",
+   "item": "permission",
+   "answer": "Ask for permission before you use the tablet."
+  },
+  {
+   "id": "L5U03-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tell an adult if you notice something strange.",
+   "item": "notice",
+   "answer": "Tell an adult if you notice something strange."
+  },
+  {
+   "id": "L5U03-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My screen time is one hour a day.",
+   "item": "screen time",
+   "answer": "My screen time is one hour a day."
+  },
+  {
+   "id": "L5U03-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Spend time offline with your family.",
+   "item": "offline",
+   "answer": "Spend time offline with your family."
+  },
+  {
+   "id": "L5U03-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Log in with your username and password.",
+   "item": "log in",
+   "answer": "Log in with your username and password."
+  },
+  {
+   "id": "L5U03-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Always log out when you finish.",
+   "item": "log out",
+   "answer": "Always log out when you finish."
+  },
+  {
+   "id": "L5U03-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My avatar is a cartoon cat.",
+   "item": "avatar",
+   "answer": "My avatar is a cartoon cat."
+  },
+  {
+   "id": "L5U03-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Films and music are entertainment.",
+   "item": "entertainment",
+   "answer": "Films and music are entertainment."
+  },
+  {
+   "id": "L5U03-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We watched a documentary about penguins.",
+   "item": "documentary",
+   "answer": "We watched a documentary about penguins."
+  },
+  {
+   "id": "L5U03-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I watch one episode every evening.",
+   "item": "episode",
+   "answer": "I watch one episode every evening."
+  },
+  {
+   "id": "L5U03-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This cartoon series has ten episodes.",
+   "item": "series",
+   "answer": "This cartoon series has ten episodes."
+  },
+  {
+   "id": "L5U03-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The headline was about a new zoo.",
+   "item": "headline",
+   "answer": "The headline was about a new zoo."
+  },
+  {
+   "id": "L5U03-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Never share your password online.",
+   "answer": "Never share your password online."
+  },
+  {
+   "id": "L5U03-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Never share your address online.",
+   "answer": "Never share your address online."
+  },
+  {
+   "id": "L5U03-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Never share your phone number online.",
+   "answer": "Never share your phone number online."
+  },
+  {
+   "id": "L5U03-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask for permission before you download an app.",
+   "answer": "Ask for permission before you download an app."
+  },
+  {
+   "id": "L5U03-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask for permission before you upload a photo.",
+   "answer": "Ask for permission before you upload a photo."
+  },
+  {
+   "id": "L5U03-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask for permission before you use the tablet.",
+   "answer": "Ask for permission before you use the tablet."
+  },
+  {
+   "id": "L5U03-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite programme is about animals.",
+   "answer": "My favourite programme is about animals."
+  },
+  {
+   "id": "L5U03-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite documentary is about animals.",
+   "answer": "My favourite documentary is about animals."
+  },
+  {
+   "id": "L5U03-Q101",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite magazine is about animals.",
+   "answer": "My favourite magazine is about animals."
+  },
+  {
+   "id": "L5U03-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you know them in real life?",
+   "answer": "No. They are a stranger."
+  },
+  {
+   "id": "L5U03-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Should I block them?",
+   "answer": "Yes. Your parents can help you block and report them."
+  },
+  {
+   "id": "L5U03-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What are you watching?",
+   "answer": "A documentary about whales. It's really interesting."
+  },
+  {
+   "id": "L5U03-Q105",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How long is it?",
+   "answer": "Only one episode. Then I'll turn off the TV."
+  },
+  {
+   "id": "L5U03-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "film",
+   "options": [
+    "film",
+    "console",
+    "newspaper"
+   ],
+   "answer": "film"
+  },
+  {
+   "id": "L5U03-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "newspaper",
+   "options": [
+    "newspaper",
+    "console",
+    "selfie"
+   ],
+   "answer": "newspaper"
+  },
+  {
+   "id": "L5U03-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "selfie",
+   "options": [
+    "film",
+    "console",
+    "selfie"
+   ],
+   "answer": "selfie"
+  },
+  {
+   "id": "L5U03-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "console",
+   "options": [
+    "selfie",
+    "console",
+    "film"
+   ],
+   "answer": "console"
+  },
+  {
+   "id": "L5U03-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "TV and newspapers are types of ___.",
+   "item": "media",
+   "options": [
+    "download",
+    "console",
+    "media"
+   ],
+   "answer": "media"
+  },
+  {
+   "id": "L5U03-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's watch a ___ tonight.",
+   "item": "film",
+   "options": [
+    "block",
+    "film",
+    "offline"
+   ],
+   "answer": "film"
+  },
+  {
+   "id": "L5U03-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My little brother loves ___.",
+   "item": "cartoon",
+   "options": [
+    "newspapers",
+    "cartoons",
+    "selfies"
+   ],
+   "answer": "cartoons"
+  },
+  {
+   "id": "L5U03-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is my favourite TV ___.",
+   "item": "programme",
+   "options": [
+    "entertainment",
+    "programme",
+    "magazine"
+   ],
+   "answer": "programme"
+  },
+  {
+   "id": "L5U03-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you change the ___?",
+   "item": "channel",
+   "options": [
+    "offline",
+    "channel",
+    "cartoon"
+   ],
+   "answer": "channel"
+  },
+  {
+   "id": "L5U03-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are too many ___ on TV.",
+   "item": "advert",
+   "options": [
+    "consoles",
+    "adverts",
+    "episodes"
+   ],
+   "answer": "adverts"
+  },
+  {
+   "id": "L5U03-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa reads the ___ every morning.",
+   "item": "newspaper",
+   "options": [
+    "newspaper",
+    "personal",
+    "delete"
+   ],
+   "answer": "newspaper"
+  },
+  {
+   "id": "L5U03-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I read a science ___ for children.",
+   "item": "magazine",
+   "options": [
+    "media",
+    "magazine",
+    "avatar"
+   ],
+   "answer": "magazine"
+  },
+  {
+   "id": "L5U03-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wrote an ___ for the school magazine.",
+   "item": "article",
+   "options": [
+    "entertainment",
+    "link",
+    "article"
+   ],
+   "answer": "article"
+  },
+  {
+   "id": "L5U03-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ asked us some questions.",
+   "item": "reporter",
+   "options": [
+    "fake",
+    "reporter",
+    "link"
+   ],
+   "answer": "reporter"
+  },
+  {
+   "id": "L5U03-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had an ___ with a famous writer.",
+   "item": "interview",
+   "options": [
+    "post",
+    "episode",
+    "interview"
+   ],
+   "answer": "interview"
+  },
+  {
+   "id": "L5U03-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ has fun games for learning.",
+   "item": "website",
+   "options": [
+    "delete",
+    "website",
+    "upload"
+   ],
+   "answer": "website"
+  },
+  {
+   "id": "L5U03-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ for information about whales.",
+   "item": "search",
+   "options": [
+    "searched",
+    "articled",
+    "reportered"
+   ],
+   "answer": "searched"
+  },
+  {
+   "id": "L5U03-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ helps me learn English.",
+   "item": "app",
+   "options": [
+    "app",
+    "personal",
+    "fake"
+   ],
+   "answer": "app"
+  },
+  {
+   "id": "L5U03-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ask a parent before you ___ a game.",
+   "item": "download",
+   "options": [
+    "download",
+    "advert",
+    "media"
+   ],
+   "answer": "download"
+  },
+  {
+   "id": "L5U03-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ photos without permission.",
+   "item": "upload",
+   "options": [
+    "magazine",
+    "real",
+    "upload"
+   ],
+   "answer": "upload"
+  },
+  {
+   "id": "L5U03-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Never click on a strange ___.",
+   "item": "link",
+   "options": [
+    "link",
+    "newspaper",
+    "console"
+   ],
+   "answer": "link"
+  },
+  {
+   "id": "L5U03-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Always write kind ___.",
+   "item": "comment",
+   "options": [
+    "comments",
+    "consoles",
+    "selfies"
+   ],
+   "answer": "comments"
+  },
+  {
+   "id": "L5U03-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Think before you ___ anything online.",
+   "item": "post",
+   "options": [
+    "post",
+    "newspaper",
+    "comment"
+   ],
+   "answer": "post"
+  },
+  {
+   "id": "L5U03-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We took a ___ at the zoo.",
+   "item": "selfie",
+   "options": [
+    "programme",
+    "chat",
+    "selfie"
+   ],
+   "answer": "selfie"
+  },
+  {
+   "id": "L5U03-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Choose a ___ without your real name.",
+   "item": "username",
+   "options": [
+    "username",
+    "private",
+    "download"
+   ],
+   "answer": "username"
+  },
+  {
+   "id": "L5U03-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Keep your password ___.",
+   "item": "private",
+   "options": [
+    "permission",
+    "website",
+    "private"
+   ],
+   "answer": "private"
+  },
+  {
+   "id": "L5U03-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't share ___ information online.",
+   "item": "personal",
+   "options": [
+    "selfie",
+    "headline",
+    "personal"
+   ],
+   "answer": "personal"
+  },
+  {
+   "id": "L5U03-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You can ___ people who are unkind.",
+   "item": "block",
+   "options": [
+    "cartoon",
+    "block",
+    "reporter"
+   ],
+   "answer": "block"
+  },
+  {
+   "id": "L5U03-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ the old photos.",
+   "item": "delete",
+   "options": [
+    "deleted",
+    "interviewed",
+    "magazined"
+   ],
+   "answer": "deleted"
+  },
+  {
+   "id": "L5U03-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Some news on the internet is ___.",
+   "item": "fake",
+   "options": [
+    "fake",
+    "permission",
+    "magazine"
+   ],
+   "answer": "fake"
+  },
+  {
+   "id": "L5U03-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is this photo ___ or fake?",
+   "item": "real",
+   "options": [
+    "real",
+    "documentary",
+    "magazine"
+   ],
+   "answer": "real"
+  },
+  {
+   "id": "L5U03-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ can damage your computer.",
+   "item": "virus",
+   "options": [
+    "comment",
+    "link",
+    "virus"
+   ],
+   "answer": "virus"
+  },
+  {
+   "id": "L5U03-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Turn off your ___ at bedtime.",
+   "item": "device",
+   "options": [
+    "privates",
+    "consoles",
+    "devices"
+   ],
+   "answer": "devices"
+  },
+  {
+   "id": "L5U03-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin has a new game ___.",
+   "item": "console",
+   "options": [
+    "headline",
+    "console",
+    "chat"
+   ],
+   "answer": "console"
+  },
+  {
+   "id": "L5U03-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ with my grandma on video calls.",
+   "item": "chat",
+   "options": [
+    "chat",
+    "device",
+    "app"
+   ],
+   "answer": "chat"
+  },
+  {
+   "id": "L5U03-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ask for ___ before you use the tablet.",
+   "item": "permission",
+   "options": [
+    "permission",
+    "chat",
+    "post"
+   ],
+   "answer": "permission"
+  },
+  {
+   "id": "L5U03-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Tell an adult if you ___ something strange.",
+   "item": "notice",
+   "options": [
+    "advert",
+    "console",
+    "notice"
+   ],
+   "answer": "notice"
+  },
+  {
+   "id": "L5U03-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Spend time ___ with your family.",
+   "item": "offline",
+   "options": [
+    "media",
+    "article",
+    "offline"
+   ],
+   "answer": "offline"
+  },
+  {
+   "id": "L5U03-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is a cartoon cat.",
+   "item": "avatar",
+   "options": [
+    "link",
+    "post",
+    "avatar"
+   ],
+   "answer": "avatar"
+  },
+  {
+   "id": "L5U03-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Films and music are ___.",
+   "item": "entertainment",
+   "options": [
+    "comment",
+    "entertainment",
+    "episode"
+   ],
+   "answer": "entertainment"
+  },
+  {
+   "id": "L5U03-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We watched a ___ about penguins.",
+   "item": "documentary",
+   "options": [
+    "documentary",
+    "real",
+    "permission"
+   ],
+   "answer": "documentary"
+  },
+  {
+   "id": "L5U03-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I watch one ___ every evening.",
+   "item": "episode",
+   "options": [
+    "reporter",
+    "website",
+    "episode"
+   ],
+   "answer": "episode"
+  },
+  {
+   "id": "L5U03-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This cartoon ___ has ten episodes.",
+   "item": "series",
+   "options": [
+    "magazine",
+    "series",
+    "chat"
+   ],
+   "answer": "series"
+  },
+  {
+   "id": "L5U03-Q149",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ was about a new zoo.",
+   "item": "headline",
+   "options": [
+    "cartoon",
+    "series",
+    "headline"
+   ],
+   "answer": "headline"
+  },
+  {
+   "id": "L5U03-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's watch a film tonight.",
+   "item": "film",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U03-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Grandpa reads the newspaper every morning.",
+   "item": "selfie",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U03-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We took a selfie at the zoo.",
+   "item": "selfie",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U03-Q153",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My cousin has a new game console.",
+   "item": "film",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U03-Q154",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U03-R01",
+   "text_en": "What information should you never share?",
+   "options": [
+    "Your favourite film.",
+    "Your address and phone number.",
+    "Your favourite colour."
+   ],
+   "answer": "Your address and phone number."
+  },
+  {
+   "id": "L5U03-Q155",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U03-R01",
+   "text_en": "What should you do if someone sends an unkind message?",
+   "options": [
+    "Reply quickly.",
+    "Send a message back.",
+    "Block them and tell an adult."
+   ],
+   "answer": "Block them and tell an adult."
+  },
+  {
+   "id": "L5U03-Q156",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U03-R01",
+   "text_en": "What does the writer say about news online?",
+   "options": [
+    "Some of it is fake.",
+    "All of it is true.",
+    "It is boring."
+   ],
+   "answer": "Some of it is fake."
+  },
+  {
+   "id": "L5U03-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "media",
+   "item": "media",
+   "answer": "media"
+  },
+  {
+   "id": "L5U03-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "film",
+   "item": "film",
+   "answer": "film"
+  },
+  {
+   "id": "L5U03-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cartoon",
+   "item": "cartoon",
+   "answer": "cartoon"
+  },
+  {
+   "id": "L5U03-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "programme",
+   "item": "programme",
+   "answer": "programme"
+  },
+  {
+   "id": "L5U03-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "channel",
+   "item": "channel",
+   "answer": "channel"
+  },
+  {
+   "id": "L5U03-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "advert",
+   "item": "advert",
+   "answer": "advert"
+  },
+  {
+   "id": "L5U03-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "newspaper",
+   "item": "newspaper",
+   "answer": "newspaper"
+  },
+  {
+   "id": "L5U03-Q164",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "magazine",
+   "item": "magazine",
+   "answer": "magazine"
+  },
+  {
+   "id": "L5U03-Q165",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "TV and newspapers are types of media.",
+   "answer": "TV and newspapers are types of media."
+  },
+  {
+   "id": "L5U03-Q166",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Let's watch a film tonight.",
+   "answer": "Let's watch a film tonight."
+  },
+  {
+   "id": "L5U03-Q167",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My little brother loves cartoons.",
+   "answer": "My little brother loves cartoons."
+  }
+ ]
+}

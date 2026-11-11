@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original bee mascot "Bi", drawn for this project. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- wings -->
+    <path android:fillColor="#E6F6FF" android:strokeColor="#3A2A1A" android:strokeWidth="2"
+        android:pathData="M40,46 C26,30 22,44 34,54 Z" />
+    <path android:fillColor="#E6F6FF" android:strokeColor="#3A2A1A" android:strokeWidth="2"
+        android:pathData="M68,46 C82,30 86,44 74,54 Z" />
+    <!-- body -->
+    <path android:fillColor="#FFB703" android:strokeColor="#3A2A1A" android:strokeWidth="2"
+        android:pathData="M54,36 C70,36 78,48 78,58 C78,70 68,78 54,78 C40,78 30,70 30,58 C30,48 38,36 54,36 Z" />
+    <!-- stripes -->
+    <path android:fillColor="#3A2A1A"
+        android:pathData="M32,62 L76,62 L74,68 L34,68 Z" />
+    <path android:fillColor="#3A2A1A"
+        android:pathData="M38,72 L70,72 L64,77 L44,77 Z" />
+    <!-- eyes -->
+    <path android:fillColor="#3A2A1A"
+        android:pathData="M46,50 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path android:fillColor="#3A2A1A"
+        android:pathData="M62,50 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <!-- smile -->
+    <path android:strokeColor="#3A2A1A" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M48,56 Q54,61 60,56" />
+    <!-- antennae -->
+    <path android:strokeColor="#3A2A1A" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M48,37 Q44,28 40,27 M60,37 Q64,28 68,27" />
+</vector>

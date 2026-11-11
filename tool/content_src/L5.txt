@@ -1,0 +1,1103 @@
+# Level 5 - B1
+@U 1 | Opinions | Nêu ý kiến | Nêu ý kiến và giải thích lý do ; Đồng ý hoặc không đồng ý một cách lịch sự
+G Nêu ý kiến: "I think...", "In my opinion,...". Đồng ý: "I agree with you." Không đồng ý lịch sự: "I'm not sure. I think..." Nối hai ý trái ngược bằng "however" (tuy nhiên) hoặc "although" (mặc dù).
+W opinion | ý kiến | ~💬 | What's your opinion about this book? | Cậu nghĩ gì về cuốn sách này?
+W in my opinion | theo ý tớ | ~🙋 | In my opinion, dogs are better pets than cats. | Theo tớ, chó là thú cưng tốt hơn mèo.
+W believe | tin, tin rằng | ~💡 | I believe you can win. | Tớ tin cậu có thể thắng.
+W agree | đồng ý | ~👍 | I agree with you. | Tớ đồng ý với cậu.
+W disagree | không đồng ý | ~👎 | I disagree. I think summer is better. | Tớ không đồng ý. Tớ nghĩ mùa hè tốt hơn.
+W reason | lý do | ~❔ | What's the reason for your answer? | Lý do cho câu trả lời của cậu là gì?
+W prefer | thích hơn | ~❤️ | I prefer reading to watching TV. | Tớ thích đọc sách hơn xem TV.
+W however | tuy nhiên | ~↔️ | The test was long. However, it was easy. | Bài kiểm tra dài. Tuy nhiên, nó dễ.
+W although | mặc dù | ~🔀 | Although it was raining, we played outside. | Mặc dù trời mưa, bọn tớ vẫn chơi ngoài trời.
+W actually | thật ra | ~❗ | Actually, I don't like chocolate. | Thật ra tớ không thích sô-cô-la.
+W probably | có lẽ | ~🤔 | It will probably rain tomorrow. | Có lẽ mai trời sẽ mưa.
+W definitely | chắc chắn | ~✅ | I will definitely come to your party. | Tớ chắc chắn sẽ đến bữa tiệc của cậu.
+W certainly | chắc chắn, tất nhiên | ~✔️ | Can you help me? Certainly! | Cậu giúp tớ được không? Tất nhiên rồi!
+W perhaps | có lẽ | ~🤷 | Perhaps we can go tomorrow. | Có lẽ mai mình đi được.
+W true | đúng, thật | ~✅ | Is it true that whales are mammals? | Có thật là cá voi là động vật có vú không?
+W false | sai | ~❌ | True or false? The sun is a planet. | Đúng hay sai? Mặt Trời là một hành tinh.
+W discuss | thảo luận | ~🗣️ | Let's discuss our project. | Mình cùng thảo luận về dự án nhé.
+W discussion | cuộc thảo luận | ~👥 | We had a class discussion about pets. | Lớp tớ đã thảo luận về thú cưng.
+W debate | cuộc tranh luận | ~🎤 | Our class had a debate about homework. | Lớp tớ đã tranh luận về bài tập về nhà.
+W example | ví dụ | ~📝 | Can you give me an example? | Cậu cho tớ một ví dụ được không?
+W for example | ví dụ như | ~👉 | I like sports, for example, tennis and swimming. | Tớ thích thể thao, ví dụ như quần vợt và bơi lội.
+W on the other hand | mặt khác | ~✋ | Cities are exciting. On the other hand, they are noisy. | Thành phố rất sôi động. Mặt khác, chúng lại ồn ào.
+W advantage | ưu điểm | ~➕ | One advantage of bikes is that they are cheap. | Một ưu điểm của xe đạp là rẻ.
+W disadvantage | nhược điểm | ~➖ | A disadvantage of cars is pollution. | Một nhược điểm của ô tô là gây ô nhiễm.
+W depend | phụ thuộc | ~⚖️ | Plants depend on the sun. | Cây cối phụ thuộc vào mặt trời.
+W it depends | còn tuỳ | ~🤷 | Do you like rain? It depends! | Cậu có thích mưa không? Còn tuỳ!
+W choice | sự lựa chọn | ~👉 | You have two choices. | Cậu có hai lựa chọn.
+W decision | quyết định | ~⚖️ | It was a difficult decision. | Đó là một quyết định khó khăn.
+W compare | so sánh | ~🆚 | Let's compare the two pictures. | Mình so sánh hai bức tranh nhé.
+W similar | giống, tương tự | ~🟰 | My bike is similar to your bike. | Xe đạp của tớ giống xe của cậu.
+W fact | sự thật | ~📚 | It's a fact. The Earth goes around the Sun. | Đó là sự thật. Trái Đất quay quanh Mặt Trời.
+W possible | có thể | ~✅ | Is it possible to live on Mars? | Có thể sống trên sao Hoả không?
+W impossible | không thể | ~🚫 | Nothing is impossible! | Không có gì là không thể!
+W respect | tôn trọng | ~🙇 | We should respect other people's opinions. | Chúng ta nên tôn trọng ý kiến của người khác.
+W already | đã... rồi | ~✔️ | I have already finished my homework. | Tớ đã làm xong bài tập rồi.
+W yet | chưa | ~⏳ | I haven't finished yet. | Tớ chưa làm xong.
+W still | vẫn | ~⏸️ | It's still raining. | Trời vẫn đang mưa.
+W just | chỉ, vừa mới | ~☝️ | I just want to help. | Tớ chỉ muốn giúp thôi.
+W ever | từng, bao giờ | ~♾️ | Have you ever seen a whale? | Cậu đã bao giờ nhìn thấy cá voi chưa?
+W almost | gần như | ~🤏 | I'm almost ready. | Tớ gần xong rồi.
+W quite | khá | ~👌 | The test was quite easy. | Bài kiểm tra khá dễ.
+W especially | đặc biệt là | ~⭐ | I love fruit, especially mangoes. | Tớ thích hoa quả, đặc biệt là xoài.
+W other | khác | ~🔀 | Do you have any other ideas? | Cậu có ý tưởng nào khác không?
+W which | nào, cái nào | ~❔ | Which colour do you prefer? | Cậu thích màu nào hơn?
+P In my opinion, {x} is the best season. | Theo tớ, {x} là mùa đẹp nhất. | summer,winter,spring,autumn
+P I prefer {x}. | Tớ thích {x} hơn. | reading,swimming,drawing,dancing
+P I agree with {x}. | Tớ đồng ý với {x}. | you,Lan,my teacher
+D Mùa nào đẹp nhất? | Bi,Kid | summer,winter,spring
+> Bi: Which season do you like best? | Cậu thích mùa nào nhất?
+> Kid: In my opinion, summer is the best. | Theo tớ, mùa hè là đẹp nhất.
+> Bi: Why do you think so? | Sao cậu nghĩ vậy?
+> Kid: Because we have a long holiday, and I can swim every day. | Vì được nghỉ dài, và tớ có thể bơi mỗi ngày.
+> Bi: I agree. However, it's very hot. | Tớ đồng ý. Tuy nhiên, trời rất nóng.
+> Kid: That's true. But I still love it! | Đúng thế. Nhưng tớ vẫn thích nó!
+D Tranh luận nhỏ | Bi,Kid
+> Bi: I think homework is boring. | Tớ nghĩ bài tập về nhà thật chán.
+> Kid: I disagree. Homework helps us remember our lessons. | Tớ không đồng ý. Bài tập giúp mình nhớ bài.
+> Bi: That's a good point. But we need time to play too. | Ý hay đấy. Nhưng mình cũng cần thời gian chơi nữa.
+> Kid: You're right. It depends on how much homework we have. | Cậu nói đúng. Còn tuỳ vào việc mình có bao nhiêu bài tập.
+R City or countryside?
+> Some people prefer to live in the city, and others prefer the countryside. Both places have advantages and disadvantages. In the city, there are many shops, cinemas and hospitals. It is easy to find a job, and the buses are fast. However, cities are often noisy and crowded, and there is a lot of pollution. On the other hand, the countryside is quiet and peaceful. The air is fresh, and children can play outdoors safely. Although life there is calm, it can be boring for some young people. In my opinion, the countryside is better for children. What do you think?
+? What is one advantage of the city? | It is easy to find a job. | The air is fresh. | It is quiet.
+? What is one disadvantage of the city? | It is noisy and crowded. | There are no shops. | The buses are slow.
+? Which place does the writer think is better for children? | The countryside. | The city. | Both are the same.
+S In my opinion, | I agree that | However,
+
+@U 2 | Our environment | Môi trường quanh ta | Nói về vấn đề môi trường và giải pháp ; Dùng câu "If we..., we will..."
+G Câu điều kiện loại 1 nói về điều có thể xảy ra: "If we plant more trees, the air will be cleaner." (Nếu..., thì sẽ...). Phần có "if" dùng thì hiện tại, phần còn lại dùng "will".
+W climate | khí hậu | ~🌡️ | Vietnam has a hot climate. | Việt Nam có khí hậu nóng.
+W climate change | biến đổi khí hậu | ~🌍 | Climate change is a big problem. | Biến đổi khí hậu là một vấn đề lớn.
+W global warming | sự nóng lên toàn cầu | ~🔥 | Global warming makes the ice melt. | Sự nóng lên toàn cầu làm băng tan.
+W sea level | mực nước biển | ~🌊 | The sea level is rising. | Mực nước biển đang dâng lên.
+W rise | tăng lên, dâng lên | ~📈 | Prices rise every year. | Giá cả tăng mỗi năm.
+W fuel | nhiên liệu | ~⛽ | Cars use fuel to move. | Ô tô dùng nhiên liệu để chạy.
+W coal | than đá | ~⚫ | Burning coal makes the air dirty. | Đốt than làm bẩn không khí.
+W solar panel | tấm pin mặt trời | ~☀️ | We have solar panels on our roof. | Nhà tớ có tấm pin mặt trời trên mái.
+W wind turbine | tua-bin gió | ~🌬️ | Wind turbines make electricity. | Tua-bin gió tạo ra điện.
+W renewable | có thể tái tạo | ~♻️ | Sun and wind are renewable energy. | Mặt trời và gió là năng lượng tái tạo.
+W reduce | giảm bớt | ~📉 | We should reduce plastic waste. | Chúng ta nên giảm rác thải nhựa.
+W litter | rác vứt bừa | ~🚯 | Please don't drop litter. | Đừng vứt rác bừa bãi.
+W landfill | bãi chôn rác | ~🗑️ | A lot of rubbish goes to landfill. | Rất nhiều rác được đưa đến bãi chôn lấp.
+W compost | phân trộn | ~🌱 | We make compost from fruit and vegetable waste. | Nhà tớ ủ phân từ rác hoa quả và rau.
+W organic | hữu cơ | ~🥬 | Mum buys organic vegetables. | Mẹ mua rau hữu cơ.
+W chemical | hoá chất | ~🧪 | Some chemicals are bad for rivers. | Một số hoá chất có hại cho sông ngòi.
+W coral reef | rạn san hô | ~🐠 | Many fish live on the coral reef. | Nhiều loài cá sống ở rạn san hô.
+W harmful | có hại | ~⚠️ | Plastic is harmful to sea animals. | Nhựa có hại cho động vật biển.
+W harm | làm hại | ~⚠️ | Don't harm the animals. | Đừng làm hại động vật.
+W toxic | độc hại | ~🚫 | Smoke from factories can be toxic. | Khói từ nhà máy có thể độc hại.
+W disposable | dùng một lần | ~🥤 | Don't use disposable cups. | Đừng dùng cốc dùng một lần.
+W packaging | bao bì | ~📦 | This toy has too much packaging. | Món đồ chơi này có quá nhiều bao bì.
+W reusable | có thể dùng lại | ~🔁 | Take a reusable bag to the market. | Mang túi dùng lại khi đi chợ nhé.
+W bamboo | tre | ~🎋 | This straw is made of bamboo. | Ống hút này làm bằng tre.
+W eco-friendly | thân thiện với môi trường | ~🌿 | Bikes are eco-friendly. | Xe đạp thân thiện với môi trường.
+W natural | tự nhiên | ~🍃 | We should protect natural places. | Chúng ta nên bảo vệ những nơi tự nhiên.
+W resource | tài nguyên | ~💎 | Water is an important resource. | Nước là một tài nguyên quan trọng.
+W generation | thế hệ | ~👪 | We must protect the Earth for the next generation. | Chúng ta phải bảo vệ Trái Đất cho thế hệ sau.
+W solution | giải pháp | ~💡 | What is the solution to this problem? | Giải pháp cho vấn đề này là gì?
+W cause | nguyên nhân, gây ra | ~➡️ | Cars cause air pollution. | Ô tô gây ô nhiễm không khí.
+W effect | ảnh hưởng | ~💥 | Pollution has a bad effect on animals. | Ô nhiễm có ảnh hưởng xấu đến động vật.
+W serious | nghiêm trọng | ~😐 | Pollution is a serious problem. | Ô nhiễm là vấn đề nghiêm trọng.
+W action | hành động | ~🏃 | We need to take action now. | Chúng ta cần hành động ngay.
+W campaign | chiến dịch | ~📣 | Our school has a campaign to save water. | Trường tớ có chiến dịch tiết kiệm nước.
+W public transport | phương tiện công cộng | ~🚌 | Use public transport instead of cars. | Hãy dùng phương tiện công cộng thay vì ô tô.
+W electric car | ô tô điện | ~🚗 | Electric cars don't make smoke. | Ô tô điện không thải khói.
+W glacier | sông băng | ~🏔️ | The glacier is melting. | Sông băng đang tan.
+W carbon | các-bon | ~⚫ | Trees take in carbon from the air. | Cây hấp thụ các-bon từ không khí.
+W footprint | dấu chân | 👣 | There are footprints in the sand. | Có những dấu chân trên cát.
+W increase | tăng | ~📈 | The number of cars is increasing. | Số lượng ô tô đang tăng.
+W decrease | giảm | ~📉 | The number of tigers is decreasing. | Số lượng hổ đang giảm.
+W amount | lượng | ~🔢 | We use a large amount of water. | Chúng ta dùng một lượng nước lớn.
+W atmosphere | bầu khí quyển | ~🌫️ | The Earth's atmosphere protects us. | Bầu khí quyển bảo vệ chúng ta.
+W replace | thay thế | ~🔄 | Replace plastic bags with cloth bags. | Thay túi nhựa bằng túi vải.
+P If we {x}, the Earth will be cleaner. | Nếu chúng ta {x}, Trái Đất sẽ sạch hơn. | plant more trees,recycle more,use public transport,reduce plastic
+P We should reduce {x}. | Chúng ta nên giảm {x}. | plastic waste,pollution,packaging
+P {x} is harmful to the environment. | {x} có hại cho môi trường. | Plastic,Smoke,Litter,Coal
+D Dự án môi trường | Bi,Kid
+> Bi: Our class project is about climate change. | Dự án của lớp mình là về biến đổi khí hậu.
+> Kid: What causes climate change? | Nguyên nhân gây biến đổi khí hậu là gì?
+> Bi: Burning coal and oil makes the planet warmer. | Đốt than và dầu làm hành tinh nóng lên.
+> Kid: What can we do? | Mình có thể làm gì?
+> Bi: If we use renewable energy, we will reduce pollution. | Nếu dùng năng lượng tái tạo, mình sẽ giảm ô nhiễm.
+> Kid: And if we walk or cycle, we will help too! | Và nếu mình đi bộ hoặc đạp xe, mình cũng sẽ giúp được!
+D Đi chợ xanh | Mum,Kid
+> Mum: Let's go to the market. | Mình đi chợ nhé.
+> Kid: Don't forget the reusable bags! | Mẹ đừng quên túi dùng lại nhé!
+> Mum: Good idea. Plastic bags are harmful to animals. | Ý hay đấy. Túi nhựa có hại cho động vật.
+> Kid: And let's buy fruit without packaging. | Và mình mua hoa quả không có bao bì nhé.
+R Save the coral reef
+> Coral reefs are very important. Thousands of colourful fish and sea animals live there. However, many reefs are in danger. Global warming is making the sea warmer, and the coral is turning white. Plastic and chemicals from rivers also harm the reefs. If we don't take action, many reefs will disappear. There are some simple solutions. We can reduce plastic waste and use reusable bottles. We can save energy at home. When we visit the beach, we should never touch the coral or leave litter. If everyone helps, the reefs will have a future.
+? Why is the coral turning white? | The sea is getting warmer. | There are too many fish. | It is too dark.
+? What also harms the reefs? | Plastic and chemicals. | Sunlight. | Sand.
+? What should we never do at the beach? | Touch the coral or leave litter. | Swim in the sea. | Build sandcastles.
+S If we | We should | One solution is
+
+@U 3 | Media and online safety | Truyền thông và an toàn trên mạng | Nói về các loại phương tiện truyền thông ; Biết các quy tắc an toàn khi dùng internet
+G Lời khuyên mạnh dùng "must/mustn't", nhẹ hơn dùng "should/shouldn't": "You mustn't share your password." Nối hai việc bằng "before/after": "Ask a parent before you download an app."
+W media | phương tiện truyền thông | ~📺 | TV and newspapers are types of media. | Ti vi và báo là các loại phương tiện truyền thông.
+W film | bộ phim | 🎞️ | Let's watch a film tonight. | Tối nay mình xem phim nhé.
+W cartoon | phim hoạt hình | ~📺 | My little brother loves cartoons. | Em trai tớ mê phim hoạt hình.
+W programme | chương trình | ~📺 | This is my favourite TV programme. | Đây là chương trình TV tớ thích nhất.
+W channel | kênh | ~📡 | Can you change the channel? | Cậu chuyển kênh được không?
+W advert | quảng cáo | ~📢 | There are too many adverts on TV. | Trên TV có quá nhiều quảng cáo.
+W newspaper | tờ báo | 🗞️ | Grandpa reads the newspaper every morning. | Sáng nào ông cũng đọc báo.
+W magazine | tạp chí | ~📰 | I read a science magazine for children. | Tớ đọc tạp chí khoa học cho trẻ em.
+W article | bài báo | ~📄 | I wrote an article for the school magazine. | Tớ viết một bài cho tạp chí của trường.
+W reporter | phóng viên | ~🎙️ | The reporter asked us some questions. | Phóng viên hỏi bọn tớ vài câu.
+W interview | phỏng vấn | ~🎤 | We had an interview with a famous writer. | Bọn tớ phỏng vấn một nhà văn nổi tiếng.
+W website | trang web | ~🌐 | This website has fun games for learning. | Trang web này có trò chơi học tập vui.
+W search | tìm kiếm | ~🔍 | I searched for information about whales. | Tớ tìm thông tin về cá voi.
+W app | ứng dụng | ~📱 | This app helps me learn English. | Ứng dụng này giúp tớ học tiếng Anh.
+W download | tải về | ~⬇️ | Ask a parent before you download a game. | Hỏi bố mẹ trước khi tải trò chơi về.
+W upload | tải lên | ~⬆️ | Don't upload photos without permission. | Đừng đăng ảnh khi chưa được phép.
+W link | đường dẫn | ~🔗 | Never click on a strange link. | Đừng bao giờ bấm vào đường dẫn lạ.
+W comment | bình luận | ~💬 | Always write kind comments. | Hãy luôn viết bình luận tử tế.
+W post | đăng (bài) | ~📌 | Think before you post anything online. | Hãy suy nghĩ trước khi đăng gì lên mạng.
+W selfie | ảnh tự chụp | 🤳 | We took a selfie at the zoo. | Bọn tớ chụp ảnh tự sướng ở sở thú.
+W social media | mạng xã hội | ~📱 | You must be thirteen to use most social media. | Phải đủ mười ba tuổi mới được dùng hầu hết mạng xã hội.
+W username | tên người dùng | ~👤 | Choose a username without your real name. | Chọn tên người dùng không có tên thật của cậu.
+W private | riêng tư | ~🔒 | Keep your password private. | Giữ mật khẩu riêng tư.
+W personal | cá nhân | ~🙋 | Don't share personal information online. | Đừng chia sẻ thông tin cá nhân trên mạng.
+W block | chặn | ~⛔ | You can block people who are unkind. | Cậu có thể chặn những người không tử tế.
+W delete | xoá | ~🗑️ | I deleted the old photos. | Tớ đã xoá những ảnh cũ.
+W fake | giả | ~🎭 | Some news on the internet is fake. | Một số tin trên mạng là tin giả.
+W real | thật | ~✅ | Is this photo real or fake? | Bức ảnh này thật hay giả?
+W virus | vi-rút | ~🦠 | A virus can damage your computer. | Vi-rút có thể làm hỏng máy tính.
+W device | thiết bị | ~📱 | Turn off your devices at bedtime. | Tắt các thiết bị khi đến giờ đi ngủ.
+W console | máy chơi game | 🕹️ | My cousin has a new game console. | Anh họ tớ có máy chơi game mới.
+W chat | trò chuyện | ~💬 | I chat with my grandma on video calls. | Tớ trò chuyện với bà qua gọi video.
+W permission | sự cho phép | ~🙋 | Ask for permission before you use the tablet. | Xin phép trước khi dùng máy tính bảng.
+W notice | để ý, nhận thấy | ~👀 | Tell an adult if you notice something strange. | Nói với người lớn nếu con thấy điều gì lạ.
+W screen time | thời gian dùng màn hình | ~⏱️ | My screen time is one hour a day. | Mỗi ngày tớ dùng màn hình một tiếng.
+W offline | không dùng mạng | ~📴 | Spend time offline with your family. | Dành thời gian không dùng mạng với gia đình.
+W log in | đăng nhập | ~🔑 | Log in with your username and password. | Đăng nhập bằng tên và mật khẩu.
+W log out | đăng xuất | ~🚪 | Always log out when you finish. | Luôn đăng xuất khi dùng xong.
+W avatar | ảnh đại diện | ~🧑 | My avatar is a cartoon cat. | Ảnh đại diện của tớ là một con mèo hoạt hình.
+W entertainment | giải trí | ~🎪 | Films and music are entertainment. | Phim và nhạc là để giải trí.
+W documentary | phim tài liệu | ~🎥 | We watched a documentary about penguins. | Bọn tớ xem phim tài liệu về chim cánh cụt.
+W episode | tập (phim) | ~📺 | I watch one episode every evening. | Tối nào tớ cũng xem một tập.
+W series | loạt phim | ~📺 | This cartoon series has ten episodes. | Loạt phim hoạt hình này có mười tập.
+W headline | tiêu đề | ~🗞️ | The headline was about a new zoo. | Tiêu đề là về một sở thú mới.
+P Never share your {x} online. | Đừng bao giờ chia sẻ {x} trên mạng. | password,address,phone number,personal information
+P Ask for permission before you {x}. | Hãy xin phép trước khi {x}. | download an app,upload a photo,use the tablet
+P My favourite {x} is about animals. | {x} yêu thích của tớ là về động vật. | programme,documentary,magazine,cartoon
+D An toàn trên mạng | Bi,Kid
+> Kid: Bi, someone sent me a message. They want my address. | Bi ơi, có người nhắn tin cho tớ. Họ muốn biết địa chỉ nhà tớ.
+> Bi: Do you know them in real life? | Cậu có quen họ ngoài đời không?
+> Kid: No. They are a stranger. | Không. Đó là người lạ.
+> Bi: Then you mustn't share your address. Tell your parents now. | Vậy cậu không được chia sẻ địa chỉ. Hãy nói với bố mẹ ngay.
+> Kid: Should I block them? | Tớ có nên chặn họ không?
+> Bi: Yes. Your parents can help you block and report them. | Có. Bố mẹ sẽ giúp cậu chặn và báo cáo họ.
+D Phim tài liệu | Bi,Kid | whales,sharks,penguins
+> Bi: What are you watching? | Cậu đang xem gì thế?
+> Kid: A documentary about whales. It's really interesting. | Phim tài liệu về cá voi. Hay lắm.
+> Bi: How long is it? | Nó dài bao lâu?
+> Kid: Only one episode. Then I'll turn off the TV. | Chỉ một tập thôi. Sau đó tớ sẽ tắt TV.
+R Staying safe online
+> The internet is useful and fun. We can search for information, watch documentaries and chat with our family. However, we must be careful. First, never share personal information, such as your address, school or phone number. Second, keep your password private, even from friends. Third, don't click on strange links or download apps without permission. Also, remember that some news online is fake. If someone sends you an unkind message, don't reply. Block them and tell an adult you trust. Finally, don't forget to spend time offline. Play outside, read books and talk to your family!
+? What information should you never share? | Your address and phone number. | Your favourite colour. | Your favourite film.
+? What should you do if someone sends an unkind message? | Block them and tell an adult. | Reply quickly. | Send a message back.
+? What does the writer say about news online? | Some of it is fake. | All of it is true. | It is boring.
+S Online, you should never | If someone sends me a strange message, I will | My favourite programme is
+
+@U 4 | Science and experiments | Khoa học và thí nghiệm | Mô tả một thí nghiệm đơn giản theo các bước ; Dự đoán và nói kết quả
+G Dự đoán dùng "I predict that... will...": "I predict that the ice will melt." Mô tả các bước dùng câu mệnh lệnh và từ chỉ thứ tự: First, Next, Then, Finally.
+W experiment | thí nghiệm | ~🧪 | Let's do an experiment with water. | Mình làm thí nghiệm với nước nhé.
+W predict | dự đoán | ~🔮 | I predict that the ice will melt. | Tớ dự đoán đá sẽ tan.
+W observe | quan sát | ~👀 | Observe the plant every day. | Quan sát cái cây mỗi ngày.
+W result | kết quả | ~📊 | What was the result of the experiment? | Kết quả thí nghiệm là gì?
+W record | ghi lại | ~📝 | Record the temperature in your notebook. | Ghi nhiệt độ vào vở.
+W magnet | nam châm | 🧲 | A magnet can pick up metal things. | Nam châm có thể hút đồ kim loại.
+W sink | chìm | ~⬇️ | A stone sinks in water. | Hòn đá chìm trong nước.
+W liquid | chất lỏng | ~💧 | Water and milk are liquids. | Nước và sữa là chất lỏng.
+W solid | chất rắn | ~🧊 | Ice is a solid. | Đá là chất rắn.
+W gas | chất khí | ~💨 | Air is a gas. | Không khí là chất khí.
+W freeze | đóng băng | ~🥶 | Water freezes at zero degrees. | Nước đóng băng ở không độ.
+W evaporate | bay hơi | ~♨️ | The water evaporates in the sun. | Nước bay hơi dưới nắng.
+W shadow | cái bóng | ~👤 | My shadow is long in the evening. | Buổi tối bóng của tớ dài.
+W reflect | phản chiếu | ~🪞 | A mirror reflects light. | Gương phản chiếu ánh sáng.
+W dissolve | hoà tan | ~🥄 | Sugar dissolves in hot water. | Đường tan trong nước nóng.
+W bubble | bong bóng | ~🫧 | Blow bubbles with soap and water. | Thổi bong bóng bằng xà phòng và nước.
+W push | đẩy | ~👉 | Push the door to open it. | Đẩy cửa để mở.
+W pull | kéo | ~👈 | Pull the rope! | Kéo dây đi!
+W force | lực | ~💪 | A push is a force. | Đẩy là một lực.
+W gravity | trọng lực | ~🍎 | Gravity makes things fall to the ground. | Trọng lực làm mọi vật rơi xuống đất.
+W weight | cân nặng, trọng lượng | ~⚖️ | What is the weight of this box? | Cái hộp này nặng bao nhiêu?
+W surface | bề mặt | ~🟫 | The surface of the table is smooth. | Mặt bàn nhẵn.
+W rough | sần sùi, nhám | ~🪨 | The stone feels rough. | Hòn đá sờ thấy nhám.
+W smooth | nhẵn | ~🧈 | The glass is very smooth. | Mặt kính rất nhẵn.
+W material | vật liệu | ~🧱 | Wood is a strong material. | Gỗ là vật liệu chắc chắn.
+W bend | uốn cong | ~↪️ | You can bend the wire. | Cậu có thể uốn cong sợi dây.
+W circuit | mạch điện | ~🔌 | The bulb lights up when the circuit is closed. | Bóng đèn sáng khi mạch điện đóng.
+W wire | dây điện | ~➰ | Connect the wire to the battery. | Nối dây vào pin.
+W switch | công tắc | ~🔘 | Press the switch to turn on the light. | Bấm công tắc để bật đèn.
+W microscope | kính hiển vi | ~🔬 | We looked at a leaf under a microscope. | Bọn tớ nhìn chiếc lá dưới kính hiển vi.
+W goggles | kính bảo hộ | 🥽 | Wear goggles to protect your eyes. | Đeo kính bảo hộ để bảo vệ mắt.
+W equipment | dụng cụ | ~🧰 | Put the equipment away after the experiment. | Cất dụng cụ sau khi làm thí nghiệm.
+W step | bước | ~👣 | Follow the steps carefully. | Làm theo các bước cẩn thận.
+W discover | khám phá ra | ~🔍 | Scientists discover new things every day. | Các nhà khoa học khám phá ra điều mới mỗi ngày.
+W discovery | khám phá, phát hiện | ~💡 | It was an important discovery. | Đó là một khám phá quan trọng.
+W chart | biểu đồ | ~📊 | Put the results in a chart. | Ghi kết quả vào biểu đồ.
+W invisible | vô hình | ~👻 | Air is invisible. | Không khí thì vô hình.
+W visible | nhìn thấy được | ~👀 | The moon is visible tonight. | Tối nay có thể nhìn thấy mặt trăng.
+W ice cube | viên đá | ~🧊 | Put an ice cube in your drink. | Cho viên đá vào đồ uống.
+W jar | lọ thuỷ tinh | ~🫙 | Fill the jar with water. | Đổ đầy nước vào lọ.
+W fill | đổ đầy | ~🥛 | Fill the glass with juice. | Rót đầy cốc nước ép.
+W container | đồ đựng, hộp | ~📦 | Put the food in a container. | Cho thức ăn vào hộp.
+W pattern | hoạ tiết, quy luật | ~🔷 | Can you see the pattern? Red, blue, red, blue. | Cậu thấy quy luật không? Đỏ, xanh, đỏ, xanh.
+W sound | âm thanh | ~🔊 | Sound travels through the air. | Âm thanh truyền qua không khí.
+W move | di chuyển | ~↔️ | A force can make things move. | Lực có thể làm mọi vật di chuyển.
+P I predict that the {x} will float. | Tớ dự đoán {x} sẽ nổi. | leaf,ball,coin,stone
+P {x} is a liquid. | {x} là chất lỏng. | Water,Milk,Juice,Oil
+P First, fill the {x} with water. | Đầu tiên, đổ đầy nước vào {x}. | jar,glass,bowl,bottle
+D Nổi hay chìm? | Bi,Kid
+> Bi: Let's do an experiment. Will this coin float or sink? | Mình làm thí nghiệm nhé. Đồng xu này sẽ nổi hay chìm?
+> Kid: I predict it will sink. It's made of metal. | Tớ đoán nó sẽ chìm. Nó làm bằng kim loại.
+> Bi: Let's see. Put it in the water. | Thử xem nào. Thả nó vào nước.
+> Kid: It's at the bottom! I was right. | Nó nằm dưới đáy rồi! Tớ đoán đúng.
+> Bi: Great! Now let's try a leaf. | Tuyệt! Giờ thử chiếc lá nhé.
+> Kid: I think the leaf will float. | Tớ nghĩ chiếc lá sẽ nổi.
+D Viên đá tan | Bi,Kid
+> Kid: Why is the ice cube getting smaller? | Sao viên đá lại nhỏ dần?
+> Bi: It's melting. A solid is changing into a liquid. | Nó đang tan. Chất rắn đang biến thành chất lỏng.
+> Kid: What happens if we put the water in the freezer? | Điều gì xảy ra nếu mình cho nước vào ngăn đá?
+> Bi: It will freeze and become solid again. | Nó sẽ đóng băng và lại thành chất rắn.
+R A rainbow experiment
+> You can make a rainbow at home with a simple experiment. You need a glass of water, a sheet of white paper and a sunny window. First, fill the glass with water. Then put it on a table near the window, in the sunlight. Next, put the white paper on the floor in front of the glass. Observe the paper carefully. What can you see? You should see the colours of the rainbow on the paper! This happens because the water bends the light, and white light is made of many colours. Record your result in your notebook.
+? What do you need for the experiment? | A glass of water, white paper and sunlight. | A magnet and a coin. | A balloon and some soap.
+? Where do you put the paper? | On the floor in front of the glass. | In the water. | On the window.
+? Why can you see a rainbow? | The water bends the light. | The paper is colourful. | The glass is magic.
+S First, | I predict that | The result was
+
+@U 5 | History | Lịch sử | Kể về cuộc sống ngày xưa ; Dùng "used to" để nói thói quen trong quá khứ
+G Nói điều thường xảy ra trong quá khứ nhưng nay không còn, dùng "used to + động từ": "People used to write letters." (Ngày xưa người ta hay viết thư.)
+W used to | đã từng (thói quen ngày xưa) | ~⏪ | My grandpa used to ride a bike to work. | Ông tớ từng đạp xe đi làm.
+W ancient | cổ đại | ~🏺 | The pyramids are ancient buildings. | Kim tự tháp là những công trình cổ đại.
+W century | thế kỷ | ~💯 | This house is one century old. | Ngôi nhà này đã một trăm năm tuổi.
+W emperor | hoàng đế | ~👑 | The emperor lived in a big palace. | Hoàng đế sống trong một cung điện lớn.
+W empire | đế chế | ~🗺️ | The empire was very large. | Đế chế ấy rất rộng lớn.
+W kingdom | vương quốc | ~🏰 | The king ruled the kingdom. | Nhà vua cai trị vương quốc.
+W palace | cung điện | ~🏯 | Hue has an old palace. | Huế có một cung điện cổ.
+W soldier | người lính | ~💂 | The soldier stood at the gate. | Người lính đứng ở cổng.
+W army | quân đội | ~💂 | The army protected the city. | Quân đội bảo vệ thành phố.
+W war | chiến tranh | ~⚔️ | My great-grandpa told me about the war. | Cụ tớ kể cho tớ về chiến tranh.
+W peace | hoà bình | ~🕊️ | Everyone wants peace. | Ai cũng muốn hoà bình.
+W pyramid | kim tự tháp | ~🔺 | The pyramids are in Egypt. | Kim tự tháp ở Ai Cập.
+W tomb | lăng mộ | ~⚱️ | The king's tomb is inside the pyramid. | Lăng mộ nhà vua ở bên trong kim tự tháp.
+W fossil | hoá thạch | ~🦴 | We saw a dinosaur fossil at the museum. | Bọn tớ thấy hoá thạch khủng long ở bảo tàng.
+W archaeologist | nhà khảo cổ | ~⛏️ | The archaeologist found an ancient pot. | Nhà khảo cổ tìm thấy một cái nồi cổ.
+W explorer | nhà thám hiểm | ~🧭 | The explorer sailed across the ocean. | Nhà thám hiểm đi thuyền vượt đại dương.
+W voyage | chuyến đi biển | ~⛵ | The voyage took three months. | Chuyến đi biển kéo dài ba tháng.
+W sail | đi thuyền buồm | ~⛵ | They sailed to a new island. | Họ đi thuyền đến một hòn đảo mới.
+W invention | phát minh | ~💡 | The telephone was a great invention. | Điện thoại là một phát minh vĩ đại.
+W tool | công cụ | 🔨 | People used stone tools long ago. | Ngày xưa người ta dùng công cụ bằng đá.
+W hunter | thợ săn | ~🏹 | The hunters lived in caves. | Những người thợ săn sống trong hang.
+W telephone | điện thoại bàn | ☎️ | My grandma has an old telephone. | Bà tớ có cái điện thoại bàn cũ.
+W steam train | tàu hơi nước | ~🚂 | Steam trains used to be very slow. | Tàu hơi nước ngày xưa rất chậm.
+W cart | xe kéo | ~🛒 | A horse pulled the cart. | Con ngựa kéo xe.
+W monument | đài tưởng niệm | ~🗿 | There is a monument in the city centre. | Có một đài tưởng niệm ở trung tâm thành phố.
+W legend | truyền thuyết | ~📜 | There is a legend about this lake. | Có một truyền thuyết về hồ này.
+W period | thời kỳ | ~📅 | It was a difficult period in history. | Đó là một thời kỳ khó khăn trong lịch sử.
+W modern | hiện đại | ~🏙️ | Modern phones are very small. | Điện thoại hiện đại rất nhỏ.
+W childhood | thời thơ ấu | ~🧒 | My dad had a happy childhood in the village. | Bố tớ có tuổi thơ hạnh phúc ở làng.
+W life | cuộc sống | ~🌱 | Life was very different in the past. | Cuộc sống ngày xưa rất khác.
+W die | chết | ~🥀 | Plants die without water. | Cây chết khi không có nước.
+W without | không có | ~🚫 | I can't live without music. | Tớ không thể sống thiếu âm nhạc.
+W simple | đơn giản | ~⚪ | Life in the village was simple. | Cuộc sống ở làng rất đơn giản.
+W wise | thông thái | ~🦉 | The old king was very wise. | Ông vua già rất thông thái.
+W old-fashioned | lỗi thời, cũ kỹ | ~📻 | This radio is old-fashioned. | Cái đài này cũ kỹ rồi.
+W nowadays | ngày nay | ~📱 | Nowadays, most people have phones. | Ngày nay, hầu hết mọi người đều có điện thoại.
+W in the past | ngày xưa | ~⏪ | In the past, there were no cars. | Ngày xưa không có ô tô.
+W during | trong suốt | ~⏳ | It rained during the night. | Trời mưa suốt đêm.
+W since | từ khi | ~📅 | I have lived here since I was born. | Tớ sống ở đây từ khi sinh ra.
+W national | quốc gia | ~🇻🇳 | Today is a national holiday. | Hôm nay là ngày lễ quốc gia.
+W lead | dẫn dắt | ~🚩 | The teacher leads us to the museum. | Cô giáo dẫn bọn tớ đến bảo tàng.
+W leader | người lãnh đạo | ~🧑‍✈️ | A good leader listens to people. | Người lãnh đạo giỏi biết lắng nghe mọi người.
+W trade | buôn bán | ~🤝 | People traded silk and spices. | Người ta buôn bán lụa và gia vị.
+W silk | lụa | ~🧵 | Her ao dai is made of silk. | Áo dài của cô ấy làm bằng lụa.
+P In the past, people used to {x}. | Ngày xưa, người ta thường {x}. | write letters,travel by horse,use candles,cook on a fire
+P Nowadays, people {x}. | Ngày nay, người ta {x}. | send emails,travel by plane,use electricity
+P My grandpa used to {x}. | Ông tớ từng {x}. | ride a bike to work,live in a village,be a farmer
+D Ngày xưa | Grandpa,Kid
+> Kid: Grandpa, what was life like when you were young? | Ông ơi, hồi ông còn nhỏ cuộc sống thế nào ạ?
+> Grandpa: It was very different. We didn't have a TV. | Rất khác cháu ạ. Nhà ông không có ti vi.
+> Kid: Really? What did you do in the evening? | Thật ạ? Buổi tối ông làm gì?
+> Grandpa: We used to tell stories and sing songs together. | Cả nhà thường kể chuyện và hát cùng nhau.
+> Kid: How did you go to school? | Ông đi học bằng gì ạ?
+> Grandpa: I used to walk three kilometres every day! | Ngày nào ông cũng đi bộ ba cây số!
+> Kid: Wow! That's a long way. | Oa! Xa quá ạ.
+D Ở bảo tàng | Bi,Kid
+> Bi: Look at this! It's a dinosaur fossil. | Nhìn này! Đây là hoá thạch khủng long.
+> Kid: How old is it? | Nó bao nhiêu tuổi rồi?
+> Bi: It's millions of years old. | Nó đã hàng triệu năm tuổi.
+> Kid: Who found it? | Ai đã tìm thấy nó?
+> Bi: A scientist found it in the desert. | Một nhà khoa học đã tìm thấy nó ở sa mạc.
+R Life a hundred years ago
+> Life a hundred years ago was very different from life nowadays. Most people lived in villages and worked on farms. There was no electricity in many homes, so people used candles and oil lamps. Children used to walk a long way to school, and some children didn't go to school at all. People travelled by horse, by cart or on foot. Only rich people had cars. There were no televisions or computers. In the evening, families used to sit together and tell stories. Although life was simple, it was often difficult. What do you think was better in the past?
+? Where did most people live a hundred years ago? | In villages. | In big cities. | In flats.
+? What did people use when there was no electricity? | Candles and oil lamps. | Torches. | Computers.
+? Who had cars? | Only rich people. | Everyone. | Children.
+S In the past, people used to | Nowadays, | My grandparents used to
+
+@U 6 | Amazing places | Những nơi kỳ thú | Mô tả một địa danh nổi tiếng ; Hỏi và kể trải nghiệm: "Have you ever been to...?"
+G Hỏi trải nghiệm dùng thì hiện tại hoàn thành: "Have you ever been to Ha Long Bay?" – "Yes, I have." / "No, I haven't." Sau "have" dùng dạng đặc biệt của động từ: be → been, see → seen, go → gone, do → done.
+W been | đã đến (be) | ~✈️ | Have you ever been to Hanoi? | Cậu đã bao giờ đến Hà Nội chưa?
+W seen | đã thấy (see) | ~👀 | I have seen a volcano on TV. | Tớ đã thấy núi lửa trên TV.
+W gone | đã đi (go) | ~🚶 | Dad has gone to work. | Bố đã đi làm rồi.
+W done | đã làm (do) | ~✔️ | I have done my homework. | Tớ đã làm bài tập rồi.
+W bay | vịnh | ~🏝️ | Ha Long Bay has many islands. | Vịnh Hạ Long có rất nhiều đảo.
+W volcano | núi lửa | 🌋 | The volcano is very high. | Ngọn núi lửa rất cao.
+W canyon | hẻm núi | ~🏜️ | A river runs through the canyon. | Một dòng sông chảy qua hẻm núi.
+W continent | châu lục | ~🌍 | Asia is the biggest continent. | Châu Á là châu lục lớn nhất.
+W valley | thung lũng | ~🏞️ | There is a village in the valley. | Có một ngôi làng trong thung lũng.
+W peak | đỉnh núi | ~🏔️ | We climbed to the peak. | Bọn tớ leo lên đỉnh núi.
+W landscape | phong cảnh | ~🏞️ | The landscape in Sa Pa is beautiful. | Phong cảnh ở Sa Pa rất đẹp.
+W scenery | cảnh vật | ~🖼️ | We enjoyed the scenery from the train. | Bọn tớ ngắm cảnh từ trên tàu.
+W wonder | kỳ quan | ~✨ | It is one of the wonders of the world. | Đó là một trong những kỳ quan thế giới.
+W heritage | di sản | ~🏛️ | Hue is a world heritage site. | Huế là một di sản thế giới.
+W site | địa điểm | ~📍 | This is a famous site. | Đây là một địa điểm nổi tiếng.
+W attraction | điểm thu hút khách | ~🎡 | The zoo is a popular attraction. | Sở thú là điểm tham quan được yêu thích.
+W landmark | địa danh | ~🗼 | The old bridge is a famous landmark. | Cây cầu cổ là một địa danh nổi tiếng.
+W population | dân số | ~👥 | The population of the city is very large. | Dân số thành phố rất đông.
+W border | biên giới | ~🚧 | Vietnam has a border with China. | Việt Nam có đường biên giới với Trung Quốc.
+W area | khu vực | ~🗺️ | This area has many parks. | Khu vực này có nhiều công viên.
+W enormous | khổng lồ | ~🐘 | The cave is enormous. | Hang động rộng khổng lồ.
+W height | chiều cao | ~📏 | What is the height of the mountain? | Ngọn núi cao bao nhiêu?
+W length | chiều dài | ~📏 | The length of the river is four thousand kilometres. | Con sông dài bốn nghìn ki-lô-mét.
+W unique | độc đáo | ~⭐ | This island has unique animals. | Hòn đảo này có những loài vật độc đáo.
+W rare | hiếm | ~💎 | This flower is very rare. | Loài hoa này rất hiếm.
+W photograph | bức ảnh | ~📷 | I took a photograph of the waterfall. | Tớ chụp một bức ảnh thác nước.
+W skyscraper | toà nhà chọc trời | ~🏙️ | There are many skyscrapers in big cities. | Các thành phố lớn có nhiều toà nhà chọc trời.
+W lava | dung nham | ~🌋 | Hot lava comes out of the volcano. | Dung nham nóng phun ra từ núi lửa.
+W erupt | phun trào | ~💥 | The volcano erupted last year. | Núi lửa phun trào năm ngoái.
+W hot spring | suối nước nóng | ♨️ | We swam in a hot spring. | Bọn tớ tắm suối nước nóng.
+W limestone | đá vôi | ~🪨 | The islands in Ha Long Bay are made of limestone. | Các đảo ở vịnh Hạ Long được tạo thành từ đá vôi.
+W terrace | ruộng bậc thang | ~🌾 | The rice terraces look like big stairs. | Ruộng bậc thang trông như những bậc cầu thang lớn.
+W delta | đồng bằng châu thổ | ~🌊 | The Mekong Delta has many rivers. | Đồng bằng sông Cửu Long có nhiều sông ngòi.
+W stream | con suối | ~💧 | We walked along a small stream. | Bọn tớ đi dọc một con suối nhỏ.
+W popular | được ưa chuộng | ~👍 | Football is very popular in Vietnam. | Bóng đá rất được ưa chuộng ở Việt Nam.
+W sand dune | đồi cát | ~🏜️ | We ran down the sand dunes. | Bọn tớ chạy xuống đồi cát.
+W iceberg | tảng băng trôi | ~🧊 | An iceberg is a huge piece of ice. | Tảng băng trôi là một khối băng khổng lồ.
+W North Pole | Bắc Cực | ~🧭 | It's very cold at the North Pole. | Ở Bắc Cực rất lạnh.
+W South Pole | Nam Cực | ~🐧 | Penguins live near the South Pole. | Chim cánh cụt sống gần Nam Cực.
+W equator | đường xích đạo | ~🌐 | It's hot near the equator. | Gần xích đạo trời nóng.
+W culture | văn hoá | ~🎎 | I want to learn about Japanese culture. | Tớ muốn tìm hiểu văn hoá Nhật Bản.
+W tradition | truyền thống | ~🏮 | Making sticky rice cakes is a Tet tradition. | Gói bánh chưng là truyền thống ngày Tết.
+W crowd | đám đông | ~👥 | There was a big crowd at the festival. | Có một đám đông lớn ở lễ hội.
+W admire | ngắm nhìn, ngưỡng mộ | ~😍 | We admired the view from the top. | Bọn tớ ngắm cảnh từ trên đỉnh.
+P Have you ever been to {x}? | Cậu đã bao giờ đến {x} chưa? | Ha Long Bay,Hue,Sa Pa,the Mekong Delta
+P I have never seen a {x}. | Tớ chưa bao giờ thấy {x}. | volcano,iceberg,canyon,hot spring
+P The {x} is very famous. | {x} rất nổi tiếng. | bay,landmark,palace,temple
+D Cậu đã từng đến chưa? | Bi,Kid
+> Bi: Have you ever been to Sa Pa? | Cậu đã bao giờ đến Sa Pa chưa?
+> Kid: Yes, I have. I went there last winter. | Rồi. Tớ đến đó mùa đông năm ngoái.
+> Bi: What was it like? | Ở đó thế nào?
+> Kid: It was cold, but the scenery was amazing. | Trời lạnh, nhưng cảnh đẹp tuyệt.
+> Bi: Did you see the rice terraces? | Cậu có thấy ruộng bậc thang không?
+> Kid: Yes! They look like big green stairs. | Có! Trông như những bậc cầu thang xanh khổng lồ.
+D Núi lửa | Bi,Kid
+> Kid: Have you ever seen a volcano, Bi? | Bi đã bao giờ thấy núi lửa chưa?
+> Bi: Only in a documentary. It erupted, and hot lava came out. | Chỉ trong phim tài liệu thôi. Nó phun trào và dung nham nóng chảy ra.
+> Kid: Wow! Is it dangerous to live near a volcano? | Oa! Sống gần núi lửa có nguy hiểm không?
+> Bi: It can be. But the land near volcanoes is good for farming. | Có thể. Nhưng đất gần núi lửa rất tốt cho trồng trọt.
+R Ha Long Bay
+> Ha Long Bay is one of the most famous landmarks in Vietnam. It is in the north of the country, near the Chinese border. The bay has nearly two thousand islands. Most of them are made of limestone, and some have enormous caves inside. Ha Long Bay is a world heritage site, and millions of tourists visit it every year. Visitors can take a boat trip, swim, or go in a kayak between the islands. There is a legend that a family of dragons made the bay. Have you ever been there? If not, you should definitely go!
+? Where is Ha Long Bay? | In the north of Vietnam. | In the south of Vietnam. | In Thailand.
+? What are most of the islands made of? | Limestone. | Sand. | Ice.
+? What does the legend say made the bay? | A family of dragons. | A giant. | An emperor.
+S I have been to | I have never | The most amazing place I know is
+
+@U 7 | Animals in danger | Động vật có nguy cơ tuyệt chủng | Giải thích vì sao động vật gặp nguy hiểm ; Đề xuất cách bảo vệ động vật hoang dã
+G Câu bị động nói điều xảy ra với ai/cái gì: "Pandas are protected in national parks." (Gấu trúc được bảo vệ trong vườn quốc gia.) Cấu trúc: "be + động từ dạng quá khứ phân từ".
+W endangered | có nguy cơ tuyệt chủng | ~⚠️ | Tigers are endangered animals. | Hổ là loài động vật có nguy cơ tuyệt chủng.
+W extinct | tuyệt chủng | ~🦖 | Dinosaurs are extinct. | Khủng long đã tuyệt chủng.
+W species | loài | ~🐾 | There are many species of birds in the forest. | Trong rừng có nhiều loài chim.
+W wildlife | động vật hoang dã | ~🦓 | We should protect wildlife. | Chúng ta nên bảo vệ động vật hoang dã.
+W survive | sống sót | ~💪 | Animals can't survive without water. | Động vật không thể sống sót nếu thiếu nước.
+W rescue | giải cứu | ~🚑 | They rescued a baby elephant. | Họ đã giải cứu một chú voi con.
+W destroy | phá huỷ | ~💥 | People destroy forests to make farms. | Con người phá rừng để làm trang trại.
+W illegal | bất hợp pháp | ~🚫 | It's illegal to hunt tigers. | Săn hổ là bất hợp pháp.
+W tusk | ngà | ~🐘 | Elephants have long tusks. | Voi có ngà dài.
+W national park | vườn quốc gia | ~🏞️ | We saw monkeys in the national park. | Bọn tớ thấy khỉ ở vườn quốc gia.
+W reserve | khu bảo tồn | ~🌳 | The animals are safe in the reserve. | Động vật được an toàn trong khu bảo tồn.
+W ranger | kiểm lâm | ~🥾 | The ranger looks after the animals. | Kiểm lâm chăm sóc động vật.
+W release | thả | ~🕊️ | They released the turtle into the sea. | Họ thả con rùa về biển.
+W tame | đã được thuần hoá | ~🐕 | Wild animals are not tame. | Động vật hoang dã không được thuần hoá.
+W few | ít | ~🤏 | There are very few pandas in the wild. | Trong tự nhiên còn rất ít gấu trúc.
+W orangutan | đười ươi | 🦧 | Orangutans live in the rainforest. | Đười ươi sống trong rừng mưa nhiệt đới.
+W snow leopard | báo tuyết | ~🐆 | Snow leopards live in high mountains. | Báo tuyết sống ở vùng núi cao.
+W food chain | chuỗi thức ăn | ~🔗 | Every animal is part of a food chain. | Mỗi con vật là một phần của chuỗi thức ăn.
+W predator | động vật săn mồi | ~🦁 | Lions are predators. | Sư tử là động vật săn mồi.
+W prey | con mồi | ~🐇 | Mice are prey for owls. | Chuột là con mồi của cú.
+W farming | trồng trọt, chăn nuôi | ~🚜 | Farming needs a lot of land. | Trồng trọt cần nhiều đất.
+W adopt | nhận nuôi | ~💗 | Our class adopted a turtle at the reserve. | Lớp tớ nhận nuôi một con rùa ở khu bảo tồn.
+W donate | quyên góp | ~🎁 | We donated money to help the animals. | Bọn tớ quyên góp tiền để giúp động vật.
+W charity | tổ chức từ thiện | ~🤲 | This charity protects elephants. | Tổ chức từ thiện này bảo vệ loài voi.
+W cub | con non (thú) | ~🐻 | The tiger has two cubs. | Con hổ có hai hổ con.
+W mammal | động vật có vú | ~🐋 | Whales and dolphins are mammals. | Cá voi và cá heo là động vật có vú.
+W reptile | bò sát | ~🦎 | Snakes and crocodiles are reptiles. | Rắn và cá sấu là loài bò sát.
+W threat | mối đe doạ | ~⚠️ | Plastic is a threat to sea animals. | Nhựa là mối đe doạ với động vật biển.
+W law | luật pháp | ~⚖️ | There is a law to protect wild animals. | Có luật bảo vệ động vật hoang dã.
+W ban | cấm | ~🚫 | The government banned hunting. | Chính phủ đã cấm săn bắt.
+W trap | cái bẫy | ~🪤 | The ranger found a trap in the forest. | Kiểm lâm tìm thấy một cái bẫy trong rừng.
+W injured | bị thương | ~🤕 | The vet helped an injured bird. | Bác sĩ thú y giúp một chú chim bị thương.
+W recover | hồi phục | ~💪 | The bird recovered and flew away. | Chú chim hồi phục và bay đi.
+W track | theo dấu | ~👣 | Scientists track the tigers with cameras. | Các nhà khoa học theo dõi hổ bằng máy ảnh.
+W balance | sự cân bằng | ~⚖️ | Every species is important for the balance of nature. | Mỗi loài đều quan trọng cho sự cân bằng của tự nhiên.
+W ecosystem | hệ sinh thái | ~🌍 | The rainforest is an important ecosystem. | Rừng mưa nhiệt đới là một hệ sinh thái quan trọng.
+W pangolin | con tê tê | ~🦔 | Pangolins are shy animals with scales. | Tê tê là loài vật nhút nhát có vảy.
+W sea turtle | rùa biển | ~🐢 | Sea turtles lay eggs on the beach. | Rùa biển đẻ trứng trên bãi biển.
+W disappear | biến mất | ~👻 | Many forests are disappearing. | Nhiều khu rừng đang biến mất.
+W guard | canh gác | ~💂 | Rangers guard the national park. | Kiểm lâm canh gác vườn quốc gia.
+W ivory | ngà voi | ~🐘 | Buying ivory is illegal. | Mua ngà voi là bất hợp pháp.
+W creature | sinh vật | ~🐾 | The ocean is full of amazing creatures. | Đại dương đầy những sinh vật kỳ thú.
+W tropical | nhiệt đới | ~🌴 | Vietnam has a tropical climate. | Việt Nam có khí hậu nhiệt đới.
+W breed | sinh sản, nhân giống | ~🐣 | The zoo breeds pandas. | Sở thú nhân giống gấu trúc.
+P {x} are endangered. | {x} đang có nguy cơ tuyệt chủng. | Tigers,Pandas,Orangutans,Sea turtles
+P We can help animals by {x}. | Chúng ta có thể giúp động vật bằng cách {x}. | recycling plastic,donating money,protecting forests
+P {x} are protected in the national park. | {x} được bảo vệ trong vườn quốc gia. | Monkeys,Tigers,Birds,Pangolins
+D Cứu rùa biển | Bi,Kid
+> Kid: Why are sea turtles endangered? | Sao rùa biển lại có nguy cơ tuyệt chủng?
+> Bi: They eat plastic bags. They think the bags are jellyfish. | Chúng ăn túi nhựa. Chúng tưởng túi là con sứa.
+> Kid: That's terrible! What else is a threat? | Thật kinh khủng! Còn mối đe doạ nào nữa?
+> Bi: Fishing nets and hotels on the beaches. | Lưới đánh cá và khách sạn trên bãi biển.
+> Kid: How can we help them? | Mình có thể giúp chúng thế nào?
+> Bi: We can reduce plastic and donate to a turtle charity. | Mình có thể giảm nhựa và quyên góp cho tổ chức bảo vệ rùa.
+D Thăm khu bảo tồn | Ranger,Kid
+> Ranger: Welcome to the reserve! | Chào mừng đến khu bảo tồn!
+> Kid: What animals live here? | Những con vật nào sống ở đây ạ?
+> Ranger: Monkeys, birds and two rare pangolins. | Khỉ, chim và hai con tê tê quý hiếm.
+> Kid: Can I touch the pangolins? | Cháu chạm vào tê tê được không ạ?
+> Ranger: No, sorry. They are wild and very shy. | Không được cháu ạ. Chúng là động vật hoang dã và rất nhút nhát.
+R The return of the pandas
+> Giant pandas live in the mountains of China. Many years ago, pandas were endangered. People cut down the bamboo forests, and pandas lost their habitat. There were very few pandas left in the wild. Then the government made new laws to protect them. They created national parks and reserves. Rangers guarded the forests, and scientists studied the pandas. Zoos also helped to breed baby pandas. Now the number of pandas is increasing. They are still rare, but they are no longer endangered. This story shows that we can save animals if we work together.
+? Why were pandas endangered? | People cut down the bamboo forests. | It was too cold. | They ate plastic.
+? What did zoos do? | They helped to breed baby pandas. | They hunted pandas. | They cut down forests.
+? What is happening to the number of pandas now? | It is increasing. | It is decreasing. | It is the same.
+S Tigers are endangered because | We can protect animals by | My favourite wild animal is
+
+@U 8 | Art and music | Nghệ thuật và âm nhạc | Nói về các loại hình nghệ thuật và nhạc cụ ; Nói cảm nhận về một tác phẩm hay buổi biểu diễn
+G Tính từ đuôi "-ing" tả sự vật (The concert was exciting.), đuôi "-ed" tả cảm xúc của người (I was excited.). Tương tự: interesting/interested, boring/bored.
+W painting | bức tranh | ~🖼️ | This painting shows a beautiful river. | Bức tranh này vẽ một dòng sông đẹp.
+W sculpture | tác phẩm điêu khắc | ~🗿 | There is a stone sculpture in the park. | Có một tác phẩm điêu khắc bằng đá trong công viên.
+W portrait | bức chân dung | ~🧑‍🎨 | I painted a portrait of my mum. | Tớ vẽ chân dung mẹ.
+W canvas | vải vẽ | ~⬜ | The artist paints on canvas. | Hoạ sĩ vẽ trên vải canvas.
+W sketch | bản phác thảo | ~✏️ | First, I make a quick sketch with a pencil. | Đầu tiên, tớ phác thảo nhanh bằng bút chì.
+W design | thiết kế | ~📐 | She designed a new poster for our club. | Bạn ấy thiết kế áp phích mới cho câu lạc bộ.
+W exhibition | triển lãm | ~🏛️ | We went to an art exhibition. | Bọn tớ đi xem triển lãm nghệ thuật.
+W creative | sáng tạo | ~🌈 | Lan is very creative. She makes her own toys. | Lan rất sáng tạo. Bạn ấy tự làm đồ chơi.
+W imagination | trí tưởng tượng | ~💭 | Use your imagination! | Hãy dùng trí tưởng tượng của cậu!
+W imagine | tưởng tượng | ~💭 | Imagine you can fly! | Hãy tưởng tượng cậu biết bay!
+W instrument | nhạc cụ | ~🎼 | Can you play an instrument? | Cậu có chơi nhạc cụ nào không?
+W flute | sáo | ~🎶 | She plays the flute in the band. | Bạn ấy thổi sáo trong ban nhạc.
+W trumpet | kèn trumpet | 🎺 | The trumpet is very loud. | Kèn trumpet rất to.
+W saxophone | kèn saxophone | ~🎷 | My uncle plays the saxophone. | Chú tớ chơi kèn saxophone.
+W recorder | sáo dọc | ~🎶 | We learn the recorder at school. | Ở trường bọn tớ học thổi sáo dọc.
+W cello | đàn cello | ~🎻 | The cello is bigger than the violin. | Đàn cello to hơn đàn violin.
+W orchestra | dàn nhạc giao hưởng | ~🎻 | The orchestra has fifty musicians. | Dàn nhạc có năm mươi nhạc công.
+W band | ban nhạc | ~🎸 | My brother plays the drums in a band. | Anh tớ chơi trống trong một ban nhạc.
+W choir | dàn hợp xướng | ~🎤 | I sing in the school choir. | Tớ hát trong dàn hợp xướng của trường.
+W conductor | nhạc trưởng | ~🎼 | The conductor leads the orchestra. | Nhạc trưởng chỉ huy dàn nhạc.
+W composer | nhà soạn nhạc | ~🎼 | A composer writes music. | Nhà soạn nhạc viết nhạc.
+W rhythm | nhịp điệu | ~🥁 | Clap your hands to the rhythm. | Vỗ tay theo nhịp điệu.
+W melody | giai điệu | ~🎵 | This song has a beautiful melody. | Bài hát này có giai điệu đẹp.
+W tune | bản nhạc | ~🎶 | Can you play this tune on the piano? | Cậu chơi được bản nhạc này trên đàn piano không?
+W perform | biểu diễn | ~🎭 | Our class performed a play. | Lớp tớ biểu diễn một vở kịch.
+W performance | buổi biểu diễn | ~🎭 | The performance was excellent. | Buổi biểu diễn rất xuất sắc.
+W audience | khán giả | ~👏 | The audience clapped loudly. | Khán giả vỗ tay rất to.
+W stage | sân khấu | ~🎪 | The dancers are on the stage. | Các vũ công đang ở trên sân khấu.
+W rehearsal | buổi tập dượt | ~🔁 | We have a rehearsal before the show. | Bọn tớ tập dượt trước buổi biểu diễn.
+W talent | tài năng, năng khiếu | ~🌟 | She has a talent for music. | Bạn ấy có năng khiếu âm nhạc.
+W talented | tài năng | ~🌟 | He is a talented dancer. | Anh ấy là một vũ công tài năng.
+W pop music | nhạc pop | ~🎧 | Many young people like pop music. | Nhiều bạn trẻ thích nhạc pop.
+W classical | cổ điển | ~🎻 | Grandpa listens to classical music. | Ông nghe nhạc cổ điển.
+W folk | dân gian | ~🎶 | We learned a Vietnamese folk song. | Bọn tớ học một bài dân ca Việt Nam.
+W ballet | múa ba lê | 🩰 | My sister goes to ballet classes. | Chị tớ đi học múa ba lê.
+W poem | bài thơ | ~📜 | I wrote a poem about the sea. | Tớ viết một bài thơ về biển.
+W poet | nhà thơ | ~✍️ | The poet read his poems to us. | Nhà thơ đọc thơ cho bọn tớ nghe.
+W comic | truyện tranh | ~💥 | I like reading comics. | Tớ thích đọc truyện tranh.
+W puppet | con rối | ~🧸 | The puppet can dance. | Con rối biết nhảy múa.
+W water puppetry | múa rối nước | ~🎎 | Water puppetry is a Vietnamese tradition. | Múa rối nước là một truyền thống của Việt Nam.
+W express | bày tỏ | ~💬 | Music helps us express our feelings. | Âm nhạc giúp ta bày tỏ cảm xúc.
+W beauty | vẻ đẹp | ~🌸 | We admired the beauty of the painting. | Bọn tớ ngắm vẻ đẹp của bức tranh.
+W style | phong cách | ~👗 | I like the style of this artist. | Tớ thích phong cách của hoạ sĩ này.
+W pottery | đồ gốm | 🏺 | We made pottery in the art lesson. | Bọn tớ làm đồ gốm trong giờ mỹ thuật.
+P I can play the {x}. | Tớ chơi được {x}. | piano,guitar,flute,recorder
+P The {x} was amazing! | {x} thật tuyệt! | concert,performance,exhibition,ballet
+P I'd like to learn {x}. | Tớ muốn học {x}. | ballet,the trumpet,pottery,the cello
+D Buổi biểu diễn | Bi,Kid | piano,violin,flute
+> Bi: Are you nervous about the performance? | Cậu có hồi hộp về buổi biểu diễn không?
+> Kid: A little. I'm going to play the piano on stage. | Hơi hồi hộp. Tớ sẽ chơi piano trên sân khấu.
+> Bi: You practised a lot. You will be great! | Cậu đã luyện tập nhiều. Cậu sẽ làm tốt thôi!
+> Kid: Thanks. Will you be in the audience? | Cảm ơn. Cậu có ngồi dưới khán giả không?
+> Bi: Of course! I'll clap the loudest! | Tất nhiên! Tớ sẽ vỗ tay to nhất!
+D Ở triển lãm | Bi,Kid
+> Kid: Which painting do you like best? | Cậu thích bức tranh nào nhất?
+> Bi: I like the portrait of the old woman. | Tớ thích bức chân dung bà cụ.
+> Kid: Why? | Sao vậy?
+> Bi: Because her face shows so many feelings. | Vì khuôn mặt bà thể hiện rất nhiều cảm xúc.
+> Kid: I prefer the landscape. The colours are so bright. | Tớ thích bức phong cảnh hơn. Màu sắc rất tươi sáng.
+R Water puppets
+> Water puppetry is a traditional art from the north of Vietnam. It started in villages hundreds of years ago. Farmers used to perform shows on ponds and lakes after the rice harvest. The puppets are made of wood, and they are painted in bright colours. The puppeteers stand behind a curtain in the water. They use long sticks under the water to move the puppets. Musicians play traditional instruments, and singers tell the story. The audience loves the funny stories about farmers, animals and dragons. If you visit Hanoi, you should watch a water puppet show!
+? Where did water puppetry start? | In villages in the north of Vietnam. | In big cities. | In Japan.
+? What are the puppets made of? | Wood. | Plastic. | Paper.
+? Where do the puppeteers stand? | Behind a curtain in the water. | On the stage. | In the audience.
+S My favourite kind of music is | I'd like to learn | The best performance I have seen
+
+@U 9 | Books and stories | Sách và truyện | Nói về cuốn sách yêu thích: nhân vật, cốt truyện, kết thúc ; Viết nhận xét ngắn giới thiệu một cuốn sách
+G Kể lại câu chuyện dùng thì quá khứ và các cụm nối: at the beginning (lúc đầu), then (rồi), in the end (cuối cùng). Nối ý bằng because (vì), so (nên), but (nhưng).
+W author | tác giả | ~✍️ | Who is the author of this book? | Tác giả cuốn sách này là ai?
+W character | nhân vật | ~🧙 | My favourite character is the brave girl. | Nhân vật tớ thích nhất là cô bé dũng cảm.
+W main character | nhân vật chính | ~🦸 | The main character is a clever fox. | Nhân vật chính là một chú cáo thông minh.
+W plot | cốt truyện | ~🗺️ | The plot of this story is exciting. | Cốt truyện này rất hấp dẫn.
+W title | tên sách, tiêu đề | ~🔤 | What is the title of the book? | Tên cuốn sách là gì?
+W chapter | chương | ~📑 | I read one chapter every night. | Tối nào tớ cũng đọc một chương.
+W page | trang | ~📄 | Turn to page twenty. | Mở sang trang hai mươi.
+W cover | bìa sách | ~📕 | The book has a colourful cover. | Cuốn sách có bìa nhiều màu sắc.
+W novel | tiểu thuyết | ~📖 | My sister is reading a long novel. | Chị tớ đang đọc một cuốn tiểu thuyết dài.
+W fiction | truyện hư cấu | ~🐉 | Fiction is a story from the writer's imagination. | Truyện hư cấu là câu chuyện từ trí tưởng tượng của tác giả.
+W non-fiction | sách phi hư cấu | ~📚 | Non-fiction books tell us real facts. | Sách phi hư cấu cho ta biết sự thật.
+W fairy tale | truyện cổ tích | ~🧚 | My grandma tells me fairy tales. | Bà kể truyện cổ tích cho tớ nghe.
+W mystery | điều bí ẩn | ~🕵️ | I love mystery stories. | Tớ mê truyện bí ẩn.
+W detective | thám tử | 🕵️ | The detective found the thief. | Thám tử đã tìm ra tên trộm.
+W science fiction | khoa học viễn tưởng | ~👽 | This science fiction story is about robots on Mars. | Truyện khoa học viễn tưởng này kể về rô-bốt trên sao Hoả.
+W ending | kết thúc | ~🔚 | The story has a happy ending. | Câu chuyện có kết thúc có hậu.
+W beginning | phần mở đầu | ~▶️ | The beginning of the book is a bit slow. | Phần đầu cuốn sách hơi chậm.
+W solve | giải quyết, giải | ~🧩 | Can you solve this puzzle? | Cậu giải được câu đố này không?
+W clue | manh mối | ~🔍 | The detective found a clue. | Thám tử tìm thấy một manh mối.
+W villain | kẻ xấu | ~😈 | The villain wanted to steal the gold. | Kẻ xấu muốn lấy trộm vàng.
+W review | bài nhận xét | ~⭐ | I wrote a review of my favourite book. | Tớ viết bài nhận xét về cuốn sách yêu thích.
+W recommend | giới thiệu, gợi ý | ~👍 | I recommend this book to everyone. | Tớ giới thiệu cuốn sách này cho mọi người.
+W bookworm | mọt sách | ~🐛 | My brother is a bookworm. | Anh tớ là một con mọt sách.
+W illustration | tranh minh hoạ | ~🖍️ | The illustrations in this book are beautiful. | Tranh minh hoạ trong sách rất đẹp.
+W illustrator | hoạ sĩ minh hoạ | ~🎨 | The illustrator drew funny animals. | Hoạ sĩ minh hoạ vẽ những con vật vui nhộn.
+W paragraph | đoạn văn | ~📃 | Write a paragraph about your family. | Viết một đoạn văn về gia đình em.
+W sentence | câu | ~✏️ | Read the first sentence again. | Đọc lại câu đầu tiên.
+W word | từ | ~🔤 | How many words can you spell? | Cậu đánh vần được bao nhiêu từ?
+W describe | miêu tả | ~🗣️ | Describe your best friend. | Hãy tả bạn thân của em.
+W description | sự miêu tả | ~📝 | The description of the castle is very clear. | Đoạn tả lâu đài rất rõ ràng.
+W moral | bài học (của truyện) | ~💡 | The moral of the story is to be honest. | Bài học của câu chuyện là phải trung thực.
+W at the beginning | lúc đầu | ~⏮️ | At the beginning, the boy was lonely. | Lúc đầu, cậu bé rất cô đơn.
+W in the end | cuối cùng | ~⏭️ | In the end, everyone was happy. | Cuối cùng, mọi người đều vui vẻ.
+W reader | người đọc | ~📖 | The book is popular with young readers. | Cuốn sách được các bạn đọc nhỏ tuổi yêu thích.
+W text | văn bản | ~📄 | Read the text and answer the questions. | Đọc văn bản và trả lời câu hỏi.
+W summary | bản tóm tắt | ~📋 | Write a short summary of the story. | Viết tóm tắt ngắn câu chuyện.
+W setting | bối cảnh | ~🏰 | The setting of the story is a small island. | Bối cảnh câu chuyện là một hòn đảo nhỏ.
+W event | sự kiện | ~📅 | The book fair is a big event at our school. | Hội sách là sự kiện lớn ở trường tớ.
+W diary | nhật ký | 📔 | I write in my diary every night. | Tối nào tớ cũng viết nhật ký.
+W encyclopedia | bách khoa toàn thư | ~📚 | I found the answer in the encyclopedia. | Tớ tìm thấy câu trả lời trong bách khoa toàn thư.
+W biography | tiểu sử | ~🧑 | I read a biography of a famous scientist. | Tớ đọc tiểu sử một nhà khoa học nổi tiếng.
+W bookmark | thẻ đánh dấu trang | 🔖 | I use a bookmark to keep my page. | Tớ dùng thẻ đánh dấu để giữ trang đang đọc.
+W whisper | thì thầm | ~🤫 | Please whisper in the library. | Hãy nói thầm trong thư viện.
+W luckily | may mắn thay | ~🍀 | Luckily, the detective arrived on time. | May mắn thay, thám tử đến kịp lúc.
+P The main character is {x}. | Nhân vật chính là {x}. | a clever fox,a brave girl,a little robot,a kind giant
+P I recommend this book because it's {x}. | Tớ giới thiệu cuốn sách này vì nó {x}. | exciting,funny,interesting,beautiful
+P In the end, {x}. | Cuối cùng, {x}. | everyone was happy,they found the treasure,the detective solved the mystery
+D Cuốn sách yêu thích | Bi,Kid
+> Bi: What are you reading? | Cậu đang đọc gì vậy?
+> Kid: A mystery story. The main character is a young detective. | Một truyện bí ẩn. Nhân vật chính là một thám tử nhỏ tuổi.
+> Bi: What happens in the story? | Trong truyện xảy ra chuyện gì?
+> Kid: Someone steals a painting, and she looks for clues. | Có người lấy trộm một bức tranh, và cô bé đi tìm manh mối.
+> Bi: Does she solve the mystery? | Cô bé có giải được bí ẩn không?
+> Kid: I don't know yet. I'm only on chapter three! | Tớ chưa biết. Tớ mới đọc đến chương ba thôi!
+D Ở thư viện | Librarian,Kid
+> Kid: Excuse me. Can you recommend a book? | Cô ơi, cô giới thiệu cho cháu một cuốn sách được không ạ?
+> Librarian: Sure. Do you like fiction or non-fiction? | Được chứ. Cháu thích truyện hư cấu hay sách phi hư cấu?
+> Kid: I like science fiction. | Cháu thích truyện khoa học viễn tưởng.
+> Librarian: Try this one. It's about a robot in space. | Thử cuốn này nhé. Nó kể về một rô-bốt trong vũ trụ.
+> Kid: It looks great. Can I borrow it for two weeks? | Trông hay quá. Cháu mượn hai tuần được không ạ?
+> Librarian: Yes. Please whisper in the library. | Được. Nhớ nói nhỏ trong thư viện nhé.
+R A book review
+> Title: The Lost Lantern. This book is a mystery story for children. The main character is Kim, a curious girl who lives in an old town. At the beginning of the story, a magic lantern disappears during the Mid-Autumn Festival. Kim follows the clues and meets some funny characters. The illustrations are colourful and beautiful. The plot is exciting, and I couldn't stop reading! In the end, Kim solves the mystery and saves the festival. The moral of the story is that you should never give up. I recommend this book to everyone who loves mysteries.
+? Who is the main character? | Kim. | The author. | A magic lantern.
+? What disappears at the beginning? | A magic lantern. | A painting. | A dog.
+? What is the moral of the story? | You should never give up. | You should be quiet. | You should eat well.
+S My favourite book is | The main character is | I recommend it because
+
+@U 10 | The human body | Cơ thể con người | Gọi tên các bộ phận cơ thể và cơ quan bên trong ; Giải thích chức năng của chúng và cách giữ gìn sức khoẻ
+G Nói chức năng dùng "help + người + động từ": "Our lungs help us breathe." (Phổi giúp chúng ta thở.) "Your brain controls your body."
+W health | sức khoẻ | ~💚 | Sleep is important for your health. | Giấc ngủ quan trọng cho sức khoẻ.
+W brain | bộ não | ~🧠 | Your brain controls your body. | Bộ não điều khiển cơ thể.
+W lungs | phổi | 🫁 | Our lungs help us breathe. | Phổi giúp chúng ta thở.
+W bone | xương | 🦴 | Milk helps to make your bones strong. | Sữa giúp xương chắc khoẻ.
+W muscle | cơ bắp | ~💪 | Exercise makes your muscles strong. | Tập thể dục làm cơ bắp khoẻ.
+W skin | da | ~✋ | Sunscreen protects your skin. | Kem chống nắng bảo vệ da.
+W blood | máu | ~🩸 | Your heart pumps blood around your body. | Tim bơm máu đi khắp cơ thể.
+W skeleton | bộ xương | ~🦴 | There are over two hundred bones in your skeleton. | Bộ xương có hơn hai trăm cái xương.
+W organ | cơ quan (cơ thể) | ~🫀 | The heart is an important organ. | Tim là một cơ quan quan trọng.
+W sense | giác quan | ~👃 | We have five senses. | Chúng ta có năm giác quan.
+W sight | thị giác | ~👁️ | Owls have very good sight. | Cú có thị lực rất tốt.
+W hearing | thính giác | ~👂 | Dogs have excellent hearing. | Chó có thính giác tuyệt vời.
+W tongue | cái lưỡi | 👅 | We taste food with our tongue. | Chúng ta nếm thức ăn bằng lưỡi.
+W lips | đôi môi | ~👄 | Put some cream on your lips. | Bôi chút kem lên môi.
+W cheek | má | ~☺️ | The baby has round cheeks. | Em bé có đôi má tròn.
+W chin | cằm | ~🧔 | He has a cut on his chin. | Anh ấy bị đứt ở cằm.
+W forehead | trán | ~🙂 | Mum touched my forehead. It was hot. | Mẹ sờ trán tớ. Trán nóng.
+W eyebrow | lông mày | ~🤨 | She has thick eyebrows. | Bạn ấy có lông mày rậm.
+W shoulder | vai | ~🤷 | Dad carried me on his shoulders. | Bố cõng tớ trên vai.
+W elbow | khuỷu tay | ~💪 | Don't put your elbows on the table. | Đừng chống khuỷu tay lên bàn.
+W wrist | cổ tay | ~⌚ | I wear a watch on my wrist. | Tớ đeo đồng hồ ở cổ tay.
+W thumb | ngón cái | ~👍 | Give me a thumbs up! | Giơ ngón cái lên nào!
+W toe | ngón chân | ~🦶 | I have ten toes. | Tớ có mười ngón chân.
+W ankle | mắt cá chân | ~🦶 | I hurt my ankle in the football match. | Tớ bị đau mắt cá chân trong trận bóng.
+W chest | ngực | ~🫁 | Put your hand on your chest. | Đặt tay lên ngực.
+W neck | cổ | ~🧣 | Giraffes have very long necks. | Hươu cao cổ có cái cổ rất dài.
+W digest | tiêu hoá | ~🍽️ | Your stomach helps you digest food. | Dạ dày giúp tiêu hoá thức ăn.
+W oxygen | ô-xi | ~💨 | We need oxygen to live. | Chúng ta cần ô-xi để sống.
+W pump | bơm | ~⛽ | The heart pumps blood. | Tim bơm máu.
+W pulse | mạch | ~💓 | The nurse checked my pulse. | Cô y tá bắt mạch cho tớ.
+W protein | chất đạm | ~🥚 | Eggs and fish have a lot of protein. | Trứng và cá có nhiều chất đạm.
+W strength | sức mạnh | ~💪 | You need strength to climb a rope. | Cần có sức mạnh để leo dây.
+W fingernail | móng tay | ~💅 | Keep your fingernails short and clean. | Giữ móng tay ngắn và sạch.
+W heartbeat | nhịp tim | ~💓 | Your heartbeat is fast after running. | Nhịp tim nhanh sau khi chạy.
+W control | điều khiển | ~🎮 | The brain controls everything we do. | Bộ não điều khiển mọi việc ta làm.
+W signal | tín hiệu | ~📶 | Nerves send signals to the brain. | Dây thần kinh gửi tín hiệu lên não.
+W repair | sửa chữa, phục hồi | ~🔧 | Sleep helps your body repair itself. | Giấc ngủ giúp cơ thể tự phục hồi.
+W injury | chấn thương | ~🤕 | Warm up to avoid injuries. | Khởi động để tránh chấn thương.
+W blink | chớp mắt | ~😉 | We blink many times every minute. | Chúng ta chớp mắt nhiều lần mỗi phút.
+W yawn | ngáp | ~🥱 | I yawn when I'm tired. | Tớ ngáp khi mệt.
+W hiccup | nấc cụt | ~😮 | Drink some water to stop your hiccups. | Uống chút nước để hết nấc.
+W shiver | run (vì lạnh) | ~🥶 | I shiver when I'm cold. | Tớ run khi bị lạnh.
+W jaw | hàm | ~🦷 | Your teeth are in your jaw. | Răng nằm trên hàm.
+W hip | hông | ~🕺 | Put your hands on your hips. | Chống tay lên hông.
+P Exercise makes your {x} strong. | Tập thể dục làm {x} khoẻ mạnh. | muscles,bones,heart,lungs
+P I hurt my {x}. | Tớ bị đau {x}. | ankle,wrist,elbow,shoulder
+P The {x} is an important organ. | {x} là một cơ quan quan trọng. | heart,brain,stomach
+D Cơ thể kỳ diệu | Bi,Kid
+> Kid: Bi, why does my heart beat fast after running? | Bi ơi, sao tim tớ đập nhanh sau khi chạy?
+> Bi: Your muscles need more oxygen, so your heart pumps faster. | Cơ bắp cần nhiều ô-xi hơn, nên tim bơm nhanh hơn.
+> Kid: And why do I breathe fast too? | Thế sao tớ cũng thở nhanh?
+> Bi: Your lungs take in more air to get more oxygen. | Phổi hít thêm không khí để lấy thêm ô-xi.
+> Kid: Our body is amazing! | Cơ thể mình thật kỳ diệu!
+D Bị đau mắt cá | Coach,Kid
+> Coach: What happened? | Có chuyện gì vậy?
+> Kid: I fell and hurt my ankle. | Cháu bị ngã và đau mắt cá chân.
+> Coach: Can you move your toes? | Cháu cử động ngón chân được không?
+> Kid: Yes, but it's painful. | Được ạ, nhưng đau lắm.
+> Coach: Sit down and put some ice on it. Did you warm up? | Ngồi xuống và chườm đá đi. Cháu có khởi động không?
+> Kid: No, I forgot. Next time I will! | Không ạ, cháu quên. Lần sau cháu sẽ nhớ!
+R How your body works
+> Your body is like an amazing machine. Your brain is the control centre. It controls everything you do, from walking to thinking. Your heart is a strong muscle. It pumps blood around your body all day and all night. Your blood carries oxygen from your lungs to every part of your body. Your skeleton has over two hundred bones. It holds you up and protects your organs. Your muscles help you move. To keep your body healthy, you need to eat a balanced diet, drink water, exercise and sleep well. Look after your body, and it will look after you!
+? What controls everything you do? | Your brain. | Your heart. | Your lungs.
+? What does your blood carry? | Oxygen. | Bones. | Muscles.
+? How many bones are in your skeleton? | Over two hundred. | About fifty. | Over two thousand.
+S My brain helps me | To stay healthy, I need to | The most amazing part of the body is
+
+@U 11 | Money and saving | Tiền bạc và tiết kiệm | Nói về cách tiêu và tiết kiệm tiền ; So sánh giá cả và chọn mua hợp lý
+G So sánh bằng dùng "as ... as": "This bag is as cheap as that one." (rẻ bằng). Phủ định: "not as ... as" (không ... bằng): "My bike is not as fast as yours."
+W budget | ngân sách | ~📊 | My budget for the party is fifty thousand dong. | Ngân sách cho bữa tiệc của tớ là năm mươi nghìn đồng.
+W piggy bank | lợn tiết kiệm | ~🐷 | I put my coins in my piggy bank. | Tớ bỏ tiền xu vào lợn tiết kiệm.
+W savings | tiền tiết kiệm | ~💰 | I used my savings to buy a bike. | Tớ dùng tiền tiết kiệm để mua xe đạp.
+W purse | ví (nữ) | ~👛 | Mum's purse is in her bag. | Ví của mẹ ở trong túi.
+W banknote | tờ tiền giấy | ~💵 | This banknote is worth fifty thousand dong. | Tờ tiền này mệnh giá năm mươi nghìn đồng.
+W bargain | món hời | ~🏷️ | This jacket was a bargain! | Chiếc áo khoác này mua được giá hời!
+W value | giá trị | ~💎 | Friendship has great value. | Tình bạn có giá trị lớn.
+W worth | đáng giá | ~💲 | This old coin is worth a lot of money. | Đồng xu cổ này đáng giá rất nhiều tiền.
+W afford | có đủ tiền (mua) | ~👍 | I can't afford a new console. | Tớ không đủ tiền mua máy chơi game mới.
+W deliver | giao hàng | ~🚚 | The shop delivers food to our house. | Cửa hàng giao đồ ăn đến nhà tớ.
+W delivery | sự giao hàng | ~📦 | The delivery will arrive tomorrow. | Hàng sẽ được giao vào ngày mai.
+W refund | hoàn tiền | ~↩️ | The toy was broken, so we got a refund. | Đồ chơi bị hỏng nên nhà tớ được hoàn tiền.
+W owe | nợ | ~📝 | I owe you five thousand dong. | Tớ nợ cậu năm nghìn đồng.
+W necessary | cần thiết | ~❗ | Is it necessary to buy a new bag? | Có cần thiết mua túi mới không?
+W luxury | thứ xa xỉ | ~💎 | A big car is a luxury. | Ô tô to là thứ xa xỉ.
+W reward | phần thưởng | ~🏆 | I got a reward for helping my neighbour. | Tớ được thưởng vì giúp hàng xóm.
+W gift | món quà | ~🎁 | This book is a gift from my aunt. | Cuốn sách này là quà của dì.
+W account | tài khoản | ~🏦 | My mum opened a bank account for me. | Mẹ mở cho tớ một tài khoản ngân hàng.
+W ATM | cây rút tiền | 🏧 | Dad took money from the ATM. | Bố rút tiền ở cây ATM.
+W salary | tiền lương | ~💵 | My dad gets his salary every month. | Bố tớ nhận lương hằng tháng.
+W business | việc kinh doanh | ~💼 | My aunt has a small business. | Dì tớ có một cửa hàng kinh doanh nhỏ.
+W company | công ty | ~🏢 | My mum works for a big company. | Mẹ tớ làm cho một công ty lớn.
+W product | sản phẩm | ~📦 | This company makes eco-friendly products. | Công ty này làm sản phẩm thân thiện với môi trường.
+W brand | nhãn hiệu | ~🏷️ | This brand is very expensive. | Nhãn hiệu này rất đắt.
+W quality | chất lượng | ~⭐ | These shoes are good quality. | Đôi giày này chất lượng tốt.
+W second-hand | đồ cũ | ~🔁 | I bought a second-hand bike. | Tớ mua một chiếc xe đạp cũ.
+W swap | đổi | ~🔄 | Let's swap stickers! | Mình đổi hình dán nhé!
+W price tag | nhãn giá | ~🏷️ | Look at the price tag before you buy. | Xem nhãn giá trước khi mua.
+W total | tổng cộng | ~🔢 | The total is ninety thousand dong. | Tổng cộng là chín mươi nghìn đồng.
+W double | gấp đôi | ~✌️ | The price is double in the city. | Ở thành phố giá đắt gấp đôi.
+W calculate | tính toán | ~🧮 | Can you calculate the total? | Cậu tính được tổng không?
+W shopping list | danh sách mua sắm | ~📋 | Mum wrote a shopping list. | Mẹ viết danh sách đồ cần mua.
+W checkout | quầy thanh toán | ~🛒 | We paid at the checkout. | Nhà tớ trả tiền ở quầy thanh toán.
+W aisle | lối đi giữa các kệ | ~🛒 | The milk is in aisle five. | Sữa ở lối đi số năm.
+W dollar | đô la | ~💲 | My uncle paid ten dollars for the book. | Chú tớ trả mười đô la cho cuốn sách.
+W rent | thuê | ~🏠 | We rented bikes at the beach. | Nhà tớ thuê xe đạp ở bãi biển.
+W extra | thêm | ~➕ | Do you have extra money? | Cậu có thêm tiền không?
+W stall | quầy hàng | ~🏪 | We bought fruit from a stall at the market. | Nhà tớ mua hoa quả ở một quầy hàng ngoài chợ.
+W seller | người bán | ~🧑‍💼 | The seller gave me a discount. | Người bán giảm giá cho tớ.
+W buyer | người mua | ~🧑 | The buyer paid in cash. | Người mua trả bằng tiền mặt.
+W deal | thoả thuận, món hời | ~🤝 | Two for the price of one is a good deal. | Mua một tặng một là món hời.
+W spare | dư, thừa | ~🪙 | Do you have a spare pencil? | Cậu có bút chì thừa không?
+W save up | để dành | ~🐷 | I'm saving up for a new book. | Tớ đang để dành tiền mua sách mới.
+W exchange | đổi, trao đổi | ~🔄 | Can I exchange this shirt for a bigger one? | Tôi đổi áo này lấy cỡ to hơn được không?
+P I'm saving up for {x}. | Tớ đang để dành tiền mua {x}. | a new bike,a book,a present for Mum,a football
+P This {x} is as cheap as that one. | {x} này rẻ bằng cái kia. | bag,hat,pen,ruler
+P I can't afford {x}. | Tớ không đủ tiền mua {x}. | a new console,an expensive bike,a tablet
+D Để dành tiền | Bi,Kid
+> Bi: What are you going to buy with your pocket money? | Cậu định mua gì bằng tiền tiêu vặt?
+> Kid: Nothing yet. I'm saving up for a new bike. | Chưa mua gì cả. Tớ đang để dành mua xe đạp mới.
+> Bi: How much is it? | Nó giá bao nhiêu?
+> Kid: It's expensive, but I can buy a second-hand one. | Nó đắt, nhưng tớ có thể mua xe cũ.
+> Bi: Good idea! A second-hand bike is a bargain. | Ý hay đấy! Xe cũ là món hời.
+> Kid: And I'll keep my savings in my piggy bank. | Và tớ sẽ giữ tiền tiết kiệm trong lợn đất.
+D Ở chợ | Seller,Kid
+> Kid: How much are these mangoes? | Xoài này bao nhiêu tiền ạ?
+> Seller: Forty thousand dong a kilo. | Bốn mươi nghìn một cân.
+> Kid: They're cheaper at the other stall. | Ở quầy kia rẻ hơn ạ.
+> Seller: But mine are better quality! | Nhưng xoài của cô chất lượng hơn!
+> Kid: Okay. Two kilos, please. What's the total? | Vâng. Cho cháu hai cân. Tổng cộng bao nhiêu ạ?
+> Seller: Eighty thousand dong. | Tám mươi nghìn đồng.
+R Mai's lemonade stall
+> Last summer, Mai wanted to buy a new camera, but she couldn't afford it. She decided to start a small business. She made a lemonade stall in front of her house. First, she wrote a budget. Lemons, sugar and cups cost thirty thousand dong. She sold each cup for five thousand dong. On the first day, she sold twenty cups. Her neighbours loved her lemonade! After four weeks, Mai calculated her savings. She had enough money for a second-hand camera. She was very proud because she earned the money herself. Now she wants to save up for a bike!
+? Why did Mai start a business? | She wanted to buy a camera. | She was bored. | Her mum asked her.
+? How much did Mai sell each cup for? | Five thousand dong. | Thirty thousand dong. | Twenty thousand dong.
+? What did Mai buy in the end? | A second-hand camera. | A new bike. | Some lemons.
+S I'm saving up for | I spend my pocket money on | A good way to save money is
+
+@U 12 | Helping our community | Giúp đỡ cộng đồng | Nói về các hoạt động tình nguyện ; Đề xuất và nhận lời giúp đỡ người khác
+G Đề nghị giúp: "Shall I carry your bag?" (Để tớ xách túi giúp nhé?). Gợi ý cùng làm: "Why don't we plant some trees?" hoặc "Let's..." Hưởng ứng: "That's a great idea!"
+W community | cộng đồng | ~🏘️ | We should help our community. | Chúng ta nên giúp đỡ cộng đồng.
+W volunteer | tình nguyện viên | ~🙋 | My sister is a volunteer at the hospital. | Chị tớ là tình nguyện viên ở bệnh viện.
+W raise money | gây quỹ | ~💰 | We raised money for the animal charity. | Bọn tớ gây quỹ cho tổ chức bảo vệ động vật.
+W organise | tổ chức | ~📋 | Our class organised a book fair. | Lớp tớ tổ chức hội sách.
+W elderly | cao tuổi | ~🧓 | We visited elderly people in the village. | Bọn tớ đến thăm người cao tuổi trong làng.
+W wheelchair | xe lăn | 🦽 | My neighbour uses a wheelchair. | Hàng xóm nhà tớ ngồi xe lăn.
+W homeless | vô gia cư | ~🏚️ | The charity helps homeless people. | Tổ chức từ thiện giúp người vô gia cư.
+W care for | chăm sóc | ~🤗 | Nurses care for sick people. | Y tá chăm sóc người ốm.
+W look after | trông nom | ~🤲 | I look after my little brother. | Tớ trông em trai.
+W old people's home | viện dưỡng lão | ~🏡 | We sang songs at the old people's home. | Bọn tớ hát ở viện dưỡng lão.
+W clean up | dọn dẹp | ~🧹 | Let's clean up the beach. | Mình cùng dọn dẹp bãi biển nhé.
+W poster | áp phích | ~🪧 | We made posters for the event. | Bọn tớ làm áp phích cho sự kiện.
+W bake sale | buổi bán bánh gây quỹ | ~🧁 | We had a bake sale to raise money. | Bọn tớ bán bánh để gây quỹ.
+W thankful | biết ơn | ~🙏 | I'm thankful for my family. | Tớ biết ơn gia đình mình.
+W grateful | biết ơn | ~💝 | We are grateful for your help. | Chúng tôi rất biết ơn sự giúp đỡ của bạn.
+W teamwork | làm việc nhóm | ~🤝 | Teamwork makes everything easier. | Làm việc nhóm giúp mọi việc dễ dàng hơn.
+W responsibility | trách nhiệm | ~🧭 | It's our responsibility to keep the park clean. | Giữ công viên sạch là trách nhiệm của chúng ta.
+W citizen | công dân | ~🧑 | A good citizen follows the rules. | Một công dân tốt tuân thủ quy tắc.
+W public | công cộng | ~🏛️ | Don't make noise in public places. | Đừng làm ồn ở nơi công cộng.
+W improve | cải thiện | ~📈 | We want to improve our school garden. | Bọn tớ muốn cải thiện vườn trường.
+W food bank | ngân hàng thực phẩm | ~🥫 | We gave rice to the food bank. | Bọn tớ tặng gạo cho ngân hàng thực phẩm.
+W member | thành viên | ~👤 | I'm a member of the school club. | Tớ là thành viên câu lạc bộ của trường.
+W meeting | cuộc họp | ~👥 | We have a club meeting on Friday. | Thứ Sáu bọn tớ có họp câu lạc bộ.
+W teach | dạy | ~🧑‍🏫 | I teach my grandma to use her phone. | Tớ dạy bà dùng điện thoại.
+W offer | đề nghị, mời | ~🫴 | She offered to help me. | Bạn ấy đề nghị giúp tớ.
+W shall | nhé (lời đề nghị) | ~🙋 | Shall I carry your bag? | Để tớ xách túi giúp cậu nhé?
+W why don't we | sao chúng ta không | ~💡 | Why don't we plant some trees? | Sao chúng ta không trồng thêm cây nhỉ?
+W make a difference | tạo nên sự khác biệt | ~🌟 | Small actions can make a difference. | Những hành động nhỏ có thể tạo nên khác biệt.
+W neighbourhood | khu phố | ~🏘️ | Our neighbourhood is clean and friendly. | Khu phố của tớ sạch sẽ và thân thiện.
+W donation | sự quyên góp | ~🎁 | Thank you for your donation. | Cảm ơn bạn đã quyên góp.
+W sponsor | tài trợ | ~🤝 | A local shop sponsored our race. | Một cửa hàng địa phương tài trợ cho cuộc đua.
+W target | mục tiêu | 🎯 | Our target is to collect one hundred books. | Mục tiêu của bọn tớ là thu thập một trăm cuốn sách.
+W achieve | đạt được | ~🏆 | We achieved our target! | Bọn tớ đã đạt được mục tiêu!
+W success | sự thành công | ~🏆 | The bake sale was a big success. | Buổi bán bánh thành công lớn.
+W successful | thành công | ~🌟 | It was a successful event. | Đó là một sự kiện thành công.
+W effort | nỗ lực | ~💪 | Thank you for your effort. | Cảm ơn sự cố gắng của bạn.
+W sign up | đăng ký | ~✍️ | I signed up to be a volunteer. | Tớ đã đăng ký làm tình nguyện viên.
+W leaflet | tờ rơi | ~📄 | We gave leaflets to our neighbours. | Bọn tớ phát tờ rơi cho hàng xóm.
+W announce | thông báo | ~📢 | The headteacher announced the winners. | Thầy hiệu trưởng thông báo những người thắng cuộc.
+W blind | khiếm thị | ~🦯 | Blind people can read with their fingers. | Người khiếm thị có thể đọc bằng ngón tay.
+W deaf | khiếm thính | ~🧏 | My cousin is deaf. He uses sign language. | Anh họ tớ bị khiếm thính. Anh dùng ngôn ngữ ký hiệu.
+W guide dog | chó dẫn đường | 🦮 | The guide dog helps a blind man. | Chú chó dẫn đường giúp một người khiếm thị.
+W sign language | ngôn ngữ ký hiệu | ~🤟 | I can say hello in sign language. | Tớ có thể chào bằng ngôn ngữ ký hiệu.
+W equal | bình đẳng | ~🟰 | Everyone is equal. | Mọi người đều bình đẳng.
+P Why don't we {x}? | Sao chúng ta không {x}? | clean up the park,have a bake sale,visit the old people's home,collect books
+P Shall I {x}? | Để tớ {x} nhé? | carry your bag,help you,open the door
+P We raised money for {x}. | Bọn tớ gây quỹ cho {x}. | the animal charity,the food bank,the hospital
+D Ý tưởng tình nguyện | Bi,Kid
+> Bi: Our club wants to help the community. Any ideas? | Câu lạc bộ mình muốn giúp cộng đồng. Có ý tưởng gì không?
+> Kid: Why don't we have a bake sale? | Sao mình không tổ chức bán bánh?
+> Bi: Great idea! What will we do with the money? | Ý hay đấy! Mình sẽ làm gì với số tiền?
+> Kid: We can donate it to the food bank. | Mình có thể quyên góp cho ngân hàng thực phẩm.
+> Bi: Shall I make some posters? | Để tớ làm vài tấm áp phích nhé?
+> Kid: Yes, please! And I'll bake cupcakes. | Ừ! Còn tớ sẽ nướng bánh cupcake.
+D Giúp đỡ bà cụ | Woman,Kid
+> Kid: Excuse me. Shall I help you with your bags? | Bà ơi, để cháu xách túi giúp bà nhé?
+> Woman: Oh, thank you! They're very heavy. | Ôi, cảm ơn cháu! Chúng nặng lắm.
+> Kid: Where do you live? | Bà sống ở đâu ạ?
+> Woman: Just across the road. You're very kind. | Ngay bên kia đường. Cháu thật tốt bụng.
+> Kid: It's no problem. Let's cross at the zebra crossing. | Không có gì đâu ạ. Mình qua đường ở vạch kẻ nhé.
+R The book collection
+> Last month, the students in Lan's class wanted to make a difference. They decided to collect books for children in a village school. The village school had a small library with very few books. The students made posters and leaflets, and they announced the project at the school meeting. Many families donated books, and the students sorted them into boxes. Their target was two hundred books, but they collected over five hundred! Then they took the books to the village by bus. The village children were very excited and grateful. The students felt proud. They learned that teamwork can achieve great things.
+? What did the students collect? | Books. | Toys. | Clothes.
+? What was their target? | Two hundred books. | Five hundred books. | One hundred books.
+? How did the village children feel? | Excited and grateful. | Bored. | Angry.
+S Why don't we | I can help my community by | I am grateful for
+
+@U 13 | Natural disasters | Thiên tai | Nói về các loại thiên tai và cách giữ an toàn ; Kể lại sự việc bằng thì quá khứ tiếp diễn
+G Thì quá khứ tiếp diễn (was/were + động từ-ing) kể việc đang diễn ra thì có việc khác xen vào: "We were having dinner when the earthquake started." (Cả nhà đang ăn tối thì động đất xảy ra.)
+W natural disaster | thiên tai | ~🌪️ | Floods and earthquakes are natural disasters. | Lũ lụt và động đất là thiên tai.
+W earthquake | động đất | ~🏚️ | The earthquake shook the buildings. | Trận động đất làm rung chuyển các toà nhà.
+W tsunami | sóng thần | ~🌊 | A tsunami is a giant wave from the sea. | Sóng thần là con sóng khổng lồ từ biển.
+W landslide | sạt lở đất | ~⛰️ | Heavy rain caused a landslide on the mountain. | Mưa lớn gây sạt lở đất trên núi.
+W wildfire | cháy rừng | ~🔥 | The wildfire burned a large area of forest. | Cháy rừng thiêu rụi một vùng rừng lớn.
+W avalanche | tuyết lở | ~🏔️ | An avalanche is very dangerous for skiers. | Tuyết lở rất nguy hiểm với người trượt tuyết.
+W hurricane | bão lớn (cuồng phong) | ~🌀 | The hurricane destroyed many houses. | Cơn cuồng phong phá huỷ nhiều ngôi nhà.
+W shake | rung, lắc | ~📳 | The ground started to shake. | Mặt đất bắt đầu rung chuyển.
+W collapse | sụp đổ | ~🏚️ | The old bridge collapsed in the storm. | Cây cầu cũ bị sập trong cơn bão.
+W crack | vết nứt | ~⚡ | There is a big crack in the wall. | Có một vết nứt lớn trên tường.
+W wave | con sóng | ~🌊 | The waves are very big today. | Hôm nay sóng rất to.
+W evacuate | sơ tán | ~🏃 | People evacuated the town before the typhoon. | Người dân sơ tán khỏi thị trấn trước cơn bão.
+W emergency kit | bộ đồ dùng khẩn cấp | ~🧰 | Our emergency kit has water, food and a torch. | Bộ đồ khẩn cấp nhà tớ có nước, thức ăn và đèn pin.
+W survivor | người sống sót | ~💪 | The rescue team found two survivors. | Đội cứu hộ tìm thấy hai người sống sót.
+W rebuild | xây dựng lại | ~🧱 | They will rebuild the school after the flood. | Họ sẽ xây lại trường học sau trận lũ.
+W aid | viện trợ | ~🆘 | Many countries sent aid after the earthquake. | Nhiều nước gửi viện trợ sau trận động đất.
+W supplies | đồ tiếp tế | ~📦 | The helicopter brought food supplies. | Trực thăng mang đồ tiếp tế lương thực đến.
+W rescue team | đội cứu hộ | ~🚁 | The rescue team worked all night. | Đội cứu hộ làm việc suốt đêm.
+W siren | còi báo động | ~🚨 | We heard the siren of an ambulance. | Bọn tớ nghe thấy tiếng còi xe cứu thương.
+W alarm | chuông báo | ~⏰ | The fire alarm is very loud. | Chuông báo cháy rất to.
+W drill | buổi diễn tập | ~🔔 | We had a fire drill at school today. | Hôm nay trường tớ diễn tập phòng cháy.
+W panic | hoảng loạn | ~😱 | Don't panic. Stay calm and listen. | Đừng hoảng loạn. Hãy bình tĩnh và lắng nghe.
+W trapped | bị mắc kẹt | ~🚧 | A cat was trapped in the tree. | Một con mèo bị mắc kẹt trên cây.
+W scale | thang đo | ~📏 | Scientists measure earthquakes on a scale. | Các nhà khoa học đo động đất bằng một thang đo.
+W warn | cảnh báo | ~⚠️ | The radio warned people about the storm. | Đài phát thanh cảnh báo mọi người về cơn bão.
+W sudden | bất ngờ | ~⚡ | There was a sudden noise. | Có một tiếng động bất ngờ.
+W powerful | mạnh mẽ | ~💪 | The typhoon was very powerful. | Cơn bão rất mạnh.
+W region | vùng | ~🗺️ | This region has a lot of rain. | Vùng này mưa nhiều.
+W sandbag | bao cát | ~🧱 | They put sandbags in front of the door. | Họ đặt bao cát trước cửa.
+W courage | lòng dũng cảm | ~🦁 | The firefighters showed great courage. | Lính cứu hoả đã thể hiện lòng dũng cảm lớn.
+W fallen | đã đổ, đã rơi | ~⬇️ | A fallen tree blocked the road. | Một cây đổ chắn ngang đường.
+W fire engine | xe cứu hoả | ~🚒 | The fire engine arrived very fast. | Xe cứu hoả đến rất nhanh.
+W smoke alarm | thiết bị báo khói | ~🚨 | Every home should have a smoke alarm. | Nhà nào cũng nên có thiết bị báo khói.
+W dry season | mùa khô | ~🏜️ | Wildfires happen in the dry season. | Cháy rừng xảy ra vào mùa khô.
+W rainy season | mùa mưa | ~🌧️ | Floods often happen in the rainy season. | Lũ lụt thường xảy ra vào mùa mưa.
+W rainfall | lượng mưa | ~🌧️ | There was heavy rainfall last night. | Đêm qua có mưa lớn.
+W slope | sườn dốc | ~⛰️ | Don't build houses on steep slopes. | Đừng xây nhà trên sườn dốc.
+W temporary | tạm thời | ~⏳ | They lived in a temporary shelter. | Họ sống trong nơi trú ẩn tạm thời.
+W government | chính phủ | ~🏛️ | The government sent soldiers to help. | Chính phủ cử binh lính đến giúp.
+W disaster | thảm hoạ | ~⚠️ | The flood was a disaster for the farmers. | Trận lũ là thảm hoạ với nông dân.
+W affect | ảnh hưởng | ~➡️ | The storm affected thousands of people. | Cơn bão ảnh hưởng đến hàng nghìn người.
+W risk | nguy cơ | ~⚠️ | There is a high risk of floods. | Có nguy cơ lũ lụt cao.
+W terrified | vô cùng sợ hãi | ~😱 | I was terrified during the storm. | Tớ vô cùng sợ hãi trong cơn bão.
+W relief | sự nhẹ nhõm, cứu trợ | ~😌 | It was a relief when the storm ended. | Thật nhẹ nhõm khi cơn bão qua đi.
+P We were {x} when the earthquake started. | Cả nhà đang {x} thì động đất xảy ra. | having dinner,sleeping,watching TV,doing homework
+P In an earthquake, you should {x}. | Khi có động đất, bạn nên {x}. | get under a table,stay calm,keep away from windows
+P Our emergency kit has {x}. | Bộ đồ khẩn cấp có {x}. | a torch,water,a first aid kit,a radio
+D Diễn tập động đất | Teacher,Kid
+> Teacher: This is an earthquake drill. What should you do? | Đây là diễn tập động đất. Các em nên làm gì?
+> Kid: Get under the desk and hold on. | Chui xuống gầm bàn và bám chặt.
+> Teacher: Good. Why shouldn't we use the lift? | Tốt. Tại sao không nên đi thang máy?
+> Kid: Because it can stop, and we can get trapped. | Vì nó có thể dừng lại, và mình bị mắc kẹt.
+> Teacher: Excellent. And when the shaking stops? | Rất tốt. Còn khi hết rung thì sao?
+> Kid: We walk calmly to the playground. | Mình bình tĩnh đi ra sân trường.
+D Bộ đồ khẩn cấp | Dad,Kid
+> Dad: Let's make an emergency kit for the rainy season. | Mình chuẩn bị bộ đồ khẩn cấp cho mùa mưa nhé.
+> Kid: What do we need? | Mình cần những gì ạ?
+> Dad: Water, food, a torch and a first aid kit. | Nước, thức ăn, đèn pin và hộp sơ cứu.
+> Kid: Should we pack a radio too? | Mình có nên mang theo đài không ạ?
+> Dad: Yes. The radio will warn us if there's a flood. | Có. Đài sẽ cảnh báo nếu có lũ.
+R The earthquake drill
+> Last Tuesday, Nam's class was having a maths lesson when the alarm rang. It was an earthquake drill. The teacher told everyone not to panic. All the children got under their desks and held on to the legs. After one minute, the teacher told them to leave the classroom. They walked calmly down the stairs. Nobody used the lift. In the playground, the teacher counted the students. Everyone was safe. The headteacher explained that earthquakes are sudden, so we must practise what to do. Nam felt a little nervous, but he knew he would be ready.
+? What were the children doing when the alarm rang? | Having a maths lesson. | Eating lunch. | Playing football.
+? Where did the children go first? | Under their desks. | To the lift. | Home.
+? Why must we practise? | Earthquakes are sudden. | It is fun. | The teacher is bored.
+S In an earthquake, you should | We were | Our emergency kit has
+
+@U 14 | Inventions and the future | Phát minh và tương lai | Nói về các phát minh quan trọng ; Dự đoán cuộc sống trong tương lai với "will" và "might"
+G Dự đoán chắc chắn dùng "will": "People will use more robots." Không chắc chắn dùng "might" (có thể): "We might have flying cars."
+W technology | công nghệ | ~💻 | Technology changes our lives every day. | Công nghệ thay đổi cuộc sống của chúng ta mỗi ngày.
+W smart | thông minh | ~🧠 | My uncle has a smart TV. | Chú tớ có một cái TV thông minh.
+W might | có thể (không chắc) | ~🤔 | It might rain this afternoon. | Chiều nay trời có thể mưa.
+W artificial intelligence | trí tuệ nhân tạo | ~🤖 | Artificial intelligence helps computers learn. | Trí tuệ nhân tạo giúp máy tính học.
+W drone | máy bay không người lái | ~🛸 | The drone took photos of the forest. | Máy bay không người lái chụp ảnh khu rừng.
+W flying car | ô tô bay | ~🚗 | In the future, we might have flying cars. | Trong tương lai, có thể chúng ta sẽ có ô tô bay.
+W virtual reality | thực tế ảo | ~🥽 | With virtual reality, you can visit the moon at home. | Với thực tế ảo, bạn có thể thăm mặt trăng ngay tại nhà.
+W hologram | hình ảnh ba chiều | ~✨ | The teacher showed us a hologram of a dinosaur. | Cô giáo cho bọn tớ xem hình ba chiều của khủng long.
+W wireless | không dây | ~📶 | These headphones are wireless. | Tai nghe này không dây.
+W smartwatch | đồng hồ thông minh | ⌚ | My smartwatch counts my steps. | Đồng hồ thông minh đếm số bước chân của tớ.
+W smartphone | điện thoại thông minh | ~📱 | My mum uses her smartphone for work. | Mẹ dùng điện thoại thông minh để làm việc.
+W GPS | định vị GPS | ~🛰️ | The GPS shows us the way. | GPS chỉ đường cho chúng ta.
+W self-driving | tự lái | ~🚘 | A self-driving car doesn't need a driver. | Ô tô tự lái không cần tài xế.
+W engine | động cơ | ~⚙️ | The car engine is very loud. | Động cơ ô tô rất ồn.
+W printing | việc in ấn | ~🖨️ | Printing made books cheaper. | Việc in ấn làm sách rẻ hơn.
+W compass | la bàn | 🧭 | A compass helps you find north. | La bàn giúp bạn tìm hướng bắc.
+W vaccine | vắc-xin | ~💉 | Vaccines protect us from illness. | Vắc-xin bảo vệ chúng ta khỏi bệnh tật.
+W create | tạo ra | ~🎨 | Artists create beautiful things. | Nghệ sĩ tạo ra những thứ đẹp đẽ.
+W develop | phát triển | ~📈 | Scientists are developing new medicines. | Các nhà khoa học đang phát triển thuốc mới.
+W convenient | tiện lợi | ~👌 | Online shopping is very convenient. | Mua sắm trực tuyến rất tiện lợi.
+W human | con người | ~🧍 | Robots can do some jobs better than humans. | Rô-bốt có thể làm vài việc tốt hơn con người.
+W daily | hằng ngày | ~📅 | Phones are part of our daily life. | Điện thoại là một phần trong cuộc sống hằng ngày.
+W automatic | tự động | ~🔁 | The doors are automatic. | Cửa này tự động.
+W voice | giọng nói | ~🗣️ | You can control the TV with your voice. | Bạn có thể điều khiển TV bằng giọng nói.
+W command | mệnh lệnh | ~📢 | The robot follows my commands. | Rô-bốt làm theo lệnh của tớ.
+W connect | kết nối | ~🔗 | Connect the tablet to the internet. | Kết nối máy tính bảng với mạng internet.
+W digital | kỹ thuật số | ~💻 | I have a digital camera. | Tớ có một máy ảnh kỹ thuật số.
+W code | mã lệnh | ~👩‍💻 | Programmers write code. | Lập trình viên viết mã lệnh.
+W program | lập trình | ~💻 | I can program a small robot. | Tớ có thể lập trình một rô-bốt nhỏ.
+W coding | lập trình | ~🧑‍💻 | We learn coding at school. | Ở trường bọn tớ học lập trình.
+W time machine | cỗ máy thời gian | ~⏳ | If I had a time machine, I'd visit the dinosaurs. | Nếu có cỗ máy thời gian, tớ sẽ đi thăm khủng long.
+W teleport | dịch chuyển tức thời | ~✨ | In the film, people can teleport to other planets. | Trong phim, người ta có thể dịch chuyển tức thời đến hành tinh khác.
+W genius | thiên tài | ~🧠 | She is a genius at maths. | Bạn ấy là thiên tài toán học.
+W underwater | dưới nước | ~🤿 | Scientists made an underwater laboratory. | Các nhà khoa học làm một phòng thí nghiệm dưới nước.
+W jetpack | ba lô phản lực | ~🚀 | With a jetpack, you can fly like a bird. | Với ba lô phản lực, bạn có thể bay như chim.
+W headset | bộ tai nghe | ~🎧 | Put on the headset to play the game. | Đeo bộ tai nghe vào để chơi trò chơi.
+W recognise | nhận ra | ~👀 | My phone can recognise my face. | Điện thoại có thể nhận ra khuôn mặt tớ.
+W translate | dịch | ~🔤 | This app can translate Vietnamese into English. | Ứng dụng này có thể dịch tiếng Việt sang tiếng Anh.
+W parcel | bưu kiện | ~📦 | A drone delivered the parcel. | Một máy bay không người lái giao bưu kiện.
+W intelligent | thông minh | ~🧠 | Dolphins are very intelligent animals. | Cá heo là loài vật rất thông minh.
+W power | năng lượng, sức mạnh | ~⚡ | The car uses solar power. | Ô tô dùng năng lượng mặt trời.
+W gadget | đồ công nghệ nhỏ | ~📱 | My dad loves new gadgets. | Bố tớ rất thích đồ công nghệ mới.
+W version | phiên bản | ~🔢 | This is the newest version of the game. | Đây là phiên bản mới nhất của trò chơi.
+W advanced | tiên tiến | ~🚀 | This is a very advanced robot. | Đây là một rô-bốt rất tiên tiến.
+P In the future, people will {x}. | Trong tương lai, con người sẽ {x}. | live on Mars,drive flying cars,have robot teachers
+P Robots might {x}. | Rô-bốt có thể sẽ {x}. | cook our dinner,clean our homes,teach in schools
+P The {x} was a great invention. | {x} là một phát minh vĩ đại. | telephone,light bulb,computer,internet
+D Tương lai sẽ ra sao? | Bi,Kid
+> Kid: Bi, what will life be like in fifty years? | Bi ơi, năm mươi năm nữa cuộc sống sẽ thế nào?
+> Bi: I think people will drive self-driving cars. | Tớ nghĩ mọi người sẽ đi ô tô tự lái.
+> Kid: Will there be flying cars? | Sẽ có ô tô bay chứ?
+> Bi: Maybe! And robots might help us at home. | Có thể! Và rô-bốt có thể sẽ giúp việc nhà.
+> Kid: I hope robots will do my homework! | Tớ mong rô-bốt sẽ làm bài tập cho tớ!
+> Bi: Ha ha! I don't think so. You still need to learn! | Ha ha! Tớ không nghĩ vậy đâu. Cậu vẫn phải học chứ!
+D Phát minh vĩ đại nhất | Bi,Kid | internet,telephone,computer
+> Bi: What is the greatest invention in history? | Phát minh vĩ đại nhất trong lịch sử là gì?
+> Kid: In my opinion, it's the internet. | Theo tớ, đó là mạng internet.
+> Bi: Why? | Vì sao?
+> Kid: Because people can learn and talk to each other everywhere. | Vì mọi người có thể học và trò chuyện với nhau ở mọi nơi.
+> Bi: I agree. But I think the light bulb is important too. | Tớ đồng ý. Nhưng tớ nghĩ bóng đèn cũng quan trọng.
+R Schools of the future
+> What will schools be like in the future? Some people think that students might not go to school at all. They might learn at home with virtual reality headsets. With virtual reality, students could visit ancient Egypt or walk on Mars during a history or science lesson. Artificial intelligence might help each student learn at their own speed. Robots might help teachers in the classroom. However, many people believe that schools will still be important. Students need to meet their friends, play together and learn teamwork. In my opinion, technology will make schools better, but it will never replace good teachers.
+? How might students learn at home? | With virtual reality headsets. | With old books only. | They won't learn.
+? What might artificial intelligence do? | Help each student learn at their own speed. | Cook lunch. | Drive the school bus.
+? What does the writer think? | Technology won't replace good teachers. | Schools will close. | Robots are better than teachers.
+S In the future, people will | Robots might | The greatest invention is
+
+@U 15 | Growing up | Trưởng thành | Nói về mục tiêu và kế hoạch của bản thân ; Nói về trách nhiệm, sự tự tin và việc vượt qua khó khăn
+G Nói mục tiêu: "I want to / hope to / plan to + động từ": "I hope to become a doctor." Nói khả năng trong tương lai: "will be able to + động từ": "I will be able to drive a car." (Tớ sẽ có thể lái xe.)
+W aim | mục tiêu | ~🎯 | My aim is to read fifty books this year. | Mục tiêu của tớ là đọc năm mươi cuốn sách năm nay.
+W ambition | hoài bão | ~🌟 | Her ambition is to become a scientist. | Hoài bão của bạn ấy là trở thành nhà khoa học.
+W confident | tự tin | ~😎 | I feel confident before the test. | Tớ thấy tự tin trước bài kiểm tra.
+W confidence | sự tự tin | ~💪 | Practising every day gives you confidence. | Luyện tập mỗi ngày giúp cậu tự tin.
+W independent | tự lập | ~🧍 | My sister is very independent. She can cook for herself. | Chị tớ rất tự lập. Chị tự nấu ăn được.
+W responsible | có trách nhiệm | ~🧭 | I am responsible for feeding the cat. | Tớ chịu trách nhiệm cho mèo ăn.
+W teenager | thanh thiếu niên | ~🧑 | My cousin is a teenager. He is fifteen. | Anh họ tớ là thiếu niên. Anh ấy mười lăm tuổi.
+W age | tuổi | ~🎂 | At your age, I liked climbing trees. | Ở tuổi con, bố thích trèo cây.
+W be able to | có thể | ~💪 | I will be able to swim next summer. | Mùa hè tới tớ sẽ biết bơi.
+W ability | khả năng | ~🌟 | She has the ability to learn languages fast. | Bạn ấy có khả năng học ngoại ngữ nhanh.
+W plan to | dự định | ~🗒️ | I plan to visit my grandparents this summer. | Tớ dự định thăm ông bà hè này.
+W hope to | hy vọng sẽ | ~🍀 | I hope to win the race. | Tớ hy vọng sẽ thắng cuộc đua.
+W challenge | thử thách | ~🧗 | Learning the piano is a challenge. | Học đàn piano là một thử thách.
+W give up | bỏ cuộc | ~🏳️ | Don't give up! You can do it! | Đừng bỏ cuộc! Cậu làm được mà!
+W progress | sự tiến bộ | ~📈 | You are making good progress in English. | Con đang tiến bộ tốt môn tiếng Anh.
+W learn from | học hỏi từ | ~📚 | We can learn from our mistakes. | Chúng ta có thể học hỏi từ lỗi sai.
+W fail | thất bại, trượt | ~❌ | I failed my first swimming test. | Tớ trượt bài kiểm tra bơi đầu tiên.
+W succeed | thành công | ~🏆 | If you work hard, you will succeed. | Nếu cố gắng, cậu sẽ thành công.
+W positive | tích cực | ~➕ | Try to stay positive. | Hãy cố gắng luôn tích cực.
+W negative | tiêu cực | ~➖ | Don't have negative thoughts. | Đừng có suy nghĩ tiêu cực.
+W attitude | thái độ | ~😊 | She has a great attitude. | Bạn ấy có thái độ rất tốt.
+W routine | thói quen hằng ngày | ~🔁 | My morning routine starts at six o'clock. | Thói quen buổi sáng của tớ bắt đầu lúc sáu giờ.
+W manage | xoay xở, quản lý | ~📋 | I can manage my time well. | Tớ có thể quản lý thời gian tốt.
+W advice | lời khuyên | ~💬 | My grandma gives me good advice. | Bà cho tớ những lời khuyên hay.
+W experience | trải nghiệm | ~🧳 | Camping was a great experience. | Cắm trại là một trải nghiệm tuyệt vời.
+W weakness | điểm yếu | ~🥀 | My weakness is spelling. | Điểm yếu của tớ là chính tả.
+W personality | tính cách | ~🧩 | She has a friendly personality. | Bạn ấy có tính cách thân thiện.
+W stressed | căng thẳng | ~😫 | I feel stressed before exams. | Tớ thấy căng thẳng trước kỳ thi.
+W career | sự nghiệp | ~💼 | She wants a career in science. | Bạn ấy muốn theo nghề khoa học.
+W graduate | tốt nghiệp | ~🎓 | My brother graduated from university last year. | Anh tớ tốt nghiệp đại học năm ngoái.
+W freedom | sự tự do | ~🕊️ | Teenagers want more freedom. | Thanh thiếu niên muốn được tự do hơn.
+W believe in yourself | tin vào bản thân | ~💖 | Believe in yourself, and you can do anything. | Hãy tin vào bản thân, cậu có thể làm được mọi điều.
+W role model | tấm gương | ~🌟 | My mum is my role model. | Mẹ là tấm gương của tớ.
+W inspire | truyền cảm hứng | ~✨ | Her story inspired me to try harder. | Câu chuyện của cô ấy truyền cảm hứng cho tớ cố gắng hơn.
+W determined | quyết tâm | ~💪 | He was determined to finish the race. | Bạn ấy quyết tâm về đích.
+W hard work | sự chăm chỉ | ~🐜 | Success comes from hard work. | Thành công đến từ sự chăm chỉ.
+W step by step | từng bước một | ~👣 | Learn English step by step. | Học tiếng Anh từng bước một.
+W on my own | tự mình | ~🧍 | I made breakfast on my own! | Tớ tự làm bữa sáng!
+W achievement | thành tích | ~🏅 | Winning the competition was a big achievement. | Thắng cuộc thi là một thành tích lớn.
+W certificate | giấy chứng nhận | ~📜 | I got a certificate for my English test. | Tớ được giấy chứng nhận cho bài thi tiếng Anh.
+W ceremony | buổi lễ | ~🎓 | There was a ceremony at the end of the year. | Có một buổi lễ vào cuối năm học.
+W mature | chín chắn | ~🧑 | He is very mature for his age. | Bạn ấy rất chín chắn so với tuổi.
+W behave | cư xử | ~😇 | Please behave well at the party. | Hãy cư xử ngoan ở bữa tiệc nhé.
+W opportunity | cơ hội | ~🚪 | This trip is a great opportunity to learn. | Chuyến đi này là cơ hội tuyệt vời để học hỏi.
+P I hope to {x}. | Tớ hy vọng sẽ {x}. | win the race,become a scientist,travel the world,learn three languages
+P I will be able to {x}. | Tớ sẽ có thể {x}. | swim,drive a car,cook dinner,speak English well
+P My role model is {x}. | Tấm gương của tớ là {x}. | my mum,my teacher,my grandpa
+D Đừng bỏ cuộc | Bi,Kid
+> Kid: I failed my swimming test again. I want to give up. | Tớ lại trượt bài kiểm tra bơi rồi. Tớ muốn bỏ cuộc.
+> Bi: Don't give up! You are making progress. | Đừng bỏ cuộc! Cậu đang tiến bộ mà.
+> Kid: Do you really think so? | Cậu thật sự nghĩ vậy à?
+> Bi: Yes. Last month you couldn't swim at all. Now you can swim ten metres! | Đúng thế. Tháng trước cậu chưa bơi được. Giờ cậu bơi được mười mét!
+> Kid: That's true. I'll keep practising. | Đúng thật. Tớ sẽ tiếp tục luyện tập.
+> Bi: Believe in yourself. Step by step! | Hãy tin vào bản thân. Từng bước một nhé!
+D Mục tiêu năm học | Bi,Kid
+> Bi: What's your aim for this school year? | Mục tiêu năm học này của cậu là gì?
+> Kid: I want to improve my spelling. It's my weakness. | Tớ muốn cải thiện chính tả. Đó là điểm yếu của tớ.
+> Bi: How will you do that? | Cậu sẽ làm thế nào?
+> Kid: I plan to practise ten words every day. | Tớ định luyện mười từ mỗi ngày.
+> Bi: Great plan! I'm sure you will succeed. | Kế hoạch hay! Tớ chắc cậu sẽ thành công.
+R Growing up
+> Growing up is an exciting journey. When you are a baby, your parents do everything for you. As you get older, you learn to do more things on your own. You learn to tie your shoes, make your bed and pack your school bag. Later, you will be able to cook simple meals and look after younger children. Growing up also means being responsible. You keep your promises, help at home and manage your time. It is not always easy. Sometimes you will fail, but you can learn from your mistakes. The most important thing is to believe in yourself and never give up.
+? What do your parents do when you are a baby? | Everything for you. | Nothing. | Only cooking.
+? What does growing up also mean? | Being responsible. | Playing all day. | Never making mistakes.
+? What is the most important thing? | To believe in yourself and never give up. | To be rich. | To be the best at everything.
+S My aim this year is | I hope to | When I grow up, I will be able to
+
+@U 16 | Folk tales and legends | Truyện dân gian và truyền thuyết | Kể lại một câu chuyện dân gian theo trình tự ; Nêu bài học rút ra từ câu chuyện
+G Kể lại câu chuyện dùng thì quá khứ. Lời nhân vật có thể kể lại gián tiếp: "The woodcutter said that the axe was not his." (Người tiều phu nói rằng chiếc rìu không phải của ông.)
+W folk tale | truyện dân gian | ~📜 | Every country has its own folk tales. | Mỗi đất nước đều có truyện dân gian riêng.
+W myth | thần thoại | ~🐉 | This myth explains why the sea is salty. | Câu chuyện thần thoại này giải thích vì sao biển mặn.
+W fable | truyện ngụ ngôn | ~🦊 | In fables, animals can talk. | Trong truyện ngụ ngôn, động vật biết nói.
+W ancestor | tổ tiên | ~👴 | We remember our ancestors at Tet. | Chúng ta tưởng nhớ tổ tiên vào dịp Tết.
+W tortoise | con rùa | ~🐢 | The tortoise is slow but clever. | Con rùa chậm nhưng thông minh.
+W carp | cá chép | ~🐟 | In the legend, a carp became a dragon. | Trong truyền thuyết, một con cá chép hoá rồng.
+W phoenix | chim phượng hoàng | ~🔥 | The phoenix is a magical bird. | Phượng hoàng là loài chim huyền thoại.
+W woodcutter | tiều phu | ~🪵 | The woodcutter lived in the forest. | Người tiều phu sống trong rừng.
+W crow | con quạ | ~🐦 | The crow was very clever. | Con quạ rất thông minh.
+W greedy | tham lam | ~🤑 | The greedy man wanted all the gold. | Người đàn ông tham lam muốn lấy hết vàng.
+W humble | khiêm tốn | ~🙇 | The king was rich but humble. | Nhà vua giàu có nhưng khiêm tốn.
+W foolish | ngốc nghếch | ~🤪 | It was foolish to trust the fox. | Thật ngốc khi tin con cáo.
+W wisdom | sự thông thái | ~🦉 | The old woman was famous for her wisdom. | Bà cụ nổi tiếng vì sự thông thái.
+W trick | mưu mẹo, lừa | ~🃏 | The clever rabbit played a trick on the tiger. | Chú thỏ thông minh lừa con hổ.
+W punish | trừng phạt | ~⚖️ | The king punished the greedy man. | Nhà vua trừng phạt kẻ tham lam.
+W spell | câu thần chú | ~✨ | The fairy cast a magic spell. | Nàng tiên đọc câu thần chú.
+W turn into | biến thành | ~🔄 | The frog turned into a prince. | Con ếch biến thành hoàng tử.
+W golden | bằng vàng, vàng óng | ~🟡 | She found a golden fish. | Cô ấy tìm thấy một con cá vàng óng.
+W sword | thanh gươm | ~🗡️ | The hero had a magic sword. | Người anh hùng có một thanh gươm thần.
+W axe | cái rìu | 🪓 | The woodcutter dropped his axe in the river. | Người tiều phu đánh rơi rìu xuống sông.
+W pearl | ngọc trai | ~🦪 | The princess had a necklace of pearls. | Công chúa có một chuỗi ngọc trai.
+W jade | ngọc bích | ~🟢 | The emperor had a jade crown. | Hoàng đế có vương miện bằng ngọc bích.
+W marry | kết hôn | ~💍 | The prince married the poor girl. | Hoàng tử kết hôn với cô gái nghèo.
+W husband | chồng | ~👨 | Her husband was a fisherman. | Chồng cô ấy là ngư dân.
+W wife | vợ | ~👩 | The farmer and his wife were very kind. | Người nông dân và vợ rất tốt bụng.
+W iron | sắt | ~⚙️ | The giant rode an iron horse. | Người khổng lồ cưỡi con ngựa sắt.
+W pass down | truyền lại | ~👪 | Old stories are passed down from grandparents to children. | Những câu chuyện xưa được ông bà truyền lại cho con cháu.
+W defeat | đánh bại | ~🏆 | The young hero defeated the enemy. | Người anh hùng trẻ tuổi đánh bại kẻ thù.
+W enemy | kẻ thù | ~⚔️ | The enemy came from the north. | Kẻ thù đến từ phương bắc.
+W stepmother | mẹ kế | ~👩 | The stepmother was unkind to the girl. | Người mẹ kế đối xử không tốt với cô bé.
+W cruel | độc ác | ~😠 | The cruel king made everyone sad. | Ông vua độc ác làm mọi người buồn.
+W ugly | xấu xí | ~👹 | The ugly duckling became a beautiful swan. | Chú vịt con xấu xí trở thành thiên nga xinh đẹp.
+W appear | xuất hiện | ~✨ | Suddenly, a fairy appeared. | Bỗng nhiên, một nàng tiên xuất hiện.
+W at last | cuối cùng thì | ~🏁 | At last, the hero came home. | Cuối cùng thì người anh hùng cũng về nhà.
+W meanwhile | trong khi đó | ~⏸️ | Meanwhile, the villain was hiding in the cave. | Trong khi đó, kẻ xấu đang trốn trong hang.
+W long ago | ngày xưa | ~⏪ | Long ago, there was a wise king. | Ngày xửa ngày xưa, có một vị vua thông thái.
+W magical | thần kỳ | ~🪄 | The tree had magical fruit. | Cái cây có quả thần kỳ.
+W cunning | xảo quyệt | ~🦊 | The cunning fox tricked the crow. | Con cáo xảo quyệt lừa con quạ.
+W obey | vâng lời | ~🙇 | The children obeyed their parents. | Những đứa trẻ vâng lời bố mẹ.
+W proverb | tục ngữ | ~💬 | A proverb is a short wise saying. | Tục ngữ là một câu nói ngắn gọn và sâu sắc.
+W storyteller | người kể chuyện | ~🗣️ | My grandpa is a great storyteller. | Ông tớ là người kể chuyện tuyệt vời.
+W retell | kể lại | ~🔁 | Can you retell the story in your own words? | Cậu kể lại câu chuyện bằng lời của mình được không?
+W conclusion | phần kết | ~🔚 | The conclusion of the story was surprising. | Phần kết của câu chuyện thật bất ngờ.
+W forever | mãi mãi | ~♾️ | They lived together forever. | Họ sống bên nhau mãi mãi.
+P Long ago, there was a {x}. | Ngày xửa ngày xưa, có một {x}. | poor woodcutter,wise king,greedy farmer,clever tortoise
+P The moral of the story is {x}. | Bài học của câu chuyện là {x}. | be honest,don't be greedy,work hard,be kind to others
+P The {x} turned into a prince. | {x} biến thành hoàng tử. | frog,fish,bird
+D Kể lại truyện | Bi,Kid
+> Bi: Can you retell your favourite folk tale? | Cậu kể lại truyện dân gian cậu thích nhất được không?
+> Kid: Sure. Long ago, a poor woodcutter dropped his axe in a river. | Được. Ngày xưa, một người tiều phu nghèo đánh rơi rìu xuống sông.
+> Bi: What happened next? | Rồi chuyện gì xảy ra?
+> Kid: A fairy appeared with a golden axe, but he said it wasn't his. | Một nàng tiên hiện ra với chiếc rìu vàng, nhưng ông nói đó không phải rìu của mình.
+> Bi: He was honest! | Ông ấy thật trung thực!
+> Kid: Yes. So the fairy gave him all three axes. | Đúng. Nên nàng tiên tặng ông cả ba chiếc rìu.
+> Bi: What a great story! The moral is to be honest. | Câu chuyện hay quá! Bài học là phải trung thực.
+D Truyện ngụ ngôn | Bi,Kid
+> Kid: Do you know the story of the cunning fox and the crow? | Cậu có biết chuyện con cáo xảo quyệt và con quạ không?
+> Bi: Yes! The crow had some cheese, and the fox wanted it. | Có! Con quạ có miếng pho mát, và con cáo muốn lấy nó.
+> Kid: The fox said the crow had a beautiful voice. | Con cáo khen con quạ có giọng hát hay.
+> Bi: And when the crow sang, the cheese fell! | Và khi con quạ hót, miếng pho mát rơi xuống!
+> Kid: The moral is don't trust people who say too many nice things. | Bài học là đừng tin người nói quá nhiều lời ngọt ngào.
+R The legend of the watermelon
+> Long ago, King Hung had an adopted son called An Tiem. An Tiem was hard-working and honest. One day, he said that his success came from his own hard work, not from the king. The king was angry, and he sent An Tiem and his wife to a lonely island. Life on the island was very difficult. One day, a bird dropped some black seeds on the sand. An Tiem planted them, and they grew into big green fruit with sweet red insides. It was the first watermelon! An Tiem and his wife sold the watermelons to passing ships. When the king heard the story, he invited An Tiem back home. The moral of the story is that hard work brings success.
+? Why was the king angry? | An Tiem said his success came from his own hard work. | An Tiem was lazy. | An Tiem lost the king's sword.
+? What did the bird drop on the sand? | Some black seeds. | A golden axe. | A pearl.
+? What is the moral of the story? | Hard work brings success. | Don't trust strangers. | Be quiet.
+S Long ago, there was | Then | The moral of the story is

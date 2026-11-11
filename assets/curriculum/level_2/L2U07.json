@@ -1,0 +1,2874 @@
+{
+ "id": "L2U07",
+ "level": 2,
+ "unit": 7,
+ "topic_en": "Animals around the world",
+ "topic_vi": "Động vật khắp thế giới",
+ "can_do_vi": [
+  "Gọi tên động vật hoang dã",
+  "Nói nơi chúng sống"
+ ],
+ "items": [
+  {
+   "id": "L2U07-W01",
+   "type": "word",
+   "en": "kangaroo",
+   "vi": "chuột túi",
+   "ipa": "/ˌkæŋɡərˈu/",
+   "syllables": [
+    "kangaroo"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F998"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "A kangaroo can jump very high.",
+   "example_vi": "Chuột túi nhảy được rất cao.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W02",
+   "type": "word",
+   "en": "panda",
+   "vi": "gấu trúc",
+   "ipa": "/ˈpændə/",
+   "syllables": [
+    "pan",
+    "da"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F43C"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The panda eats bamboo.",
+   "example_vi": "Gấu trúc ăn tre.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W03",
+   "type": "word",
+   "en": "penguin",
+   "vi": "chim cánh cụt",
+   "ipa": "/ˈpɛŋɡwən/",
+   "syllables": [
+    "pen",
+    "guin"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F427"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Penguins live in cold places.",
+   "example_vi": "Chim cánh cụt sống ở nơi lạnh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W04",
+   "type": "word",
+   "en": "dolphin",
+   "vi": "cá heo",
+   "ipa": "/ˈdɑlfən/",
+   "syllables": [
+    "dol",
+    "phin"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F42C"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Dolphins are very clever.",
+   "example_vi": "Cá heo rất thông minh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W05",
+   "type": "word",
+   "en": "whale",
+   "vi": "cá voi",
+   "ipa": "/weɪl/",
+   "syllables": [
+    "whale"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F40B"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The whale is very big.",
+   "example_vi": "Cá voi rất to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W06",
+   "type": "word",
+   "en": "shark",
+   "vi": "cá mập",
+   "ipa": "/ʃɑrk/",
+   "syllables": [
+    "shark"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F988"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Sharks live in the sea.",
+   "example_vi": "Cá mập sống ở biển.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W07",
+   "type": "word",
+   "en": "bat",
+   "vi": "con dơi",
+   "ipa": "/bæt/",
+   "syllables": [
+    "bat"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F987"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Bats fly at night.",
+   "example_vi": "Dơi bay vào ban đêm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W08",
+   "type": "word",
+   "en": "owl",
+   "vi": "con cú",
+   "ipa": "/aʊl/",
+   "syllables": [
+    "owl"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F989"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The owl can see at night.",
+   "example_vi": "Con cú nhìn được trong đêm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W09",
+   "type": "word",
+   "en": "eagle",
+   "vi": "đại bàng",
+   "ipa": "/ˈiɡəl/",
+   "syllables": [
+    "ea",
+    "gle"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F985"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The eagle flies very high.",
+   "example_vi": "Đại bàng bay rất cao.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W10",
+   "type": "word",
+   "en": "camel",
+   "vi": "lạc đà",
+   "ipa": "/ˈkæməl/",
+   "syllables": [
+    "camel"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F42B"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "A camel can walk in the hot sand.",
+   "example_vi": "Lạc đà đi được trên cát nóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W11",
+   "type": "word",
+   "en": "zebra",
+   "vi": "ngựa vằn",
+   "ipa": "/ˈzibrə/",
+   "syllables": [
+    "ze",
+    "bra"
+   ],
+   "phonics": "initial_z",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The zebra is black and white.",
+   "example_vi": "Ngựa vằn có màu đen và trắng.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W12",
+   "type": "word",
+   "en": "wolf",
+   "vi": "chó sói",
+   "ipa": "/wʊlf/",
+   "syllables": [
+    "wolf"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F43A"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The wolf runs fast.",
+   "example_vi": "Chó sói chạy nhanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W13",
+   "type": "word",
+   "en": "deer",
+   "vi": "con hươu",
+   "ipa": "/dɪr/",
+   "syllables": [
+    "deer"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F98C"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The deer lives in the forest.",
+   "example_vi": "Con hươu sống trong rừng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W14",
+   "type": "phrase",
+   "en": "polar bear",
+   "vi": "gấu Bắc Cực",
+   "ipa": "/ˈpoʊlər bɛr/",
+   "syllables": [
+    "po",
+    "lar",
+    "bear"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F43B-200D-2744-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The polar bear is white.",
+   "example_vi": "Gấu Bắc Cực màu trắng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W15",
+   "type": "word",
+   "en": "koala",
+   "vi": "gấu túi",
+   "ipa": "/koʊˈɑlə/",
+   "syllables": [
+    "koala"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F428"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The koala sleeps in a tree.",
+   "example_vi": "Gấu túi ngủ trên cây.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W16",
+   "type": "word",
+   "en": "squirrel",
+   "vi": "con sóc",
+   "ipa": "/skwərəl/",
+   "syllables": [
+    "squirrel"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F43F-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The squirrel has a long tail.",
+   "example_vi": "Con sóc có cái đuôi dài.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W17",
+   "type": "word",
+   "en": "wing",
+   "vi": "cánh",
+   "ipa": "/wɪŋ/",
+   "syllables": [
+    "wing"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1FABD"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Birds have two wings.",
+   "example_vi": "Chim có hai cánh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W18",
+   "type": "word",
+   "en": "fur",
+   "vi": "bộ lông thú",
+   "ipa": "/fʌr/",
+   "syllables": [
+    "fur"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F9F8"
+   },
+   "picturable": false,
+   "cat": "L2U07",
+   "example_en": "The cat has soft fur.",
+   "example_vi": "Con mèo có bộ lông mềm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W19",
+   "type": "word",
+   "en": "feather",
+   "vi": "lông vũ",
+   "ipa": "/ˈfɛðər/",
+   "syllables": [
+    "feath",
+    "er"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1FAB6"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "This is a long feather.",
+   "example_vi": "Đây là một chiếc lông vũ dài.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W20",
+   "type": "word",
+   "en": "nest",
+   "vi": "tổ chim",
+   "ipa": "/nɛst/",
+   "syllables": [
+    "nest"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1FABA"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "The bird is in its nest.",
+   "example_vi": "Con chim ở trong tổ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W21",
+   "type": "word",
+   "en": "jungle",
+   "vi": "rừng rậm",
+   "ipa": "/ˈdʒʌŋɡəl/",
+   "syllables": [
+    "jun",
+    "gle"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F334"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Monkeys live in the jungle.",
+   "example_vi": "Khỉ sống trong rừng rậm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W22",
+   "type": "word",
+   "en": "desert",
+   "vi": "sa mạc",
+   "ipa": "/ˈdɛzərt/",
+   "syllables": [
+    "desert"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "It's hot in the desert.",
+   "example_vi": "Sa mạc rất nóng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W23",
+   "type": "word",
+   "en": "ocean",
+   "vi": "đại dương",
+   "ipa": "/ˈoʊʃən/",
+   "syllables": [
+    "ocean"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Whales live in the ocean.",
+   "example_vi": "Cá voi sống ở đại dương.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W24",
+   "type": "word",
+   "en": "forest",
+   "vi": "khu rừng",
+   "ipa": "/ˈfɔrɪst/",
+   "syllables": [
+    "for",
+    "est"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F332"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "There are many trees in the forest.",
+   "example_vi": "Trong rừng có rất nhiều cây.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W25",
+   "type": "word",
+   "en": "wild",
+   "vi": "hoang dã",
+   "ipa": "/waɪld/",
+   "syllables": [
+    "wild"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F43E"
+   },
+   "picturable": false,
+   "cat": "L2U07",
+   "example_en": "A lion is a wild animal.",
+   "example_vi": "Sư tử là động vật hoang dã.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W26",
+   "type": "word",
+   "en": "dangerous",
+   "vi": "nguy hiểm",
+   "ipa": "/ˈdeɪndʒərəs/",
+   "syllables": [
+    "dangerous"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "26A0-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "Sharks are dangerous.",
+   "example_vi": "Cá mập rất nguy hiểm.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U07-W27",
+   "type": "word",
+   "en": "strong",
+   "vi": "khoẻ",
+   "ipa": "/strɔŋ/",
+   "syllables": [
+    "strong"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": true,
+   "cat": "L2U07",
+   "example_en": "An elephant is very strong.",
+   "example_vi": "Voi rất khoẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U07-P01",
+   "en": "A {x} lives in the ocean.",
+   "vi": "Con {x} sống ở đại dương.",
+   "slots": {
+    "x": [
+     "whale",
+     "shark",
+     "dolphin"
+    ]
+   }
+  },
+  {
+   "id": "L2U07-P02",
+   "en": "Can a {x} fly?",
+   "vi": "Con {x} có bay được không?",
+   "slots": {
+    "x": [
+     "penguin",
+     "bat",
+     "eagle",
+     "owl"
+    ]
+   }
+  },
+  {
+   "id": "L2U07-P03",
+   "en": "The {x} has soft fur.",
+   "vi": "Con {x} có bộ lông mềm.",
+   "slots": {
+    "x": [
+     "panda",
+     "koala",
+     "squirrel"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U07-D01",
+   "title_vi": "Ở sở thú",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Which animal do you like?",
+     "vi": "Cậu thích con vật nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like the panda.",
+     "vi": "Tớ thích gấu trúc."
+    },
+    {
+     "role": "Bi",
+     "en": "Why?",
+     "vi": "Vì sao?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's black and white. It's cute!",
+     "vi": "Nó màu đen trắng. Dễ thương lắm!"
+    },
+    {
+     "role": "Bi",
+     "en": "Look! It's eating!",
+     "vi": "Nhìn kìa! Nó đang ăn!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "panda",
+    "options": [
+     "penguin",
+     "koala"
+    ]
+   }
+  },
+  {
+   "id": "L2U07-D02",
+   "title_vi": "Đố vui động vật",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "It lives in the ocean. It's very clever. What is it?",
+     "vi": "Nó sống ở đại dương. Nó rất thông minh. Là con gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "Is it a dolphin?",
+     "vi": "Có phải cá heo không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! Your turn.",
+     "vi": "Đúng rồi! Đến lượt cậu."
+    },
+    {
+     "role": "Kid",
+     "en": "It has wings. It flies at night.",
+     "vi": "Nó có cánh. Nó bay vào ban đêm."
+    },
+    {
+     "role": "Bi",
+     "en": "It's a bat!",
+     "vi": "Là con dơi!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "dolphin",
+    "options": [
+     "whale",
+     "shark"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "kangaroo"
+  },
+  {
+   "type": "dictate_word",
+   "target": "panda"
+  },
+  {
+   "type": "dictate_word",
+   "target": "penguin"
+  },
+  {
+   "type": "dictate_word",
+   "target": "dolphin"
+  },
+  {
+   "type": "dictate_word",
+   "target": "whale"
+  },
+  {
+   "type": "dictate_word",
+   "target": "shark"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bat"
+  },
+  {
+   "type": "dictate_word",
+   "target": "owl"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "A kangaroo can jump very high."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The panda eats bamboo."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Penguins live in cold places."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U07-R01",
+   "title_en": "Penguins",
+   "text_en": [
+    "Penguins are birds.",
+    "They have wings, but they can't fly.",
+    "They can swim very well.",
+    "They live in very cold places.",
+    "They eat fish.",
+    "Baby penguins have soft grey fur."
+   ],
+   "questions": [
+    {
+     "q": "Can penguins fly?",
+     "options": [
+      "No, they can't.",
+      "Yes, they can.",
+      "Only at night."
+     ],
+     "answer": "No, they can't."
+    },
+    {
+     "q": "What do penguins eat?",
+     "options": [
+      "Fish.",
+      "Grass.",
+      "Fruit."
+     ],
+     "answer": "Fish."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U07-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kangaroo",
+   "item": "kangaroo",
+   "options": [
+    "desert",
+    "kangaroo",
+    "camel",
+    "nest"
+   ],
+   "answer": "kangaroo"
+  },
+  {
+   "id": "L2U07-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "panda",
+   "item": "panda",
+   "options": [
+    "dangerous",
+    "polar bear",
+    "panda",
+    "feather"
+   ],
+   "answer": "panda"
+  },
+  {
+   "id": "L2U07-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "penguin",
+   "item": "penguin",
+   "options": [
+    "penguin",
+    "strong",
+    "owl",
+    "nest"
+   ],
+   "answer": "penguin"
+  },
+  {
+   "id": "L2U07-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dolphin",
+   "item": "dolphin",
+   "options": [
+    "dolphin",
+    "dangerous",
+    "koala",
+    "jungle"
+   ],
+   "answer": "dolphin"
+  },
+  {
+   "id": "L2U07-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "whale",
+   "item": "whale",
+   "options": [
+    "polar bear",
+    "whale",
+    "dangerous",
+    "koala"
+   ],
+   "answer": "whale"
+  },
+  {
+   "id": "L2U07-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shark",
+   "item": "shark",
+   "options": [
+    "owl",
+    "panda",
+    "shark",
+    "dolphin"
+   ],
+   "answer": "shark"
+  },
+  {
+   "id": "L2U07-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bat",
+   "item": "bat",
+   "options": [
+    "deer",
+    "wing",
+    "bat",
+    "nest"
+   ],
+   "answer": "bat"
+  },
+  {
+   "id": "L2U07-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "owl",
+   "item": "owl",
+   "options": [
+    "penguin",
+    "strong",
+    "owl",
+    "bat"
+   ],
+   "answer": "owl"
+  },
+  {
+   "id": "L2U07-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "eagle",
+   "item": "eagle",
+   "options": [
+    "eagle",
+    "koala",
+    "zebra",
+    "owl"
+   ],
+   "answer": "eagle"
+  },
+  {
+   "id": "L2U07-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "camel",
+   "item": "camel",
+   "options": [
+    "camel",
+    "strong",
+    "panda",
+    "shark"
+   ],
+   "answer": "camel"
+  },
+  {
+   "id": "L2U07-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "zebra",
+   "item": "zebra",
+   "options": [
+    "wing",
+    "zebra",
+    "bat",
+    "squirrel"
+   ],
+   "answer": "zebra"
+  },
+  {
+   "id": "L2U07-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wolf",
+   "item": "wolf",
+   "options": [
+    "camel",
+    "wolf",
+    "penguin",
+    "owl"
+   ],
+   "answer": "wolf"
+  },
+  {
+   "id": "L2U07-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "deer",
+   "item": "deer",
+   "options": [
+    "desert",
+    "camel",
+    "deer",
+    "eagle"
+   ],
+   "answer": "deer"
+  },
+  {
+   "id": "L2U07-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "polar bear",
+   "item": "polar bear",
+   "options": [
+    "polar bear",
+    "shark",
+    "desert",
+    "nest"
+   ],
+   "answer": "polar bear"
+  },
+  {
+   "id": "L2U07-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "koala",
+   "item": "koala",
+   "options": [
+    "wolf",
+    "camel",
+    "bat",
+    "koala"
+   ],
+   "answer": "koala"
+  },
+  {
+   "id": "L2U07-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "squirrel",
+   "item": "squirrel",
+   "options": [
+    "squirrel",
+    "desert",
+    "eagle",
+    "owl"
+   ],
+   "answer": "squirrel"
+  },
+  {
+   "id": "L2U07-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wing",
+   "item": "wing",
+   "options": [
+    "deer",
+    "squirrel",
+    "wing",
+    "dangerous"
+   ],
+   "answer": "wing"
+  },
+  {
+   "id": "L2U07-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "feather",
+   "item": "feather",
+   "options": [
+    "squirrel",
+    "owl",
+    "dolphin",
+    "feather"
+   ],
+   "answer": "feather"
+  },
+  {
+   "id": "L2U07-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "nest",
+   "item": "nest",
+   "options": [
+    "strong",
+    "wing",
+    "owl",
+    "nest"
+   ],
+   "answer": "nest"
+  },
+  {
+   "id": "L2U07-Q020",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "jungle",
+   "item": "jungle",
+   "options": [
+    "wing",
+    "jungle",
+    "nest",
+    "whale"
+   ],
+   "answer": "jungle"
+  },
+  {
+   "id": "L2U07-Q021",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "desert",
+   "item": "desert",
+   "options": [
+    "strong",
+    "desert",
+    "deer",
+    "eagle"
+   ],
+   "answer": "desert"
+  },
+  {
+   "id": "L2U07-Q022",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ocean",
+   "item": "ocean",
+   "options": [
+    "ocean",
+    "dolphin",
+    "deer",
+    "whale"
+   ],
+   "answer": "ocean"
+  },
+  {
+   "id": "L2U07-Q023",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "forest",
+   "item": "forest",
+   "options": [
+    "wing",
+    "forest",
+    "wolf",
+    "desert"
+   ],
+   "answer": "forest"
+  },
+  {
+   "id": "L2U07-Q024",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dangerous",
+   "item": "dangerous",
+   "options": [
+    "dangerous",
+    "eagle",
+    "shark",
+    "owl"
+   ],
+   "answer": "dangerous"
+  },
+  {
+   "id": "L2U07-Q025",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "strong",
+   "item": "strong",
+   "options": [
+    "shark",
+    "bat",
+    "deer",
+    "strong"
+   ],
+   "answer": "strong"
+  },
+  {
+   "id": "L2U07-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fur",
+   "item": "fur",
+   "options": [
+    "dolphin",
+    "feather",
+    "shark",
+    "fur"
+   ],
+   "answer": "fur"
+  },
+  {
+   "id": "L2U07-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wild",
+   "item": "wild",
+   "options": [
+    "wild",
+    "nest",
+    "owl",
+    "kangaroo"
+   ],
+   "answer": "wild"
+  },
+  {
+   "id": "L2U07-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kangaroo",
+   "answer": "kangaroo"
+  },
+  {
+   "id": "L2U07-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "panda",
+   "answer": "panda"
+  },
+  {
+   "id": "L2U07-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "penguin",
+   "answer": "penguin"
+  },
+  {
+   "id": "L2U07-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dolphin",
+   "answer": "dolphin"
+  },
+  {
+   "id": "L2U07-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "whale",
+   "answer": "whale"
+  },
+  {
+   "id": "L2U07-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shark",
+   "answer": "shark"
+  },
+  {
+   "id": "L2U07-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bat",
+   "answer": "bat"
+  },
+  {
+   "id": "L2U07-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "owl",
+   "answer": "owl"
+  },
+  {
+   "id": "L2U07-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "eagle",
+   "answer": "eagle"
+  },
+  {
+   "id": "L2U07-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "camel",
+   "answer": "camel"
+  },
+  {
+   "id": "L2U07-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "zebra",
+   "answer": "zebra"
+  },
+  {
+   "id": "L2U07-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wolf",
+   "answer": "wolf"
+  },
+  {
+   "id": "L2U07-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "deer",
+   "answer": "deer"
+  },
+  {
+   "id": "L2U07-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "polar bear",
+   "answer": "polar bear"
+  },
+  {
+   "id": "L2U07-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "koala",
+   "answer": "koala"
+  },
+  {
+   "id": "L2U07-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "squirrel",
+   "answer": "squirrel"
+  },
+  {
+   "id": "L2U07-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wing",
+   "answer": "wing"
+  },
+  {
+   "id": "L2U07-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "feather",
+   "answer": "feather"
+  },
+  {
+   "id": "L2U07-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "nest",
+   "answer": "nest"
+  },
+  {
+   "id": "L2U07-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "jungle",
+   "answer": "jungle"
+  },
+  {
+   "id": "L2U07-Q048",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "desert",
+   "answer": "desert"
+  },
+  {
+   "id": "L2U07-Q049",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ocean",
+   "answer": "ocean"
+  },
+  {
+   "id": "L2U07-Q050",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "forest",
+   "answer": "forest"
+  },
+  {
+   "id": "L2U07-Q051",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dangerous",
+   "answer": "dangerous"
+  },
+  {
+   "id": "L2U07-Q052",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "strong",
+   "answer": "strong"
+  },
+  {
+   "id": "L2U07-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A kangaroo can jump very high.",
+   "item": "kangaroo",
+   "answer": "A kangaroo can jump very high."
+  },
+  {
+   "id": "L2U07-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The panda eats bamboo.",
+   "item": "panda",
+   "answer": "The panda eats bamboo."
+  },
+  {
+   "id": "L2U07-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Penguins live in cold places.",
+   "item": "penguin",
+   "answer": "Penguins live in cold places."
+  },
+  {
+   "id": "L2U07-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dolphins are very clever.",
+   "item": "dolphin",
+   "answer": "Dolphins are very clever."
+  },
+  {
+   "id": "L2U07-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The whale is very big.",
+   "item": "whale",
+   "answer": "The whale is very big."
+  },
+  {
+   "id": "L2U07-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sharks live in the sea.",
+   "item": "shark",
+   "answer": "Sharks live in the sea."
+  },
+  {
+   "id": "L2U07-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bats fly at night.",
+   "item": "bat",
+   "answer": "Bats fly at night."
+  },
+  {
+   "id": "L2U07-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The owl can see at night.",
+   "item": "owl",
+   "answer": "The owl can see at night."
+  },
+  {
+   "id": "L2U07-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The eagle flies very high.",
+   "item": "eagle",
+   "answer": "The eagle flies very high."
+  },
+  {
+   "id": "L2U07-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A camel can walk in the hot sand.",
+   "item": "camel",
+   "answer": "A camel can walk in the hot sand."
+  },
+  {
+   "id": "L2U07-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The zebra is black and white.",
+   "item": "zebra",
+   "answer": "The zebra is black and white."
+  },
+  {
+   "id": "L2U07-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The wolf runs fast.",
+   "item": "wolf",
+   "answer": "The wolf runs fast."
+  },
+  {
+   "id": "L2U07-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The deer lives in the forest.",
+   "item": "deer",
+   "answer": "The deer lives in the forest."
+  },
+  {
+   "id": "L2U07-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The polar bear is white.",
+   "item": "polar bear",
+   "answer": "The polar bear is white."
+  },
+  {
+   "id": "L2U07-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The koala sleeps in a tree.",
+   "item": "koala",
+   "answer": "The koala sleeps in a tree."
+  },
+  {
+   "id": "L2U07-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The squirrel has a long tail.",
+   "item": "squirrel",
+   "answer": "The squirrel has a long tail."
+  },
+  {
+   "id": "L2U07-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Birds have two wings.",
+   "item": "wing",
+   "answer": "Birds have two wings."
+  },
+  {
+   "id": "L2U07-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cat has soft fur.",
+   "item": "fur",
+   "answer": "The cat has soft fur."
+  },
+  {
+   "id": "L2U07-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is a long feather.",
+   "item": "feather",
+   "answer": "This is a long feather."
+  },
+  {
+   "id": "L2U07-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bird is in its nest.",
+   "item": "nest",
+   "answer": "The bird is in its nest."
+  },
+  {
+   "id": "L2U07-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Monkeys live in the jungle.",
+   "item": "jungle",
+   "answer": "Monkeys live in the jungle."
+  },
+  {
+   "id": "L2U07-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's hot in the desert.",
+   "item": "desert",
+   "answer": "It's hot in the desert."
+  },
+  {
+   "id": "L2U07-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Whales live in the ocean.",
+   "item": "ocean",
+   "answer": "Whales live in the ocean."
+  },
+  {
+   "id": "L2U07-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are many trees in the forest.",
+   "item": "forest",
+   "answer": "There are many trees in the forest."
+  },
+  {
+   "id": "L2U07-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A lion is a wild animal.",
+   "item": "wild",
+   "answer": "A lion is a wild animal."
+  },
+  {
+   "id": "L2U07-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Sharks are dangerous.",
+   "item": "dangerous",
+   "answer": "Sharks are dangerous."
+  },
+  {
+   "id": "L2U07-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An elephant is very strong.",
+   "item": "strong",
+   "answer": "An elephant is very strong."
+  },
+  {
+   "id": "L2U07-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A whale lives in the ocean.",
+   "answer": "A whale lives in the ocean."
+  },
+  {
+   "id": "L2U07-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A shark lives in the ocean.",
+   "answer": "A shark lives in the ocean."
+  },
+  {
+   "id": "L2U07-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A dolphin lives in the ocean.",
+   "answer": "A dolphin lives in the ocean."
+  },
+  {
+   "id": "L2U07-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can a penguin fly?",
+   "answer": "Can a penguin fly?"
+  },
+  {
+   "id": "L2U07-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can a bat fly?",
+   "answer": "Can a bat fly?"
+  },
+  {
+   "id": "L2U07-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can a eagle fly?",
+   "answer": "Can a eagle fly?"
+  },
+  {
+   "id": "L2U07-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The panda has soft fur.",
+   "answer": "The panda has soft fur."
+  },
+  {
+   "id": "L2U07-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The koala has soft fur.",
+   "answer": "The koala has soft fur."
+  },
+  {
+   "id": "L2U07-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The squirrel has soft fur.",
+   "answer": "The squirrel has soft fur."
+  },
+  {
+   "id": "L2U07-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Which animal do you like?",
+   "answer": "I like the panda."
+  },
+  {
+   "id": "L2U07-Q090",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "It's black and white. It's cute!"
+  },
+  {
+   "id": "L2U07-Q091",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "It lives in the ocean. It's very clever. What is it?",
+   "answer": "Is it a dolphin?"
+  },
+  {
+   "id": "L2U07-Q092",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it a dolphin?",
+   "answer": "Yes! Your turn."
+  },
+  {
+   "id": "L2U07-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kangaroo",
+   "options": [
+    "strong",
+    "jungle",
+    "kangaroo"
+   ],
+   "answer": "kangaroo"
+  },
+  {
+   "id": "L2U07-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "panda",
+   "options": [
+    "jungle",
+    "penguin",
+    "panda"
+   ],
+   "answer": "panda"
+  },
+  {
+   "id": "L2U07-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "penguin",
+   "options": [
+    "zebra",
+    "dolphin",
+    "penguin"
+   ],
+   "answer": "penguin"
+  },
+  {
+   "id": "L2U07-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dolphin",
+   "options": [
+    "wolf",
+    "dolphin",
+    "ocean"
+   ],
+   "answer": "dolphin"
+  },
+  {
+   "id": "L2U07-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "whale",
+   "options": [
+    "nest",
+    "wolf",
+    "whale"
+   ],
+   "answer": "whale"
+  },
+  {
+   "id": "L2U07-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shark",
+   "options": [
+    "shark",
+    "dolphin",
+    "eagle"
+   ],
+   "answer": "shark"
+  },
+  {
+   "id": "L2U07-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bat",
+   "options": [
+    "polar bear",
+    "koala",
+    "bat"
+   ],
+   "answer": "bat"
+  },
+  {
+   "id": "L2U07-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "owl",
+   "options": [
+    "owl",
+    "wolf",
+    "desert"
+   ],
+   "answer": "owl"
+  },
+  {
+   "id": "L2U07-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "eagle",
+   "options": [
+    "eagle",
+    "squirrel",
+    "dangerous"
+   ],
+   "answer": "eagle"
+  },
+  {
+   "id": "L2U07-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "camel",
+   "options": [
+    "bat",
+    "camel",
+    "whale"
+   ],
+   "answer": "camel"
+  },
+  {
+   "id": "L2U07-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "zebra",
+   "options": [
+    "zebra",
+    "kangaroo",
+    "dangerous"
+   ],
+   "answer": "zebra"
+  },
+  {
+   "id": "L2U07-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wolf",
+   "options": [
+    "wolf",
+    "panda",
+    "dangerous"
+   ],
+   "answer": "wolf"
+  },
+  {
+   "id": "L2U07-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "deer",
+   "options": [
+    "eagle",
+    "penguin",
+    "deer"
+   ],
+   "answer": "deer"
+  },
+  {
+   "id": "L2U07-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "polar bear",
+   "options": [
+    "wolf",
+    "polar bear",
+    "shark"
+   ],
+   "answer": "polar bear"
+  },
+  {
+   "id": "L2U07-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "koala",
+   "options": [
+    "koala",
+    "dangerous",
+    "strong"
+   ],
+   "answer": "koala"
+  },
+  {
+   "id": "L2U07-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "squirrel",
+   "options": [
+    "koala",
+    "squirrel",
+    "wolf"
+   ],
+   "answer": "squirrel"
+  },
+  {
+   "id": "L2U07-Q109",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wing",
+   "options": [
+    "whale",
+    "eagle",
+    "wing"
+   ],
+   "answer": "wing"
+  },
+  {
+   "id": "L2U07-Q110",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "feather",
+   "options": [
+    "camel",
+    "deer",
+    "feather"
+   ],
+   "answer": "feather"
+  },
+  {
+   "id": "L2U07-Q111",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "nest",
+   "options": [
+    "polar bear",
+    "ocean",
+    "nest"
+   ],
+   "answer": "nest"
+  },
+  {
+   "id": "L2U07-Q112",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "jungle",
+   "options": [
+    "camel",
+    "jungle",
+    "koala"
+   ],
+   "answer": "jungle"
+  },
+  {
+   "id": "L2U07-Q113",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "desert",
+   "options": [
+    "ocean",
+    "whale",
+    "desert"
+   ],
+   "answer": "desert"
+  },
+  {
+   "id": "L2U07-Q114",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ocean",
+   "options": [
+    "squirrel",
+    "wing",
+    "ocean"
+   ],
+   "answer": "ocean"
+  },
+  {
+   "id": "L2U07-Q115",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "forest",
+   "options": [
+    "forest",
+    "camel",
+    "dangerous"
+   ],
+   "answer": "forest"
+  },
+  {
+   "id": "L2U07-Q116",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dangerous",
+   "options": [
+    "zebra",
+    "strong",
+    "dangerous"
+   ],
+   "answer": "dangerous"
+  },
+  {
+   "id": "L2U07-Q117",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "strong",
+   "options": [
+    "deer",
+    "strong",
+    "feather"
+   ],
+   "answer": "strong"
+  },
+  {
+   "id": "L2U07-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ can jump very high.",
+   "item": "kangaroo",
+   "options": [
+    "bat",
+    "nest",
+    "kangaroo"
+   ],
+   "answer": "kangaroo"
+  },
+  {
+   "id": "L2U07-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ eats bamboo.",
+   "item": "panda",
+   "options": [
+    "dolphin",
+    "dangerous",
+    "panda"
+   ],
+   "answer": "panda"
+  },
+  {
+   "id": "L2U07-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ live in cold places.",
+   "item": "penguin",
+   "options": [
+    "Eagles",
+    "Strongs",
+    "Penguins"
+   ],
+   "answer": "Penguins"
+  },
+  {
+   "id": "L2U07-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are very clever.",
+   "item": "dolphin",
+   "options": [
+    "Camels",
+    "Kangaroos",
+    "Dolphins"
+   ],
+   "answer": "Dolphins"
+  },
+  {
+   "id": "L2U07-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very big.",
+   "item": "whale",
+   "options": [
+    "whale",
+    "strong",
+    "dolphin"
+   ],
+   "answer": "whale"
+  },
+  {
+   "id": "L2U07-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ live in the sea.",
+   "item": "shark",
+   "options": [
+    "Oceans",
+    "Sharks",
+    "Zebras"
+   ],
+   "answer": "Sharks"
+  },
+  {
+   "id": "L2U07-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ fly at night.",
+   "item": "bat",
+   "options": [
+    "Wolfs",
+    "Bats",
+    "Forests"
+   ],
+   "answer": "Bats"
+  },
+  {
+   "id": "L2U07-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ can see at night.",
+   "item": "owl",
+   "options": [
+    "dangerous",
+    "owl",
+    "strong"
+   ],
+   "answer": "owl"
+  },
+  {
+   "id": "L2U07-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ flies very high.",
+   "item": "eagle",
+   "options": [
+    "penguin",
+    "strong",
+    "eagle"
+   ],
+   "answer": "eagle"
+  },
+  {
+   "id": "L2U07-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ can walk in the hot sand.",
+   "item": "camel",
+   "options": [
+    "bat",
+    "strong",
+    "camel"
+   ],
+   "answer": "camel"
+  },
+  {
+   "id": "L2U07-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is black and white.",
+   "item": "zebra",
+   "options": [
+    "dangerous",
+    "feather",
+    "zebra"
+   ],
+   "answer": "zebra"
+  },
+  {
+   "id": "L2U07-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ runs fast.",
+   "item": "wolf",
+   "options": [
+    "nest",
+    "strong",
+    "wolf"
+   ],
+   "answer": "wolf"
+  },
+  {
+   "id": "L2U07-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ lives in the forest.",
+   "item": "deer",
+   "options": [
+    "bat",
+    "shark",
+    "deer"
+   ],
+   "answer": "deer"
+  },
+  {
+   "id": "L2U07-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ sleeps in a tree.",
+   "item": "koala",
+   "options": [
+    "koala",
+    "shark",
+    "feather"
+   ],
+   "answer": "koala"
+  },
+  {
+   "id": "L2U07-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has a long tail.",
+   "item": "squirrel",
+   "options": [
+    "penguin",
+    "squirrel",
+    "nest"
+   ],
+   "answer": "squirrel"
+  },
+  {
+   "id": "L2U07-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Birds have two ___.",
+   "item": "wing",
+   "options": [
+    "wings",
+    "penguins",
+    "dolphins"
+   ],
+   "answer": "wings"
+  },
+  {
+   "id": "L2U07-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The cat has soft ___.",
+   "item": "fur",
+   "options": [
+    "ocean",
+    "shark",
+    "fur"
+   ],
+   "answer": "fur"
+  },
+  {
+   "id": "L2U07-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is a long ___.",
+   "item": "feather",
+   "options": [
+    "dangerous",
+    "wolf",
+    "feather"
+   ],
+   "answer": "feather"
+  },
+  {
+   "id": "L2U07-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bird is in its ___.",
+   "item": "nest",
+   "options": [
+    "nest",
+    "forest",
+    "strong"
+   ],
+   "answer": "nest"
+  },
+  {
+   "id": "L2U07-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Monkeys live in the ___.",
+   "item": "jungle",
+   "options": [
+    "jungle",
+    "dolphin",
+    "fur"
+   ],
+   "answer": "jungle"
+  },
+  {
+   "id": "L2U07-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's hot in the ___.",
+   "item": "desert",
+   "options": [
+    "desert",
+    "fur",
+    "feather"
+   ],
+   "answer": "desert"
+  },
+  {
+   "id": "L2U07-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Whales live in the ___.",
+   "item": "ocean",
+   "options": [
+    "ocean",
+    "dangerous",
+    "dolphin"
+   ],
+   "answer": "ocean"
+  },
+  {
+   "id": "L2U07-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are many trees in the ___.",
+   "item": "forest",
+   "options": [
+    "penguin",
+    "shark",
+    "forest"
+   ],
+   "answer": "forest"
+  },
+  {
+   "id": "L2U07-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A lion is a ___ animal.",
+   "item": "wild",
+   "options": [
+    "wild",
+    "dolphin",
+    "bat"
+   ],
+   "answer": "wild"
+  },
+  {
+   "id": "L2U07-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Sharks are ___.",
+   "item": "dangerous",
+   "options": [
+    "dolphin",
+    "wing",
+    "dangerous"
+   ],
+   "answer": "dangerous"
+  },
+  {
+   "id": "L2U07-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An elephant is very ___.",
+   "item": "strong",
+   "options": [
+    "camel",
+    "forest",
+    "strong"
+   ],
+   "answer": "strong"
+  },
+  {
+   "id": "L2U07-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A kangaroo can jump very high.",
+   "item": "kangaroo",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The panda eats bamboo.",
+   "item": "penguin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Penguins live in cold places.",
+   "item": "penguin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dolphins are very clever.",
+   "item": "whale",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The whale is very big.",
+   "item": "whale",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Sharks live in the sea.",
+   "item": "bat",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Bats fly at night.",
+   "item": "bat",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The owl can see at night.",
+   "item": "eagle",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The eagle flies very high.",
+   "item": "eagle",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q153",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A camel can walk in the hot sand.",
+   "item": "zebra",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q154",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The zebra is black and white.",
+   "item": "zebra",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q155",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The wolf runs fast.",
+   "item": "deer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q156",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The deer lives in the forest.",
+   "item": "deer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q157",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The polar bear is white.",
+   "item": "koala",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q158",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The koala sleeps in a tree.",
+   "item": "koala",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q159",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The squirrel has a long tail.",
+   "item": "wing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q160",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Birds have two wings.",
+   "item": "wing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q161",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "This is a long feather.",
+   "item": "nest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q162",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bird is in its nest.",
+   "item": "nest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q163",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Monkeys live in the jungle.",
+   "item": "desert",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q164",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's hot in the desert.",
+   "item": "desert",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q165",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Whales live in the ocean.",
+   "item": "forest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q166",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are many trees in the forest.",
+   "item": "forest",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q167",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Sharks are dangerous.",
+   "item": "strong",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U07-Q168",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "An elephant is very strong.",
+   "item": "strong",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U07-Q169",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U07-R01",
+   "text_en": "Can penguins fly?",
+   "options": [
+    "Yes, they can.",
+    "Only at night.",
+    "No, they can't."
+   ],
+   "answer": "No, they can't."
+  },
+  {
+   "id": "L2U07-Q170",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U07-R01",
+   "text_en": "What do penguins eat?",
+   "options": [
+    "Fish.",
+    "Fruit.",
+    "Grass."
+   ],
+   "answer": "Fish."
+  },
+  {
+   "id": "L2U07-Q171",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "kangaroo",
+   "item": "kangaroo",
+   "answer": "kangaroo"
+  },
+  {
+   "id": "L2U07-Q172",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "panda",
+   "item": "panda",
+   "answer": "panda"
+  },
+  {
+   "id": "L2U07-Q173",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "penguin",
+   "item": "penguin",
+   "answer": "penguin"
+  },
+  {
+   "id": "L2U07-Q174",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "dolphin",
+   "item": "dolphin",
+   "answer": "dolphin"
+  },
+  {
+   "id": "L2U07-Q175",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "whale",
+   "item": "whale",
+   "answer": "whale"
+  },
+  {
+   "id": "L2U07-Q176",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "shark",
+   "item": "shark",
+   "answer": "shark"
+  },
+  {
+   "id": "L2U07-Q177",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bat",
+   "item": "bat",
+   "answer": "bat"
+  },
+  {
+   "id": "L2U07-Q178",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "owl",
+   "item": "owl",
+   "answer": "owl"
+  },
+  {
+   "id": "L2U07-Q179",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "A kangaroo can jump very high.",
+   "answer": "A kangaroo can jump very high."
+  },
+  {
+   "id": "L2U07-Q180",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The panda eats bamboo.",
+   "answer": "The panda eats bamboo."
+  },
+  {
+   "id": "L2U07-Q181",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Penguins live in cold places.",
+   "answer": "Penguins live in cold places."
+  }
+ ]
+}

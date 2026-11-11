@@ -1,0 +1,2911 @@
+{
+ "id": "L4U11",
+ "level": 4,
+ "unit": 11,
+ "topic_en": "Wild weather",
+ "topic_vi": "Thời tiết khắc nghiệt",
+ "can_do_vi": [
+  "Nghe hiểu bản tin dự báo thời tiết",
+  "Nói cách giữ an toàn khi thời tiết xấu"
+ ],
+ "grammar_note_vi": "Dự báo thời tiết dùng \"will\": \"It will be sunny tomorrow.\" / \"It will rain in the afternoon.\" Nói nhiệt độ: \"It's thirty degrees.\" (ba mươi độ).",
+ "items": [
+  {
+   "id": "L4U11-W01",
+   "type": "word",
+   "en": "forecast",
+   "vi": "dự báo",
+   "ipa": "/ˈfɔrˌkæst/",
+   "syllables": [
+    "fore",
+    "cast"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F326-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The weather forecast says it will rain.",
+   "example_vi": "Dự báo thời tiết nói trời sẽ mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W02",
+   "type": "word",
+   "en": "degree",
+   "vi": "độ",
+   "ipa": "/dɪˈɡri/",
+   "syllables": [
+    "de",
+    "gree"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F321-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "It's thirty-five degrees today!",
+   "example_vi": "Hôm nay ba mươi lăm độ!",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W03",
+   "type": "word",
+   "en": "fog",
+   "vi": "sương mù",
+   "ipa": "/fɔɡ/",
+   "syllables": [
+    "fog"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F32B-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "There is thick fog on the road.",
+   "example_vi": "Có sương mù dày trên đường.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W04",
+   "type": "word",
+   "en": "foggy",
+   "vi": "có sương mù",
+   "ipa": "/ˈfɑɡi/",
+   "syllables": [
+    "fog",
+    "gy"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F301"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "It's foggy this morning. Drive slowly.",
+   "example_vi": "Sáng nay có sương mù. Lái xe chậm thôi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W05",
+   "type": "word",
+   "en": "icy",
+   "vi": "đóng băng",
+   "ipa": "/ˈaɪsi/",
+   "syllables": [
+    "icy"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F9CA"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The road is icy. Be careful!",
+   "example_vi": "Đường đóng băng. Cẩn thận!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W06",
+   "type": "word",
+   "en": "frost",
+   "vi": "sương giá",
+   "ipa": "/frɔst/",
+   "syllables": [
+    "frost"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2744-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "There is frost on the car window.",
+   "example_vi": "Có sương giá trên cửa kính ô tô.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W07",
+   "type": "word",
+   "en": "hail",
+   "vi": "mưa đá",
+   "ipa": "/heɪl/",
+   "syllables": [
+    "hail"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F328-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Hail is small balls of ice.",
+   "example_vi": "Mưa đá là những viên đá nhỏ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W08",
+   "type": "word",
+   "en": "flood",
+   "vi": "lũ lụt",
+   "ipa": "/flʌd/",
+   "syllables": [
+    "flood"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The flood damaged many houses.",
+   "example_vi": "Lũ lụt làm hỏng nhiều ngôi nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W09",
+   "type": "word",
+   "en": "drought",
+   "vi": "hạn hán",
+   "ipa": "/draʊt/",
+   "syllables": [
+    "drought"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3DC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "There is no rain in a drought.",
+   "example_vi": "Khi hạn hán thì không có mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W10",
+   "type": "word",
+   "en": "typhoon",
+   "vi": "bão lớn",
+   "ipa": "/ˌtaɪˈfun/",
+   "syllables": [
+    "ty",
+    "phoon"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F300"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "A typhoon is coming. Stay inside!",
+   "example_vi": "Bão sắp đến. Ở trong nhà nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W11",
+   "type": "word",
+   "en": "tornado",
+   "vi": "lốc xoáy",
+   "ipa": "/tɔrˈneɪˌdoʊ/",
+   "syllables": [
+    "tor",
+    "na",
+    "do"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F32A-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "A tornado is a very strong wind.",
+   "example_vi": "Lốc xoáy là cơn gió rất mạnh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W12",
+   "type": "word",
+   "en": "heatwave",
+   "vi": "đợt nắng nóng",
+   "ipa": "/heatwave/",
+   "syllables": [
+    "heatwave"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F975"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "In a heatwave, drink lots of water.",
+   "example_vi": "Trong đợt nắng nóng, hãy uống nhiều nước.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W13",
+   "type": "word",
+   "en": "puddle",
+   "vi": "vũng nước",
+   "ipa": "/ˈpʌdəl/",
+   "syllables": [
+    "pud",
+    "dle"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "I love jumping in puddles!",
+   "example_vi": "Tớ thích nhảy vào vũng nước!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W14",
+   "type": "word",
+   "en": "freezing",
+   "vi": "lạnh cóng",
+   "ipa": "/ˈfrizɪŋ/",
+   "syllables": [
+    "freez",
+    "ing"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F976"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "It's freezing outside. Wear your gloves.",
+   "example_vi": "Ngoài trời lạnh cóng. Đeo găng tay vào.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W15",
+   "type": "word",
+   "en": "boiling",
+   "vi": "nóng như thiêu",
+   "ipa": "/ˈbɔɪlɪŋ/",
+   "syllables": [
+    "boil",
+    "ing"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2668-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "It's boiling today! Let's go swimming.",
+   "example_vi": "Hôm nay nóng quá! Mình đi bơi đi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W16",
+   "type": "word",
+   "en": "humid",
+   "vi": "nồm, ẩm ướt",
+   "ipa": "/ˈjumɪd/",
+   "syllables": [
+    "hu",
+    "mid"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F4A6"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Hanoi is very humid in spring.",
+   "example_vi": "Hà Nội mùa xuân rất nồm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W17",
+   "type": "word",
+   "en": "breeze",
+   "vi": "gió nhẹ",
+   "ipa": "/briz/",
+   "syllables": [
+    "breeze"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F343"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "There is a cool breeze by the sea.",
+   "example_vi": "Có làn gió mát bên bờ biển.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W18",
+   "type": "word",
+   "en": "damage",
+   "vi": "làm hỏng, thiệt hại",
+   "ipa": "/ˈdæmɪdʒ/",
+   "syllables": [
+    "dam",
+    "age"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3DA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The storm damaged the roof.",
+   "example_vi": "Cơn bão làm hỏng mái nhà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W19",
+   "type": "phrase",
+   "en": "power cut",
+   "vi": "mất điện",
+   "ipa": "/paʊʌr kʌt/",
+   "syllables": [
+    "power",
+    "cut"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F50C"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "There was a power cut in the storm.",
+   "example_vi": "Trong cơn bão đã bị mất điện.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W20",
+   "type": "word",
+   "en": "shelter",
+   "vi": "nơi trú ẩn",
+   "ipa": "/ˈʃɛltər/",
+   "syllables": [
+    "shel",
+    "ter"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3E0"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "We found shelter in a café.",
+   "example_vi": "Bọn tớ trú mưa trong một quán cà phê.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W21",
+   "type": "word",
+   "en": "wellies",
+   "vi": "ủng cao su",
+   "ipa": "/ˈwɛliz/",
+   "syllables": [
+    "wellies"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F97E"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Put on your wellies. It's muddy.",
+   "example_vi": "Đi ủng vào. Trời lầy lội.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W22",
+   "type": "word",
+   "en": "thunderstorm",
+   "vi": "dông",
+   "ipa": "/ˈθʌndərˌstɔrm/",
+   "syllables": [
+    "thun",
+    "der",
+    "storm"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "26C8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Don't swim in a thunderstorm.",
+   "example_vi": "Đừng bơi khi trời dông.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W23",
+   "type": "word",
+   "en": "chilly",
+   "vi": "se lạnh",
+   "ipa": "/ˈtʃɪli/",
+   "syllables": [
+    "chilly"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9E3"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "It's chilly in the evening.",
+   "example_vi": "Buổi tối trời se lạnh.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W24",
+   "type": "word",
+   "en": "minus",
+   "vi": "âm",
+   "ipa": "/ˈmaɪnəs/",
+   "syllables": [
+    "mi",
+    "nus"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2796"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "It's minus five degrees in the mountains.",
+   "example_vi": "Trên núi âm năm độ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W25",
+   "type": "word",
+   "en": "snowflake",
+   "vi": "bông tuyết",
+   "ipa": "/sˈnoʊˌfleɪk/",
+   "syllables": [
+    "snowflake"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2744-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Every snowflake is different.",
+   "example_vi": "Mỗi bông tuyết đều khác nhau.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W26",
+   "type": "word",
+   "en": "snowman",
+   "vi": "người tuyết",
+   "ipa": "/sˈnoʊˌmæn/",
+   "syllables": [
+    "snow",
+    "man"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2603-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "Let's build a snowman!",
+   "example_vi": "Mình đắp người tuyết nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W27",
+   "type": "word",
+   "en": "sledge",
+   "vi": "xe trượt tuyết",
+   "ipa": "/slɛdʒ/",
+   "syllables": [
+    "sledge"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6F7"
+   },
+   "picturable": true,
+   "cat": "L4U11",
+   "example_en": "We went down the hill on a sledge.",
+   "example_vi": "Bọn tớ trượt xuống đồi bằng xe trượt tuyết.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W28",
+   "type": "word",
+   "en": "sunrise",
+   "vi": "bình minh",
+   "ipa": "/ˈsʌnˌraɪz/",
+   "syllables": [
+    "sun",
+    "rise"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F305"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "We got up early to watch the sunrise.",
+   "example_vi": "Bọn tớ dậy sớm ngắm bình minh.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W29",
+   "type": "word",
+   "en": "prepare",
+   "vi": "chuẩn bị",
+   "ipa": "/priˈpɛr/",
+   "syllables": [
+    "pre",
+    "pare"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "We prepared for the typhoon.",
+   "example_vi": "Nhà tớ đã chuẩn bị đón bão.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W30",
+   "type": "word",
+   "en": "shut",
+   "vi": "đóng",
+   "ipa": "/ʃʌt/",
+   "syllables": [
+    "shut"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Shut the windows. It's windy.",
+   "example_vi": "Đóng cửa sổ lại. Trời gió.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W31",
+   "type": "word",
+   "en": "branch",
+   "vi": "cành cây",
+   "ipa": "/bræntʃ/",
+   "syllables": [
+    "branch"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F33F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The wind broke a branch.",
+   "example_vi": "Gió làm gãy một cành cây.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W32",
+   "type": "word",
+   "en": "coast",
+   "vi": "bờ biển",
+   "ipa": "/koʊst/",
+   "syllables": [
+    "coast"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D6-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The typhoon hit the coast.",
+   "example_vi": "Cơn bão đổ bộ vào bờ biển.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W33",
+   "type": "word",
+   "en": "below",
+   "vi": "dưới",
+   "ipa": "/bɪˈloʊ/",
+   "syllables": [
+    "be",
+    "low"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "The temperature is below zero.",
+   "example_vi": "Nhiệt độ dưới không độ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W34",
+   "type": "word",
+   "en": "sunshine",
+   "vi": "ánh nắng",
+   "ipa": "/ˈsʌnˌʃaɪn/",
+   "syllables": [
+    "sun",
+    "shine"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2600-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Enjoy the sunshine!",
+   "example_vi": "Tận hưởng ánh nắng nào!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W35",
+   "type": "word",
+   "en": "raindrop",
+   "vi": "hạt mưa",
+   "ipa": "/ˈreɪnˌdrɑp/",
+   "syllables": [
+    "rain",
+    "drop"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4A7"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Raindrops are falling on the window.",
+   "example_vi": "Hạt mưa rơi trên cửa sổ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U11-W36",
+   "type": "word",
+   "en": "slip",
+   "vi": "trượt chân",
+   "ipa": "/slɪp/",
+   "syllables": [
+    "slip"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F34C"
+   },
+   "picturable": false,
+   "cat": "L4U11",
+   "example_en": "Don't slip on the wet floor.",
+   "example_vi": "Đừng trượt chân trên sàn ướt.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U11-P01",
+   "en": "It will be {x} tomorrow.",
+   "vi": "Ngày mai trời sẽ {x}.",
+   "slots": {
+    "x": [
+     "sunny",
+     "foggy",
+     "windy",
+     "freezing"
+    ]
+   }
+  },
+  {
+   "id": "L4U11-P02",
+   "en": "In a typhoon, you should {x}.",
+   "vi": "Khi có bão, bạn nên {x}.",
+   "slots": {
+    "x": [
+     "stay inside",
+     "shut the windows",
+     "listen to the news"
+    ]
+   }
+  },
+  {
+   "id": "L4U11-P03",
+   "en": "It's {x} degrees.",
+   "vi": "Trời {x} độ.",
+   "slots": {
+    "x": [
+     "thirty",
+     "minus five",
+     "twenty"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U11-D01",
+   "title_vi": "Bản tin thời tiết",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, what's the weather forecast for tomorrow?",
+     "vi": "Bi ơi, dự báo thời tiết ngày mai thế nào?"
+    },
+    {
+     "role": "Bi",
+     "en": "It will be cloudy in the morning.",
+     "vi": "Buổi sáng trời sẽ nhiều mây."
+    },
+    {
+     "role": "Kid",
+     "en": "Will it be sunny in the afternoon?",
+     "vi": "Buổi chiều có nắng không?"
+    },
+    {
+     "role": "Bi",
+     "en": "No. There will be a thunderstorm.",
+     "vi": "Không. Sẽ có dông."
+    },
+    {
+     "role": "Kid",
+     "en": "Oh no! We can't have our picnic.",
+     "vi": "Ôi không! Mình không đi dã ngoại được rồi."
+    },
+    {
+     "role": "Bi",
+     "en": "Let's play indoors instead.",
+     "vi": "Thay vào đó mình chơi trong nhà nhé."
+    }
+   ]
+  },
+  {
+   "id": "L4U11-D02",
+   "title_vi": "Chuẩn bị đón bão",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "A typhoon is coming tonight.",
+     "vi": "Tối nay bão sẽ đến."
+    },
+    {
+     "role": "Kid",
+     "en": "Is it dangerous?",
+     "vi": "Có nguy hiểm không mẹ?"
+    },
+    {
+     "role": "Mum",
+     "en": "It can be. Let's shut all the windows.",
+     "vi": "Có thể đấy. Mình đóng hết cửa sổ lại nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Should we get the torch?",
+     "vi": "Mình có nên lấy đèn pin không ạ?"
+    },
+    {
+     "role": "Mum",
+     "en": "Yes, in case there's a power cut.",
+     "vi": "Có, phòng khi mất điện."
+    },
+    {
+     "role": "Kid",
+     "en": "I'll put my bike in the garage too.",
+     "vi": "Con sẽ cất xe đạp vào ga-ra nữa."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "forecast"
+  },
+  {
+   "type": "dictate_word",
+   "target": "degree"
+  },
+  {
+   "type": "dictate_word",
+   "target": "fog"
+  },
+  {
+   "type": "dictate_word",
+   "target": "foggy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "icy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "frost"
+  },
+  {
+   "type": "dictate_word",
+   "target": "hail"
+  },
+  {
+   "type": "dictate_word",
+   "target": "flood"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The weather forecast says it will rain."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "It's thirty-five degrees today!"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "There is thick fog on the road."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Tomorrow it will be|In a storm, we should|My favourite weather is"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U11-R01",
+   "title_en": "The typhoon",
+   "text_en": [
+    "Last October, a big typhoon hit the coast near Minh's town.",
+    "The weather forecast on TV told everyone to prepare.",
+    "Minh's family shut all the windows and put their bikes in the garage.",
+    "They had torches, candles, water and food.",
+    "That night, the wind was very strong, and it rained heavily.",
+    "There was a power cut, so they used torches.",
+    "The next morning, the storm was over.",
+    "The wind broke some branches, and there were big puddles in the streets.",
+    "Everyone in Minh's family was safe."
+   ],
+   "questions": [
+    {
+     "q": "When did the typhoon hit?",
+     "options": [
+      "Last October.",
+      "Last summer.",
+      "Last week."
+     ],
+     "answer": "Last October."
+    },
+    {
+     "q": "Why did the family use torches?",
+     "options": [
+      "There was a power cut.",
+      "It was foggy.",
+      "They were camping."
+     ],
+     "answer": "There was a power cut."
+    },
+    {
+     "q": "What was in the streets the next morning?",
+     "options": [
+      "Big puddles.",
+      "Snow.",
+      "Sand."
+     ],
+     "answer": "Big puddles."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U11-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fog",
+   "item": "fog",
+   "options": [
+    "typhoon",
+    "fog",
+    "foggy",
+    "tornado"
+   ],
+   "answer": "fog"
+  },
+  {
+   "id": "L4U11-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "foggy",
+   "item": "foggy",
+   "options": [
+    "tornado",
+    "typhoon",
+    "foggy",
+    "fog"
+   ],
+   "answer": "foggy"
+  },
+  {
+   "id": "L4U11-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "typhoon",
+   "item": "typhoon",
+   "options": [
+    "fog",
+    "typhoon",
+    "sledge",
+    "tornado"
+   ],
+   "answer": "typhoon"
+  },
+  {
+   "id": "L4U11-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tornado",
+   "item": "tornado",
+   "options": [
+    "snowman",
+    "tornado",
+    "sledge",
+    "fog"
+   ],
+   "answer": "tornado"
+  },
+  {
+   "id": "L4U11-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snowman",
+   "item": "snowman",
+   "options": [
+    "typhoon",
+    "fog",
+    "snowman",
+    "foggy"
+   ],
+   "answer": "snowman"
+  },
+  {
+   "id": "L4U11-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sledge",
+   "item": "sledge",
+   "options": [
+    "foggy",
+    "sledge",
+    "typhoon",
+    "fog"
+   ],
+   "answer": "sledge"
+  },
+  {
+   "id": "L4U11-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forecast",
+   "item": "forecast",
+   "options": [
+    "foggy",
+    "forecast",
+    "frost",
+    "sledge"
+   ],
+   "answer": "forecast"
+  },
+  {
+   "id": "L4U11-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "degree",
+   "item": "degree",
+   "options": [
+    "hail",
+    "degree",
+    "flood",
+    "icy"
+   ],
+   "answer": "degree"
+  },
+  {
+   "id": "L4U11-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "icy",
+   "item": "icy",
+   "options": [
+    "icy",
+    "forecast",
+    "prepare",
+    "typhoon"
+   ],
+   "answer": "icy"
+  },
+  {
+   "id": "L4U11-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "frost",
+   "item": "frost",
+   "options": [
+    "flood",
+    "branch",
+    "frost",
+    "humid"
+   ],
+   "answer": "frost"
+  },
+  {
+   "id": "L4U11-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hail",
+   "item": "hail",
+   "options": [
+    "hail",
+    "slip",
+    "sunshine",
+    "breeze"
+   ],
+   "answer": "hail"
+  },
+  {
+   "id": "L4U11-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flood",
+   "item": "flood",
+   "options": [
+    "raindrop",
+    "flood",
+    "thunderstorm",
+    "freezing"
+   ],
+   "answer": "flood"
+  },
+  {
+   "id": "L4U11-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drought",
+   "item": "drought",
+   "options": [
+    "humid",
+    "damage",
+    "hail",
+    "drought"
+   ],
+   "answer": "drought"
+  },
+  {
+   "id": "L4U11-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "heatwave",
+   "item": "heatwave",
+   "options": [
+    "icy",
+    "branch",
+    "sunshine",
+    "heatwave"
+   ],
+   "answer": "heatwave"
+  },
+  {
+   "id": "L4U11-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "puddle",
+   "item": "puddle",
+   "options": [
+    "foggy",
+    "below",
+    "puddle",
+    "breeze"
+   ],
+   "answer": "puddle"
+  },
+  {
+   "id": "L4U11-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "freezing",
+   "item": "freezing",
+   "options": [
+    "flood",
+    "frost",
+    "coast",
+    "freezing"
+   ],
+   "answer": "freezing"
+  },
+  {
+   "id": "L4U11-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "boiling",
+   "item": "boiling",
+   "options": [
+    "hail",
+    "raindrop",
+    "shelter",
+    "boiling"
+   ],
+   "answer": "boiling"
+  },
+  {
+   "id": "L4U11-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "humid",
+   "item": "humid",
+   "options": [
+    "slip",
+    "humid",
+    "tornado",
+    "raindrop"
+   ],
+   "answer": "humid"
+  },
+  {
+   "id": "L4U11-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "breeze",
+   "item": "breeze",
+   "options": [
+    "breeze",
+    "minus",
+    "prepare",
+    "sunrise"
+   ],
+   "answer": "breeze"
+  },
+  {
+   "id": "L4U11-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "damage",
+   "item": "damage",
+   "options": [
+    "fog",
+    "boiling",
+    "branch",
+    "damage"
+   ],
+   "answer": "damage"
+  },
+  {
+   "id": "L4U11-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "power cut",
+   "item": "power cut",
+   "options": [
+    "shut",
+    "power cut",
+    "branch",
+    "freezing"
+   ],
+   "answer": "power cut"
+  },
+  {
+   "id": "L4U11-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shelter",
+   "item": "shelter",
+   "options": [
+    "sledge",
+    "prepare",
+    "typhoon",
+    "shelter"
+   ],
+   "answer": "shelter"
+  },
+  {
+   "id": "L4U11-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wellies",
+   "item": "wellies",
+   "options": [
+    "shelter",
+    "prepare",
+    "wellies",
+    "branch"
+   ],
+   "answer": "wellies"
+  },
+  {
+   "id": "L4U11-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thunderstorm",
+   "item": "thunderstorm",
+   "options": [
+    "humid",
+    "thunderstorm",
+    "flood",
+    "fog"
+   ],
+   "answer": "thunderstorm"
+  },
+  {
+   "id": "L4U11-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "chilly",
+   "item": "chilly",
+   "options": [
+    "drought",
+    "shut",
+    "chilly",
+    "puddle"
+   ],
+   "answer": "chilly"
+  },
+  {
+   "id": "L4U11-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "minus",
+   "item": "minus",
+   "options": [
+    "minus",
+    "prepare",
+    "humid",
+    "foggy"
+   ],
+   "answer": "minus"
+  },
+  {
+   "id": "L4U11-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "snowflake",
+   "item": "snowflake",
+   "options": [
+    "snowflake",
+    "hail",
+    "coast",
+    "below"
+   ],
+   "answer": "snowflake"
+  },
+  {
+   "id": "L4U11-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunrise",
+   "item": "sunrise",
+   "options": [
+    "sledge",
+    "sunrise",
+    "boiling",
+    "humid"
+   ],
+   "answer": "sunrise"
+  },
+  {
+   "id": "L4U11-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "prepare",
+   "item": "prepare",
+   "options": [
+    "humid",
+    "power cut",
+    "prepare",
+    "thunderstorm"
+   ],
+   "answer": "prepare"
+  },
+  {
+   "id": "L4U11-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shut",
+   "item": "shut",
+   "options": [
+    "slip",
+    "below",
+    "shut",
+    "shelter"
+   ],
+   "answer": "shut"
+  },
+  {
+   "id": "L4U11-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "branch",
+   "item": "branch",
+   "options": [
+    "puddle",
+    "tornado",
+    "branch",
+    "raindrop"
+   ],
+   "answer": "branch"
+  },
+  {
+   "id": "L4U11-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "coast",
+   "item": "coast",
+   "options": [
+    "flood",
+    "coast",
+    "snowman",
+    "branch"
+   ],
+   "answer": "coast"
+  },
+  {
+   "id": "L4U11-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "below",
+   "item": "below",
+   "options": [
+    "sunshine",
+    "below",
+    "breeze",
+    "snowflake"
+   ],
+   "answer": "below"
+  },
+  {
+   "id": "L4U11-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunshine",
+   "item": "sunshine",
+   "options": [
+    "coast",
+    "frost",
+    "heatwave",
+    "sunshine"
+   ],
+   "answer": "sunshine"
+  },
+  {
+   "id": "L4U11-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "raindrop",
+   "item": "raindrop",
+   "options": [
+    "forecast",
+    "branch",
+    "freezing",
+    "raindrop"
+   ],
+   "answer": "raindrop"
+  },
+  {
+   "id": "L4U11-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "slip",
+   "item": "slip",
+   "options": [
+    "boiling",
+    "degree",
+    "puddle",
+    "slip"
+   ],
+   "answer": "slip"
+  },
+  {
+   "id": "L4U11-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fog",
+   "answer": "fog"
+  },
+  {
+   "id": "L4U11-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "foggy",
+   "answer": "foggy"
+  },
+  {
+   "id": "L4U11-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "typhoon",
+   "answer": "typhoon"
+  },
+  {
+   "id": "L4U11-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tornado",
+   "answer": "tornado"
+  },
+  {
+   "id": "L4U11-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snowman",
+   "answer": "snowman"
+  },
+  {
+   "id": "L4U11-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sledge",
+   "answer": "sledge"
+  },
+  {
+   "id": "L4U11-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The weather forecast says it will rain.",
+   "item": "forecast",
+   "answer": "The weather forecast says it will rain."
+  },
+  {
+   "id": "L4U11-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's thirty-five degrees today!",
+   "item": "degree",
+   "answer": "It's thirty-five degrees today!"
+  },
+  {
+   "id": "L4U11-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is thick fog on the road.",
+   "item": "fog",
+   "answer": "There is thick fog on the road."
+  },
+  {
+   "id": "L4U11-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's foggy this morning. Drive slowly.",
+   "item": "foggy",
+   "answer": "It's foggy this morning. Drive slowly."
+  },
+  {
+   "id": "L4U11-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The road is icy. Be careful!",
+   "item": "icy",
+   "answer": "The road is icy. Be careful!"
+  },
+  {
+   "id": "L4U11-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is frost on the car window.",
+   "item": "frost",
+   "answer": "There is frost on the car window."
+  },
+  {
+   "id": "L4U11-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hail is small balls of ice.",
+   "item": "hail",
+   "answer": "Hail is small balls of ice."
+  },
+  {
+   "id": "L4U11-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The flood damaged many houses.",
+   "item": "flood",
+   "answer": "The flood damaged many houses."
+  },
+  {
+   "id": "L4U11-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is no rain in a drought.",
+   "item": "drought",
+   "answer": "There is no rain in a drought."
+  },
+  {
+   "id": "L4U11-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A typhoon is coming. Stay inside!",
+   "item": "typhoon",
+   "answer": "A typhoon is coming. Stay inside!"
+  },
+  {
+   "id": "L4U11-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A tornado is a very strong wind.",
+   "item": "tornado",
+   "answer": "A tornado is a very strong wind."
+  },
+  {
+   "id": "L4U11-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In a heatwave, drink lots of water.",
+   "item": "heatwave",
+   "answer": "In a heatwave, drink lots of water."
+  },
+  {
+   "id": "L4U11-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love jumping in puddles!",
+   "item": "puddle",
+   "answer": "I love jumping in puddles!"
+  },
+  {
+   "id": "L4U11-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's freezing outside. Wear your gloves.",
+   "item": "freezing",
+   "answer": "It's freezing outside. Wear your gloves."
+  },
+  {
+   "id": "L4U11-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's boiling today! Let's go swimming.",
+   "item": "boiling",
+   "answer": "It's boiling today! Let's go swimming."
+  },
+  {
+   "id": "L4U11-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hanoi is very humid in spring.",
+   "item": "humid",
+   "answer": "Hanoi is very humid in spring."
+  },
+  {
+   "id": "L4U11-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a cool breeze by the sea.",
+   "item": "breeze",
+   "answer": "There is a cool breeze by the sea."
+  },
+  {
+   "id": "L4U11-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The storm damaged the roof.",
+   "item": "damage",
+   "answer": "The storm damaged the roof."
+  },
+  {
+   "id": "L4U11-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There was a power cut in the storm.",
+   "item": "power cut",
+   "answer": "There was a power cut in the storm."
+  },
+  {
+   "id": "L4U11-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We found shelter in a café.",
+   "item": "shelter",
+   "answer": "We found shelter in a café."
+  },
+  {
+   "id": "L4U11-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on your wellies. It's muddy.",
+   "item": "wellies",
+   "answer": "Put on your wellies. It's muddy."
+  },
+  {
+   "id": "L4U11-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't swim in a thunderstorm.",
+   "item": "thunderstorm",
+   "answer": "Don't swim in a thunderstorm."
+  },
+  {
+   "id": "L4U11-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's chilly in the evening.",
+   "item": "chilly",
+   "answer": "It's chilly in the evening."
+  },
+  {
+   "id": "L4U11-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's minus five degrees in the mountains.",
+   "item": "minus",
+   "answer": "It's minus five degrees in the mountains."
+  },
+  {
+   "id": "L4U11-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Every snowflake is different.",
+   "item": "snowflake",
+   "answer": "Every snowflake is different."
+  },
+  {
+   "id": "L4U11-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's build a snowman!",
+   "item": "snowman",
+   "answer": "Let's build a snowman!"
+  },
+  {
+   "id": "L4U11-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went down the hill on a sledge.",
+   "item": "sledge",
+   "answer": "We went down the hill on a sledge."
+  },
+  {
+   "id": "L4U11-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We got up early to watch the sunrise.",
+   "item": "sunrise",
+   "answer": "We got up early to watch the sunrise."
+  },
+  {
+   "id": "L4U11-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We prepared for the typhoon.",
+   "item": "prepare",
+   "answer": "We prepared for the typhoon."
+  },
+  {
+   "id": "L4U11-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Shut the windows. It's windy.",
+   "item": "shut",
+   "answer": "Shut the windows. It's windy."
+  },
+  {
+   "id": "L4U11-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The wind broke a branch.",
+   "item": "branch",
+   "answer": "The wind broke a branch."
+  },
+  {
+   "id": "L4U11-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The typhoon hit the coast.",
+   "item": "coast",
+   "answer": "The typhoon hit the coast."
+  },
+  {
+   "id": "L4U11-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The temperature is below zero.",
+   "item": "below",
+   "answer": "The temperature is below zero."
+  },
+  {
+   "id": "L4U11-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Enjoy the sunshine!",
+   "item": "sunshine",
+   "answer": "Enjoy the sunshine!"
+  },
+  {
+   "id": "L4U11-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Raindrops are falling on the window.",
+   "item": "raindrop",
+   "answer": "Raindrops are falling on the window."
+  },
+  {
+   "id": "L4U11-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't slip on the wet floor.",
+   "item": "slip",
+   "answer": "Don't slip on the wet floor."
+  },
+  {
+   "id": "L4U11-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It will be sunny tomorrow.",
+   "answer": "It will be sunny tomorrow."
+  },
+  {
+   "id": "L4U11-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It will be foggy tomorrow.",
+   "answer": "It will be foggy tomorrow."
+  },
+  {
+   "id": "L4U11-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It will be windy tomorrow.",
+   "answer": "It will be windy tomorrow."
+  },
+  {
+   "id": "L4U11-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In a typhoon, you should stay inside.",
+   "answer": "In a typhoon, you should stay inside."
+  },
+  {
+   "id": "L4U11-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In a typhoon, you should shut the windows.",
+   "answer": "In a typhoon, you should shut the windows."
+  },
+  {
+   "id": "L4U11-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In a typhoon, you should listen to the news.",
+   "answer": "In a typhoon, you should listen to the news."
+  },
+  {
+   "id": "L4U11-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's thirty degrees.",
+   "answer": "It's thirty degrees."
+  },
+  {
+   "id": "L4U11-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's minus five degrees.",
+   "answer": "It's minus five degrees."
+  },
+  {
+   "id": "L4U11-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's twenty degrees.",
+   "answer": "It's twenty degrees."
+  },
+  {
+   "id": "L4U11-Q088",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Bi, what's the weather forecast for tomorrow?",
+   "answer": "It will be cloudy in the morning."
+  },
+  {
+   "id": "L4U11-Q089",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Will it be sunny in the afternoon?",
+   "answer": "No. There will be a thunderstorm."
+  },
+  {
+   "id": "L4U11-Q090",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is it dangerous?",
+   "answer": "It can be. Let's shut all the windows."
+  },
+  {
+   "id": "L4U11-Q091",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Should we get the torch?",
+   "answer": "Yes, in case there's a power cut."
+  },
+  {
+   "id": "L4U11-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fog",
+   "options": [
+    "typhoon",
+    "fog",
+    "tornado"
+   ],
+   "answer": "fog"
+  },
+  {
+   "id": "L4U11-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "foggy",
+   "options": [
+    "foggy",
+    "typhoon",
+    "tornado"
+   ],
+   "answer": "foggy"
+  },
+  {
+   "id": "L4U11-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "typhoon",
+   "options": [
+    "snowman",
+    "typhoon",
+    "tornado"
+   ],
+   "answer": "typhoon"
+  },
+  {
+   "id": "L4U11-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tornado",
+   "options": [
+    "typhoon",
+    "tornado",
+    "sledge"
+   ],
+   "answer": "tornado"
+  },
+  {
+   "id": "L4U11-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snowman",
+   "options": [
+    "typhoon",
+    "foggy",
+    "snowman"
+   ],
+   "answer": "snowman"
+  },
+  {
+   "id": "L4U11-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sledge",
+   "options": [
+    "tornado",
+    "foggy",
+    "sledge"
+   ],
+   "answer": "sledge"
+  },
+  {
+   "id": "L4U11-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The weather ___ says it will rain.",
+   "item": "forecast",
+   "options": [
+    "flood",
+    "puddle",
+    "forecast"
+   ],
+   "answer": "forecast"
+  },
+  {
+   "id": "L4U11-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's thirty-five ___ today!",
+   "item": "degree",
+   "options": [
+    "foggys",
+    "fogs",
+    "degrees"
+   ],
+   "answer": "degrees"
+  },
+  {
+   "id": "L4U11-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is thick ___ on the road.",
+   "item": "fog",
+   "options": [
+    "fog",
+    "wellies",
+    "raindrop"
+   ],
+   "answer": "fog"
+  },
+  {
+   "id": "L4U11-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ this morning. Drive slowly.",
+   "item": "foggy",
+   "options": [
+    "snowman",
+    "foggy",
+    "tornado"
+   ],
+   "answer": "foggy"
+  },
+  {
+   "id": "L4U11-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The road is ___. Be careful!",
+   "item": "icy",
+   "options": [
+    "sledge",
+    "icy",
+    "shelter"
+   ],
+   "answer": "icy"
+  },
+  {
+   "id": "L4U11-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is ___ on the car window.",
+   "item": "frost",
+   "options": [
+    "slip",
+    "frost",
+    "sledge"
+   ],
+   "answer": "frost"
+  },
+  {
+   "id": "L4U11-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is small balls of ice.",
+   "item": "hail",
+   "options": [
+    "Coast",
+    "Flood",
+    "Hail"
+   ],
+   "answer": "Hail"
+  },
+  {
+   "id": "L4U11-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ damaged many houses.",
+   "item": "flood",
+   "options": [
+    "flood",
+    "humid",
+    "below"
+   ],
+   "answer": "flood"
+  },
+  {
+   "id": "L4U11-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is no rain in a ___.",
+   "item": "drought",
+   "options": [
+    "shut",
+    "drought",
+    "frost"
+   ],
+   "answer": "drought"
+  },
+  {
+   "id": "L4U11-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is coming. Stay inside!",
+   "item": "typhoon",
+   "options": [
+    "snowflake",
+    "chilly",
+    "typhoon"
+   ],
+   "answer": "typhoon"
+  },
+  {
+   "id": "L4U11-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ is a very strong wind.",
+   "item": "tornado",
+   "options": [
+    "tornado",
+    "freezing",
+    "snowflake"
+   ],
+   "answer": "tornado"
+  },
+  {
+   "id": "L4U11-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In a ___, drink lots of water.",
+   "item": "heatwave",
+   "options": [
+    "heatwave",
+    "icy",
+    "damage"
+   ],
+   "answer": "heatwave"
+  },
+  {
+   "id": "L4U11-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I love jumping in ___!",
+   "item": "puddle",
+   "options": [
+    "puddles",
+    "snowmans",
+    "tornados"
+   ],
+   "answer": "puddles"
+  },
+  {
+   "id": "L4U11-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ outside. Wear your gloves.",
+   "item": "freezing",
+   "options": [
+    "freezing",
+    "boiling",
+    "forecast"
+   ],
+   "answer": "freezing"
+  },
+  {
+   "id": "L4U11-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ today! Let's go swimming.",
+   "item": "boiling",
+   "options": [
+    "boiling",
+    "raindrop",
+    "degree"
+   ],
+   "answer": "boiling"
+  },
+  {
+   "id": "L4U11-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hanoi is very ___ in spring.",
+   "item": "humid",
+   "options": [
+    "snowman",
+    "hail",
+    "humid"
+   ],
+   "answer": "humid"
+  },
+  {
+   "id": "L4U11-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a cool ___ by the sea.",
+   "item": "breeze",
+   "options": [
+    "breeze",
+    "typhoon",
+    "snowman"
+   ],
+   "answer": "breeze"
+  },
+  {
+   "id": "L4U11-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The storm ___ the roof.",
+   "item": "damage",
+   "options": [
+    "damaged",
+    "boilinged",
+    "chillyed"
+   ],
+   "answer": "damaged"
+  },
+  {
+   "id": "L4U11-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We found ___ in a café.",
+   "item": "shelter",
+   "options": [
+    "shut",
+    "shelter",
+    "sunrise"
+   ],
+   "answer": "shelter"
+  },
+  {
+   "id": "L4U11-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on your ___. It's muddy.",
+   "item": "wellies",
+   "options": [
+    "wellies",
+    "fog",
+    "damage"
+   ],
+   "answer": "wellies"
+  },
+  {
+   "id": "L4U11-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't swim in a ___.",
+   "item": "thunderstorm",
+   "options": [
+    "frost",
+    "humid",
+    "thunderstorm"
+   ],
+   "answer": "thunderstorm"
+  },
+  {
+   "id": "L4U11-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ in the evening.",
+   "item": "chilly",
+   "options": [
+    "prepare",
+    "minus",
+    "chilly"
+   ],
+   "answer": "chilly"
+  },
+  {
+   "id": "L4U11-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ five degrees in the mountains.",
+   "item": "minus",
+   "options": [
+    "hail",
+    "thunderstorm",
+    "minus"
+   ],
+   "answer": "minus"
+  },
+  {
+   "id": "L4U11-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Every ___ is different.",
+   "item": "snowflake",
+   "options": [
+    "snowflake",
+    "chilly",
+    "coast"
+   ],
+   "answer": "snowflake"
+  },
+  {
+   "id": "L4U11-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's build a ___!",
+   "item": "snowman",
+   "options": [
+    "chilly",
+    "puddle",
+    "snowman"
+   ],
+   "answer": "snowman"
+  },
+  {
+   "id": "L4U11-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went down the hill on a ___.",
+   "item": "sledge",
+   "options": [
+    "sledge",
+    "snowflake",
+    "fog"
+   ],
+   "answer": "sledge"
+  },
+  {
+   "id": "L4U11-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We got up early to watch the ___.",
+   "item": "sunrise",
+   "options": [
+    "fog",
+    "chilly",
+    "sunrise"
+   ],
+   "answer": "sunrise"
+  },
+  {
+   "id": "L4U11-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ for the typhoon.",
+   "item": "prepare",
+   "options": [
+    "snowflaked",
+    "boilinged",
+    "prepared"
+   ],
+   "answer": "prepared"
+  },
+  {
+   "id": "L4U11-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ the windows. It's windy.",
+   "item": "shut",
+   "options": [
+    "Branch",
+    "Fog",
+    "Shut"
+   ],
+   "answer": "Shut"
+  },
+  {
+   "id": "L4U11-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The wind broke a ___.",
+   "item": "branch",
+   "options": [
+    "fog",
+    "icy",
+    "branch"
+   ],
+   "answer": "branch"
+  },
+  {
+   "id": "L4U11-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The typhoon hit the ___.",
+   "item": "coast",
+   "options": [
+    "coast",
+    "chilly",
+    "snowflake"
+   ],
+   "answer": "coast"
+  },
+  {
+   "id": "L4U11-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The temperature is ___ zero.",
+   "item": "below",
+   "options": [
+    "below",
+    "slip",
+    "fog"
+   ],
+   "answer": "below"
+  },
+  {
+   "id": "L4U11-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Enjoy the ___!",
+   "item": "sunshine",
+   "options": [
+    "puddle",
+    "icy",
+    "sunshine"
+   ],
+   "answer": "sunshine"
+  },
+  {
+   "id": "L4U11-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ are falling on the window.",
+   "item": "raindrop",
+   "options": [
+    "Typhoons",
+    "Snowmans",
+    "Raindrops"
+   ],
+   "answer": "Raindrops"
+  },
+  {
+   "id": "L4U11-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ on the wet floor.",
+   "item": "slip",
+   "options": [
+    "slip",
+    "puddle",
+    "forecast"
+   ],
+   "answer": "slip"
+  },
+  {
+   "id": "L4U11-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There is thick fog on the road.",
+   "item": "fog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U11-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's foggy this morning. Drive slowly.",
+   "item": "typhoon",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U11-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A typhoon is coming. Stay inside!",
+   "item": "typhoon",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U11-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A tornado is a very strong wind.",
+   "item": "snowman",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U11-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Let's build a snowman!",
+   "item": "snowman",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U11-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We went down the hill on a sledge.",
+   "item": "fog",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U11-Q139",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U11-R01",
+   "text_en": "When did the typhoon hit?",
+   "options": [
+    "Last October.",
+    "Last week.",
+    "Last summer."
+   ],
+   "answer": "Last October."
+  },
+  {
+   "id": "L4U11-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U11-R01",
+   "text_en": "Why did the family use torches?",
+   "options": [
+    "It was foggy.",
+    "There was a power cut.",
+    "They were camping."
+   ],
+   "answer": "There was a power cut."
+  },
+  {
+   "id": "L4U11-Q141",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U11-R01",
+   "text_en": "What was in the streets the next morning?",
+   "options": [
+    "Sand.",
+    "Snow.",
+    "Big puddles."
+   ],
+   "answer": "Big puddles."
+  },
+  {
+   "id": "L4U11-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "forecast",
+   "item": "forecast",
+   "answer": "forecast"
+  },
+  {
+   "id": "L4U11-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "degree",
+   "item": "degree",
+   "answer": "degree"
+  },
+  {
+   "id": "L4U11-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "fog",
+   "item": "fog",
+   "answer": "fog"
+  },
+  {
+   "id": "L4U11-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "foggy",
+   "item": "foggy",
+   "answer": "foggy"
+  },
+  {
+   "id": "L4U11-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "icy",
+   "item": "icy",
+   "answer": "icy"
+  },
+  {
+   "id": "L4U11-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "frost",
+   "item": "frost",
+   "answer": "frost"
+  },
+  {
+   "id": "L4U11-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "hail",
+   "item": "hail",
+   "answer": "hail"
+  },
+  {
+   "id": "L4U11-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "flood",
+   "item": "flood",
+   "answer": "flood"
+  },
+  {
+   "id": "L4U11-Q150",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The weather forecast says it will rain.",
+   "answer": "The weather forecast says it will rain."
+  },
+  {
+   "id": "L4U11-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "It's thirty-five degrees today!",
+   "answer": "It's thirty-five degrees today!"
+  },
+  {
+   "id": "L4U11-Q152",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "There is thick fog on the road.",
+   "answer": "There is thick fog on the road."
+  }
+ ]
+}

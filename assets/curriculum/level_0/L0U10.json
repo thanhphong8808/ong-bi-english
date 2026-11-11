@@ -1,0 +1,1149 @@
+{
+ "id": "L0U10",
+ "level": 0,
+ "unit": 10,
+ "topic_en": "Let's play!",
+ "topic_vi": "Cùng chơi nào",
+ "can_do_vi": [
+  "Hiểu và nói 10 lời rủ, lời nhắc ngắn",
+  "Nói \"Let's play!\""
+ ],
+ "items": [
+  {
+   "id": "L0U10-W01",
+   "type": "word",
+   "en": "go",
+   "vi": "đi",
+   "ipa": "/ɡoʊ/",
+   "syllables": [
+    "go"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F7E9"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Let's go!",
+   "example_vi": "Mình đi thôi!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W02",
+   "type": "word",
+   "en": "stop",
+   "vi": "dừng lại",
+   "ipa": "/stɑp/",
+   "syllables": [
+    "stop"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6D1"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Stop, please!",
+   "example_vi": "Dừng lại nào!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W03",
+   "type": "word",
+   "en": "come",
+   "vi": "lại đây",
+   "ipa": "/kʌm/",
+   "syllables": [
+    "come"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FAF4"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Come here, Bi!",
+   "example_vi": "Lại đây nào Bi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-L01",
+   "type": "letter",
+   "en": "x",
+   "vi": "chữ x",
+   "letter": "x",
+   "sound": "/ks/",
+   "tip_vi": "Chữ \"x\" đọc là \"ks\", thường nằm cuối từ: ks.",
+   "sound_words": [
+    "box",
+    "fox"
+   ],
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/ks/",
+   "syllables": [
+    "x"
+   ],
+   "phonics": "sound_x",
+   "example_en": "",
+   "example_vi": "Chữ \"x\" đọc là \"ks\", thường nằm cuối từ: ks.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U10-W04",
+   "type": "word",
+   "en": "box",
+   "vi": "cái hộp",
+   "ipa": "/bɑks/",
+   "syllables": [
+    "box"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "It's a big box.",
+   "example_vi": "Đó là cái hộp to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W05",
+   "type": "word",
+   "en": "fox",
+   "vi": "con cáo",
+   "ipa": "/fɑks/",
+   "syllables": [
+    "fox"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F98A"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "I see a fox.",
+   "example_vi": "Tớ thấy một con cáo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W06",
+   "type": "word",
+   "en": "look",
+   "vi": "nhìn",
+   "ipa": "/lʊk/",
+   "syllables": [
+    "look"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F440"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Look! A bird!",
+   "example_vi": "Nhìn kìa! Một con chim!",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W07",
+   "type": "word",
+   "en": "listen",
+   "vi": "nghe",
+   "ipa": "/ˈlɪsən/",
+   "syllables": [
+    "lis",
+    "ten"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Listen to me.",
+   "example_vi": "Nghe tớ nói này.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W08",
+   "type": "word",
+   "en": "eat",
+   "vi": "ăn",
+   "ipa": "/it/",
+   "syllables": [
+    "eat"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F37D-FE0F"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Let's eat!",
+   "example_vi": "Mình ăn thôi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-L02",
+   "type": "letter",
+   "en": "q",
+   "vi": "chữ q",
+   "letter": "q",
+   "sound": "/kw/",
+   "tip_vi": "Chữ \"q\" luôn đi với \"u\", đọc là \"kw\": kw.",
+   "sound_words": [
+    "queen",
+    "quiz"
+   ],
+   "image": {
+    "emoji": "1F478"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/kw/",
+   "syllables": [
+    "q"
+   ],
+   "phonics": "sound_q",
+   "example_en": "",
+   "example_vi": "Chữ \"q\" luôn đi với \"u\", đọc là \"kw\": kw.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U10-W09",
+   "type": "word",
+   "en": "queen",
+   "vi": "nữ hoàng",
+   "ipa": "/kwin/",
+   "syllables": [
+    "queen"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "1F478"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "The queen is happy.",
+   "example_vi": "Nữ hoàng đang vui.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W10",
+   "type": "word",
+   "en": "quiz",
+   "vi": "câu đố",
+   "ipa": "/kwɪz/",
+   "syllables": [
+    "quiz"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "I like the quiz.",
+   "example_vi": "Tớ thích câu đố.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W11",
+   "type": "word",
+   "en": "drink",
+   "vi": "uống",
+   "ipa": "/drɪŋk/",
+   "syllables": [
+    "drink"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F964"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "I drink milk.",
+   "example_vi": "Tớ uống sữa.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W12",
+   "type": "word",
+   "en": "sleep",
+   "vi": "ngủ",
+   "ipa": "/slip/",
+   "syllables": [
+    "sleep"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4A4"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "The baby can sleep.",
+   "example_vi": "Em bé ngủ được rồi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W13",
+   "type": "word",
+   "en": "play",
+   "vi": "chơi",
+   "ipa": "/pleɪ/",
+   "syllables": [
+    "play"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F938"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "Let's play!",
+   "example_vi": "Mình chơi thôi!",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U10-W14",
+   "type": "word",
+   "en": "jump",
+   "vi": "nhảy",
+   "ipa": "/dʒʌmp/",
+   "syllables": [
+    "jump"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F998"
+   },
+   "picturable": true,
+   "cat": "L0U10",
+   "example_en": "I can jump.",
+   "example_vi": "Tớ biết nhảy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U10-P01",
+   "en": "Let's {x}!",
+   "vi": "Mình {x} thôi!",
+   "slots": {
+    "x": [
+     "go",
+     "play",
+     "eat",
+     "jump"
+    ]
+   }
+  },
+  {
+   "id": "L0U10-P02",
+   "en": "I can {x}.",
+   "vi": "Tớ biết {x}.",
+   "slots": {
+    "x": [
+     "jump",
+     "play",
+     "listen",
+     "sleep"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U10-D01",
+   "title_vi": "Rủ bạn chơi",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Come here! Let's play!",
+     "vi": "Lại đây! Mình chơi thôi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Let's play!",
+     "vi": "Được! Mình chơi thôi!"
+    },
+    {
+     "role": "Bi",
+     "en": "I have a ball.",
+     "vi": "Tớ có một quả bóng."
+    },
+    {
+     "role": "Kid",
+     "en": "Yay! Let's go!",
+     "vi": "Hoan hô! Đi thôi!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "play",
+    "options": [
+     "jump",
+     "go"
+    ]
+   }
+  },
+  {
+   "id": "L0U10-D02",
+   "title_vi": "Giờ đi ngủ",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "I'm tired. Let's sleep.",
+     "vi": "Tớ mệt rồi. Mình đi ngủ thôi."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay. Good night, Bi.",
+     "vi": "Ừ. Chúc Bi ngủ ngon."
+    },
+    {
+     "role": "Bi",
+     "en": "Good night, my friend!",
+     "vi": "Chúc bạn của tớ ngủ ngon!"
+    },
+    {
+     "role": "Kid",
+     "en": "Bye!",
+     "vi": "Tạm biệt!"
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "X"
+  },
+  {
+   "type": "trace_letter",
+   "target": "x"
+  },
+  {
+   "type": "trace_letter",
+   "target": "Q"
+  },
+  {
+   "type": "trace_letter",
+   "target": "q"
+  },
+  {
+   "type": "trace_letter",
+   "target": "g"
+  },
+  {
+   "type": "trace_letter",
+   "target": "s"
+  },
+  {
+   "type": "trace_letter",
+   "target": "c"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  },
+  {
+   "type": "trace_letter",
+   "target": "f"
+  },
+  {
+   "type": "trace_letter",
+   "target": "l"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U10-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "go",
+   "item": "go",
+   "options": [
+    "go",
+    "stop",
+    "queen"
+   ],
+   "answer": "go"
+  },
+  {
+   "id": "L0U10-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "stop",
+   "item": "stop",
+   "options": [
+    "go",
+    "stop",
+    "queen"
+   ],
+   "answer": "stop"
+  },
+  {
+   "id": "L0U10-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "come",
+   "item": "come",
+   "options": [
+    "look",
+    "drink",
+    "come"
+   ],
+   "answer": "come"
+  },
+  {
+   "id": "L0U10-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "box",
+   "item": "box",
+   "options": [
+    "quiz",
+    "box",
+    "sleep"
+   ],
+   "answer": "box"
+  },
+  {
+   "id": "L0U10-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fox",
+   "item": "fox",
+   "options": [
+    "jump",
+    "come",
+    "fox"
+   ],
+   "answer": "fox"
+  },
+  {
+   "id": "L0U10-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "look",
+   "item": "look",
+   "options": [
+    "look",
+    "go",
+    "come"
+   ],
+   "answer": "look"
+  },
+  {
+   "id": "L0U10-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "listen",
+   "item": "listen",
+   "options": [
+    "come",
+    "listen",
+    "go"
+   ],
+   "answer": "listen"
+  },
+  {
+   "id": "L0U10-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "eat",
+   "item": "eat",
+   "options": [
+    "sleep",
+    "eat",
+    "fox"
+   ],
+   "answer": "eat"
+  },
+  {
+   "id": "L0U10-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "queen",
+   "item": "queen",
+   "options": [
+    "queen",
+    "go",
+    "play"
+   ],
+   "answer": "queen"
+  },
+  {
+   "id": "L0U10-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "quiz",
+   "item": "quiz",
+   "options": [
+    "queen",
+    "quiz",
+    "come"
+   ],
+   "answer": "quiz"
+  },
+  {
+   "id": "L0U10-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "drink",
+   "item": "drink",
+   "options": [
+    "drink",
+    "sleep",
+    "look"
+   ],
+   "answer": "drink"
+  },
+  {
+   "id": "L0U10-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sleep",
+   "item": "sleep",
+   "options": [
+    "sleep",
+    "listen",
+    "eat"
+   ],
+   "answer": "sleep"
+  },
+  {
+   "id": "L0U10-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "play",
+   "item": "play",
+   "options": [
+    "play",
+    "stop",
+    "go"
+   ],
+   "answer": "play"
+  },
+  {
+   "id": "L0U10-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "jump",
+   "item": "jump",
+   "options": [
+    "jump",
+    "queen",
+    "sleep"
+   ],
+   "answer": "jump"
+  },
+  {
+   "id": "L0U10-Q015",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the go green.",
+   "item": "go",
+   "options": [
+    "look",
+    "go",
+    "quiz"
+   ],
+   "answer": "go",
+   "color": "green"
+  },
+  {
+   "id": "L0U10-Q016",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the stop yellow.",
+   "item": "stop",
+   "options": [
+    "come",
+    "stop",
+    "go"
+   ],
+   "answer": "stop",
+   "color": "yellow"
+  },
+  {
+   "id": "L0U10-Q017",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the come yellow.",
+   "item": "come",
+   "options": [
+    "jump",
+    "come",
+    "stop"
+   ],
+   "answer": "come",
+   "color": "yellow"
+  },
+  {
+   "id": "L0U10-Q018",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the box green.",
+   "item": "box",
+   "options": [
+    "sleep",
+    "box",
+    "listen"
+   ],
+   "answer": "box",
+   "color": "green"
+  },
+  {
+   "id": "L0U10-Q019",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "go",
+   "answer": "go"
+  },
+  {
+   "id": "L0U10-Q020",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "stop",
+   "answer": "stop"
+  },
+  {
+   "id": "L0U10-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "come",
+   "answer": "come"
+  },
+  {
+   "id": "L0U10-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "box",
+   "answer": "box"
+  },
+  {
+   "id": "L0U10-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fox",
+   "answer": "fox"
+  },
+  {
+   "id": "L0U10-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "look",
+   "answer": "look"
+  },
+  {
+   "id": "L0U10-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "listen",
+   "answer": "listen"
+  },
+  {
+   "id": "L0U10-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "eat",
+   "answer": "eat"
+  },
+  {
+   "id": "L0U10-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "queen",
+   "answer": "queen"
+  },
+  {
+   "id": "L0U10-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "quiz",
+   "answer": "quiz"
+  },
+  {
+   "id": "L0U10-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "drink",
+   "answer": "drink"
+  },
+  {
+   "id": "L0U10-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sleep",
+   "answer": "sleep"
+  },
+  {
+   "id": "L0U10-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "play",
+   "answer": "play"
+  },
+  {
+   "id": "L0U10-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "jump",
+   "answer": "jump"
+  },
+  {
+   "id": "L0U10-Q033",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go!",
+   "item": "go",
+   "answer": "Let's go!"
+  },
+  {
+   "id": "L0U10-Q034",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Stop, please!",
+   "item": "stop",
+   "answer": "Stop, please!"
+  },
+  {
+   "id": "L0U10-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Come here, Bi!",
+   "item": "come",
+   "answer": "Come here, Bi!"
+  },
+  {
+   "id": "L0U10-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a big box.",
+   "item": "box",
+   "answer": "It's a big box."
+  },
+  {
+   "id": "L0U10-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I see a fox.",
+   "item": "fox",
+   "answer": "I see a fox."
+  },
+  {
+   "id": "L0U10-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look! A bird!",
+   "item": "look",
+   "answer": "Look! A bird!"
+  },
+  {
+   "id": "L0U10-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Listen to me.",
+   "item": "listen",
+   "answer": "Listen to me."
+  },
+  {
+   "id": "L0U10-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's eat!",
+   "item": "eat",
+   "answer": "Let's eat!"
+  },
+  {
+   "id": "L0U10-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The queen is happy.",
+   "item": "queen",
+   "answer": "The queen is happy."
+  },
+  {
+   "id": "L0U10-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the quiz.",
+   "item": "quiz",
+   "answer": "I like the quiz."
+  },
+  {
+   "id": "L0U10-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I drink milk.",
+   "item": "drink",
+   "answer": "I drink milk."
+  },
+  {
+   "id": "L0U10-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby can sleep.",
+   "item": "sleep",
+   "answer": "The baby can sleep."
+  },
+  {
+   "id": "L0U10-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play!",
+   "item": "play",
+   "answer": "Let's play!"
+  },
+  {
+   "id": "L0U10-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can jump.",
+   "item": "jump",
+   "answer": "I can jump."
+  },
+  {
+   "id": "L0U10-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go!",
+   "answer": "Let's go!"
+  },
+  {
+   "id": "L0U10-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's play!",
+   "answer": "Let's play!"
+  },
+  {
+   "id": "L0U10-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's eat!",
+   "answer": "Let's eat!"
+  },
+  {
+   "id": "L0U10-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can jump.",
+   "answer": "I can jump."
+  },
+  {
+   "id": "L0U10-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can play.",
+   "answer": "I can play."
+  },
+  {
+   "id": "L0U10-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can listen.",
+   "answer": "I can listen."
+  },
+  {
+   "id": "L0U10-Q053",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "x",
+   "options": [
+    "d",
+    "x",
+    "g"
+   ],
+   "answer": "x"
+  },
+  {
+   "id": "L0U10-Q054",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "q",
+   "options": [
+    "q",
+    "n",
+    "t"
+   ],
+   "answer": "q"
+  },
+  {
+   "id": "L0U10-Q055",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "X"
+  },
+  {
+   "id": "L0U10-Q056",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "x"
+  },
+  {
+   "id": "L0U10-Q057",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "Q"
+  },
+  {
+   "id": "L0U10-Q058",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "q"
+  },
+  {
+   "id": "L0U10-Q059",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "g"
+  },
+  {
+   "id": "L0U10-Q060",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "s"
+  },
+  {
+   "id": "L0U10-Q061",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "c"
+  },
+  {
+   "id": "L0U10-Q062",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  },
+  {
+   "id": "L0U10-Q063",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "f"
+  },
+  {
+   "id": "L0U10-Q064",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "l"
+  }
+ ]
+}

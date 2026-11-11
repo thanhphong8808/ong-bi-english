@@ -1,0 +1,2592 @@
+{
+ "id": "L2U05",
+ "level": 2,
+ "unit": 5,
+ "topic_en": "At the shops",
+ "topic_vi": "Đi mua sắm",
+ "can_do_vi": [
+  "Hỏi giá với \"How much is it?\"",
+  "Mua đồ ở cửa hàng"
+ ],
+ "items": [
+  {
+   "id": "L2U05-W01",
+   "type": "word",
+   "en": "supermarket",
+   "vi": "siêu thị",
+   "ipa": "/ˈsupərˌmɑrkɪt/",
+   "syllables": [
+    "su",
+    "per",
+    "mar",
+    "ket"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "We buy food at the supermarket.",
+   "example_vi": "Nhà tớ mua đồ ăn ở siêu thị.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W02",
+   "type": "word",
+   "en": "bakery",
+   "vi": "tiệm bánh",
+   "ipa": "/ˈbeɪkəri/",
+   "syllables": [
+    "bakery"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F950"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "The bakery has fresh bread.",
+   "example_vi": "Tiệm bánh có bánh mì mới ra lò.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W03",
+   "type": "word",
+   "en": "bookshop",
+   "vi": "hiệu sách",
+   "ipa": "/ˈbʊkˌʃɑp/",
+   "syllables": [
+    "book",
+    "shop"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "I buy a book at the bookshop.",
+   "example_vi": "Tớ mua sách ở hiệu sách.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W04",
+   "type": "word",
+   "en": "money",
+   "vi": "tiền",
+   "ipa": "/ˈmʌni/",
+   "syllables": [
+    "mon",
+    "ey"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4B5"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "I have some money.",
+   "example_vi": "Tớ có một ít tiền.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W05",
+   "type": "word",
+   "en": "coin",
+   "vi": "đồng xu",
+   "ipa": "/kɔɪn/",
+   "syllables": [
+    "coin"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1FA99"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "I have three coins.",
+   "example_vi": "Tớ có ba đồng xu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W06",
+   "type": "word",
+   "en": "wallet",
+   "vi": "cái ví",
+   "ipa": "/ˈwɔlət/",
+   "syllables": [
+    "wal",
+    "let"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F45B"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "My money is in my wallet.",
+   "example_vi": "Tiền của tớ ở trong ví.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W07",
+   "type": "word",
+   "en": "price",
+   "vi": "giá tiền",
+   "ipa": "/praɪs/",
+   "syllables": [
+    "price"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "What's the price?",
+   "example_vi": "Giá bao nhiêu?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W08",
+   "type": "word",
+   "en": "cost",
+   "vi": "có giá",
+   "ipa": "/kɔst/",
+   "syllables": [
+    "cost"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4B2"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "How much does it cost?",
+   "example_vi": "Cái này giá bao nhiêu?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W09",
+   "type": "word",
+   "en": "buy",
+   "vi": "mua",
+   "ipa": "/baɪ/",
+   "syllables": [
+    "buy"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F6CD-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "I want to buy a ball.",
+   "example_vi": "Tớ muốn mua một quả bóng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W10",
+   "type": "word",
+   "en": "sell",
+   "vi": "bán",
+   "ipa": "/sɛl/",
+   "syllables": [
+    "sell"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "They sell fruit at the market.",
+   "example_vi": "Ở chợ họ bán hoa quả.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W11",
+   "type": "word",
+   "en": "pay",
+   "vi": "trả tiền",
+   "ipa": "/peɪ/",
+   "syllables": [
+    "pay"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4B3"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "Dad pays for the food.",
+   "example_vi": "Bố trả tiền đồ ăn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W12",
+   "type": "word",
+   "en": "cheap",
+   "vi": "rẻ",
+   "ipa": "/tʃip/",
+   "syllables": [
+    "cheap"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "This T-shirt is cheap.",
+   "example_vi": "Áo phông này rẻ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W13",
+   "type": "word",
+   "en": "expensive",
+   "vi": "đắt",
+   "ipa": "/ɪkˈspɛnsɪv/",
+   "syllables": [
+    "ex",
+    "pen",
+    "sive"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F48E"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "That bike is very expensive.",
+   "example_vi": "Chiếc xe đạp kia đắt lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W14",
+   "type": "word",
+   "en": "basket",
+   "vi": "cái giỏ",
+   "ipa": "/ˈbæskət/",
+   "syllables": [
+    "bas",
+    "ket"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F9FA"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "Put the apples in the basket.",
+   "example_vi": "Bỏ táo vào giỏ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W15",
+   "type": "word",
+   "en": "trolley",
+   "vi": "xe đẩy hàng",
+   "ipa": "/ˈtrɑli/",
+   "syllables": [
+    "trol",
+    "ley"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "Can I push the trolley?",
+   "example_vi": "Tớ đẩy xe hàng được không?",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W16",
+   "type": "word",
+   "en": "list",
+   "vi": "danh sách",
+   "ipa": "/lɪst/",
+   "syllables": [
+    "list"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4CB"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "Here is our shopping list.",
+   "example_vi": "Đây là danh sách mua sắm.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W17",
+   "type": "word",
+   "en": "need",
+   "vi": "cần",
+   "ipa": "/nid/",
+   "syllables": [
+    "need"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "2757"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "We need some milk.",
+   "example_vi": "Mình cần mua sữa.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W18",
+   "type": "word",
+   "en": "choose",
+   "vi": "chọn",
+   "ipa": "/tʃuz/",
+   "syllables": [
+    "choose"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F449"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "Choose a toy, please.",
+   "example_vi": "Con chọn một món đồ chơi nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W19",
+   "type": "word",
+   "en": "size",
+   "vi": "cỡ",
+   "ipa": "/saɪz/",
+   "syllables": [
+    "size"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4CF"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "What size are you?",
+   "example_vi": "Cậu mặc cỡ nào?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W20",
+   "type": "phrase",
+   "en": "try on",
+   "vi": "mặc thử",
+   "ipa": "/traɪ ɔn/",
+   "syllables": [
+    "try",
+    "on"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F457"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "Can I try on this dress?",
+   "example_vi": "Con mặc thử váy này được không?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W21",
+   "type": "word",
+   "en": "customer",
+   "vi": "khách hàng",
+   "ipa": "/ˈkʌstəmər/",
+   "syllables": [
+    "customer"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "The customer wants some bread.",
+   "example_vi": "Vị khách muốn mua bánh mì.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W22",
+   "type": "word",
+   "en": "shopkeeper",
+   "vi": "người bán hàng",
+   "ipa": "/ˈʃɑpˌkipər/",
+   "syllables": [
+    "shop",
+    "keep",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9D1-200D-1F4BC"
+   },
+   "picturable": true,
+   "cat": "L2U05",
+   "example_en": "The shopkeeper is very kind.",
+   "example_vi": "Người bán hàng rất tốt bụng.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W23",
+   "type": "word",
+   "en": "give",
+   "vi": "đưa, cho",
+   "ipa": "/ɡɪv/",
+   "syllables": [
+    "give"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1FAF4"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "Give me the basket, please.",
+   "example_vi": "Đưa tớ cái giỏ nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W24",
+   "type": "word",
+   "en": "take",
+   "vi": "lấy, cầm",
+   "ipa": "/teɪk/",
+   "syllables": [
+    "take"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "I'll take two apples.",
+   "example_vi": "Tớ lấy hai quả táo.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W25",
+   "type": "word",
+   "en": "thing",
+   "vi": "đồ vật, thứ",
+   "ipa": "/θɪŋ/",
+   "syllables": [
+    "thing"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4E6"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "I need a lot of things.",
+   "example_vi": "Tớ cần nhiều thứ lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W26",
+   "type": "word",
+   "en": "any",
+   "vi": "chút nào",
+   "ipa": "/ˈɛni/",
+   "syllables": [
+    "any"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "Do you have any bananas?",
+   "example_vi": "Cô có chuối không ạ?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W27",
+   "type": "phrase",
+   "en": "how much",
+   "vi": "bao nhiêu (tiền)",
+   "ipa": "/haʊ mʌtʃ/",
+   "syllables": [
+    "how",
+    "much"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4B0"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "How much is this cap?",
+   "example_vi": "Cái mũ lưỡi trai này bao nhiêu tiền?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U05-W28",
+   "type": "word",
+   "en": "thousand",
+   "vi": "nghìn",
+   "ipa": "/ˈθaʊzənd/",
+   "syllables": [
+    "thou",
+    "sand"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L2U05",
+   "example_en": "It's ten thousand dong.",
+   "example_vi": "Nó giá mười nghìn đồng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U05-P01",
+   "en": "How much is the {x}?",
+   "vi": "{x} giá bao nhiêu?",
+   "slots": {
+    "x": [
+     "cap",
+     "ball",
+     "book",
+     "kite"
+    ]
+   }
+  },
+  {
+   "id": "L2U05-P02",
+   "en": "I want to buy {x}.",
+   "vi": "Tớ muốn mua {x}.",
+   "slots": {
+    "x": [
+     "some bread",
+     "a ball",
+     "two apples"
+    ]
+   }
+  },
+  {
+   "id": "L2U05-P03",
+   "en": "Do you have any {x}?",
+   "vi": "Cô có {x} không ạ?",
+   "slots": {
+    "x": [
+     "bananas",
+     "eggs",
+     "milk"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U05-D01",
+   "title_vi": "Ở tiệm bánh",
+   "roles": [
+    "Shopkeeper",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Shopkeeper",
+     "en": "Hello! Can I help you?",
+     "vi": "Chào cháu! Cô giúp gì được cháu?"
+    },
+    {
+     "role": "Kid",
+     "en": "Hello! How much is the cake?",
+     "vi": "Cháu chào cô! Bánh ngọt bao nhiêu tiền ạ?"
+    },
+    {
+     "role": "Shopkeeper",
+     "en": "It's twenty thousand dong.",
+     "vi": "Hai mươi nghìn đồng cháu ạ."
+    },
+    {
+     "role": "Kid",
+     "en": "I'll take one, please.",
+     "vi": "Cháu lấy một cái ạ."
+    },
+    {
+     "role": "Shopkeeper",
+     "en": "Here you are.",
+     "vi": "Của cháu đây."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you!",
+     "vi": "Cháu cảm ơn cô!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "cake",
+    "options": [
+     "bread",
+     "sandwich"
+    ]
+   }
+  },
+  {
+   "id": "L2U05-D02",
+   "title_vi": "Đi siêu thị",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "Let's look at the list.",
+     "vi": "Mình xem danh sách nào."
+    },
+    {
+     "role": "Kid",
+     "en": "We need milk and eggs.",
+     "vi": "Mình cần sữa và trứng."
+    },
+    {
+     "role": "Mum",
+     "en": "Yes. And some fruit.",
+     "vi": "Ừ. Và một ít hoa quả."
+    },
+    {
+     "role": "Kid",
+     "en": "Can I choose the apples?",
+     "vi": "Con chọn táo được không ạ?"
+    },
+    {
+     "role": "Mum",
+     "en": "Sure. Put them in the basket.",
+     "vi": "Được. Bỏ vào giỏ nhé."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "apples",
+    "options": [
+     "bananas",
+     "milk"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "supermarket"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bakery"
+  },
+  {
+   "type": "dictate_word",
+   "target": "bookshop"
+  },
+  {
+   "type": "dictate_word",
+   "target": "money"
+  },
+  {
+   "type": "dictate_word",
+   "target": "coin"
+  },
+  {
+   "type": "dictate_word",
+   "target": "wallet"
+  },
+  {
+   "type": "dictate_word",
+   "target": "price"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cost"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We buy food at the supermarket."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The bakery has fresh bread."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I buy a book at the bookshop."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U05-R01",
+   "title_en": "At the market",
+   "text_en": [
+    "Mai and her mum go to the market.",
+    "They have a long list.",
+    "They buy fish, rice and vegetables.",
+    "Mai wants a mango.",
+    "It is cheap.",
+    "Mum buys two mangoes.",
+    "Mai is happy!"
+   ],
+   "questions": [
+    {
+     "q": "What does Mai want?",
+     "options": [
+      "A mango.",
+      "A cake.",
+      "A fish."
+     ],
+     "answer": "A mango."
+    },
+    {
+     "q": "How many mangoes does Mum buy?",
+     "options": [
+      "Two.",
+      "One.",
+      "Three."
+     ],
+     "answer": "Two."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "supermarket",
+   "item": "supermarket",
+   "options": [
+    "supermarket",
+    "size",
+    "pay",
+    "price"
+   ],
+   "answer": "supermarket"
+  },
+  {
+   "id": "L2U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bakery",
+   "item": "bakery",
+   "options": [
+    "list",
+    "bakery",
+    "shopkeeper",
+    "price"
+   ],
+   "answer": "bakery"
+  },
+  {
+   "id": "L2U05-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bookshop",
+   "item": "bookshop",
+   "options": [
+    "basket",
+    "bookshop",
+    "size",
+    "wallet"
+   ],
+   "answer": "bookshop"
+  },
+  {
+   "id": "L2U05-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "money",
+   "item": "money",
+   "options": [
+    "shopkeeper",
+    "basket",
+    "money",
+    "price"
+   ],
+   "answer": "money"
+  },
+  {
+   "id": "L2U05-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "coin",
+   "item": "coin",
+   "options": [
+    "shopkeeper",
+    "pay",
+    "size",
+    "coin"
+   ],
+   "answer": "coin"
+  },
+  {
+   "id": "L2U05-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wallet",
+   "item": "wallet",
+   "options": [
+    "shopkeeper",
+    "pay",
+    "bakery",
+    "wallet"
+   ],
+   "answer": "wallet"
+  },
+  {
+   "id": "L2U05-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "price",
+   "item": "price",
+   "options": [
+    "shopkeeper",
+    "price",
+    "basket",
+    "supermarket"
+   ],
+   "answer": "price"
+  },
+  {
+   "id": "L2U05-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pay",
+   "item": "pay",
+   "options": [
+    "supermarket",
+    "expensive",
+    "size",
+    "pay"
+   ],
+   "answer": "pay"
+  },
+  {
+   "id": "L2U05-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "expensive",
+   "item": "expensive",
+   "options": [
+    "expensive",
+    "coin",
+    "list",
+    "supermarket"
+   ],
+   "answer": "expensive"
+  },
+  {
+   "id": "L2U05-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "basket",
+   "item": "basket",
+   "options": [
+    "money",
+    "shopkeeper",
+    "size",
+    "basket"
+   ],
+   "answer": "basket"
+  },
+  {
+   "id": "L2U05-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "list",
+   "item": "list",
+   "options": [
+    "list",
+    "expensive",
+    "shopkeeper",
+    "bookshop"
+   ],
+   "answer": "list"
+  },
+  {
+   "id": "L2U05-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "size",
+   "item": "size",
+   "options": [
+    "try on",
+    "money",
+    "size",
+    "bakery"
+   ],
+   "answer": "size"
+  },
+  {
+   "id": "L2U05-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "try on",
+   "item": "try on",
+   "options": [
+    "bookshop",
+    "bakery",
+    "size",
+    "try on"
+   ],
+   "answer": "try on"
+  },
+  {
+   "id": "L2U05-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shopkeeper",
+   "item": "shopkeeper",
+   "options": [
+    "shopkeeper",
+    "coin",
+    "expensive",
+    "wallet"
+   ],
+   "answer": "shopkeeper"
+  },
+  {
+   "id": "L2U05-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cost",
+   "item": "cost",
+   "options": [
+    "thousand",
+    "trolley",
+    "coin",
+    "cost"
+   ],
+   "answer": "cost"
+  },
+  {
+   "id": "L2U05-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "buy",
+   "item": "buy",
+   "options": [
+    "buy",
+    "pay",
+    "choose",
+    "wallet"
+   ],
+   "answer": "buy"
+  },
+  {
+   "id": "L2U05-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sell",
+   "item": "sell",
+   "options": [
+    "sell",
+    "shopkeeper",
+    "list",
+    "coin"
+   ],
+   "answer": "sell"
+  },
+  {
+   "id": "L2U05-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cheap",
+   "item": "cheap",
+   "options": [
+    "list",
+    "cheap",
+    "size",
+    "price"
+   ],
+   "answer": "cheap"
+  },
+  {
+   "id": "L2U05-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trolley",
+   "item": "trolley",
+   "options": [
+    "pay",
+    "coin",
+    "trolley",
+    "thousand"
+   ],
+   "answer": "trolley"
+  },
+  {
+   "id": "L2U05-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "need",
+   "item": "need",
+   "options": [
+    "cost",
+    "coin",
+    "try on",
+    "need"
+   ],
+   "answer": "need"
+  },
+  {
+   "id": "L2U05-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "choose",
+   "item": "choose",
+   "options": [
+    "choose",
+    "wallet",
+    "take",
+    "thing"
+   ],
+   "answer": "choose"
+  },
+  {
+   "id": "L2U05-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "customer",
+   "item": "customer",
+   "options": [
+    "trolley",
+    "shopkeeper",
+    "size",
+    "customer"
+   ],
+   "answer": "customer"
+  },
+  {
+   "id": "L2U05-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "give",
+   "item": "give",
+   "options": [
+    "cheap",
+    "give",
+    "any",
+    "coin"
+   ],
+   "answer": "give"
+  },
+  {
+   "id": "L2U05-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "take",
+   "item": "take",
+   "options": [
+    "any",
+    "sell",
+    "take",
+    "cost"
+   ],
+   "answer": "take"
+  },
+  {
+   "id": "L2U05-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thing",
+   "item": "thing",
+   "options": [
+    "coin",
+    "thing",
+    "choose",
+    "money"
+   ],
+   "answer": "thing"
+  },
+  {
+   "id": "L2U05-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "any",
+   "item": "any",
+   "options": [
+    "basket",
+    "any",
+    "shopkeeper",
+    "list"
+   ],
+   "answer": "any"
+  },
+  {
+   "id": "L2U05-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "how much",
+   "item": "how much",
+   "options": [
+    "basket",
+    "shopkeeper",
+    "expensive",
+    "how much"
+   ],
+   "answer": "how much"
+  },
+  {
+   "id": "L2U05-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thousand",
+   "item": "thousand",
+   "options": [
+    "take",
+    "thousand",
+    "trolley",
+    "basket"
+   ],
+   "answer": "thousand"
+  },
+  {
+   "id": "L2U05-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "supermarket",
+   "answer": "supermarket"
+  },
+  {
+   "id": "L2U05-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bakery",
+   "answer": "bakery"
+  },
+  {
+   "id": "L2U05-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bookshop",
+   "answer": "bookshop"
+  },
+  {
+   "id": "L2U05-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "money",
+   "answer": "money"
+  },
+  {
+   "id": "L2U05-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "coin",
+   "answer": "coin"
+  },
+  {
+   "id": "L2U05-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wallet",
+   "answer": "wallet"
+  },
+  {
+   "id": "L2U05-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "price",
+   "answer": "price"
+  },
+  {
+   "id": "L2U05-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pay",
+   "answer": "pay"
+  },
+  {
+   "id": "L2U05-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "expensive",
+   "answer": "expensive"
+  },
+  {
+   "id": "L2U05-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "basket",
+   "answer": "basket"
+  },
+  {
+   "id": "L2U05-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "list",
+   "answer": "list"
+  },
+  {
+   "id": "L2U05-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "size",
+   "answer": "size"
+  },
+  {
+   "id": "L2U05-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "try on",
+   "answer": "try on"
+  },
+  {
+   "id": "L2U05-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shopkeeper",
+   "answer": "shopkeeper"
+  },
+  {
+   "id": "L2U05-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We buy food at the supermarket.",
+   "item": "supermarket",
+   "answer": "We buy food at the supermarket."
+  },
+  {
+   "id": "L2U05-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bakery has fresh bread.",
+   "item": "bakery",
+   "answer": "The bakery has fresh bread."
+  },
+  {
+   "id": "L2U05-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I buy a book at the bookshop.",
+   "item": "bookshop",
+   "answer": "I buy a book at the bookshop."
+  },
+  {
+   "id": "L2U05-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have some money.",
+   "item": "money",
+   "answer": "I have some money."
+  },
+  {
+   "id": "L2U05-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have three coins.",
+   "item": "coin",
+   "answer": "I have three coins."
+  },
+  {
+   "id": "L2U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My money is in my wallet.",
+   "item": "wallet",
+   "answer": "My money is in my wallet."
+  },
+  {
+   "id": "L2U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's the price?",
+   "item": "price",
+   "answer": "What's the price?"
+  },
+  {
+   "id": "L2U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much does it cost?",
+   "item": "cost",
+   "answer": "How much does it cost?"
+  },
+  {
+   "id": "L2U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to buy a ball.",
+   "item": "buy",
+   "answer": "I want to buy a ball."
+  },
+  {
+   "id": "L2U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They sell fruit at the market.",
+   "item": "sell",
+   "answer": "They sell fruit at the market."
+  },
+  {
+   "id": "L2U05-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad pays for the food.",
+   "item": "pay",
+   "answer": "Dad pays for the food."
+  },
+  {
+   "id": "L2U05-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This T-shirt is cheap.",
+   "item": "cheap",
+   "answer": "This T-shirt is cheap."
+  },
+  {
+   "id": "L2U05-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That bike is very expensive.",
+   "item": "expensive",
+   "answer": "That bike is very expensive."
+  },
+  {
+   "id": "L2U05-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the apples in the basket.",
+   "item": "basket",
+   "answer": "Put the apples in the basket."
+  },
+  {
+   "id": "L2U05-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I push the trolley?",
+   "item": "trolley",
+   "answer": "Can I push the trolley?"
+  },
+  {
+   "id": "L2U05-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Here is our shopping list.",
+   "item": "list",
+   "answer": "Here is our shopping list."
+  },
+  {
+   "id": "L2U05-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We need some milk.",
+   "item": "need",
+   "answer": "We need some milk."
+  },
+  {
+   "id": "L2U05-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Choose a toy, please.",
+   "item": "choose",
+   "answer": "Choose a toy, please."
+  },
+  {
+   "id": "L2U05-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What size are you?",
+   "item": "size",
+   "answer": "What size are you?"
+  },
+  {
+   "id": "L2U05-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I try on this dress?",
+   "item": "try on",
+   "answer": "Can I try on this dress?"
+  },
+  {
+   "id": "L2U05-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The customer wants some bread.",
+   "item": "customer",
+   "answer": "The customer wants some bread."
+  },
+  {
+   "id": "L2U05-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shopkeeper is very kind.",
+   "item": "shopkeeper",
+   "answer": "The shopkeeper is very kind."
+  },
+  {
+   "id": "L2U05-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Give me the basket, please.",
+   "item": "give",
+   "answer": "Give me the basket, please."
+  },
+  {
+   "id": "L2U05-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'll take two apples.",
+   "item": "take",
+   "answer": "I'll take two apples."
+  },
+  {
+   "id": "L2U05-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I need a lot of things.",
+   "item": "thing",
+   "answer": "I need a lot of things."
+  },
+  {
+   "id": "L2U05-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have any bananas?",
+   "item": "any",
+   "answer": "Do you have any bananas?"
+  },
+  {
+   "id": "L2U05-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is this cap?",
+   "item": "how much",
+   "answer": "How much is this cap?"
+  },
+  {
+   "id": "L2U05-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's ten thousand dong.",
+   "item": "thousand",
+   "answer": "It's ten thousand dong."
+  },
+  {
+   "id": "L2U05-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is the cap?",
+   "answer": "How much is the cap?"
+  },
+  {
+   "id": "L2U05-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is the ball?",
+   "answer": "How much is the ball?"
+  },
+  {
+   "id": "L2U05-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is the book?",
+   "answer": "How much is the book?"
+  },
+  {
+   "id": "L2U05-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to buy some bread.",
+   "answer": "I want to buy some bread."
+  },
+  {
+   "id": "L2U05-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to buy a ball.",
+   "answer": "I want to buy a ball."
+  },
+  {
+   "id": "L2U05-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to buy two apples.",
+   "answer": "I want to buy two apples."
+  },
+  {
+   "id": "L2U05-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have any bananas?",
+   "answer": "Do you have any bananas?"
+  },
+  {
+   "id": "L2U05-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have any eggs?",
+   "answer": "Do you have any eggs?"
+  },
+  {
+   "id": "L2U05-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you have any milk?",
+   "answer": "Do you have any milk?"
+  },
+  {
+   "id": "L2U05-Q080",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hello! Can I help you?",
+   "answer": "Hello! How much is the cake?"
+  },
+  {
+   "id": "L2U05-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hello! How much is the cake?",
+   "answer": "It's twenty thousand dong."
+  },
+  {
+   "id": "L2U05-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I choose the apples?",
+   "answer": "Sure. Put them in the basket."
+  },
+  {
+   "id": "L2U05-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "supermarket",
+   "options": [
+    "supermarket",
+    "try on",
+    "list"
+   ],
+   "answer": "supermarket"
+  },
+  {
+   "id": "L2U05-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bakery",
+   "options": [
+    "bakery",
+    "price",
+    "shopkeeper"
+   ],
+   "answer": "bakery"
+  },
+  {
+   "id": "L2U05-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bookshop",
+   "options": [
+    "shopkeeper",
+    "basket",
+    "bookshop"
+   ],
+   "answer": "bookshop"
+  },
+  {
+   "id": "L2U05-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "money",
+   "options": [
+    "money",
+    "size",
+    "supermarket"
+   ],
+   "answer": "money"
+  },
+  {
+   "id": "L2U05-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "coin",
+   "options": [
+    "money",
+    "try on",
+    "coin"
+   ],
+   "answer": "coin"
+  },
+  {
+   "id": "L2U05-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wallet",
+   "options": [
+    "coin",
+    "wallet",
+    "price"
+   ],
+   "answer": "wallet"
+  },
+  {
+   "id": "L2U05-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "price",
+   "options": [
+    "price",
+    "pay",
+    "try on"
+   ],
+   "answer": "price"
+  },
+  {
+   "id": "L2U05-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pay",
+   "options": [
+    "pay",
+    "wallet",
+    "basket"
+   ],
+   "answer": "pay"
+  },
+  {
+   "id": "L2U05-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "expensive",
+   "options": [
+    "expensive",
+    "price",
+    "pay"
+   ],
+   "answer": "expensive"
+  },
+  {
+   "id": "L2U05-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "basket",
+   "options": [
+    "basket",
+    "try on",
+    "wallet"
+   ],
+   "answer": "basket"
+  },
+  {
+   "id": "L2U05-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "list",
+   "options": [
+    "bakery",
+    "list",
+    "try on"
+   ],
+   "answer": "list"
+  },
+  {
+   "id": "L2U05-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "size",
+   "options": [
+    "try on",
+    "size",
+    "bookshop"
+   ],
+   "answer": "size"
+  },
+  {
+   "id": "L2U05-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "try on",
+   "options": [
+    "size",
+    "try on",
+    "supermarket"
+   ],
+   "answer": "try on"
+  },
+  {
+   "id": "L2U05-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shopkeeper",
+   "options": [
+    "wallet",
+    "shopkeeper",
+    "bakery"
+   ],
+   "answer": "shopkeeper"
+  },
+  {
+   "id": "L2U05-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We buy food at the ___.",
+   "item": "supermarket",
+   "options": [
+    "take",
+    "give",
+    "supermarket"
+   ],
+   "answer": "supermarket"
+  },
+  {
+   "id": "L2U05-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has fresh bread.",
+   "item": "bakery",
+   "options": [
+    "sell",
+    "bakery",
+    "thousand"
+   ],
+   "answer": "bakery"
+  },
+  {
+   "id": "L2U05-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I buy a book at the ___.",
+   "item": "bookshop",
+   "options": [
+    "list",
+    "bookshop",
+    "need"
+   ],
+   "answer": "bookshop"
+  },
+  {
+   "id": "L2U05-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have some ___.",
+   "item": "money",
+   "options": [
+    "money",
+    "size",
+    "give"
+   ],
+   "answer": "money"
+  },
+  {
+   "id": "L2U05-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have three ___.",
+   "item": "coin",
+   "options": [
+    "coins",
+    "expensives",
+    "sizes"
+   ],
+   "answer": "coins"
+  },
+  {
+   "id": "L2U05-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My money is in my ___.",
+   "item": "wallet",
+   "options": [
+    "wallet",
+    "pay",
+    "choose"
+   ],
+   "answer": "wallet"
+  },
+  {
+   "id": "L2U05-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's the ___?",
+   "item": "price",
+   "options": [
+    "price",
+    "give",
+    "sell"
+   ],
+   "answer": "price"
+  },
+  {
+   "id": "L2U05-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "How much does it ___?",
+   "item": "cost",
+   "options": [
+    "supermarket",
+    "cost",
+    "expensive"
+   ],
+   "answer": "cost"
+  },
+  {
+   "id": "L2U05-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to ___ a ball.",
+   "item": "buy",
+   "options": [
+    "supermarket",
+    "buy",
+    "shopkeeper"
+   ],
+   "answer": "buy"
+  },
+  {
+   "id": "L2U05-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They ___ fruit at the market.",
+   "item": "sell",
+   "options": [
+    "take",
+    "sell",
+    "list"
+   ],
+   "answer": "sell"
+  },
+  {
+   "id": "L2U05-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dad ___ for the food.",
+   "item": "pay",
+   "options": [
+    "bookshops",
+    "lists",
+    "pays"
+   ],
+   "answer": "pays"
+  },
+  {
+   "id": "L2U05-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This T-shirt is ___.",
+   "item": "cheap",
+   "options": [
+    "price",
+    "cheap",
+    "money"
+   ],
+   "answer": "cheap"
+  },
+  {
+   "id": "L2U05-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That bike is very ___.",
+   "item": "expensive",
+   "options": [
+    "supermarket",
+    "wallet",
+    "expensive"
+   ],
+   "answer": "expensive"
+  },
+  {
+   "id": "L2U05-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the apples in the ___.",
+   "item": "basket",
+   "options": [
+    "basket",
+    "need",
+    "cheap"
+   ],
+   "answer": "basket"
+  },
+  {
+   "id": "L2U05-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I push the ___?",
+   "item": "trolley",
+   "options": [
+    "take",
+    "trolley",
+    "pay"
+   ],
+   "answer": "trolley"
+  },
+  {
+   "id": "L2U05-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Here is our shopping ___.",
+   "item": "list",
+   "options": [
+    "sell",
+    "price",
+    "list"
+   ],
+   "answer": "list"
+  },
+  {
+   "id": "L2U05-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ some milk.",
+   "item": "need",
+   "options": [
+    "need",
+    "thing",
+    "thousand"
+   ],
+   "answer": "need"
+  },
+  {
+   "id": "L2U05-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ a toy, please.",
+   "item": "choose",
+   "options": [
+    "Take",
+    "Cheap",
+    "Choose"
+   ],
+   "answer": "Choose"
+  },
+  {
+   "id": "L2U05-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ are you?",
+   "item": "size",
+   "options": [
+    "expensive",
+    "size",
+    "thing"
+   ],
+   "answer": "size"
+  },
+  {
+   "id": "L2U05-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ wants some bread.",
+   "item": "customer",
+   "options": [
+    "pay",
+    "customer",
+    "need"
+   ],
+   "answer": "customer"
+  },
+  {
+   "id": "L2U05-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very kind.",
+   "item": "shopkeeper",
+   "options": [
+    "sell",
+    "shopkeeper",
+    "list"
+   ],
+   "answer": "shopkeeper"
+  },
+  {
+   "id": "L2U05-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ me the basket, please.",
+   "item": "give",
+   "options": [
+    "Wallet",
+    "Coin",
+    "Give"
+   ],
+   "answer": "Give"
+  },
+  {
+   "id": "L2U05-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I'll ___ two apples.",
+   "item": "take",
+   "options": [
+    "basket",
+    "thousand",
+    "take"
+   ],
+   "answer": "take"
+  },
+  {
+   "id": "L2U05-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I need a lot of ___.",
+   "item": "thing",
+   "options": [
+    "sizes",
+    "things",
+    "expensives"
+   ],
+   "answer": "things"
+  },
+  {
+   "id": "L2U05-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you have ___ bananas?",
+   "item": "any",
+   "options": [
+    "buy",
+    "any",
+    "wallet"
+   ],
+   "answer": "any"
+  },
+  {
+   "id": "L2U05-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ten ___ dong.",
+   "item": "thousand",
+   "options": [
+    "thousand",
+    "thing",
+    "pay"
+   ],
+   "answer": "thousand"
+  },
+  {
+   "id": "L2U05-Q123",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We buy food at the supermarket.",
+   "item": "supermarket",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q124",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The bakery has fresh bread.",
+   "item": "bookshop",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I buy a book at the bookshop.",
+   "item": "bookshop",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have some money.",
+   "item": "coin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I have three coins.",
+   "item": "coin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My money is in my wallet.",
+   "item": "price",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What's the price?",
+   "item": "price",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad pays for the food.",
+   "item": "expensive",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "That bike is very expensive.",
+   "item": "expensive",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put the apples in the basket.",
+   "item": "list",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Here is our shopping list.",
+   "item": "list",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What size are you?",
+   "item": "try on",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Can I try on this dress?",
+   "item": "try on",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U05-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The shopkeeper is very kind.",
+   "item": "supermarket",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U05-Q137",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U05-R01",
+   "text_en": "What does Mai want?",
+   "options": [
+    "A mango.",
+    "A cake.",
+    "A fish."
+   ],
+   "answer": "A mango."
+  },
+  {
+   "id": "L2U05-Q138",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U05-R01",
+   "text_en": "How many mangoes does Mum buy?",
+   "options": [
+    "One.",
+    "Three.",
+    "Two."
+   ],
+   "answer": "Two."
+  },
+  {
+   "id": "L2U05-Q139",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "supermarket",
+   "item": "supermarket",
+   "answer": "supermarket"
+  },
+  {
+   "id": "L2U05-Q140",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bakery",
+   "item": "bakery",
+   "answer": "bakery"
+  },
+  {
+   "id": "L2U05-Q141",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "bookshop",
+   "item": "bookshop",
+   "answer": "bookshop"
+  },
+  {
+   "id": "L2U05-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "money",
+   "item": "money",
+   "answer": "money"
+  },
+  {
+   "id": "L2U05-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "coin",
+   "item": "coin",
+   "answer": "coin"
+  },
+  {
+   "id": "L2U05-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "wallet",
+   "item": "wallet",
+   "answer": "wallet"
+  },
+  {
+   "id": "L2U05-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "price",
+   "item": "price",
+   "answer": "price"
+  },
+  {
+   "id": "L2U05-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cost",
+   "item": "cost",
+   "answer": "cost"
+  },
+  {
+   "id": "L2U05-Q147",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We buy food at the supermarket.",
+   "answer": "We buy food at the supermarket."
+  },
+  {
+   "id": "L2U05-Q148",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The bakery has fresh bread.",
+   "answer": "The bakery has fresh bread."
+  },
+  {
+   "id": "L2U05-Q149",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I buy a book at the bookshop.",
+   "answer": "I buy a book at the bookshop."
+  }
+ ]
+}

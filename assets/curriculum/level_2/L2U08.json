@@ -1,0 +1,2697 @@
+{
+ "id": "L2U08",
+ "level": 2,
+ "unit": 8,
+ "topic_en": "Sports and hobbies",
+ "topic_vi": "Thể thao và sở thích",
+ "can_do_vi": [
+  "Nói môn thể thao mình chơi",
+  "Kể sở thích với \"I like ... ing\""
+ ],
+ "items": [
+  {
+   "id": "L2U08-W01",
+   "type": "word",
+   "en": "sport",
+   "vi": "thể thao",
+   "ipa": "/spɔrt/",
+   "syllables": [
+    "sport"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3C5"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "What's your favourite sport?",
+   "example_vi": "Môn thể thao cậu thích nhất là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W02",
+   "type": "word",
+   "en": "football",
+   "vi": "bóng đá",
+   "ipa": "/ˈfʊtˌbɔl/",
+   "syllables": [
+    "foot",
+    "ball"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26BD"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "I play football with my friends.",
+   "example_vi": "Tớ chơi bóng đá với các bạn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W03",
+   "type": "word",
+   "en": "basketball",
+   "vi": "bóng rổ",
+   "ipa": "/ˈbæskətˌbɔl/",
+   "syllables": [
+    "bas",
+    "ket",
+    "ball"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3C0"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "My brother plays basketball.",
+   "example_vi": "Anh tớ chơi bóng rổ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W04",
+   "type": "word",
+   "en": "badminton",
+   "vi": "cầu lông",
+   "ipa": "/ˈbædˌmɪntən/",
+   "syllables": [
+    "badminton"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3F8"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "We play badminton in the park.",
+   "example_vi": "Bọn tớ chơi cầu lông trong công viên.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W05",
+   "type": "word",
+   "en": "tennis",
+   "vi": "quần vợt",
+   "ipa": "/ˈtɛnɪs/",
+   "syllables": [
+    "ten",
+    "nis"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3BE"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "Tennis is fun.",
+   "example_vi": "Quần vợt vui lắm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W06",
+   "type": "phrase",
+   "en": "table tennis",
+   "vi": "bóng bàn",
+   "ipa": "/ˈteɪbəl ˈtɛnɪs/",
+   "syllables": [
+    "ta",
+    "ble",
+    "ten",
+    "nis"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3D3"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "Dad and I play table tennis.",
+   "example_vi": "Bố và tớ chơi bóng bàn.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W07",
+   "type": "word",
+   "en": "volleyball",
+   "vi": "bóng chuyền",
+   "ipa": "/ˈvɑliˌbɔl/",
+   "syllables": [
+    "vol",
+    "ley",
+    "ball"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F3D0"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "They play volleyball on the beach.",
+   "example_vi": "Họ chơi bóng chuyền trên bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W08",
+   "type": "word",
+   "en": "chess",
+   "vi": "cờ vua",
+   "ipa": "/tʃɛs/",
+   "syllables": [
+    "chess"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "265F-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "My grandpa plays chess.",
+   "example_vi": "Ông tớ chơi cờ vua.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W09",
+   "type": "word",
+   "en": "piano",
+   "vi": "đàn piano",
+   "ipa": "/piˈænə/",
+   "syllables": [
+    "pi",
+    "ano"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3B9"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "I play the piano.",
+   "example_vi": "Tớ chơi đàn piano.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W10",
+   "type": "word",
+   "en": "violin",
+   "vi": "đàn vi-ô-lông",
+   "ipa": "/vaɪəˈlɪn/",
+   "syllables": [
+    "violin"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F3BB"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "She plays the violin very well.",
+   "example_vi": "Bạn ấy chơi vi-ô-lông rất giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W11",
+   "type": "word",
+   "en": "hobby",
+   "vi": "sở thích",
+   "ipa": "/ˈhɑbi/",
+   "syllables": [
+    "hob",
+    "by"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "My hobby is drawing.",
+   "example_vi": "Sở thích của tớ là vẽ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W12",
+   "type": "word",
+   "en": "collect",
+   "vi": "sưu tầm",
+   "ipa": "/kəˈlɛkt/",
+   "syllables": [
+    "col",
+    "lect"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F5C2-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "I collect stickers.",
+   "example_vi": "Tớ sưu tầm hình dán.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W13",
+   "type": "word",
+   "en": "sticker",
+   "vi": "hình dán",
+   "ipa": "/ˈstɪkər/",
+   "syllables": [
+    "stick",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2B50"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "Look at my new sticker!",
+   "example_vi": "Nhìn hình dán mới của tớ này!",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W14",
+   "type": "word",
+   "en": "skate",
+   "vi": "trượt patin",
+   "ipa": "/skeɪt/",
+   "syllables": [
+    "skate"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6FC"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "I can skate.",
+   "example_vi": "Tớ trượt patin được.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W15",
+   "type": "word",
+   "en": "fishing",
+   "vi": "câu cá",
+   "ipa": "/ˈfɪʃɪŋ/",
+   "syllables": [
+    "fish",
+    "ing"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3A3"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "We go fishing at the lake.",
+   "example_vi": "Nhà tớ đi câu cá ở hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W16",
+   "type": "word",
+   "en": "team",
+   "vi": "đội",
+   "ipa": "/tim/",
+   "syllables": [
+    "team"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "Our team is very good.",
+   "example_vi": "Đội của bọn tớ rất giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W17",
+   "type": "word",
+   "en": "player",
+   "vi": "cầu thủ, người chơi",
+   "ipa": "/pleɪʌr/",
+   "syllables": [
+    "player"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "He is a good player.",
+   "example_vi": "Bạn ấy là một cầu thủ giỏi.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W18",
+   "type": "word",
+   "en": "match",
+   "vi": "trận đấu",
+   "ipa": "/mætʃ/",
+   "syllables": [
+    "match"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F19A"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "We have a match on Saturday.",
+   "example_vi": "Thứ Bảy bọn tớ có trận đấu.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W19",
+   "type": "word",
+   "en": "goal",
+   "vi": "bàn thắng",
+   "ipa": "/ɡoʊl/",
+   "syllables": [
+    "goal"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F945"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "Goal! We win!",
+   "example_vi": "Vào! Mình thắng rồi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W20",
+   "type": "word",
+   "en": "win",
+   "vi": "thắng",
+   "ipa": "/wɪn/",
+   "syllables": [
+    "win"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F3C6"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "I want to win.",
+   "example_vi": "Tớ muốn thắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W21",
+   "type": "word",
+   "en": "lose",
+   "vi": "thua",
+   "ipa": "/luz/",
+   "syllables": [
+    "lose"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F61E"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "It's okay to lose.",
+   "example_vi": "Thua cũng không sao.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W22",
+   "type": "word",
+   "en": "racket",
+   "vi": "cái vợt",
+   "ipa": "/ˈrækɪt/",
+   "syllables": [
+    "rack",
+    "et"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3F8"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "Where is my racket?",
+   "example_vi": "Vợt của tớ đâu rồi?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W23",
+   "type": "word",
+   "en": "net",
+   "vi": "cái lưới",
+   "ipa": "/nɛt/",
+   "syllables": [
+    "net"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F578-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "The ball is in the net.",
+   "example_vi": "Quả bóng ở trong lưới.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W24",
+   "type": "word",
+   "en": "practise",
+   "vi": "luyện tập",
+   "ipa": "/ˈpræktɪs/",
+   "syllables": [
+    "prac",
+    "tise"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "I practise every day.",
+   "example_vi": "Tớ luyện tập mỗi ngày.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W25",
+   "type": "word",
+   "en": "score",
+   "vi": "ghi điểm",
+   "ipa": "/skɔr/",
+   "syllables": [
+    "score"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "Can you score a goal?",
+   "example_vi": "Cậu ghi bàn được không?",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W26",
+   "type": "word",
+   "en": "club",
+   "vi": "câu lạc bộ",
+   "ipa": "/klʌb/",
+   "syllables": [
+    "club"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "I go to a chess club.",
+   "example_vi": "Tớ đến câu lạc bộ cờ vua.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W27",
+   "type": "word",
+   "en": "cheer",
+   "vi": "cổ vũ",
+   "ipa": "/tʃɪr/",
+   "syllables": [
+    "cheer"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4E3"
+   },
+   "picturable": true,
+   "cat": "L2U08",
+   "example_en": "We cheer for our team.",
+   "example_vi": "Bọn tớ cổ vũ đội mình.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U08-W28",
+   "type": "phrase",
+   "en": "good at",
+   "vi": "giỏi về",
+   "ipa": "/ɡʊd æt/",
+   "syllables": [
+    "good",
+    "at"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F44D"
+   },
+   "picturable": false,
+   "cat": "L2U08",
+   "example_en": "I'm good at swimming.",
+   "example_vi": "Tớ bơi giỏi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U08-P01",
+   "en": "I play {x} on Saturday.",
+   "vi": "Tớ chơi {x} vào thứ Bảy.",
+   "slots": {
+    "x": [
+     "football",
+     "badminton",
+     "tennis",
+     "chess"
+    ]
+   }
+  },
+  {
+   "id": "L2U08-P02",
+   "en": "I'm good at {x}.",
+   "vi": "Tớ giỏi {x}.",
+   "slots": {
+    "x": [
+     "swimming",
+     "drawing",
+     "dancing",
+     "singing"
+    ]
+   }
+  },
+  {
+   "id": "L2U08-P03",
+   "en": "My hobby is {x}.",
+   "vi": "Sở thích của tớ là {x}.",
+   "slots": {
+    "x": [
+     "fishing",
+     "reading",
+     "skating",
+     "cooking"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U08-D01",
+   "title_vi": "Cậu chơi môn gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What sport do you like?",
+     "vi": "Cậu thích môn thể thao nào?"
+    },
+    {
+     "role": "Kid",
+     "en": "I like football.",
+     "vi": "Tớ thích bóng đá."
+    },
+    {
+     "role": "Bi",
+     "en": "Are you good at it?",
+     "vi": "Cậu có giỏi không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! I can score goals.",
+     "vi": "Có! Tớ ghi bàn được."
+    },
+    {
+     "role": "Bi",
+     "en": "Cool! Let's play together.",
+     "vi": "Hay quá! Mình cùng chơi nhé."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "football",
+    "options": [
+     "badminton",
+     "basketball"
+    ]
+   }
+  },
+  {
+   "id": "L2U08-D02",
+   "title_vi": "Sở thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your hobby?",
+     "vi": "Sở thích của cậu là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "I collect stickers.",
+     "vi": "Tớ sưu tầm hình dán."
+    },
+    {
+     "role": "Bi",
+     "en": "How many do you have?",
+     "vi": "Cậu có bao nhiêu cái?"
+    },
+    {
+     "role": "Kid",
+     "en": "I have fifty stickers!",
+     "vi": "Tớ có năm mươi cái!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "stickers",
+    "options": [
+     "cards",
+     "coins"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "sport"
+  },
+  {
+   "type": "dictate_word",
+   "target": "football"
+  },
+  {
+   "type": "dictate_word",
+   "target": "basketball"
+  },
+  {
+   "type": "dictate_word",
+   "target": "badminton"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tennis"
+  },
+  {
+   "type": "dictate_word",
+   "target": "volleyball"
+  },
+  {
+   "type": "dictate_word",
+   "target": "chess"
+  },
+  {
+   "type": "dictate_word",
+   "target": "piano"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's your favourite sport?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I play football with my friends."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "My brother plays basketball."
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U08-R01",
+   "title_en": "The big match",
+   "text_en": [
+    "Nam plays football for his school team.",
+    "On Saturday they have a big match.",
+    "Nam's family come to cheer.",
+    "Nam scores a goal!",
+    "His team wins the match.",
+    "They are very happy."
+   ],
+   "questions": [
+    {
+     "q": "Who comes to cheer?",
+     "options": [
+      "Nam's family.",
+      "Nam's teacher.",
+      "Nam's dog."
+     ],
+     "answer": "Nam's family."
+    },
+    {
+     "q": "Who wins the match?",
+     "options": [
+      "Nam's team.",
+      "The other team.",
+      "Nobody."
+     ],
+     "answer": "Nam's team."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "football",
+   "item": "football",
+   "options": [
+    "football",
+    "net",
+    "player",
+    "goal"
+   ],
+   "answer": "football"
+  },
+  {
+   "id": "L2U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "basketball",
+   "item": "basketball",
+   "options": [
+    "basketball",
+    "volleyball",
+    "cheer",
+    "violin"
+   ],
+   "answer": "basketball"
+  },
+  {
+   "id": "L2U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "badminton",
+   "item": "badminton",
+   "options": [
+    "table tennis",
+    "piano",
+    "player",
+    "badminton"
+   ],
+   "answer": "badminton"
+  },
+  {
+   "id": "L2U08-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tennis",
+   "item": "tennis",
+   "options": [
+    "chess",
+    "tennis",
+    "net",
+    "goal"
+   ],
+   "answer": "tennis"
+  },
+  {
+   "id": "L2U08-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "table tennis",
+   "item": "table tennis",
+   "options": [
+    "match",
+    "table tennis",
+    "tennis",
+    "volleyball"
+   ],
+   "answer": "table tennis"
+  },
+  {
+   "id": "L2U08-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "volleyball",
+   "item": "volleyball",
+   "options": [
+    "violin",
+    "tennis",
+    "chess",
+    "volleyball"
+   ],
+   "answer": "volleyball"
+  },
+  {
+   "id": "L2U08-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "chess",
+   "item": "chess",
+   "options": [
+    "chess",
+    "match",
+    "badminton",
+    "skate"
+   ],
+   "answer": "chess"
+  },
+  {
+   "id": "L2U08-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "piano",
+   "item": "piano",
+   "options": [
+    "basketball",
+    "cheer",
+    "piano",
+    "match"
+   ],
+   "answer": "piano"
+  },
+  {
+   "id": "L2U08-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "violin",
+   "item": "violin",
+   "options": [
+    "skate",
+    "violin",
+    "table tennis",
+    "goal"
+   ],
+   "answer": "violin"
+  },
+  {
+   "id": "L2U08-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "skate",
+   "item": "skate",
+   "options": [
+    "skate",
+    "win",
+    "badminton",
+    "basketball"
+   ],
+   "answer": "skate"
+  },
+  {
+   "id": "L2U08-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fishing",
+   "item": "fishing",
+   "options": [
+    "win",
+    "net",
+    "match",
+    "fishing"
+   ],
+   "answer": "fishing"
+  },
+  {
+   "id": "L2U08-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "player",
+   "item": "player",
+   "options": [
+    "basketball",
+    "goal",
+    "player",
+    "football"
+   ],
+   "answer": "player"
+  },
+  {
+   "id": "L2U08-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "match",
+   "item": "match",
+   "options": [
+    "volleyball",
+    "table tennis",
+    "match",
+    "net"
+   ],
+   "answer": "match"
+  },
+  {
+   "id": "L2U08-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "goal",
+   "item": "goal",
+   "options": [
+    "fishing",
+    "table tennis",
+    "tennis",
+    "goal"
+   ],
+   "answer": "goal"
+  },
+  {
+   "id": "L2U08-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "win",
+   "item": "win",
+   "options": [
+    "volleyball",
+    "win",
+    "chess",
+    "violin"
+   ],
+   "answer": "win"
+  },
+  {
+   "id": "L2U08-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "net",
+   "item": "net",
+   "options": [
+    "cheer",
+    "net",
+    "badminton",
+    "table tennis"
+   ],
+   "answer": "net"
+  },
+  {
+   "id": "L2U08-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cheer",
+   "item": "cheer",
+   "options": [
+    "cheer",
+    "chess",
+    "badminton",
+    "piano"
+   ],
+   "answer": "cheer"
+  },
+  {
+   "id": "L2U08-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sport",
+   "item": "sport",
+   "options": [
+    "club",
+    "team",
+    "sport",
+    "practise"
+   ],
+   "answer": "sport"
+  },
+  {
+   "id": "L2U08-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hobby",
+   "item": "hobby",
+   "options": [
+    "basketball",
+    "hobby",
+    "piano",
+    "club"
+   ],
+   "answer": "hobby"
+  },
+  {
+   "id": "L2U08-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "collect",
+   "item": "collect",
+   "options": [
+    "collect",
+    "player",
+    "piano",
+    "club"
+   ],
+   "answer": "collect"
+  },
+  {
+   "id": "L2U08-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sticker",
+   "item": "sticker",
+   "options": [
+    "tennis",
+    "cheer",
+    "sticker",
+    "skate"
+   ],
+   "answer": "sticker"
+  },
+  {
+   "id": "L2U08-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "team",
+   "item": "team",
+   "options": [
+    "win",
+    "lose",
+    "cheer",
+    "team"
+   ],
+   "answer": "team"
+  },
+  {
+   "id": "L2U08-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lose",
+   "item": "lose",
+   "options": [
+    "basketball",
+    "lose",
+    "skate",
+    "volleyball"
+   ],
+   "answer": "lose"
+  },
+  {
+   "id": "L2U08-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "racket",
+   "item": "racket",
+   "options": [
+    "goal",
+    "racket",
+    "net",
+    "violin"
+   ],
+   "answer": "racket"
+  },
+  {
+   "id": "L2U08-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "practise",
+   "item": "practise",
+   "options": [
+    "volleyball",
+    "practise",
+    "basketball",
+    "lose"
+   ],
+   "answer": "practise"
+  },
+  {
+   "id": "L2U08-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "score",
+   "item": "score",
+   "options": [
+    "racket",
+    "basketball",
+    "score",
+    "violin"
+   ],
+   "answer": "score"
+  },
+  {
+   "id": "L2U08-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "club",
+   "item": "club",
+   "options": [
+    "practise",
+    "match",
+    "tennis",
+    "club"
+   ],
+   "answer": "club"
+  },
+  {
+   "id": "L2U08-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "good at",
+   "item": "good at",
+   "options": [
+    "good at",
+    "team",
+    "lose",
+    "violin"
+   ],
+   "answer": "good at"
+  },
+  {
+   "id": "L2U08-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "football",
+   "answer": "football"
+  },
+  {
+   "id": "L2U08-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "basketball",
+   "answer": "basketball"
+  },
+  {
+   "id": "L2U08-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "badminton",
+   "answer": "badminton"
+  },
+  {
+   "id": "L2U08-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tennis",
+   "answer": "tennis"
+  },
+  {
+   "id": "L2U08-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "table tennis",
+   "answer": "table tennis"
+  },
+  {
+   "id": "L2U08-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "volleyball",
+   "answer": "volleyball"
+  },
+  {
+   "id": "L2U08-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "chess",
+   "answer": "chess"
+  },
+  {
+   "id": "L2U08-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "piano",
+   "answer": "piano"
+  },
+  {
+   "id": "L2U08-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "violin",
+   "answer": "violin"
+  },
+  {
+   "id": "L2U08-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "skate",
+   "answer": "skate"
+  },
+  {
+   "id": "L2U08-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fishing",
+   "answer": "fishing"
+  },
+  {
+   "id": "L2U08-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "player",
+   "answer": "player"
+  },
+  {
+   "id": "L2U08-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "match",
+   "answer": "match"
+  },
+  {
+   "id": "L2U08-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "goal",
+   "answer": "goal"
+  },
+  {
+   "id": "L2U08-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "win",
+   "answer": "win"
+  },
+  {
+   "id": "L2U08-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "net",
+   "answer": "net"
+  },
+  {
+   "id": "L2U08-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cheer",
+   "answer": "cheer"
+  },
+  {
+   "id": "L2U08-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your favourite sport?",
+   "item": "sport",
+   "answer": "What's your favourite sport?"
+  },
+  {
+   "id": "L2U08-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play football with my friends.",
+   "item": "football",
+   "answer": "I play football with my friends."
+  },
+  {
+   "id": "L2U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother plays basketball.",
+   "item": "basketball",
+   "answer": "My brother plays basketball."
+  },
+  {
+   "id": "L2U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We play badminton in the park.",
+   "item": "badminton",
+   "answer": "We play badminton in the park."
+  },
+  {
+   "id": "L2U08-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Tennis is fun.",
+   "item": "tennis",
+   "answer": "Tennis is fun."
+  },
+  {
+   "id": "L2U08-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dad and I play table tennis.",
+   "item": "table tennis",
+   "answer": "Dad and I play table tennis."
+  },
+  {
+   "id": "L2U08-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They play volleyball on the beach.",
+   "item": "volleyball",
+   "answer": "They play volleyball on the beach."
+  },
+  {
+   "id": "L2U08-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa plays chess.",
+   "item": "chess",
+   "answer": "My grandpa plays chess."
+  },
+  {
+   "id": "L2U08-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play the piano.",
+   "item": "piano",
+   "answer": "I play the piano."
+  },
+  {
+   "id": "L2U08-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She plays the violin very well.",
+   "item": "violin",
+   "answer": "She plays the violin very well."
+  },
+  {
+   "id": "L2U08-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My hobby is drawing.",
+   "item": "hobby",
+   "answer": "My hobby is drawing."
+  },
+  {
+   "id": "L2U08-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I collect stickers.",
+   "item": "collect",
+   "answer": "I collect stickers."
+  },
+  {
+   "id": "L2U08-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look at my new sticker!",
+   "item": "sticker",
+   "answer": "Look at my new sticker!"
+  },
+  {
+   "id": "L2U08-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can skate.",
+   "item": "skate",
+   "answer": "I can skate."
+  },
+  {
+   "id": "L2U08-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We go fishing at the lake.",
+   "item": "fishing",
+   "answer": "We go fishing at the lake."
+  },
+  {
+   "id": "L2U08-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our team is very good.",
+   "item": "team",
+   "answer": "Our team is very good."
+  },
+  {
+   "id": "L2U08-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is a good player.",
+   "item": "player",
+   "answer": "He is a good player."
+  },
+  {
+   "id": "L2U08-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a match on Saturday.",
+   "item": "match",
+   "answer": "We have a match on Saturday."
+  },
+  {
+   "id": "L2U08-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Goal! We win!",
+   "item": "goal",
+   "answer": "Goal! We win!"
+  },
+  {
+   "id": "L2U08-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I want to win.",
+   "item": "win",
+   "answer": "I want to win."
+  },
+  {
+   "id": "L2U08-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's okay to lose.",
+   "item": "lose",
+   "answer": "It's okay to lose."
+  },
+  {
+   "id": "L2U08-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Where is my racket?",
+   "item": "racket",
+   "answer": "Where is my racket?"
+  },
+  {
+   "id": "L2U08-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The ball is in the net.",
+   "item": "net",
+   "answer": "The ball is in the net."
+  },
+  {
+   "id": "L2U08-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I practise every day.",
+   "item": "practise",
+   "answer": "I practise every day."
+  },
+  {
+   "id": "L2U08-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you score a goal?",
+   "item": "score",
+   "answer": "Can you score a goal?"
+  },
+  {
+   "id": "L2U08-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I go to a chess club.",
+   "item": "club",
+   "answer": "I go to a chess club."
+  },
+  {
+   "id": "L2U08-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We cheer for our team.",
+   "item": "cheer",
+   "answer": "We cheer for our team."
+  },
+  {
+   "id": "L2U08-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm good at swimming.",
+   "item": "good at",
+   "answer": "I'm good at swimming."
+  },
+  {
+   "id": "L2U08-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play football on Saturday.",
+   "answer": "I play football on Saturday."
+  },
+  {
+   "id": "L2U08-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play badminton on Saturday.",
+   "answer": "I play badminton on Saturday."
+  },
+  {
+   "id": "L2U08-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I play tennis on Saturday.",
+   "answer": "I play tennis on Saturday."
+  },
+  {
+   "id": "L2U08-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm good at swimming.",
+   "answer": "I'm good at swimming."
+  },
+  {
+   "id": "L2U08-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm good at drawing.",
+   "answer": "I'm good at drawing."
+  },
+  {
+   "id": "L2U08-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm good at dancing.",
+   "answer": "I'm good at dancing."
+  },
+  {
+   "id": "L2U08-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My hobby is fishing.",
+   "answer": "My hobby is fishing."
+  },
+  {
+   "id": "L2U08-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My hobby is reading.",
+   "answer": "My hobby is reading."
+  },
+  {
+   "id": "L2U08-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My hobby is skating.",
+   "answer": "My hobby is skating."
+  },
+  {
+   "id": "L2U08-Q083",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What sport do you like?",
+   "answer": "I like football."
+  },
+  {
+   "id": "L2U08-Q084",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are you good at it?",
+   "answer": "Yes! I can score goals."
+  },
+  {
+   "id": "L2U08-Q085",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your hobby?",
+   "answer": "I collect stickers."
+  },
+  {
+   "id": "L2U08-Q086",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How many do you have?",
+   "answer": "I have fifty stickers!"
+  },
+  {
+   "id": "L2U08-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "football",
+   "options": [
+    "volleyball",
+    "cheer",
+    "football"
+   ],
+   "answer": "football"
+  },
+  {
+   "id": "L2U08-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "basketball",
+   "options": [
+    "table tennis",
+    "fishing",
+    "basketball"
+   ],
+   "answer": "basketball"
+  },
+  {
+   "id": "L2U08-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "badminton",
+   "options": [
+    "badminton",
+    "cheer",
+    "tennis"
+   ],
+   "answer": "badminton"
+  },
+  {
+   "id": "L2U08-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tennis",
+   "options": [
+    "basketball",
+    "volleyball",
+    "tennis"
+   ],
+   "answer": "tennis"
+  },
+  {
+   "id": "L2U08-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "table tennis",
+   "options": [
+    "cheer",
+    "football",
+    "table tennis"
+   ],
+   "answer": "table tennis"
+  },
+  {
+   "id": "L2U08-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "volleyball",
+   "options": [
+    "football",
+    "volleyball",
+    "player"
+   ],
+   "answer": "volleyball"
+  },
+  {
+   "id": "L2U08-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "chess",
+   "options": [
+    "player",
+    "chess",
+    "fishing"
+   ],
+   "answer": "chess"
+  },
+  {
+   "id": "L2U08-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "piano",
+   "options": [
+    "violin",
+    "player",
+    "piano"
+   ],
+   "answer": "piano"
+  },
+  {
+   "id": "L2U08-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "violin",
+   "options": [
+    "violin",
+    "win",
+    "basketball"
+   ],
+   "answer": "violin"
+  },
+  {
+   "id": "L2U08-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "skate",
+   "options": [
+    "basketball",
+    "skate",
+    "cheer"
+   ],
+   "answer": "skate"
+  },
+  {
+   "id": "L2U08-Q097",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fishing",
+   "options": [
+    "goal",
+    "fishing",
+    "player"
+   ],
+   "answer": "fishing"
+  },
+  {
+   "id": "L2U08-Q098",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "player",
+   "options": [
+    "tennis",
+    "player",
+    "match"
+   ],
+   "answer": "player"
+  },
+  {
+   "id": "L2U08-Q099",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "match",
+   "options": [
+    "match",
+    "win",
+    "piano"
+   ],
+   "answer": "match"
+  },
+  {
+   "id": "L2U08-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "goal",
+   "options": [
+    "volleyball",
+    "goal",
+    "cheer"
+   ],
+   "answer": "goal"
+  },
+  {
+   "id": "L2U08-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "win",
+   "options": [
+    "tennis",
+    "cheer",
+    "win"
+   ],
+   "answer": "win"
+  },
+  {
+   "id": "L2U08-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "net",
+   "options": [
+    "net",
+    "match",
+    "cheer"
+   ],
+   "answer": "net"
+  },
+  {
+   "id": "L2U08-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cheer",
+   "options": [
+    "skate",
+    "player",
+    "cheer"
+   ],
+   "answer": "cheer"
+  },
+  {
+   "id": "L2U08-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's your favourite ___?",
+   "item": "sport",
+   "options": [
+    "team",
+    "practise",
+    "sport"
+   ],
+   "answer": "sport"
+  },
+  {
+   "id": "L2U08-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I play ___ with my friends.",
+   "item": "football",
+   "options": [
+    "piano",
+    "lose",
+    "football"
+   ],
+   "answer": "football"
+  },
+  {
+   "id": "L2U08-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother plays ___.",
+   "item": "basketball",
+   "options": [
+    "collect",
+    "basketball",
+    "cheer"
+   ],
+   "answer": "basketball"
+  },
+  {
+   "id": "L2U08-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We play ___ in the park.",
+   "item": "badminton",
+   "options": [
+    "badminton",
+    "tennis",
+    "volleyball"
+   ],
+   "answer": "badminton"
+  },
+  {
+   "id": "L2U08-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is fun.",
+   "item": "tennis",
+   "options": [
+    "Violin",
+    "Tennis",
+    "Match"
+   ],
+   "answer": "Tennis"
+  },
+  {
+   "id": "L2U08-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They play ___ on the beach.",
+   "item": "volleyball",
+   "options": [
+    "practise",
+    "net",
+    "volleyball"
+   ],
+   "answer": "volleyball"
+  },
+  {
+   "id": "L2U08-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandpa plays ___.",
+   "item": "chess",
+   "options": [
+    "chess",
+    "basketball",
+    "lose"
+   ],
+   "answer": "chess"
+  },
+  {
+   "id": "L2U08-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I play the ___.",
+   "item": "piano",
+   "options": [
+    "piano",
+    "football",
+    "lose"
+   ],
+   "answer": "piano"
+  },
+  {
+   "id": "L2U08-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She plays the ___ very well.",
+   "item": "violin",
+   "options": [
+    "skate",
+    "goal",
+    "violin"
+   ],
+   "answer": "violin"
+  },
+  {
+   "id": "L2U08-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is drawing.",
+   "item": "hobby",
+   "options": [
+    "hobby",
+    "player",
+    "tennis"
+   ],
+   "answer": "hobby"
+  },
+  {
+   "id": "L2U08-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ stickers.",
+   "item": "collect",
+   "options": [
+    "collect",
+    "violin",
+    "volleyball"
+   ],
+   "answer": "collect"
+  },
+  {
+   "id": "L2U08-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look at my new ___!",
+   "item": "sticker",
+   "options": [
+    "basketball",
+    "lose",
+    "sticker"
+   ],
+   "answer": "sticker"
+  },
+  {
+   "id": "L2U08-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can ___.",
+   "item": "skate",
+   "options": [
+    "piano",
+    "net",
+    "skate"
+   ],
+   "answer": "skate"
+  },
+  {
+   "id": "L2U08-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We go ___ at the lake.",
+   "item": "fishing",
+   "options": [
+    "collect",
+    "sport",
+    "fishing"
+   ],
+   "answer": "fishing"
+  },
+  {
+   "id": "L2U08-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is very good.",
+   "item": "team",
+   "options": [
+    "team",
+    "player",
+    "fishing"
+   ],
+   "answer": "team"
+  },
+  {
+   "id": "L2U08-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He is a good ___.",
+   "item": "player",
+   "options": [
+    "piano",
+    "player",
+    "skate"
+   ],
+   "answer": "player"
+  },
+  {
+   "id": "L2U08-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have a ___ on Saturday.",
+   "item": "match",
+   "options": [
+    "match",
+    "sport",
+    "chess"
+   ],
+   "answer": "match"
+  },
+  {
+   "id": "L2U08-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___! We win!",
+   "item": "goal",
+   "options": [
+    "Violin",
+    "Sport",
+    "Goal"
+   ],
+   "answer": "Goal"
+  },
+  {
+   "id": "L2U08-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I want to ___.",
+   "item": "win",
+   "options": [
+    "sticker",
+    "win",
+    "team"
+   ],
+   "answer": "win"
+  },
+  {
+   "id": "L2U08-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's okay to ___.",
+   "item": "lose",
+   "options": [
+    "lose",
+    "player",
+    "badminton"
+   ],
+   "answer": "lose"
+  },
+  {
+   "id": "L2U08-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Where is my ___?",
+   "item": "racket",
+   "options": [
+    "sticker",
+    "racket",
+    "skate"
+   ],
+   "answer": "racket"
+  },
+  {
+   "id": "L2U08-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ball is in the ___.",
+   "item": "net",
+   "options": [
+    "collect",
+    "net",
+    "player"
+   ],
+   "answer": "net"
+  },
+  {
+   "id": "L2U08-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ every day.",
+   "item": "practise",
+   "options": [
+    "hobby",
+    "practise",
+    "piano"
+   ],
+   "answer": "practise"
+  },
+  {
+   "id": "L2U08-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ a goal?",
+   "item": "score",
+   "options": [
+    "basketball",
+    "score",
+    "sport"
+   ],
+   "answer": "score"
+  },
+  {
+   "id": "L2U08-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I go to a chess ___.",
+   "item": "club",
+   "options": [
+    "goal",
+    "score",
+    "club"
+   ],
+   "answer": "club"
+  },
+  {
+   "id": "L2U08-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ for our team.",
+   "item": "cheer",
+   "options": [
+    "cheer",
+    "volleyball",
+    "basketball"
+   ],
+   "answer": "cheer"
+  },
+  {
+   "id": "L2U08-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I play football with my friends.",
+   "item": "football",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My brother plays basketball.",
+   "item": "badminton",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We play badminton in the park.",
+   "item": "badminton",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Tennis is fun.",
+   "item": "table tennis",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dad and I play table tennis.",
+   "item": "table tennis",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "They play volleyball on the beach.",
+   "item": "chess",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My grandpa plays chess.",
+   "item": "chess",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I play the piano.",
+   "item": "violin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "She plays the violin very well.",
+   "item": "violin",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I can skate.",
+   "item": "fishing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We go fishing at the lake.",
+   "item": "fishing",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "He is a good player.",
+   "item": "match",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We have a match on Saturday.",
+   "item": "match",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Goal! We win!",
+   "item": "win",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I want to win.",
+   "item": "win",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The ball is in the net.",
+   "item": "cheer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U08-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We cheer for our team.",
+   "item": "cheer",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U08-Q147",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U08-R01",
+   "text_en": "Who comes to cheer?",
+   "options": [
+    "Nam's teacher.",
+    "Nam's family.",
+    "Nam's dog."
+   ],
+   "answer": "Nam's family."
+  },
+  {
+   "id": "L2U08-Q148",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U08-R01",
+   "text_en": "Who wins the match?",
+   "options": [
+    "Nobody.",
+    "The other team.",
+    "Nam's team."
+   ],
+   "answer": "Nam's team."
+  },
+  {
+   "id": "L2U08-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sport",
+   "item": "sport",
+   "answer": "sport"
+  },
+  {
+   "id": "L2U08-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "football",
+   "item": "football",
+   "answer": "football"
+  },
+  {
+   "id": "L2U08-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "basketball",
+   "item": "basketball",
+   "answer": "basketball"
+  },
+  {
+   "id": "L2U08-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "badminton",
+   "item": "badminton",
+   "answer": "badminton"
+  },
+  {
+   "id": "L2U08-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tennis",
+   "item": "tennis",
+   "answer": "tennis"
+  },
+  {
+   "id": "L2U08-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "volleyball",
+   "item": "volleyball",
+   "answer": "volleyball"
+  },
+  {
+   "id": "L2U08-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "chess",
+   "item": "chess",
+   "answer": "chess"
+  },
+  {
+   "id": "L2U08-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "piano",
+   "item": "piano",
+   "answer": "piano"
+  },
+  {
+   "id": "L2U08-Q157",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's your favourite sport?",
+   "answer": "What's your favourite sport?"
+  },
+  {
+   "id": "L2U08-Q158",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I play football with my friends.",
+   "answer": "I play football with my friends."
+  },
+  {
+   "id": "L2U08-Q159",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "My brother plays basketball.",
+   "answer": "My brother plays basketball."
+  }
+ ]
+}

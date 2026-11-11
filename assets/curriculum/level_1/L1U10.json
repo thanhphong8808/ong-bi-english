@@ -1,0 +1,1708 @@
+{
+ "id": "L1U10",
+ "level": 1,
+ "unit": 10,
+ "topic_en": "I can do it!",
+ "topic_vi": "Tớ làm được!",
+ "can_do_vi": [
+  "Nói mình làm được gì với \"I can ...\"",
+  "Hỏi \"Can you ...?\""
+ ],
+ "items": [
+  {
+   "id": "L1U10-W01",
+   "type": "word",
+   "en": "walk",
+   "vi": "đi bộ",
+   "ipa": "/wɔk/",
+   "syllables": [
+    "walk"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6B6"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I walk to school.",
+   "example_vi": "Tớ đi bộ đến trường.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W02",
+   "type": "word",
+   "en": "swim",
+   "vi": "bơi",
+   "ipa": "/swɪm/",
+   "syllables": [
+    "swim"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3CA"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can swim.",
+   "example_vi": "Tớ biết bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W03",
+   "type": "word",
+   "en": "fly",
+   "vi": "bay",
+   "ipa": "/flaɪ/",
+   "syllables": [
+    "fly"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "A bird can fly.",
+   "example_vi": "Chim biết bay.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W04",
+   "type": "word",
+   "en": "climb",
+   "vi": "trèo",
+   "ipa": "/klaɪm/",
+   "syllables": [
+    "climb"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D7"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "The monkey can climb.",
+   "example_vi": "Con khỉ biết trèo.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W05",
+   "type": "word",
+   "en": "dance",
+   "vi": "nhảy múa",
+   "ipa": "/dæns/",
+   "syllables": [
+    "dance"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F483"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can dance.",
+   "example_vi": "Tớ biết nhảy múa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W06",
+   "type": "word",
+   "en": "sing",
+   "vi": "hát",
+   "ipa": "/sɪŋ/",
+   "syllables": [
+    "sing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I like to sing.",
+   "example_vi": "Tớ thích hát.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W07",
+   "type": "word",
+   "en": "kick",
+   "vi": "đá",
+   "ipa": "/kɪk/",
+   "syllables": [
+    "kick"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F9B5"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Kick the ball!",
+   "example_vi": "Đá bóng đi!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W08",
+   "type": "word",
+   "en": "throw",
+   "vi": "ném",
+   "ipa": "/θroʊ/",
+   "syllables": [
+    "throw"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F93E"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Throw the ball to me.",
+   "example_vi": "Ném bóng cho tớ đi.",
+   "pron_focus": [
+    "th_sound",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W09",
+   "type": "word",
+   "en": "catch",
+   "vi": "bắt",
+   "ipa": "/kætʃ/",
+   "syllables": [
+    "catch"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9E4"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can catch the ball.",
+   "example_vi": "Tớ bắt được bóng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W10",
+   "type": "word",
+   "en": "ride",
+   "vi": "đi (xe), cưỡi",
+   "ipa": "/raɪd/",
+   "syllables": [
+    "ride"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6B4"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can ride a bike.",
+   "example_vi": "Tớ biết đi xe đạp.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W11",
+   "type": "word",
+   "en": "hop",
+   "vi": "nhảy lò cò",
+   "ipa": "/hɑp/",
+   "syllables": [
+    "hop"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F407"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "The rabbit can hop.",
+   "example_vi": "Con thỏ biết nhảy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W12",
+   "type": "word",
+   "en": "skip",
+   "vi": "nhảy dây",
+   "ipa": "/skɪp/",
+   "syllables": [
+    "skip"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FAA2"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can skip.",
+   "example_vi": "Tớ biết nhảy dây.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W13",
+   "type": "word",
+   "en": "cook",
+   "vi": "nấu ăn",
+   "ipa": "/kʊk/",
+   "syllables": [
+    "cook"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F373"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Mum can cook.",
+   "example_vi": "Mẹ biết nấu ăn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W14",
+   "type": "word",
+   "en": "help",
+   "vi": "giúp",
+   "ipa": "/hɛlp/",
+   "syllables": [
+    "help"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F198"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Can you help me?",
+   "example_vi": "Cậu giúp tớ được không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W15",
+   "type": "word",
+   "en": "carry",
+   "vi": "mang, bê",
+   "ipa": "/ˈkɛri/",
+   "syllables": [
+    "car",
+    "ry"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3CB-FE0F"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "I can carry the box.",
+   "example_vi": "Tớ bê được cái hộp.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W16",
+   "type": "word",
+   "en": "can't",
+   "vi": "không thể",
+   "ipa": "/kænt/",
+   "syllables": [
+    "can't"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "A fish can't walk.",
+   "example_vi": "Cá không đi bộ được.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read"
+   ]
+  },
+  {
+   "id": "L1U10-W17",
+   "type": "word",
+   "en": "try",
+   "vi": "thử",
+   "ipa": "/traɪ/",
+   "syllables": [
+    "try"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4AA"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Let's try!",
+   "example_vi": "Mình thử nhé!",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W18",
+   "type": "word",
+   "en": "again",
+   "vi": "lần nữa",
+   "ipa": "/əˈɡɛn/",
+   "syllables": [
+    "again"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "Try again!",
+   "example_vi": "Thử lại nào!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L1U10-W19",
+   "type": "word",
+   "en": "well",
+   "vi": "giỏi, tốt",
+   "ipa": "/wɛl/",
+   "syllables": [
+    "well"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": true,
+   "cat": "L1U10",
+   "example_en": "You can sing well.",
+   "example_vi": "Cậu hát hay đấy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L1U10-P01",
+   "en": "I can {x}.",
+   "vi": "Tớ biết {x}.",
+   "slots": {
+    "x": [
+     "swim",
+     "dance",
+     "sing",
+     "climb"
+    ]
+   }
+  },
+  {
+   "id": "L1U10-P02",
+   "en": "Can you {x}?",
+   "vi": "Cậu có biết {x} không?",
+   "slots": {
+    "x": [
+     "swim",
+     "fly",
+     "ride a bike",
+     "cook"
+    ]
+   }
+  },
+  {
+   "id": "L1U10-P03",
+   "en": "A fish can't {x}.",
+   "vi": "Cá không {x} được.",
+   "slots": {
+    "x": [
+     "walk",
+     "fly",
+     "climb",
+     "sing"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L1U10-D01",
+   "title_vi": "Cậu biết làm gì?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Can you swim?",
+     "vi": "Cậu có biết bơi không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, I can. Can you swim?",
+     "vi": "Có. Cậu có biết bơi không?"
+    },
+    {
+     "role": "Bi",
+     "en": "No, I can't. But I can fly!",
+     "vi": "Tớ không biết. Nhưng tớ biết bay!"
+    },
+    {
+     "role": "Kid",
+     "en": "Wow! I can't fly.",
+     "vi": "Chà! Tớ không biết bay."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "swim",
+    "options": [
+     "dance",
+     "sing",
+     "skip"
+    ]
+   }
+  },
+  {
+   "id": "L1U10-D02",
+   "title_vi": "Thử lại nào",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Can you catch the ball?",
+     "vi": "Cậu bắt được bóng không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Oh no! I can't.",
+     "vi": "Ôi không! Tớ không bắt được."
+    },
+    {
+     "role": "Bi",
+     "en": "It's okay. Try again!",
+     "vi": "Không sao. Thử lại nào!"
+    },
+    {
+     "role": "Kid",
+     "en": "Yay! I can catch it!",
+     "vi": "Hoan hô! Tớ bắt được rồi!"
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "catch",
+    "options": [
+     "kick",
+     "throw"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "write_letter",
+   "target": "w"
+  },
+  {
+   "type": "write_letter",
+   "target": "s"
+  },
+  {
+   "type": "write_letter",
+   "target": "f"
+  },
+  {
+   "type": "write_letter",
+   "target": "c"
+  },
+  {
+   "type": "copy_word",
+   "target": "walk"
+  },
+  {
+   "type": "copy_word",
+   "target": "swim"
+  },
+  {
+   "type": "copy_word",
+   "target": "fly"
+  },
+  {
+   "type": "copy_word",
+   "target": "climb"
+  },
+  {
+   "type": "copy_word",
+   "target": "dance"
+  },
+  {
+   "type": "copy_word",
+   "target": "sing"
+  },
+  {
+   "type": "copy_word",
+   "target": "kick"
+  },
+  {
+   "type": "copy_word",
+   "target": "throw"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L1U10-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "walk",
+   "item": "walk",
+   "options": [
+    "dance",
+    "ride",
+    "try",
+    "walk"
+   ],
+   "answer": "walk"
+  },
+  {
+   "id": "L1U10-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "swim",
+   "item": "swim",
+   "options": [
+    "swim",
+    "can't",
+    "climb",
+    "ride"
+   ],
+   "answer": "swim"
+  },
+  {
+   "id": "L1U10-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fly",
+   "item": "fly",
+   "options": [
+    "fly",
+    "ride",
+    "again",
+    "walk"
+   ],
+   "answer": "fly"
+  },
+  {
+   "id": "L1U10-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "climb",
+   "item": "climb",
+   "options": [
+    "again",
+    "catch",
+    "climb",
+    "ride"
+   ],
+   "answer": "climb"
+  },
+  {
+   "id": "L1U10-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dance",
+   "item": "dance",
+   "options": [
+    "climb",
+    "dance",
+    "hop",
+    "kick"
+   ],
+   "answer": "dance"
+  },
+  {
+   "id": "L1U10-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sing",
+   "item": "sing",
+   "options": [
+    "climb",
+    "cook",
+    "try",
+    "sing"
+   ],
+   "answer": "sing"
+  },
+  {
+   "id": "L1U10-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kick",
+   "item": "kick",
+   "options": [
+    "sing",
+    "again",
+    "kick",
+    "try"
+   ],
+   "answer": "kick"
+  },
+  {
+   "id": "L1U10-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "throw",
+   "item": "throw",
+   "options": [
+    "throw",
+    "fly",
+    "try",
+    "skip"
+   ],
+   "answer": "throw"
+  },
+  {
+   "id": "L1U10-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "catch",
+   "item": "catch",
+   "options": [
+    "kick",
+    "hop",
+    "catch",
+    "again"
+   ],
+   "answer": "catch"
+  },
+  {
+   "id": "L1U10-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ride",
+   "item": "ride",
+   "options": [
+    "dance",
+    "ride",
+    "climb",
+    "sing"
+   ],
+   "answer": "ride"
+  },
+  {
+   "id": "L1U10-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hop",
+   "item": "hop",
+   "options": [
+    "fly",
+    "ride",
+    "hop",
+    "help"
+   ],
+   "answer": "hop"
+  },
+  {
+   "id": "L1U10-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "skip",
+   "item": "skip",
+   "options": [
+    "skip",
+    "help",
+    "cook",
+    "catch"
+   ],
+   "answer": "skip"
+  },
+  {
+   "id": "L1U10-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cook",
+   "item": "cook",
+   "options": [
+    "try",
+    "fly",
+    "well",
+    "cook"
+   ],
+   "answer": "cook"
+  },
+  {
+   "id": "L1U10-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "help",
+   "item": "help",
+   "options": [
+    "help",
+    "well",
+    "catch",
+    "skip"
+   ],
+   "answer": "help"
+  },
+  {
+   "id": "L1U10-Q015",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "carry",
+   "item": "carry",
+   "options": [
+    "help",
+    "walk",
+    "carry",
+    "well"
+   ],
+   "answer": "carry"
+  },
+  {
+   "id": "L1U10-Q016",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "can't",
+   "item": "can't",
+   "options": [
+    "skip",
+    "can't",
+    "again",
+    "sing"
+   ],
+   "answer": "can't"
+  },
+  {
+   "id": "L1U10-Q017",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "try",
+   "item": "try",
+   "options": [
+    "try",
+    "can't",
+    "climb",
+    "help"
+   ],
+   "answer": "try"
+  },
+  {
+   "id": "L1U10-Q018",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "again",
+   "item": "again",
+   "options": [
+    "swim",
+    "again",
+    "kick",
+    "climb"
+   ],
+   "answer": "again"
+  },
+  {
+   "id": "L1U10-Q019",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "well",
+   "item": "well",
+   "options": [
+    "can't",
+    "dance",
+    "well",
+    "catch"
+   ],
+   "answer": "well"
+  },
+  {
+   "id": "L1U10-Q020",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the walk green.",
+   "item": "walk",
+   "options": [
+    "catch",
+    "well",
+    "walk"
+   ],
+   "answer": "walk",
+   "color": "green"
+  },
+  {
+   "id": "L1U10-Q021",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the swim pink.",
+   "item": "swim",
+   "options": [
+    "hop",
+    "swim",
+    "dance"
+   ],
+   "answer": "swim",
+   "color": "pink"
+  },
+  {
+   "id": "L1U10-Q022",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the fly pink.",
+   "item": "fly",
+   "options": [
+    "can't",
+    "fly",
+    "sing"
+   ],
+   "answer": "fly",
+   "color": "pink"
+  },
+  {
+   "id": "L1U10-Q023",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the climb blue.",
+   "item": "climb",
+   "options": [
+    "kick",
+    "climb",
+    "throw"
+   ],
+   "answer": "climb",
+   "color": "blue"
+  },
+  {
+   "id": "L1U10-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "walk",
+   "answer": "walk"
+  },
+  {
+   "id": "L1U10-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "swim",
+   "answer": "swim"
+  },
+  {
+   "id": "L1U10-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fly",
+   "answer": "fly"
+  },
+  {
+   "id": "L1U10-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "climb",
+   "answer": "climb"
+  },
+  {
+   "id": "L1U10-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dance",
+   "answer": "dance"
+  },
+  {
+   "id": "L1U10-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sing",
+   "answer": "sing"
+  },
+  {
+   "id": "L1U10-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kick",
+   "answer": "kick"
+  },
+  {
+   "id": "L1U10-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "throw",
+   "answer": "throw"
+  },
+  {
+   "id": "L1U10-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "catch",
+   "answer": "catch"
+  },
+  {
+   "id": "L1U10-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ride",
+   "answer": "ride"
+  },
+  {
+   "id": "L1U10-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hop",
+   "answer": "hop"
+  },
+  {
+   "id": "L1U10-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "skip",
+   "answer": "skip"
+  },
+  {
+   "id": "L1U10-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cook",
+   "answer": "cook"
+  },
+  {
+   "id": "L1U10-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "help",
+   "answer": "help"
+  },
+  {
+   "id": "L1U10-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "carry",
+   "answer": "carry"
+  },
+  {
+   "id": "L1U10-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "can't",
+   "answer": "can't"
+  },
+  {
+   "id": "L1U10-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "try",
+   "answer": "try"
+  },
+  {
+   "id": "L1U10-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "again",
+   "answer": "again"
+  },
+  {
+   "id": "L1U10-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "well",
+   "answer": "well"
+  },
+  {
+   "id": "L1U10-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I walk to school.",
+   "item": "walk",
+   "answer": "I walk to school."
+  },
+  {
+   "id": "L1U10-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can swim.",
+   "item": "swim",
+   "answer": "I can swim."
+  },
+  {
+   "id": "L1U10-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A bird can fly.",
+   "item": "fly",
+   "answer": "A bird can fly."
+  },
+  {
+   "id": "L1U10-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The monkey can climb.",
+   "item": "climb",
+   "answer": "The monkey can climb."
+  },
+  {
+   "id": "L1U10-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can dance.",
+   "item": "dance",
+   "answer": "I can dance."
+  },
+  {
+   "id": "L1U10-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like to sing.",
+   "item": "sing",
+   "answer": "I like to sing."
+  },
+  {
+   "id": "L1U10-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Kick the ball!",
+   "item": "kick",
+   "answer": "Kick the ball!"
+  },
+  {
+   "id": "L1U10-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Throw the ball to me.",
+   "item": "throw",
+   "answer": "Throw the ball to me."
+  },
+  {
+   "id": "L1U10-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can catch the ball.",
+   "item": "catch",
+   "answer": "I can catch the ball."
+  },
+  {
+   "id": "L1U10-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can ride a bike.",
+   "item": "ride",
+   "answer": "I can ride a bike."
+  },
+  {
+   "id": "L1U10-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rabbit can hop.",
+   "item": "hop",
+   "answer": "The rabbit can hop."
+  },
+  {
+   "id": "L1U10-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can skip.",
+   "item": "skip",
+   "answer": "I can skip."
+  },
+  {
+   "id": "L1U10-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum can cook.",
+   "item": "cook",
+   "answer": "Mum can cook."
+  },
+  {
+   "id": "L1U10-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you help me?",
+   "item": "help",
+   "answer": "Can you help me?"
+  },
+  {
+   "id": "L1U10-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can carry the box.",
+   "item": "carry",
+   "answer": "I can carry the box."
+  },
+  {
+   "id": "L1U10-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A fish can't walk.",
+   "item": "can't",
+   "answer": "A fish can't walk."
+  },
+  {
+   "id": "L1U10-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's try!",
+   "item": "try",
+   "answer": "Let's try!"
+  },
+  {
+   "id": "L1U10-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Try again!",
+   "item": "again",
+   "answer": "Try again!"
+  },
+  {
+   "id": "L1U10-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You can sing well.",
+   "item": "well",
+   "answer": "You can sing well."
+  },
+  {
+   "id": "L1U10-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can swim.",
+   "answer": "I can swim."
+  },
+  {
+   "id": "L1U10-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can dance.",
+   "answer": "I can dance."
+  },
+  {
+   "id": "L1U10-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can sing.",
+   "answer": "I can sing."
+  },
+  {
+   "id": "L1U10-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you swim?",
+   "answer": "Can you swim?"
+  },
+  {
+   "id": "L1U10-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you fly?",
+   "answer": "Can you fly?"
+  },
+  {
+   "id": "L1U10-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you ride a bike?",
+   "answer": "Can you ride a bike?"
+  },
+  {
+   "id": "L1U10-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A fish can't walk.",
+   "answer": "A fish can't walk."
+  },
+  {
+   "id": "L1U10-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A fish can't fly.",
+   "answer": "A fish can't fly."
+  },
+  {
+   "id": "L1U10-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A fish can't climb.",
+   "answer": "A fish can't climb."
+  },
+  {
+   "id": "L1U10-Q071",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can you swim?",
+   "answer": "Yes, I can. Can you swim?"
+  },
+  {
+   "id": "L1U10-Q072",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes, I can. Can you swim?",
+   "answer": "No, I can't. But I can fly!"
+  },
+  {
+   "id": "L1U10-Q073",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can you catch the ball?",
+   "answer": "Oh no! I can't."
+  },
+  {
+   "id": "L1U10-Q074",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "walk",
+   "options": [
+    "well",
+    "walk",
+    "kick"
+   ],
+   "answer": "walk"
+  },
+  {
+   "id": "L1U10-Q075",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "swim",
+   "options": [
+    "hop",
+    "swim",
+    "throw"
+   ],
+   "answer": "swim"
+  },
+  {
+   "id": "L1U10-Q076",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "fly",
+   "options": [
+    "carry",
+    "hop",
+    "fly"
+   ],
+   "answer": "fly"
+  },
+  {
+   "id": "L1U10-Q077",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "climb",
+   "options": [
+    "climb",
+    "cook",
+    "hop"
+   ],
+   "answer": "climb"
+  },
+  {
+   "id": "L1U10-Q078",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dance",
+   "options": [
+    "dance",
+    "fly",
+    "sing"
+   ],
+   "answer": "dance"
+  },
+  {
+   "id": "L1U10-Q079",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sing",
+   "options": [
+    "throw",
+    "again",
+    "sing"
+   ],
+   "answer": "sing"
+  },
+  {
+   "id": "L1U10-Q080",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kick",
+   "options": [
+    "walk",
+    "climb",
+    "kick"
+   ],
+   "answer": "kick"
+  },
+  {
+   "id": "L1U10-Q081",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "throw",
+   "options": [
+    "throw",
+    "try",
+    "swim"
+   ],
+   "answer": "throw"
+  },
+  {
+   "id": "L1U10-Q082",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "catch",
+   "options": [
+    "catch",
+    "dance",
+    "walk"
+   ],
+   "answer": "catch"
+  },
+  {
+   "id": "L1U10-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ride",
+   "options": [
+    "climb",
+    "ride",
+    "catch"
+   ],
+   "answer": "ride"
+  },
+  {
+   "id": "L1U10-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hop",
+   "options": [
+    "can't",
+    "walk",
+    "hop"
+   ],
+   "answer": "hop"
+  },
+  {
+   "id": "L1U10-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "skip",
+   "options": [
+    "climb",
+    "skip",
+    "hop"
+   ],
+   "answer": "skip"
+  },
+  {
+   "id": "L1U10-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cook",
+   "options": [
+    "cook",
+    "throw",
+    "walk"
+   ],
+   "answer": "cook"
+  },
+  {
+   "id": "L1U10-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "help",
+   "options": [
+    "help",
+    "sing",
+    "swim"
+   ],
+   "answer": "help"
+  },
+  {
+   "id": "L1U10-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "carry",
+   "options": [
+    "carry",
+    "hop",
+    "again"
+   ],
+   "answer": "carry"
+  },
+  {
+   "id": "L1U10-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "can't",
+   "options": [
+    "can't",
+    "help",
+    "catch"
+   ],
+   "answer": "can't"
+  },
+  {
+   "id": "L1U10-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "try",
+   "options": [
+    "try",
+    "skip",
+    "throw"
+   ],
+   "answer": "try"
+  },
+  {
+   "id": "L1U10-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "again",
+   "options": [
+    "again",
+    "try",
+    "sing"
+   ],
+   "answer": "again"
+  },
+  {
+   "id": "L1U10-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "well",
+   "options": [
+    "climb",
+    "sing",
+    "well"
+   ],
+   "answer": "well"
+  },
+  {
+   "id": "L1U10-Q093",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "w",
+   "answer": "w"
+  },
+  {
+   "id": "L1U10-Q094",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "s",
+   "answer": "s"
+  },
+  {
+   "id": "L1U10-Q095",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "f",
+   "answer": "f"
+  },
+  {
+   "id": "L1U10-Q096",
+   "skill": "write",
+   "kind": "write_letter",
+   "audio_en": "c",
+   "answer": "c"
+  },
+  {
+   "id": "L1U10-Q097",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "walk",
+   "answer": "walk"
+  },
+  {
+   "id": "L1U10-Q098",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "swim",
+   "answer": "swim"
+  },
+  {
+   "id": "L1U10-Q099",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "fly",
+   "answer": "fly"
+  },
+  {
+   "id": "L1U10-Q100",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "climb",
+   "answer": "climb"
+  },
+  {
+   "id": "L1U10-Q101",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "dance",
+   "answer": "dance"
+  },
+  {
+   "id": "L1U10-Q102",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "sing",
+   "answer": "sing"
+  },
+  {
+   "id": "L1U10-Q103",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "kick",
+   "answer": "kick"
+  },
+  {
+   "id": "L1U10-Q104",
+   "skill": "write",
+   "kind": "copy_word",
+   "item": "throw",
+   "answer": "throw"
+  }
+ ]
+}

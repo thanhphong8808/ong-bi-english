@@ -1,0 +1,2588 @@
+{
+ "id": "L2U10",
+ "level": 2,
+ "unit": 10,
+ "topic_en": "Big, bigger, biggest",
+ "topic_vi": "So sánh",
+ "can_do_vi": [
+  "So sánh hai vật với \"-er than\"",
+  "Nói vật nhất với \"the -est\""
+ ],
+ "items": [
+  {
+   "id": "L2U10-W01",
+   "type": "word",
+   "en": "heavy",
+   "vi": "nặng",
+   "ipa": "/ˈhɛvi/",
+   "syllables": [
+    "heavy"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3CB-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The box is heavy.",
+   "example_vi": "Cái hộp nặng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W02",
+   "type": "word",
+   "en": "light",
+   "vi": "nhẹ",
+   "ipa": "/laɪt/",
+   "syllables": [
+    "light"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1FA81"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "A feather is very light.",
+   "example_vi": "Lông vũ rất nhẹ.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W03",
+   "type": "word",
+   "en": "loud",
+   "vi": "to, ồn",
+   "ipa": "/laʊd/",
+   "syllables": [
+    "loud"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The music is too loud!",
+   "example_vi": "Nhạc to quá!",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W04",
+   "type": "word",
+   "en": "easy",
+   "vi": "dễ",
+   "ipa": "/ˈizi/",
+   "syllables": [
+    "easy"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F60C"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "This game is easy.",
+   "example_vi": "Trò chơi này dễ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W05",
+   "type": "word",
+   "en": "difficult",
+   "vi": "khó",
+   "ipa": "/ˈdɪfəkəlt/",
+   "syllables": [
+    "dif",
+    "fi",
+    "cult"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F9E9"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "This puzzle is difficult.",
+   "example_vi": "Câu đố này khó.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W06",
+   "type": "word",
+   "en": "clever",
+   "vi": "thông minh",
+   "ipa": "/ˈklɛvər/",
+   "syllables": [
+    "clever"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "Dolphins are clever animals.",
+   "example_vi": "Cá heo là loài vật thông minh.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W07",
+   "type": "word",
+   "en": "beautiful",
+   "vi": "đẹp",
+   "ipa": "/ˈbjutəfəl/",
+   "syllables": [
+    "beau",
+    "ti",
+    "ful"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F33A"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "What a beautiful flower!",
+   "example_vi": "Bông hoa đẹp quá!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W08",
+   "type": "word",
+   "en": "than",
+   "vi": "hơn",
+   "ipa": "/ðʌn/",
+   "syllables": [
+    "than"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "2696-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "A cat is bigger than a mouse.",
+   "example_vi": "Mèo to hơn chuột.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W09",
+   "type": "word",
+   "en": "better",
+   "vi": "tốt hơn",
+   "ipa": "/ˈbɛtər/",
+   "syllables": [
+    "bet",
+    "ter"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4C8"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "My drawing is better today.",
+   "example_vi": "Hôm nay tranh của tớ đẹp hơn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W10",
+   "type": "word",
+   "en": "best",
+   "vi": "tốt nhất",
+   "ipa": "/bɛst/",
+   "syllables": [
+    "best"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F947"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "You are my best friend.",
+   "example_vi": "Cậu là bạn thân nhất của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W11",
+   "type": "word",
+   "en": "worse",
+   "vi": "tệ hơn",
+   "ipa": "/wʌrs/",
+   "syllables": [
+    "worse"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F4C9"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The rain is worse today.",
+   "example_vi": "Hôm nay mưa còn tệ hơn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W12",
+   "type": "word",
+   "en": "worst",
+   "vi": "tệ nhất",
+   "ipa": "/wʌrst/",
+   "syllables": [
+    "worst"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F44E"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "This is the worst day!",
+   "example_vi": "Đây là ngày tệ nhất!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W13",
+   "type": "word",
+   "en": "most",
+   "vi": "nhất",
+   "ipa": "/moʊst/",
+   "syllables": [
+    "most"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F51D"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "This is the most beautiful bird.",
+   "example_vi": "Đây là con chim đẹp nhất.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W14",
+   "type": "word",
+   "en": "high",
+   "vi": "cao",
+   "ipa": "/haɪ/",
+   "syllables": [
+    "high"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3D4-FE0F"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The mountain is very high.",
+   "example_vi": "Ngọn núi rất cao.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W15",
+   "type": "word",
+   "en": "low",
+   "vi": "thấp",
+   "ipa": "/loʊ/",
+   "syllables": [
+    "low"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "2935-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The table is low.",
+   "example_vi": "Cái bàn thấp.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W16",
+   "type": "word",
+   "en": "thin",
+   "vi": "mỏng, gầy",
+   "ipa": "/θɪn/",
+   "syllables": [
+    "thin"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "This book is thin.",
+   "example_vi": "Quyển sách này mỏng.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W17",
+   "type": "word",
+   "en": "thick",
+   "vi": "dày",
+   "ipa": "/θɪk/",
+   "syllables": [
+    "thick"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4D8"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "That book is thick.",
+   "example_vi": "Quyển sách kia dày.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W18",
+   "type": "word",
+   "en": "weak",
+   "vi": "yếu",
+   "ipa": "/wik/",
+   "syllables": [
+    "weak"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F940"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The baby bird is weak.",
+   "example_vi": "Chú chim non còn yếu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W19",
+   "type": "word",
+   "en": "hard",
+   "vi": "cứng, khó",
+   "ipa": "/hɑrd/",
+   "syllables": [
+    "hard"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1FAA8"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The rock is hard.",
+   "example_vi": "Hòn đá cứng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W20",
+   "type": "word",
+   "en": "bright",
+   "vi": "sáng",
+   "ipa": "/braɪt/",
+   "syllables": [
+    "bright"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The sun is very bright.",
+   "example_vi": "Mặt trời rất sáng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W21",
+   "type": "word",
+   "en": "dark",
+   "vi": "tối",
+   "ipa": "/dɑrk/",
+   "syllables": [
+    "dark"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F311"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "It's dark at night.",
+   "example_vi": "Ban đêm trời tối.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W22",
+   "type": "word",
+   "en": "large",
+   "vi": "lớn",
+   "ipa": "/lɑrdʒ/",
+   "syllables": [
+    "large"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F418"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "A large pizza, please.",
+   "example_vi": "Cho tớ một cái pi-za cỡ lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W23",
+   "type": "word",
+   "en": "tiny",
+   "vi": "tí hon",
+   "ipa": "/ˈtaɪni/",
+   "syllables": [
+    "tiny"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F41C"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "An ant is tiny.",
+   "example_vi": "Con kiến tí hon.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W24",
+   "type": "word",
+   "en": "huge",
+   "vi": "khổng lồ",
+   "ipa": "/judʒ/",
+   "syllables": [
+    "huge"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F995"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "Dinosaurs were huge.",
+   "example_vi": "Khủng long rất khổng lồ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W25",
+   "type": "word",
+   "en": "deep",
+   "vi": "sâu",
+   "ipa": "/dip/",
+   "syllables": [
+    "deep"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The sea is very deep.",
+   "example_vi": "Biển rất sâu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W26",
+   "type": "word",
+   "en": "wide",
+   "vi": "rộng",
+   "ipa": "/waɪd/",
+   "syllables": [
+    "wide"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "2194-FE0F"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The river is wide.",
+   "example_vi": "Con sông rộng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W27",
+   "type": "word",
+   "en": "narrow",
+   "vi": "hẹp",
+   "ipa": "/ˈnɛroʊ/",
+   "syllables": [
+    "nar",
+    "row"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L2U10",
+   "example_en": "The street is narrow.",
+   "example_vi": "Con phố hẹp.",
+   "pron_focus": [
+    "r_sound",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L2U10-W28",
+   "type": "word",
+   "en": "sharp",
+   "vi": "sắc, nhọn",
+   "ipa": "/ʃɑrp/",
+   "syllables": [
+    "sharp"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4CC"
+   },
+   "picturable": true,
+   "cat": "L2U10",
+   "example_en": "The pencil is sharp.",
+   "example_vi": "Cây bút chì nhọn.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L2U10-P01",
+   "en": "A {x} is bigger than a cat.",
+   "vi": "Con {x} to hơn con mèo.",
+   "slots": {
+    "x": [
+     "horse",
+     "lion",
+     "tiger",
+     "bear"
+    ]
+   }
+  },
+  {
+   "id": "L2U10-P02",
+   "en": "The {x} is the biggest animal.",
+   "vi": "Con {x} là con vật to nhất.",
+   "slots": {
+    "x": [
+     "whale",
+     "elephant"
+    ]
+   }
+  },
+  {
+   "id": "L2U10-P03",
+   "en": "My bag is {x} than your bag.",
+   "vi": "Cặp của tớ {x} hơn cặp của cậu.",
+   "slots": {
+    "x": [
+     "heavier",
+     "lighter",
+     "bigger",
+     "smaller"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L2U10-D01",
+   "title_vi": "Ai cao hơn?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Who is taller, you or your brother?",
+     "vi": "Ai cao hơn, cậu hay anh cậu?"
+    },
+    {
+     "role": "Kid",
+     "en": "My brother is taller than me.",
+     "vi": "Anh tớ cao hơn tớ."
+    },
+    {
+     "role": "Bi",
+     "en": "Is he older?",
+     "vi": "Anh ấy lớn tuổi hơn à?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes. He is ten.",
+     "vi": "Ừ. Anh ấy mười tuổi."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "taller",
+    "options": [
+     "bigger",
+     "faster"
+    ]
+   }
+  },
+  {
+   "id": "L2U10-D02",
+   "title_vi": "Con vật nào to nhất?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's the biggest animal?",
+     "vi": "Con vật nào to nhất?"
+    },
+    {
+     "role": "Kid",
+     "en": "The elephant?",
+     "vi": "Con voi à?"
+    },
+    {
+     "role": "Bi",
+     "en": "No. The whale is bigger than the elephant!",
+     "vi": "Không. Cá voi to hơn voi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Wow! The whale is the biggest!",
+     "vi": "Ồ! Cá voi là to nhất!"
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "whale",
+    "options": [
+     "elephant",
+     "giraffe"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "heavy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "light"
+  },
+  {
+   "type": "dictate_word",
+   "target": "loud"
+  },
+  {
+   "type": "dictate_word",
+   "target": "easy"
+  },
+  {
+   "type": "dictate_word",
+   "target": "difficult"
+  },
+  {
+   "type": "dictate_word",
+   "target": "clever"
+  },
+  {
+   "type": "dictate_word",
+   "target": "beautiful"
+  },
+  {
+   "type": "dictate_word",
+   "target": "than"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The box is heavy."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "A feather is very light."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The music is too loud!"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L2U10-R01",
+   "title_en": "Three boxes",
+   "text_en": [
+    "There are three boxes on the table.",
+    "The red box is big.",
+    "The blue box is bigger than the red box.",
+    "The green box is the biggest.",
+    "But the small red box is the heaviest!",
+    "There is a rock in it."
+   ],
+   "questions": [
+    {
+     "q": "Which box is the biggest?",
+     "options": [
+      "The green box.",
+      "The red box.",
+      "The blue box."
+     ],
+     "answer": "The green box."
+    },
+    {
+     "q": "Why is the red box the heaviest?",
+     "options": [
+      "There is a rock in it.",
+      "It is big.",
+      "It is red."
+     ],
+     "answer": "There is a rock in it."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L2U10-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "heavy",
+   "item": "heavy",
+   "options": [
+    "sharp",
+    "tiny",
+    "bright",
+    "heavy"
+   ],
+   "answer": "heavy"
+  },
+  {
+   "id": "L2U10-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "light",
+   "item": "light",
+   "options": [
+    "light",
+    "best",
+    "beautiful",
+    "high"
+   ],
+   "answer": "light"
+  },
+  {
+   "id": "L2U10-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "loud",
+   "item": "loud",
+   "options": [
+    "loud",
+    "tiny",
+    "huge",
+    "thick"
+   ],
+   "answer": "loud"
+  },
+  {
+   "id": "L2U10-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "clever",
+   "item": "clever",
+   "options": [
+    "light",
+    "huge",
+    "high",
+    "clever"
+   ],
+   "answer": "clever"
+  },
+  {
+   "id": "L2U10-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "beautiful",
+   "item": "beautiful",
+   "options": [
+    "loud",
+    "high",
+    "beautiful",
+    "bright"
+   ],
+   "answer": "beautiful"
+  },
+  {
+   "id": "L2U10-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "best",
+   "item": "best",
+   "options": [
+    "best",
+    "high",
+    "clever",
+    "beautiful"
+   ],
+   "answer": "best"
+  },
+  {
+   "id": "L2U10-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "high",
+   "item": "high",
+   "options": [
+    "high",
+    "dark",
+    "sharp",
+    "huge"
+   ],
+   "answer": "high"
+  },
+  {
+   "id": "L2U10-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "thick",
+   "item": "thick",
+   "options": [
+    "beautiful",
+    "bright",
+    "high",
+    "thick"
+   ],
+   "answer": "thick"
+  },
+  {
+   "id": "L2U10-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hard",
+   "item": "hard",
+   "options": [
+    "bright",
+    "beautiful",
+    "hard",
+    "heavy"
+   ],
+   "answer": "hard"
+  },
+  {
+   "id": "L2U10-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bright",
+   "item": "bright",
+   "options": [
+    "bright",
+    "huge",
+    "clever",
+    "light"
+   ],
+   "answer": "bright"
+  },
+  {
+   "id": "L2U10-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dark",
+   "item": "dark",
+   "options": [
+    "thick",
+    "dark",
+    "heavy",
+    "sharp"
+   ],
+   "answer": "dark"
+  },
+  {
+   "id": "L2U10-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tiny",
+   "item": "tiny",
+   "options": [
+    "clever",
+    "tiny",
+    "thick",
+    "hard"
+   ],
+   "answer": "tiny"
+  },
+  {
+   "id": "L2U10-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "huge",
+   "item": "huge",
+   "options": [
+    "beautiful",
+    "bright",
+    "light",
+    "huge"
+   ],
+   "answer": "huge"
+  },
+  {
+   "id": "L2U10-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sharp",
+   "item": "sharp",
+   "options": [
+    "dark",
+    "clever",
+    "tiny",
+    "sharp"
+   ],
+   "answer": "sharp"
+  },
+  {
+   "id": "L2U10-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "easy",
+   "item": "easy",
+   "options": [
+    "deep",
+    "hard",
+    "huge",
+    "easy"
+   ],
+   "answer": "easy"
+  },
+  {
+   "id": "L2U10-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "difficult",
+   "item": "difficult",
+   "options": [
+    "difficult",
+    "heavy",
+    "worse",
+    "most"
+   ],
+   "answer": "difficult"
+  },
+  {
+   "id": "L2U10-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "than",
+   "item": "than",
+   "options": [
+    "worse",
+    "thin",
+    "than",
+    "most"
+   ],
+   "answer": "than"
+  },
+  {
+   "id": "L2U10-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "better",
+   "item": "better",
+   "options": [
+    "worst",
+    "most",
+    "better",
+    "bright"
+   ],
+   "answer": "better"
+  },
+  {
+   "id": "L2U10-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "worse",
+   "item": "worse",
+   "options": [
+    "thick",
+    "most",
+    "worse",
+    "wide"
+   ],
+   "answer": "worse"
+  },
+  {
+   "id": "L2U10-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "worst",
+   "item": "worst",
+   "options": [
+    "easy",
+    "worst",
+    "large",
+    "wide"
+   ],
+   "answer": "worst"
+  },
+  {
+   "id": "L2U10-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "most",
+   "item": "most",
+   "options": [
+    "most",
+    "huge",
+    "worse",
+    "beautiful"
+   ],
+   "answer": "most"
+  },
+  {
+   "id": "L2U10-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "low",
+   "item": "low",
+   "options": [
+    "clever",
+    "low",
+    "tiny",
+    "bright"
+   ],
+   "answer": "low"
+  },
+  {
+   "id": "L2U10-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thin",
+   "item": "thin",
+   "options": [
+    "thin",
+    "huge",
+    "than",
+    "best"
+   ],
+   "answer": "thin"
+  },
+  {
+   "id": "L2U10-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "weak",
+   "item": "weak",
+   "options": [
+    "weak",
+    "low",
+    "heavy",
+    "difficult"
+   ],
+   "answer": "weak"
+  },
+  {
+   "id": "L2U10-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "large",
+   "item": "large",
+   "options": [
+    "high",
+    "clever",
+    "large",
+    "most"
+   ],
+   "answer": "large"
+  },
+  {
+   "id": "L2U10-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "deep",
+   "item": "deep",
+   "options": [
+    "thin",
+    "worst",
+    "loud",
+    "deep"
+   ],
+   "answer": "deep"
+  },
+  {
+   "id": "L2U10-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wide",
+   "item": "wide",
+   "options": [
+    "hard",
+    "sharp",
+    "wide",
+    "worse"
+   ],
+   "answer": "wide"
+  },
+  {
+   "id": "L2U10-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "narrow",
+   "item": "narrow",
+   "options": [
+    "low",
+    "most",
+    "worst",
+    "narrow"
+   ],
+   "answer": "narrow"
+  },
+  {
+   "id": "L2U10-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "heavy",
+   "answer": "heavy"
+  },
+  {
+   "id": "L2U10-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "light",
+   "answer": "light"
+  },
+  {
+   "id": "L2U10-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "loud",
+   "answer": "loud"
+  },
+  {
+   "id": "L2U10-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "clever",
+   "answer": "clever"
+  },
+  {
+   "id": "L2U10-Q033",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "beautiful",
+   "answer": "beautiful"
+  },
+  {
+   "id": "L2U10-Q034",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "best",
+   "answer": "best"
+  },
+  {
+   "id": "L2U10-Q035",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "high",
+   "answer": "high"
+  },
+  {
+   "id": "L2U10-Q036",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "thick",
+   "answer": "thick"
+  },
+  {
+   "id": "L2U10-Q037",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hard",
+   "answer": "hard"
+  },
+  {
+   "id": "L2U10-Q038",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bright",
+   "answer": "bright"
+  },
+  {
+   "id": "L2U10-Q039",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dark",
+   "answer": "dark"
+  },
+  {
+   "id": "L2U10-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tiny",
+   "answer": "tiny"
+  },
+  {
+   "id": "L2U10-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "huge",
+   "answer": "huge"
+  },
+  {
+   "id": "L2U10-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sharp",
+   "answer": "sharp"
+  },
+  {
+   "id": "L2U10-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The box is heavy.",
+   "item": "heavy",
+   "answer": "The box is heavy."
+  },
+  {
+   "id": "L2U10-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A feather is very light.",
+   "item": "light",
+   "answer": "A feather is very light."
+  },
+  {
+   "id": "L2U10-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The music is too loud!",
+   "item": "loud",
+   "answer": "The music is too loud!"
+  },
+  {
+   "id": "L2U10-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This game is easy.",
+   "item": "easy",
+   "answer": "This game is easy."
+  },
+  {
+   "id": "L2U10-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This puzzle is difficult.",
+   "item": "difficult",
+   "answer": "This puzzle is difficult."
+  },
+  {
+   "id": "L2U10-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dolphins are clever animals.",
+   "item": "clever",
+   "answer": "Dolphins are clever animals."
+  },
+  {
+   "id": "L2U10-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What a beautiful flower!",
+   "item": "beautiful",
+   "answer": "What a beautiful flower!"
+  },
+  {
+   "id": "L2U10-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A cat is bigger than a mouse.",
+   "item": "than",
+   "answer": "A cat is bigger than a mouse."
+  },
+  {
+   "id": "L2U10-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My drawing is better today.",
+   "item": "better",
+   "answer": "My drawing is better today."
+  },
+  {
+   "id": "L2U10-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You are my best friend.",
+   "item": "best",
+   "answer": "You are my best friend."
+  },
+  {
+   "id": "L2U10-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rain is worse today.",
+   "item": "worse",
+   "answer": "The rain is worse today."
+  },
+  {
+   "id": "L2U10-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is the worst day!",
+   "item": "worst",
+   "answer": "This is the worst day!"
+  },
+  {
+   "id": "L2U10-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is the most beautiful bird.",
+   "item": "most",
+   "answer": "This is the most beautiful bird."
+  },
+  {
+   "id": "L2U10-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The mountain is very high.",
+   "item": "high",
+   "answer": "The mountain is very high."
+  },
+  {
+   "id": "L2U10-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The table is low.",
+   "item": "low",
+   "answer": "The table is low."
+  },
+  {
+   "id": "L2U10-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This book is thin.",
+   "item": "thin",
+   "answer": "This book is thin."
+  },
+  {
+   "id": "L2U10-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That book is thick.",
+   "item": "thick",
+   "answer": "That book is thick."
+  },
+  {
+   "id": "L2U10-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The baby bird is weak.",
+   "item": "weak",
+   "answer": "The baby bird is weak."
+  },
+  {
+   "id": "L2U10-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The rock is hard.",
+   "item": "hard",
+   "answer": "The rock is hard."
+  },
+  {
+   "id": "L2U10-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sun is very bright.",
+   "item": "bright",
+   "answer": "The sun is very bright."
+  },
+  {
+   "id": "L2U10-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's dark at night.",
+   "item": "dark",
+   "answer": "It's dark at night."
+  },
+  {
+   "id": "L2U10-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A large pizza, please.",
+   "item": "large",
+   "answer": "A large pizza, please."
+  },
+  {
+   "id": "L2U10-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "An ant is tiny.",
+   "item": "tiny",
+   "answer": "An ant is tiny."
+  },
+  {
+   "id": "L2U10-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dinosaurs were huge.",
+   "item": "huge",
+   "answer": "Dinosaurs were huge."
+  },
+  {
+   "id": "L2U10-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The sea is very deep.",
+   "item": "deep",
+   "answer": "The sea is very deep."
+  },
+  {
+   "id": "L2U10-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The river is wide.",
+   "item": "wide",
+   "answer": "The river is wide."
+  },
+  {
+   "id": "L2U10-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The street is narrow.",
+   "item": "narrow",
+   "answer": "The street is narrow."
+  },
+  {
+   "id": "L2U10-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pencil is sharp.",
+   "item": "sharp",
+   "answer": "The pencil is sharp."
+  },
+  {
+   "id": "L2U10-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A horse is bigger than a cat.",
+   "answer": "A horse is bigger than a cat."
+  },
+  {
+   "id": "L2U10-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A lion is bigger than a cat.",
+   "answer": "A lion is bigger than a cat."
+  },
+  {
+   "id": "L2U10-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A tiger is bigger than a cat.",
+   "answer": "A tiger is bigger than a cat."
+  },
+  {
+   "id": "L2U10-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The whale is the biggest animal.",
+   "answer": "The whale is the biggest animal."
+  },
+  {
+   "id": "L2U10-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The elephant is the biggest animal.",
+   "answer": "The elephant is the biggest animal."
+  },
+  {
+   "id": "L2U10-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bag is heavier than your bag.",
+   "answer": "My bag is heavier than your bag."
+  },
+  {
+   "id": "L2U10-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bag is lighter than your bag.",
+   "answer": "My bag is lighter than your bag."
+  },
+  {
+   "id": "L2U10-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My bag is bigger than your bag.",
+   "answer": "My bag is bigger than your bag."
+  },
+  {
+   "id": "L2U10-Q079",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Who is taller, you or your brother?",
+   "answer": "My brother is taller than me."
+  },
+  {
+   "id": "L2U10-Q080",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Is he older?",
+   "answer": "Yes. He is ten."
+  },
+  {
+   "id": "L2U10-Q081",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's the biggest animal?",
+   "answer": "The elephant?"
+  },
+  {
+   "id": "L2U10-Q082",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "The elephant?",
+   "answer": "No. The whale is bigger than the elephant!"
+  },
+  {
+   "id": "L2U10-Q083",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "heavy",
+   "options": [
+    "high",
+    "sharp",
+    "heavy"
+   ],
+   "answer": "heavy"
+  },
+  {
+   "id": "L2U10-Q084",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "light",
+   "options": [
+    "light",
+    "beautiful",
+    "thick"
+   ],
+   "answer": "light"
+  },
+  {
+   "id": "L2U10-Q085",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "loud",
+   "options": [
+    "bright",
+    "sharp",
+    "loud"
+   ],
+   "answer": "loud"
+  },
+  {
+   "id": "L2U10-Q086",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "clever",
+   "options": [
+    "thick",
+    "huge",
+    "clever"
+   ],
+   "answer": "clever"
+  },
+  {
+   "id": "L2U10-Q087",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "beautiful",
+   "options": [
+    "tiny",
+    "hard",
+    "beautiful"
+   ],
+   "answer": "beautiful"
+  },
+  {
+   "id": "L2U10-Q088",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "best",
+   "options": [
+    "loud",
+    "best",
+    "huge"
+   ],
+   "answer": "best"
+  },
+  {
+   "id": "L2U10-Q089",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "high",
+   "options": [
+    "bright",
+    "high",
+    "heavy"
+   ],
+   "answer": "high"
+  },
+  {
+   "id": "L2U10-Q090",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "thick",
+   "options": [
+    "light",
+    "high",
+    "thick"
+   ],
+   "answer": "thick"
+  },
+  {
+   "id": "L2U10-Q091",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "hard",
+   "options": [
+    "hard",
+    "best",
+    "huge"
+   ],
+   "answer": "hard"
+  },
+  {
+   "id": "L2U10-Q092",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "bright",
+   "options": [
+    "bright",
+    "light",
+    "thick"
+   ],
+   "answer": "bright"
+  },
+  {
+   "id": "L2U10-Q093",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "dark",
+   "options": [
+    "hard",
+    "dark",
+    "beautiful"
+   ],
+   "answer": "dark"
+  },
+  {
+   "id": "L2U10-Q094",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tiny",
+   "options": [
+    "tiny",
+    "heavy",
+    "thick"
+   ],
+   "answer": "tiny"
+  },
+  {
+   "id": "L2U10-Q095",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "huge",
+   "options": [
+    "high",
+    "huge",
+    "thick"
+   ],
+   "answer": "huge"
+  },
+  {
+   "id": "L2U10-Q096",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sharp",
+   "options": [
+    "beautiful",
+    "sharp",
+    "tiny"
+   ],
+   "answer": "sharp"
+  },
+  {
+   "id": "L2U10-Q097",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The box is ___.",
+   "item": "heavy",
+   "options": [
+    "best",
+    "dark",
+    "heavy"
+   ],
+   "answer": "heavy"
+  },
+  {
+   "id": "L2U10-Q098",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A feather is very ___.",
+   "item": "light",
+   "options": [
+    "best",
+    "light",
+    "dark"
+   ],
+   "answer": "light"
+  },
+  {
+   "id": "L2U10-Q099",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The music is too ___!",
+   "item": "loud",
+   "options": [
+    "loud",
+    "worst",
+    "dark"
+   ],
+   "answer": "loud"
+  },
+  {
+   "id": "L2U10-Q100",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This game is ___.",
+   "item": "easy",
+   "options": [
+    "easy",
+    "dark",
+    "beautiful"
+   ],
+   "answer": "easy"
+  },
+  {
+   "id": "L2U10-Q101",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This puzzle is ___.",
+   "item": "difficult",
+   "options": [
+    "difficult",
+    "large",
+    "worst"
+   ],
+   "answer": "difficult"
+  },
+  {
+   "id": "L2U10-Q102",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dolphins are ___ animals.",
+   "item": "clever",
+   "options": [
+    "large",
+    "clever",
+    "most"
+   ],
+   "answer": "clever"
+  },
+  {
+   "id": "L2U10-Q103",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What a ___ flower!",
+   "item": "beautiful",
+   "options": [
+    "beautiful",
+    "light",
+    "sharp"
+   ],
+   "answer": "beautiful"
+  },
+  {
+   "id": "L2U10-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A cat is bigger ___ a mouse.",
+   "item": "than",
+   "options": [
+    "than",
+    "difficult",
+    "bright"
+   ],
+   "answer": "than"
+  },
+  {
+   "id": "L2U10-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My drawing is ___ today.",
+   "item": "better",
+   "options": [
+    "dark",
+    "better",
+    "beautiful"
+   ],
+   "answer": "better"
+  },
+  {
+   "id": "L2U10-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You are my ___ friend.",
+   "item": "best",
+   "options": [
+    "than",
+    "best",
+    "thick"
+   ],
+   "answer": "best"
+  },
+  {
+   "id": "L2U10-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rain is ___ today.",
+   "item": "worse",
+   "options": [
+    "worst",
+    "worse",
+    "most"
+   ],
+   "answer": "worse"
+  },
+  {
+   "id": "L2U10-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is the ___ day!",
+   "item": "worst",
+   "options": [
+    "easy",
+    "low",
+    "worst"
+   ],
+   "answer": "worst"
+  },
+  {
+   "id": "L2U10-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is the ___ beautiful bird.",
+   "item": "most",
+   "options": [
+    "heavy",
+    "most",
+    "difficult"
+   ],
+   "answer": "most"
+  },
+  {
+   "id": "L2U10-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The mountain is very ___.",
+   "item": "high",
+   "options": [
+    "high",
+    "beautiful",
+    "dark"
+   ],
+   "answer": "high"
+  },
+  {
+   "id": "L2U10-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The table is ___.",
+   "item": "low",
+   "options": [
+    "most",
+    "low",
+    "beautiful"
+   ],
+   "answer": "low"
+  },
+  {
+   "id": "L2U10-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This book is ___.",
+   "item": "thin",
+   "options": [
+    "thin",
+    "worst",
+    "than"
+   ],
+   "answer": "thin"
+  },
+  {
+   "id": "L2U10-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That book is ___.",
+   "item": "thick",
+   "options": [
+    "worst",
+    "thick",
+    "dark"
+   ],
+   "answer": "thick"
+  },
+  {
+   "id": "L2U10-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The baby bird is ___.",
+   "item": "weak",
+   "options": [
+    "large",
+    "weak",
+    "than"
+   ],
+   "answer": "weak"
+  },
+  {
+   "id": "L2U10-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The rock is ___.",
+   "item": "hard",
+   "options": [
+    "large",
+    "most",
+    "hard"
+   ],
+   "answer": "hard"
+  },
+  {
+   "id": "L2U10-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sun is very ___.",
+   "item": "bright",
+   "options": [
+    "dark",
+    "bright",
+    "best"
+   ],
+   "answer": "bright"
+  },
+  {
+   "id": "L2U10-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's ___ at night.",
+   "item": "dark",
+   "options": [
+    "high",
+    "loud",
+    "dark"
+   ],
+   "answer": "dark"
+  },
+  {
+   "id": "L2U10-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ pizza, please.",
+   "item": "large",
+   "options": [
+    "weak",
+    "huge",
+    "large"
+   ],
+   "answer": "large"
+  },
+  {
+   "id": "L2U10-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "An ant is ___.",
+   "item": "tiny",
+   "options": [
+    "tiny",
+    "most",
+    "dark"
+   ],
+   "answer": "tiny"
+  },
+  {
+   "id": "L2U10-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Dinosaurs were ___.",
+   "item": "huge",
+   "options": [
+    "best",
+    "huge",
+    "large"
+   ],
+   "answer": "huge"
+  },
+  {
+   "id": "L2U10-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The sea is very ___.",
+   "item": "deep",
+   "options": [
+    "dark",
+    "deep",
+    "best"
+   ],
+   "answer": "deep"
+  },
+  {
+   "id": "L2U10-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The river is ___.",
+   "item": "wide",
+   "options": [
+    "than",
+    "most",
+    "wide"
+   ],
+   "answer": "wide"
+  },
+  {
+   "id": "L2U10-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The street is ___.",
+   "item": "narrow",
+   "options": [
+    "best",
+    "narrow",
+    "than"
+   ],
+   "answer": "narrow"
+  },
+  {
+   "id": "L2U10-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The pencil is ___.",
+   "item": "sharp",
+   "options": [
+    "most",
+    "dark",
+    "sharp"
+   ],
+   "answer": "sharp"
+  },
+  {
+   "id": "L2U10-Q125",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The box is heavy.",
+   "item": "heavy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q126",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "A feather is very light.",
+   "item": "loud",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q127",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The music is too loud!",
+   "item": "loud",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q128",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dolphins are clever animals.",
+   "item": "beautiful",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q129",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "What a beautiful flower!",
+   "item": "beautiful",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q130",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "You are my best friend.",
+   "item": "high",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q131",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The mountain is very high.",
+   "item": "high",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q132",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "That book is thick.",
+   "item": "hard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q133",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The rock is hard.",
+   "item": "hard",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The sun is very bright.",
+   "item": "dark",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "It's dark at night.",
+   "item": "dark",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "An ant is tiny.",
+   "item": "huge",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Dinosaurs were huge.",
+   "item": "huge",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L2U10-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The pencil is sharp.",
+   "item": "heavy",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L2U10-Q139",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U10-R01",
+   "text_en": "Which box is the biggest?",
+   "options": [
+    "The green box.",
+    "The blue box.",
+    "The red box."
+   ],
+   "answer": "The green box."
+  },
+  {
+   "id": "L2U10-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L2U10-R01",
+   "text_en": "Why is the red box the heaviest?",
+   "options": [
+    "It is big.",
+    "It is red.",
+    "There is a rock in it."
+   ],
+   "answer": "There is a rock in it."
+  },
+  {
+   "id": "L2U10-Q141",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "heavy",
+   "item": "heavy",
+   "answer": "heavy"
+  },
+  {
+   "id": "L2U10-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "light",
+   "item": "light",
+   "answer": "light"
+  },
+  {
+   "id": "L2U10-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "loud",
+   "item": "loud",
+   "answer": "loud"
+  },
+  {
+   "id": "L2U10-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "easy",
+   "item": "easy",
+   "answer": "easy"
+  },
+  {
+   "id": "L2U10-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "difficult",
+   "item": "difficult",
+   "answer": "difficult"
+  },
+  {
+   "id": "L2U10-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "clever",
+   "item": "clever",
+   "answer": "clever"
+  },
+  {
+   "id": "L2U10-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "beautiful",
+   "item": "beautiful",
+   "answer": "beautiful"
+  },
+  {
+   "id": "L2U10-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "than",
+   "item": "than",
+   "answer": "than"
+  },
+  {
+   "id": "L2U10-Q149",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The box is heavy.",
+   "answer": "The box is heavy."
+  },
+  {
+   "id": "L2U10-Q150",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "A feather is very light.",
+   "answer": "A feather is very light."
+  },
+  {
+   "id": "L2U10-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The music is too loud!",
+   "answer": "The music is too loud!"
+  }
+ ]
+}

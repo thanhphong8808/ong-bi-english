@@ -1,0 +1,3223 @@
+{
+ "id": "L4U05",
+ "level": 4,
+ "unit": 5,
+ "topic_en": "Holidays and hotels",
+ "topic_vi": "Kỳ nghỉ và khách sạn",
+ "can_do_vi": [
+  "Hỏi thông tin ở khách sạn",
+  "Kể về kỳ nghỉ đã qua và viết bưu thiếp"
+ ],
+ "grammar_note_vi": "Kể kỳ nghỉ dùng thì quá khứ: \"We stayed in a hotel. We went sightseeing.\" Hỏi: \"Did you have a good time?\" – \"Yes, I did!\" / \"No, I didn't.\"",
+ "items": [
+  {
+   "id": "L4U05-W01",
+   "type": "word",
+   "en": "reception",
+   "vi": "quầy lễ tân",
+   "ipa": "/rɪˈsɛpʃən/",
+   "syllables": [
+    "re",
+    "cep",
+    "tion"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6CE-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U05",
+   "example_en": "Ask at reception for a map.",
+   "example_vi": "Hỏi quầy lễ tân để xin bản đồ nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W02",
+   "type": "word",
+   "en": "receptionist",
+   "vi": "nhân viên lễ tân",
+   "ipa": "/rɪˈsɛpʃənɪst/",
+   "syllables": [
+    "re",
+    "cep",
+    "tion",
+    "ist"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F481"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The receptionist gave us our keys.",
+   "example_vi": "Nhân viên lễ tân đưa chìa khoá cho nhà tớ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W03",
+   "type": "phrase",
+   "en": "book a room",
+   "vi": "đặt phòng",
+   "ipa": "/bʊk ə rum/",
+   "syllables": [
+    "book",
+    "a",
+    "room"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4DE"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Mum booked a room by the sea.",
+   "example_vi": "Mẹ đặt một phòng cạnh biển.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W04",
+   "type": "phrase",
+   "en": "double room",
+   "vi": "phòng đôi",
+   "ipa": "/ˈdʌbəl rum/",
+   "syllables": [
+    "dou",
+    "ble",
+    "room"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We stayed in a double room.",
+   "example_vi": "Nhà tớ ở phòng đôi.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W05",
+   "type": "phrase",
+   "en": "key card",
+   "vi": "thẻ phòng",
+   "ipa": "/ki kɑrd/",
+   "syllables": [
+    "key",
+    "card"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F511"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Don't lose your key card.",
+   "example_vi": "Đừng làm mất thẻ phòng nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W06",
+   "type": "word",
+   "en": "sightseeing",
+   "vi": "đi tham quan",
+   "ipa": "/ˈsaɪtˈsiɪŋ/",
+   "syllables": [
+    "sightseeing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4F8"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We went sightseeing in the old town.",
+   "example_vi": "Nhà tớ đi tham quan phố cổ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W07",
+   "type": "word",
+   "en": "souvenir",
+   "vi": "quà lưu niệm",
+   "ipa": "/ˌsuvəˈnɪr/",
+   "syllables": [
+    "souvenir"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "I bought a souvenir for my friend.",
+   "example_vi": "Tớ mua quà lưu niệm cho bạn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W08",
+   "type": "word",
+   "en": "postcard",
+   "vi": "bưu thiếp",
+   "ipa": "/ˈpoʊˌskɑrd/",
+   "syllables": [
+    "post",
+    "card"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4EE"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "I sent a postcard to Grandma.",
+   "example_vi": "Tớ gửi bưu thiếp cho bà.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W09",
+   "type": "word",
+   "en": "sunscreen",
+   "vi": "kem chống nắng",
+   "ipa": "/ˈsʌnskrin/",
+   "syllables": [
+    "sun",
+    "screen"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F4"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Put on sunscreen at the beach.",
+   "example_vi": "Bôi kem chống nắng khi ra biển nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W10",
+   "type": "word",
+   "en": "sunbathe",
+   "vi": "tắm nắng",
+   "ipa": "/ˈsʌnˌbeɪð/",
+   "syllables": [
+    "sun",
+    "bathe"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F60E"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Mum likes to sunbathe by the pool.",
+   "example_vi": "Mẹ thích tắm nắng cạnh bể bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W11",
+   "type": "word",
+   "en": "sandcastle",
+   "vi": "lâu đài cát",
+   "ipa": "/sandcastle/",
+   "syllables": [
+    "sandcastle"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3F0"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We made a big sandcastle.",
+   "example_vi": "Bọn tớ đắp một lâu đài cát to.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W12",
+   "type": "word",
+   "en": "resort",
+   "vi": "khu nghỉ dưỡng",
+   "ipa": "/rɪˈzɔrt/",
+   "syllables": [
+    "re",
+    "sort"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3DD-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The resort has three pools.",
+   "example_vi": "Khu nghỉ dưỡng có ba bể bơi.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W13",
+   "type": "word",
+   "en": "campsite",
+   "vi": "khu cắm trại",
+   "ipa": "/ˈkæmpˌsaɪt/",
+   "syllables": [
+    "camp",
+    "site"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D5-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The campsite is near a lake.",
+   "example_vi": "Khu cắm trại gần hồ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W14",
+   "type": "word",
+   "en": "balcony",
+   "vi": "ban công",
+   "ipa": "/ˈbælkəni/",
+   "syllables": [
+    "balcony"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3E2"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We had breakfast on the balcony.",
+   "example_vi": "Nhà tớ ăn sáng ngoài ban công.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W15",
+   "type": "word",
+   "en": "buffet",
+   "vi": "tiệc tự chọn",
+   "ipa": "/ˈbʌfət/",
+   "syllables": [
+    "buf",
+    "fet"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F371"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The hotel has a big breakfast buffet.",
+   "example_vi": "Khách sạn có tiệc buffet sáng lớn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W16",
+   "type": "word",
+   "en": "tour",
+   "vi": "chuyến tham quan",
+   "ipa": "/tʊr/",
+   "syllables": [
+    "tour"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F68C"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We went on a boat tour.",
+   "example_vi": "Nhà tớ đi tham quan bằng thuyền.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W17",
+   "type": "word",
+   "en": "gallery",
+   "vi": "phòng tranh",
+   "ipa": "/ˈɡæləri/",
+   "syllables": [
+    "gallery"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "There are beautiful paintings in the gallery.",
+   "example_vi": "Phòng tranh có nhiều bức tranh đẹp.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W18",
+   "type": "phrase",
+   "en": "old town",
+   "vi": "phố cổ",
+   "ipa": "/oʊld taʊn/",
+   "syllables": [
+    "old",
+    "town"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3D8-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The old town has narrow streets.",
+   "example_vi": "Phố cổ có những con phố hẹp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W19",
+   "type": "word",
+   "en": "local",
+   "vi": "địa phương",
+   "ipa": "/ˈloʊkəl/",
+   "syllables": [
+    "lo",
+    "cal"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We tried the local food.",
+   "example_vi": "Nhà tớ ăn thử món ăn địa phương.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W20",
+   "type": "word",
+   "en": "relaxing",
+   "vi": "thư thái",
+   "ipa": "/rɪˈlæksɪŋ/",
+   "syllables": [
+    "re",
+    "lax",
+    "ing"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F6C0"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The beach holiday was very relaxing.",
+   "example_vi": "Kỳ nghỉ ở biển rất thư thái.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W21",
+   "type": "word",
+   "en": "peaceful",
+   "vi": "yên bình",
+   "ipa": "/ˈpisfəl/",
+   "syllables": [
+    "peace",
+    "ful"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The village is quiet and peaceful.",
+   "example_vi": "Ngôi làng yên tĩnh và thanh bình.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W22",
+   "type": "word",
+   "en": "snorkelling",
+   "vi": "lặn ngắm san hô",
+   "ipa": "/snorkellinɡ/",
+   "syllables": [
+    "snorkelling"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F93F"
+   },
+   "picturable": true,
+   "cat": "L4U05",
+   "example_en": "We saw colourful fish when we went snorkelling.",
+   "example_vi": "Bọn tớ thấy cá nhiều màu khi đi lặn.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W23",
+   "type": "word",
+   "en": "diving",
+   "vi": "lặn biển",
+   "ipa": "/ˈdaɪvɪŋ/",
+   "syllables": [
+    "div",
+    "ing"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F93F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "My uncle loves diving.",
+   "example_vi": "Chú tớ rất mê lặn biển.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W24",
+   "type": "word",
+   "en": "kayak",
+   "vi": "thuyền kayak",
+   "ipa": "/kaɪæk/",
+   "syllables": [
+    "kayak"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F6F6"
+   },
+   "picturable": true,
+   "cat": "L4U05",
+   "example_en": "We went in a kayak on the river.",
+   "example_vi": "Nhà tớ chèo thuyền kayak trên sông.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W25",
+   "type": "word",
+   "en": "sunburn",
+   "vi": "cháy nắng",
+   "ipa": "/ˈsʌnˌbərn/",
+   "syllables": [
+    "sun",
+    "burn"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F975"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Wear a hat, or you will get sunburn.",
+   "example_vi": "Đội mũ vào, không sẽ bị cháy nắng đấy.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W26",
+   "type": "word",
+   "en": "flip-flops",
+   "vi": "dép tông",
+   "ipa": "/flɪp flɑps/",
+   "syllables": [
+    "flip-flops"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1FA74"
+   },
+   "picturable": true,
+   "cat": "L4U05",
+   "example_en": "I wear flip-flops on the beach.",
+   "example_vi": "Tớ đi dép tông trên bãi biển.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W27",
+   "type": "word",
+   "en": "sunhat",
+   "vi": "mũ chống nắng",
+   "ipa": "/sunhat/",
+   "syllables": [
+    "sunhat"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F452"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Don't forget your sunhat.",
+   "example_vi": "Đừng quên mũ chống nắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W28",
+   "type": "word",
+   "en": "enjoy",
+   "vi": "thích thú, tận hưởng",
+   "ipa": "/ˌɛnˈdʒɔɪ/",
+   "syllables": [
+    "en",
+    "joy"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F60A"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "I enjoyed the boat trip.",
+   "example_vi": "Tớ rất thích chuyến đi thuyền.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W29",
+   "type": "word",
+   "en": "relax",
+   "vi": "thư giãn",
+   "ipa": "/rɪˈlæks/",
+   "syllables": [
+    "re",
+    "lax"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F60C"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Let's relax on the beach.",
+   "example_vi": "Mình thư giãn trên bãi biển nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W30",
+   "type": "word",
+   "en": "memory",
+   "vi": "kỷ niệm",
+   "ipa": "/ˈmɛməri/",
+   "syllables": [
+    "mem",
+    "o",
+    "ry"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "That holiday is my best memory.",
+   "example_vi": "Kỳ nghỉ đó là kỷ niệm đẹp nhất của tớ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W31",
+   "type": "word",
+   "en": "album",
+   "vi": "cuốn album",
+   "ipa": "/ˈælbəm/",
+   "syllables": [
+    "al",
+    "bum"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4D4"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Let's put the photos in an album.",
+   "example_vi": "Mình cho ảnh vào album nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W32",
+   "type": "word",
+   "en": "amazing",
+   "vi": "tuyệt vời",
+   "ipa": "/əˈmeɪzɪŋ/",
+   "syllables": [
+    "amazing"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F929"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The view from the balcony was amazing.",
+   "example_vi": "Cảnh nhìn từ ban công thật tuyệt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W33",
+   "type": "word",
+   "en": "awful",
+   "vi": "kinh khủng",
+   "ipa": "/ˈɔfəl/",
+   "syllables": [
+    "aw",
+    "ful"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F616"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The weather was awful. It rained every day.",
+   "example_vi": "Thời tiết kinh khủng. Ngày nào cũng mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W34",
+   "type": "word",
+   "en": "excellent",
+   "vi": "xuất sắc",
+   "ipa": "/ˈɛksələnt/",
+   "syllables": [
+    "ex",
+    "cel",
+    "lent"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The food at the hotel was excellent.",
+   "example_vi": "Đồ ăn ở khách sạn rất tuyệt.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W35",
+   "type": "word",
+   "en": "lovely",
+   "vi": "dễ thương, đáng yêu",
+   "ipa": "/ˈlʌvli/",
+   "syllables": [
+    "love",
+    "ly"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F970"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "What a lovely room!",
+   "example_vi": "Căn phòng dễ thương quá!",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W36",
+   "type": "phrase",
+   "en": "check out",
+   "vi": "trả phòng",
+   "ipa": "/tʃɛk aʊt/",
+   "syllables": [
+    "check",
+    "out"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6CE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We check out at twelve o'clock.",
+   "example_vi": "Nhà tớ trả phòng lúc mười hai giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W37",
+   "type": "word",
+   "en": "brilliant",
+   "vi": "tuyệt vời",
+   "ipa": "/ˈbrɪljənt/",
+   "syllables": [
+    "bril",
+    "liant"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "2728"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "We had a brilliant time!",
+   "example_vi": "Bọn tớ đã có khoảng thời gian tuyệt vời!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W38",
+   "type": "word",
+   "en": "visitor",
+   "vi": "du khách",
+   "ipa": "/ˈvɪzɪtər/",
+   "syllables": [
+    "vis",
+    "i",
+    "tor"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The museum has many visitors.",
+   "example_vi": "Bảo tàng có nhiều du khách.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W39",
+   "type": "word",
+   "en": "cliff",
+   "vi": "vách đá",
+   "ipa": "/klɪf/",
+   "syllables": [
+    "cliff"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3D4-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "Don't go near the cliff.",
+   "example_vi": "Đừng lại gần vách đá.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W40",
+   "type": "word",
+   "en": "lighthouse",
+   "vi": "ngọn hải đăng",
+   "ipa": "/ˈlaɪˌthaʊs/",
+   "syllables": [
+    "light",
+    "house"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F30A"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "The lighthouse is on the island.",
+   "example_vi": "Ngọn hải đăng ở trên đảo.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W41",
+   "type": "word",
+   "en": "harbour",
+   "vi": "bến cảng",
+   "ipa": "/ˈhɑrbər/",
+   "syllables": [
+    "har",
+    "bour"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "2693"
+   },
+   "picturable": true,
+   "cat": "L4U05",
+   "example_en": "There are many boats in the harbour.",
+   "example_vi": "Bến cảng có nhiều thuyền.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U05-W42",
+   "type": "phrase",
+   "en": "palm tree",
+   "vi": "cây cọ",
+   "ipa": "/pɑm tri/",
+   "syllables": [
+    "palm",
+    "tree"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F334"
+   },
+   "picturable": false,
+   "cat": "L4U05",
+   "example_en": "There are palm trees on the beach.",
+   "example_vi": "Trên bãi biển có những cây cọ.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U05-P01",
+   "en": "We stayed in a {x}.",
+   "vi": "Nhà tớ ở {x}.",
+   "slots": {
+    "x": [
+     "hotel",
+     "resort",
+     "campsite",
+     "double room"
+    ]
+   }
+  },
+  {
+   "id": "L4U05-P02",
+   "en": "We went {x}.",
+   "vi": "Nhà tớ đã đi {x}.",
+   "slots": {
+    "x": [
+     "sightseeing",
+     "snorkelling",
+     "diving",
+     "swimming"
+    ]
+   }
+  },
+  {
+   "id": "L4U05-P03",
+   "en": "The holiday was {x}!",
+   "vi": "Kỳ nghỉ thật {x}!",
+   "slots": {
+    "x": [
+     "amazing",
+     "brilliant",
+     "relaxing",
+     "awful"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U05-D01",
+   "title_vi": "Ở quầy lễ tân",
+   "roles": [
+    "Receptionist",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Receptionist",
+     "en": "Good afternoon! Welcome to Sunny Hotel.",
+     "vi": "Chào buổi chiều! Chào mừng đến khách sạn Sunny."
+    },
+    {
+     "role": "Kid",
+     "en": "Hello. My mum booked a double room.",
+     "vi": "Cháu chào cô. Mẹ cháu đã đặt một phòng đôi."
+    },
+    {
+     "role": "Receptionist",
+     "en": "Here is your key card. Your room is on the fifth floor.",
+     "vi": "Thẻ phòng đây. Phòng ở tầng năm."
+    },
+    {
+     "role": "Kid",
+     "en": "Does the room have a balcony?",
+     "vi": "Phòng có ban công không ạ?"
+    },
+    {
+     "role": "Receptionist",
+     "en": "Yes, with a lovely view of the sea.",
+     "vi": "Có, nhìn ra biển rất đẹp."
+    },
+    {
+     "role": "Kid",
+     "en": "What time is breakfast?",
+     "vi": "Bữa sáng lúc mấy giờ ạ?"
+    },
+    {
+     "role": "Receptionist",
+     "en": "From seven to ten, in the restaurant.",
+     "vi": "Từ bảy đến mười giờ, ở nhà hàng."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you very much!",
+     "vi": "Cháu cảm ơn cô!"
+    }
+   ]
+  },
+  {
+   "id": "L4U05-D02",
+   "title_vi": "Kỳ nghỉ của cậu",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Did you have a good holiday?",
+     "vi": "Kỳ nghỉ của cậu vui không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! We went to the beach. It was brilliant.",
+     "vi": "Vui lắm! Nhà tớ đi biển. Tuyệt lắm."
+    },
+    {
+     "role": "Bi",
+     "en": "What did you do there?",
+     "vi": "Cậu đã làm gì ở đó?"
+    },
+    {
+     "role": "Kid",
+     "en": "I went snorkelling and made sandcastles.",
+     "vi": "Tớ đi lặn và đắp lâu đài cát."
+    },
+    {
+     "role": "Bi",
+     "en": "Did you get sunburn?",
+     "vi": "Cậu có bị cháy nắng không?"
+    },
+    {
+     "role": "Kid",
+     "en": "No, I wore sunscreen and a sunhat!",
+     "vi": "Không, tớ bôi kem chống nắng và đội mũ!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "beach",
+    "options": [
+     "island",
+     "lake"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "reception"
+  },
+  {
+   "type": "dictate_word",
+   "target": "receptionist"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sightseeing"
+  },
+  {
+   "type": "dictate_word",
+   "target": "souvenir"
+  },
+  {
+   "type": "dictate_word",
+   "target": "postcard"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sunscreen"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sunbathe"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sandcastle"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Ask at reception for a map."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The receptionist gave us our keys."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Mum booked a room by the sea."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Dear|We are staying in|Yesterday we"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U05-R01",
+   "title_en": "Holiday postcard",
+   "text_en": [
+    "Dear Grandma, We are having a lovely holiday at the beach.",
+    "Our hotel is next to the sea, and our room has a balcony.",
+    "Every morning, we eat breakfast at the buffet.",
+    "Yesterday, we went on a boat tour to an island with a lighthouse.",
+    "I went snorkelling and saw colourful fish.",
+    "Today, Dad got sunburn because he forgot his sunscreen!",
+    "I bought a souvenir for you.",
+    "See you next week.",
+    "Love, Mai."
+   ],
+   "questions": [
+    {
+     "q": "Where is Mai's hotel?",
+     "options": [
+      "Next to the sea.",
+      "In the mountains.",
+      "In the city."
+     ],
+     "answer": "Next to the sea."
+    },
+    {
+     "q": "What did Mai see when she went snorkelling?",
+     "options": [
+      "Colourful fish.",
+      "A lighthouse.",
+      "A shark."
+     ],
+     "answer": "Colourful fish."
+    },
+    {
+     "q": "Why did Dad get sunburn?",
+     "options": [
+      "He forgot his sunscreen.",
+      "He went diving.",
+      "He slept on the balcony."
+     ],
+     "answer": "He forgot his sunscreen."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "reception",
+   "item": "reception",
+   "options": [
+    "reception",
+    "snorkelling",
+    "harbour",
+    "flip-flops"
+   ],
+   "answer": "reception"
+  },
+  {
+   "id": "L4U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "snorkelling",
+   "item": "snorkelling",
+   "options": [
+    "kayak",
+    "snorkelling",
+    "flip-flops",
+    "reception"
+   ],
+   "answer": "snorkelling"
+  },
+  {
+   "id": "L4U05-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "kayak",
+   "item": "kayak",
+   "options": [
+    "reception",
+    "flip-flops",
+    "kayak",
+    "snorkelling"
+   ],
+   "answer": "kayak"
+  },
+  {
+   "id": "L4U05-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "flip-flops",
+   "item": "flip-flops",
+   "options": [
+    "kayak",
+    "reception",
+    "flip-flops",
+    "harbour"
+   ],
+   "answer": "flip-flops"
+  },
+  {
+   "id": "L4U05-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "harbour",
+   "item": "harbour",
+   "options": [
+    "harbour",
+    "reception",
+    "kayak",
+    "snorkelling"
+   ],
+   "answer": "harbour"
+  },
+  {
+   "id": "L4U05-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "receptionist",
+   "item": "receptionist",
+   "options": [
+    "receptionist",
+    "brilliant",
+    "check out",
+    "sunburn"
+   ],
+   "answer": "receptionist"
+  },
+  {
+   "id": "L4U05-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "book a room",
+   "item": "book a room",
+   "options": [
+    "book a room",
+    "cliff",
+    "double room",
+    "sunhat"
+   ],
+   "answer": "book a room"
+  },
+  {
+   "id": "L4U05-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "double room",
+   "item": "double room",
+   "options": [
+    "double room",
+    "peaceful",
+    "campsite",
+    "kayak"
+   ],
+   "answer": "double room"
+  },
+  {
+   "id": "L4U05-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "key card",
+   "item": "key card",
+   "options": [
+    "reception",
+    "sandcastle",
+    "excellent",
+    "key card"
+   ],
+   "answer": "key card"
+  },
+  {
+   "id": "L4U05-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sightseeing",
+   "item": "sightseeing",
+   "options": [
+    "book a room",
+    "album",
+    "sightseeing",
+    "snorkelling"
+   ],
+   "answer": "sightseeing"
+  },
+  {
+   "id": "L4U05-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "souvenir",
+   "item": "souvenir",
+   "options": [
+    "diving",
+    "souvenir",
+    "snorkelling",
+    "postcard"
+   ],
+   "answer": "souvenir"
+  },
+  {
+   "id": "L4U05-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "postcard",
+   "item": "postcard",
+   "options": [
+    "postcard",
+    "sandcastle",
+    "awful",
+    "peaceful"
+   ],
+   "answer": "postcard"
+  },
+  {
+   "id": "L4U05-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunscreen",
+   "item": "sunscreen",
+   "options": [
+    "lighthouse",
+    "souvenir",
+    "sunbathe",
+    "sunscreen"
+   ],
+   "answer": "sunscreen"
+  },
+  {
+   "id": "L4U05-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunbathe",
+   "item": "sunbathe",
+   "options": [
+    "kayak",
+    "amazing",
+    "sunbathe",
+    "sunburn"
+   ],
+   "answer": "sunbathe"
+  },
+  {
+   "id": "L4U05-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sandcastle",
+   "item": "sandcastle",
+   "options": [
+    "sunhat",
+    "sandcastle",
+    "visitor",
+    "reception"
+   ],
+   "answer": "sandcastle"
+  },
+  {
+   "id": "L4U05-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "resort",
+   "item": "resort",
+   "options": [
+    "book a room",
+    "resort",
+    "sunscreen",
+    "cliff"
+   ],
+   "answer": "resort"
+  },
+  {
+   "id": "L4U05-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "campsite",
+   "item": "campsite",
+   "options": [
+    "sunbathe",
+    "awful",
+    "old town",
+    "campsite"
+   ],
+   "answer": "campsite"
+  },
+  {
+   "id": "L4U05-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "balcony",
+   "item": "balcony",
+   "options": [
+    "buffet",
+    "reception",
+    "balcony",
+    "album"
+   ],
+   "answer": "balcony"
+  },
+  {
+   "id": "L4U05-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "buffet",
+   "item": "buffet",
+   "options": [
+    "harbour",
+    "sunbathe",
+    "buffet",
+    "diving"
+   ],
+   "answer": "buffet"
+  },
+  {
+   "id": "L4U05-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tour",
+   "item": "tour",
+   "options": [
+    "tour",
+    "sightseeing",
+    "souvenir",
+    "book a room"
+   ],
+   "answer": "tour"
+  },
+  {
+   "id": "L4U05-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gallery",
+   "item": "gallery",
+   "options": [
+    "amazing",
+    "awful",
+    "gallery",
+    "visitor"
+   ],
+   "answer": "gallery"
+  },
+  {
+   "id": "L4U05-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "old town",
+   "item": "old town",
+   "options": [
+    "old town",
+    "resort",
+    "gallery",
+    "reception"
+   ],
+   "answer": "old town"
+  },
+  {
+   "id": "L4U05-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "local",
+   "item": "local",
+   "options": [
+    "souvenir",
+    "local",
+    "awful",
+    "receptionist"
+   ],
+   "answer": "local"
+  },
+  {
+   "id": "L4U05-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "relaxing",
+   "item": "relaxing",
+   "options": [
+    "relaxing",
+    "visitor",
+    "resort",
+    "check out"
+   ],
+   "answer": "relaxing"
+  },
+  {
+   "id": "L4U05-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "peaceful",
+   "item": "peaceful",
+   "options": [
+    "peaceful",
+    "reception",
+    "book a room",
+    "buffet"
+   ],
+   "answer": "peaceful"
+  },
+  {
+   "id": "L4U05-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "diving",
+   "item": "diving",
+   "options": [
+    "visitor",
+    "enjoy",
+    "diving",
+    "double room"
+   ],
+   "answer": "diving"
+  },
+  {
+   "id": "L4U05-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunburn",
+   "item": "sunburn",
+   "options": [
+    "sunburn",
+    "sightseeing",
+    "resort",
+    "reception"
+   ],
+   "answer": "sunburn"
+  },
+  {
+   "id": "L4U05-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sunhat",
+   "item": "sunhat",
+   "options": [
+    "sunhat",
+    "campsite",
+    "memory",
+    "gallery"
+   ],
+   "answer": "sunhat"
+  },
+  {
+   "id": "L4U05-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "enjoy",
+   "item": "enjoy",
+   "options": [
+    "receptionist",
+    "gallery",
+    "enjoy",
+    "snorkelling"
+   ],
+   "answer": "enjoy"
+  },
+  {
+   "id": "L4U05-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "relax",
+   "item": "relax",
+   "options": [
+    "balcony",
+    "relax",
+    "amazing",
+    "cliff"
+   ],
+   "answer": "relax"
+  },
+  {
+   "id": "L4U05-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "memory",
+   "item": "memory",
+   "options": [
+    "awful",
+    "memory",
+    "excellent",
+    "buffet"
+   ],
+   "answer": "memory"
+  },
+  {
+   "id": "L4U05-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "album",
+   "item": "album",
+   "options": [
+    "sunhat",
+    "souvenir",
+    "album",
+    "lighthouse"
+   ],
+   "answer": "album"
+  },
+  {
+   "id": "L4U05-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "amazing",
+   "item": "amazing",
+   "options": [
+    "memory",
+    "relaxing",
+    "amazing",
+    "postcard"
+   ],
+   "answer": "amazing"
+  },
+  {
+   "id": "L4U05-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "awful",
+   "item": "awful",
+   "options": [
+    "sunbathe",
+    "brilliant",
+    "awful",
+    "sunhat"
+   ],
+   "answer": "awful"
+  },
+  {
+   "id": "L4U05-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "excellent",
+   "item": "excellent",
+   "options": [
+    "campsite",
+    "gallery",
+    "excellent",
+    "sunhat"
+   ],
+   "answer": "excellent"
+  },
+  {
+   "id": "L4U05-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lovely",
+   "item": "lovely",
+   "options": [
+    "sightseeing",
+    "lovely",
+    "sunbathe",
+    "check out"
+   ],
+   "answer": "lovely"
+  },
+  {
+   "id": "L4U05-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "check out",
+   "item": "check out",
+   "options": [
+    "sunburn",
+    "campsite",
+    "check out",
+    "balcony"
+   ],
+   "answer": "check out"
+  },
+  {
+   "id": "L4U05-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "brilliant",
+   "item": "brilliant",
+   "options": [
+    "brilliant",
+    "relax",
+    "sunscreen",
+    "diving"
+   ],
+   "answer": "brilliant"
+  },
+  {
+   "id": "L4U05-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "visitor",
+   "item": "visitor",
+   "options": [
+    "excellent",
+    "visitor",
+    "tour",
+    "sandcastle"
+   ],
+   "answer": "visitor"
+  },
+  {
+   "id": "L4U05-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cliff",
+   "item": "cliff",
+   "options": [
+    "gallery",
+    "cliff",
+    "check out",
+    "album"
+   ],
+   "answer": "cliff"
+  },
+  {
+   "id": "L4U05-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lighthouse",
+   "item": "lighthouse",
+   "options": [
+    "enjoy",
+    "lighthouse",
+    "sunbathe",
+    "lovely"
+   ],
+   "answer": "lighthouse"
+  },
+  {
+   "id": "L4U05-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "palm tree",
+   "item": "palm tree",
+   "options": [
+    "local",
+    "palm tree",
+    "sunburn",
+    "sunhat"
+   ],
+   "answer": "palm tree"
+  },
+  {
+   "id": "L4U05-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "reception",
+   "answer": "reception"
+  },
+  {
+   "id": "L4U05-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "snorkelling",
+   "answer": "snorkelling"
+  },
+  {
+   "id": "L4U05-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "kayak",
+   "answer": "kayak"
+  },
+  {
+   "id": "L4U05-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "flip-flops",
+   "answer": "flip-flops"
+  },
+  {
+   "id": "L4U05-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "harbour",
+   "answer": "harbour"
+  },
+  {
+   "id": "L4U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Ask at reception for a map.",
+   "item": "reception",
+   "answer": "Ask at reception for a map."
+  },
+  {
+   "id": "L4U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The receptionist gave us our keys.",
+   "item": "receptionist",
+   "answer": "The receptionist gave us our keys."
+  },
+  {
+   "id": "L4U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum booked a room by the sea.",
+   "item": "book a room",
+   "answer": "Mum booked a room by the sea."
+  },
+  {
+   "id": "L4U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We stayed in a double room.",
+   "item": "double room",
+   "answer": "We stayed in a double room."
+  },
+  {
+   "id": "L4U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't lose your key card.",
+   "item": "key card",
+   "answer": "Don't lose your key card."
+  },
+  {
+   "id": "L4U05-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went sightseeing in the old town.",
+   "item": "sightseeing",
+   "answer": "We went sightseeing in the old town."
+  },
+  {
+   "id": "L4U05-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I bought a souvenir for my friend.",
+   "item": "souvenir",
+   "answer": "I bought a souvenir for my friend."
+  },
+  {
+   "id": "L4U05-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I sent a postcard to Grandma.",
+   "item": "postcard",
+   "answer": "I sent a postcard to Grandma."
+  },
+  {
+   "id": "L4U05-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on sunscreen at the beach.",
+   "item": "sunscreen",
+   "answer": "Put on sunscreen at the beach."
+  },
+  {
+   "id": "L4U05-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum likes to sunbathe by the pool.",
+   "item": "sunbathe",
+   "answer": "Mum likes to sunbathe by the pool."
+  },
+  {
+   "id": "L4U05-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We made a big sandcastle.",
+   "item": "sandcastle",
+   "answer": "We made a big sandcastle."
+  },
+  {
+   "id": "L4U05-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The resort has three pools.",
+   "item": "resort",
+   "answer": "The resort has three pools."
+  },
+  {
+   "id": "L4U05-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The campsite is near a lake.",
+   "item": "campsite",
+   "answer": "The campsite is near a lake."
+  },
+  {
+   "id": "L4U05-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had breakfast on the balcony.",
+   "item": "balcony",
+   "answer": "We had breakfast on the balcony."
+  },
+  {
+   "id": "L4U05-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hotel has a big breakfast buffet.",
+   "item": "buffet",
+   "answer": "The hotel has a big breakfast buffet."
+  },
+  {
+   "id": "L4U05-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went on a boat tour.",
+   "item": "tour",
+   "answer": "We went on a boat tour."
+  },
+  {
+   "id": "L4U05-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are beautiful paintings in the gallery.",
+   "item": "gallery",
+   "answer": "There are beautiful paintings in the gallery."
+  },
+  {
+   "id": "L4U05-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The old town has narrow streets.",
+   "item": "old town",
+   "answer": "The old town has narrow streets."
+  },
+  {
+   "id": "L4U05-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We tried the local food.",
+   "item": "local",
+   "answer": "We tried the local food."
+  },
+  {
+   "id": "L4U05-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The beach holiday was very relaxing.",
+   "item": "relaxing",
+   "answer": "The beach holiday was very relaxing."
+  },
+  {
+   "id": "L4U05-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The village is quiet and peaceful.",
+   "item": "peaceful",
+   "answer": "The village is quiet and peaceful."
+  },
+  {
+   "id": "L4U05-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We saw colourful fish when we went snorkelling.",
+   "item": "snorkelling",
+   "answer": "We saw colourful fish when we went snorkelling."
+  },
+  {
+   "id": "L4U05-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle loves diving.",
+   "item": "diving",
+   "answer": "My uncle loves diving."
+  },
+  {
+   "id": "L4U05-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went in a kayak on the river.",
+   "item": "kayak",
+   "answer": "We went in a kayak on the river."
+  },
+  {
+   "id": "L4U05-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wear a hat, or you will get sunburn.",
+   "item": "sunburn",
+   "answer": "Wear a hat, or you will get sunburn."
+  },
+  {
+   "id": "L4U05-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wear flip-flops on the beach.",
+   "item": "flip-flops",
+   "answer": "I wear flip-flops on the beach."
+  },
+  {
+   "id": "L4U05-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't forget your sunhat.",
+   "item": "sunhat",
+   "answer": "Don't forget your sunhat."
+  },
+  {
+   "id": "L4U05-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I enjoyed the boat trip.",
+   "item": "enjoy",
+   "answer": "I enjoyed the boat trip."
+  },
+  {
+   "id": "L4U05-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's relax on the beach.",
+   "item": "relax",
+   "answer": "Let's relax on the beach."
+  },
+  {
+   "id": "L4U05-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "That holiday is my best memory.",
+   "item": "memory",
+   "answer": "That holiday is my best memory."
+  },
+  {
+   "id": "L4U05-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's put the photos in an album.",
+   "item": "album",
+   "answer": "Let's put the photos in an album."
+  },
+  {
+   "id": "L4U05-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The view from the balcony was amazing.",
+   "item": "amazing",
+   "answer": "The view from the balcony was amazing."
+  },
+  {
+   "id": "L4U05-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The weather was awful. It rained every day.",
+   "item": "awful",
+   "answer": "The weather was awful. It rained every day."
+  },
+  {
+   "id": "L4U05-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The food at the hotel was excellent.",
+   "item": "excellent",
+   "answer": "The food at the hotel was excellent."
+  },
+  {
+   "id": "L4U05-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What a lovely room!",
+   "item": "lovely",
+   "answer": "What a lovely room!"
+  },
+  {
+   "id": "L4U05-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We check out at twelve o'clock.",
+   "item": "check out",
+   "answer": "We check out at twelve o'clock."
+  },
+  {
+   "id": "L4U05-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We had a brilliant time!",
+   "item": "brilliant",
+   "answer": "We had a brilliant time!"
+  },
+  {
+   "id": "L4U05-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The museum has many visitors.",
+   "item": "visitor",
+   "answer": "The museum has many visitors."
+  },
+  {
+   "id": "L4U05-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't go near the cliff.",
+   "item": "cliff",
+   "answer": "Don't go near the cliff."
+  },
+  {
+   "id": "L4U05-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The lighthouse is on the island.",
+   "item": "lighthouse",
+   "answer": "The lighthouse is on the island."
+  },
+  {
+   "id": "L4U05-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are many boats in the harbour.",
+   "item": "harbour",
+   "answer": "There are many boats in the harbour."
+  },
+  {
+   "id": "L4U05-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are palm trees on the beach.",
+   "item": "palm tree",
+   "answer": "There are palm trees on the beach."
+  },
+  {
+   "id": "L4U05-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We stayed in a hotel.",
+   "answer": "We stayed in a hotel."
+  },
+  {
+   "id": "L4U05-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We stayed in a resort.",
+   "answer": "We stayed in a resort."
+  },
+  {
+   "id": "L4U05-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We stayed in a campsite.",
+   "answer": "We stayed in a campsite."
+  },
+  {
+   "id": "L4U05-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went sightseeing.",
+   "answer": "We went sightseeing."
+  },
+  {
+   "id": "L4U05-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went snorkelling.",
+   "answer": "We went snorkelling."
+  },
+  {
+   "id": "L4U05-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went diving.",
+   "answer": "We went diving."
+  },
+  {
+   "id": "L4U05-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The holiday was amazing!",
+   "answer": "The holiday was amazing!"
+  },
+  {
+   "id": "L4U05-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The holiday was brilliant!",
+   "answer": "The holiday was brilliant!"
+  },
+  {
+   "id": "L4U05-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The holiday was relaxing!",
+   "answer": "The holiday was relaxing!"
+  },
+  {
+   "id": "L4U05-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Does the room have a balcony?",
+   "answer": "Yes, with a lovely view of the sea."
+  },
+  {
+   "id": "L4U05-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What time is breakfast?",
+   "answer": "From seven to ten, in the restaurant."
+  },
+  {
+   "id": "L4U05-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Did you have a good holiday?",
+   "answer": "Yes! We went to the beach. It was brilliant."
+  },
+  {
+   "id": "L4U05-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What did you do there?",
+   "answer": "I went snorkelling and made sandcastles."
+  },
+  {
+   "id": "L4U05-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Did you get sunburn?",
+   "answer": "No, I wore sunscreen and a sunhat!"
+  },
+  {
+   "id": "L4U05-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "reception",
+   "options": [
+    "snorkelling",
+    "reception",
+    "harbour"
+   ],
+   "answer": "reception"
+  },
+  {
+   "id": "L4U05-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "snorkelling",
+   "options": [
+    "snorkelling",
+    "harbour",
+    "kayak"
+   ],
+   "answer": "snorkelling"
+  },
+  {
+   "id": "L4U05-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "kayak",
+   "options": [
+    "kayak",
+    "reception",
+    "flip-flops"
+   ],
+   "answer": "kayak"
+  },
+  {
+   "id": "L4U05-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "flip-flops",
+   "options": [
+    "snorkelling",
+    "harbour",
+    "flip-flops"
+   ],
+   "answer": "flip-flops"
+  },
+  {
+   "id": "L4U05-Q108",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "harbour",
+   "options": [
+    "snorkelling",
+    "harbour",
+    "kayak"
+   ],
+   "answer": "harbour"
+  },
+  {
+   "id": "L4U05-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Ask at ___ for a map.",
+   "item": "reception",
+   "options": [
+    "reception",
+    "resort",
+    "sunhat"
+   ],
+   "answer": "reception"
+  },
+  {
+   "id": "L4U05-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ gave us our keys.",
+   "item": "receptionist",
+   "options": [
+    "flip-flops",
+    "awful",
+    "receptionist"
+   ],
+   "answer": "receptionist"
+  },
+  {
+   "id": "L4U05-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went ___ in the old town.",
+   "item": "sightseeing",
+   "options": [
+    "balcony",
+    "sightseeing",
+    "gallery"
+   ],
+   "answer": "sightseeing"
+  },
+  {
+   "id": "L4U05-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I bought a ___ for my friend.",
+   "item": "souvenir",
+   "options": [
+    "awful",
+    "diving",
+    "souvenir"
+   ],
+   "answer": "souvenir"
+  },
+  {
+   "id": "L4U05-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I sent a ___ to Grandma.",
+   "item": "postcard",
+   "options": [
+    "postcard",
+    "tour",
+    "sunburn"
+   ],
+   "answer": "postcard"
+  },
+  {
+   "id": "L4U05-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on ___ at the beach.",
+   "item": "sunscreen",
+   "options": [
+    "sunscreen",
+    "sightseeing",
+    "sunbathe"
+   ],
+   "answer": "sunscreen"
+  },
+  {
+   "id": "L4U05-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Mum likes to ___ by the pool.",
+   "item": "sunbathe",
+   "options": [
+    "relaxing",
+    "sunscreen",
+    "sunbathe"
+   ],
+   "answer": "sunbathe"
+  },
+  {
+   "id": "L4U05-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We made a big ___.",
+   "item": "sandcastle",
+   "options": [
+    "buffet",
+    "sandcastle",
+    "local"
+   ],
+   "answer": "sandcastle"
+  },
+  {
+   "id": "L4U05-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has three pools.",
+   "item": "resort",
+   "options": [
+    "sunscreen",
+    "resort",
+    "relax"
+   ],
+   "answer": "resort"
+  },
+  {
+   "id": "L4U05-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is near a lake.",
+   "item": "campsite",
+   "options": [
+    "sandcastle",
+    "flip-flops",
+    "campsite"
+   ],
+   "answer": "campsite"
+  },
+  {
+   "id": "L4U05-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had breakfast on the ___.",
+   "item": "balcony",
+   "options": [
+    "balcony",
+    "sunscreen",
+    "snorkelling"
+   ],
+   "answer": "balcony"
+  },
+  {
+   "id": "L4U05-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The hotel has a big breakfast ___.",
+   "item": "buffet",
+   "options": [
+    "buffet",
+    "relax",
+    "awful"
+   ],
+   "answer": "buffet"
+  },
+  {
+   "id": "L4U05-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went on a boat ___.",
+   "item": "tour",
+   "options": [
+    "album",
+    "tour",
+    "balcony"
+   ],
+   "answer": "tour"
+  },
+  {
+   "id": "L4U05-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are beautiful paintings in the ___.",
+   "item": "gallery",
+   "options": [
+    "gallery",
+    "amazing",
+    "tour"
+   ],
+   "answer": "gallery"
+  },
+  {
+   "id": "L4U05-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We tried the ___ food.",
+   "item": "local",
+   "options": [
+    "enjoy",
+    "flip-flops",
+    "local"
+   ],
+   "answer": "local"
+  },
+  {
+   "id": "L4U05-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The beach holiday was very ___.",
+   "item": "relaxing",
+   "options": [
+    "relaxing",
+    "reception",
+    "receptionist"
+   ],
+   "answer": "relaxing"
+  },
+  {
+   "id": "L4U05-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The village is quiet and ___.",
+   "item": "peaceful",
+   "options": [
+    "peaceful",
+    "sandcastle",
+    "flip-flops"
+   ],
+   "answer": "peaceful"
+  },
+  {
+   "id": "L4U05-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We saw colourful fish when we went ___.",
+   "item": "snorkelling",
+   "options": [
+    "flip-flops",
+    "relaxing",
+    "snorkelling"
+   ],
+   "answer": "snorkelling"
+  },
+  {
+   "id": "L4U05-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle loves ___.",
+   "item": "diving",
+   "options": [
+    "diving",
+    "resort",
+    "album"
+   ],
+   "answer": "diving"
+  },
+  {
+   "id": "L4U05-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went in a ___ on the river.",
+   "item": "kayak",
+   "options": [
+    "sunscreen",
+    "relax",
+    "kayak"
+   ],
+   "answer": "kayak"
+  },
+  {
+   "id": "L4U05-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wear a hat, or you will get ___.",
+   "item": "sunburn",
+   "options": [
+    "lovely",
+    "receptionist",
+    "sunburn"
+   ],
+   "answer": "sunburn"
+  },
+  {
+   "id": "L4U05-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wear ___ on the beach.",
+   "item": "flip-flops",
+   "options": [
+    "tour",
+    "flip-flops",
+    "receptionist"
+   ],
+   "answer": "flip-flops"
+  },
+  {
+   "id": "L4U05-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't forget your ___.",
+   "item": "sunhat",
+   "options": [
+    "sunhat",
+    "reception",
+    "sunbathe"
+   ],
+   "answer": "sunhat"
+  },
+  {
+   "id": "L4U05-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ the boat trip.",
+   "item": "enjoy",
+   "options": [
+    "balconyed",
+    "enjoyed",
+    "visitored"
+   ],
+   "answer": "enjoyed"
+  },
+  {
+   "id": "L4U05-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ on the beach.",
+   "item": "relax",
+   "options": [
+    "lighthouse",
+    "relax",
+    "album"
+   ],
+   "answer": "relax"
+  },
+  {
+   "id": "L4U05-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "That holiday is my best ___.",
+   "item": "memory",
+   "options": [
+    "amazing",
+    "memory",
+    "lovely"
+   ],
+   "answer": "memory"
+  },
+  {
+   "id": "L4U05-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's put the photos in an ___.",
+   "item": "album",
+   "options": [
+    "peaceful",
+    "enjoy",
+    "album"
+   ],
+   "answer": "album"
+  },
+  {
+   "id": "L4U05-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The view from the balcony was ___.",
+   "item": "amazing",
+   "options": [
+    "amazing",
+    "visitor",
+    "campsite"
+   ],
+   "answer": "amazing"
+  },
+  {
+   "id": "L4U05-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The weather was ___. It rained every day.",
+   "item": "awful",
+   "options": [
+    "relax",
+    "memory",
+    "awful"
+   ],
+   "answer": "awful"
+  },
+  {
+   "id": "L4U05-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The food at the hotel was ___.",
+   "item": "excellent",
+   "options": [
+    "flip-flops",
+    "sunscreen",
+    "excellent"
+   ],
+   "answer": "excellent"
+  },
+  {
+   "id": "L4U05-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What a ___ room!",
+   "item": "lovely",
+   "options": [
+    "amazing",
+    "buffet",
+    "lovely"
+   ],
+   "answer": "lovely"
+  },
+  {
+   "id": "L4U05-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We had a ___ time!",
+   "item": "brilliant",
+   "options": [
+    "sightseeing",
+    "brilliant",
+    "awful"
+   ],
+   "answer": "brilliant"
+  },
+  {
+   "id": "L4U05-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The museum has many ___.",
+   "item": "visitor",
+   "options": [
+    "snorkellings",
+    "visitors",
+    "flip-flopses"
+   ],
+   "answer": "visitors"
+  },
+  {
+   "id": "L4U05-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't go near the ___.",
+   "item": "cliff",
+   "options": [
+    "cliff",
+    "relaxing",
+    "tour"
+   ],
+   "answer": "cliff"
+  },
+  {
+   "id": "L4U05-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is on the island.",
+   "item": "lighthouse",
+   "options": [
+    "lighthouse",
+    "sightseeing",
+    "excellent"
+   ],
+   "answer": "lighthouse"
+  },
+  {
+   "id": "L4U05-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are many boats in the ___.",
+   "item": "harbour",
+   "options": [
+    "harbour",
+    "relaxing",
+    "tour"
+   ],
+   "answer": "harbour"
+  },
+  {
+   "id": "L4U05-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Ask at reception for a map.",
+   "item": "reception",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U05-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We saw colourful fish when we went snorkelling.",
+   "item": "kayak",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U05-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We went in a kayak on the river.",
+   "item": "kayak",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U05-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I wear flip-flops on the beach.",
+   "item": "harbour",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U05-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There are many boats in the harbour.",
+   "item": "harbour",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U05-Q150",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U05-R01",
+   "text_en": "Where is Mai's hotel?",
+   "options": [
+    "In the city.",
+    "Next to the sea.",
+    "In the mountains."
+   ],
+   "answer": "Next to the sea."
+  },
+  {
+   "id": "L4U05-Q151",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U05-R01",
+   "text_en": "What did Mai see when she went snorkelling?",
+   "options": [
+    "Colourful fish.",
+    "A shark.",
+    "A lighthouse."
+   ],
+   "answer": "Colourful fish."
+  },
+  {
+   "id": "L4U05-Q152",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U05-R01",
+   "text_en": "Why did Dad get sunburn?",
+   "options": [
+    "He slept on the balcony.",
+    "He forgot his sunscreen.",
+    "He went diving."
+   ],
+   "answer": "He forgot his sunscreen."
+  },
+  {
+   "id": "L4U05-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "reception",
+   "item": "reception",
+   "answer": "reception"
+  },
+  {
+   "id": "L4U05-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "receptionist",
+   "item": "receptionist",
+   "answer": "receptionist"
+  },
+  {
+   "id": "L4U05-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sightseeing",
+   "item": "sightseeing",
+   "answer": "sightseeing"
+  },
+  {
+   "id": "L4U05-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "souvenir",
+   "item": "souvenir",
+   "answer": "souvenir"
+  },
+  {
+   "id": "L4U05-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "postcard",
+   "item": "postcard",
+   "answer": "postcard"
+  },
+  {
+   "id": "L4U05-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sunscreen",
+   "item": "sunscreen",
+   "answer": "sunscreen"
+  },
+  {
+   "id": "L4U05-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sunbathe",
+   "item": "sunbathe",
+   "answer": "sunbathe"
+  },
+  {
+   "id": "L4U05-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sandcastle",
+   "item": "sandcastle",
+   "answer": "sandcastle"
+  },
+  {
+   "id": "L4U05-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Ask at reception for a map.",
+   "answer": "Ask at reception for a map."
+  },
+  {
+   "id": "L4U05-Q162",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The receptionist gave us our keys.",
+   "answer": "The receptionist gave us our keys."
+  },
+  {
+   "id": "L4U05-Q163",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Mum booked a room by the sea.",
+   "answer": "Mum booked a room by the sea."
+  }
+ ]
+}

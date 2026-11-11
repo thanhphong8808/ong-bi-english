@@ -1,0 +1,3315 @@
+{
+ "id": "L5U08",
+ "level": 5,
+ "unit": 8,
+ "topic_en": "Art and music",
+ "topic_vi": "Nghệ thuật và âm nhạc",
+ "can_do_vi": [
+  "Nói về các loại hình nghệ thuật và nhạc cụ",
+  "Nói cảm nhận về một tác phẩm hay buổi biểu diễn"
+ ],
+ "grammar_note_vi": "Tính từ đuôi \"-ing\" tả sự vật (The concert was exciting.), đuôi \"-ed\" tả cảm xúc của người (I was excited.). Tương tự: interesting/interested, boring/bored.",
+ "items": [
+  {
+   "id": "L5U08-W01",
+   "type": "word",
+   "en": "painting",
+   "vi": "bức tranh",
+   "ipa": "/ˈpeɪnɪŋ/",
+   "syllables": [
+    "paint",
+    "ing"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F5BC-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "This painting shows a beautiful river.",
+   "example_vi": "Bức tranh này vẽ một dòng sông đẹp.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W02",
+   "type": "word",
+   "en": "sculpture",
+   "vi": "tác phẩm điêu khắc",
+   "ipa": "/ˈskʌlptʃər/",
+   "syllables": [
+    "sculp",
+    "ture"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F5FF"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "There is a stone sculpture in the park.",
+   "example_vi": "Có một tác phẩm điêu khắc bằng đá trong công viên.",
+   "pron_focus": [
+    "cluster",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W03",
+   "type": "word",
+   "en": "portrait",
+   "vi": "bức chân dung",
+   "ipa": "/ˈpɔrtrət/",
+   "syllables": [
+    "por",
+    "trait"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9D1-200D-1F3A8"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "I painted a portrait of my mum.",
+   "example_vi": "Tớ vẽ chân dung mẹ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W04",
+   "type": "word",
+   "en": "canvas",
+   "vi": "vải vẽ",
+   "ipa": "/ˈkænvəs/",
+   "syllables": [
+    "can",
+    "vas"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2B1C"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The artist paints on canvas.",
+   "example_vi": "Hoạ sĩ vẽ trên vải canvas.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W05",
+   "type": "word",
+   "en": "sketch",
+   "vi": "bản phác thảo",
+   "ipa": "/skɛtʃ/",
+   "syllables": [
+    "sketch"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "270F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "First, I make a quick sketch with a pencil.",
+   "example_vi": "Đầu tiên, tớ phác thảo nhanh bằng bút chì.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W06",
+   "type": "word",
+   "en": "design",
+   "vi": "thiết kế",
+   "ipa": "/dɪˈzaɪn/",
+   "syllables": [
+    "de",
+    "sign"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4D0"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "She designed a new poster for our club.",
+   "example_vi": "Bạn ấy thiết kế áp phích mới cho câu lạc bộ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W07",
+   "type": "word",
+   "en": "exhibition",
+   "vi": "triển lãm",
+   "ipa": "/ˌɛksəˈbɪʃən/",
+   "syllables": [
+    "ex",
+    "hi",
+    "bi",
+    "tion"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "We went to an art exhibition.",
+   "example_vi": "Bọn tớ đi xem triển lãm nghệ thuật.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W08",
+   "type": "word",
+   "en": "creative",
+   "vi": "sáng tạo",
+   "ipa": "/kriˈeɪtɪv/",
+   "syllables": [
+    "creative"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F308"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Lan is very creative. She makes her own toys.",
+   "example_vi": "Lan rất sáng tạo. Bạn ấy tự làm đồ chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W09",
+   "type": "word",
+   "en": "imagination",
+   "vi": "trí tưởng tượng",
+   "ipa": "/ˌɪˌmædʒəˈneɪʃən/",
+   "syllables": [
+    "imagination"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Use your imagination!",
+   "example_vi": "Hãy dùng trí tưởng tượng của cậu!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W10",
+   "type": "word",
+   "en": "imagine",
+   "vi": "tưởng tượng",
+   "ipa": "/ˌɪˈmædʒən/",
+   "syllables": [
+    "imagine"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4AD"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Imagine you can fly!",
+   "example_vi": "Hãy tưởng tượng cậu biết bay!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W11",
+   "type": "word",
+   "en": "instrument",
+   "vi": "nhạc cụ",
+   "ipa": "/ˈɪnstrəmənt/",
+   "syllables": [
+    "in",
+    "stru",
+    "ment"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F3BC"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Can you play an instrument?",
+   "example_vi": "Cậu có chơi nhạc cụ nào không?",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W12",
+   "type": "word",
+   "en": "flute",
+   "vi": "sáo",
+   "ipa": "/flut/",
+   "syllables": [
+    "flute"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3B6"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "She plays the flute in the band.",
+   "example_vi": "Bạn ấy thổi sáo trong ban nhạc.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W13",
+   "type": "word",
+   "en": "trumpet",
+   "vi": "kèn trumpet",
+   "ipa": "/ˈtrʌmpət/",
+   "syllables": [
+    "trum",
+    "pet"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3BA"
+   },
+   "picturable": true,
+   "cat": "L5U08",
+   "example_en": "The trumpet is very loud.",
+   "example_vi": "Kèn trumpet rất to.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W14",
+   "type": "word",
+   "en": "saxophone",
+   "vi": "kèn saxophone",
+   "ipa": "/ˈsæksəˌfoʊn/",
+   "syllables": [
+    "sax",
+    "o",
+    "phone"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3B7"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "My uncle plays the saxophone.",
+   "example_vi": "Chú tớ chơi kèn saxophone.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W15",
+   "type": "word",
+   "en": "recorder",
+   "vi": "sáo dọc",
+   "ipa": "/rɪˈkɔrdər/",
+   "syllables": [
+    "recorder"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F3B6"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "We learn the recorder at school.",
+   "example_vi": "Ở trường bọn tớ học thổi sáo dọc.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W16",
+   "type": "word",
+   "en": "cello",
+   "vi": "đàn cello",
+   "ipa": "/ˈtʃɛloʊ/",
+   "syllables": [
+    "cel",
+    "lo"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3BB"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The cello is bigger than the violin.",
+   "example_vi": "Đàn cello to hơn đàn violin.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W17",
+   "type": "word",
+   "en": "orchestra",
+   "vi": "dàn nhạc giao hưởng",
+   "ipa": "/ˈɔrkəstrə/",
+   "syllables": [
+    "or",
+    "ches",
+    "tra"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F3BB"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The orchestra has fifty musicians.",
+   "example_vi": "Dàn nhạc có năm mươi nhạc công.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W18",
+   "type": "word",
+   "en": "band",
+   "vi": "ban nhạc",
+   "ipa": "/bænd/",
+   "syllables": [
+    "band"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3B8"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "My brother plays the drums in a band.",
+   "example_vi": "Anh tớ chơi trống trong một ban nhạc.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W19",
+   "type": "word",
+   "en": "choir",
+   "vi": "dàn hợp xướng",
+   "ipa": "/kwaɪʌr/",
+   "syllables": [
+    "choir"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "I sing in the school choir.",
+   "example_vi": "Tớ hát trong dàn hợp xướng của trường.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W20",
+   "type": "word",
+   "en": "conductor",
+   "vi": "nhạc trưởng",
+   "ipa": "/kənˈdʌktər/",
+   "syllables": [
+    "con",
+    "duc",
+    "tor"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3BC"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The conductor leads the orchestra.",
+   "example_vi": "Nhạc trưởng chỉ huy dàn nhạc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W21",
+   "type": "word",
+   "en": "composer",
+   "vi": "nhà soạn nhạc",
+   "ipa": "/kəmˈpoʊzər/",
+   "syllables": [
+    "com",
+    "pos",
+    "er"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3BC"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "A composer writes music.",
+   "example_vi": "Nhà soạn nhạc viết nhạc.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W22",
+   "type": "word",
+   "en": "rhythm",
+   "vi": "nhịp điệu",
+   "ipa": "/ˈrɪðəm/",
+   "syllables": [
+    "rhythm"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F941"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Clap your hands to the rhythm.",
+   "example_vi": "Vỗ tay theo nhịp điệu.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W23",
+   "type": "word",
+   "en": "melody",
+   "vi": "giai điệu",
+   "ipa": "/ˈmɛlədi/",
+   "syllables": [
+    "melody"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3B5"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "This song has a beautiful melody.",
+   "example_vi": "Bài hát này có giai điệu đẹp.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W24",
+   "type": "word",
+   "en": "tune",
+   "vi": "bản nhạc",
+   "ipa": "/tun/",
+   "syllables": [
+    "tune"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F3B6"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Can you play this tune on the piano?",
+   "example_vi": "Cậu chơi được bản nhạc này trên đàn piano không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W25",
+   "type": "word",
+   "en": "perform",
+   "vi": "biểu diễn",
+   "ipa": "/pərˈfɔrm/",
+   "syllables": [
+    "per",
+    "form"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Our class performed a play.",
+   "example_vi": "Lớp tớ biểu diễn một vở kịch.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W26",
+   "type": "word",
+   "en": "performance",
+   "vi": "buổi biểu diễn",
+   "ipa": "/pərˈfɔrməns/",
+   "syllables": [
+    "per",
+    "for",
+    "mance"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The performance was excellent.",
+   "example_vi": "Buổi biểu diễn rất xuất sắc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W27",
+   "type": "word",
+   "en": "audience",
+   "vi": "khán giả",
+   "ipa": "/ˈɔdiəns/",
+   "syllables": [
+    "au",
+    "di",
+    "ence"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F44F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The audience clapped loudly.",
+   "example_vi": "Khán giả vỗ tay rất to.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W28",
+   "type": "word",
+   "en": "stage",
+   "vi": "sân khấu",
+   "ipa": "/steɪdʒ/",
+   "syllables": [
+    "stage"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3AA"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The dancers are on the stage.",
+   "example_vi": "Các vũ công đang ở trên sân khấu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W29",
+   "type": "word",
+   "en": "rehearsal",
+   "vi": "buổi tập dượt",
+   "ipa": "/rɪˈhʌrsəl/",
+   "syllables": [
+    "rehearsal"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "We have a rehearsal before the show.",
+   "example_vi": "Bọn tớ tập dượt trước buổi biểu diễn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W30",
+   "type": "word",
+   "en": "talent",
+   "vi": "tài năng, năng khiếu",
+   "ipa": "/ˈtælənt/",
+   "syllables": [
+    "tal",
+    "ent"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "She has a talent for music.",
+   "example_vi": "Bạn ấy có năng khiếu âm nhạc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W31",
+   "type": "word",
+   "en": "talented",
+   "vi": "tài năng",
+   "ipa": "/ˈtæləntɪd/",
+   "syllables": [
+    "tal",
+    "ent",
+    "ed"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "He is a talented dancer.",
+   "example_vi": "Anh ấy là một vũ công tài năng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W32",
+   "type": "phrase",
+   "en": "pop music",
+   "vi": "nhạc pop",
+   "ipa": "/pɑp mˈjuzɪk/",
+   "syllables": [
+    "pop",
+    "mu",
+    "sic"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3A7"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Many young people like pop music.",
+   "example_vi": "Nhiều bạn trẻ thích nhạc pop.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W33",
+   "type": "word",
+   "en": "classical",
+   "vi": "cổ điển",
+   "ipa": "/ˈklæsɪkəl/",
+   "syllables": [
+    "clas",
+    "si",
+    "cal"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3BB"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Grandpa listens to classical music.",
+   "example_vi": "Ông nghe nhạc cổ điển.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W34",
+   "type": "word",
+   "en": "folk",
+   "vi": "dân gian",
+   "ipa": "/foʊk/",
+   "syllables": [
+    "folk"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F3B6"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "We learned a Vietnamese folk song.",
+   "example_vi": "Bọn tớ học một bài dân ca Việt Nam.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W35",
+   "type": "word",
+   "en": "ballet",
+   "vi": "múa ba lê",
+   "ipa": "/bæˈleɪ/",
+   "syllables": [
+    "bal",
+    "let"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1FA70"
+   },
+   "picturable": true,
+   "cat": "L5U08",
+   "example_en": "My sister goes to ballet classes.",
+   "example_vi": "Chị tớ đi học múa ba lê.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W36",
+   "type": "word",
+   "en": "poem",
+   "vi": "bài thơ",
+   "ipa": "/poʊʌm/",
+   "syllables": [
+    "poem"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "I wrote a poem about the sea.",
+   "example_vi": "Tớ viết một bài thơ về biển.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W37",
+   "type": "word",
+   "en": "poet",
+   "vi": "nhà thơ",
+   "ipa": "/poʊʌt/",
+   "syllables": [
+    "poet"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The poet read his poems to us.",
+   "example_vi": "Nhà thơ đọc thơ cho bọn tớ nghe.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W38",
+   "type": "word",
+   "en": "comic",
+   "vi": "truyện tranh",
+   "ipa": "/ˈkɑmɪk/",
+   "syllables": [
+    "com",
+    "ic"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4A5"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "I like reading comics.",
+   "example_vi": "Tớ thích đọc truyện tranh.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W39",
+   "type": "word",
+   "en": "puppet",
+   "vi": "con rối",
+   "ipa": "/ˈpʌpɪt/",
+   "syllables": [
+    "pup",
+    "pet"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9F8"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "The puppet can dance.",
+   "example_vi": "Con rối biết nhảy múa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W40",
+   "type": "phrase",
+   "en": "water puppetry",
+   "vi": "múa rối nước",
+   "ipa": "/ˈwɔtər ˈpʌpətri/",
+   "syllables": [
+    "wa",
+    "ter",
+    "puppetry"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F38E"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Water puppetry is a Vietnamese tradition.",
+   "example_vi": "Múa rối nước là một truyền thống của Việt Nam.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W41",
+   "type": "word",
+   "en": "express",
+   "vi": "bày tỏ",
+   "ipa": "/ɪkˈsprɛs/",
+   "syllables": [
+    "ex",
+    "press"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "Music helps us express our feelings.",
+   "example_vi": "Âm nhạc giúp ta bày tỏ cảm xúc.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W42",
+   "type": "word",
+   "en": "beauty",
+   "vi": "vẻ đẹp",
+   "ipa": "/ˈbjuti/",
+   "syllables": [
+    "beau",
+    "ty"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F338"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "We admired the beauty of the painting.",
+   "example_vi": "Bọn tớ ngắm vẻ đẹp của bức tranh.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W43",
+   "type": "word",
+   "en": "style",
+   "vi": "phong cách",
+   "ipa": "/staɪl/",
+   "syllables": [
+    "style"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F457"
+   },
+   "picturable": false,
+   "cat": "L5U08",
+   "example_en": "I like the style of this artist.",
+   "example_vi": "Tớ thích phong cách của hoạ sĩ này.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U08-W44",
+   "type": "word",
+   "en": "pottery",
+   "vi": "đồ gốm",
+   "ipa": "/ˈpɑtəri/",
+   "syllables": [
+    "pottery"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3FA"
+   },
+   "picturable": true,
+   "cat": "L5U08",
+   "example_en": "We made pottery in the art lesson.",
+   "example_vi": "Bọn tớ làm đồ gốm trong giờ mỹ thuật.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U08-P01",
+   "en": "I can play the {x}.",
+   "vi": "Tớ chơi được {x}.",
+   "slots": {
+    "x": [
+     "piano",
+     "guitar",
+     "flute",
+     "recorder"
+    ]
+   }
+  },
+  {
+   "id": "L5U08-P02",
+   "en": "The {x} was amazing!",
+   "vi": "{x} thật tuyệt!",
+   "slots": {
+    "x": [
+     "concert",
+     "performance",
+     "exhibition",
+     "ballet"
+    ]
+   }
+  },
+  {
+   "id": "L5U08-P03",
+   "en": "I'd like to learn {x}.",
+   "vi": "Tớ muốn học {x}.",
+   "slots": {
+    "x": [
+     "ballet",
+     "the trumpet",
+     "pottery",
+     "the cello"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U08-D01",
+   "title_vi": "Buổi biểu diễn",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Are you nervous about the performance?",
+     "vi": "Cậu có hồi hộp về buổi biểu diễn không?"
+    },
+    {
+     "role": "Kid",
+     "en": "A little. I'm going to play the piano on stage.",
+     "vi": "Hơi hồi hộp. Tớ sẽ chơi piano trên sân khấu."
+    },
+    {
+     "role": "Bi",
+     "en": "You practised a lot. You will be great!",
+     "vi": "Cậu đã luyện tập nhiều. Cậu sẽ làm tốt thôi!"
+    },
+    {
+     "role": "Kid",
+     "en": "Thanks. Will you be in the audience?",
+     "vi": "Cảm ơn. Cậu có ngồi dưới khán giả không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Of course! I'll clap the loudest!",
+     "vi": "Tất nhiên! Tớ sẽ vỗ tay to nhất!"
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "piano",
+    "options": [
+     "violin",
+     "flute"
+    ]
+   }
+  },
+  {
+   "id": "L5U08-D02",
+   "title_vi": "Ở triển lãm",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Which painting do you like best?",
+     "vi": "Cậu thích bức tranh nào nhất?"
+    },
+    {
+     "role": "Bi",
+     "en": "I like the portrait of the old woman.",
+     "vi": "Tớ thích bức chân dung bà cụ."
+    },
+    {
+     "role": "Kid",
+     "en": "Why?",
+     "vi": "Sao vậy?"
+    },
+    {
+     "role": "Bi",
+     "en": "Because her face shows so many feelings.",
+     "vi": "Vì khuôn mặt bà thể hiện rất nhiều cảm xúc."
+    },
+    {
+     "role": "Kid",
+     "en": "I prefer the landscape. The colours are so bright.",
+     "vi": "Tớ thích bức phong cảnh hơn. Màu sắc rất tươi sáng."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "painting"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sculpture"
+  },
+  {
+   "type": "dictate_word",
+   "target": "portrait"
+  },
+  {
+   "type": "dictate_word",
+   "target": "canvas"
+  },
+  {
+   "type": "dictate_word",
+   "target": "sketch"
+  },
+  {
+   "type": "dictate_word",
+   "target": "design"
+  },
+  {
+   "type": "dictate_word",
+   "target": "exhibition"
+  },
+  {
+   "type": "dictate_word",
+   "target": "creative"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "This painting shows a beautiful river."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I painted a portrait of my mum."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The artist paints on canvas."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My favourite kind of music is|I'd like to learn|The best performance I have seen"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U08-R01",
+   "title_en": "Water puppets",
+   "text_en": [
+    "Water puppetry is a traditional art from the north of Vietnam.",
+    "It started in villages hundreds of years ago.",
+    "Farmers used to perform shows on ponds and lakes after the rice harvest.",
+    "The puppets are made of wood, and they are painted in bright colours.",
+    "The puppeteers stand behind a curtain in the water.",
+    "They use long sticks under the water to move the puppets.",
+    "Musicians play traditional instruments, and singers tell the story.",
+    "The audience loves the funny stories about farmers, animals and dragons.",
+    "If you visit Hanoi, you should watch a water puppet show!"
+   ],
+   "questions": [
+    {
+     "q": "Where did water puppetry start?",
+     "options": [
+      "In villages in the north of Vietnam.",
+      "In big cities.",
+      "In Japan."
+     ],
+     "answer": "In villages in the north of Vietnam."
+    },
+    {
+     "q": "What are the puppets made of?",
+     "options": [
+      "Wood.",
+      "Plastic.",
+      "Paper."
+     ],
+     "answer": "Wood."
+    },
+    {
+     "q": "Where do the puppeteers stand?",
+     "options": [
+      "Behind a curtain in the water.",
+      "On the stage.",
+      "In the audience."
+     ],
+     "answer": "Behind a curtain in the water."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U08-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "trumpet",
+   "item": "trumpet",
+   "options": [
+    "pottery",
+    "ballet",
+    "turn",
+    "trumpet"
+   ],
+   "answer": "trumpet"
+  },
+  {
+   "id": "L5U08-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ballet",
+   "item": "ballet",
+   "options": [
+    "ballet",
+    "tram",
+    "trumpet",
+    "pottery"
+   ],
+   "answer": "ballet"
+  },
+  {
+   "id": "L5U08-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pottery",
+   "item": "pottery",
+   "options": [
+    "happy",
+    "pottery",
+    "trumpet",
+    "ballet"
+   ],
+   "answer": "pottery"
+  },
+  {
+   "id": "L5U08-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "painting",
+   "item": "painting",
+   "options": [
+    "sketch",
+    "painting",
+    "band",
+    "poem"
+   ],
+   "answer": "painting"
+  },
+  {
+   "id": "L5U08-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sculpture",
+   "item": "sculpture",
+   "options": [
+    "express",
+    "sculpture",
+    "rhythm",
+    "conductor"
+   ],
+   "answer": "sculpture"
+  },
+  {
+   "id": "L5U08-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "portrait",
+   "item": "portrait",
+   "options": [
+    "poem",
+    "portrait",
+    "water puppetry",
+    "creative"
+   ],
+   "answer": "portrait"
+  },
+  {
+   "id": "L5U08-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "canvas",
+   "item": "canvas",
+   "options": [
+    "express",
+    "classical",
+    "canvas",
+    "instrument"
+   ],
+   "answer": "canvas"
+  },
+  {
+   "id": "L5U08-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sketch",
+   "item": "sketch",
+   "options": [
+    "saxophone",
+    "puppet",
+    "painting",
+    "sketch"
+   ],
+   "answer": "sketch"
+  },
+  {
+   "id": "L5U08-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "design",
+   "item": "design",
+   "options": [
+    "design",
+    "imagination",
+    "express",
+    "choir"
+   ],
+   "answer": "design"
+  },
+  {
+   "id": "L5U08-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "exhibition",
+   "item": "exhibition",
+   "options": [
+    "poem",
+    "exhibition",
+    "talented",
+    "design"
+   ],
+   "answer": "exhibition"
+  },
+  {
+   "id": "L5U08-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "creative",
+   "item": "creative",
+   "options": [
+    "creative",
+    "talent",
+    "perform",
+    "canvas"
+   ],
+   "answer": "creative"
+  },
+  {
+   "id": "L5U08-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "imagination",
+   "item": "imagination",
+   "options": [
+    "imagination",
+    "composer",
+    "melody",
+    "rhythm"
+   ],
+   "answer": "imagination"
+  },
+  {
+   "id": "L5U08-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "imagine",
+   "item": "imagine",
+   "options": [
+    "imagine",
+    "imagination",
+    "style",
+    "rehearsal"
+   ],
+   "answer": "imagine"
+  },
+  {
+   "id": "L5U08-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "instrument",
+   "item": "instrument",
+   "options": [
+    "recorder",
+    "conductor",
+    "instrument",
+    "classical"
+   ],
+   "answer": "instrument"
+  },
+  {
+   "id": "L5U08-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flute",
+   "item": "flute",
+   "options": [
+    "canvas",
+    "classical",
+    "water puppetry",
+    "flute"
+   ],
+   "answer": "flute"
+  },
+  {
+   "id": "L5U08-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "saxophone",
+   "item": "saxophone",
+   "options": [
+    "saxophone",
+    "exhibition",
+    "instrument",
+    "pop music"
+   ],
+   "answer": "saxophone"
+  },
+  {
+   "id": "L5U08-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "recorder",
+   "item": "recorder",
+   "options": [
+    "flute",
+    "sketch",
+    "design",
+    "recorder"
+   ],
+   "answer": "recorder"
+  },
+  {
+   "id": "L5U08-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cello",
+   "item": "cello",
+   "options": [
+    "cello",
+    "rehearsal",
+    "audience",
+    "melody"
+   ],
+   "answer": "cello"
+  },
+  {
+   "id": "L5U08-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "orchestra",
+   "item": "orchestra",
+   "options": [
+    "rehearsal",
+    "orchestra",
+    "portrait",
+    "performance"
+   ],
+   "answer": "orchestra"
+  },
+  {
+   "id": "L5U08-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "band",
+   "item": "band",
+   "options": [
+    "talented",
+    "poet",
+    "trumpet",
+    "band"
+   ],
+   "answer": "band"
+  },
+  {
+   "id": "L5U08-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "choir",
+   "item": "choir",
+   "options": [
+    "band",
+    "cello",
+    "choir",
+    "composer"
+   ],
+   "answer": "choir"
+  },
+  {
+   "id": "L5U08-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "conductor",
+   "item": "conductor",
+   "options": [
+    "conductor",
+    "express",
+    "canvas",
+    "pop music"
+   ],
+   "answer": "conductor"
+  },
+  {
+   "id": "L5U08-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "composer",
+   "item": "composer",
+   "options": [
+    "rehearsal",
+    "trumpet",
+    "composer",
+    "sculpture"
+   ],
+   "answer": "composer"
+  },
+  {
+   "id": "L5U08-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rhythm",
+   "item": "rhythm",
+   "options": [
+    "instrument",
+    "rhythm",
+    "rehearsal",
+    "ballet"
+   ],
+   "answer": "rhythm"
+  },
+  {
+   "id": "L5U08-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "melody",
+   "item": "melody",
+   "options": [
+    "instrument",
+    "melody",
+    "perform",
+    "saxophone"
+   ],
+   "answer": "melody"
+  },
+  {
+   "id": "L5U08-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tune",
+   "item": "tune",
+   "options": [
+    "tune",
+    "canvas",
+    "portrait",
+    "talent"
+   ],
+   "answer": "tune"
+  },
+  {
+   "id": "L5U08-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "perform",
+   "item": "perform",
+   "options": [
+    "choir",
+    "creative",
+    "perform",
+    "imagine"
+   ],
+   "answer": "perform"
+  },
+  {
+   "id": "L5U08-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "performance",
+   "item": "performance",
+   "options": [
+    "portrait",
+    "poet",
+    "comic",
+    "performance"
+   ],
+   "answer": "performance"
+  },
+  {
+   "id": "L5U08-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "audience",
+   "item": "audience",
+   "options": [
+    "talented",
+    "audience",
+    "saxophone",
+    "creative"
+   ],
+   "answer": "audience"
+  },
+  {
+   "id": "L5U08-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stage",
+   "item": "stage",
+   "options": [
+    "audience",
+    "poet",
+    "stage",
+    "puppet"
+   ],
+   "answer": "stage"
+  },
+  {
+   "id": "L5U08-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "rehearsal",
+   "item": "rehearsal",
+   "options": [
+    "instrument",
+    "water puppetry",
+    "rehearsal",
+    "comic"
+   ],
+   "answer": "rehearsal"
+  },
+  {
+   "id": "L5U08-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "talent",
+   "item": "talent",
+   "options": [
+    "rehearsal",
+    "saxophone",
+    "conductor",
+    "talent"
+   ],
+   "answer": "talent"
+  },
+  {
+   "id": "L5U08-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "talented",
+   "item": "talented",
+   "options": [
+    "melody",
+    "sculpture",
+    "style",
+    "talented"
+   ],
+   "answer": "talented"
+  },
+  {
+   "id": "L5U08-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pop music",
+   "item": "pop music",
+   "options": [
+    "flute",
+    "pop music",
+    "imagination",
+    "exhibition"
+   ],
+   "answer": "pop music"
+  },
+  {
+   "id": "L5U08-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "classical",
+   "item": "classical",
+   "options": [
+    "classical",
+    "imagination",
+    "band",
+    "imagine"
+   ],
+   "answer": "classical"
+  },
+  {
+   "id": "L5U08-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "folk",
+   "item": "folk",
+   "options": [
+    "imagine",
+    "portrait",
+    "creative",
+    "folk"
+   ],
+   "answer": "folk"
+  },
+  {
+   "id": "L5U08-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "poem",
+   "item": "poem",
+   "options": [
+    "poem",
+    "recorder",
+    "conductor",
+    "performance"
+   ],
+   "answer": "poem"
+  },
+  {
+   "id": "L5U08-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "poet",
+   "item": "poet",
+   "options": [
+    "talent",
+    "sculpture",
+    "poet",
+    "creative"
+   ],
+   "answer": "poet"
+  },
+  {
+   "id": "L5U08-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "comic",
+   "item": "comic",
+   "options": [
+    "melody",
+    "pop music",
+    "comic",
+    "perform"
+   ],
+   "answer": "comic"
+  },
+  {
+   "id": "L5U08-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "puppet",
+   "item": "puppet",
+   "options": [
+    "exhibition",
+    "recorder",
+    "painting",
+    "puppet"
+   ],
+   "answer": "puppet"
+  },
+  {
+   "id": "L5U08-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "water puppetry",
+   "item": "water puppetry",
+   "options": [
+    "water puppetry",
+    "performance",
+    "instrument",
+    "puppet"
+   ],
+   "answer": "water puppetry"
+  },
+  {
+   "id": "L5U08-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "express",
+   "item": "express",
+   "options": [
+    "poet",
+    "style",
+    "express",
+    "water puppetry"
+   ],
+   "answer": "express"
+  },
+  {
+   "id": "L5U08-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "beauty",
+   "item": "beauty",
+   "options": [
+    "design",
+    "beauty",
+    "ballet",
+    "band"
+   ],
+   "answer": "beauty"
+  },
+  {
+   "id": "L5U08-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "style",
+   "item": "style",
+   "options": [
+    "portrait",
+    "canvas",
+    "style",
+    "classical"
+   ],
+   "answer": "style"
+  },
+  {
+   "id": "L5U08-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "trumpet",
+   "answer": "trumpet"
+  },
+  {
+   "id": "L5U08-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ballet",
+   "answer": "ballet"
+  },
+  {
+   "id": "L5U08-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pottery",
+   "answer": "pottery"
+  },
+  {
+   "id": "L5U08-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This painting shows a beautiful river.",
+   "item": "painting",
+   "answer": "This painting shows a beautiful river."
+  },
+  {
+   "id": "L5U08-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a stone sculpture in the park.",
+   "item": "sculpture",
+   "answer": "There is a stone sculpture in the park."
+  },
+  {
+   "id": "L5U08-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I painted a portrait of my mum.",
+   "item": "portrait",
+   "answer": "I painted a portrait of my mum."
+  },
+  {
+   "id": "L5U08-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The artist paints on canvas.",
+   "item": "canvas",
+   "answer": "The artist paints on canvas."
+  },
+  {
+   "id": "L5U08-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "First, I make a quick sketch with a pencil.",
+   "item": "sketch",
+   "answer": "First, I make a quick sketch with a pencil."
+  },
+  {
+   "id": "L5U08-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She designed a new poster for our club.",
+   "item": "design",
+   "answer": "She designed a new poster for our club."
+  },
+  {
+   "id": "L5U08-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We went to an art exhibition.",
+   "item": "exhibition",
+   "answer": "We went to an art exhibition."
+  },
+  {
+   "id": "L5U08-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lan is very creative. She makes her own toys.",
+   "item": "creative",
+   "answer": "Lan is very creative. She makes her own toys."
+  },
+  {
+   "id": "L5U08-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Use your imagination!",
+   "item": "imagination",
+   "answer": "Use your imagination!"
+  },
+  {
+   "id": "L5U08-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Imagine you can fly!",
+   "item": "imagine",
+   "answer": "Imagine you can fly!"
+  },
+  {
+   "id": "L5U08-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you play an instrument?",
+   "item": "instrument",
+   "answer": "Can you play an instrument?"
+  },
+  {
+   "id": "L5U08-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She plays the flute in the band.",
+   "item": "flute",
+   "answer": "She plays the flute in the band."
+  },
+  {
+   "id": "L5U08-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The trumpet is very loud.",
+   "item": "trumpet",
+   "answer": "The trumpet is very loud."
+  },
+  {
+   "id": "L5U08-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle plays the saxophone.",
+   "item": "saxophone",
+   "answer": "My uncle plays the saxophone."
+  },
+  {
+   "id": "L5U08-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We learn the recorder at school.",
+   "item": "recorder",
+   "answer": "We learn the recorder at school."
+  },
+  {
+   "id": "L5U08-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cello is bigger than the violin.",
+   "item": "cello",
+   "answer": "The cello is bigger than the violin."
+  },
+  {
+   "id": "L5U08-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The orchestra has fifty musicians.",
+   "item": "orchestra",
+   "answer": "The orchestra has fifty musicians."
+  },
+  {
+   "id": "L5U08-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My brother plays the drums in a band.",
+   "item": "band",
+   "answer": "My brother plays the drums in a band."
+  },
+  {
+   "id": "L5U08-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I sing in the school choir.",
+   "item": "choir",
+   "answer": "I sing in the school choir."
+  },
+  {
+   "id": "L5U08-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The conductor leads the orchestra.",
+   "item": "conductor",
+   "answer": "The conductor leads the orchestra."
+  },
+  {
+   "id": "L5U08-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A composer writes music.",
+   "item": "composer",
+   "answer": "A composer writes music."
+  },
+  {
+   "id": "L5U08-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Clap your hands to the rhythm.",
+   "item": "rhythm",
+   "answer": "Clap your hands to the rhythm."
+  },
+  {
+   "id": "L5U08-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This song has a beautiful melody.",
+   "item": "melody",
+   "answer": "This song has a beautiful melody."
+  },
+  {
+   "id": "L5U08-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you play this tune on the piano?",
+   "item": "tune",
+   "answer": "Can you play this tune on the piano?"
+  },
+  {
+   "id": "L5U08-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our class performed a play.",
+   "item": "perform",
+   "answer": "Our class performed a play."
+  },
+  {
+   "id": "L5U08-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The performance was excellent.",
+   "item": "performance",
+   "answer": "The performance was excellent."
+  },
+  {
+   "id": "L5U08-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The audience clapped loudly.",
+   "item": "audience",
+   "answer": "The audience clapped loudly."
+  },
+  {
+   "id": "L5U08-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The dancers are on the stage.",
+   "item": "stage",
+   "answer": "The dancers are on the stage."
+  },
+  {
+   "id": "L5U08-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a rehearsal before the show.",
+   "item": "rehearsal",
+   "answer": "We have a rehearsal before the show."
+  },
+  {
+   "id": "L5U08-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has a talent for music.",
+   "item": "talent",
+   "answer": "She has a talent for music."
+  },
+  {
+   "id": "L5U08-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "He is a talented dancer.",
+   "item": "talented",
+   "answer": "He is a talented dancer."
+  },
+  {
+   "id": "L5U08-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Many young people like pop music.",
+   "item": "pop music",
+   "answer": "Many young people like pop music."
+  },
+  {
+   "id": "L5U08-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa listens to classical music.",
+   "item": "classical",
+   "answer": "Grandpa listens to classical music."
+  },
+  {
+   "id": "L5U08-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We learned a Vietnamese folk song.",
+   "item": "folk",
+   "answer": "We learned a Vietnamese folk song."
+  },
+  {
+   "id": "L5U08-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My sister goes to ballet classes.",
+   "item": "ballet",
+   "answer": "My sister goes to ballet classes."
+  },
+  {
+   "id": "L5U08-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wrote a poem about the sea.",
+   "item": "poem",
+   "answer": "I wrote a poem about the sea."
+  },
+  {
+   "id": "L5U08-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The poet read his poems to us.",
+   "item": "poet",
+   "answer": "The poet read his poems to us."
+  },
+  {
+   "id": "L5U08-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like reading comics.",
+   "item": "comic",
+   "answer": "I like reading comics."
+  },
+  {
+   "id": "L5U08-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The puppet can dance.",
+   "item": "puppet",
+   "answer": "The puppet can dance."
+  },
+  {
+   "id": "L5U08-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Water puppetry is a Vietnamese tradition.",
+   "item": "water puppetry",
+   "answer": "Water puppetry is a Vietnamese tradition."
+  },
+  {
+   "id": "L5U08-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Music helps us express our feelings.",
+   "item": "express",
+   "answer": "Music helps us express our feelings."
+  },
+  {
+   "id": "L5U08-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We admired the beauty of the painting.",
+   "item": "beauty",
+   "answer": "We admired the beauty of the painting."
+  },
+  {
+   "id": "L5U08-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the style of this artist.",
+   "item": "style",
+   "answer": "I like the style of this artist."
+  },
+  {
+   "id": "L5U08-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We made pottery in the art lesson.",
+   "item": "pottery",
+   "answer": "We made pottery in the art lesson."
+  },
+  {
+   "id": "L5U08-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can play the piano.",
+   "answer": "I can play the piano."
+  },
+  {
+   "id": "L5U08-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can play the guitar.",
+   "answer": "I can play the guitar."
+  },
+  {
+   "id": "L5U08-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can play the flute.",
+   "answer": "I can play the flute."
+  },
+  {
+   "id": "L5U08-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The concert was amazing!",
+   "answer": "The concert was amazing!"
+  },
+  {
+   "id": "L5U08-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The performance was amazing!",
+   "answer": "The performance was amazing!"
+  },
+  {
+   "id": "L5U08-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The exhibition was amazing!",
+   "answer": "The exhibition was amazing!"
+  },
+  {
+   "id": "L5U08-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like to learn ballet.",
+   "answer": "I'd like to learn ballet."
+  },
+  {
+   "id": "L5U08-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like to learn the trumpet.",
+   "answer": "I'd like to learn the trumpet."
+  },
+  {
+   "id": "L5U08-Q100",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd like to learn pottery.",
+   "answer": "I'd like to learn pottery."
+  },
+  {
+   "id": "L5U08-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Are you nervous about the performance?",
+   "answer": "A little. I'm going to play the piano on stage."
+  },
+  {
+   "id": "L5U08-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Thanks. Will you be in the audience?",
+   "answer": "Of course! I'll clap the loudest!"
+  },
+  {
+   "id": "L5U08-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Which painting do you like best?",
+   "answer": "I like the portrait of the old woman."
+  },
+  {
+   "id": "L5U08-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Why?",
+   "answer": "Because her face shows so many feelings."
+  },
+  {
+   "id": "L5U08-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "trumpet",
+   "options": [
+    "trumpet",
+    "pottery",
+    "ballet"
+   ],
+   "answer": "trumpet"
+  },
+  {
+   "id": "L5U08-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ballet",
+   "options": [
+    "ballet",
+    "trumpet",
+    "pottery"
+   ],
+   "answer": "ballet"
+  },
+  {
+   "id": "L5U08-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "pottery",
+   "options": [
+    "pottery",
+    "trumpet",
+    "ballet"
+   ],
+   "answer": "pottery"
+  },
+  {
+   "id": "L5U08-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This ___ shows a beautiful river.",
+   "item": "painting",
+   "options": [
+    "pottery",
+    "exhibition",
+    "painting"
+   ],
+   "answer": "painting"
+  },
+  {
+   "id": "L5U08-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a stone ___ in the park.",
+   "item": "sculpture",
+   "options": [
+    "classical",
+    "saxophone",
+    "sculpture"
+   ],
+   "answer": "sculpture"
+  },
+  {
+   "id": "L5U08-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I painted a ___ of my mum.",
+   "item": "portrait",
+   "options": [
+    "perform",
+    "pottery",
+    "portrait"
+   ],
+   "answer": "portrait"
+  },
+  {
+   "id": "L5U08-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The artist paints on ___.",
+   "item": "canvas",
+   "options": [
+    "canvas",
+    "folk",
+    "composer"
+   ],
+   "answer": "canvas"
+  },
+  {
+   "id": "L5U08-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "First, I make a quick ___ with a pencil.",
+   "item": "sketch",
+   "options": [
+    "sketch",
+    "design",
+    "flute"
+   ],
+   "answer": "sketch"
+  },
+  {
+   "id": "L5U08-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She ___ a new poster for our club.",
+   "item": "design",
+   "options": [
+    "banded",
+    "designed",
+    "trumpeted"
+   ],
+   "answer": "designed"
+  },
+  {
+   "id": "L5U08-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We went to an art ___.",
+   "item": "exhibition",
+   "options": [
+    "instrument",
+    "sculpture",
+    "exhibition"
+   ],
+   "answer": "exhibition"
+  },
+  {
+   "id": "L5U08-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lan is very ___. She makes her own toys.",
+   "item": "creative",
+   "options": [
+    "creative",
+    "sketch",
+    "beauty"
+   ],
+   "answer": "creative"
+  },
+  {
+   "id": "L5U08-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Use your ___!",
+   "item": "imagination",
+   "options": [
+    "imagination",
+    "classical",
+    "ballet"
+   ],
+   "answer": "imagination"
+  },
+  {
+   "id": "L5U08-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ you can fly!",
+   "item": "imagine",
+   "options": [
+    "Choir",
+    "Imagine",
+    "Flute"
+   ],
+   "answer": "Imagine"
+  },
+  {
+   "id": "L5U08-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you play an ___?",
+   "item": "instrument",
+   "options": [
+    "exhibition",
+    "folk",
+    "instrument"
+   ],
+   "answer": "instrument"
+  },
+  {
+   "id": "L5U08-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She plays the ___ in the band.",
+   "item": "flute",
+   "options": [
+    "perform",
+    "flute",
+    "imagine"
+   ],
+   "answer": "flute"
+  },
+  {
+   "id": "L5U08-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is very loud.",
+   "item": "trumpet",
+   "options": [
+    "choir",
+    "exhibition",
+    "trumpet"
+   ],
+   "answer": "trumpet"
+  },
+  {
+   "id": "L5U08-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle plays the ___.",
+   "item": "saxophone",
+   "options": [
+    "canvas",
+    "saxophone",
+    "comic"
+   ],
+   "answer": "saxophone"
+  },
+  {
+   "id": "L5U08-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We learn the ___ at school.",
+   "item": "recorder",
+   "options": [
+    "recorder",
+    "classical",
+    "pottery"
+   ],
+   "answer": "recorder"
+  },
+  {
+   "id": "L5U08-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ is bigger than the violin.",
+   "item": "cello",
+   "options": [
+    "design",
+    "cello",
+    "imagine"
+   ],
+   "answer": "cello"
+  },
+  {
+   "id": "L5U08-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ has fifty musicians.",
+   "item": "orchestra",
+   "options": [
+    "perform",
+    "orchestra",
+    "folk"
+   ],
+   "answer": "orchestra"
+  },
+  {
+   "id": "L5U08-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My brother plays the drums in a ___.",
+   "item": "band",
+   "options": [
+    "folk",
+    "band",
+    "melody"
+   ],
+   "answer": "band"
+  },
+  {
+   "id": "L5U08-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I sing in the school ___.",
+   "item": "choir",
+   "options": [
+    "choir",
+    "sculpture",
+    "portrait"
+   ],
+   "answer": "choir"
+  },
+  {
+   "id": "L5U08-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ leads the orchestra.",
+   "item": "conductor",
+   "options": [
+    "melody",
+    "imagine",
+    "conductor"
+   ],
+   "answer": "conductor"
+  },
+  {
+   "id": "L5U08-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A ___ writes music.",
+   "item": "composer",
+   "options": [
+    "classical",
+    "pottery",
+    "composer"
+   ],
+   "answer": "composer"
+  },
+  {
+   "id": "L5U08-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Clap your hands to the ___.",
+   "item": "rhythm",
+   "options": [
+    "melody",
+    "rhythm",
+    "sketch"
+   ],
+   "answer": "rhythm"
+  },
+  {
+   "id": "L5U08-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This song has a beautiful ___.",
+   "item": "melody",
+   "options": [
+    "melody",
+    "classical",
+    "rhythm"
+   ],
+   "answer": "melody"
+  },
+  {
+   "id": "L5U08-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you play this ___ on the piano?",
+   "item": "tune",
+   "options": [
+    "comic",
+    "melody",
+    "tune"
+   ],
+   "answer": "tune"
+  },
+  {
+   "id": "L5U08-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our class ___ a play.",
+   "item": "perform",
+   "options": [
+    "classicaled",
+    "performed",
+    "balleted"
+   ],
+   "answer": "performed"
+  },
+  {
+   "id": "L5U08-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ was excellent.",
+   "item": "performance",
+   "options": [
+    "express",
+    "performance",
+    "sculpture"
+   ],
+   "answer": "performance"
+  },
+  {
+   "id": "L5U08-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ clapped loudly.",
+   "item": "audience",
+   "options": [
+    "canvas",
+    "exhibition",
+    "audience"
+   ],
+   "answer": "audience"
+  },
+  {
+   "id": "L5U08-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The dancers are on the ___.",
+   "item": "stage",
+   "options": [
+    "folk",
+    "sculpture",
+    "stage"
+   ],
+   "answer": "stage"
+  },
+  {
+   "id": "L5U08-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have a ___ before the show.",
+   "item": "rehearsal",
+   "options": [
+    "classical",
+    "rehearsal",
+    "express"
+   ],
+   "answer": "rehearsal"
+  },
+  {
+   "id": "L5U08-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has a ___ for music.",
+   "item": "talent",
+   "options": [
+    "talent",
+    "ballet",
+    "exhibition"
+   ],
+   "answer": "talent"
+  },
+  {
+   "id": "L5U08-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "He is a ___ dancer.",
+   "item": "talented",
+   "options": [
+    "imagine",
+    "talented",
+    "comic"
+   ],
+   "answer": "talented"
+  },
+  {
+   "id": "L5U08-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa listens to ___ music.",
+   "item": "classical",
+   "options": [
+    "saxophone",
+    "classical",
+    "audience"
+   ],
+   "answer": "classical"
+  },
+  {
+   "id": "L5U08-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We learned a Vietnamese ___ song.",
+   "item": "folk",
+   "options": [
+    "express",
+    "folk",
+    "poem"
+   ],
+   "answer": "folk"
+  },
+  {
+   "id": "L5U08-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My sister goes to ___ classes.",
+   "item": "ballet",
+   "options": [
+    "ballet",
+    "beauty",
+    "perform"
+   ],
+   "answer": "ballet"
+  },
+  {
+   "id": "L5U08-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wrote a ___ about the sea.",
+   "item": "poem",
+   "options": [
+    "imagine",
+    "poem",
+    "canvas"
+   ],
+   "answer": "poem"
+  },
+  {
+   "id": "L5U08-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ read his poems to us.",
+   "item": "poet",
+   "options": [
+    "sculpture",
+    "folk",
+    "poet"
+   ],
+   "answer": "poet"
+  },
+  {
+   "id": "L5U08-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like reading ___.",
+   "item": "comic",
+   "options": [
+    "potterys",
+    "comics",
+    "trumpets"
+   ],
+   "answer": "comics"
+  },
+  {
+   "id": "L5U08-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ can dance.",
+   "item": "puppet",
+   "options": [
+    "design",
+    "sculpture",
+    "puppet"
+   ],
+   "answer": "puppet"
+  },
+  {
+   "id": "L5U08-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Music helps us ___ our feelings.",
+   "item": "express",
+   "options": [
+    "express",
+    "conductor",
+    "pottery"
+   ],
+   "answer": "express"
+  },
+  {
+   "id": "L5U08-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We admired the ___ of the painting.",
+   "item": "beauty",
+   "options": [
+    "sketch",
+    "folk",
+    "beauty"
+   ],
+   "answer": "beauty"
+  },
+  {
+   "id": "L5U08-Q148",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like the ___ of this artist.",
+   "item": "style",
+   "options": [
+    "express",
+    "style",
+    "folk"
+   ],
+   "answer": "style"
+  },
+  {
+   "id": "L5U08-Q149",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We made ___ in the art lesson.",
+   "item": "pottery",
+   "options": [
+    "perform",
+    "pottery",
+    "imagination"
+   ],
+   "answer": "pottery"
+  },
+  {
+   "id": "L5U08-Q150",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The trumpet is very loud.",
+   "item": "trumpet",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U08-Q151",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My sister goes to ballet classes.",
+   "item": "pottery",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U08-Q152",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We made pottery in the art lesson.",
+   "item": "pottery",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U08-Q153",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U08-R01",
+   "text_en": "Where did water puppetry start?",
+   "options": [
+    "In big cities.",
+    "In Japan.",
+    "In villages in the north of Vietnam."
+   ],
+   "answer": "In villages in the north of Vietnam."
+  },
+  {
+   "id": "L5U08-Q154",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U08-R01",
+   "text_en": "What are the puppets made of?",
+   "options": [
+    "Wood.",
+    "Paper.",
+    "Plastic."
+   ],
+   "answer": "Wood."
+  },
+  {
+   "id": "L5U08-Q155",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U08-R01",
+   "text_en": "Where do the puppeteers stand?",
+   "options": [
+    "Behind a curtain in the water.",
+    "In the audience.",
+    "On the stage."
+   ],
+   "answer": "Behind a curtain in the water."
+  },
+  {
+   "id": "L5U08-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "painting",
+   "item": "painting",
+   "answer": "painting"
+  },
+  {
+   "id": "L5U08-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sculpture",
+   "item": "sculpture",
+   "answer": "sculpture"
+  },
+  {
+   "id": "L5U08-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "portrait",
+   "item": "portrait",
+   "answer": "portrait"
+  },
+  {
+   "id": "L5U08-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "canvas",
+   "item": "canvas",
+   "answer": "canvas"
+  },
+  {
+   "id": "L5U08-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "sketch",
+   "item": "sketch",
+   "answer": "sketch"
+  },
+  {
+   "id": "L5U08-Q161",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "design",
+   "item": "design",
+   "answer": "design"
+  },
+  {
+   "id": "L5U08-Q162",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "exhibition",
+   "item": "exhibition",
+   "answer": "exhibition"
+  },
+  {
+   "id": "L5U08-Q163",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "creative",
+   "item": "creative",
+   "answer": "creative"
+  },
+  {
+   "id": "L5U08-Q164",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "This painting shows a beautiful river.",
+   "answer": "This painting shows a beautiful river."
+  },
+  {
+   "id": "L5U08-Q165",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I painted a portrait of my mum.",
+   "answer": "I painted a portrait of my mum."
+  },
+  {
+   "id": "L5U08-Q166",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The artist paints on canvas.",
+   "answer": "The artist paints on canvas."
+  }
+ ]
+}

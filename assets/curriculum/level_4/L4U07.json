@@ -1,0 +1,3218 @@
+{
+ "id": "L4U07",
+ "level": 4,
+ "unit": 7,
+ "topic_en": "School life",
+ "topic_vi": "Cuộc sống ở trường",
+ "can_do_vi": [
+  "Nói về các môn học và thời khoá biểu",
+  "Kể về một ngày ở trường"
+ ],
+ "grammar_note_vi": "Nói số lần: \"We have maths every day.\" / \"We have music twice a week.\" (twice = hai lần, once = một lần). Hỏi: \"How often do you have science?\"",
+ "items": [
+  {
+   "id": "L4U07-W01",
+   "type": "word",
+   "en": "subject",
+   "vi": "môn học",
+   "ipa": "/ˈsʌbdʒɪkt/",
+   "syllables": [
+    "sub",
+    "ject"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4DA"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "What's your favourite subject?",
+   "example_vi": "Môn học yêu thích của cậu là gì?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W02",
+   "type": "word",
+   "en": "maths",
+   "vi": "môn toán",
+   "ipa": "/maths/",
+   "syllables": [
+    "maths"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2795"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We have maths every day.",
+   "example_vi": "Ngày nào bọn tớ cũng học toán.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W03",
+   "type": "word",
+   "en": "science",
+   "vi": "môn khoa học",
+   "ipa": "/saɪʌns/",
+   "syllables": [
+    "science"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9EA"
+   },
+   "picturable": true,
+   "cat": "L4U07",
+   "example_en": "In science, we learn about plants.",
+   "example_vi": "Trong giờ khoa học, bọn tớ học về cây cối.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W04",
+   "type": "word",
+   "en": "history",
+   "vi": "môn lịch sử",
+   "ipa": "/ˈhɪstəri/",
+   "syllables": [
+    "his",
+    "to",
+    "ry"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "History is about the past.",
+   "example_vi": "Lịch sử là môn học về quá khứ.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W05",
+   "type": "word",
+   "en": "geography",
+   "vi": "môn địa lý",
+   "ipa": "/dʒiˈɑɡrəfi/",
+   "syllables": [
+    "geography"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We learn about mountains in geography.",
+   "example_vi": "Bọn tớ học về núi trong giờ địa lý.",
+   "pron_focus": [
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W06",
+   "type": "word",
+   "en": "art",
+   "vi": "môn mỹ thuật",
+   "ipa": "/ɑrt/",
+   "syllables": [
+    "art"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "I painted a tiger in art.",
+   "example_vi": "Tớ vẽ một con hổ trong giờ mỹ thuật.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W07",
+   "type": "word",
+   "en": "PE",
+   "vi": "môn thể dục",
+   "ipa": "/pe/",
+   "syllables": [
+    "PE"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F938"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We play football in PE.",
+   "example_vi": "Bọn tớ đá bóng trong giờ thể dục.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W08",
+   "type": "word",
+   "en": "drama",
+   "vi": "môn kịch",
+   "ipa": "/ˈdrɑmə/",
+   "syllables": [
+    "dra",
+    "ma"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3AD"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "In drama, I was a giant.",
+   "example_vi": "Trong giờ kịch, tớ đóng vai người khổng lồ.",
+   "pron_focus": [
+    "cluster",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W09",
+   "type": "phrase",
+   "en": "break time",
+   "vi": "giờ ra chơi",
+   "ipa": "/breɪk taɪm/",
+   "syllables": [
+    "break",
+    "time"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F514"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We play in the playground at break time.",
+   "example_vi": "Giờ ra chơi bọn tớ chơi ở sân.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W10",
+   "type": "word",
+   "en": "classmate",
+   "vi": "bạn cùng lớp",
+   "ipa": "/ˈklæsˌmeɪt/",
+   "syllables": [
+    "class",
+    "mate"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D1-200D-1F91D-200D-1F9D1"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "My classmates are friendly.",
+   "example_vi": "Các bạn cùng lớp của tớ rất thân thiện.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W11",
+   "type": "word",
+   "en": "headteacher",
+   "vi": "hiệu trưởng",
+   "ipa": "/headteacher/",
+   "syllables": [
+    "headteacher"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F9D1-200D-1F3EB"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "The headteacher gave me a prize.",
+   "example_vi": "Thầy hiệu trưởng trao giải cho tớ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W12",
+   "type": "word",
+   "en": "exam",
+   "vi": "kỳ thi",
+   "ipa": "/ɪɡˈzæm/",
+   "syllables": [
+    "ex",
+    "am"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F4DD"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We have an exam next week.",
+   "example_vi": "Tuần sau bọn tớ có kỳ thi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W13",
+   "type": "word",
+   "en": "project",
+   "vi": "dự án",
+   "ipa": "/ˈprɑdʒɛkt/",
+   "syllables": [
+    "project"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4CA"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Our project is about the solar system.",
+   "example_vi": "Dự án của bọn tớ là về hệ Mặt Trời.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W14",
+   "type": "word",
+   "en": "mark",
+   "vi": "điểm số",
+   "ipa": "/mɑrk/",
+   "syllables": [
+    "mark"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "I got a good mark in maths.",
+   "example_vi": "Tớ được điểm tốt môn toán.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W15",
+   "type": "word",
+   "en": "report",
+   "vi": "báo cáo, sổ liên lạc",
+   "ipa": "/rɪˈpɔrt/",
+   "syllables": [
+    "re",
+    "port"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4C4"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "My school report was excellent.",
+   "example_vi": "Sổ liên lạc của tớ rất tốt.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W16",
+   "type": "word",
+   "en": "term",
+   "vi": "học kỳ",
+   "ipa": "/tʌrm/",
+   "syllables": [
+    "term"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "The new term starts in September.",
+   "example_vi": "Học kỳ mới bắt đầu vào tháng Chín.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W17",
+   "type": "word",
+   "en": "canteen",
+   "vi": "căng tin",
+   "ipa": "/kænˈtin/",
+   "syllables": [
+    "can",
+    "teen"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F371"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We eat lunch in the canteen.",
+   "example_vi": "Bọn tớ ăn trưa ở căng tin.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W18",
+   "type": "word",
+   "en": "hall",
+   "vi": "hội trường",
+   "ipa": "/hɔl/",
+   "syllables": [
+    "hall"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3DB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "The concert is in the school hall.",
+   "example_vi": "Buổi hoà nhạc ở hội trường của trường.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W19",
+   "type": "word",
+   "en": "gym",
+   "vi": "phòng tập thể dục",
+   "ipa": "/dʒɪm/",
+   "syllables": [
+    "gym"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F3CB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We have PE in the gym when it rains.",
+   "example_vi": "Trời mưa thì bọn tớ học thể dục trong phòng tập.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W20",
+   "type": "word",
+   "en": "notebook",
+   "vi": "quyển vở",
+   "ipa": "/ˈnoʊtˌbʊk/",
+   "syllables": [
+    "note",
+    "book"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4D3"
+   },
+   "picturable": true,
+   "cat": "L4U07",
+   "example_en": "Write the new words in your notebook.",
+   "example_vi": "Viết từ mới vào vở nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W21",
+   "type": "word",
+   "en": "dictionary",
+   "vi": "từ điển",
+   "ipa": "/ˈdɪkʃəˌnɛri/",
+   "syllables": [
+    "dictionary"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F4D5"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Look for the word in the dictionary.",
+   "example_vi": "Tra từ đó trong từ điển nhé.",
+   "pron_focus": [
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W22",
+   "type": "word",
+   "en": "textbook",
+   "vi": "sách giáo khoa",
+   "ipa": "/ˈtɛkstˌbʊk/",
+   "syllables": [
+    "text",
+    "book"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F4D7"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Open your textbook at page ten.",
+   "example_vi": "Mở sách giáo khoa trang mười.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W23",
+   "type": "word",
+   "en": "calculator",
+   "vi": "máy tính cầm tay",
+   "ipa": "/ˈkælkjəˌleɪtər/",
+   "syllables": [
+    "cal",
+    "cu",
+    "la",
+    "tor"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9EE"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Don't use a calculator in the test.",
+   "example_vi": "Không dùng máy tính trong bài kiểm tra.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W24",
+   "type": "word",
+   "en": "glue",
+   "vi": "keo dán",
+   "ipa": "/ɡlu/",
+   "syllables": [
+    "glue"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F9F4"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "I need glue for my project.",
+   "example_vi": "Tớ cần keo dán cho dự án.",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W25",
+   "type": "word",
+   "en": "scissors",
+   "vi": "cái kéo",
+   "ipa": "/ˈsɪzərz/",
+   "syllables": [
+    "scis",
+    "sors"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "2702-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Be careful with the scissors.",
+   "example_vi": "Cẩn thận với cái kéo.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W26",
+   "type": "word",
+   "en": "locker",
+   "vi": "tủ đồ cá nhân",
+   "ipa": "/ˈlɑkər/",
+   "syllables": [
+    "lock",
+    "er"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F510"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "My books are in my locker.",
+   "example_vi": "Sách của tớ ở trong tủ đồ.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W27",
+   "type": "word",
+   "en": "absent",
+   "vi": "vắng mặt",
+   "ipa": "/ˈæbsənt/",
+   "syllables": [
+    "ab",
+    "sent"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Nam is absent today. He is ill.",
+   "example_vi": "Hôm nay Nam vắng. Bạn ấy bị ốm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W28",
+   "type": "word",
+   "en": "twice",
+   "vi": "hai lần",
+   "ipa": "/twaɪs/",
+   "syllables": [
+    "twice"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "270C-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We have music twice a week.",
+   "example_vi": "Một tuần bọn tớ học nhạc hai lần.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W29",
+   "type": "word",
+   "en": "once",
+   "vi": "một lần",
+   "ipa": "/wʌns/",
+   "syllables": [
+    "once"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "261D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We go swimming once a week.",
+   "example_vi": "Một tuần bọn tớ đi bơi một lần.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W30",
+   "type": "word",
+   "en": "revise",
+   "vi": "ôn bài",
+   "ipa": "/rɪˈvaɪz/",
+   "syllables": [
+    "re",
+    "vise"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4D6"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "I revise for my test every evening.",
+   "example_vi": "Tối nào tớ cũng ôn bài kiểm tra.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W31",
+   "type": "word",
+   "en": "spelling",
+   "vi": "chính tả",
+   "ipa": "/ˈspɛlɪŋ/",
+   "syllables": [
+    "spell",
+    "ing"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F524"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "We have a spelling test on Friday.",
+   "example_vi": "Thứ Sáu bọn tớ kiểm tra chính tả.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W32",
+   "type": "word",
+   "en": "answer",
+   "vi": "câu trả lời",
+   "ipa": "/ˈænsər/",
+   "syllables": [
+    "an",
+    "swer"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Do you know the answer?",
+   "example_vi": "Cậu có biết câu trả lời không?",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W33",
+   "type": "word",
+   "en": "question",
+   "vi": "câu hỏi",
+   "ipa": "/kˈwɛʃən/",
+   "syllables": [
+    "ques",
+    "tion"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Can I ask a question?",
+   "example_vi": "Em hỏi một câu được không ạ?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W34",
+   "type": "word",
+   "en": "correct",
+   "vi": "đúng",
+   "ipa": "/kərˈɛkt/",
+   "syllables": [
+    "cor",
+    "rect"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "2714-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Your answer is correct!",
+   "example_vi": "Câu trả lời của em đúng rồi!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W35",
+   "type": "word",
+   "en": "mistake",
+   "vi": "lỗi sai",
+   "ipa": "/mɪˈsteɪk/",
+   "syllables": [
+    "mis",
+    "take"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Don't worry about mistakes.",
+   "example_vi": "Đừng lo về lỗi sai.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W36",
+   "type": "word",
+   "en": "explain",
+   "vi": "giải thích",
+   "ipa": "/ɪkˈspleɪn/",
+   "syllables": [
+    "ex",
+    "plain"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F5E3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Can you explain it again, please?",
+   "example_vi": "Cô giải thích lại được không ạ?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W37",
+   "type": "word",
+   "en": "repeat",
+   "vi": "nhắc lại",
+   "ipa": "/rɪˈpit/",
+   "syllables": [
+    "re",
+    "peat"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F501"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Listen and repeat.",
+   "example_vi": "Nghe và nhắc lại.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W38",
+   "type": "word",
+   "en": "raise",
+   "vi": "giơ lên",
+   "ipa": "/reɪz/",
+   "syllables": [
+    "raise"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "270B"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Raise your hand to answer.",
+   "example_vi": "Giơ tay để trả lời nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W39",
+   "type": "word",
+   "en": "pupil",
+   "vi": "học sinh",
+   "ipa": "/ˈpjupəl/",
+   "syllables": [
+    "pupil"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9D2"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "There are thirty pupils in our class.",
+   "example_vi": "Lớp tớ có ba mươi học sinh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W40",
+   "type": "word",
+   "en": "student",
+   "vi": "sinh viên, học sinh",
+   "ipa": "/ˈstudənt/",
+   "syllables": [
+    "stu",
+    "dent"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9D1-200D-1F393"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "My cousin is a university student.",
+   "example_vi": "Anh họ tớ là sinh viên đại học.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W41",
+   "type": "word",
+   "en": "computing",
+   "vi": "môn tin học",
+   "ipa": "/kəmˈpjutɪŋ/",
+   "syllables": [
+    "com",
+    "put",
+    "ing"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4BB"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "In computing, we learn to make games.",
+   "example_vi": "Trong giờ tin học, bọn tớ học làm trò chơi.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W42",
+   "type": "word",
+   "en": "group",
+   "vi": "nhóm",
+   "ipa": "/ɡrup/",
+   "syllables": [
+    "group"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Work in groups of four.",
+   "example_vi": "Làm việc theo nhóm bốn người.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U07-W43",
+   "type": "word",
+   "en": "class",
+   "vi": "lớp học",
+   "ipa": "/klæs/",
+   "syllables": [
+    "class"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3EB"
+   },
+   "picturable": false,
+   "cat": "L4U07",
+   "example_en": "Our class has thirty pupils.",
+   "example_vi": "Lớp tớ có ba mươi học sinh.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U07-P01",
+   "en": "My favourite subject is {x}.",
+   "vi": "Môn học yêu thích của tớ là {x}.",
+   "slots": {
+    "x": [
+     "maths",
+     "science",
+     "art",
+     "PE"
+    ]
+   }
+  },
+  {
+   "id": "L4U07-P02",
+   "en": "We have {x} twice a week.",
+   "vi": "Bọn tớ học {x} hai lần một tuần.",
+   "slots": {
+    "x": [
+     "music",
+     "drama",
+     "computing",
+     "geography"
+    ]
+   }
+  },
+  {
+   "id": "L4U07-P03",
+   "en": "Can I {x}, please?",
+   "vi": "Em {x} được không ạ?",
+   "slots": {
+    "x": [
+     "ask a question",
+     "use your glue",
+     "open the window"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U07-D01",
+   "title_vi": "Môn học yêu thích",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "What's your favourite subject?",
+     "vi": "Cậu thích môn gì nhất?"
+    },
+    {
+     "role": "Kid",
+     "en": "I love science. We do experiments!",
+     "vi": "Tớ thích khoa học. Bọn tớ làm thí nghiệm!"
+    },
+    {
+     "role": "Bi",
+     "en": "Cool! How often do you have science?",
+     "vi": "Hay đấy! Cậu học khoa học mấy lần?"
+    },
+    {
+     "role": "Kid",
+     "en": "Twice a week, on Monday and Thursday.",
+     "vi": "Hai lần một tuần, thứ Hai và thứ Năm."
+    },
+    {
+     "role": "Bi",
+     "en": "I like art best. I love painting.",
+     "vi": "Tớ thích mỹ thuật nhất. Tớ mê vẽ tranh."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "science",
+    "options": [
+     "history",
+     "art"
+    ]
+   }
+  },
+  {
+   "id": "L4U07-D02",
+   "title_vi": "Trong lớp",
+   "roles": [
+    "Teacher",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Teacher",
+     "en": "Open your textbooks, please.",
+     "vi": "Các em mở sách giáo khoa ra."
+    },
+    {
+     "role": "Kid",
+     "en": "Excuse me. Can you repeat the question, please?",
+     "vi": "Thưa cô, cô nhắc lại câu hỏi được không ạ?"
+    },
+    {
+     "role": "Teacher",
+     "en": "Of course. What is the capital of Vietnam?",
+     "vi": "Tất nhiên rồi. Thủ đô của Việt Nam là gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's Hanoi!",
+     "vi": "Là Hà Nội ạ!"
+    },
+    {
+     "role": "Teacher",
+     "en": "Correct! Well done.",
+     "vi": "Đúng rồi! Giỏi lắm."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "subject"
+  },
+  {
+   "type": "dictate_word",
+   "target": "maths"
+  },
+  {
+   "type": "dictate_word",
+   "target": "science"
+  },
+  {
+   "type": "dictate_word",
+   "target": "history"
+  },
+  {
+   "type": "dictate_word",
+   "target": "geography"
+  },
+  {
+   "type": "dictate_word",
+   "target": "art"
+  },
+  {
+   "type": "dictate_word",
+   "target": "PE"
+  },
+  {
+   "type": "dictate_word",
+   "target": "drama"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What's your favourite subject?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "We have maths every day."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "In science, we learn about plants."
+  },
+  {
+   "type": "write_sentences",
+   "target": "My favourite subject is|At break time, I|This term, we"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U07-R01",
+   "title_en": "My school day",
+   "text_en": [
+    "My name is Linh, and I'm in Year 3.",
+    "My school day starts at half past seven.",
+    "We have maths every morning.",
+    "I like maths, but sometimes I make mistakes.",
+    "At break time, I play in the playground with my classmates.",
+    "On Tuesdays, we have science in the laboratory.",
+    "My favourite subject is art because I love painting.",
+    "We eat lunch in the canteen at twelve o'clock.",
+    "In the afternoon, we work in groups on our projects.",
+    "This term, our project is about animals in danger.",
+    "School finishes at four o'clock."
+   ],
+   "questions": [
+    {
+     "q": "When does Linh's school day start?",
+     "options": [
+      "At half past seven.",
+      "At eight o'clock.",
+      "At seven o'clock."
+     ],
+     "answer": "At half past seven."
+    },
+    {
+     "q": "Where does Linh have science?",
+     "options": [
+      "In the laboratory.",
+      "In the gym.",
+      "In the canteen."
+     ],
+     "answer": "In the laboratory."
+    },
+    {
+     "q": "What is Linh's project about?",
+     "options": [
+      "Animals in danger.",
+      "The solar system.",
+      "Plants."
+     ],
+     "answer": "Animals in danger."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U07-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "science",
+   "item": "science",
+   "options": [
+    "train",
+    "together",
+    "science",
+    "notebook"
+   ],
+   "answer": "science"
+  },
+  {
+   "id": "L4U07-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "notebook",
+   "item": "notebook",
+   "options": [
+    "science",
+    "tree",
+    "fun",
+    "notebook"
+   ],
+   "answer": "notebook"
+  },
+  {
+   "id": "L4U07-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "subject",
+   "item": "subject",
+   "options": [
+    "subject",
+    "gym",
+    "group",
+    "computing"
+   ],
+   "answer": "subject"
+  },
+  {
+   "id": "L4U07-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "maths",
+   "item": "maths",
+   "options": [
+    "maths",
+    "subject",
+    "PE",
+    "spelling"
+   ],
+   "answer": "maths"
+  },
+  {
+   "id": "L4U07-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "history",
+   "item": "history",
+   "options": [
+    "project",
+    "notebook",
+    "pupil",
+    "history"
+   ],
+   "answer": "history"
+  },
+  {
+   "id": "L4U07-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "geography",
+   "item": "geography",
+   "options": [
+    "glue",
+    "raise",
+    "geography",
+    "student"
+   ],
+   "answer": "geography"
+  },
+  {
+   "id": "L4U07-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "art",
+   "item": "art",
+   "options": [
+    "PE",
+    "art",
+    "mistake",
+    "break time"
+   ],
+   "answer": "art"
+  },
+  {
+   "id": "L4U07-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "PE",
+   "item": "PE",
+   "options": [
+    "PE",
+    "report",
+    "textbook",
+    "pupil"
+   ],
+   "answer": "PE"
+  },
+  {
+   "id": "L4U07-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "drama",
+   "item": "drama",
+   "options": [
+    "drama",
+    "answer",
+    "twice",
+    "mistake"
+   ],
+   "answer": "drama"
+  },
+  {
+   "id": "L4U07-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "break time",
+   "item": "break time",
+   "options": [
+    "class",
+    "explain",
+    "break time",
+    "absent"
+   ],
+   "answer": "break time"
+  },
+  {
+   "id": "L4U07-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "classmate",
+   "item": "classmate",
+   "options": [
+    "answer",
+    "report",
+    "class",
+    "classmate"
+   ],
+   "answer": "classmate"
+  },
+  {
+   "id": "L4U07-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "headteacher",
+   "item": "headteacher",
+   "options": [
+    "headteacher",
+    "answer",
+    "gym",
+    "PE"
+   ],
+   "answer": "headteacher"
+  },
+  {
+   "id": "L4U07-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "exam",
+   "item": "exam",
+   "options": [
+    "geography",
+    "canteen",
+    "exam",
+    "repeat"
+   ],
+   "answer": "exam"
+  },
+  {
+   "id": "L4U07-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "project",
+   "item": "project",
+   "options": [
+    "correct",
+    "project",
+    "student",
+    "revise"
+   ],
+   "answer": "project"
+  },
+  {
+   "id": "L4U07-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mark",
+   "item": "mark",
+   "options": [
+    "maths",
+    "dictionary",
+    "mark",
+    "break time"
+   ],
+   "answer": "mark"
+  },
+  {
+   "id": "L4U07-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "report",
+   "item": "report",
+   "options": [
+    "twice",
+    "class",
+    "report",
+    "hall"
+   ],
+   "answer": "report"
+  },
+  {
+   "id": "L4U07-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "term",
+   "item": "term",
+   "options": [
+    "term",
+    "notebook",
+    "canteen",
+    "spelling"
+   ],
+   "answer": "term"
+  },
+  {
+   "id": "L4U07-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "canteen",
+   "item": "canteen",
+   "options": [
+    "PE",
+    "mark",
+    "canteen",
+    "student"
+   ],
+   "answer": "canteen"
+  },
+  {
+   "id": "L4U07-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hall",
+   "item": "hall",
+   "options": [
+    "pupil",
+    "revise",
+    "geography",
+    "hall"
+   ],
+   "answer": "hall"
+  },
+  {
+   "id": "L4U07-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gym",
+   "item": "gym",
+   "options": [
+    "student",
+    "PE",
+    "gym",
+    "locker"
+   ],
+   "answer": "gym"
+  },
+  {
+   "id": "L4U07-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dictionary",
+   "item": "dictionary",
+   "options": [
+    "dictionary",
+    "pupil",
+    "history",
+    "revise"
+   ],
+   "answer": "dictionary"
+  },
+  {
+   "id": "L4U07-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "textbook",
+   "item": "textbook",
+   "options": [
+    "textbook",
+    "revise",
+    "pupil",
+    "headteacher"
+   ],
+   "answer": "textbook"
+  },
+  {
+   "id": "L4U07-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "calculator",
+   "item": "calculator",
+   "options": [
+    "mistake",
+    "raise",
+    "mark",
+    "calculator"
+   ],
+   "answer": "calculator"
+  },
+  {
+   "id": "L4U07-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "glue",
+   "item": "glue",
+   "options": [
+    "glue",
+    "project",
+    "correct",
+    "report"
+   ],
+   "answer": "glue"
+  },
+  {
+   "id": "L4U07-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "scissors",
+   "item": "scissors",
+   "options": [
+    "history",
+    "scissors",
+    "subject",
+    "mistake"
+   ],
+   "answer": "scissors"
+  },
+  {
+   "id": "L4U07-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "locker",
+   "item": "locker",
+   "options": [
+    "locker",
+    "once",
+    "student",
+    "report"
+   ],
+   "answer": "locker"
+  },
+  {
+   "id": "L4U07-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "absent",
+   "item": "absent",
+   "options": [
+    "absent",
+    "art",
+    "twice",
+    "subject"
+   ],
+   "answer": "absent"
+  },
+  {
+   "id": "L4U07-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "twice",
+   "item": "twice",
+   "options": [
+    "mistake",
+    "twice",
+    "mark",
+    "explain"
+   ],
+   "answer": "twice"
+  },
+  {
+   "id": "L4U07-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "once",
+   "item": "once",
+   "options": [
+    "locker",
+    "once",
+    "drama",
+    "calculator"
+   ],
+   "answer": "once"
+  },
+  {
+   "id": "L4U07-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "revise",
+   "item": "revise",
+   "options": [
+    "question",
+    "project",
+    "revise",
+    "history"
+   ],
+   "answer": "revise"
+  },
+  {
+   "id": "L4U07-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spelling",
+   "item": "spelling",
+   "options": [
+    "question",
+    "report",
+    "correct",
+    "spelling"
+   ],
+   "answer": "spelling"
+  },
+  {
+   "id": "L4U07-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "answer",
+   "item": "answer",
+   "options": [
+    "dictionary",
+    "raise",
+    "answer",
+    "explain"
+   ],
+   "answer": "answer"
+  },
+  {
+   "id": "L4U07-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "question",
+   "item": "question",
+   "options": [
+    "computing",
+    "question",
+    "headteacher",
+    "scissors"
+   ],
+   "answer": "question"
+  },
+  {
+   "id": "L4U07-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "correct",
+   "item": "correct",
+   "options": [
+    "answer",
+    "headteacher",
+    "maths",
+    "correct"
+   ],
+   "answer": "correct"
+  },
+  {
+   "id": "L4U07-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "mistake",
+   "item": "mistake",
+   "options": [
+    "project",
+    "student",
+    "repeat",
+    "mistake"
+   ],
+   "answer": "mistake"
+  },
+  {
+   "id": "L4U07-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "explain",
+   "item": "explain",
+   "options": [
+    "explain",
+    "glue",
+    "raise",
+    "gym"
+   ],
+   "answer": "explain"
+  },
+  {
+   "id": "L4U07-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "repeat",
+   "item": "repeat",
+   "options": [
+    "pupil",
+    "once",
+    "absent",
+    "repeat"
+   ],
+   "answer": "repeat"
+  },
+  {
+   "id": "L4U07-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "raise",
+   "item": "raise",
+   "options": [
+    "answer",
+    "art",
+    "headteacher",
+    "raise"
+   ],
+   "answer": "raise"
+  },
+  {
+   "id": "L4U07-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pupil",
+   "item": "pupil",
+   "options": [
+    "notebook",
+    "explain",
+    "once",
+    "pupil"
+   ],
+   "answer": "pupil"
+  },
+  {
+   "id": "L4U07-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "student",
+   "item": "student",
+   "options": [
+    "spelling",
+    "art",
+    "student",
+    "class"
+   ],
+   "answer": "student"
+  },
+  {
+   "id": "L4U07-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "computing",
+   "item": "computing",
+   "options": [
+    "once",
+    "revise",
+    "gym",
+    "computing"
+   ],
+   "answer": "computing"
+  },
+  {
+   "id": "L4U07-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "group",
+   "item": "group",
+   "options": [
+    "group",
+    "break time",
+    "repeat",
+    "twice"
+   ],
+   "answer": "group"
+  },
+  {
+   "id": "L4U07-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "class",
+   "item": "class",
+   "options": [
+    "class",
+    "once",
+    "maths",
+    "repeat"
+   ],
+   "answer": "class"
+  },
+  {
+   "id": "L4U07-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "science",
+   "answer": "science"
+  },
+  {
+   "id": "L4U07-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "notebook",
+   "answer": "notebook"
+  },
+  {
+   "id": "L4U07-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your favourite subject?",
+   "item": "subject",
+   "answer": "What's your favourite subject?"
+  },
+  {
+   "id": "L4U07-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have maths every day.",
+   "item": "maths",
+   "answer": "We have maths every day."
+  },
+  {
+   "id": "L4U07-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In science, we learn about plants.",
+   "item": "science",
+   "answer": "In science, we learn about plants."
+  },
+  {
+   "id": "L4U07-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "History is about the past.",
+   "item": "history",
+   "answer": "History is about the past."
+  },
+  {
+   "id": "L4U07-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We learn about mountains in geography.",
+   "item": "geography",
+   "answer": "We learn about mountains in geography."
+  },
+  {
+   "id": "L4U07-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I painted a tiger in art.",
+   "item": "art",
+   "answer": "I painted a tiger in art."
+  },
+  {
+   "id": "L4U07-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We play football in PE.",
+   "item": "PE",
+   "answer": "We play football in PE."
+  },
+  {
+   "id": "L4U07-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In drama, I was a giant.",
+   "item": "drama",
+   "answer": "In drama, I was a giant."
+  },
+  {
+   "id": "L4U07-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We play in the playground at break time.",
+   "item": "break time",
+   "answer": "We play in the playground at break time."
+  },
+  {
+   "id": "L4U07-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My classmates are friendly.",
+   "item": "classmate",
+   "answer": "My classmates are friendly."
+  },
+  {
+   "id": "L4U07-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The headteacher gave me a prize.",
+   "item": "headteacher",
+   "answer": "The headteacher gave me a prize."
+  },
+  {
+   "id": "L4U07-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have an exam next week.",
+   "item": "exam",
+   "answer": "We have an exam next week."
+  },
+  {
+   "id": "L4U07-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our project is about the solar system.",
+   "item": "project",
+   "answer": "Our project is about the solar system."
+  },
+  {
+   "id": "L4U07-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got a good mark in maths.",
+   "item": "mark",
+   "answer": "I got a good mark in maths."
+  },
+  {
+   "id": "L4U07-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My school report was excellent.",
+   "item": "report",
+   "answer": "My school report was excellent."
+  },
+  {
+   "id": "L4U07-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The new term starts in September.",
+   "item": "term",
+   "answer": "The new term starts in September."
+  },
+  {
+   "id": "L4U07-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We eat lunch in the canteen.",
+   "item": "canteen",
+   "answer": "We eat lunch in the canteen."
+  },
+  {
+   "id": "L4U07-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The concert is in the school hall.",
+   "item": "hall",
+   "answer": "The concert is in the school hall."
+  },
+  {
+   "id": "L4U07-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have PE in the gym when it rains.",
+   "item": "gym",
+   "answer": "We have PE in the gym when it rains."
+  },
+  {
+   "id": "L4U07-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Write the new words in your notebook.",
+   "item": "notebook",
+   "answer": "Write the new words in your notebook."
+  },
+  {
+   "id": "L4U07-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look for the word in the dictionary.",
+   "item": "dictionary",
+   "answer": "Look for the word in the dictionary."
+  },
+  {
+   "id": "L4U07-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Open your textbook at page ten.",
+   "item": "textbook",
+   "answer": "Open your textbook at page ten."
+  },
+  {
+   "id": "L4U07-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't use a calculator in the test.",
+   "item": "calculator",
+   "answer": "Don't use a calculator in the test."
+  },
+  {
+   "id": "L4U07-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I need glue for my project.",
+   "item": "glue",
+   "answer": "I need glue for my project."
+  },
+  {
+   "id": "L4U07-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Be careful with the scissors.",
+   "item": "scissors",
+   "answer": "Be careful with the scissors."
+  },
+  {
+   "id": "L4U07-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My books are in my locker.",
+   "item": "locker",
+   "answer": "My books are in my locker."
+  },
+  {
+   "id": "L4U07-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nam is absent today. He is ill.",
+   "item": "absent",
+   "answer": "Nam is absent today. He is ill."
+  },
+  {
+   "id": "L4U07-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have music twice a week.",
+   "item": "twice",
+   "answer": "We have music twice a week."
+  },
+  {
+   "id": "L4U07-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We go swimming once a week.",
+   "item": "once",
+   "answer": "We go swimming once a week."
+  },
+  {
+   "id": "L4U07-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I revise for my test every evening.",
+   "item": "revise",
+   "answer": "I revise for my test every evening."
+  },
+  {
+   "id": "L4U07-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have a spelling test on Friday.",
+   "item": "spelling",
+   "answer": "We have a spelling test on Friday."
+  },
+  {
+   "id": "L4U07-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Do you know the answer?",
+   "item": "answer",
+   "answer": "Do you know the answer?"
+  },
+  {
+   "id": "L4U07-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I ask a question?",
+   "item": "question",
+   "answer": "Can I ask a question?"
+  },
+  {
+   "id": "L4U07-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your answer is correct!",
+   "item": "correct",
+   "answer": "Your answer is correct!"
+  },
+  {
+   "id": "L4U07-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't worry about mistakes.",
+   "item": "mistake",
+   "answer": "Don't worry about mistakes."
+  },
+  {
+   "id": "L4U07-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you explain it again, please?",
+   "item": "explain",
+   "answer": "Can you explain it again, please?"
+  },
+  {
+   "id": "L4U07-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Listen and repeat.",
+   "item": "repeat",
+   "answer": "Listen and repeat."
+  },
+  {
+   "id": "L4U07-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Raise your hand to answer.",
+   "item": "raise",
+   "answer": "Raise your hand to answer."
+  },
+  {
+   "id": "L4U07-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are thirty pupils in our class.",
+   "item": "pupil",
+   "answer": "There are thirty pupils in our class."
+  },
+  {
+   "id": "L4U07-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My cousin is a university student.",
+   "item": "student",
+   "answer": "My cousin is a university student."
+  },
+  {
+   "id": "L4U07-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In computing, we learn to make games.",
+   "item": "computing",
+   "answer": "In computing, we learn to make games."
+  },
+  {
+   "id": "L4U07-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Work in groups of four.",
+   "item": "group",
+   "answer": "Work in groups of four."
+  },
+  {
+   "id": "L4U07-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our class has thirty pupils.",
+   "item": "class",
+   "answer": "Our class has thirty pupils."
+  },
+  {
+   "id": "L4U07-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite subject is maths.",
+   "answer": "My favourite subject is maths."
+  },
+  {
+   "id": "L4U07-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite subject is science.",
+   "answer": "My favourite subject is science."
+  },
+  {
+   "id": "L4U07-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My favourite subject is art.",
+   "answer": "My favourite subject is art."
+  },
+  {
+   "id": "L4U07-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have music twice a week.",
+   "answer": "We have music twice a week."
+  },
+  {
+   "id": "L4U07-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have drama twice a week.",
+   "answer": "We have drama twice a week."
+  },
+  {
+   "id": "L4U07-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We have computing twice a week.",
+   "answer": "We have computing twice a week."
+  },
+  {
+   "id": "L4U07-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I ask a question, please?",
+   "answer": "Can I ask a question, please?"
+  },
+  {
+   "id": "L4U07-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I use your glue, please?",
+   "answer": "Can I use your glue, please?"
+  },
+  {
+   "id": "L4U07-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I open the window, please?",
+   "answer": "Can I open the window, please?"
+  },
+  {
+   "id": "L4U07-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What's your favourite subject?",
+   "answer": "I love science. We do experiments!"
+  },
+  {
+   "id": "L4U07-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Cool! How often do you have science?",
+   "answer": "Twice a week, on Monday and Thursday."
+  },
+  {
+   "id": "L4U07-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me. Can you repeat the question, please?",
+   "answer": "Of course. What is the capital of Vietnam?"
+  },
+  {
+   "id": "L4U07-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Of course. What is the capital of Vietnam?",
+   "answer": "It's Hanoi!"
+  },
+  {
+   "id": "L4U07-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "science",
+   "options": [
+    "notebook",
+    "desk",
+    "science"
+   ],
+   "answer": "science"
+  },
+  {
+   "id": "L4U07-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "notebook",
+   "options": [
+    "science",
+    "shorts",
+    "notebook"
+   ],
+   "answer": "notebook"
+  },
+  {
+   "id": "L4U07-Q104",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What's your favourite ___?",
+   "item": "subject",
+   "options": [
+    "subject",
+    "calculator",
+    "history"
+   ],
+   "answer": "subject"
+  },
+  {
+   "id": "L4U07-Q105",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have ___ every day.",
+   "item": "maths",
+   "options": [
+    "exam",
+    "maths",
+    "class"
+   ],
+   "answer": "maths"
+  },
+  {
+   "id": "L4U07-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In ___, we learn about plants.",
+   "item": "science",
+   "options": [
+    "maths",
+    "science",
+    "absent"
+   ],
+   "answer": "science"
+  },
+  {
+   "id": "L4U07-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ is about the past.",
+   "item": "history",
+   "options": [
+    "Classmate",
+    "History",
+    "Term"
+   ],
+   "answer": "History"
+  },
+  {
+   "id": "L4U07-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We learn about mountains in ___.",
+   "item": "geography",
+   "options": [
+    "geography",
+    "notebook",
+    "hall"
+   ],
+   "answer": "geography"
+  },
+  {
+   "id": "L4U07-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I painted a tiger in ___.",
+   "item": "art",
+   "options": [
+    "art",
+    "headteacher",
+    "dictionary"
+   ],
+   "answer": "art"
+  },
+  {
+   "id": "L4U07-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In ___, I was a giant.",
+   "item": "drama",
+   "options": [
+    "drama",
+    "mark",
+    "twice"
+   ],
+   "answer": "drama"
+  },
+  {
+   "id": "L4U07-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ are friendly.",
+   "item": "classmate",
+   "options": [
+    "classmates",
+    "sciences",
+    "computings"
+   ],
+   "answer": "classmates"
+  },
+  {
+   "id": "L4U07-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ gave me a prize.",
+   "item": "headteacher",
+   "options": [
+    "subject",
+    "explain",
+    "headteacher"
+   ],
+   "answer": "headteacher"
+  },
+  {
+   "id": "L4U07-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have an ___ next week.",
+   "item": "exam",
+   "options": [
+    "exam",
+    "pupil",
+    "twice"
+   ],
+   "answer": "exam"
+  },
+  {
+   "id": "L4U07-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is about the solar system.",
+   "item": "project",
+   "options": [
+    "project",
+    "raise",
+    "pupil"
+   ],
+   "answer": "project"
+  },
+  {
+   "id": "L4U07-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I got a good ___ in maths.",
+   "item": "mark",
+   "options": [
+    "mark",
+    "hall",
+    "canteen"
+   ],
+   "answer": "mark"
+  },
+  {
+   "id": "L4U07-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My school ___ was excellent.",
+   "item": "report",
+   "options": [
+    "mark",
+    "report",
+    "geography"
+   ],
+   "answer": "report"
+  },
+  {
+   "id": "L4U07-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The new ___ starts in September.",
+   "item": "term",
+   "options": [
+    "drama",
+    "once",
+    "term"
+   ],
+   "answer": "term"
+  },
+  {
+   "id": "L4U07-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We eat lunch in the ___.",
+   "item": "canteen",
+   "options": [
+    "canteen",
+    "art",
+    "mark"
+   ],
+   "answer": "canteen"
+  },
+  {
+   "id": "L4U07-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The concert is in the school ___.",
+   "item": "hall",
+   "options": [
+    "textbook",
+    "hall",
+    "glue"
+   ],
+   "answer": "hall"
+  },
+  {
+   "id": "L4U07-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have PE in the ___ when it rains.",
+   "item": "gym",
+   "options": [
+    "twice",
+    "gym",
+    "term"
+   ],
+   "answer": "gym"
+  },
+  {
+   "id": "L4U07-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Write the new words in your ___.",
+   "item": "notebook",
+   "options": [
+    "explain",
+    "twice",
+    "notebook"
+   ],
+   "answer": "notebook"
+  },
+  {
+   "id": "L4U07-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look for the word in the ___.",
+   "item": "dictionary",
+   "options": [
+    "art",
+    "dictionary",
+    "pupil"
+   ],
+   "answer": "dictionary"
+  },
+  {
+   "id": "L4U07-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Open your ___ at page ten.",
+   "item": "textbook",
+   "options": [
+    "explain",
+    "textbook",
+    "group"
+   ],
+   "answer": "textbook"
+  },
+  {
+   "id": "L4U07-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't use a ___ in the test.",
+   "item": "calculator",
+   "options": [
+    "calculator",
+    "computing",
+    "student"
+   ],
+   "answer": "calculator"
+  },
+  {
+   "id": "L4U07-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I need ___ for my project.",
+   "item": "glue",
+   "options": [
+    "mistake",
+    "history",
+    "glue"
+   ],
+   "answer": "glue"
+  },
+  {
+   "id": "L4U07-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Be careful with the ___.",
+   "item": "scissors",
+   "options": [
+    "once",
+    "scissors",
+    "twice"
+   ],
+   "answer": "scissors"
+  },
+  {
+   "id": "L4U07-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My books are in my ___.",
+   "item": "locker",
+   "options": [
+    "maths",
+    "history",
+    "locker"
+   ],
+   "answer": "locker"
+  },
+  {
+   "id": "L4U07-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Nam is ___ today. He is ill.",
+   "item": "absent",
+   "options": [
+    "spelling",
+    "once",
+    "absent"
+   ],
+   "answer": "absent"
+  },
+  {
+   "id": "L4U07-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have music ___ a week.",
+   "item": "twice",
+   "options": [
+    "hall",
+    "twice",
+    "question"
+   ],
+   "answer": "twice"
+  },
+  {
+   "id": "L4U07-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We go swimming ___ a week.",
+   "item": "once",
+   "options": [
+    "once",
+    "maths",
+    "term"
+   ],
+   "answer": "once"
+  },
+  {
+   "id": "L4U07-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ for my test every evening.",
+   "item": "revise",
+   "options": [
+    "student",
+    "textbook",
+    "revise"
+   ],
+   "answer": "revise"
+  },
+  {
+   "id": "L4U07-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We have a ___ test on Friday.",
+   "item": "spelling",
+   "options": [
+    "twice",
+    "subject",
+    "spelling"
+   ],
+   "answer": "spelling"
+  },
+  {
+   "id": "L4U07-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Do you know the ___?",
+   "item": "answer",
+   "options": [
+    "subject",
+    "geography",
+    "answer"
+   ],
+   "answer": "answer"
+  },
+  {
+   "id": "L4U07-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I ask a ___?",
+   "item": "question",
+   "options": [
+    "science",
+    "question",
+    "revise"
+   ],
+   "answer": "question"
+  },
+  {
+   "id": "L4U07-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your answer is ___!",
+   "item": "correct",
+   "options": [
+    "correct",
+    "drama",
+    "group"
+   ],
+   "answer": "correct"
+  },
+  {
+   "id": "L4U07-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't worry about ___.",
+   "item": "mistake",
+   "options": [
+    "mistakes",
+    "sciences",
+    "notebooks"
+   ],
+   "answer": "mistakes"
+  },
+  {
+   "id": "L4U07-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you ___ it again, please?",
+   "item": "explain",
+   "options": [
+    "subject",
+    "explain",
+    "mark"
+   ],
+   "answer": "explain"
+  },
+  {
+   "id": "L4U07-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Listen and ___.",
+   "item": "repeat",
+   "options": [
+    "computing",
+    "mark",
+    "repeat"
+   ],
+   "answer": "repeat"
+  },
+  {
+   "id": "L4U07-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ your hand to answer.",
+   "item": "raise",
+   "options": [
+    "Class",
+    "Scissors",
+    "Raise"
+   ],
+   "answer": "Raise"
+  },
+  {
+   "id": "L4U07-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are thirty ___ in our class.",
+   "item": "pupil",
+   "options": [
+    "pupils",
+    "sciences",
+    "notebooks"
+   ],
+   "answer": "pupils"
+  },
+  {
+   "id": "L4U07-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My cousin is a university ___.",
+   "item": "student",
+   "options": [
+    "mark",
+    "student",
+    "hall"
+   ],
+   "answer": "student"
+  },
+  {
+   "id": "L4U07-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "In ___, we learn to make games.",
+   "item": "computing",
+   "options": [
+    "raise",
+    "computing",
+    "spelling"
+   ],
+   "answer": "computing"
+  },
+  {
+   "id": "L4U07-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Work in ___ of four.",
+   "item": "group",
+   "options": [
+    "sciences",
+    "notebooks",
+    "groups"
+   ],
+   "answer": "groups"
+  },
+  {
+   "id": "L4U07-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ has thirty pupils.",
+   "item": "class",
+   "options": [
+    "glue",
+    "class",
+    "correct"
+   ],
+   "answer": "class"
+  },
+  {
+   "id": "L4U07-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "In science, we learn about plants.",
+   "item": "science",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U07-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Write the new words in your notebook.",
+   "item": "science",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U07-Q147",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U07-R01",
+   "text_en": "When does Linh's school day start?",
+   "options": [
+    "At half past seven.",
+    "At eight o'clock.",
+    "At seven o'clock."
+   ],
+   "answer": "At half past seven."
+  },
+  {
+   "id": "L4U07-Q148",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U07-R01",
+   "text_en": "Where does Linh have science?",
+   "options": [
+    "In the gym.",
+    "In the laboratory.",
+    "In the canteen."
+   ],
+   "answer": "In the laboratory."
+  },
+  {
+   "id": "L4U07-Q149",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U07-R01",
+   "text_en": "What is Linh's project about?",
+   "options": [
+    "Animals in danger.",
+    "The solar system.",
+    "Plants."
+   ],
+   "answer": "Animals in danger."
+  },
+  {
+   "id": "L4U07-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "subject",
+   "item": "subject",
+   "answer": "subject"
+  },
+  {
+   "id": "L4U07-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "maths",
+   "item": "maths",
+   "answer": "maths"
+  },
+  {
+   "id": "L4U07-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "science",
+   "item": "science",
+   "answer": "science"
+  },
+  {
+   "id": "L4U07-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "history",
+   "item": "history",
+   "answer": "history"
+  },
+  {
+   "id": "L4U07-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "geography",
+   "item": "geography",
+   "answer": "geography"
+  },
+  {
+   "id": "L4U07-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "art",
+   "item": "art",
+   "answer": "art"
+  },
+  {
+   "id": "L4U07-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "PE",
+   "item": "PE",
+   "answer": "PE"
+  },
+  {
+   "id": "L4U07-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "drama",
+   "item": "drama",
+   "answer": "drama"
+  },
+  {
+   "id": "L4U07-Q158",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What's your favourite subject?",
+   "answer": "What's your favourite subject?"
+  },
+  {
+   "id": "L4U07-Q159",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "We have maths every day.",
+   "answer": "We have maths every day."
+  },
+  {
+   "id": "L4U07-Q160",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "In science, we learn about plants.",
+   "answer": "In science, we learn about plants."
+  }
+ ]
+}

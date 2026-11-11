@@ -1,0 +1,3034 @@
+{
+ "id": "L4U04",
+ "level": 4,
+ "unit": 4,
+ "topic_en": "Travel and transport",
+ "topic_vi": "Đi lại và phương tiện",
+ "can_do_vi": [
+  "Mua vé, hỏi giờ tàu xe chạy",
+  "Kể về một chuyến đi xa"
+ ],
+ "grammar_note_vi": "Hỏi giờ: \"What time does the train leave?\" – \"It leaves at half past nine.\" Giờ rưỡi nói \"half past\", mười lăm phút nói \"a quarter past\".",
+ "items": [
+  {
+   "id": "L4U04-W01",
+   "type": "word",
+   "en": "journey",
+   "vi": "chuyến đi",
+   "ipa": "/ˈdʒʌrni/",
+   "syllables": [
+    "jour",
+    "ney"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F6E4-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The journey to Grandma's house is long.",
+   "example_vi": "Đường đến nhà bà xa lắm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W02",
+   "type": "word",
+   "en": "hour",
+   "vi": "giờ đồng hồ",
+   "ipa": "/aʊʌr/",
+   "syllables": [
+    "hour"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F550"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The film is two hours long.",
+   "example_vi": "Bộ phim dài hai tiếng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W03",
+   "type": "word",
+   "en": "half",
+   "vi": "một nửa",
+   "ipa": "/hæf/",
+   "syllables": [
+    "half"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F317"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Cut the apple in half.",
+   "example_vi": "Cắt đôi quả táo ra.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W04",
+   "type": "word",
+   "en": "quarter",
+   "vi": "một phần tư, mười lăm phút",
+   "ipa": "/kˈwɔrtər/",
+   "syllables": [
+    "quar",
+    "ter"
+   ],
+   "phonics": "initial_q",
+   "image": {
+    "emoji": "1F552"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "It's a quarter past ten.",
+   "example_vi": "Bây giờ là mười giờ mười lăm.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W05",
+   "type": "word",
+   "en": "timetable",
+   "vi": "lịch trình",
+   "ipa": "/ˈtaɪmˌteɪbəl/",
+   "syllables": [
+    "timetable"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F5D3-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Let's look at the train timetable.",
+   "example_vi": "Mình xem lịch tàu nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W06",
+   "type": "word",
+   "en": "platform",
+   "vi": "sân ga",
+   "ipa": "/ˈplætˌfɔrm/",
+   "syllables": [
+    "plat",
+    "form"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F689"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "The train leaves from platform two.",
+   "example_vi": "Tàu chạy từ sân ga số hai.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W07",
+   "type": "word",
+   "en": "arrive",
+   "vi": "đến nơi",
+   "ipa": "/əraɪv/",
+   "syllables": [
+    "arrive"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F6EC"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "We arrived at the hotel at six o'clock.",
+   "example_vi": "Nhà tớ đến khách sạn lúc sáu giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W08",
+   "type": "word",
+   "en": "leave",
+   "vi": "rời đi, khởi hành",
+   "ipa": "/liv/",
+   "syllables": [
+    "leave"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F6EB"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The bus leaves at half past eight.",
+   "example_vi": "Xe buýt chạy lúc tám giờ rưỡi.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W09",
+   "type": "word",
+   "en": "delay",
+   "vi": "sự chậm trễ",
+   "ipa": "/dɪˈleɪ/",
+   "syllables": [
+    "de",
+    "lay"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "There is a delay because of the storm.",
+   "example_vi": "Có sự chậm trễ vì bão.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W10",
+   "type": "phrase",
+   "en": "on time",
+   "vi": "đúng giờ",
+   "ipa": "/ɔn taɪm/",
+   "syllables": [
+    "on",
+    "time"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F0"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The train is on time today.",
+   "example_vi": "Hôm nay tàu đến đúng giờ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W11",
+   "type": "phrase",
+   "en": "return ticket",
+   "vi": "vé khứ hồi",
+   "ipa": "/rɪˈtʌrn ˈtɪkɪt/",
+   "syllables": [
+    "re",
+    "turn",
+    "tick",
+    "et"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F39F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "A return ticket to Hue, please.",
+   "example_vi": "Cho tôi một vé khứ hồi đi Huế.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W12",
+   "type": "phrase",
+   "en": "single ticket",
+   "vi": "vé một chiều",
+   "ipa": "/ˈsɪŋɡəl ˈtɪkɪt/",
+   "syllables": [
+    "sin",
+    "gle",
+    "tick",
+    "et"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F39F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "A single ticket is cheaper.",
+   "example_vi": "Vé một chiều rẻ hơn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W13",
+   "type": "word",
+   "en": "passenger",
+   "vi": "hành khách",
+   "ipa": "/ˈpæsəndʒər/",
+   "syllables": [
+    "pas",
+    "sen",
+    "ger"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9CD"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The bus is full of passengers.",
+   "example_vi": "Xe buýt chật kín hành khách.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W14",
+   "type": "word",
+   "en": "luggage",
+   "vi": "hành lý",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "syllables": [
+    "lug",
+    "gage"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F9F3"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Don't leave your luggage alone.",
+   "example_vi": "Đừng để hành lý một mình.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W15",
+   "type": "word",
+   "en": "suitcase",
+   "vi": "va li",
+   "ipa": "/ˈsutˌkeɪs/",
+   "syllables": [
+    "suit",
+    "case"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F3"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "My suitcase is very heavy.",
+   "example_vi": "Va li của tớ rất nặng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W16",
+   "type": "word",
+   "en": "backpack",
+   "vi": "ba lô",
+   "ipa": "/ˈbækˌpæk/",
+   "syllables": [
+    "back",
+    "pack"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F392"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "I carry my backpack on the plane.",
+   "example_vi": "Tớ mang ba lô lên máy bay.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W17",
+   "type": "word",
+   "en": "seat",
+   "vi": "chỗ ngồi",
+   "ipa": "/sit/",
+   "syllables": [
+    "seat"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4BA"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "Is this seat free?",
+   "example_vi": "Chỗ này còn trống không?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W18",
+   "type": "phrase",
+   "en": "traffic jam",
+   "vi": "tắc đường",
+   "ipa": "/ˈtræfɪk dʒæm/",
+   "syllables": [
+    "traf",
+    "fic",
+    "jam"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F697"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "We were late because of a traffic jam.",
+   "example_vi": "Bọn tớ đến muộn vì tắc đường.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W19",
+   "type": "word",
+   "en": "underground",
+   "vi": "tàu điện ngầm",
+   "ipa": "/ˈʌndərˌɡraʊnd/",
+   "syllables": [
+    "un",
+    "der",
+    "ground"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F687"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "We took the underground in London.",
+   "example_vi": "Nhà tớ đi tàu điện ngầm ở Luân Đôn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W20",
+   "type": "word",
+   "en": "tram",
+   "vi": "xe điện",
+   "ipa": "/træm/",
+   "syllables": [
+    "tram"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F68B"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "The tram goes along the river.",
+   "example_vi": "Xe điện chạy dọc bờ sông.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W21",
+   "type": "word",
+   "en": "ferry",
+   "vi": "phà",
+   "ipa": "/ˈfɛri/",
+   "syllables": [
+    "fer",
+    "ry"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "26F4-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "We took a ferry to the island.",
+   "example_vi": "Nhà tớ đi phà ra đảo.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W22",
+   "type": "phrase",
+   "en": "cable car",
+   "vi": "cáp treo",
+   "ipa": "/ˈkeɪbəl kɑr/",
+   "syllables": [
+    "ca",
+    "ble",
+    "car"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6A1"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "The cable car goes up the mountain.",
+   "example_vi": "Cáp treo đi lên núi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W23",
+   "type": "word",
+   "en": "scooter",
+   "vi": "xe trượt scooter",
+   "ipa": "/ˈskutər/",
+   "syllables": [
+    "scoot",
+    "er"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6F4"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "I ride my scooter to the park.",
+   "example_vi": "Tớ đi xe trượt đến công viên.",
+   "pron_focus": [
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W24",
+   "type": "phrase",
+   "en": "check in",
+   "vi": "làm thủ tục",
+   "ipa": "/tʃɛk ɪn/",
+   "syllables": [
+    "check",
+    "in"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6C4"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "We check in at the airport.",
+   "example_vi": "Nhà tớ làm thủ tục ở sân bay.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W25",
+   "type": "word",
+   "en": "flight",
+   "vi": "chuyến bay",
+   "ipa": "/flaɪt/",
+   "syllables": [
+    "flight"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2708-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Our flight is at nine o'clock.",
+   "example_vi": "Chuyến bay của nhà tớ lúc chín giờ.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W26",
+   "type": "word",
+   "en": "miss",
+   "vi": "lỡ (chuyến)",
+   "ipa": "/mɪs/",
+   "syllables": [
+    "miss"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F629"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Hurry up! Don't miss the bus!",
+   "example_vi": "Nhanh lên! Đừng để lỡ xe buýt!",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W27",
+   "type": "phrase",
+   "en": "get on",
+   "vi": "lên (xe)",
+   "ipa": "/ɡɪt ɔn/",
+   "syllables": [
+    "get",
+    "on"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2B06-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Get on the bus, please.",
+   "example_vi": "Mời lên xe buýt.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W28",
+   "type": "phrase",
+   "en": "get off",
+   "vi": "xuống (xe)",
+   "ipa": "/ɡɪt ɔf/",
+   "syllables": [
+    "get",
+    "off"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2B07-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "We get off at the next stop.",
+   "example_vi": "Mình xuống ở bến sau.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W29",
+   "type": "phrase",
+   "en": "ticket office",
+   "vi": "phòng bán vé",
+   "ipa": "/ˈtɪkɪt ˈɔfəs/",
+   "syllables": [
+    "tick",
+    "et",
+    "of",
+    "fice"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3AB"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Buy your ticket at the ticket office.",
+   "example_vi": "Mua vé ở phòng bán vé nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W30",
+   "type": "word",
+   "en": "crowded",
+   "vi": "đông đúc",
+   "ipa": "/ˈkraʊdɪd/",
+   "syllables": [
+    "crowd",
+    "ed"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F465"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The train is very crowded today.",
+   "example_vi": "Hôm nay tàu rất đông.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W31",
+   "type": "word",
+   "en": "speed",
+   "vi": "tốc độ",
+   "ipa": "/spid/",
+   "syllables": [
+    "speed"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3CE-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "The train goes at a high speed.",
+   "example_vi": "Tàu chạy với tốc độ cao.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W32",
+   "type": "word",
+   "en": "overnight",
+   "vi": "qua đêm",
+   "ipa": "/ˈoʊvərˈnaɪt/",
+   "syllables": [
+    "overnight"
+   ],
+   "phonics": "initial_o",
+   "image": {
+    "emoji": "1F319"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "We took an overnight train.",
+   "example_vi": "Nhà tớ đi tàu đêm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W33",
+   "type": "word",
+   "en": "abroad",
+   "vi": "ở nước ngoài",
+   "ipa": "/əˈbrɔd/",
+   "syllables": [
+    "abroad"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F30F"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "My uncle works abroad.",
+   "example_vi": "Chú tớ làm việc ở nước ngoài.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W34",
+   "type": "word",
+   "en": "carriage",
+   "vi": "toa tàu",
+   "ipa": "/ˈkɛrədʒ/",
+   "syllables": [
+    "car",
+    "riage"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F683"
+   },
+   "picturable": true,
+   "cat": "L4U04",
+   "example_en": "Our seats are in carriage four.",
+   "example_vi": "Chỗ của nhà tớ ở toa số bốn.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W35",
+   "type": "word",
+   "en": "fasten",
+   "vi": "thắt, buộc",
+   "ipa": "/ˈfæsən/",
+   "syllables": [
+    "fas",
+    "ten"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F517"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Please fasten your seat belt.",
+   "example_vi": "Xin thắt dây an toàn.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W36",
+   "type": "word",
+   "en": "announcement",
+   "vi": "thông báo",
+   "ipa": "/əˈnaʊnsmɛnt/",
+   "syllables": [
+    "an",
+    "nounce",
+    "ment"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F4E2"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Listen to the announcement.",
+   "example_vi": "Hãy nghe thông báo.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W37",
+   "type": "word",
+   "en": "gate",
+   "vi": "cổng",
+   "ipa": "/ɡeɪt/",
+   "syllables": [
+    "gate"
+   ],
+   "phonics": "initial_g",
+   "image": {
+    "emoji": "1F6A7"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Our plane leaves from gate five.",
+   "example_vi": "Máy bay của nhà tớ cất cánh ở cổng số năm.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W38",
+   "type": "phrase",
+   "en": "boarding pass",
+   "vi": "thẻ lên máy bay",
+   "ipa": "/ˈbɔrdɪŋ pæs/",
+   "syllables": [
+    "board",
+    "ing",
+    "pass"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3AB"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "Show your boarding pass, please.",
+   "example_vi": "Xin cho xem thẻ lên máy bay.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U04-W39",
+   "type": "phrase",
+   "en": "how long",
+   "vi": "bao lâu",
+   "ipa": "/haʊ lɔŋ/",
+   "syllables": [
+    "how",
+    "long"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L4U04",
+   "example_en": "How long is the journey?",
+   "example_vi": "Chuyến đi mất bao lâu?",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U04-P01",
+   "en": "What time does the {x} leave?",
+   "vi": "{x} khởi hành lúc mấy giờ?",
+   "slots": {
+    "x": [
+     "train",
+     "bus",
+     "ferry",
+     "plane"
+    ]
+   }
+  },
+  {
+   "id": "L4U04-P02",
+   "en": "It leaves at {x}.",
+   "vi": "Nó khởi hành lúc {x}.",
+   "slots": {
+    "x": [
+     "half past nine",
+     "a quarter past ten",
+     "seven o'clock"
+    ]
+   }
+  },
+  {
+   "id": "L4U04-P03",
+   "en": "A {x} to Hanoi, please.",
+   "vi": "Cho tôi {x} đi Hà Nội.",
+   "slots": {
+    "x": [
+     "return ticket",
+     "single ticket"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U04-D01",
+   "title_vi": "Mua vé tàu",
+   "roles": [
+    "Assistant",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Excuse me. When does the next train to Hanoi leave?",
+     "vi": "Xin lỗi cô. Chuyến tàu tiếp theo đi Hà Nội chạy lúc mấy giờ ạ?"
+    },
+    {
+     "role": "Assistant",
+     "en": "At a quarter past ten.",
+     "vi": "Lúc mười giờ mười lăm."
+    },
+    {
+     "role": "Kid",
+     "en": "Can I have two return tickets, please?",
+     "vi": "Cho cháu hai vé khứ hồi ạ."
+    },
+    {
+     "role": "Assistant",
+     "en": "Here you are. The train leaves from platform three.",
+     "vi": "Của cháu đây. Tàu chạy từ sân ga số ba."
+    },
+    {
+     "role": "Kid",
+     "en": "How long is the journey?",
+     "vi": "Chuyến đi mất bao lâu ạ?"
+    },
+    {
+     "role": "Assistant",
+     "en": "About two hours.",
+     "vi": "Khoảng hai tiếng."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you!",
+     "vi": "Cháu cảm ơn!"
+    }
+   ]
+  },
+  {
+   "id": "L4U04-D02",
+   "title_vi": "Ở sân bay",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Do you have your boarding pass?",
+     "vi": "Cậu có thẻ lên máy bay chưa?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, here it is. Which gate is it?",
+     "vi": "Có, đây này. Cổng số mấy nhỉ?"
+    },
+    {
+     "role": "Bi",
+     "en": "Gate twelve. Listen! There's an announcement.",
+     "vi": "Cổng mười hai. Nghe kìa! Có thông báo."
+    },
+    {
+     "role": "Kid",
+     "en": "Oh no! Our flight has a delay.",
+     "vi": "Ôi không! Chuyến bay của mình bị hoãn."
+    },
+    {
+     "role": "Bi",
+     "en": "Never mind. Let's have a snack.",
+     "vi": "Không sao. Mình ăn nhẹ nhé."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "journey"
+  },
+  {
+   "type": "dictate_word",
+   "target": "hour"
+  },
+  {
+   "type": "dictate_word",
+   "target": "half"
+  },
+  {
+   "type": "dictate_word",
+   "target": "quarter"
+  },
+  {
+   "type": "dictate_word",
+   "target": "timetable"
+  },
+  {
+   "type": "dictate_word",
+   "target": "platform"
+  },
+  {
+   "type": "dictate_word",
+   "target": "arrive"
+  },
+  {
+   "type": "dictate_word",
+   "target": "leave"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The journey to Grandma's house is long."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The film is two hours long."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Cut the apple in half."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Last summer, I travelled to|We went by|The journey took"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U04-R01",
+   "title_en": "A long journey",
+   "text_en": [
+    "Last summer, Nam's family travelled to the north of Vietnam.",
+    "They got up very early and took a taxi to the station.",
+    "The train left at a quarter past six, and it was on time.",
+    "The journey took eight hours.",
+    "Nam sat by the window and looked at the rice fields and mountains.",
+    "He ate snacks and played cards with his sister.",
+    "When they arrived, they took a bus to their hotel.",
+    "The next day, they went up a mountain in a cable car.",
+    "The view from the top was amazing!",
+    "Nam was tired, but he loved the trip."
+   ],
+   "questions": [
+    {
+     "q": "How did the family travel to the north?",
+     "options": [
+      "By train.",
+      "By plane.",
+      "By car."
+     ],
+     "answer": "By train."
+    },
+    {
+     "q": "How long was the journey?",
+     "options": [
+      "Eight hours.",
+      "Two hours.",
+      "Six hours."
+     ],
+     "answer": "Eight hours."
+    },
+    {
+     "q": "How did they go up the mountain?",
+     "options": [
+      "In a cable car.",
+      "On foot.",
+      "By bus."
+     ],
+     "answer": "In a cable car."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "platform",
+   "item": "platform",
+   "options": [
+    "scooter",
+    "carriage",
+    "platform",
+    "underground"
+   ],
+   "answer": "platform"
+  },
+  {
+   "id": "L4U04-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "seat",
+   "item": "seat",
+   "options": [
+    "cable car",
+    "platform",
+    "seat",
+    "tram"
+   ],
+   "answer": "seat"
+  },
+  {
+   "id": "L4U04-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "underground",
+   "item": "underground",
+   "options": [
+    "tram",
+    "cable car",
+    "underground",
+    "carriage"
+   ],
+   "answer": "underground"
+  },
+  {
+   "id": "L4U04-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tram",
+   "item": "tram",
+   "options": [
+    "carriage",
+    "ferry",
+    "tram",
+    "platform"
+   ],
+   "answer": "tram"
+  },
+  {
+   "id": "L4U04-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "ferry",
+   "item": "ferry",
+   "options": [
+    "tram",
+    "seat",
+    "cable car",
+    "ferry"
+   ],
+   "answer": "ferry"
+  },
+  {
+   "id": "L4U04-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cable car",
+   "item": "cable car",
+   "options": [
+    "cable car",
+    "scooter",
+    "tram",
+    "ferry"
+   ],
+   "answer": "cable car"
+  },
+  {
+   "id": "L4U04-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "scooter",
+   "item": "scooter",
+   "options": [
+    "seat",
+    "platform",
+    "underground",
+    "scooter"
+   ],
+   "answer": "scooter"
+  },
+  {
+   "id": "L4U04-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "carriage",
+   "item": "carriage",
+   "options": [
+    "seat",
+    "tram",
+    "carriage",
+    "platform"
+   ],
+   "answer": "carriage"
+  },
+  {
+   "id": "L4U04-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "journey",
+   "item": "journey",
+   "options": [
+    "get off",
+    "get on",
+    "return ticket",
+    "journey"
+   ],
+   "answer": "journey"
+  },
+  {
+   "id": "L4U04-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hour",
+   "item": "hour",
+   "options": [
+    "how long",
+    "hour",
+    "cable car",
+    "gate"
+   ],
+   "answer": "hour"
+  },
+  {
+   "id": "L4U04-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "half",
+   "item": "half",
+   "options": [
+    "half",
+    "carriage",
+    "announcement",
+    "journey"
+   ],
+   "answer": "half"
+  },
+  {
+   "id": "L4U04-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "quarter",
+   "item": "quarter",
+   "options": [
+    "quarter",
+    "miss",
+    "seat",
+    "how long"
+   ],
+   "answer": "quarter"
+  },
+  {
+   "id": "L4U04-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "timetable",
+   "item": "timetable",
+   "options": [
+    "seat",
+    "timetable",
+    "delay",
+    "quarter"
+   ],
+   "answer": "timetable"
+  },
+  {
+   "id": "L4U04-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "arrive",
+   "item": "arrive",
+   "options": [
+    "crowded",
+    "fasten",
+    "on time",
+    "arrive"
+   ],
+   "answer": "arrive"
+  },
+  {
+   "id": "L4U04-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "leave",
+   "item": "leave",
+   "options": [
+    "underground",
+    "leave",
+    "backpack",
+    "timetable"
+   ],
+   "answer": "leave"
+  },
+  {
+   "id": "L4U04-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "delay",
+   "item": "delay",
+   "options": [
+    "cable car",
+    "overnight",
+    "check in",
+    "delay"
+   ],
+   "answer": "delay"
+  },
+  {
+   "id": "L4U04-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "on time",
+   "item": "on time",
+   "options": [
+    "on time",
+    "leave",
+    "cable car",
+    "get on"
+   ],
+   "answer": "on time"
+  },
+  {
+   "id": "L4U04-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "return ticket",
+   "item": "return ticket",
+   "options": [
+    "return ticket",
+    "underground",
+    "quarter",
+    "half"
+   ],
+   "answer": "return ticket"
+  },
+  {
+   "id": "L4U04-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "single ticket",
+   "item": "single ticket",
+   "options": [
+    "quarter",
+    "on time",
+    "fasten",
+    "single ticket"
+   ],
+   "answer": "single ticket"
+  },
+  {
+   "id": "L4U04-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "passenger",
+   "item": "passenger",
+   "options": [
+    "how long",
+    "fasten",
+    "return ticket",
+    "passenger"
+   ],
+   "answer": "passenger"
+  },
+  {
+   "id": "L4U04-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "luggage",
+   "item": "luggage",
+   "options": [
+    "delay",
+    "abroad",
+    "flight",
+    "luggage"
+   ],
+   "answer": "luggage"
+  },
+  {
+   "id": "L4U04-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "suitcase",
+   "item": "suitcase",
+   "options": [
+    "abroad",
+    "suitcase",
+    "ticket office",
+    "half"
+   ],
+   "answer": "suitcase"
+  },
+  {
+   "id": "L4U04-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "backpack",
+   "item": "backpack",
+   "options": [
+    "get on",
+    "backpack",
+    "single ticket",
+    "leave"
+   ],
+   "answer": "backpack"
+  },
+  {
+   "id": "L4U04-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "traffic jam",
+   "item": "traffic jam",
+   "options": [
+    "crowded",
+    "traffic jam",
+    "luggage",
+    "platform"
+   ],
+   "answer": "traffic jam"
+  },
+  {
+   "id": "L4U04-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "check in",
+   "item": "check in",
+   "options": [
+    "gate",
+    "check in",
+    "suitcase",
+    "miss"
+   ],
+   "answer": "check in"
+  },
+  {
+   "id": "L4U04-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "flight",
+   "item": "flight",
+   "options": [
+    "timetable",
+    "return ticket",
+    "flight",
+    "speed"
+   ],
+   "answer": "flight"
+  },
+  {
+   "id": "L4U04-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "miss",
+   "item": "miss",
+   "options": [
+    "boarding pass",
+    "on time",
+    "traffic jam",
+    "miss"
+   ],
+   "answer": "miss"
+  },
+  {
+   "id": "L4U04-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "get on",
+   "item": "get on",
+   "options": [
+    "delay",
+    "miss",
+    "get on",
+    "traffic jam"
+   ],
+   "answer": "get on"
+  },
+  {
+   "id": "L4U04-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "get off",
+   "item": "get off",
+   "options": [
+    "on time",
+    "ticket office",
+    "how long",
+    "get off"
+   ],
+   "answer": "get off"
+  },
+  {
+   "id": "L4U04-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ticket office",
+   "item": "ticket office",
+   "options": [
+    "abroad",
+    "flight",
+    "ticket office",
+    "hour"
+   ],
+   "answer": "ticket office"
+  },
+  {
+   "id": "L4U04-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "crowded",
+   "item": "crowded",
+   "options": [
+    "tram",
+    "speed",
+    "backpack",
+    "crowded"
+   ],
+   "answer": "crowded"
+  },
+  {
+   "id": "L4U04-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "speed",
+   "item": "speed",
+   "options": [
+    "platform",
+    "speed",
+    "ferry",
+    "traffic jam"
+   ],
+   "answer": "speed"
+  },
+  {
+   "id": "L4U04-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "overnight",
+   "item": "overnight",
+   "options": [
+    "announcement",
+    "delay",
+    "overnight",
+    "single ticket"
+   ],
+   "answer": "overnight"
+  },
+  {
+   "id": "L4U04-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "abroad",
+   "item": "abroad",
+   "options": [
+    "single ticket",
+    "abroad",
+    "on time",
+    "how long"
+   ],
+   "answer": "abroad"
+  },
+  {
+   "id": "L4U04-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fasten",
+   "item": "fasten",
+   "options": [
+    "delay",
+    "half",
+    "crowded",
+    "fasten"
+   ],
+   "answer": "fasten"
+  },
+  {
+   "id": "L4U04-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "announcement",
+   "item": "announcement",
+   "options": [
+    "fasten",
+    "suitcase",
+    "announcement",
+    "carriage"
+   ],
+   "answer": "announcement"
+  },
+  {
+   "id": "L4U04-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "gate",
+   "item": "gate",
+   "options": [
+    "announcement",
+    "gate",
+    "ticket office",
+    "journey"
+   ],
+   "answer": "gate"
+  },
+  {
+   "id": "L4U04-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "boarding pass",
+   "item": "boarding pass",
+   "options": [
+    "passenger",
+    "boarding pass",
+    "flight",
+    "hour"
+   ],
+   "answer": "boarding pass"
+  },
+  {
+   "id": "L4U04-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "how long",
+   "item": "how long",
+   "options": [
+    "get on",
+    "half",
+    "gate",
+    "how long"
+   ],
+   "answer": "how long"
+  },
+  {
+   "id": "L4U04-Q040",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "platform",
+   "answer": "platform"
+  },
+  {
+   "id": "L4U04-Q041",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "seat",
+   "answer": "seat"
+  },
+  {
+   "id": "L4U04-Q042",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "underground",
+   "answer": "underground"
+  },
+  {
+   "id": "L4U04-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tram",
+   "answer": "tram"
+  },
+  {
+   "id": "L4U04-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "ferry",
+   "answer": "ferry"
+  },
+  {
+   "id": "L4U04-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cable car",
+   "answer": "cable car"
+  },
+  {
+   "id": "L4U04-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "scooter",
+   "answer": "scooter"
+  },
+  {
+   "id": "L4U04-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "carriage",
+   "answer": "carriage"
+  },
+  {
+   "id": "L4U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The journey to Grandma's house is long.",
+   "item": "journey",
+   "answer": "The journey to Grandma's house is long."
+  },
+  {
+   "id": "L4U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The film is two hours long.",
+   "item": "hour",
+   "answer": "The film is two hours long."
+  },
+  {
+   "id": "L4U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Cut the apple in half.",
+   "item": "half",
+   "answer": "Cut the apple in half."
+  },
+  {
+   "id": "L4U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a quarter past ten.",
+   "item": "quarter",
+   "answer": "It's a quarter past ten."
+  },
+  {
+   "id": "L4U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's look at the train timetable.",
+   "item": "timetable",
+   "answer": "Let's look at the train timetable."
+  },
+  {
+   "id": "L4U04-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The train leaves from platform two.",
+   "item": "platform",
+   "answer": "The train leaves from platform two."
+  },
+  {
+   "id": "L4U04-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We arrived at the hotel at six o'clock.",
+   "item": "arrive",
+   "answer": "We arrived at the hotel at six o'clock."
+  },
+  {
+   "id": "L4U04-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bus leaves at half past eight.",
+   "item": "leave",
+   "answer": "The bus leaves at half past eight."
+  },
+  {
+   "id": "L4U04-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a delay because of the storm.",
+   "item": "delay",
+   "answer": "There is a delay because of the storm."
+  },
+  {
+   "id": "L4U04-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The train is on time today.",
+   "item": "on time",
+   "answer": "The train is on time today."
+  },
+  {
+   "id": "L4U04-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A return ticket to Hue, please.",
+   "item": "return ticket",
+   "answer": "A return ticket to Hue, please."
+  },
+  {
+   "id": "L4U04-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A single ticket is cheaper.",
+   "item": "single ticket",
+   "answer": "A single ticket is cheaper."
+  },
+  {
+   "id": "L4U04-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The bus is full of passengers.",
+   "item": "passenger",
+   "answer": "The bus is full of passengers."
+  },
+  {
+   "id": "L4U04-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't leave your luggage alone.",
+   "item": "luggage",
+   "answer": "Don't leave your luggage alone."
+  },
+  {
+   "id": "L4U04-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My suitcase is very heavy.",
+   "item": "suitcase",
+   "answer": "My suitcase is very heavy."
+  },
+  {
+   "id": "L4U04-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I carry my backpack on the plane.",
+   "item": "backpack",
+   "answer": "I carry my backpack on the plane."
+  },
+  {
+   "id": "L4U04-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is this seat free?",
+   "item": "seat",
+   "answer": "Is this seat free?"
+  },
+  {
+   "id": "L4U04-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We were late because of a traffic jam.",
+   "item": "traffic jam",
+   "answer": "We were late because of a traffic jam."
+  },
+  {
+   "id": "L4U04-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We took the underground in London.",
+   "item": "underground",
+   "answer": "We took the underground in London."
+  },
+  {
+   "id": "L4U04-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The tram goes along the river.",
+   "item": "tram",
+   "answer": "The tram goes along the river."
+  },
+  {
+   "id": "L4U04-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We took a ferry to the island.",
+   "item": "ferry",
+   "answer": "We took a ferry to the island."
+  },
+  {
+   "id": "L4U04-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cable car goes up the mountain.",
+   "item": "cable car",
+   "answer": "The cable car goes up the mountain."
+  },
+  {
+   "id": "L4U04-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I ride my scooter to the park.",
+   "item": "scooter",
+   "answer": "I ride my scooter to the park."
+  },
+  {
+   "id": "L4U04-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We check in at the airport.",
+   "item": "check in",
+   "answer": "We check in at the airport."
+  },
+  {
+   "id": "L4U04-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our flight is at nine o'clock.",
+   "item": "flight",
+   "answer": "Our flight is at nine o'clock."
+  },
+  {
+   "id": "L4U04-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hurry up! Don't miss the bus!",
+   "item": "miss",
+   "answer": "Hurry up! Don't miss the bus!"
+  },
+  {
+   "id": "L4U04-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Get on the bus, please.",
+   "item": "get on",
+   "answer": "Get on the bus, please."
+  },
+  {
+   "id": "L4U04-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We get off at the next stop.",
+   "item": "get off",
+   "answer": "We get off at the next stop."
+  },
+  {
+   "id": "L4U04-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Buy your ticket at the ticket office.",
+   "item": "ticket office",
+   "answer": "Buy your ticket at the ticket office."
+  },
+  {
+   "id": "L4U04-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The train is very crowded today.",
+   "item": "crowded",
+   "answer": "The train is very crowded today."
+  },
+  {
+   "id": "L4U04-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The train goes at a high speed.",
+   "item": "speed",
+   "answer": "The train goes at a high speed."
+  },
+  {
+   "id": "L4U04-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We took an overnight train.",
+   "item": "overnight",
+   "answer": "We took an overnight train."
+  },
+  {
+   "id": "L4U04-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My uncle works abroad.",
+   "item": "abroad",
+   "answer": "My uncle works abroad."
+  },
+  {
+   "id": "L4U04-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our seats are in carriage four.",
+   "item": "carriage",
+   "answer": "Our seats are in carriage four."
+  },
+  {
+   "id": "L4U04-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please fasten your seat belt.",
+   "item": "fasten",
+   "answer": "Please fasten your seat belt."
+  },
+  {
+   "id": "L4U04-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Listen to the announcement.",
+   "item": "announcement",
+   "answer": "Listen to the announcement."
+  },
+  {
+   "id": "L4U04-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Our plane leaves from gate five.",
+   "item": "gate",
+   "answer": "Our plane leaves from gate five."
+  },
+  {
+   "id": "L4U04-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Show your boarding pass, please.",
+   "item": "boarding pass",
+   "answer": "Show your boarding pass, please."
+  },
+  {
+   "id": "L4U04-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How long is the journey?",
+   "item": "how long",
+   "answer": "How long is the journey?"
+  },
+  {
+   "id": "L4U04-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time does the train leave?",
+   "answer": "What time does the train leave?"
+  },
+  {
+   "id": "L4U04-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time does the bus leave?",
+   "answer": "What time does the bus leave?"
+  },
+  {
+   "id": "L4U04-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What time does the ferry leave?",
+   "answer": "What time does the ferry leave?"
+  },
+  {
+   "id": "L4U04-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It leaves at half past nine.",
+   "answer": "It leaves at half past nine."
+  },
+  {
+   "id": "L4U04-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It leaves at a quarter past ten.",
+   "answer": "It leaves at a quarter past ten."
+  },
+  {
+   "id": "L4U04-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It leaves at seven o'clock.",
+   "answer": "It leaves at seven o'clock."
+  },
+  {
+   "id": "L4U04-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A return ticket to Hanoi, please.",
+   "answer": "A return ticket to Hanoi, please."
+  },
+  {
+   "id": "L4U04-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A single ticket to Hanoi, please.",
+   "answer": "A single ticket to Hanoi, please."
+  },
+  {
+   "id": "L4U04-Q095",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Excuse me. When does the next train to Hanoi leave?",
+   "answer": "At a quarter past ten."
+  },
+  {
+   "id": "L4U04-Q096",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Can I have two return tickets, please?",
+   "answer": "Here you are. The train leaves from platform three."
+  },
+  {
+   "id": "L4U04-Q097",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How long is the journey?",
+   "answer": "About two hours."
+  },
+  {
+   "id": "L4U04-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you have your boarding pass?",
+   "answer": "Yes, here it is. Which gate is it?"
+  },
+  {
+   "id": "L4U04-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Yes, here it is. Which gate is it?",
+   "answer": "Gate twelve. Listen! There's an announcement."
+  },
+  {
+   "id": "L4U04-Q100",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "platform",
+   "options": [
+    "carriage",
+    "cable car",
+    "platform"
+   ],
+   "answer": "platform"
+  },
+  {
+   "id": "L4U04-Q101",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "seat",
+   "options": [
+    "tram",
+    "seat",
+    "cable car"
+   ],
+   "answer": "seat"
+  },
+  {
+   "id": "L4U04-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "underground",
+   "options": [
+    "platform",
+    "scooter",
+    "underground"
+   ],
+   "answer": "underground"
+  },
+  {
+   "id": "L4U04-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tram",
+   "options": [
+    "seat",
+    "ferry",
+    "tram"
+   ],
+   "answer": "tram"
+  },
+  {
+   "id": "L4U04-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "ferry",
+   "options": [
+    "ferry",
+    "underground",
+    "tram"
+   ],
+   "answer": "ferry"
+  },
+  {
+   "id": "L4U04-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "cable car",
+   "options": [
+    "platform",
+    "underground",
+    "cable car"
+   ],
+   "answer": "cable car"
+  },
+  {
+   "id": "L4U04-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "scooter",
+   "options": [
+    "ferry",
+    "scooter",
+    "seat"
+   ],
+   "answer": "scooter"
+  },
+  {
+   "id": "L4U04-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "carriage",
+   "options": [
+    "carriage",
+    "ferry",
+    "scooter"
+   ],
+   "answer": "carriage"
+  },
+  {
+   "id": "L4U04-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ to Grandma's house is long.",
+   "item": "journey",
+   "options": [
+    "journey",
+    "fasten",
+    "carriage"
+   ],
+   "answer": "journey"
+  },
+  {
+   "id": "L4U04-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The film is two ___ long.",
+   "item": "hour",
+   "options": [
+    "carriages",
+    "platforms",
+    "hours"
+   ],
+   "answer": "hours"
+  },
+  {
+   "id": "L4U04-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Cut the apple in ___.",
+   "item": "half",
+   "options": [
+    "half",
+    "underground",
+    "journey"
+   ],
+   "answer": "half"
+  },
+  {
+   "id": "L4U04-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's a ___ past ten.",
+   "item": "quarter",
+   "options": [
+    "speed",
+    "fasten",
+    "quarter"
+   ],
+   "answer": "quarter"
+  },
+  {
+   "id": "L4U04-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's look at the train ___.",
+   "item": "timetable",
+   "options": [
+    "half",
+    "timetable",
+    "speed"
+   ],
+   "answer": "timetable"
+  },
+  {
+   "id": "L4U04-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The train leaves from ___ two.",
+   "item": "platform",
+   "options": [
+    "platform",
+    "scooter",
+    "carriage"
+   ],
+   "answer": "platform"
+  },
+  {
+   "id": "L4U04-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We ___ at the hotel at six o'clock.",
+   "item": "arrive",
+   "options": [
+    "passengered",
+    "houred",
+    "arrived"
+   ],
+   "answer": "arrived"
+  },
+  {
+   "id": "L4U04-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bus ___ at half past eight.",
+   "item": "leave",
+   "options": [
+    "undergrounds",
+    "leaves",
+    "platforms"
+   ],
+   "answer": "leaves"
+  },
+  {
+   "id": "L4U04-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ because of the storm.",
+   "item": "delay",
+   "options": [
+    "arrive",
+    "carriage",
+    "delay"
+   ],
+   "answer": "delay"
+  },
+  {
+   "id": "L4U04-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The bus is full of ___.",
+   "item": "passenger",
+   "options": [
+    "carriages",
+    "passengers",
+    "platforms"
+   ],
+   "answer": "passengers"
+  },
+  {
+   "id": "L4U04-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't leave your ___ alone.",
+   "item": "luggage",
+   "options": [
+    "timetable",
+    "luggage",
+    "half"
+   ],
+   "answer": "luggage"
+  },
+  {
+   "id": "L4U04-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ is very heavy.",
+   "item": "suitcase",
+   "options": [
+    "suitcase",
+    "gate",
+    "leave"
+   ],
+   "answer": "suitcase"
+  },
+  {
+   "id": "L4U04-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I carry my ___ on the plane.",
+   "item": "backpack",
+   "options": [
+    "crowded",
+    "abroad",
+    "backpack"
+   ],
+   "answer": "backpack"
+  },
+  {
+   "id": "L4U04-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is this ___ free?",
+   "item": "seat",
+   "options": [
+    "seat",
+    "arrive",
+    "gate"
+   ],
+   "answer": "seat"
+  },
+  {
+   "id": "L4U04-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We took the ___ in London.",
+   "item": "underground",
+   "options": [
+    "fasten",
+    "underground",
+    "arrive"
+   ],
+   "answer": "underground"
+  },
+  {
+   "id": "L4U04-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ goes along the river.",
+   "item": "tram",
+   "options": [
+    "tram",
+    "gate",
+    "platform"
+   ],
+   "answer": "tram"
+  },
+  {
+   "id": "L4U04-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We took a ___ to the island.",
+   "item": "ferry",
+   "options": [
+    "ferry",
+    "platform",
+    "fasten"
+   ],
+   "answer": "ferry"
+  },
+  {
+   "id": "L4U04-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ride my ___ to the park.",
+   "item": "scooter",
+   "options": [
+    "scooter",
+    "miss",
+    "fasten"
+   ],
+   "answer": "scooter"
+  },
+  {
+   "id": "L4U04-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our ___ is at nine o'clock.",
+   "item": "flight",
+   "options": [
+    "timetable",
+    "gate",
+    "flight"
+   ],
+   "answer": "flight"
+  },
+  {
+   "id": "L4U04-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hurry up! Don't ___ the bus!",
+   "item": "miss",
+   "options": [
+    "miss",
+    "speed",
+    "platform"
+   ],
+   "answer": "miss"
+  },
+  {
+   "id": "L4U04-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The train is very ___ today.",
+   "item": "crowded",
+   "options": [
+    "gate",
+    "ferry",
+    "crowded"
+   ],
+   "answer": "crowded"
+  },
+  {
+   "id": "L4U04-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The train goes at a high ___.",
+   "item": "speed",
+   "options": [
+    "speed",
+    "tram",
+    "seat"
+   ],
+   "answer": "speed"
+  },
+  {
+   "id": "L4U04-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We took an ___ train.",
+   "item": "overnight",
+   "options": [
+    "arrive",
+    "abroad",
+    "overnight"
+   ],
+   "answer": "overnight"
+  },
+  {
+   "id": "L4U04-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My uncle works ___.",
+   "item": "abroad",
+   "options": [
+    "abroad",
+    "luggage",
+    "miss"
+   ],
+   "answer": "abroad"
+  },
+  {
+   "id": "L4U04-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our seats are in ___ four.",
+   "item": "carriage",
+   "options": [
+    "carriage",
+    "crowded",
+    "hour"
+   ],
+   "answer": "carriage"
+  },
+  {
+   "id": "L4U04-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please ___ your seat belt.",
+   "item": "fasten",
+   "options": [
+    "overnight",
+    "fasten",
+    "announcement"
+   ],
+   "answer": "fasten"
+  },
+  {
+   "id": "L4U04-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Listen to the ___.",
+   "item": "announcement",
+   "options": [
+    "fasten",
+    "timetable",
+    "announcement"
+   ],
+   "answer": "announcement"
+  },
+  {
+   "id": "L4U04-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Our plane leaves from ___ five.",
+   "item": "gate",
+   "options": [
+    "scooter",
+    "suitcase",
+    "gate"
+   ],
+   "answer": "gate"
+  },
+  {
+   "id": "L4U04-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The train leaves from platform two.",
+   "item": "platform",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U04-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Is this seat free?",
+   "item": "underground",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U04-Q138",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We took the underground in London.",
+   "item": "underground",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U04-Q139",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The tram goes along the river.",
+   "item": "ferry",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U04-Q140",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We took a ferry to the island.",
+   "item": "ferry",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U04-Q141",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "The cable car goes up the mountain.",
+   "item": "scooter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U04-Q142",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I ride my scooter to the park.",
+   "item": "scooter",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U04-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Our seats are in carriage four.",
+   "item": "platform",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U04-Q144",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U04-R01",
+   "text_en": "How did the family travel to the north?",
+   "options": [
+    "By plane.",
+    "By car.",
+    "By train."
+   ],
+   "answer": "By train."
+  },
+  {
+   "id": "L4U04-Q145",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U04-R01",
+   "text_en": "How long was the journey?",
+   "options": [
+    "Two hours.",
+    "Eight hours.",
+    "Six hours."
+   ],
+   "answer": "Eight hours."
+  },
+  {
+   "id": "L4U04-Q146",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U04-R01",
+   "text_en": "How did they go up the mountain?",
+   "options": [
+    "In a cable car.",
+    "By bus.",
+    "On foot."
+   ],
+   "answer": "In a cable car."
+  },
+  {
+   "id": "L4U04-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "journey",
+   "item": "journey",
+   "answer": "journey"
+  },
+  {
+   "id": "L4U04-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "hour",
+   "item": "hour",
+   "answer": "hour"
+  },
+  {
+   "id": "L4U04-Q149",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "half",
+   "item": "half",
+   "answer": "half"
+  },
+  {
+   "id": "L4U04-Q150",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "quarter",
+   "item": "quarter",
+   "answer": "quarter"
+  },
+  {
+   "id": "L4U04-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "timetable",
+   "item": "timetable",
+   "answer": "timetable"
+  },
+  {
+   "id": "L4U04-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "platform",
+   "item": "platform",
+   "answer": "platform"
+  },
+  {
+   "id": "L4U04-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "arrive",
+   "item": "arrive",
+   "answer": "arrive"
+  },
+  {
+   "id": "L4U04-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "leave",
+   "item": "leave",
+   "answer": "leave"
+  },
+  {
+   "id": "L4U04-Q155",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The journey to Grandma's house is long.",
+   "answer": "The journey to Grandma's house is long."
+  },
+  {
+   "id": "L4U04-Q156",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The film is two hours long.",
+   "answer": "The film is two hours long."
+  },
+  {
+   "id": "L4U04-Q157",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Cut the apple in half.",
+   "answer": "Cut the apple in half."
+  }
+ ]
+}

@@ -1,0 +1,3259 @@
+{
+ "id": "L5U05",
+ "level": 5,
+ "unit": 5,
+ "topic_en": "History",
+ "topic_vi": "Lịch sử",
+ "can_do_vi": [
+  "Kể về cuộc sống ngày xưa",
+  "Dùng \"used to\" để nói thói quen trong quá khứ"
+ ],
+ "grammar_note_vi": "Nói điều thường xảy ra trong quá khứ nhưng nay không còn, dùng \"used to + động từ\": \"People used to write letters.\" (Ngày xưa người ta hay viết thư.)",
+ "items": [
+  {
+   "id": "L5U05-W01",
+   "type": "phrase",
+   "en": "used to",
+   "vi": "đã từng (thói quen ngày xưa)",
+   "ipa": "/juzd tɪ/",
+   "syllables": [
+    "used",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23EA"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "My grandpa used to ride a bike to work.",
+   "example_vi": "Ông tớ từng đạp xe đi làm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W02",
+   "type": "word",
+   "en": "ancient",
+   "vi": "cổ đại",
+   "ipa": "/ˈeɪntʃənt/",
+   "syllables": [
+    "an",
+    "cient"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F3FA"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The pyramids are ancient buildings.",
+   "example_vi": "Kim tự tháp là những công trình cổ đại.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W03",
+   "type": "word",
+   "en": "century",
+   "vi": "thế kỷ",
+   "ipa": "/ˈsɛntʃəri/",
+   "syllables": [
+    "cen",
+    "tu",
+    "ry"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4AF"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "This house is one century old.",
+   "example_vi": "Ngôi nhà này đã một trăm năm tuổi.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W04",
+   "type": "word",
+   "en": "emperor",
+   "vi": "hoàng đế",
+   "ipa": "/ˈɛmpərər/",
+   "syllables": [
+    "emperor"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F451"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The emperor lived in a big palace.",
+   "example_vi": "Hoàng đế sống trong một cung điện lớn.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W05",
+   "type": "word",
+   "en": "empire",
+   "vi": "đế chế",
+   "ipa": "/ˈɛmpaɪər/",
+   "syllables": [
+    "em",
+    "pire"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The empire was very large.",
+   "example_vi": "Đế chế ấy rất rộng lớn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W06",
+   "type": "word",
+   "en": "kingdom",
+   "vi": "vương quốc",
+   "ipa": "/ˈkɪŋdəm/",
+   "syllables": [
+    "king",
+    "dom"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F3F0"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The king ruled the kingdom.",
+   "example_vi": "Nhà vua cai trị vương quốc.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W07",
+   "type": "word",
+   "en": "palace",
+   "vi": "cung điện",
+   "ipa": "/ˈpæləs/",
+   "syllables": [
+    "palace"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F3EF"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Hue has an old palace.",
+   "example_vi": "Huế có một cung điện cổ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W08",
+   "type": "word",
+   "en": "soldier",
+   "vi": "người lính",
+   "ipa": "/ˈsoʊldʒər/",
+   "syllables": [
+    "sol",
+    "dier"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F482"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The soldier stood at the gate.",
+   "example_vi": "Người lính đứng ở cổng.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W09",
+   "type": "word",
+   "en": "army",
+   "vi": "quân đội",
+   "ipa": "/ˈɑrmi/",
+   "syllables": [
+    "army"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F482"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The army protected the city.",
+   "example_vi": "Quân đội bảo vệ thành phố.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W10",
+   "type": "word",
+   "en": "war",
+   "vi": "chiến tranh",
+   "ipa": "/wɔr/",
+   "syllables": [
+    "war"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "2694-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "My great-grandpa told me about the war.",
+   "example_vi": "Cụ tớ kể cho tớ về chiến tranh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W11",
+   "type": "word",
+   "en": "peace",
+   "vi": "hoà bình",
+   "ipa": "/pis/",
+   "syllables": [
+    "peace"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F54A-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Everyone wants peace.",
+   "example_vi": "Ai cũng muốn hoà bình.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W12",
+   "type": "word",
+   "en": "pyramid",
+   "vi": "kim tự tháp",
+   "ipa": "/ˈpɪrəmɪd/",
+   "syllables": [
+    "pyramid"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F53A"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The pyramids are in Egypt.",
+   "example_vi": "Kim tự tháp ở Ai Cập.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W13",
+   "type": "word",
+   "en": "tomb",
+   "vi": "lăng mộ",
+   "ipa": "/tum/",
+   "syllables": [
+    "tomb"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "26B1-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The king's tomb is inside the pyramid.",
+   "example_vi": "Lăng mộ nhà vua ở bên trong kim tự tháp.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W14",
+   "type": "word",
+   "en": "fossil",
+   "vi": "hoá thạch",
+   "ipa": "/ˈfɑsəl/",
+   "syllables": [
+    "fos",
+    "sil"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F9B4"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "We saw a dinosaur fossil at the museum.",
+   "example_vi": "Bọn tớ thấy hoá thạch khủng long ở bảo tàng.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W15",
+   "type": "word",
+   "en": "archaeologist",
+   "vi": "nhà khảo cổ",
+   "ipa": "/ˌɑrkiˈɑlədʒɪst/",
+   "syllables": [
+    "archaeologist"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "26CF-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The archaeologist found an ancient pot.",
+   "example_vi": "Nhà khảo cổ tìm thấy một cái nồi cổ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W16",
+   "type": "word",
+   "en": "explorer",
+   "vi": "nhà thám hiểm",
+   "ipa": "/ɪkˈsplɔrər/",
+   "syllables": [
+    "ex",
+    "plor",
+    "er"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F9ED"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The explorer sailed across the ocean.",
+   "example_vi": "Nhà thám hiểm đi thuyền vượt đại dương.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W17",
+   "type": "word",
+   "en": "voyage",
+   "vi": "chuyến đi biển",
+   "ipa": "/vɔɪʌdʒ/",
+   "syllables": [
+    "voyage"
+   ],
+   "phonics": "initial_v",
+   "image": {
+    "emoji": "26F5"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The voyage took three months.",
+   "example_vi": "Chuyến đi biển kéo dài ba tháng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W18",
+   "type": "word",
+   "en": "sail",
+   "vi": "đi thuyền buồm",
+   "ipa": "/seɪl/",
+   "syllables": [
+    "sail"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26F5"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "They sailed to a new island.",
+   "example_vi": "Họ đi thuyền đến một hòn đảo mới.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W19",
+   "type": "word",
+   "en": "invention",
+   "vi": "phát minh",
+   "ipa": "/ˌɪnˈvɛnʃən/",
+   "syllables": [
+    "in",
+    "ven",
+    "tion"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F4A1"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The telephone was a great invention.",
+   "example_vi": "Điện thoại là một phát minh vĩ đại.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W20",
+   "type": "word",
+   "en": "tool",
+   "vi": "công cụ",
+   "ipa": "/tul/",
+   "syllables": [
+    "tool"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F528"
+   },
+   "picturable": true,
+   "cat": "L5U05",
+   "example_en": "People used stone tools long ago.",
+   "example_vi": "Ngày xưa người ta dùng công cụ bằng đá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W21",
+   "type": "word",
+   "en": "hunter",
+   "vi": "thợ săn",
+   "ipa": "/ˈhʌntər/",
+   "syllables": [
+    "hunter"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F3F9"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The hunters lived in caves.",
+   "example_vi": "Những người thợ săn sống trong hang.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W22",
+   "type": "word",
+   "en": "telephone",
+   "vi": "điện thoại bàn",
+   "ipa": "/ˈtɛləˌfoʊn/",
+   "syllables": [
+    "telephone"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "260E-FE0F"
+   },
+   "picturable": true,
+   "cat": "L5U05",
+   "example_en": "My grandma has an old telephone.",
+   "example_vi": "Bà tớ có cái điện thoại bàn cũ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W23",
+   "type": "phrase",
+   "en": "steam train",
+   "vi": "tàu hơi nước",
+   "ipa": "/stim treɪn/",
+   "syllables": [
+    "steam",
+    "train"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F682"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Steam trains used to be very slow.",
+   "example_vi": "Tàu hơi nước ngày xưa rất chậm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W24",
+   "type": "word",
+   "en": "cart",
+   "vi": "xe kéo",
+   "ipa": "/kɑrt/",
+   "syllables": [
+    "cart"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6D2"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "A horse pulled the cart.",
+   "example_vi": "Con ngựa kéo xe.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W25",
+   "type": "word",
+   "en": "monument",
+   "vi": "đài tưởng niệm",
+   "ipa": "/ˈmɑnjəmənt/",
+   "syllables": [
+    "mon",
+    "u",
+    "ment"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F5FF"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "There is a monument in the city centre.",
+   "example_vi": "Có một đài tưởng niệm ở trung tâm thành phố.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W26",
+   "type": "word",
+   "en": "legend",
+   "vi": "truyền thuyết",
+   "ipa": "/ˈlɛdʒənd/",
+   "syllables": [
+    "leg",
+    "end"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F4DC"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "There is a legend about this lake.",
+   "example_vi": "Có một truyền thuyết về hồ này.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W27",
+   "type": "word",
+   "en": "period",
+   "vi": "thời kỳ",
+   "ipa": "/ˈpɪriəd/",
+   "syllables": [
+    "pe",
+    "ri",
+    "od"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "It was a difficult period in history.",
+   "example_vi": "Đó là một thời kỳ khó khăn trong lịch sử.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W28",
+   "type": "word",
+   "en": "modern",
+   "vi": "hiện đại",
+   "ipa": "/ˈmɑdərn/",
+   "syllables": [
+    "mod",
+    "ern"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3D9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Modern phones are very small.",
+   "example_vi": "Điện thoại hiện đại rất nhỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W29",
+   "type": "word",
+   "en": "childhood",
+   "vi": "thời thơ ấu",
+   "ipa": "/ˈtʃaɪlˌdhʊd/",
+   "syllables": [
+    "child",
+    "hood"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F9D2"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "My dad had a happy childhood in the village.",
+   "example_vi": "Bố tớ có tuổi thơ hạnh phúc ở làng.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W30",
+   "type": "word",
+   "en": "life",
+   "vi": "cuộc sống",
+   "ipa": "/laɪf/",
+   "syllables": [
+    "life"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F331"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Life was very different in the past.",
+   "example_vi": "Cuộc sống ngày xưa rất khác.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W31",
+   "type": "word",
+   "en": "die",
+   "vi": "chết",
+   "ipa": "/daɪ/",
+   "syllables": [
+    "die"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F940"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Plants die without water.",
+   "example_vi": "Cây chết khi không có nước.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W32",
+   "type": "word",
+   "en": "without",
+   "vi": "không có",
+   "ipa": "/wɪˈθaʊt/",
+   "syllables": [
+    "with",
+    "out"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F6AB"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "I can't live without music.",
+   "example_vi": "Tớ không thể sống thiếu âm nhạc.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W33",
+   "type": "word",
+   "en": "simple",
+   "vi": "đơn giản",
+   "ipa": "/ˈsɪmpəl/",
+   "syllables": [
+    "sim",
+    "ple"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "26AA"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Life in the village was simple.",
+   "example_vi": "Cuộc sống ở làng rất đơn giản.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W34",
+   "type": "word",
+   "en": "wise",
+   "vi": "thông thái",
+   "ipa": "/waɪz/",
+   "syllables": [
+    "wise"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F989"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The old king was very wise.",
+   "example_vi": "Ông vua già rất thông thái.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W35",
+   "type": "word",
+   "en": "old-fashioned",
+   "vi": "lỗi thời, cũ kỹ",
+   "ipa": "/oʊld ˈfæʃənd/",
+   "syllables": [
+    "old-fashioned"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4FB"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "This radio is old-fashioned.",
+   "example_vi": "Cái đài này cũ kỹ rồi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W36",
+   "type": "word",
+   "en": "nowadays",
+   "vi": "ngày nay",
+   "ipa": "/ˈnaʊəˌdeɪz/",
+   "syllables": [
+    "nowa",
+    "days"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Nowadays, most people have phones.",
+   "example_vi": "Ngày nay, hầu hết mọi người đều có điện thoại.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W37",
+   "type": "phrase",
+   "en": "in the past",
+   "vi": "ngày xưa",
+   "ipa": "/ɪn ðə pæst/",
+   "syllables": [
+    "in",
+    "the",
+    "past"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "23EA"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "In the past, there were no cars.",
+   "example_vi": "Ngày xưa không có ô tô.",
+   "pron_focus": [
+    "final_consonant",
+    "th_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W38",
+   "type": "word",
+   "en": "during",
+   "vi": "trong suốt",
+   "ipa": "/ˈdʊrɪŋ/",
+   "syllables": [
+    "dur",
+    "ing"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "23F3"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "It rained during the night.",
+   "example_vi": "Trời mưa suốt đêm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W39",
+   "type": "word",
+   "en": "since",
+   "vi": "từ khi",
+   "ipa": "/sɪns/",
+   "syllables": [
+    "since"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4C5"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "I have lived here since I was born.",
+   "example_vi": "Tớ sống ở đây từ khi sinh ra.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W40",
+   "type": "word",
+   "en": "national",
+   "vi": "quốc gia",
+   "ipa": "/ˈnæʃənəl/",
+   "syllables": [
+    "na",
+    "tion",
+    "al"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F1FB-1F1F3"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Today is a national holiday.",
+   "example_vi": "Hôm nay là ngày lễ quốc gia.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W41",
+   "type": "word",
+   "en": "lead",
+   "vi": "dẫn dắt",
+   "ipa": "/lɛd/",
+   "syllables": [
+    "lead"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F6A9"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "The teacher leads us to the museum.",
+   "example_vi": "Cô giáo dẫn bọn tớ đến bảo tàng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W42",
+   "type": "word",
+   "en": "leader",
+   "vi": "người lãnh đạo",
+   "ipa": "/ˈlidər/",
+   "syllables": [
+    "lead",
+    "er"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F9D1-200D-2708-FE0F"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "A good leader listens to people.",
+   "example_vi": "Người lãnh đạo giỏi biết lắng nghe mọi người.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W43",
+   "type": "word",
+   "en": "trade",
+   "vi": "buôn bán",
+   "ipa": "/treɪd/",
+   "syllables": [
+    "trade"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F91D"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "People traded silk and spices.",
+   "example_vi": "Người ta buôn bán lụa và gia vị.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L5U05-W44",
+   "type": "word",
+   "en": "silk",
+   "vi": "lụa",
+   "ipa": "/sɪlk/",
+   "syllables": [
+    "silk"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F9F5"
+   },
+   "picturable": false,
+   "cat": "L5U05",
+   "example_en": "Her ao dai is made of silk.",
+   "example_vi": "Áo dài của cô ấy làm bằng lụa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L5U05-P01",
+   "en": "In the past, people used to {x}.",
+   "vi": "Ngày xưa, người ta thường {x}.",
+   "slots": {
+    "x": [
+     "write letters",
+     "travel by horse",
+     "use candles",
+     "cook on a fire"
+    ]
+   }
+  },
+  {
+   "id": "L5U05-P02",
+   "en": "Nowadays, people {x}.",
+   "vi": "Ngày nay, người ta {x}.",
+   "slots": {
+    "x": [
+     "send emails",
+     "travel by plane",
+     "use electricity"
+    ]
+   }
+  },
+  {
+   "id": "L5U05-P03",
+   "en": "My grandpa used to {x}.",
+   "vi": "Ông tớ từng {x}.",
+   "slots": {
+    "x": [
+     "ride a bike to work",
+     "live in a village",
+     "be a farmer"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L5U05-D01",
+   "title_vi": "Ngày xưa",
+   "roles": [
+    "Grandpa",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Grandpa, what was life like when you were young?",
+     "vi": "Ông ơi, hồi ông còn nhỏ cuộc sống thế nào ạ?"
+    },
+    {
+     "role": "Grandpa",
+     "en": "It was very different. We didn't have a TV.",
+     "vi": "Rất khác cháu ạ. Nhà ông không có ti vi."
+    },
+    {
+     "role": "Kid",
+     "en": "Really? What did you do in the evening?",
+     "vi": "Thật ạ? Buổi tối ông làm gì?"
+    },
+    {
+     "role": "Grandpa",
+     "en": "We used to tell stories and sing songs together.",
+     "vi": "Cả nhà thường kể chuyện và hát cùng nhau."
+    },
+    {
+     "role": "Kid",
+     "en": "How did you go to school?",
+     "vi": "Ông đi học bằng gì ạ?"
+    },
+    {
+     "role": "Grandpa",
+     "en": "I used to walk three kilometres every day!",
+     "vi": "Ngày nào ông cũng đi bộ ba cây số!"
+    },
+    {
+     "role": "Kid",
+     "en": "Wow! That's a long way.",
+     "vi": "Oa! Xa quá ạ."
+    }
+   ]
+  },
+  {
+   "id": "L5U05-D02",
+   "title_vi": "Ở bảo tàng",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Look at this! It's a dinosaur fossil.",
+     "vi": "Nhìn này! Đây là hoá thạch khủng long."
+    },
+    {
+     "role": "Kid",
+     "en": "How old is it?",
+     "vi": "Nó bao nhiêu tuổi rồi?"
+    },
+    {
+     "role": "Bi",
+     "en": "It's millions of years old.",
+     "vi": "Nó đã hàng triệu năm tuổi."
+    },
+    {
+     "role": "Kid",
+     "en": "Who found it?",
+     "vi": "Ai đã tìm thấy nó?"
+    },
+    {
+     "role": "Bi",
+     "en": "A scientist found it in the desert.",
+     "vi": "Một nhà khoa học đã tìm thấy nó ở sa mạc."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "ancient"
+  },
+  {
+   "type": "dictate_word",
+   "target": "century"
+  },
+  {
+   "type": "dictate_word",
+   "target": "emperor"
+  },
+  {
+   "type": "dictate_word",
+   "target": "empire"
+  },
+  {
+   "type": "dictate_word",
+   "target": "kingdom"
+  },
+  {
+   "type": "dictate_word",
+   "target": "palace"
+  },
+  {
+   "type": "dictate_word",
+   "target": "soldier"
+  },
+  {
+   "type": "dictate_word",
+   "target": "army"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The pyramids are ancient buildings."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "This house is one century old."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The emperor lived in a big palace."
+  },
+  {
+   "type": "write_sentences",
+   "target": "In the past, people used to|Nowadays,|My grandparents used to"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L5U05-R01",
+   "title_en": "Life a hundred years ago",
+   "text_en": [
+    "Life a hundred years ago was very different from life nowadays.",
+    "Most people lived in villages and worked on farms.",
+    "There was no electricity in many homes, so people used candles and oil lamps.",
+    "Children used to walk a long way to school, and some children didn't go to school at all.",
+    "People travelled by horse, by cart or on foot.",
+    "Only rich people had cars.",
+    "There were no televisions or computers.",
+    "In the evening, families used to sit together and tell stories.",
+    "Although life was simple, it was often difficult.",
+    "What do you think was better in the past?"
+   ],
+   "questions": [
+    {
+     "q": "Where did most people live a hundred years ago?",
+     "options": [
+      "In villages.",
+      "In big cities.",
+      "In flats."
+     ],
+     "answer": "In villages."
+    },
+    {
+     "q": "What did people use when there was no electricity?",
+     "options": [
+      "Candles and oil lamps.",
+      "Torches.",
+      "Computers."
+     ],
+     "answer": "Candles and oil lamps."
+    },
+    {
+     "q": "Who had cars?",
+     "options": [
+      "Only rich people.",
+      "Everyone.",
+      "Children."
+     ],
+     "answer": "Only rich people."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L5U05-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "tool",
+   "item": "tool",
+   "options": [
+    "tool",
+    "sleepy",
+    "drink",
+    "telephone"
+   ],
+   "answer": "tool"
+  },
+  {
+   "id": "L5U05-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "telephone",
+   "item": "telephone",
+   "options": [
+    "telephone",
+    "on",
+    "tool",
+    "five"
+   ],
+   "answer": "telephone"
+  },
+  {
+   "id": "L5U05-Q003",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "used to",
+   "item": "used to",
+   "options": [
+    "leader",
+    "war",
+    "used to",
+    "sail"
+   ],
+   "answer": "used to"
+  },
+  {
+   "id": "L5U05-Q004",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ancient",
+   "item": "ancient",
+   "options": [
+    "fossil",
+    "childhood",
+    "ancient",
+    "monument"
+   ],
+   "answer": "ancient"
+  },
+  {
+   "id": "L5U05-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "century",
+   "item": "century",
+   "options": [
+    "during",
+    "war",
+    "explorer",
+    "century"
+   ],
+   "answer": "century"
+  },
+  {
+   "id": "L5U05-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "emperor",
+   "item": "emperor",
+   "options": [
+    "ancient",
+    "since",
+    "emperor",
+    "legend"
+   ],
+   "answer": "emperor"
+  },
+  {
+   "id": "L5U05-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "empire",
+   "item": "empire",
+   "options": [
+    "empire",
+    "life",
+    "invention",
+    "in the past"
+   ],
+   "answer": "empire"
+  },
+  {
+   "id": "L5U05-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "kingdom",
+   "item": "kingdom",
+   "options": [
+    "tomb",
+    "invention",
+    "sail",
+    "kingdom"
+   ],
+   "answer": "kingdom"
+  },
+  {
+   "id": "L5U05-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "palace",
+   "item": "palace",
+   "options": [
+    "nowadays",
+    "palace",
+    "century",
+    "period"
+   ],
+   "answer": "palace"
+  },
+  {
+   "id": "L5U05-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "soldier",
+   "item": "soldier",
+   "options": [
+    "childhood",
+    "soldier",
+    "since",
+    "war"
+   ],
+   "answer": "soldier"
+  },
+  {
+   "id": "L5U05-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "army",
+   "item": "army",
+   "options": [
+    "army",
+    "lead",
+    "steam train",
+    "in the past"
+   ],
+   "answer": "army"
+  },
+  {
+   "id": "L5U05-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "war",
+   "item": "war",
+   "options": [
+    "century",
+    "silk",
+    "war",
+    "kingdom"
+   ],
+   "answer": "war"
+  },
+  {
+   "id": "L5U05-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "peace",
+   "item": "peace",
+   "options": [
+    "explorer",
+    "trade",
+    "empire",
+    "peace"
+   ],
+   "answer": "peace"
+  },
+  {
+   "id": "L5U05-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pyramid",
+   "item": "pyramid",
+   "options": [
+    "pyramid",
+    "nowadays",
+    "used to",
+    "ancient"
+   ],
+   "answer": "pyramid"
+  },
+  {
+   "id": "L5U05-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tomb",
+   "item": "tomb",
+   "options": [
+    "national",
+    "war",
+    "since",
+    "tomb"
+   ],
+   "answer": "tomb"
+  },
+  {
+   "id": "L5U05-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fossil",
+   "item": "fossil",
+   "options": [
+    "leader",
+    "steam train",
+    "fossil",
+    "tomb"
+   ],
+   "answer": "fossil"
+  },
+  {
+   "id": "L5U05-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "archaeologist",
+   "item": "archaeologist",
+   "options": [
+    "voyage",
+    "archaeologist",
+    "century",
+    "trade"
+   ],
+   "answer": "archaeologist"
+  },
+  {
+   "id": "L5U05-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "explorer",
+   "item": "explorer",
+   "options": [
+    "army",
+    "sail",
+    "telephone",
+    "explorer"
+   ],
+   "answer": "explorer"
+  },
+  {
+   "id": "L5U05-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "voyage",
+   "item": "voyage",
+   "options": [
+    "die",
+    "voyage",
+    "empire",
+    "used to"
+   ],
+   "answer": "voyage"
+  },
+  {
+   "id": "L5U05-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sail",
+   "item": "sail",
+   "options": [
+    "sail",
+    "kingdom",
+    "palace",
+    "since"
+   ],
+   "answer": "sail"
+  },
+  {
+   "id": "L5U05-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "invention",
+   "item": "invention",
+   "options": [
+    "in the past",
+    "trade",
+    "explorer",
+    "invention"
+   ],
+   "answer": "invention"
+  },
+  {
+   "id": "L5U05-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hunter",
+   "item": "hunter",
+   "options": [
+    "old-fashioned",
+    "monument",
+    "hunter",
+    "trade"
+   ],
+   "answer": "hunter"
+  },
+  {
+   "id": "L5U05-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "steam train",
+   "item": "steam train",
+   "options": [
+    "invention",
+    "steam train",
+    "sail",
+    "army"
+   ],
+   "answer": "steam train"
+  },
+  {
+   "id": "L5U05-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cart",
+   "item": "cart",
+   "options": [
+    "pyramid",
+    "voyage",
+    "cart",
+    "childhood"
+   ],
+   "answer": "cart"
+  },
+  {
+   "id": "L5U05-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "monument",
+   "item": "monument",
+   "options": [
+    "monument",
+    "sail",
+    "die",
+    "legend"
+   ],
+   "answer": "monument"
+  },
+  {
+   "id": "L5U05-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "legend",
+   "item": "legend",
+   "options": [
+    "kingdom",
+    "peace",
+    "legend",
+    "telephone"
+   ],
+   "answer": "legend"
+  },
+  {
+   "id": "L5U05-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "period",
+   "item": "period",
+   "options": [
+    "war",
+    "legend",
+    "period",
+    "childhood"
+   ],
+   "answer": "period"
+  },
+  {
+   "id": "L5U05-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "modern",
+   "item": "modern",
+   "options": [
+    "hunter",
+    "trade",
+    "cart",
+    "modern"
+   ],
+   "answer": "modern"
+  },
+  {
+   "id": "L5U05-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "childhood",
+   "item": "childhood",
+   "options": [
+    "voyage",
+    "in the past",
+    "childhood",
+    "wise"
+   ],
+   "answer": "childhood"
+  },
+  {
+   "id": "L5U05-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "life",
+   "item": "life",
+   "options": [
+    "during",
+    "life",
+    "in the past",
+    "since"
+   ],
+   "answer": "life"
+  },
+  {
+   "id": "L5U05-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "die",
+   "item": "die",
+   "options": [
+    "childhood",
+    "leader",
+    "die",
+    "kingdom"
+   ],
+   "answer": "die"
+  },
+  {
+   "id": "L5U05-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "without",
+   "item": "without",
+   "options": [
+    "old-fashioned",
+    "life",
+    "without",
+    "modern"
+   ],
+   "answer": "without"
+  },
+  {
+   "id": "L5U05-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "simple",
+   "item": "simple",
+   "options": [
+    "simple",
+    "fossil",
+    "palace",
+    "tomb"
+   ],
+   "answer": "simple"
+  },
+  {
+   "id": "L5U05-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wise",
+   "item": "wise",
+   "options": [
+    "tomb",
+    "without",
+    "wise",
+    "soldier"
+   ],
+   "answer": "wise"
+  },
+  {
+   "id": "L5U05-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "old-fashioned",
+   "item": "old-fashioned",
+   "options": [
+    "kingdom",
+    "old-fashioned",
+    "pyramid",
+    "during"
+   ],
+   "answer": "old-fashioned"
+  },
+  {
+   "id": "L5U05-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "nowadays",
+   "item": "nowadays",
+   "options": [
+    "explorer",
+    "nowadays",
+    "legend",
+    "army"
+   ],
+   "answer": "nowadays"
+  },
+  {
+   "id": "L5U05-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "in the past",
+   "item": "in the past",
+   "options": [
+    "legend",
+    "wise",
+    "in the past",
+    "empire"
+   ],
+   "answer": "in the past"
+  },
+  {
+   "id": "L5U05-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "during",
+   "item": "during",
+   "options": [
+    "tomb",
+    "life",
+    "archaeologist",
+    "during"
+   ],
+   "answer": "during"
+  },
+  {
+   "id": "L5U05-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "since",
+   "item": "since",
+   "options": [
+    "cart",
+    "since",
+    "invention",
+    "monument"
+   ],
+   "answer": "since"
+  },
+  {
+   "id": "L5U05-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "national",
+   "item": "national",
+   "options": [
+    "silk",
+    "monument",
+    "cart",
+    "national"
+   ],
+   "answer": "national"
+  },
+  {
+   "id": "L5U05-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lead",
+   "item": "lead",
+   "options": [
+    "century",
+    "silk",
+    "lead",
+    "steam train"
+   ],
+   "answer": "lead"
+  },
+  {
+   "id": "L5U05-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "leader",
+   "item": "leader",
+   "options": [
+    "leader",
+    "childhood",
+    "period",
+    "tomb"
+   ],
+   "answer": "leader"
+  },
+  {
+   "id": "L5U05-Q043",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trade",
+   "item": "trade",
+   "options": [
+    "trade",
+    "since",
+    "telephone",
+    "palace"
+   ],
+   "answer": "trade"
+  },
+  {
+   "id": "L5U05-Q044",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "silk",
+   "item": "silk",
+   "options": [
+    "legend",
+    "silk",
+    "simple",
+    "palace"
+   ],
+   "answer": "silk"
+  },
+  {
+   "id": "L5U05-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "tool",
+   "answer": "tool"
+  },
+  {
+   "id": "L5U05-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "telephone",
+   "answer": "telephone"
+  },
+  {
+   "id": "L5U05-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa used to ride a bike to work.",
+   "item": "used to",
+   "answer": "My grandpa used to ride a bike to work."
+  },
+  {
+   "id": "L5U05-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pyramids are ancient buildings.",
+   "item": "ancient",
+   "answer": "The pyramids are ancient buildings."
+  },
+  {
+   "id": "L5U05-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This house is one century old.",
+   "item": "century",
+   "answer": "This house is one century old."
+  },
+  {
+   "id": "L5U05-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The emperor lived in a big palace.",
+   "item": "emperor",
+   "answer": "The emperor lived in a big palace."
+  },
+  {
+   "id": "L5U05-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The empire was very large.",
+   "item": "empire",
+   "answer": "The empire was very large."
+  },
+  {
+   "id": "L5U05-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king ruled the kingdom.",
+   "item": "kingdom",
+   "answer": "The king ruled the kingdom."
+  },
+  {
+   "id": "L5U05-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Hue has an old palace.",
+   "item": "palace",
+   "answer": "Hue has an old palace."
+  },
+  {
+   "id": "L5U05-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The soldier stood at the gate.",
+   "item": "soldier",
+   "answer": "The soldier stood at the gate."
+  },
+  {
+   "id": "L5U05-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The army protected the city.",
+   "item": "army",
+   "answer": "The army protected the city."
+  },
+  {
+   "id": "L5U05-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My great-grandpa told me about the war.",
+   "item": "war",
+   "answer": "My great-grandpa told me about the war."
+  },
+  {
+   "id": "L5U05-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Everyone wants peace.",
+   "item": "peace",
+   "answer": "Everyone wants peace."
+  },
+  {
+   "id": "L5U05-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pyramids are in Egypt.",
+   "item": "pyramid",
+   "answer": "The pyramids are in Egypt."
+  },
+  {
+   "id": "L5U05-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The king's tomb is inside the pyramid.",
+   "item": "tomb",
+   "answer": "The king's tomb is inside the pyramid."
+  },
+  {
+   "id": "L5U05-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We saw a dinosaur fossil at the museum.",
+   "item": "fossil",
+   "answer": "We saw a dinosaur fossil at the museum."
+  },
+  {
+   "id": "L5U05-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The archaeologist found an ancient pot.",
+   "item": "archaeologist",
+   "answer": "The archaeologist found an ancient pot."
+  },
+  {
+   "id": "L5U05-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The explorer sailed across the ocean.",
+   "item": "explorer",
+   "answer": "The explorer sailed across the ocean."
+  },
+  {
+   "id": "L5U05-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The voyage took three months.",
+   "item": "voyage",
+   "answer": "The voyage took three months."
+  },
+  {
+   "id": "L5U05-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "They sailed to a new island.",
+   "item": "sail",
+   "answer": "They sailed to a new island."
+  },
+  {
+   "id": "L5U05-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The telephone was a great invention.",
+   "item": "invention",
+   "answer": "The telephone was a great invention."
+  },
+  {
+   "id": "L5U05-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People used stone tools long ago.",
+   "item": "tool",
+   "answer": "People used stone tools long ago."
+  },
+  {
+   "id": "L5U05-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The hunters lived in caves.",
+   "item": "hunter",
+   "answer": "The hunters lived in caves."
+  },
+  {
+   "id": "L5U05-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandma has an old telephone.",
+   "item": "telephone",
+   "answer": "My grandma has an old telephone."
+  },
+  {
+   "id": "L5U05-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Steam trains used to be very slow.",
+   "item": "steam train",
+   "answer": "Steam trains used to be very slow."
+  },
+  {
+   "id": "L5U05-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A horse pulled the cart.",
+   "item": "cart",
+   "answer": "A horse pulled the cart."
+  },
+  {
+   "id": "L5U05-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a monument in the city centre.",
+   "item": "monument",
+   "answer": "There is a monument in the city centre."
+  },
+  {
+   "id": "L5U05-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There is a legend about this lake.",
+   "item": "legend",
+   "answer": "There is a legend about this lake."
+  },
+  {
+   "id": "L5U05-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It was a difficult period in history.",
+   "item": "period",
+   "answer": "It was a difficult period in history."
+  },
+  {
+   "id": "L5U05-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Modern phones are very small.",
+   "item": "modern",
+   "answer": "Modern phones are very small."
+  },
+  {
+   "id": "L5U05-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad had a happy childhood in the village.",
+   "item": "childhood",
+   "answer": "My dad had a happy childhood in the village."
+  },
+  {
+   "id": "L5U05-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Life was very different in the past.",
+   "item": "life",
+   "answer": "Life was very different in the past."
+  },
+  {
+   "id": "L5U05-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Plants die without water.",
+   "item": "die",
+   "answer": "Plants die without water."
+  },
+  {
+   "id": "L5U05-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can't live without music.",
+   "item": "without",
+   "answer": "I can't live without music."
+  },
+  {
+   "id": "L5U05-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Life in the village was simple.",
+   "item": "simple",
+   "answer": "Life in the village was simple."
+  },
+  {
+   "id": "L5U05-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The old king was very wise.",
+   "item": "wise",
+   "answer": "The old king was very wise."
+  },
+  {
+   "id": "L5U05-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This radio is old-fashioned.",
+   "item": "old-fashioned",
+   "answer": "This radio is old-fashioned."
+  },
+  {
+   "id": "L5U05-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nowadays, most people have phones.",
+   "item": "nowadays",
+   "answer": "Nowadays, most people have phones."
+  },
+  {
+   "id": "L5U05-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the past, there were no cars.",
+   "item": "in the past",
+   "answer": "In the past, there were no cars."
+  },
+  {
+   "id": "L5U05-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It rained during the night.",
+   "item": "during",
+   "answer": "It rained during the night."
+  },
+  {
+   "id": "L5U05-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have lived here since I was born.",
+   "item": "since",
+   "answer": "I have lived here since I was born."
+  },
+  {
+   "id": "L5U05-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Today is a national holiday.",
+   "item": "national",
+   "answer": "Today is a national holiday."
+  },
+  {
+   "id": "L5U05-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The teacher leads us to the museum.",
+   "item": "lead",
+   "answer": "The teacher leads us to the museum."
+  },
+  {
+   "id": "L5U05-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "A good leader listens to people.",
+   "item": "leader",
+   "answer": "A good leader listens to people."
+  },
+  {
+   "id": "L5U05-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "People traded silk and spices.",
+   "item": "trade",
+   "answer": "People traded silk and spices."
+  },
+  {
+   "id": "L5U05-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Her ao dai is made of silk.",
+   "item": "silk",
+   "answer": "Her ao dai is made of silk."
+  },
+  {
+   "id": "L5U05-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the past, people used to write letters.",
+   "answer": "In the past, people used to write letters."
+  },
+  {
+   "id": "L5U05-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the past, people used to travel by horse.",
+   "answer": "In the past, people used to travel by horse."
+  },
+  {
+   "id": "L5U05-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "In the past, people used to use candles.",
+   "answer": "In the past, people used to use candles."
+  },
+  {
+   "id": "L5U05-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nowadays, people send emails.",
+   "answer": "Nowadays, people send emails."
+  },
+  {
+   "id": "L5U05-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nowadays, people travel by plane.",
+   "answer": "Nowadays, people travel by plane."
+  },
+  {
+   "id": "L5U05-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Nowadays, people use electricity.",
+   "answer": "Nowadays, people use electricity."
+  },
+  {
+   "id": "L5U05-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa used to ride a bike to work.",
+   "answer": "My grandpa used to ride a bike to work."
+  },
+  {
+   "id": "L5U05-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa used to live in a village.",
+   "answer": "My grandpa used to live in a village."
+  },
+  {
+   "id": "L5U05-Q099",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandpa used to be a farmer.",
+   "answer": "My grandpa used to be a farmer."
+  },
+  {
+   "id": "L5U05-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Grandpa, what was life like when you were young?",
+   "answer": "It was very different. We didn't have a TV."
+  },
+  {
+   "id": "L5U05-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Really? What did you do in the evening?",
+   "answer": "We used to tell stories and sing songs together."
+  },
+  {
+   "id": "L5U05-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How did you go to school?",
+   "answer": "I used to walk three kilometres every day!"
+  },
+  {
+   "id": "L5U05-Q103",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "How old is it?",
+   "answer": "It's millions of years old."
+  },
+  {
+   "id": "L5U05-Q104",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Who found it?",
+   "answer": "A scientist found it in the desert."
+  },
+  {
+   "id": "L5U05-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "tool",
+   "options": [
+    "tool",
+    "nose",
+    "telephone"
+   ],
+   "answer": "tool"
+  },
+  {
+   "id": "L5U05-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "telephone",
+   "options": [
+    "tool",
+    "telephone",
+    "laptop"
+   ],
+   "answer": "telephone"
+  },
+  {
+   "id": "L5U05-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The pyramids are ___ buildings.",
+   "item": "ancient",
+   "options": [
+    "modern",
+    "trade",
+    "ancient"
+   ],
+   "answer": "ancient"
+  },
+  {
+   "id": "L5U05-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This house is one ___ old.",
+   "item": "century",
+   "options": [
+    "century",
+    "tomb",
+    "simple"
+   ],
+   "answer": "century"
+  },
+  {
+   "id": "L5U05-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ lived in a big palace.",
+   "item": "emperor",
+   "options": [
+    "nowadays",
+    "life",
+    "emperor"
+   ],
+   "answer": "emperor"
+  },
+  {
+   "id": "L5U05-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ was very large.",
+   "item": "empire",
+   "options": [
+    "tool",
+    "empire",
+    "telephone"
+   ],
+   "answer": "empire"
+  },
+  {
+   "id": "L5U05-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The king ruled the ___.",
+   "item": "kingdom",
+   "options": [
+    "old-fashioned",
+    "kingdom",
+    "tomb"
+   ],
+   "answer": "kingdom"
+  },
+  {
+   "id": "L5U05-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Hue has an old ___.",
+   "item": "palace",
+   "options": [
+    "explorer",
+    "palace",
+    "silk"
+   ],
+   "answer": "palace"
+  },
+  {
+   "id": "L5U05-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ stood at the gate.",
+   "item": "soldier",
+   "options": [
+    "period",
+    "soldier",
+    "life"
+   ],
+   "answer": "soldier"
+  },
+  {
+   "id": "L5U05-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ protected the city.",
+   "item": "army",
+   "options": [
+    "century",
+    "army",
+    "since"
+   ],
+   "answer": "army"
+  },
+  {
+   "id": "L5U05-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My great-grandpa told me about the ___.",
+   "item": "war",
+   "options": [
+    "war",
+    "tomb",
+    "peace"
+   ],
+   "answer": "war"
+  },
+  {
+   "id": "L5U05-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Everyone wants ___.",
+   "item": "peace",
+   "options": [
+    "peace",
+    "war",
+    "legend"
+   ],
+   "answer": "peace"
+  },
+  {
+   "id": "L5U05-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ are in Egypt.",
+   "item": "pyramid",
+   "options": [
+    "tools",
+    "pyramids",
+    "telephones"
+   ],
+   "answer": "pyramids"
+  },
+  {
+   "id": "L5U05-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The king's ___ is inside the pyramid.",
+   "item": "tomb",
+   "options": [
+    "tomb",
+    "explorer",
+    "life"
+   ],
+   "answer": "tomb"
+  },
+  {
+   "id": "L5U05-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We saw a dinosaur ___ at the museum.",
+   "item": "fossil",
+   "options": [
+    "simple",
+    "old-fashioned",
+    "fossil"
+   ],
+   "answer": "fossil"
+  },
+  {
+   "id": "L5U05-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ found an ancient pot.",
+   "item": "archaeologist",
+   "options": [
+    "tool",
+    "archaeologist",
+    "century"
+   ],
+   "answer": "archaeologist"
+  },
+  {
+   "id": "L5U05-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ sailed across the ocean.",
+   "item": "explorer",
+   "options": [
+    "modern",
+    "explorer",
+    "lead"
+   ],
+   "answer": "explorer"
+  },
+  {
+   "id": "L5U05-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ took three months.",
+   "item": "voyage",
+   "options": [
+    "voyage",
+    "trade",
+    "old-fashioned"
+   ],
+   "answer": "voyage"
+  },
+  {
+   "id": "L5U05-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "They ___ to a new island.",
+   "item": "sail",
+   "options": [
+    "sailed",
+    "carted",
+    "duringed"
+   ],
+   "answer": "sailed"
+  },
+  {
+   "id": "L5U05-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The telephone was a great ___.",
+   "item": "invention",
+   "options": [
+    "period",
+    "simple",
+    "invention"
+   ],
+   "answer": "invention"
+  },
+  {
+   "id": "L5U05-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People used stone ___ long ago.",
+   "item": "tool",
+   "options": [
+    "telephones",
+    "legends",
+    "tools"
+   ],
+   "answer": "tools"
+  },
+  {
+   "id": "L5U05-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The ___ lived in caves.",
+   "item": "hunter",
+   "options": [
+    "tools",
+    "hunters",
+    "telephones"
+   ],
+   "answer": "hunters"
+  },
+  {
+   "id": "L5U05-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandma has an old ___.",
+   "item": "telephone",
+   "options": [
+    "telephone",
+    "hunter",
+    "emperor"
+   ],
+   "answer": "telephone"
+  },
+  {
+   "id": "L5U05-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A horse pulled the ___.",
+   "item": "cart",
+   "options": [
+    "modern",
+    "old-fashioned",
+    "cart"
+   ],
+   "answer": "cart"
+  },
+  {
+   "id": "L5U05-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ in the city centre.",
+   "item": "monument",
+   "options": [
+    "nowadays",
+    "life",
+    "monument"
+   ],
+   "answer": "monument"
+  },
+  {
+   "id": "L5U05-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There is a ___ about this lake.",
+   "item": "legend",
+   "options": [
+    "invention",
+    "ancient",
+    "legend"
+   ],
+   "answer": "legend"
+  },
+  {
+   "id": "L5U05-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It was a difficult ___ in history.",
+   "item": "period",
+   "options": [
+    "century",
+    "nowadays",
+    "period"
+   ],
+   "answer": "period"
+  },
+  {
+   "id": "L5U05-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ phones are very small.",
+   "item": "modern",
+   "options": [
+    "Modern",
+    "Voyage",
+    "Without"
+   ],
+   "answer": "Modern"
+  },
+  {
+   "id": "L5U05-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad had a happy ___ in the village.",
+   "item": "childhood",
+   "options": [
+    "childhood",
+    "national",
+    "since"
+   ],
+   "answer": "childhood"
+  },
+  {
+   "id": "L5U05-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ was very different in the past.",
+   "item": "life",
+   "options": [
+    "Life",
+    "Kingdom",
+    "Fossil"
+   ],
+   "answer": "Life"
+  },
+  {
+   "id": "L5U05-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Plants ___ without water.",
+   "item": "die",
+   "options": [
+    "die",
+    "during",
+    "telephone"
+   ],
+   "answer": "die"
+  },
+  {
+   "id": "L5U05-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I can't live ___ music.",
+   "item": "without",
+   "options": [
+    "life",
+    "soldier",
+    "without"
+   ],
+   "answer": "without"
+  },
+  {
+   "id": "L5U05-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Life in the village was ___.",
+   "item": "simple",
+   "options": [
+    "without",
+    "silk",
+    "simple"
+   ],
+   "answer": "simple"
+  },
+  {
+   "id": "L5U05-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The old king was very ___.",
+   "item": "wise",
+   "options": [
+    "fossil",
+    "century",
+    "wise"
+   ],
+   "answer": "wise"
+  },
+  {
+   "id": "L5U05-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This radio is ___.",
+   "item": "old-fashioned",
+   "options": [
+    "childhood",
+    "silk",
+    "old-fashioned"
+   ],
+   "answer": "old-fashioned"
+  },
+  {
+   "id": "L5U05-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, most people have phones.",
+   "item": "nowadays",
+   "options": [
+    "Army",
+    "Period",
+    "Nowadays"
+   ],
+   "answer": "Nowadays"
+  },
+  {
+   "id": "L5U05-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It rained ___ the night.",
+   "item": "during",
+   "options": [
+    "during",
+    "die",
+    "period"
+   ],
+   "answer": "during"
+  },
+  {
+   "id": "L5U05-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I have lived here ___ I was born.",
+   "item": "since",
+   "options": [
+    "since",
+    "trade",
+    "sail"
+   ],
+   "answer": "since"
+  },
+  {
+   "id": "L5U05-Q143",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Today is a ___ holiday.",
+   "item": "national",
+   "options": [
+    "palace",
+    "tool",
+    "national"
+   ],
+   "answer": "national"
+  },
+  {
+   "id": "L5U05-Q144",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The teacher ___ us to the museum.",
+   "item": "lead",
+   "options": [
+    "leads",
+    "telephones",
+    "tools"
+   ],
+   "answer": "leads"
+  },
+  {
+   "id": "L5U05-Q145",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "A good ___ listens to people.",
+   "item": "leader",
+   "options": [
+    "without",
+    "leader",
+    "emperor"
+   ],
+   "answer": "leader"
+  },
+  {
+   "id": "L5U05-Q146",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "People ___ silk and spices.",
+   "item": "trade",
+   "options": [
+    "traded",
+    "huntered",
+    "nationaled"
+   ],
+   "answer": "traded"
+  },
+  {
+   "id": "L5U05-Q147",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Her ao dai is made of ___.",
+   "item": "silk",
+   "options": [
+    "silk",
+    "telephone",
+    "ancient"
+   ],
+   "answer": "silk"
+  },
+  {
+   "id": "L5U05-Q148",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "People used stone tools long ago.",
+   "item": "tool",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L5U05-Q149",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My grandma has an old telephone.",
+   "item": "tool",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L5U05-Q150",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U05-R01",
+   "text_en": "Where did most people live a hundred years ago?",
+   "options": [
+    "In big cities.",
+    "In flats.",
+    "In villages."
+   ],
+   "answer": "In villages."
+  },
+  {
+   "id": "L5U05-Q151",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U05-R01",
+   "text_en": "What did people use when there was no electricity?",
+   "options": [
+    "Computers.",
+    "Candles and oil lamps.",
+    "Torches."
+   ],
+   "answer": "Candles and oil lamps."
+  },
+  {
+   "id": "L5U05-Q152",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L5U05-R01",
+   "text_en": "Who had cars?",
+   "options": [
+    "Only rich people.",
+    "Everyone.",
+    "Children."
+   ],
+   "answer": "Only rich people."
+  },
+  {
+   "id": "L5U05-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "ancient",
+   "item": "ancient",
+   "answer": "ancient"
+  },
+  {
+   "id": "L5U05-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "century",
+   "item": "century",
+   "answer": "century"
+  },
+  {
+   "id": "L5U05-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "emperor",
+   "item": "emperor",
+   "answer": "emperor"
+  },
+  {
+   "id": "L5U05-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "empire",
+   "item": "empire",
+   "answer": "empire"
+  },
+  {
+   "id": "L5U05-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "kingdom",
+   "item": "kingdom",
+   "answer": "kingdom"
+  },
+  {
+   "id": "L5U05-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "palace",
+   "item": "palace",
+   "answer": "palace"
+  },
+  {
+   "id": "L5U05-Q159",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "soldier",
+   "item": "soldier",
+   "answer": "soldier"
+  },
+  {
+   "id": "L5U05-Q160",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "army",
+   "item": "army",
+   "answer": "army"
+  },
+  {
+   "id": "L5U05-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The pyramids are ancient buildings.",
+   "answer": "The pyramids are ancient buildings."
+  },
+  {
+   "id": "L5U05-Q162",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "This house is one century old.",
+   "answer": "This house is one century old."
+  },
+  {
+   "id": "L5U05-Q163",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The emperor lived in a big palace.",
+   "answer": "The emperor lived in a big palace."
+  }
+ ]
+}

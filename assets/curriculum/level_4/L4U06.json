@@ -1,0 +1,3070 @@
+{
+ "id": "L4U06",
+ "level": 4,
+ "unit": 6,
+ "topic_en": "Messages and invitations",
+ "topic_vi": "Tin nhắn và lời mời",
+ "can_do_vi": [
+  "Viết lời mời và trả lời lời mời",
+  "Viết tin nhắn, thư ngắn khoảng 40–60 từ"
+ ],
+ "grammar_note_vi": "Mời ai: \"Would you like to come to my party?\" Nhận lời: \"I'd love to!\" Từ chối lịch sự: \"I'm sorry, I can't. I have to...\" Thư mở đầu bằng \"Dear...\", kết thúc bằng \"Love from...\" hoặc \"Best wishes\".",
+ "items": [
+  {
+   "id": "L4U06-W01",
+   "type": "word",
+   "en": "invitation",
+   "vi": "thiệp mời, lời mời",
+   "ipa": "/ˌɪnvɪˈteɪʃən/",
+   "syllables": [
+    "in",
+    "vi",
+    "ta",
+    "tion"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "1F48C"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Thank you for the invitation!",
+   "example_vi": "Cảm ơn cậu đã mời tớ!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W02",
+   "type": "word",
+   "en": "reply",
+   "vi": "trả lời",
+   "ipa": "/rɪˈplaɪ/",
+   "syllables": [
+    "re",
+    "ply"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "21A9-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Please reply to my message.",
+   "example_vi": "Hãy trả lời tin nhắn của tớ nhé.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W03",
+   "type": "word",
+   "en": "accept",
+   "vi": "nhận lời",
+   "ipa": "/əkˈsɛpt/",
+   "syllables": [
+    "ac",
+    "cept"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "2705"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I accept your invitation.",
+   "example_vi": "Tớ nhận lời mời của cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W04",
+   "type": "phrase",
+   "en": "I'd love to",
+   "vi": "tớ rất muốn",
+   "ipa": "/aɪd lʌv tɪ/",
+   "syllables": [
+    "I'd",
+    "love",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F60D"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I'd love to come to your party!",
+   "example_vi": "Tớ rất muốn đến bữa tiệc của cậu!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W05",
+   "type": "word",
+   "en": "unfortunately",
+   "vi": "thật tiếc là",
+   "ipa": "/ənˈfɔrtʃənətli/",
+   "syllables": [
+    "un",
+    "for",
+    "tu",
+    "nate",
+    "ly"
+   ],
+   "phonics": "initial_u",
+   "image": {
+    "emoji": "1F615"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Unfortunately, I can't come.",
+   "example_vi": "Thật tiếc là tớ không đến được.",
+   "pron_focus": [
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W06",
+   "type": "word",
+   "en": "dear",
+   "vi": "thân mến",
+   "ipa": "/dɪr/",
+   "syllables": [
+    "dear"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F48C"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Dear Tom, thank you for your letter.",
+   "example_vi": "Tom thân mến, cảm ơn thư của cậu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W07",
+   "type": "phrase",
+   "en": "best wishes",
+   "vi": "thân ái",
+   "ipa": "/bɛst ˈwɪʃɪz/",
+   "syllables": [
+    "best",
+    "wish",
+    "es"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F31F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Best wishes, Anna.",
+   "example_vi": "Thân ái, Anna.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W08",
+   "type": "phrase",
+   "en": "love from",
+   "vi": "thương yêu",
+   "ipa": "/lʌv frʌm/",
+   "syllables": [
+    "love",
+    "from"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2764-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Love from Grandma.",
+   "example_vi": "Thương con, Bà.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W09",
+   "type": "phrase",
+   "en": "text message",
+   "vi": "tin nhắn điện thoại",
+   "ipa": "/tɛkst ˈmɛsɪdʒ/",
+   "syllables": [
+    "text",
+    "mes",
+    "sage"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4F1"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Mum sent me a text message.",
+   "example_vi": "Mẹ gửi cho tớ một tin nhắn.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W10",
+   "type": "word",
+   "en": "note",
+   "vi": "mẩu ghi chú",
+   "ipa": "/noʊt/",
+   "syllables": [
+    "note"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F5D2-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I left a note on the fridge.",
+   "example_vi": "Tớ để lại mẩu ghi chú trên tủ lạnh.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W11",
+   "type": "word",
+   "en": "envelope",
+   "vi": "phong bì",
+   "ipa": "/ˈɛnvəˌloʊp/",
+   "syllables": [
+    "en",
+    "ve",
+    "lope"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "2709-FE0F"
+   },
+   "picturable": true,
+   "cat": "L4U06",
+   "example_en": "Put the letter in the envelope.",
+   "example_vi": "Cho lá thư vào phong bì.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W12",
+   "type": "word",
+   "en": "stamp",
+   "vi": "tem thư",
+   "ipa": "/stæmp/",
+   "syllables": [
+    "stamp"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4EE"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "You need a stamp for the postcard.",
+   "example_vi": "Cậu cần dán tem cho bưu thiếp.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W13",
+   "type": "word",
+   "en": "letter",
+   "vi": "lá thư",
+   "ipa": "/ˈlɛtər/",
+   "syllables": [
+    "let",
+    "ter"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "2709-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I wrote a letter to my pen friend.",
+   "example_vi": "Tớ viết thư cho bạn qua thư.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W14",
+   "type": "phrase",
+   "en": "write back",
+   "vi": "viết thư trả lời",
+   "ipa": "/raɪt bæk/",
+   "syllables": [
+    "write",
+    "back"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "270D-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Please write back soon!",
+   "example_vi": "Hãy sớm viết thư trả lời nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W15",
+   "type": "phrase",
+   "en": "hear from",
+   "vi": "nhận tin từ",
+   "ipa": "/hir frʌm/",
+   "syllables": [
+    "hear",
+    "from"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F442"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I hope to hear from you soon.",
+   "example_vi": "Mong sớm nhận tin của cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W16",
+   "type": "word",
+   "en": "place",
+   "vi": "nơi, chỗ",
+   "ipa": "/pleɪs/",
+   "syllables": [
+    "place"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4CD"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "This is a nice place for a picnic.",
+   "example_vi": "Đây là chỗ rất đẹp để đi dã ngoại.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W17",
+   "type": "phrase",
+   "en": "fancy dress",
+   "vi": "trang phục hoá trang",
+   "ipa": "/ˈfænsi drɛs/",
+   "syllables": [
+    "fan",
+    "cy",
+    "dress"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9B8"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "It's a fancy dress party!",
+   "example_vi": "Đó là tiệc hoá trang!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W18",
+   "type": "word",
+   "en": "sleepover",
+   "vi": "ngủ lại nhà bạn",
+   "ipa": "/sˈliˌpoʊvər/",
+   "syllables": [
+    "sleepover"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F6CC"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Can you come to my sleepover on Friday?",
+   "example_vi": "Thứ Sáu cậu đến ngủ lại nhà tớ được không?",
+   "pron_focus": [
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W19",
+   "type": "word",
+   "en": "barbecue",
+   "vi": "tiệc nướng ngoài trời",
+   "ipa": "/ˈbɑrbɪˌkju/",
+   "syllables": [
+    "bar",
+    "be",
+    "cue"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F356"
+   },
+   "picturable": true,
+   "cat": "L4U06",
+   "example_en": "We are having a barbecue in the garden.",
+   "example_vi": "Nhà tớ tổ chức tiệc nướng ngoài vườn.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W20",
+   "type": "word",
+   "en": "celebration",
+   "vi": "buổi ăn mừng",
+   "ipa": "/ˌsɛləˈbreɪʃən/",
+   "syllables": [
+    "cel",
+    "e",
+    "bra",
+    "tion"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F38A"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Let's have a celebration!",
+   "example_vi": "Mình tổ chức ăn mừng nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W21",
+   "type": "word",
+   "en": "surprise",
+   "vi": "sự bất ngờ",
+   "ipa": "/səˈpraɪz/",
+   "syllables": [
+    "sur",
+    "prise"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "It's a surprise. Don't tell Mum!",
+   "example_vi": "Đây là bất ngờ. Đừng nói với mẹ nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W22",
+   "type": "word",
+   "en": "wedding",
+   "vi": "đám cưới",
+   "ipa": "/ˈwɛdɪŋ/",
+   "syllables": [
+    "wed",
+    "ding"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F492"
+   },
+   "picturable": true,
+   "cat": "L4U06",
+   "example_en": "My aunt's wedding is in May.",
+   "example_vi": "Đám cưới của dì tớ vào tháng Năm.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W23",
+   "type": "word",
+   "en": "anniversary",
+   "vi": "ngày kỷ niệm",
+   "ipa": "/ˌænəˈvʌrsəri/",
+   "syllables": [
+    "anniversary"
+   ],
+   "phonics": "initial_a",
+   "image": {
+    "emoji": "1F490"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "It's my parents' wedding anniversary.",
+   "example_vi": "Hôm nay là kỷ niệm ngày cưới của bố mẹ tớ.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W24",
+   "type": "word",
+   "en": "host",
+   "vi": "chủ nhà, chủ tiệc",
+   "ipa": "/hoʊst/",
+   "syllables": [
+    "host"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F64B"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Lan is the host of the party.",
+   "example_vi": "Lan là chủ bữa tiệc.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W25",
+   "type": "word",
+   "en": "cancel",
+   "vi": "huỷ",
+   "ipa": "/ˈkænsəl/",
+   "syllables": [
+    "can",
+    "cel"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "274C"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "We cancelled the picnic because of the rain.",
+   "example_vi": "Nhà tớ huỷ chuyến dã ngoại vì trời mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W26",
+   "type": "word",
+   "en": "free",
+   "vi": "rảnh, miễn phí",
+   "ipa": "/fri/",
+   "syllables": [
+    "free"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F193"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Are you free on Saturday?",
+   "example_vi": "Thứ Bảy cậu rảnh không?",
+   "pron_focus": [
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W27",
+   "type": "word",
+   "en": "receive",
+   "vi": "nhận được",
+   "ipa": "/rɪˈsiv/",
+   "syllables": [
+    "re",
+    "ceive"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F4E5"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I received a card from my cousin.",
+   "example_vi": "Tớ nhận được thiệp của anh họ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W28",
+   "type": "phrase",
+   "en": "see you",
+   "vi": "hẹn gặp lại",
+   "ipa": "/si ju/",
+   "syllables": [
+    "see",
+    "you"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F44B"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "See you on Saturday!",
+   "example_vi": "Hẹn gặp cậu thứ Bảy nhé!",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W29",
+   "type": "word",
+   "en": "if",
+   "vi": "nếu",
+   "ipa": "/ɪf/",
+   "syllables": [
+    "if"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2754"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Call me if you are free.",
+   "example_vi": "Gọi cho tớ nếu cậu rảnh nhé.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W30",
+   "type": "phrase",
+   "en": "let me know",
+   "vi": "cho tớ biết",
+   "ipa": "/lɛt mi noʊ/",
+   "syllables": [
+    "let",
+    "me",
+    "know"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4AC"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Let me know if you can come.",
+   "example_vi": "Cho tớ biết nếu cậu đến được nhé.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W31",
+   "type": "phrase",
+   "en": "lots of love",
+   "vi": "thương nhiều",
+   "ipa": "/lɑts əv lʌv/",
+   "syllables": [
+    "lots",
+    "of",
+    "love"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F495"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Lots of love, Lan.",
+   "example_vi": "Thương cậu nhiều, Lan.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W32",
+   "type": "phrase",
+   "en": "looking forward to",
+   "vi": "mong chờ",
+   "ipa": "/ˈlʊkɪŋ ˈfɔrwərd tɪ/",
+   "syllables": [
+    "look",
+    "ing",
+    "for",
+    "ward",
+    "to"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F929"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "I'm looking forward to your party!",
+   "example_vi": "Tớ rất mong đến bữa tiệc của cậu!",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W33",
+   "type": "word",
+   "en": "remember",
+   "vi": "nhớ",
+   "ipa": "/rɪˈmɛmbər/",
+   "syllables": [
+    "re",
+    "mem",
+    "ber"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9E0"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Remember to bring your swimsuit.",
+   "example_vi": "Nhớ mang đồ bơi nhé.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W34",
+   "type": "word",
+   "en": "forget",
+   "vi": "quên",
+   "ipa": "/fərˈɡɛt/",
+   "syllables": [
+    "for",
+    "get"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "2753"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Don't forget my birthday!",
+   "example_vi": "Đừng quên sinh nhật tớ nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W35",
+   "type": "word",
+   "en": "information",
+   "vi": "thông tin",
+   "ipa": "/ˌɪnˌfɔrˈmeɪʃən/",
+   "syllables": [
+    "in",
+    "for",
+    "ma",
+    "tion"
+   ],
+   "phonics": "initial_i",
+   "image": {
+    "emoji": "2139-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Here is the information about the trip.",
+   "example_vi": "Đây là thông tin về chuyến đi.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W36",
+   "type": "phrase",
+   "en": "phone number",
+   "vi": "số điện thoại",
+   "ipa": "/foʊn ˈnʌmbər/",
+   "syllables": [
+    "phone",
+    "num",
+    "ber"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "260E-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "What's your phone number?",
+   "example_vi": "Số điện thoại của cậu là gì?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W37",
+   "type": "word",
+   "en": "bowling",
+   "vi": "chơi bowling",
+   "ipa": "/ˈboʊlɪŋ/",
+   "syllables": [
+    "bowl",
+    "ing"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F3B3"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Let's go bowling for my birthday.",
+   "example_vi": "Sinh nhật tớ mình đi chơi bowling nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W38",
+   "type": "word",
+   "en": "karaoke",
+   "vi": "hát karaoke",
+   "ipa": "/ˌkɛriˈoʊki/",
+   "syllables": [
+    "karaoke"
+   ],
+   "phonics": "initial_k",
+   "image": {
+    "emoji": "1F3A4"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "We sang karaoke at the party.",
+   "example_vi": "Bọn tớ hát karaoke ở bữa tiệc.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W39",
+   "type": "word",
+   "en": "magician",
+   "vi": "ảo thuật gia",
+   "ipa": "/məˈdʒɪʃən/",
+   "syllables": [
+    "ma",
+    "gi",
+    "cian"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1F3A9"
+   },
+   "picturable": true,
+   "cat": "L4U06",
+   "example_en": "There will be a magician at the party!",
+   "example_vi": "Sẽ có ảo thuật gia ở bữa tiệc!",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W40",
+   "type": "word",
+   "en": "wrap",
+   "vi": "gói (quà)",
+   "ipa": "/ræp/",
+   "syllables": [
+    "wrap"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F381"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Let's wrap the present.",
+   "example_vi": "Mình gói quà nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W41",
+   "type": "word",
+   "en": "ribbon",
+   "vi": "ruy băng",
+   "ipa": "/ˈrɪbən/",
+   "syllables": [
+    "rib",
+    "bon"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F380"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Put a red ribbon on the box.",
+   "example_vi": "Buộc ruy băng đỏ lên hộp.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U06-W42",
+   "type": "phrase",
+   "en": "blow out",
+   "vi": "thổi tắt",
+   "ipa": "/bloʊ aʊt/",
+   "syllables": [
+    "blow",
+    "out"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F56F-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U06",
+   "example_en": "Make a wish and blow out the candles!",
+   "example_vi": "Ước đi rồi thổi nến nào!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U06-P01",
+   "en": "Would you like to come to my {x}?",
+   "vi": "Cậu có muốn đến {x} của tớ không?",
+   "slots": {
+    "x": [
+     "party",
+     "sleepover",
+     "barbecue",
+     "birthday party"
+    ]
+   }
+  },
+  {
+   "id": "L4U06-P02",
+   "en": "I'm sorry, I can't. I have to {x}.",
+   "vi": "Tớ xin lỗi, tớ không đi được. Tớ phải {x}.",
+   "slots": {
+    "x": [
+     "visit my grandma",
+     "do my homework",
+     "go to the dentist"
+    ]
+   }
+  },
+  {
+   "id": "L4U06-P03",
+   "en": "Remember to bring {x}.",
+   "vi": "Nhớ mang {x} nhé.",
+   "slots": {
+    "x": [
+     "your swimsuit",
+     "a present",
+     "your costume",
+     "a torch"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U06-D01",
+   "title_vi": "Lời mời ngủ lại",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Would you like to come to my sleepover on Saturday?",
+     "vi": "Thứ Bảy cậu có muốn đến ngủ lại nhà tớ không?"
+    },
+    {
+     "role": "Kid",
+     "en": "I'd love to! What time?",
+     "vi": "Tớ rất muốn! Mấy giờ thế?"
+    },
+    {
+     "role": "Bi",
+     "en": "At six o'clock. Remember to bring your pyjamas.",
+     "vi": "Lúc sáu giờ. Nhớ mang đồ ngủ nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "Okay! Can I bring a game too?",
+     "vi": "Được! Tớ mang theo trò chơi được không?"
+    },
+    {
+     "role": "Bi",
+     "en": "Sure! See you on Saturday!",
+     "vi": "Được chứ! Hẹn gặp cậu thứ Bảy!"
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "sleepover",
+    "options": [
+     "party",
+     "barbecue"
+    ]
+   }
+  },
+  {
+   "id": "L4U06-D02",
+   "title_vi": "Từ chối lịch sự",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Are you free on Sunday? Let's go bowling!",
+     "vi": "Chủ nhật cậu rảnh không? Mình đi chơi bowling đi!"
+    },
+    {
+     "role": "Kid",
+     "en": "I'm sorry, I can't. I have to visit my grandma.",
+     "vi": "Tớ xin lỗi, tớ không đi được. Tớ phải đi thăm bà."
+    },
+    {
+     "role": "Bi",
+     "en": "That's okay. Maybe next week?",
+     "vi": "Không sao. Có lẽ tuần sau nhé?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes! Let me know. Thanks for inviting me.",
+     "vi": "Được! Cho tớ biết nhé. Cảm ơn cậu đã mời tớ."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "invitation"
+  },
+  {
+   "type": "dictate_word",
+   "target": "reply"
+  },
+  {
+   "type": "dictate_word",
+   "target": "accept"
+  },
+  {
+   "type": "dictate_word",
+   "target": "unfortunately"
+  },
+  {
+   "type": "dictate_word",
+   "target": "dear"
+  },
+  {
+   "type": "dictate_word",
+   "target": "note"
+  },
+  {
+   "type": "dictate_word",
+   "target": "envelope"
+  },
+  {
+   "type": "dictate_word",
+   "target": "stamp"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Thank you for the invitation!"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "Please reply to my message."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I accept your invitation."
+  },
+  {
+   "type": "write_sentences",
+   "target": "Dear|Would you like to come to|Best wishes"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U06-R01",
+   "title_en": "A party invitation",
+   "text_en": [
+    "Dear Nick, I'm having a fancy dress party for my birthday!",
+    "It's on Saturday, the twelfth of May, from three to six o'clock.",
+    "The party is at my house, 25 Lake Street.",
+    "There will be a magician, games and a big chocolate cake.",
+    "Please wear a costume.",
+    "I'm going to be a dragon!",
+    "Let me know if you can come.",
+    "My phone number is on the back of the card.",
+    "I hope you can come!",
+    "Best wishes, Kim."
+   ],
+   "questions": [
+    {
+     "q": "What kind of party is it?",
+     "options": [
+      "A fancy dress party.",
+      "A sleepover.",
+      "A barbecue."
+     ],
+     "answer": "A fancy dress party."
+    },
+    {
+     "q": "Where is the party?",
+     "options": [
+      "At Kim's house.",
+      "At a restaurant.",
+      "In the park."
+     ],
+     "answer": "At Kim's house."
+    },
+    {
+     "q": "What will Kim be at the party?",
+     "options": [
+      "A dragon.",
+      "A magician.",
+      "A princess."
+     ],
+     "answer": "A dragon."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U06-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "envelope",
+   "item": "envelope",
+   "options": [
+    "barbecue",
+    "magician",
+    "wedding",
+    "envelope"
+   ],
+   "answer": "envelope"
+  },
+  {
+   "id": "L4U06-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "barbecue",
+   "item": "barbecue",
+   "options": [
+    "envelope",
+    "wedding",
+    "barbecue",
+    "magician"
+   ],
+   "answer": "barbecue"
+  },
+  {
+   "id": "L4U06-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "wedding",
+   "item": "wedding",
+   "options": [
+    "magician",
+    "wedding",
+    "envelope",
+    "barbecue"
+   ],
+   "answer": "wedding"
+  },
+  {
+   "id": "L4U06-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "magician",
+   "item": "magician",
+   "options": [
+    "envelope",
+    "barbecue",
+    "magician",
+    "wedding"
+   ],
+   "answer": "magician"
+  },
+  {
+   "id": "L4U06-Q005",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "invitation",
+   "item": "invitation",
+   "options": [
+    "magician",
+    "stamp",
+    "free",
+    "invitation"
+   ],
+   "answer": "invitation"
+  },
+  {
+   "id": "L4U06-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "reply",
+   "item": "reply",
+   "options": [
+    "place",
+    "reply",
+    "receive",
+    "envelope"
+   ],
+   "answer": "reply"
+  },
+  {
+   "id": "L4U06-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "accept",
+   "item": "accept",
+   "options": [
+    "phone number",
+    "note",
+    "unfortunately",
+    "accept"
+   ],
+   "answer": "accept"
+  },
+  {
+   "id": "L4U06-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "I'd love to",
+   "item": "I'd love to",
+   "options": [
+    "I'd love to",
+    "text message",
+    "surprise",
+    "bowling"
+   ],
+   "answer": "I'd love to"
+  },
+  {
+   "id": "L4U06-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "unfortunately",
+   "item": "unfortunately",
+   "options": [
+    "magician",
+    "letter",
+    "unfortunately",
+    "looking forward to"
+   ],
+   "answer": "unfortunately"
+  },
+  {
+   "id": "L4U06-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "dear",
+   "item": "dear",
+   "options": [
+    "invitation",
+    "hear from",
+    "dear",
+    "magician"
+   ],
+   "answer": "dear"
+  },
+  {
+   "id": "L4U06-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "best wishes",
+   "item": "best wishes",
+   "options": [
+    "karaoke",
+    "wrap",
+    "best wishes",
+    "forget"
+   ],
+   "answer": "best wishes"
+  },
+  {
+   "id": "L4U06-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "love from",
+   "item": "love from",
+   "options": [
+    "receive",
+    "love from",
+    "karaoke",
+    "if"
+   ],
+   "answer": "love from"
+  },
+  {
+   "id": "L4U06-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "text message",
+   "item": "text message",
+   "options": [
+    "barbecue",
+    "ribbon",
+    "fancy dress",
+    "text message"
+   ],
+   "answer": "text message"
+  },
+  {
+   "id": "L4U06-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "note",
+   "item": "note",
+   "options": [
+    "note",
+    "sleepover",
+    "envelope",
+    "letter"
+   ],
+   "answer": "note"
+  },
+  {
+   "id": "L4U06-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "stamp",
+   "item": "stamp",
+   "options": [
+    "write back",
+    "stamp",
+    "anniversary",
+    "lots of love"
+   ],
+   "answer": "stamp"
+  },
+  {
+   "id": "L4U06-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "letter",
+   "item": "letter",
+   "options": [
+    "karaoke",
+    "receive",
+    "invitation",
+    "letter"
+   ],
+   "answer": "letter"
+  },
+  {
+   "id": "L4U06-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "write back",
+   "item": "write back",
+   "options": [
+    "phone number",
+    "place",
+    "information",
+    "write back"
+   ],
+   "answer": "write back"
+  },
+  {
+   "id": "L4U06-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hear from",
+   "item": "hear from",
+   "options": [
+    "free",
+    "wrap",
+    "best wishes",
+    "hear from"
+   ],
+   "answer": "hear from"
+  },
+  {
+   "id": "L4U06-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "place",
+   "item": "place",
+   "options": [
+    "text message",
+    "place",
+    "lots of love",
+    "best wishes"
+   ],
+   "answer": "place"
+  },
+  {
+   "id": "L4U06-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fancy dress",
+   "item": "fancy dress",
+   "options": [
+    "fancy dress",
+    "write back",
+    "ribbon",
+    "host"
+   ],
+   "answer": "fancy dress"
+  },
+  {
+   "id": "L4U06-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sleepover",
+   "item": "sleepover",
+   "options": [
+    "sleepover",
+    "remember",
+    "bowling",
+    "celebration"
+   ],
+   "answer": "sleepover"
+  },
+  {
+   "id": "L4U06-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "celebration",
+   "item": "celebration",
+   "options": [
+    "note",
+    "celebration",
+    "write back",
+    "ribbon"
+   ],
+   "answer": "celebration"
+  },
+  {
+   "id": "L4U06-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "surprise",
+   "item": "surprise",
+   "options": [
+    "surprise",
+    "information",
+    "free",
+    "love from"
+   ],
+   "answer": "surprise"
+  },
+  {
+   "id": "L4U06-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "anniversary",
+   "item": "anniversary",
+   "options": [
+    "letter",
+    "magician",
+    "anniversary",
+    "wedding"
+   ],
+   "answer": "anniversary"
+  },
+  {
+   "id": "L4U06-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "host",
+   "item": "host",
+   "options": [
+    "host",
+    "phone number",
+    "remember",
+    "text message"
+   ],
+   "answer": "host"
+  },
+  {
+   "id": "L4U06-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cancel",
+   "item": "cancel",
+   "options": [
+    "let me know",
+    "best wishes",
+    "cancel",
+    "invitation"
+   ],
+   "answer": "cancel"
+  },
+  {
+   "id": "L4U06-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "free",
+   "item": "free",
+   "options": [
+    "unfortunately",
+    "hear from",
+    "stamp",
+    "free"
+   ],
+   "answer": "free"
+  },
+  {
+   "id": "L4U06-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "receive",
+   "item": "receive",
+   "options": [
+    "remember",
+    "let me know",
+    "receive",
+    "envelope"
+   ],
+   "answer": "receive"
+  },
+  {
+   "id": "L4U06-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "see you",
+   "item": "see you",
+   "options": [
+    "text message",
+    "barbecue",
+    "fancy dress",
+    "see you"
+   ],
+   "answer": "see you"
+  },
+  {
+   "id": "L4U06-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "if",
+   "item": "if",
+   "options": [
+    "dear",
+    "text message",
+    "karaoke",
+    "if"
+   ],
+   "answer": "if"
+  },
+  {
+   "id": "L4U06-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "let me know",
+   "item": "let me know",
+   "options": [
+    "envelope",
+    "surprise",
+    "ribbon",
+    "let me know"
+   ],
+   "answer": "let me know"
+  },
+  {
+   "id": "L4U06-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "lots of love",
+   "item": "lots of love",
+   "options": [
+    "letter",
+    "wrap",
+    "free",
+    "lots of love"
+   ],
+   "answer": "lots of love"
+  },
+  {
+   "id": "L4U06-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "looking forward to",
+   "item": "looking forward to",
+   "options": [
+    "let me know",
+    "looking forward to",
+    "wrap",
+    "hear from"
+   ],
+   "answer": "looking forward to"
+  },
+  {
+   "id": "L4U06-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "remember",
+   "item": "remember",
+   "options": [
+    "magician",
+    "looking forward to",
+    "remember",
+    "anniversary"
+   ],
+   "answer": "remember"
+  },
+  {
+   "id": "L4U06-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forget",
+   "item": "forget",
+   "options": [
+    "forget",
+    "remember",
+    "magician",
+    "letter"
+   ],
+   "answer": "forget"
+  },
+  {
+   "id": "L4U06-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "information",
+   "item": "information",
+   "options": [
+    "host",
+    "I'd love to",
+    "information",
+    "stamp"
+   ],
+   "answer": "information"
+  },
+  {
+   "id": "L4U06-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "phone number",
+   "item": "phone number",
+   "options": [
+    "dear",
+    "barbecue",
+    "phone number",
+    "celebration"
+   ],
+   "answer": "phone number"
+  },
+  {
+   "id": "L4U06-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "bowling",
+   "item": "bowling",
+   "options": [
+    "fancy dress",
+    "bowling",
+    "looking forward to",
+    "host"
+   ],
+   "answer": "bowling"
+  },
+  {
+   "id": "L4U06-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "karaoke",
+   "item": "karaoke",
+   "options": [
+    "envelope",
+    "karaoke",
+    "barbecue",
+    "I'd love to"
+   ],
+   "answer": "karaoke"
+  },
+  {
+   "id": "L4U06-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wrap",
+   "item": "wrap",
+   "options": [
+    "see you",
+    "wrap",
+    "stamp",
+    "blow out"
+   ],
+   "answer": "wrap"
+  },
+  {
+   "id": "L4U06-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ribbon",
+   "item": "ribbon",
+   "options": [
+    "looking forward to",
+    "stamp",
+    "anniversary",
+    "ribbon"
+   ],
+   "answer": "ribbon"
+  },
+  {
+   "id": "L4U06-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "blow out",
+   "item": "blow out",
+   "options": [
+    "blow out",
+    "text message",
+    "I'd love to",
+    "stamp"
+   ],
+   "answer": "blow out"
+  },
+  {
+   "id": "L4U06-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "envelope",
+   "answer": "envelope"
+  },
+  {
+   "id": "L4U06-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "barbecue",
+   "answer": "barbecue"
+  },
+  {
+   "id": "L4U06-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "wedding",
+   "answer": "wedding"
+  },
+  {
+   "id": "L4U06-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "magician",
+   "answer": "magician"
+  },
+  {
+   "id": "L4U06-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Thank you for the invitation!",
+   "item": "invitation",
+   "answer": "Thank you for the invitation!"
+  },
+  {
+   "id": "L4U06-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please reply to my message.",
+   "item": "reply",
+   "answer": "Please reply to my message."
+  },
+  {
+   "id": "L4U06-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I accept your invitation.",
+   "item": "accept",
+   "answer": "I accept your invitation."
+  },
+  {
+   "id": "L4U06-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'd love to come to your party!",
+   "item": "I'd love to",
+   "answer": "I'd love to come to your party!"
+  },
+  {
+   "id": "L4U06-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Unfortunately, I can't come.",
+   "item": "unfortunately",
+   "answer": "Unfortunately, I can't come."
+  },
+  {
+   "id": "L4U06-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Dear Tom, thank you for your letter.",
+   "item": "dear",
+   "answer": "Dear Tom, thank you for your letter."
+  },
+  {
+   "id": "L4U06-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Best wishes, Anna.",
+   "item": "best wishes",
+   "answer": "Best wishes, Anna."
+  },
+  {
+   "id": "L4U06-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Love from Grandma.",
+   "item": "love from",
+   "answer": "Love from Grandma."
+  },
+  {
+   "id": "L4U06-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum sent me a text message.",
+   "item": "text message",
+   "answer": "Mum sent me a text message."
+  },
+  {
+   "id": "L4U06-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I left a note on the fridge.",
+   "item": "note",
+   "answer": "I left a note on the fridge."
+  },
+  {
+   "id": "L4U06-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put the letter in the envelope.",
+   "item": "envelope",
+   "answer": "Put the letter in the envelope."
+  },
+  {
+   "id": "L4U06-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "You need a stamp for the postcard.",
+   "item": "stamp",
+   "answer": "You need a stamp for the postcard."
+  },
+  {
+   "id": "L4U06-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wrote a letter to my pen friend.",
+   "item": "letter",
+   "answer": "I wrote a letter to my pen friend."
+  },
+  {
+   "id": "L4U06-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Please write back soon!",
+   "item": "write back",
+   "answer": "Please write back soon!"
+  },
+  {
+   "id": "L4U06-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I hope to hear from you soon.",
+   "item": "hear from",
+   "answer": "I hope to hear from you soon."
+  },
+  {
+   "id": "L4U06-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This is a nice place for a picnic.",
+   "item": "place",
+   "answer": "This is a nice place for a picnic."
+  },
+  {
+   "id": "L4U06-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a fancy dress party!",
+   "item": "fancy dress",
+   "answer": "It's a fancy dress party!"
+  },
+  {
+   "id": "L4U06-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can you come to my sleepover on Friday?",
+   "item": "sleepover",
+   "answer": "Can you come to my sleepover on Friday?"
+  },
+  {
+   "id": "L4U06-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We are having a barbecue in the garden.",
+   "item": "barbecue",
+   "answer": "We are having a barbecue in the garden."
+  },
+  {
+   "id": "L4U06-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's have a celebration!",
+   "item": "celebration",
+   "answer": "Let's have a celebration!"
+  },
+  {
+   "id": "L4U06-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a surprise. Don't tell Mum!",
+   "item": "surprise",
+   "answer": "It's a surprise. Don't tell Mum!"
+  },
+  {
+   "id": "L4U06-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My aunt's wedding is in May.",
+   "item": "wedding",
+   "answer": "My aunt's wedding is in May."
+  },
+  {
+   "id": "L4U06-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's my parents' wedding anniversary.",
+   "item": "anniversary",
+   "answer": "It's my parents' wedding anniversary."
+  },
+  {
+   "id": "L4U06-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lan is the host of the party.",
+   "item": "host",
+   "answer": "Lan is the host of the party."
+  },
+  {
+   "id": "L4U06-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We cancelled the picnic because of the rain.",
+   "item": "cancel",
+   "answer": "We cancelled the picnic because of the rain."
+  },
+  {
+   "id": "L4U06-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Are you free on Saturday?",
+   "item": "free",
+   "answer": "Are you free on Saturday?"
+  },
+  {
+   "id": "L4U06-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I received a card from my cousin.",
+   "item": "receive",
+   "answer": "I received a card from my cousin."
+  },
+  {
+   "id": "L4U06-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "See you on Saturday!",
+   "item": "see you",
+   "answer": "See you on Saturday!"
+  },
+  {
+   "id": "L4U06-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Call me if you are free.",
+   "item": "if",
+   "answer": "Call me if you are free."
+  },
+  {
+   "id": "L4U06-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let me know if you can come.",
+   "item": "let me know",
+   "answer": "Let me know if you can come."
+  },
+  {
+   "id": "L4U06-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Lots of love, Lan.",
+   "item": "lots of love",
+   "answer": "Lots of love, Lan."
+  },
+  {
+   "id": "L4U06-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm looking forward to your party!",
+   "item": "looking forward to",
+   "answer": "I'm looking forward to your party!"
+  },
+  {
+   "id": "L4U06-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Remember to bring your swimsuit.",
+   "item": "remember",
+   "answer": "Remember to bring your swimsuit."
+  },
+  {
+   "id": "L4U06-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't forget my birthday!",
+   "item": "forget",
+   "answer": "Don't forget my birthday!"
+  },
+  {
+   "id": "L4U06-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Here is the information about the trip.",
+   "item": "information",
+   "answer": "Here is the information about the trip."
+  },
+  {
+   "id": "L4U06-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What's your phone number?",
+   "item": "phone number",
+   "answer": "What's your phone number?"
+  },
+  {
+   "id": "L4U06-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's go bowling for my birthday.",
+   "item": "bowling",
+   "answer": "Let's go bowling for my birthday."
+  },
+  {
+   "id": "L4U06-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We sang karaoke at the party.",
+   "item": "karaoke",
+   "answer": "We sang karaoke at the party."
+  },
+  {
+   "id": "L4U06-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There will be a magician at the party!",
+   "item": "magician",
+   "answer": "There will be a magician at the party!"
+  },
+  {
+   "id": "L4U06-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Let's wrap the present.",
+   "item": "wrap",
+   "answer": "Let's wrap the present."
+  },
+  {
+   "id": "L4U06-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put a red ribbon on the box.",
+   "item": "ribbon",
+   "answer": "Put a red ribbon on the box."
+  },
+  {
+   "id": "L4U06-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Make a wish and blow out the candles!",
+   "item": "blow out",
+   "answer": "Make a wish and blow out the candles!"
+  },
+  {
+   "id": "L4U06-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like to come to my party?",
+   "answer": "Would you like to come to my party?"
+  },
+  {
+   "id": "L4U06-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like to come to my sleepover?",
+   "answer": "Would you like to come to my sleepover?"
+  },
+  {
+   "id": "L4U06-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Would you like to come to my barbecue?",
+   "answer": "Would you like to come to my barbecue?"
+  },
+  {
+   "id": "L4U06-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry, I can't. I have to visit my grandma.",
+   "answer": "I'm sorry, I can't. I have to visit my grandma."
+  },
+  {
+   "id": "L4U06-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry, I can't. I have to do my homework.",
+   "answer": "I'm sorry, I can't. I have to do my homework."
+  },
+  {
+   "id": "L4U06-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm sorry, I can't. I have to go to the dentist.",
+   "answer": "I'm sorry, I can't. I have to go to the dentist."
+  },
+  {
+   "id": "L4U06-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Remember to bring your swimsuit.",
+   "answer": "Remember to bring your swimsuit."
+  },
+  {
+   "id": "L4U06-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Remember to bring a present.",
+   "answer": "Remember to bring a present."
+  },
+  {
+   "id": "L4U06-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Remember to bring your costume.",
+   "answer": "Remember to bring your costume."
+  },
+  {
+   "id": "L4U06-Q098",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Would you like to come to my sleepover on Saturday?",
+   "answer": "I'd love to! What time?"
+  },
+  {
+   "id": "L4U06-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "I'd love to! What time?",
+   "answer": "At six o'clock. Remember to bring your pyjamas."
+  },
+  {
+   "id": "L4U06-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Okay! Can I bring a game too?",
+   "answer": "Sure! See you on Saturday!"
+  },
+  {
+   "id": "L4U06-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "That's okay. Maybe next week?",
+   "answer": "Yes! Let me know. Thanks for inviting me."
+  },
+  {
+   "id": "L4U06-Q102",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "envelope",
+   "options": [
+    "barbecue",
+    "envelope",
+    "magician"
+   ],
+   "answer": "envelope"
+  },
+  {
+   "id": "L4U06-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "barbecue",
+   "options": [
+    "barbecue",
+    "envelope",
+    "wedding"
+   ],
+   "answer": "barbecue"
+  },
+  {
+   "id": "L4U06-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "wedding",
+   "options": [
+    "magician",
+    "envelope",
+    "wedding"
+   ],
+   "answer": "wedding"
+  },
+  {
+   "id": "L4U06-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "magician",
+   "options": [
+    "magician",
+    "barbecue",
+    "wedding"
+   ],
+   "answer": "magician"
+  },
+  {
+   "id": "L4U06-Q106",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Thank you for the ___!",
+   "item": "invitation",
+   "options": [
+    "invitation",
+    "forget",
+    "wrap"
+   ],
+   "answer": "invitation"
+  },
+  {
+   "id": "L4U06-Q107",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Please ___ to my message.",
+   "item": "reply",
+   "options": [
+    "information",
+    "reply",
+    "magician"
+   ],
+   "answer": "reply"
+  },
+  {
+   "id": "L4U06-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ your invitation.",
+   "item": "accept",
+   "options": [
+    "magician",
+    "accept",
+    "ribbon"
+   ],
+   "answer": "accept"
+  },
+  {
+   "id": "L4U06-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___, I can't come.",
+   "item": "unfortunately",
+   "options": [
+    "Letter",
+    "Unfortunately",
+    "Wedding"
+   ],
+   "answer": "Unfortunately"
+  },
+  {
+   "id": "L4U06-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ Tom, thank you for your letter.",
+   "item": "dear",
+   "options": [
+    "Dear",
+    "Barbecue",
+    "Sleepover"
+   ],
+   "answer": "Dear"
+  },
+  {
+   "id": "L4U06-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I left a ___ on the fridge.",
+   "item": "note",
+   "options": [
+    "remember",
+    "wedding",
+    "note"
+   ],
+   "answer": "note"
+  },
+  {
+   "id": "L4U06-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put the letter in the ___.",
+   "item": "envelope",
+   "options": [
+    "unfortunately",
+    "ribbon",
+    "envelope"
+   ],
+   "answer": "envelope"
+  },
+  {
+   "id": "L4U06-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "You need a ___ for the postcard.",
+   "item": "stamp",
+   "options": [
+    "stamp",
+    "remember",
+    "wedding"
+   ],
+   "answer": "stamp"
+  },
+  {
+   "id": "L4U06-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wrote a ___ to my pen friend.",
+   "item": "letter",
+   "options": [
+    "letter",
+    "wrap",
+    "accept"
+   ],
+   "answer": "letter"
+  },
+  {
+   "id": "L4U06-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This is a nice ___ for a picnic.",
+   "item": "place",
+   "options": [
+    "place",
+    "barbecue",
+    "envelope"
+   ],
+   "answer": "place"
+  },
+  {
+   "id": "L4U06-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can you come to my ___ on Friday?",
+   "item": "sleepover",
+   "options": [
+    "remember",
+    "sleepover",
+    "accept"
+   ],
+   "answer": "sleepover"
+  },
+  {
+   "id": "L4U06-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We are having a ___ in the garden.",
+   "item": "barbecue",
+   "options": [
+    "barbecue",
+    "forget",
+    "wedding"
+   ],
+   "answer": "barbecue"
+  },
+  {
+   "id": "L4U06-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's have a ___!",
+   "item": "celebration",
+   "options": [
+    "karaoke",
+    "cancel",
+    "celebration"
+   ],
+   "answer": "celebration"
+  },
+  {
+   "id": "L4U06-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's a ___. Don't tell Mum!",
+   "item": "surprise",
+   "options": [
+    "surprise",
+    "receive",
+    "wedding"
+   ],
+   "answer": "surprise"
+  },
+  {
+   "id": "L4U06-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My aunt's ___ is in May.",
+   "item": "wedding",
+   "options": [
+    "if",
+    "barbecue",
+    "wedding"
+   ],
+   "answer": "wedding"
+  },
+  {
+   "id": "L4U06-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "It's my parents' wedding ___.",
+   "item": "anniversary",
+   "options": [
+    "karaoke",
+    "note",
+    "anniversary"
+   ],
+   "answer": "anniversary"
+  },
+  {
+   "id": "L4U06-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Lan is the ___ of the party.",
+   "item": "host",
+   "options": [
+    "if",
+    "remember",
+    "host"
+   ],
+   "answer": "host"
+  },
+  {
+   "id": "L4U06-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Are you ___ on Saturday?",
+   "item": "free",
+   "options": [
+    "host",
+    "free",
+    "stamp"
+   ],
+   "answer": "free"
+  },
+  {
+   "id": "L4U06-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ a card from my cousin.",
+   "item": "receive",
+   "options": [
+    "informationed",
+    "received",
+    "weddinged"
+   ],
+   "answer": "received"
+  },
+  {
+   "id": "L4U06-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Call me ___ you are free.",
+   "item": "if",
+   "options": [
+    "forget",
+    "if",
+    "stamp"
+   ],
+   "answer": "if"
+  },
+  {
+   "id": "L4U06-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ to bring your swimsuit.",
+   "item": "remember",
+   "options": [
+    "If",
+    "Remember",
+    "Information"
+   ],
+   "answer": "Remember"
+  },
+  {
+   "id": "L4U06-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ my birthday!",
+   "item": "forget",
+   "options": [
+    "forget",
+    "if",
+    "sleepover"
+   ],
+   "answer": "forget"
+  },
+  {
+   "id": "L4U06-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Here is the ___ about the trip.",
+   "item": "information",
+   "options": [
+    "forget",
+    "information",
+    "dear"
+   ],
+   "answer": "information"
+  },
+  {
+   "id": "L4U06-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's go ___ for my birthday.",
+   "item": "bowling",
+   "options": [
+    "dear",
+    "wedding",
+    "bowling"
+   ],
+   "answer": "bowling"
+  },
+  {
+   "id": "L4U06-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "We sang ___ at the party.",
+   "item": "karaoke",
+   "options": [
+    "karaoke",
+    "remember",
+    "note"
+   ],
+   "answer": "karaoke"
+  },
+  {
+   "id": "L4U06-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There will be a ___ at the party!",
+   "item": "magician",
+   "options": [
+    "cancel",
+    "dear",
+    "magician"
+   ],
+   "answer": "magician"
+  },
+  {
+   "id": "L4U06-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Let's ___ the present.",
+   "item": "wrap",
+   "options": [
+    "wrap",
+    "ribbon",
+    "wedding"
+   ],
+   "answer": "wrap"
+  },
+  {
+   "id": "L4U06-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put a red ___ on the box.",
+   "item": "ribbon",
+   "options": [
+    "free",
+    "reply",
+    "ribbon"
+   ],
+   "answer": "ribbon"
+  },
+  {
+   "id": "L4U06-Q134",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Put the letter in the envelope.",
+   "item": "envelope",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U06-Q135",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We are having a barbecue in the garden.",
+   "item": "wedding",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U06-Q136",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My aunt's wedding is in May.",
+   "item": "wedding",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U06-Q137",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "There will be a magician at the party!",
+   "item": "envelope",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U06-Q138",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U06-R01",
+   "text_en": "What kind of party is it?",
+   "options": [
+    "A fancy dress party.",
+    "A sleepover.",
+    "A barbecue."
+   ],
+   "answer": "A fancy dress party."
+  },
+  {
+   "id": "L4U06-Q139",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U06-R01",
+   "text_en": "Where is the party?",
+   "options": [
+    "At a restaurant.",
+    "At Kim's house.",
+    "In the park."
+   ],
+   "answer": "At Kim's house."
+  },
+  {
+   "id": "L4U06-Q140",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U06-R01",
+   "text_en": "What will Kim be at the party?",
+   "options": [
+    "A magician.",
+    "A princess.",
+    "A dragon."
+   ],
+   "answer": "A dragon."
+  },
+  {
+   "id": "L4U06-Q141",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "invitation",
+   "item": "invitation",
+   "answer": "invitation"
+  },
+  {
+   "id": "L4U06-Q142",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "reply",
+   "item": "reply",
+   "answer": "reply"
+  },
+  {
+   "id": "L4U06-Q143",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "accept",
+   "item": "accept",
+   "answer": "accept"
+  },
+  {
+   "id": "L4U06-Q144",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "unfortunately",
+   "item": "unfortunately",
+   "answer": "unfortunately"
+  },
+  {
+   "id": "L4U06-Q145",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "dear",
+   "item": "dear",
+   "answer": "dear"
+  },
+  {
+   "id": "L4U06-Q146",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "note",
+   "item": "note",
+   "answer": "note"
+  },
+  {
+   "id": "L4U06-Q147",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "envelope",
+   "item": "envelope",
+   "answer": "envelope"
+  },
+  {
+   "id": "L4U06-Q148",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "stamp",
+   "item": "stamp",
+   "answer": "stamp"
+  },
+  {
+   "id": "L4U06-Q149",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Thank you for the invitation!",
+   "answer": "Thank you for the invitation!"
+  },
+  {
+   "id": "L4U06-Q150",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "Please reply to my message.",
+   "answer": "Please reply to my message."
+  },
+  {
+   "id": "L4U06-Q151",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I accept your invitation.",
+   "answer": "I accept your invitation."
+  }
+ ]
+}

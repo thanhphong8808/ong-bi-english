@@ -1,0 +1,3192 @@
+{
+ "id": "L4U01",
+ "level": 4,
+ "unit": 1,
+ "topic_en": "Shopping for clothes",
+ "topic_vi": "Đi mua quần áo",
+ "can_do_vi": [
+  "Hỏi giá, hỏi cỡ, xin thử đồ",
+  "Trả tiền và cảm ơn người bán hàng"
+ ],
+ "grammar_note_vi": "Hỏi giá một món: \"How much is this T-shirt?\" Hỏi giá nhiều món hoặc một đôi: \"How much are these shoes?\" Xin thử đồ: \"Can I try it on?\"",
+ "items": [
+  {
+   "id": "L4U01-W01",
+   "type": "word",
+   "en": "colour",
+   "vi": "màu sắc",
+   "ipa": "/ˈkʌlər/",
+   "syllables": [
+    "colour"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F3A8"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "What colour do you want?",
+   "example_vi": "Cậu muốn màu gì?",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W02",
+   "type": "word",
+   "en": "medium",
+   "vi": "cỡ vừa",
+   "ipa": "/ˈmidiəm/",
+   "syllables": [
+    "medium"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "24C2-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I need a medium T-shirt.",
+   "example_vi": "Tớ cần áo phông cỡ vừa.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W03",
+   "type": "phrase",
+   "en": "changing room",
+   "vi": "phòng thử đồ",
+   "ipa": "/ˈtʃeɪndʒɪŋ rum/",
+   "syllables": [
+    "chang",
+    "ing",
+    "room"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F6AA"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "The changing room is over there.",
+   "example_vi": "Phòng thử đồ ở đằng kia.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W04",
+   "type": "word",
+   "en": "fit",
+   "vi": "vừa (cỡ)",
+   "ipa": "/fɪt/",
+   "syllables": [
+    "fit"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "These shoes don't fit me.",
+   "example_vi": "Đôi giày này không vừa với tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W05",
+   "type": "word",
+   "en": "tight",
+   "vi": "chật",
+   "ipa": "/taɪt/",
+   "syllables": [
+    "tight"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F90F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "The jeans are too tight.",
+   "example_vi": "Quần bò chật quá.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W06",
+   "type": "word",
+   "en": "loose",
+   "vi": "rộng",
+   "ipa": "/lus/",
+   "syllables": [
+    "loose"
+   ],
+   "phonics": "initial_l",
+   "image": {
+    "emoji": "1F450"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "This jumper is a bit loose.",
+   "example_vi": "Áo len này hơi rộng.",
+   "pron_focus": [
+    "final_consonant",
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W07",
+   "type": "word",
+   "en": "receipt",
+   "vi": "hoá đơn",
+   "ipa": "/rɪˈsit/",
+   "syllables": [
+    "re",
+    "ceipt"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9FE"
+   },
+   "picturable": true,
+   "cat": "L4U01",
+   "example_en": "Here's your receipt.",
+   "example_vi": "Hoá đơn của bạn đây.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W08",
+   "type": "word",
+   "en": "cash",
+   "vi": "tiền mặt",
+   "ipa": "/kæʃ/",
+   "syllables": [
+    "cash"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F4B4"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Can I pay in cash?",
+   "example_vi": "Tôi trả bằng tiền mặt được không?",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W09",
+   "type": "phrase",
+   "en": "credit card",
+   "vi": "thẻ tín dụng",
+   "ipa": "/ˈkrɛdɪt kɑrd/",
+   "syllables": [
+    "cred",
+    "it",
+    "card"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F4B3"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Mum pays with her credit card.",
+   "example_vi": "Mẹ trả bằng thẻ tín dụng.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W10",
+   "type": "word",
+   "en": "discount",
+   "vi": "giảm giá",
+   "ipa": "/ˈdɪskaʊnt/",
+   "syllables": [
+    "dis",
+    "count"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Is there a discount for children?",
+   "example_vi": "Có giảm giá cho trẻ em không?",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W11",
+   "type": "word",
+   "en": "sale",
+   "vi": "đợt giảm giá",
+   "ipa": "/seɪl/",
+   "syllables": [
+    "sale"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F3F7-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Everything is cheap in the sale.",
+   "example_vi": "Mùa giảm giá mọi thứ đều rẻ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W12",
+   "type": "phrase",
+   "en": "half price",
+   "vi": "nửa giá",
+   "ipa": "/hæf praɪs/",
+   "syllables": [
+    "half",
+    "price"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "2797"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "These boots are half price today.",
+   "example_vi": "Hôm nay đôi ủng này giảm nửa giá.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W13",
+   "type": "phrase",
+   "en": "shop assistant",
+   "vi": "nhân viên bán hàng",
+   "ipa": "/ʃɑp əˈsɪstənt/",
+   "syllables": [
+    "shop",
+    "as",
+    "sis",
+    "tant"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F9D1-200D-1F4BC"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "The shop assistant is very helpful.",
+   "example_vi": "Cô bán hàng rất nhiệt tình.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W14",
+   "type": "phrase",
+   "en": "look for",
+   "vi": "tìm kiếm",
+   "ipa": "/lʊk fʌr/",
+   "syllables": [
+    "look",
+    "for"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F50D"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I'm looking for a red hat.",
+   "example_vi": "Tớ đang tìm một chiếc mũ đỏ.",
+   "pron_focus": [
+    "l_n"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W15",
+   "type": "word",
+   "en": "spend",
+   "vi": "tiêu (tiền)",
+   "ipa": "/spɛnd/",
+   "syllables": [
+    "spend"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4B8"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Don't spend all your money.",
+   "example_vi": "Đừng tiêu hết tiền nhé.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W16",
+   "type": "word",
+   "en": "spent",
+   "vi": "đã tiêu (spend)",
+   "ipa": "/spɛnt/",
+   "syllables": [
+    "spent"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F4B8"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I spent my pocket money on a book.",
+   "example_vi": "Tớ đã tiêu tiền tiêu vặt để mua sách.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W17",
+   "type": "word",
+   "en": "pair",
+   "vi": "đôi",
+   "ipa": "/pɛr/",
+   "syllables": [
+    "pair"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F9E6"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I need a new pair of socks.",
+   "example_vi": "Tớ cần một đôi tất mới.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W18",
+   "type": "word",
+   "en": "jeans",
+   "vi": "quần bò",
+   "ipa": "/dʒinz/",
+   "syllables": [
+    "jeans"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F456"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "My jeans are blue.",
+   "example_vi": "Quần bò của tớ màu xanh.",
+   "pron_focus": [
+    "final_consonant",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W19",
+   "type": "word",
+   "en": "jumper",
+   "vi": "áo len",
+   "ipa": "/ˈdʒʌmpər/",
+   "syllables": [
+    "jumper"
+   ],
+   "phonics": "initial_j",
+   "image": {
+    "emoji": "1F9F6"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Put on a jumper. It's cold.",
+   "example_vi": "Mặc áo len vào. Trời lạnh.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W20",
+   "type": "word",
+   "en": "hoodie",
+   "vi": "áo nỉ có mũ",
+   "ipa": "/hoodie/",
+   "syllables": [
+    "hoodie"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F9E5"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "My hoodie has a big pocket.",
+   "example_vi": "Áo nỉ của tớ có một cái túi to.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W21",
+   "type": "word",
+   "en": "sandals",
+   "vi": "dép xăng-đan",
+   "ipa": "/ˈsændəlz/",
+   "syllables": [
+    "san",
+    "dals"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F461"
+   },
+   "picturable": true,
+   "cat": "L4U01",
+   "example_en": "I wear sandals in summer.",
+   "example_vi": "Mùa hè tớ đi dép xăng-đan.",
+   "pron_focus": [
+    "final_consonant",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W22",
+   "type": "word",
+   "en": "slippers",
+   "vi": "dép đi trong nhà",
+   "ipa": "/sˈlɪpərz/",
+   "syllables": [
+    "slip",
+    "pers"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F97F"
+   },
+   "picturable": true,
+   "cat": "L4U01",
+   "example_en": "My slippers are warm and soft.",
+   "example_vi": "Dép đi trong nhà của tớ ấm và êm.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W23",
+   "type": "word",
+   "en": "trainers",
+   "vi": "giày thể thao",
+   "ipa": "/ˈtreɪnərz/",
+   "syllables": [
+    "train",
+    "ers"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F45F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I need trainers for sports day.",
+   "example_vi": "Tớ cần giày thể thao cho ngày hội thể thao.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "stress",
+    "ending_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W24",
+   "type": "word",
+   "en": "swimsuit",
+   "vi": "đồ bơi",
+   "ipa": "/sˈwɪmˌsut/",
+   "syllables": [
+    "swim",
+    "suit"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1FA71"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Don't forget your swimsuit!",
+   "example_vi": "Đừng quên đồ bơi nhé!",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W25",
+   "type": "word",
+   "en": "raincoat",
+   "vi": "áo mưa",
+   "ipa": "/ˈreɪnˌkoʊt/",
+   "syllables": [
+    "rain",
+    "coat"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F9E5"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Wear your raincoat. It's raining.",
+   "example_vi": "Mặc áo mưa vào. Trời đang mưa.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W26",
+   "type": "word",
+   "en": "striped",
+   "vi": "kẻ sọc",
+   "ipa": "/straɪpt/",
+   "syllables": [
+    "striped"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F993"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I like your striped shirt.",
+   "example_vi": "Tớ thích áo kẻ sọc của cậu.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "r_sound",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W27",
+   "type": "word",
+   "en": "spotted",
+   "vi": "có chấm bi",
+   "ipa": "/ˈspɑtɪd/",
+   "syllables": [
+    "spot",
+    "ted"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F41E"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "She has a spotted dress.",
+   "example_vi": "Bạn ấy có chiếc váy chấm bi.",
+   "pron_focus": [
+    "final_consonant",
+    "cluster",
+    "stress",
+    "ending_ed"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W28",
+   "type": "word",
+   "en": "wool",
+   "vi": "len",
+   "ipa": "/wʊl/",
+   "syllables": [
+    "wool"
+   ],
+   "phonics": "initial_w",
+   "image": {
+    "emoji": "1F411"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "My scarf is made of wool.",
+   "example_vi": "Khăn quàng của tớ làm bằng len.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W29",
+   "type": "word",
+   "en": "fashionable",
+   "vi": "hợp thời trang",
+   "ipa": "/ˈfæʃənəbəl/",
+   "syllables": [
+    "fashionable"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F483"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Your new jacket is very fashionable.",
+   "example_vi": "Áo khoác mới của cậu rất hợp mốt.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W30",
+   "type": "word",
+   "en": "comfortable",
+   "vi": "thoải mái",
+   "ipa": "/ˈkʌmfərtəbəl/",
+   "syllables": [
+    "comfortable"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F6CB-FE0F"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "These trainers are very comfortable.",
+   "example_vi": "Đôi giày thể thao này rất thoải mái.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W31",
+   "type": "word",
+   "en": "suit",
+   "vi": "hợp với",
+   "ipa": "/sut/",
+   "syllables": [
+    "suit"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F44C"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "The green dress suits you.",
+   "example_vi": "Chiếc váy xanh hợp với cậu đấy.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W32",
+   "type": "word",
+   "en": "mirror",
+   "vi": "cái gương",
+   "ipa": "/ˈmɪrər/",
+   "syllables": [
+    "mir",
+    "ror"
+   ],
+   "phonics": "initial_m",
+   "image": {
+    "emoji": "1FA9E"
+   },
+   "picturable": true,
+   "cat": "L4U01",
+   "example_en": "Look in the mirror.",
+   "example_vi": "Nhìn vào gương đi.",
+   "pron_focus": [
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W33",
+   "type": "phrase",
+   "en": "shopping centre",
+   "vi": "trung tâm mua sắm",
+   "ipa": "/ˈʃɑpɪŋ ˈsɛntər/",
+   "syllables": [
+    "shop",
+    "ping",
+    "cen",
+    "tre"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1F3EC"
+   },
+   "picturable": true,
+   "cat": "L4U01",
+   "example_en": "We go to the shopping centre on Saturdays.",
+   "example_vi": "Thứ Bảy nhà tớ đi trung tâm mua sắm.",
+   "pron_focus": [
+    "sh_s",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W34",
+   "type": "phrase",
+   "en": "pocket money",
+   "vi": "tiền tiêu vặt",
+   "ipa": "/ˈpɑkət ˈmʌni/",
+   "syllables": [
+    "pock",
+    "et",
+    "mon",
+    "ey"
+   ],
+   "phonics": "",
+   "image": {
+    "emoji": "1FA99"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I save my pocket money.",
+   "example_vi": "Tớ để dành tiền tiêu vặt.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W35",
+   "type": "word",
+   "en": "perfect",
+   "vi": "hoàn hảo",
+   "ipa": "/ˈpʌrˌfɪkt/",
+   "syllables": [
+    "per",
+    "fect"
+   ],
+   "phonics": "initial_p",
+   "image": {
+    "emoji": "1F4AF"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "This hat is perfect!",
+   "example_vi": "Cái mũ này thật hoàn hảo!",
+   "pron_focus": [
+    "final_consonant",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W36",
+   "type": "word",
+   "en": "thirty",
+   "vi": "ba mươi",
+   "ipa": "/ˈθʌrˌdi/",
+   "syllables": [
+    "thir",
+    "ty"
+   ],
+   "phonics": "initial_t",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "There are thirty children in my class.",
+   "example_vi": "Lớp tớ có ba mươi bạn.",
+   "pron_focus": [
+    "th_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W37",
+   "type": "word",
+   "en": "forty",
+   "vi": "bốn mươi",
+   "ipa": "/ˈfɔrti/",
+   "syllables": [
+    "forty"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "My dad is forty years old.",
+   "example_vi": "Bố tớ bốn mươi tuổi.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W38",
+   "type": "word",
+   "en": "fifty",
+   "vi": "năm mươi",
+   "ipa": "/ˈfɪfti/",
+   "syllables": [
+    "fifty"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "This book costs fifty thousand dong.",
+   "example_vi": "Cuốn sách này giá năm mươi nghìn đồng.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W39",
+   "type": "word",
+   "en": "sixty",
+   "vi": "sáu mươi",
+   "ipa": "/ˈsɪksti/",
+   "syllables": [
+    "six",
+    "ty"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Grandpa is sixty years old.",
+   "example_vi": "Ông tớ sáu mươi tuổi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W40",
+   "type": "word",
+   "en": "seventy",
+   "vi": "bảy mươi",
+   "ipa": "/ˈsɛvənti/",
+   "syllables": [
+    "sev",
+    "en",
+    "ty"
+   ],
+   "phonics": "initial_s",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "My grandma is seventy.",
+   "example_vi": "Bà tớ bảy mươi tuổi.",
+   "pron_focus": [
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W41",
+   "type": "word",
+   "en": "eighty",
+   "vi": "tám mươi",
+   "ipa": "/ˈeɪti/",
+   "syllables": [
+    "eighty"
+   ],
+   "phonics": "initial_e",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "Eighty people came to the concert.",
+   "example_vi": "Tám mươi người đến buổi hoà nhạc.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L4U01-W42",
+   "type": "word",
+   "en": "ninety",
+   "vi": "chín mươi",
+   "ipa": "/ˈnaɪnti/",
+   "syllables": [
+    "nine",
+    "ty"
+   ],
+   "phonics": "initial_n",
+   "image": {
+    "emoji": "1F522"
+   },
+   "picturable": false,
+   "cat": "L4U01",
+   "example_en": "I got ninety points in the game.",
+   "example_vi": "Tớ được chín mươi điểm trong trò chơi.",
+   "pron_focus": [
+    "l_n",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L4U01-P01",
+   "en": "How much is this {x}?",
+   "vi": "{x} này bao nhiêu tiền?",
+   "slots": {
+    "x": [
+     "jumper",
+     "hoodie",
+     "raincoat",
+     "swimsuit"
+    ]
+   }
+  },
+  {
+   "id": "L4U01-P02",
+   "en": "How much are these {x}?",
+   "vi": "{x} này bao nhiêu tiền?",
+   "slots": {
+    "x": [
+     "jeans",
+     "trainers",
+     "sandals",
+     "slippers"
+    ]
+   }
+  },
+  {
+   "id": "L4U01-P03",
+   "en": "Can I try on the {x} one?",
+   "vi": "Tôi thử cái {x} được không?",
+   "slots": {
+    "x": [
+     "striped",
+     "spotted",
+     "blue",
+     "medium"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L4U01-D01",
+   "title_vi": "Mua áo phông",
+   "roles": [
+    "Assistant",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Assistant",
+     "en": "Hello! Can I help you?",
+     "vi": "Chào cháu! Cô giúp gì được cháu?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, please. I'm looking for a T-shirt.",
+     "vi": "Vâng ạ. Cháu đang tìm áo phông."
+    },
+    {
+     "role": "Assistant",
+     "en": "What colour do you want?",
+     "vi": "Cháu muốn màu gì?"
+    },
+    {
+     "role": "Kid",
+     "en": "Blue, please. Size medium.",
+     "vi": "Màu xanh ạ. Cỡ vừa."
+    },
+    {
+     "role": "Assistant",
+     "en": "Here you are. The changing room is there.",
+     "vi": "Đây cháu. Phòng thử đồ ở đằng kia."
+    },
+    {
+     "role": "Kid",
+     "en": "Thank you. It fits! How much is it?",
+     "vi": "Cháu cảm ơn. Vừa ạ! Bao nhiêu tiền ạ?"
+    },
+    {
+     "role": "Assistant",
+     "en": "It's half price today. Only fifty thousand dong.",
+     "vi": "Hôm nay giảm nửa giá. Chỉ năm mươi nghìn đồng."
+    },
+    {
+     "role": "Kid",
+     "en": "Great! Here you are.",
+     "vi": "Tuyệt! Tiền đây ạ."
+    }
+   ],
+   "variation": {
+    "line": 3,
+    "key": "blue",
+    "options": [
+     "red",
+     "green"
+    ]
+   }
+  },
+  {
+   "id": "L4U01-D02",
+   "title_vi": "Đôi giày mới",
+   "roles": [
+    "Mum",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Mum",
+     "en": "Do you like these trainers?",
+     "vi": "Con có thích đôi giày thể thao này không?"
+    },
+    {
+     "role": "Kid",
+     "en": "Yes, but they are too tight.",
+     "vi": "Có ạ, nhưng chật quá."
+    },
+    {
+     "role": "Mum",
+     "en": "Let's try a bigger size.",
+     "vi": "Mình thử cỡ to hơn nhé."
+    },
+    {
+     "role": "Kid",
+     "en": "These are perfect. They are very comfortable!",
+     "vi": "Đôi này vừa khít ạ. Rất thoải mái!"
+    },
+    {
+     "role": "Mum",
+     "en": "Good. Let's go and pay.",
+     "vi": "Tốt. Mình đi trả tiền nhé."
+    }
+   ],
+   "variation": {
+    "line": 0,
+    "key": "trainers",
+    "options": [
+     "sandals",
+     "boots"
+    ]
+   }
+  }
+ ],
+ "writing": [
+  {
+   "type": "dictate_word",
+   "target": "colour"
+  },
+  {
+   "type": "dictate_word",
+   "target": "medium"
+  },
+  {
+   "type": "dictate_word",
+   "target": "fit"
+  },
+  {
+   "type": "dictate_word",
+   "target": "tight"
+  },
+  {
+   "type": "dictate_word",
+   "target": "loose"
+  },
+  {
+   "type": "dictate_word",
+   "target": "receipt"
+  },
+  {
+   "type": "dictate_word",
+   "target": "cash"
+  },
+  {
+   "type": "dictate_word",
+   "target": "discount"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "What colour do you want?"
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "I need a medium T-shirt."
+  },
+  {
+   "type": "dictate_sentence",
+   "target": "The changing room is over there."
+  },
+  {
+   "type": "write_sentences",
+   "target": "I'm looking for|How much|My favourite clothes are"
+  }
+ ],
+ "readings": [
+  {
+   "id": "L4U01-R01",
+   "title_en": "The birthday present",
+   "text_en": [
+    "Lan wanted to buy a present for her mum's birthday.",
+    "She had sixty thousand dong of pocket money.",
+    "She went to the shopping centre with her dad.",
+    "First, they looked at scarves, but they were too expensive.",
+    "Then Lan saw a beautiful striped bag in a sale.",
+    "It was half price!",
+    "The shop assistant said it was fifty thousand dong.",
+    "Lan paid in cash and got a receipt.",
+    "She spent most of her money, but she was happy.",
+    "Her mum loved the bag and wore it the next day."
+   ],
+   "questions": [
+    {
+     "q": "How much money did Lan have?",
+     "options": [
+      "Sixty thousand dong.",
+      "Fifty thousand dong.",
+      "Ninety thousand dong."
+     ],
+     "answer": "Sixty thousand dong."
+    },
+    {
+     "q": "Why didn't Lan buy a scarf?",
+     "options": [
+      "It was too expensive.",
+      "It was too big.",
+      "It was the wrong colour."
+     ],
+     "answer": "It was too expensive."
+    },
+    {
+     "q": "What did Lan buy?",
+     "options": [
+      "A striped bag.",
+      "A spotted dress.",
+      "A wool scarf."
+     ],
+     "answer": "A striped bag."
+    }
+   ]
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L4U01-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "receipt",
+   "item": "receipt",
+   "options": [
+    "receipt",
+    "slippers",
+    "sandals",
+    "mirror"
+   ],
+   "answer": "receipt"
+  },
+  {
+   "id": "L4U01-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "sandals",
+   "item": "sandals",
+   "options": [
+    "mirror",
+    "sandals",
+    "shopping centre",
+    "receipt"
+   ],
+   "answer": "sandals"
+  },
+  {
+   "id": "L4U01-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "slippers",
+   "item": "slippers",
+   "options": [
+    "sandals",
+    "mirror",
+    "shopping centre",
+    "slippers"
+   ],
+   "answer": "slippers"
+  },
+  {
+   "id": "L4U01-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mirror",
+   "item": "mirror",
+   "options": [
+    "mirror",
+    "sandals",
+    "receipt",
+    "shopping centre"
+   ],
+   "answer": "mirror"
+  },
+  {
+   "id": "L4U01-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "shopping centre",
+   "item": "shopping centre",
+   "options": [
+    "shopping centre",
+    "mirror",
+    "receipt",
+    "sandals"
+   ],
+   "answer": "shopping centre"
+  },
+  {
+   "id": "L4U01-Q006",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "colour",
+   "item": "colour",
+   "options": [
+    "wool",
+    "colour",
+    "cash",
+    "discount"
+   ],
+   "answer": "colour"
+  },
+  {
+   "id": "L4U01-Q007",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "medium",
+   "item": "medium",
+   "options": [
+    "jumper",
+    "slippers",
+    "fit",
+    "medium"
+   ],
+   "answer": "medium"
+  },
+  {
+   "id": "L4U01-Q008",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "changing room",
+   "item": "changing room",
+   "options": [
+    "changing room",
+    "slippers",
+    "spend",
+    "trainers"
+   ],
+   "answer": "changing room"
+  },
+  {
+   "id": "L4U01-Q009",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fit",
+   "item": "fit",
+   "options": [
+    "fit",
+    "tight",
+    "loose",
+    "colour"
+   ],
+   "answer": "fit"
+  },
+  {
+   "id": "L4U01-Q010",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "tight",
+   "item": "tight",
+   "options": [
+    "discount",
+    "tight",
+    "sale",
+    "sandals"
+   ],
+   "answer": "tight"
+  },
+  {
+   "id": "L4U01-Q011",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "loose",
+   "item": "loose",
+   "options": [
+    "ninety",
+    "loose",
+    "pocket money",
+    "thirty"
+   ],
+   "answer": "loose"
+  },
+  {
+   "id": "L4U01-Q012",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "cash",
+   "item": "cash",
+   "options": [
+    "pocket money",
+    "seventy",
+    "spend",
+    "cash"
+   ],
+   "answer": "cash"
+  },
+  {
+   "id": "L4U01-Q013",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "credit card",
+   "item": "credit card",
+   "options": [
+    "discount",
+    "medium",
+    "credit card",
+    "eighty"
+   ],
+   "answer": "credit card"
+  },
+  {
+   "id": "L4U01-Q014",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "discount",
+   "item": "discount",
+   "options": [
+    "receipt",
+    "hoodie",
+    "discount",
+    "fit"
+   ],
+   "answer": "discount"
+  },
+  {
+   "id": "L4U01-Q015",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sale",
+   "item": "sale",
+   "options": [
+    "sale",
+    "cash",
+    "jumper",
+    "colour"
+   ],
+   "answer": "sale"
+  },
+  {
+   "id": "L4U01-Q016",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "half price",
+   "item": "half price",
+   "options": [
+    "ninety",
+    "half price",
+    "raincoat",
+    "colour"
+   ],
+   "answer": "half price"
+  },
+  {
+   "id": "L4U01-Q017",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "shop assistant",
+   "item": "shop assistant",
+   "options": [
+    "changing room",
+    "cash",
+    "shop assistant",
+    "mirror"
+   ],
+   "answer": "shop assistant"
+  },
+  {
+   "id": "L4U01-Q018",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "look for",
+   "item": "look for",
+   "options": [
+    "forty",
+    "fashionable",
+    "trainers",
+    "look for"
+   ],
+   "answer": "look for"
+  },
+  {
+   "id": "L4U01-Q019",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spend",
+   "item": "spend",
+   "options": [
+    "suit",
+    "spend",
+    "changing room",
+    "mirror"
+   ],
+   "answer": "spend"
+  },
+  {
+   "id": "L4U01-Q020",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spent",
+   "item": "spent",
+   "options": [
+    "wool",
+    "spent",
+    "jumper",
+    "sandals"
+   ],
+   "answer": "spent"
+  },
+  {
+   "id": "L4U01-Q021",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pair",
+   "item": "pair",
+   "options": [
+    "comfortable",
+    "pair",
+    "half price",
+    "seventy"
+   ],
+   "answer": "pair"
+  },
+  {
+   "id": "L4U01-Q022",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jeans",
+   "item": "jeans",
+   "options": [
+    "fit",
+    "spotted",
+    "fifty",
+    "jeans"
+   ],
+   "answer": "jeans"
+  },
+  {
+   "id": "L4U01-Q023",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "jumper",
+   "item": "jumper",
+   "options": [
+    "loose",
+    "sixty",
+    "suit",
+    "jumper"
+   ],
+   "answer": "jumper"
+  },
+  {
+   "id": "L4U01-Q024",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "hoodie",
+   "item": "hoodie",
+   "options": [
+    "hoodie",
+    "swimsuit",
+    "suit",
+    "sixty"
+   ],
+   "answer": "hoodie"
+  },
+  {
+   "id": "L4U01-Q025",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "trainers",
+   "item": "trainers",
+   "options": [
+    "trainers",
+    "swimsuit",
+    "thirty",
+    "spend"
+   ],
+   "answer": "trainers"
+  },
+  {
+   "id": "L4U01-Q026",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "swimsuit",
+   "item": "swimsuit",
+   "options": [
+    "swimsuit",
+    "spotted",
+    "slippers",
+    "credit card"
+   ],
+   "answer": "swimsuit"
+  },
+  {
+   "id": "L4U01-Q027",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "raincoat",
+   "item": "raincoat",
+   "options": [
+    "comfortable",
+    "spotted",
+    "mirror",
+    "raincoat"
+   ],
+   "answer": "raincoat"
+  },
+  {
+   "id": "L4U01-Q028",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "striped",
+   "item": "striped",
+   "options": [
+    "spotted",
+    "suit",
+    "medium",
+    "striped"
+   ],
+   "answer": "striped"
+  },
+  {
+   "id": "L4U01-Q029",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "spotted",
+   "item": "spotted",
+   "options": [
+    "credit card",
+    "striped",
+    "spotted",
+    "look for"
+   ],
+   "answer": "spotted"
+  },
+  {
+   "id": "L4U01-Q030",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "wool",
+   "item": "wool",
+   "options": [
+    "sandals",
+    "wool",
+    "mirror",
+    "credit card"
+   ],
+   "answer": "wool"
+  },
+  {
+   "id": "L4U01-Q031",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fashionable",
+   "item": "fashionable",
+   "options": [
+    "fashionable",
+    "spotted",
+    "jumper",
+    "fit"
+   ],
+   "answer": "fashionable"
+  },
+  {
+   "id": "L4U01-Q032",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "comfortable",
+   "item": "comfortable",
+   "options": [
+    "cash",
+    "spent",
+    "forty",
+    "comfortable"
+   ],
+   "answer": "comfortable"
+  },
+  {
+   "id": "L4U01-Q033",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "suit",
+   "item": "suit",
+   "options": [
+    "wool",
+    "medium",
+    "changing room",
+    "suit"
+   ],
+   "answer": "suit"
+  },
+  {
+   "id": "L4U01-Q034",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "pocket money",
+   "item": "pocket money",
+   "options": [
+    "pocket money",
+    "discount",
+    "fashionable",
+    "perfect"
+   ],
+   "answer": "pocket money"
+  },
+  {
+   "id": "L4U01-Q035",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "perfect",
+   "item": "perfect",
+   "options": [
+    "perfect",
+    "receipt",
+    "suit",
+    "cash"
+   ],
+   "answer": "perfect"
+  },
+  {
+   "id": "L4U01-Q036",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "thirty",
+   "item": "thirty",
+   "options": [
+    "changing room",
+    "thirty",
+    "half price",
+    "receipt"
+   ],
+   "answer": "thirty"
+  },
+  {
+   "id": "L4U01-Q037",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "forty",
+   "item": "forty",
+   "options": [
+    "changing room",
+    "spent",
+    "swimsuit",
+    "forty"
+   ],
+   "answer": "forty"
+  },
+  {
+   "id": "L4U01-Q038",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "fifty",
+   "item": "fifty",
+   "options": [
+    "jeans",
+    "fifty",
+    "spend",
+    "credit card"
+   ],
+   "answer": "fifty"
+  },
+  {
+   "id": "L4U01-Q039",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "sixty",
+   "item": "sixty",
+   "options": [
+    "sixty",
+    "discount",
+    "loose",
+    "perfect"
+   ],
+   "answer": "sixty"
+  },
+  {
+   "id": "L4U01-Q040",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "seventy",
+   "item": "seventy",
+   "options": [
+    "raincoat",
+    "changing room",
+    "seventy",
+    "cash"
+   ],
+   "answer": "seventy"
+  },
+  {
+   "id": "L4U01-Q041",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "eighty",
+   "item": "eighty",
+   "options": [
+    "swimsuit",
+    "comfortable",
+    "eighty",
+    "ninety"
+   ],
+   "answer": "eighty"
+  },
+  {
+   "id": "L4U01-Q042",
+   "skill": "listen",
+   "kind": "pick_meaning",
+   "audio_en": "ninety",
+   "item": "ninety",
+   "options": [
+    "ninety",
+    "jumper",
+    "fifty",
+    "credit card"
+   ],
+   "answer": "ninety"
+  },
+  {
+   "id": "L4U01-Q043",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "receipt",
+   "answer": "receipt"
+  },
+  {
+   "id": "L4U01-Q044",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "sandals",
+   "answer": "sandals"
+  },
+  {
+   "id": "L4U01-Q045",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "slippers",
+   "answer": "slippers"
+  },
+  {
+   "id": "L4U01-Q046",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mirror",
+   "answer": "mirror"
+  },
+  {
+   "id": "L4U01-Q047",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "shopping centre",
+   "answer": "shopping centre"
+  },
+  {
+   "id": "L4U01-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "What colour do you want?",
+   "item": "colour",
+   "answer": "What colour do you want?"
+  },
+  {
+   "id": "L4U01-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I need a medium T-shirt.",
+   "item": "medium",
+   "answer": "I need a medium T-shirt."
+  },
+  {
+   "id": "L4U01-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The changing room is over there.",
+   "item": "changing room",
+   "answer": "The changing room is over there."
+  },
+  {
+   "id": "L4U01-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "These shoes don't fit me.",
+   "item": "fit",
+   "answer": "These shoes don't fit me."
+  },
+  {
+   "id": "L4U01-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The jeans are too tight.",
+   "item": "tight",
+   "answer": "The jeans are too tight."
+  },
+  {
+   "id": "L4U01-Q053",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This jumper is a bit loose.",
+   "item": "loose",
+   "answer": "This jumper is a bit loose."
+  },
+  {
+   "id": "L4U01-Q054",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Here's your receipt.",
+   "item": "receipt",
+   "answer": "Here's your receipt."
+  },
+  {
+   "id": "L4U01-Q055",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I pay in cash?",
+   "item": "cash",
+   "answer": "Can I pay in cash?"
+  },
+  {
+   "id": "L4U01-Q056",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Mum pays with her credit card.",
+   "item": "credit card",
+   "answer": "Mum pays with her credit card."
+  },
+  {
+   "id": "L4U01-Q057",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Is there a discount for children?",
+   "item": "discount",
+   "answer": "Is there a discount for children?"
+  },
+  {
+   "id": "L4U01-Q058",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Everything is cheap in the sale.",
+   "item": "sale",
+   "answer": "Everything is cheap in the sale."
+  },
+  {
+   "id": "L4U01-Q059",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "These boots are half price today.",
+   "item": "half price",
+   "answer": "These boots are half price today."
+  },
+  {
+   "id": "L4U01-Q060",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The shop assistant is very helpful.",
+   "item": "shop assistant",
+   "answer": "The shop assistant is very helpful."
+  },
+  {
+   "id": "L4U01-Q061",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I'm looking for a red hat.",
+   "item": "look for",
+   "answer": "I'm looking for a red hat."
+  },
+  {
+   "id": "L4U01-Q062",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't spend all your money.",
+   "item": "spend",
+   "answer": "Don't spend all your money."
+  },
+  {
+   "id": "L4U01-Q063",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I spent my pocket money on a book.",
+   "item": "spent",
+   "answer": "I spent my pocket money on a book."
+  },
+  {
+   "id": "L4U01-Q064",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I need a new pair of socks.",
+   "item": "pair",
+   "answer": "I need a new pair of socks."
+  },
+  {
+   "id": "L4U01-Q065",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My jeans are blue.",
+   "item": "jeans",
+   "answer": "My jeans are blue."
+  },
+  {
+   "id": "L4U01-Q066",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Put on a jumper. It's cold.",
+   "item": "jumper",
+   "answer": "Put on a jumper. It's cold."
+  },
+  {
+   "id": "L4U01-Q067",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My hoodie has a big pocket.",
+   "item": "hoodie",
+   "answer": "My hoodie has a big pocket."
+  },
+  {
+   "id": "L4U01-Q068",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I wear sandals in summer.",
+   "item": "sandals",
+   "answer": "I wear sandals in summer."
+  },
+  {
+   "id": "L4U01-Q069",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My slippers are warm and soft.",
+   "item": "slippers",
+   "answer": "My slippers are warm and soft."
+  },
+  {
+   "id": "L4U01-Q070",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I need trainers for sports day.",
+   "item": "trainers",
+   "answer": "I need trainers for sports day."
+  },
+  {
+   "id": "L4U01-Q071",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Don't forget your swimsuit!",
+   "item": "swimsuit",
+   "answer": "Don't forget your swimsuit!"
+  },
+  {
+   "id": "L4U01-Q072",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Wear your raincoat. It's raining.",
+   "item": "raincoat",
+   "answer": "Wear your raincoat. It's raining."
+  },
+  {
+   "id": "L4U01-Q073",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like your striped shirt.",
+   "item": "striped",
+   "answer": "I like your striped shirt."
+  },
+  {
+   "id": "L4U01-Q074",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "She has a spotted dress.",
+   "item": "spotted",
+   "answer": "She has a spotted dress."
+  },
+  {
+   "id": "L4U01-Q075",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My scarf is made of wool.",
+   "item": "wool",
+   "answer": "My scarf is made of wool."
+  },
+  {
+   "id": "L4U01-Q076",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Your new jacket is very fashionable.",
+   "item": "fashionable",
+   "answer": "Your new jacket is very fashionable."
+  },
+  {
+   "id": "L4U01-Q077",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "These trainers are very comfortable.",
+   "item": "comfortable",
+   "answer": "These trainers are very comfortable."
+  },
+  {
+   "id": "L4U01-Q078",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The green dress suits you.",
+   "item": "suit",
+   "answer": "The green dress suits you."
+  },
+  {
+   "id": "L4U01-Q079",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Look in the mirror.",
+   "item": "mirror",
+   "answer": "Look in the mirror."
+  },
+  {
+   "id": "L4U01-Q080",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "We go to the shopping centre on Saturdays.",
+   "item": "shopping centre",
+   "answer": "We go to the shopping centre on Saturdays."
+  },
+  {
+   "id": "L4U01-Q081",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I save my pocket money.",
+   "item": "pocket money",
+   "answer": "I save my pocket money."
+  },
+  {
+   "id": "L4U01-Q082",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This hat is perfect!",
+   "item": "perfect",
+   "answer": "This hat is perfect!"
+  },
+  {
+   "id": "L4U01-Q083",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "There are thirty children in my class.",
+   "item": "thirty",
+   "answer": "There are thirty children in my class."
+  },
+  {
+   "id": "L4U01-Q084",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My dad is forty years old.",
+   "item": "forty",
+   "answer": "My dad is forty years old."
+  },
+  {
+   "id": "L4U01-Q085",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "This book costs fifty thousand dong.",
+   "item": "fifty",
+   "answer": "This book costs fifty thousand dong."
+  },
+  {
+   "id": "L4U01-Q086",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Grandpa is sixty years old.",
+   "item": "sixty",
+   "answer": "Grandpa is sixty years old."
+  },
+  {
+   "id": "L4U01-Q087",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "My grandma is seventy.",
+   "item": "seventy",
+   "answer": "My grandma is seventy."
+  },
+  {
+   "id": "L4U01-Q088",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Eighty people came to the concert.",
+   "item": "eighty",
+   "answer": "Eighty people came to the concert."
+  },
+  {
+   "id": "L4U01-Q089",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I got ninety points in the game.",
+   "item": "ninety",
+   "answer": "I got ninety points in the game."
+  },
+  {
+   "id": "L4U01-Q090",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is this jumper?",
+   "answer": "How much is this jumper?"
+  },
+  {
+   "id": "L4U01-Q091",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is this hoodie?",
+   "answer": "How much is this hoodie?"
+  },
+  {
+   "id": "L4U01-Q092",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much is this raincoat?",
+   "answer": "How much is this raincoat?"
+  },
+  {
+   "id": "L4U01-Q093",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much are these jeans?",
+   "answer": "How much are these jeans?"
+  },
+  {
+   "id": "L4U01-Q094",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much are these trainers?",
+   "answer": "How much are these trainers?"
+  },
+  {
+   "id": "L4U01-Q095",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "How much are these sandals?",
+   "answer": "How much are these sandals?"
+  },
+  {
+   "id": "L4U01-Q096",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I try on the striped one?",
+   "answer": "Can I try on the striped one?"
+  },
+  {
+   "id": "L4U01-Q097",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I try on the spotted one?",
+   "answer": "Can I try on the spotted one?"
+  },
+  {
+   "id": "L4U01-Q098",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Can I try on the blue one?",
+   "answer": "Can I try on the blue one?"
+  },
+  {
+   "id": "L4U01-Q099",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Hello! Can I help you?",
+   "answer": "Yes, please. I'm looking for a T-shirt."
+  },
+  {
+   "id": "L4U01-Q100",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "What colour do you want?",
+   "answer": "Blue, please. Size medium."
+  },
+  {
+   "id": "L4U01-Q101",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Thank you. It fits! How much is it?",
+   "answer": "It's half price today. Only fifty thousand dong."
+  },
+  {
+   "id": "L4U01-Q102",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Do you like these trainers?",
+   "answer": "Yes, but they are too tight."
+  },
+  {
+   "id": "L4U01-Q103",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "receipt",
+   "options": [
+    "shopping centre",
+    "mirror",
+    "receipt"
+   ],
+   "answer": "receipt"
+  },
+  {
+   "id": "L4U01-Q104",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "sandals",
+   "options": [
+    "sandals",
+    "mirror",
+    "shopping centre"
+   ],
+   "answer": "sandals"
+  },
+  {
+   "id": "L4U01-Q105",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "slippers",
+   "options": [
+    "slippers",
+    "receipt",
+    "sandals"
+   ],
+   "answer": "slippers"
+  },
+  {
+   "id": "L4U01-Q106",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "mirror",
+   "options": [
+    "sandals",
+    "shopping centre",
+    "mirror"
+   ],
+   "answer": "mirror"
+  },
+  {
+   "id": "L4U01-Q107",
+   "skill": "read",
+   "kind": "pick_word",
+   "item": "shopping centre",
+   "options": [
+    "mirror",
+    "shopping centre",
+    "receipt"
+   ],
+   "answer": "shopping centre"
+  },
+  {
+   "id": "L4U01-Q108",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "What ___ do you want?",
+   "item": "colour",
+   "options": [
+    "loose",
+    "colour",
+    "pair"
+   ],
+   "answer": "colour"
+  },
+  {
+   "id": "L4U01-Q109",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I need a ___ T-shirt.",
+   "item": "medium",
+   "options": [
+    "medium",
+    "fashionable",
+    "spent"
+   ],
+   "answer": "medium"
+  },
+  {
+   "id": "L4U01-Q110",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "These shoes don't ___ me.",
+   "item": "fit",
+   "options": [
+    "discount",
+    "fit",
+    "tight"
+   ],
+   "answer": "fit"
+  },
+  {
+   "id": "L4U01-Q111",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The jeans are too ___.",
+   "item": "tight",
+   "options": [
+    "trainers",
+    "tight",
+    "swimsuit"
+   ],
+   "answer": "tight"
+  },
+  {
+   "id": "L4U01-Q112",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This jumper is a bit ___.",
+   "item": "loose",
+   "options": [
+    "loose",
+    "suit",
+    "fit"
+   ],
+   "answer": "loose"
+  },
+  {
+   "id": "L4U01-Q113",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Here's your ___.",
+   "item": "receipt",
+   "options": [
+    "pair",
+    "receipt",
+    "fifty"
+   ],
+   "answer": "receipt"
+  },
+  {
+   "id": "L4U01-Q114",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Can I pay in ___?",
+   "item": "cash",
+   "options": [
+    "ninety",
+    "mirror",
+    "cash"
+   ],
+   "answer": "cash"
+  },
+  {
+   "id": "L4U01-Q115",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Is there a ___ for children?",
+   "item": "discount",
+   "options": [
+    "eighty",
+    "discount",
+    "trainers"
+   ],
+   "answer": "discount"
+  },
+  {
+   "id": "L4U01-Q116",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Everything is cheap in the ___.",
+   "item": "sale",
+   "options": [
+    "sixty",
+    "sale",
+    "suit"
+   ],
+   "answer": "sale"
+  },
+  {
+   "id": "L4U01-Q117",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't ___ all your money.",
+   "item": "spend",
+   "options": [
+    "seventy",
+    "spend",
+    "colour"
+   ],
+   "answer": "spend"
+  },
+  {
+   "id": "L4U01-Q118",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I ___ my pocket money on a book.",
+   "item": "spent",
+   "options": [
+    "fashionable",
+    "sandals",
+    "spent"
+   ],
+   "answer": "spent"
+  },
+  {
+   "id": "L4U01-Q119",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I need a new ___ of socks.",
+   "item": "pair",
+   "options": [
+    "sixty",
+    "slippers",
+    "pair"
+   ],
+   "answer": "pair"
+  },
+  {
+   "id": "L4U01-Q120",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ are blue.",
+   "item": "jeans",
+   "options": [
+    "spend",
+    "loose",
+    "jeans"
+   ],
+   "answer": "jeans"
+  },
+  {
+   "id": "L4U01-Q121",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Put on a ___. It's cold.",
+   "item": "jumper",
+   "options": [
+    "perfect",
+    "eighty",
+    "jumper"
+   ],
+   "answer": "jumper"
+  },
+  {
+   "id": "L4U01-Q122",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ has a big pocket.",
+   "item": "hoodie",
+   "options": [
+    "spent",
+    "forty",
+    "hoodie"
+   ],
+   "answer": "hoodie"
+  },
+  {
+   "id": "L4U01-Q123",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I wear ___ in summer.",
+   "item": "sandals",
+   "options": [
+    "jumper",
+    "sandals",
+    "cash"
+   ],
+   "answer": "sandals"
+  },
+  {
+   "id": "L4U01-Q124",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My ___ are warm and soft.",
+   "item": "slippers",
+   "options": [
+    "sixty",
+    "comfortable",
+    "slippers"
+   ],
+   "answer": "slippers"
+  },
+  {
+   "id": "L4U01-Q125",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I need ___ for sports day.",
+   "item": "trainers",
+   "options": [
+    "jeans",
+    "seventy",
+    "trainers"
+   ],
+   "answer": "trainers"
+  },
+  {
+   "id": "L4U01-Q126",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Don't forget your ___!",
+   "item": "swimsuit",
+   "options": [
+    "seventy",
+    "swimsuit",
+    "forty"
+   ],
+   "answer": "swimsuit"
+  },
+  {
+   "id": "L4U01-Q127",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Wear your ___. It's raining.",
+   "item": "raincoat",
+   "options": [
+    "perfect",
+    "raincoat",
+    "pair"
+   ],
+   "answer": "raincoat"
+  },
+  {
+   "id": "L4U01-Q128",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I like your ___ shirt.",
+   "item": "striped",
+   "options": [
+    "striped",
+    "loose",
+    "thirty"
+   ],
+   "answer": "striped"
+  },
+  {
+   "id": "L4U01-Q129",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "She has a ___ dress.",
+   "item": "spotted",
+   "options": [
+    "colour",
+    "cash",
+    "spotted"
+   ],
+   "answer": "spotted"
+  },
+  {
+   "id": "L4U01-Q130",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My scarf is made of ___.",
+   "item": "wool",
+   "options": [
+    "fifty",
+    "wool",
+    "spend"
+   ],
+   "answer": "wool"
+  },
+  {
+   "id": "L4U01-Q131",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Your new jacket is very ___.",
+   "item": "fashionable",
+   "options": [
+    "fit",
+    "fashionable",
+    "suit"
+   ],
+   "answer": "fashionable"
+  },
+  {
+   "id": "L4U01-Q132",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "These trainers are very ___.",
+   "item": "comfortable",
+   "options": [
+    "colour",
+    "jeans",
+    "comfortable"
+   ],
+   "answer": "comfortable"
+  },
+  {
+   "id": "L4U01-Q133",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "The green dress ___ you.",
+   "item": "suit",
+   "options": [
+    "mirrors",
+    "receipts",
+    "suits"
+   ],
+   "answer": "suits"
+  },
+  {
+   "id": "L4U01-Q134",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Look in the ___.",
+   "item": "mirror",
+   "options": [
+    "mirror",
+    "thirty",
+    "sandals"
+   ],
+   "answer": "mirror"
+  },
+  {
+   "id": "L4U01-Q135",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This hat is ___!",
+   "item": "perfect",
+   "options": [
+    "medium",
+    "perfect",
+    "suit"
+   ],
+   "answer": "perfect"
+  },
+  {
+   "id": "L4U01-Q136",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "There are ___ children in my class.",
+   "item": "thirty",
+   "options": [
+    "thirty",
+    "spend",
+    "wool"
+   ],
+   "answer": "thirty"
+  },
+  {
+   "id": "L4U01-Q137",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My dad is ___ years old.",
+   "item": "forty",
+   "options": [
+    "swimsuit",
+    "forty",
+    "discount"
+   ],
+   "answer": "forty"
+  },
+  {
+   "id": "L4U01-Q138",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "This book costs ___ thousand dong.",
+   "item": "fifty",
+   "options": [
+    "slippers",
+    "jumper",
+    "fifty"
+   ],
+   "answer": "fifty"
+  },
+  {
+   "id": "L4U01-Q139",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "Grandpa is ___ years old.",
+   "item": "sixty",
+   "options": [
+    "cash",
+    "fit",
+    "sixty"
+   ],
+   "answer": "sixty"
+  },
+  {
+   "id": "L4U01-Q140",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "My grandma is ___.",
+   "item": "seventy",
+   "options": [
+    "receipt",
+    "sale",
+    "seventy"
+   ],
+   "answer": "seventy"
+  },
+  {
+   "id": "L4U01-Q141",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "___ people came to the concert.",
+   "item": "eighty",
+   "options": [
+    "Cash",
+    "Discount",
+    "Eighty"
+   ],
+   "answer": "Eighty"
+  },
+  {
+   "id": "L4U01-Q142",
+   "skill": "read",
+   "kind": "fill_blank",
+   "text_en": "I got ___ points in the game.",
+   "item": "ninety",
+   "options": [
+    "wool",
+    "fit",
+    "ninety"
+   ],
+   "answer": "ninety"
+  },
+  {
+   "id": "L4U01-Q143",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Here's your receipt.",
+   "item": "receipt",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U01-Q144",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "I wear sandals in summer.",
+   "item": "slippers",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U01-Q145",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "My slippers are warm and soft.",
+   "item": "slippers",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U01-Q146",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "Look in the mirror.",
+   "item": "shopping centre",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "false"
+  },
+  {
+   "id": "L4U01-Q147",
+   "skill": "read",
+   "kind": "true_false",
+   "text_en": "We go to the shopping centre on Saturdays.",
+   "item": "shopping centre",
+   "options": [
+    "true",
+    "false"
+   ],
+   "answer": "true"
+  },
+  {
+   "id": "L4U01-Q148",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U01-R01",
+   "text_en": "How much money did Lan have?",
+   "options": [
+    "Sixty thousand dong.",
+    "Fifty thousand dong.",
+    "Ninety thousand dong."
+   ],
+   "answer": "Sixty thousand dong."
+  },
+  {
+   "id": "L4U01-Q149",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U01-R01",
+   "text_en": "Why didn't Lan buy a scarf?",
+   "options": [
+    "It was too expensive.",
+    "It was the wrong colour.",
+    "It was too big."
+   ],
+   "answer": "It was too expensive."
+  },
+  {
+   "id": "L4U01-Q150",
+   "skill": "read",
+   "kind": "read_question",
+   "reading": "L4U01-R01",
+   "text_en": "What did Lan buy?",
+   "options": [
+    "A spotted dress.",
+    "A striped bag.",
+    "A wool scarf."
+   ],
+   "answer": "A striped bag."
+  },
+  {
+   "id": "L4U01-Q151",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "colour",
+   "item": "colour",
+   "answer": "colour"
+  },
+  {
+   "id": "L4U01-Q152",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "medium",
+   "item": "medium",
+   "answer": "medium"
+  },
+  {
+   "id": "L4U01-Q153",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "fit",
+   "item": "fit",
+   "answer": "fit"
+  },
+  {
+   "id": "L4U01-Q154",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "tight",
+   "item": "tight",
+   "answer": "tight"
+  },
+  {
+   "id": "L4U01-Q155",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "loose",
+   "item": "loose",
+   "answer": "loose"
+  },
+  {
+   "id": "L4U01-Q156",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "receipt",
+   "item": "receipt",
+   "answer": "receipt"
+  },
+  {
+   "id": "L4U01-Q157",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "cash",
+   "item": "cash",
+   "answer": "cash"
+  },
+  {
+   "id": "L4U01-Q158",
+   "skill": "write",
+   "kind": "dictate_word",
+   "audio_en": "discount",
+   "item": "discount",
+   "answer": "discount"
+  },
+  {
+   "id": "L4U01-Q159",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "What colour do you want?",
+   "answer": "What colour do you want?"
+  },
+  {
+   "id": "L4U01-Q160",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "I need a medium T-shirt.",
+   "answer": "I need a medium T-shirt."
+  },
+  {
+   "id": "L4U01-Q161",
+   "skill": "write",
+   "kind": "dictate_sentence",
+   "audio_en": "The changing room is over there.",
+   "answer": "The changing room is over there."
+  }
+ ]
+}

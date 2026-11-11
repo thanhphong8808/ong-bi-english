@@ -1,0 +1,1203 @@
+{
+ "id": "L0U04",
+ "level": 0,
+ "unit": 4,
+ "topic_en": "Animals",
+ "topic_vi": "Con vật",
+ "can_do_vi": [
+  "Gọi tên 10 con vật quen thuộc",
+  "Nói \"It's a cat.\""
+ ],
+ "items": [
+  {
+   "id": "L0U04-W01",
+   "type": "word",
+   "en": "dog",
+   "vi": "con chó",
+   "ipa": "/dɔɡ/",
+   "syllables": [
+    "dog"
+   ],
+   "phonics": "cvc_short_o",
+   "image": {
+    "emoji": "1F436"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "I like my dog.",
+   "example_vi": "Tớ thích chú chó của tớ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W02",
+   "type": "word",
+   "en": "bird",
+   "vi": "con chim",
+   "ipa": "/bʌrd/",
+   "syllables": [
+    "bird"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F426"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a blue bird.",
+   "example_vi": "Đó là con chim màu xanh.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-L01",
+   "type": "letter",
+   "en": "h",
+   "vi": "chữ h",
+   "letter": "h",
+   "sound": "/h/",
+   "tip_vi": "Âm \"h\": thở nhẹ ra như đang hà hơi vào tay: h-h.",
+   "sound_words": [
+    "hat",
+    "hen"
+   ],
+   "image": {
+    "emoji": "1F452"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/h/",
+   "syllables": [
+    "h"
+   ],
+   "phonics": "sound_h",
+   "example_en": "",
+   "example_vi": "Âm \"h\": thở nhẹ ra như đang hà hơi vào tay: h-h.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U04-W03",
+   "type": "word",
+   "en": "hat",
+   "vi": "cái mũ",
+   "ipa": "/hæt/",
+   "syllables": [
+    "hat"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F452"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a pink hat.",
+   "example_vi": "Đó là cái mũ hồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W04",
+   "type": "word",
+   "en": "hen",
+   "vi": "gà mái",
+   "ipa": "/hɛn/",
+   "syllables": [
+    "hen"
+   ],
+   "phonics": "cvc_short_e",
+   "image": {
+    "emoji": "1F414"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a brown hen.",
+   "example_vi": "Đó là con gà mái nâu.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W05",
+   "type": "word",
+   "en": "fish",
+   "vi": "con cá",
+   "ipa": "/fɪʃ/",
+   "syllables": [
+    "fish"
+   ],
+   "phonics": "initial_f",
+   "image": {
+    "emoji": "1F41F"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "I have two fish.",
+   "example_vi": "Tớ có hai con cá.",
+   "pron_focus": [
+    "final_consonant",
+    "sh_s"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W06",
+   "type": "word",
+   "en": "duck",
+   "vi": "con vịt",
+   "ipa": "/dʌk/",
+   "syllables": [
+    "duck"
+   ],
+   "phonics": "initial_d",
+   "image": {
+    "emoji": "1F986"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a yellow duck.",
+   "example_vi": "Đó là con vịt vàng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W07",
+   "type": "word",
+   "en": "cow",
+   "vi": "con bò",
+   "ipa": "/kaʊ/",
+   "syllables": [
+    "cow"
+   ],
+   "phonics": "initial_c",
+   "image": {
+    "emoji": "1F42E"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "The cow is brown.",
+   "example_vi": "Con bò màu nâu.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-L02",
+   "type": "letter",
+   "en": "r",
+   "vi": "chữ r",
+   "letter": "r",
+   "sound": "/r/",
+   "tip_vi": "Âm \"r\": cong lưỡi lên nhưng không chạm vào đâu cả: rrr.",
+   "sound_words": [
+    "red",
+    "run"
+   ],
+   "image": {
+    "emoji": "1F534"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/r/",
+   "syllables": [
+    "r"
+   ],
+   "phonics": "sound_r",
+   "example_en": "",
+   "example_vi": "Âm \"r\": cong lưỡi lên nhưng không chạm vào đâu cả: rrr.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U04-W08",
+   "type": "word",
+   "en": "run",
+   "vi": "chạy",
+   "ipa": "/rʌn/",
+   "syllables": [
+    "run"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F3C3"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "I can run.",
+   "example_vi": "Tớ biết chạy.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W09",
+   "type": "word",
+   "en": "pig",
+   "vi": "con lợn",
+   "ipa": "/pɪɡ/",
+   "syllables": [
+    "pig"
+   ],
+   "phonics": "cvc_short_i",
+   "image": {
+    "emoji": "1F437"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "The pig is pink.",
+   "example_vi": "Con lợn màu hồng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W10",
+   "type": "word",
+   "en": "horse",
+   "vi": "con ngựa",
+   "ipa": "/hɔrs/",
+   "syllables": [
+    "horse"
+   ],
+   "phonics": "initial_h",
+   "image": {
+    "emoji": "1F434"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a white horse.",
+   "example_vi": "Đó là con ngựa trắng.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W11",
+   "type": "word",
+   "en": "rabbit",
+   "vi": "con thỏ",
+   "ipa": "/ˈræbɪt/",
+   "syllables": [
+    "rab",
+    "bit"
+   ],
+   "phonics": "initial_r",
+   "image": {
+    "emoji": "1F430"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "I like the rabbit.",
+   "example_vi": "Tớ thích con thỏ.",
+   "pron_focus": [
+    "final_consonant",
+    "r_sound",
+    "stress"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-L03",
+   "type": "letter",
+   "en": "m",
+   "vi": "chữ m",
+   "letter": "m",
+   "sound": "/m/",
+   "tip_vi": "Âm \"m\": mím môi và ngân trong mũi: mmm.",
+   "sound_words": [
+    "mum",
+    "map"
+   ],
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": false,
+   "cat": "letter",
+   "ipa": "/m/",
+   "syllables": [
+    "m"
+   ],
+   "phonics": "sound_m",
+   "example_en": "",
+   "example_vi": "Âm \"m\": mím môi và ngân trong mũi: mmm.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak",
+    "read",
+    "write"
+   ]
+  },
+  {
+   "id": "L0U04-W12",
+   "type": "word",
+   "en": "mum",
+   "vi": "mẹ",
+   "ipa": "/mʌm/",
+   "syllables": [
+    "mum"
+   ],
+   "phonics": "cvc_short_u",
+   "image": {
+    "emoji": "1F469"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "I love my mum.",
+   "example_vi": "Tớ yêu mẹ.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W13",
+   "type": "word",
+   "en": "map",
+   "vi": "bản đồ",
+   "ipa": "/mæp/",
+   "syllables": [
+    "map"
+   ],
+   "phonics": "cvc_short_a",
+   "image": {
+    "emoji": "1F5FA-FE0F"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "It's a big map.",
+   "example_vi": "Đó là tấm bản đồ to.",
+   "pron_focus": [
+    "final_consonant"
+   ],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  },
+  {
+   "id": "L0U04-W14",
+   "type": "word",
+   "en": "bee",
+   "vi": "con ong",
+   "ipa": "/bi/",
+   "syllables": [
+    "bee"
+   ],
+   "phonics": "initial_b",
+   "image": {
+    "emoji": "1F41D"
+   },
+   "picturable": true,
+   "cat": "L0U04",
+   "example_en": "Bi is a bee.",
+   "example_vi": "Bi là một chú ong.",
+   "pron_focus": [],
+   "skills": [
+    "listen",
+    "speak"
+   ]
+  }
+ ],
+ "patterns": [
+  {
+   "id": "L0U04-P01",
+   "en": "It's a {x}.",
+   "vi": "Đó là {x}.",
+   "slots": {
+    "x": [
+     "cat",
+     "dog",
+     "bird",
+     "duck"
+    ]
+   }
+  },
+  {
+   "id": "L0U04-P02",
+   "en": "I like the {x}.",
+   "vi": "Tớ thích {x}.",
+   "slots": {
+    "x": [
+     "rabbit",
+     "horse",
+     "pig",
+     "cow"
+    ]
+   }
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "L0U04-D01",
+   "title_vi": "Con gì đây?",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Bi",
+     "en": "Look! What is it?",
+     "vi": "Nhìn kìa! Con gì thế?"
+    },
+    {
+     "role": "Kid",
+     "en": "It's a cat.",
+     "vi": "Đó là con mèo."
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! It's a black cat.",
+     "vi": "Đúng rồi! Đó là con mèo đen."
+    },
+    {
+     "role": "Kid",
+     "en": "I like the cat.",
+     "vi": "Tớ thích con mèo."
+    }
+   ],
+   "variation": {
+    "line": 1,
+    "key": "cat",
+    "options": [
+     "dog",
+     "duck",
+     "rabbit"
+    ]
+   }
+  },
+  {
+   "id": "L0U04-D02",
+   "title_vi": "Bi là ong",
+   "roles": [
+    "Bi",
+    "Kid"
+   ],
+   "lines": [
+    {
+     "role": "Kid",
+     "en": "Bi, are you a bird?",
+     "vi": "Bi ơi, cậu là chim à?"
+    },
+    {
+     "role": "Bi",
+     "en": "No! I'm a bee.",
+     "vi": "Không! Tớ là ong."
+    },
+    {
+     "role": "Kid",
+     "en": "Oh! A yellow and black bee.",
+     "vi": "Ồ! Một chú ong vàng và đen."
+    },
+    {
+     "role": "Bi",
+     "en": "Yes! Thank you.",
+     "vi": "Đúng rồi! Cảm ơn cậu."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "type": "trace_letter",
+   "target": "H"
+  },
+  {
+   "type": "trace_letter",
+   "target": "h"
+  },
+  {
+   "type": "trace_letter",
+   "target": "R"
+  },
+  {
+   "type": "trace_letter",
+   "target": "r"
+  },
+  {
+   "type": "trace_letter",
+   "target": "M"
+  },
+  {
+   "type": "trace_letter",
+   "target": "m"
+  },
+  {
+   "type": "trace_letter",
+   "target": "d"
+  },
+  {
+   "type": "trace_letter",
+   "target": "b"
+  },
+  {
+   "type": "trace_letter",
+   "target": "f"
+  },
+  {
+   "type": "trace_letter",
+   "target": "c"
+  }
+ ],
+ "quiz_bank": [
+  {
+   "id": "L0U04-Q001",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "dog",
+   "item": "dog",
+   "options": [
+    "dog",
+    "bee",
+    "cow"
+   ],
+   "answer": "dog"
+  },
+  {
+   "id": "L0U04-Q002",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bird",
+   "item": "bird",
+   "options": [
+    "bird",
+    "map",
+    "bee"
+   ],
+   "answer": "bird"
+  },
+  {
+   "id": "L0U04-Q003",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hat",
+   "item": "hat",
+   "options": [
+    "hat",
+    "duck",
+    "map"
+   ],
+   "answer": "hat"
+  },
+  {
+   "id": "L0U04-Q004",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "hen",
+   "item": "hen",
+   "options": [
+    "hen",
+    "mum",
+    "dog"
+   ],
+   "answer": "hen"
+  },
+  {
+   "id": "L0U04-Q005",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "fish",
+   "item": "fish",
+   "options": [
+    "fish",
+    "dog",
+    "hen"
+   ],
+   "answer": "fish"
+  },
+  {
+   "id": "L0U04-Q006",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "duck",
+   "item": "duck",
+   "options": [
+    "duck",
+    "map",
+    "bird"
+   ],
+   "answer": "duck"
+  },
+  {
+   "id": "L0U04-Q007",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "cow",
+   "item": "cow",
+   "options": [
+    "dog",
+    "mum",
+    "cow"
+   ],
+   "answer": "cow"
+  },
+  {
+   "id": "L0U04-Q008",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "run",
+   "item": "run",
+   "options": [
+    "fish",
+    "run",
+    "horse"
+   ],
+   "answer": "run"
+  },
+  {
+   "id": "L0U04-Q009",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "pig",
+   "item": "pig",
+   "options": [
+    "duck",
+    "pig",
+    "horse"
+   ],
+   "answer": "pig"
+  },
+  {
+   "id": "L0U04-Q010",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "horse",
+   "item": "horse",
+   "options": [
+    "bird",
+    "horse",
+    "fish"
+   ],
+   "answer": "horse"
+  },
+  {
+   "id": "L0U04-Q011",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "rabbit",
+   "item": "rabbit",
+   "options": [
+    "rabbit",
+    "cow",
+    "duck"
+   ],
+   "answer": "rabbit"
+  },
+  {
+   "id": "L0U04-Q012",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "mum",
+   "item": "mum",
+   "options": [
+    "bird",
+    "hen",
+    "mum"
+   ],
+   "answer": "mum"
+  },
+  {
+   "id": "L0U04-Q013",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "map",
+   "item": "map",
+   "options": [
+    "bird",
+    "map",
+    "horse"
+   ],
+   "answer": "map"
+  },
+  {
+   "id": "L0U04-Q014",
+   "skill": "listen",
+   "kind": "pick_image",
+   "audio_en": "bee",
+   "item": "bee",
+   "options": [
+    "run",
+    "mum",
+    "bee"
+   ],
+   "answer": "bee"
+  },
+  {
+   "id": "L0U04-Q015",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the dog blue.",
+   "item": "dog",
+   "options": [
+    "bee",
+    "dog",
+    "hat"
+   ],
+   "answer": "dog",
+   "color": "blue"
+  },
+  {
+   "id": "L0U04-Q016",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the bird orange.",
+   "item": "bird",
+   "options": [
+    "rabbit",
+    "bee",
+    "bird"
+   ],
+   "answer": "bird",
+   "color": "orange"
+  },
+  {
+   "id": "L0U04-Q017",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hat red.",
+   "item": "hat",
+   "options": [
+    "duck",
+    "hat",
+    "run"
+   ],
+   "answer": "hat",
+   "color": "red"
+  },
+  {
+   "id": "L0U04-Q018",
+   "skill": "listen",
+   "kind": "color_item",
+   "audio_en": "Color the hen pink.",
+   "item": "hen",
+   "options": [
+    "map",
+    "hen",
+    "mum"
+   ],
+   "answer": "hen",
+   "color": "pink"
+  },
+  {
+   "id": "L0U04-Q019",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "dog",
+   "answer": "dog"
+  },
+  {
+   "id": "L0U04-Q020",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bird",
+   "answer": "bird"
+  },
+  {
+   "id": "L0U04-Q021",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hat",
+   "answer": "hat"
+  },
+  {
+   "id": "L0U04-Q022",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "hen",
+   "answer": "hen"
+  },
+  {
+   "id": "L0U04-Q023",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "fish",
+   "answer": "fish"
+  },
+  {
+   "id": "L0U04-Q024",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "duck",
+   "answer": "duck"
+  },
+  {
+   "id": "L0U04-Q025",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "cow",
+   "answer": "cow"
+  },
+  {
+   "id": "L0U04-Q026",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "run",
+   "answer": "run"
+  },
+  {
+   "id": "L0U04-Q027",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "pig",
+   "answer": "pig"
+  },
+  {
+   "id": "L0U04-Q028",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "horse",
+   "answer": "horse"
+  },
+  {
+   "id": "L0U04-Q029",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "rabbit",
+   "answer": "rabbit"
+  },
+  {
+   "id": "L0U04-Q030",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "mum",
+   "answer": "mum"
+  },
+  {
+   "id": "L0U04-Q031",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "map",
+   "answer": "map"
+  },
+  {
+   "id": "L0U04-Q032",
+   "skill": "speak",
+   "kind": "say_word",
+   "item": "bee",
+   "answer": "bee"
+  },
+  {
+   "id": "L0U04-Q033",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like my dog.",
+   "item": "dog",
+   "answer": "I like my dog."
+  },
+  {
+   "id": "L0U04-Q034",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a blue bird.",
+   "item": "bird",
+   "answer": "It's a blue bird."
+  },
+  {
+   "id": "L0U04-Q035",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a pink hat.",
+   "item": "hat",
+   "answer": "It's a pink hat."
+  },
+  {
+   "id": "L0U04-Q036",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a brown hen.",
+   "item": "hen",
+   "answer": "It's a brown hen."
+  },
+  {
+   "id": "L0U04-Q037",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I have two fish.",
+   "item": "fish",
+   "answer": "I have two fish."
+  },
+  {
+   "id": "L0U04-Q038",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a yellow duck.",
+   "item": "duck",
+   "answer": "It's a yellow duck."
+  },
+  {
+   "id": "L0U04-Q039",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The cow is brown.",
+   "item": "cow",
+   "answer": "The cow is brown."
+  },
+  {
+   "id": "L0U04-Q040",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I can run.",
+   "item": "run",
+   "answer": "I can run."
+  },
+  {
+   "id": "L0U04-Q041",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "The pig is pink.",
+   "item": "pig",
+   "answer": "The pig is pink."
+  },
+  {
+   "id": "L0U04-Q042",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a white horse.",
+   "item": "horse",
+   "answer": "It's a white horse."
+  },
+  {
+   "id": "L0U04-Q043",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the rabbit.",
+   "item": "rabbit",
+   "answer": "I like the rabbit."
+  },
+  {
+   "id": "L0U04-Q044",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I love my mum.",
+   "item": "mum",
+   "answer": "I love my mum."
+  },
+  {
+   "id": "L0U04-Q045",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a big map.",
+   "item": "map",
+   "answer": "It's a big map."
+  },
+  {
+   "id": "L0U04-Q046",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "Bi is a bee.",
+   "item": "bee",
+   "answer": "Bi is a bee."
+  },
+  {
+   "id": "L0U04-Q047",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a cat.",
+   "answer": "It's a cat."
+  },
+  {
+   "id": "L0U04-Q048",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a dog.",
+   "answer": "It's a dog."
+  },
+  {
+   "id": "L0U04-Q049",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "It's a bird.",
+   "answer": "It's a bird."
+  },
+  {
+   "id": "L0U04-Q050",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the rabbit.",
+   "answer": "I like the rabbit."
+  },
+  {
+   "id": "L0U04-Q051",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the horse.",
+   "answer": "I like the horse."
+  },
+  {
+   "id": "L0U04-Q052",
+   "skill": "speak",
+   "kind": "repeat_sentence",
+   "audio_en": "I like the pig.",
+   "answer": "I like the pig."
+  },
+  {
+   "id": "L0U04-Q053",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Look! What is it?",
+   "answer": "It's a cat."
+  },
+  {
+   "id": "L0U04-Q054",
+   "skill": "speak",
+   "kind": "answer_question",
+   "audio_en": "Bi, are you a bird?",
+   "answer": "No! I'm a bee."
+  },
+  {
+   "id": "L0U04-Q055",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "h",
+   "options": [
+    "h",
+    "m",
+    "b"
+   ],
+   "answer": "h"
+  },
+  {
+   "id": "L0U04-Q056",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "r",
+   "options": [
+    "m",
+    "t",
+    "r"
+   ],
+   "answer": "r"
+  },
+  {
+   "id": "L0U04-Q057",
+   "skill": "read",
+   "kind": "letter_sound",
+   "item": "m",
+   "options": [
+    "n",
+    "d",
+    "m"
+   ],
+   "answer": "m"
+  },
+  {
+   "id": "L0U04-Q058",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "H"
+  },
+  {
+   "id": "L0U04-Q059",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "h"
+  },
+  {
+   "id": "L0U04-Q060",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "R"
+  },
+  {
+   "id": "L0U04-Q061",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "r"
+  },
+  {
+   "id": "L0U04-Q062",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "M"
+  },
+  {
+   "id": "L0U04-Q063",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "m"
+  },
+  {
+   "id": "L0U04-Q064",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "d"
+  },
+  {
+   "id": "L0U04-Q065",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "b"
+  },
+  {
+   "id": "L0U04-Q066",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "f"
+  },
+  {
+   "id": "L0U04-Q067",
+   "skill": "write",
+   "kind": "trace_letter",
+   "answer": "c"
+  }
+ ]
+}
