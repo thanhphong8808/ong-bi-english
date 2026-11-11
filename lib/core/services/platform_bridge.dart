@@ -37,6 +37,18 @@ class DevicePlatform {
     final value = await _channel.invokeMethod<int>('freeBytes', {'path': path});
     return value ?? -1;
   }
+
+  static const MethodChannel _screen = MethodChannel('ongbi/screen');
+
+  /// Keeps the screen on while large model files download, so the phone
+  /// does not fall asleep and stall a 3 GB transfer. Best effort.
+  Future<void> keepScreenOn(bool on) async {
+    try {
+      await _screen.invokeMethod<void>('keepOn', {'on': on});
+    } catch (_) {
+      // Not critical.
+    }
+  }
 }
 
 /// Thin wrapper over the Kotlin FilesBridge.

@@ -68,6 +68,8 @@ class _Retryable implements Exception {
 ///
 /// This is the only class in the app that opens a network connection.
 class ModelDownloader {
+  static const int _flushEveryBytes = 8 * 1024 * 1024;
+
   ModelDownloader({
     required this.modelsRoot,
     required this.modelRepo,
@@ -100,8 +102,15 @@ class ModelDownloader {
     statuses.dispose();
   }
 
+  bool _screenKeptOn = false;
+
   void _set(String id, PackStatus status) {
     statuses.value = {...statuses.value, id: status};
+    final busy = statuses.value.values.any((s) => s.busy);
+    if (busy != _screenKeptOn) {
+      _screenKeptOn = busy;
+      unawaited(device.keepScreenOn(busy));
+    }
   }
 
   void _onNativeProgress(FileProgress event) {
@@ -354,6 +363,7 @@ class ModelDownloader {
 
       sink = part.openWrite(mode: offset > 0 ? FileMode.append : FileMode.write);
       var received = offset;
+      var lastFlushed = offset;
       var lastUpdate = DateTime.now();
       _set(pack.id, PackStatus(phase: PackPhase.downloading, done: received, total: total));
 
@@ -366,6 +376,12 @@ class ModelDownloader {
         }
         sink.add(chunk);
         received += chunk.length;
+        // Let the disk catch up now and then, so a fast network cannot pile
+        // gigabytes of unwritten data into memory.
+        if (received - lastFlushed >= _flushEveryBytes) {
+          lastFlushed = received;
+          await sink.flush();
+        }
         final now = DateTime.now();
         if (now.difference(lastUpdate).inMilliseconds >= 300) {
           lastUpdate = now;
