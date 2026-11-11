@@ -425,6 +425,8 @@ class S {
       'RAM ${(totalRamMb / 1024).toStringAsFixed(1).replaceAll('.', ',')} GB';
 
   static String gateQuestion(int a, int b) => '$a × $b = ?';
+  static const gateErase = 'Xoá';
+  static const gateSubmit = 'Xong';
 
   static String milliseconds(int ms) => '$ms ms';
 
@@ -448,4 +450,15 @@ class S {
         return code.startsWith('http_') ? errHttp : errNetwork;
     }
   }
+
+  // Crash and start-up reports
+  static const crashTitle = 'Lần trước app bị dừng đột ngột';
+  static String crashBody(String savedTo) =>
+      'Báo cáo lỗi đã được lưu ở "$savedTo" (mở ứng dụng Tệp của tôi → Tải về → OngBiEnglish). '
+      'Bố mẹ gửi file này hoặc chụp màn hình này cho người hỗ trợ để sửa lỗi.';
+  static const crashClose = 'Đã hiểu';
+  static const startupFailedTitle = 'App chưa khởi động được';
+  static String startupFailedBody(String savedTo) =>
+      'Bố mẹ chụp màn hình này gửi người hỗ trợ. ${savedTo.isEmpty ? '' : 'Báo cáo cũng đã lưu ở "$savedTo". '}'
+      'Sau đó đóng hẳn app rồi mở lại.';
 }

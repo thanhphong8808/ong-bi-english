@@ -208,9 +208,9 @@ class _NumberPad extends StatelessWidget {
         Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            key(const Icon(Icons.backspace_outlined), onErase),
+            key(const Icon(Icons.backspace_outlined, semanticLabel: S.gateErase), onErase),
             digit('0'),
-            key(const Icon(Icons.check_rounded), onSubmit),
+            key(const Icon(Icons.check_rounded, semanticLabel: S.gateSubmit), onSubmit),
           ],
         ),
       ],

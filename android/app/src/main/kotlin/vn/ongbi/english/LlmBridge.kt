@@ -119,27 +119,67 @@ class LlmBridge(
     }
 
     private suspend fun load(path: String, useGpu: Boolean): Map<String, Any?> {
-        if (engine != null && loadedPath == path && loadedBackend == backendName(useGpu)) {
+        val gpu = useGpu && gpuAllowed()
+        if (engine != null && loadedPath == path && loadedBackend == backendName(gpu)) {
             return mapOf("backend" to loadedBackend, "reused" to true)
         }
         unload()
-        val backend = if (useGpu) Backend.GPU() else Backend.CPU()
+        if (gpu) {
+            try {
+                return createEngine(path, gpu = true)
+            } catch (_: Throwable) {
+                // The GPU driver refused the model: remember it and use the CPU.
+                markGpuBad()
+            }
+        }
+        return createEngine(path, gpu = false)
+    }
+
+    private fun createEngine(path: String, gpu: Boolean): Map<String, Any?> {
         val config = EngineConfig(
             modelPath = path,
-            backend = backend,
+            backend = if (gpu) Backend.GPU() else Backend.CPU(),
             cacheDir = context.cacheDir.path,
         )
-        // Store the engine only after initialize() returns: closing an engine
-        // whose initialize() threw raises IllegalStateException.
-        val created = Engine(config)
-        created.initialize()
-        engine = created
+        // A GPU driver can kill the whole process during initialize(). The
+        // marker survives that, so the next start goes straight to the CPU.
+        if (gpu) prefs().edit().putBoolean(KEY_GPU_PENDING, true).commit()
+        try {
+            // Store the engine only after initialize() returns: closing an engine
+            // whose initialize() threw raises IllegalStateException.
+            val created = Engine(config)
+            created.initialize()
+            engine = created
+        } finally {
+            if (gpu) prefs().edit().putBoolean(KEY_GPU_PENDING, false).commit()
+        }
         loadedPath = path
-        loadedBackend = backendName(useGpu)
+        loadedBackend = backendName(gpu)
         return mapOf("backend" to loadedBackend, "reused" to false)
     }
 
+    private fun prefs() = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
+
+    /** False once a GPU start failed, or the process died during one. */
+    private fun gpuAllowed(): Boolean {
+        val p = prefs()
+        if (p.getBoolean(KEY_GPU_PENDING, false)) {
+            markGpuBad()
+        }
+        return !p.getBoolean(KEY_GPU_BAD, false)
+    }
+
+    private fun markGpuBad() {
+        prefs().edit().putBoolean(KEY_GPU_BAD, true).putBoolean(KEY_GPU_PENDING, false).commit()
+    }
+
     private fun backendName(useGpu: Boolean): String = if (useGpu) "gpu" else "cpu"
+
+    private companion object {
+        const val PREFS = "ongbi_llm"
+        const val KEY_GPU_PENDING = "gpu_init_pending"
+        const val KEY_GPU_BAD = "gpu_bad"
+    }
 
     private suspend fun startConversation(systemPrompt: String): Boolean {
         val current = engine ?: throw IllegalStateException("model not loaded")

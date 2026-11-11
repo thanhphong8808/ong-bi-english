@@ -76,20 +76,30 @@ jobs:
             echo "No signing secrets found: the APK will be signed with the debug key."
           fi
 
+      # arm64 is the phone build; x86_64 is only for the emulator smoke test.
       - name: Build APK
-        run: flutter build apk --release --split-per-abi
+        run: flutter build apk --release --split-per-abi --target-platform android-arm64,android-x64
 
       - name: Rename APK
         run: |
           mkdir -p out
           cp build/app/outputs/flutter-apk/app-arm64-v8a-release.apk out/OngBiEnglish-arm64-v8a.apk
-          ls -la out
+          ls -la out build/app/outputs/flutter-apk/
+          unzip -l build/app/outputs/flutter-apk/app-x86_64-release.apk | grep "\.so$" || true
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: OngBiEnglish-arm64-v8a
           path: out/OngBiEnglish-arm64-v8a.apk
+          if-no-files-found: error
+
+      - name: Upload smoke-test APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-apk
+          path: build/app/outputs/flutter-apk/app-x86_64-release.apk
+          retention-days: 3
           if-no-files-found: error
 
       - name: Publish release
@@ -100,3 +110,39 @@ jobs:
           body: |
             Bản build tự động. Tải file `OngBiEnglish-arm64-v8a.apk` bên dưới về điện thoại để cài.
           files: out/OngBiEnglish-arm64-v8a.apk
+
+  # Installs the app on an Android emulator, downloads the required model
+  # packs like a parent would, opens the main screens and prints the crash
+  # buffer, Android's exit reasons and screenshots into the log.
+  smoke:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Download smoke-test APK
+        uses: actions/download-artifact@v4
+        with:
+          name: smoke-apk
+          path: smoke
+
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Run on emulator
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 35
+          target: google_apis
+          arch: x86_64
+          profile: pixel_6
+          ram-size: 4096M
+          disk-size: 8G
+          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -no-snapshot
+          disable-animations: true
+          script: bash tool/ci/smoke_test.sh smoke/app-x86_64-release.apk
