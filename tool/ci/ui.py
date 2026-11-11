@@ -109,71 +109,68 @@ def solve_gate(root):
 
 
 BUSY = ('Đang tải', 'Đang kiểm tra', 'Đang giải nén', 'Đang nhập')
-MARKERS = {'Bắt buộc': True, 'Tuỳ chọn': False, 'Nhận dạng chữ viết tay': True}
 
 
 def swipe(up=True):
     if up:
-        adb('shell', 'input', 'swipe', '540', '1900', '540', '700', '400')
+        adb('shell', 'input', 'swipe', '540', '1900', '540', '600', '300')
     else:
-        adb('shell', 'input', 'swipe', '540', '700', '540', '1900', '400')
-    time.sleep(1.5)
+        adb('shell', 'input', 'swipe', '540', '600', '540', '1900', '300')
+    time.sleep(1.2)
+
+
+def to_edge(top):
+    for _ in range(6):
+        swipe(up=not top)
 
 
 def setup(minutes):
-    """Downloads required packs (and handwriting) one by one, skipping Gemma."""
+    """Does what a parent does: "Tải tất cả qua Wi-Fi", the gate, then waits
+    until "Vào học" is enabled. Prints progress and failures on the way."""
     deadline = time.time() + minutes * 60
-    taps = 0
-    scrolls = 0
+    started = 0
+    last_progress = ''
     while time.time() < deadline:
+        to_edge(top=True)
         root = dump()
         if root is None:
-            time.sleep(3)
+            time.sleep(5)
             continue
         if solve_gate(root):
             continue
         all_labels = [label for label, _ in labels(root)]
-        if any(label.startswith(BUSY) for label in all_labels):
-            progress = [label for label in all_labels if label.startswith(BUSY)]
-            print('busy:', progress[:3])
-            time.sleep(6)
+        busy = [label for label in all_labels if any(b in label for b in BUSY)]
+        if busy:
+            progress = ' || '.join(label.replace('\n', ' / ') for label in busy)
+            if progress != last_progress:
+                print('busy:', progress[:400])
+                last_progress = progress
+            time.sleep(10)
             continue
-        markers = []
-        for label, node in labels(root):
-            if label.strip() in MARKERS:
-                markers.append((bounds(node)[1], MARKERS[label.strip()]))
-        eligible = []
-        for node in exact(root, 'Tải'):
-            top = bounds(node)[1]
-            above = [m for m in markers if m[0] < top]
-            if above and max(above)[1]:
-                eligible.append(node)
-        if eligible and taps < 12:
-            taps += 1
-            node = min(eligible, key=lambda n: bounds(n)[1])
-            print(f'download tap #{taps} at {center(node)}')
-            tap_node(node)
+        failed = [label.replace('\n', ' / ') for label in all_labels if 'Chưa tải được' in label]
+        if failed:
+            print('failed packs:', failed)
+        everything = [n for label, n in labels(root) if label.startswith('Tải tất cả')]
+        if everything and everything[0].get('enabled') == 'true' and started < 3:
+            started += 1
+            print(f'tap "Tải tất cả" (#{started})')
+            tap_node(everything[0])
             time.sleep(3)
             continue
-        go = exact(root, 'Vào học')
-        if go and go[0].get('enabled') == 'true' and not eligible:
-            print('setup: required packs ready')
-            for label in all_labels:
-                print('  ', label)
-            return 0
-        failed = [label for label in all_labels if 'Chưa tải được' in label or 'Lỗi' in label]
-        if failed:
-            print('setup: failures:', failed)
-        scrolls += 1
-        if scrolls % 8 == 0:
-            for _ in range(6):
-                swipe(up=False)
-        else:
-            swipe(up=True)
+        to_edge(top=False)
+        root = dump()
+        if root is not None:
+            go = exact(root, 'Vào học')
+            if go and go[0].get('enabled') == 'true':
+                print('setup: required packs ready')
+                return 0
+        time.sleep(5)
     print('setup: TIMEOUT')
-    root = dump()
-    for label, _ in labels(root) if root is not None else []:
-        print('  ', label)
+    for top in (True, False):
+        to_edge(top=top)
+        root = dump()
+        for label, _ in labels(root) if root is not None else []:
+            print('   ', label.replace('\n', ' / '))
     return 1
 
 
