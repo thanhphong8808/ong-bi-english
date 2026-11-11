@@ -175,11 +175,21 @@ Bấm bánh răng nhỏ ở góc dưới màn hình chính và trả lời phép
 Nếu quên mã PIN: vào **Cài đặt Android → Ứng dụng → Ong Bi English → Lưu trữ → Xoá dữ
 liệu**. Việc này xoá cả tiến độ và model đã tải.
 
-## Cập nhật app mà không mất tiến độ (làm một lần)
+## Cập nhật app mà không mất tiến độ
 
-Mặc định GitHub ký APK bằng một khoá tạm, **mỗi lần build một khoá khác**. Khi cài bản
-mới đè lên bản cũ, Android sẽ từ chối và bạn phải gỡ app cũ, tức là mất tiến độ của bé.
-Để tránh, hãy tạo khoá riêng một lần:
+Android chỉ cho cài bản mới đè lên bản cũ khi hai bản được ký bằng **cùng một khoá**.
+Nếu khác khoá, bạn phải gỡ app cũ, tức là mất tiến độ của bé và các model đã tải.
+
+**Từ build-7, việc này tự động.** Lần build đầu tiên, GitHub tạo một khoá và cất trong
+bộ nhớ đệm Actions của repo (chỉ các workflow của repo này đọc được). Workflow
+`keep-signing-key.yml` chạm vào khoá mỗi tuần để GitHub không xoá nó. Vì vậy chỉ cần
+gỡ app **một lần** khi chuyển từ bản cũ (build-1 đến build-6) sang build-7. Sau đó, bản
+mới cài đè lên là giữ nguyên tiến độ.
+
+Bộ nhớ đệm vẫn có thể mất, ví dụ khi repo không hoạt động hơn 60 ngày và lịch hằng tuần
+bị GitHub tạm dừng. Để chắc chắn tuyệt đối, hãy dùng khoá riêng của bạn (làm một lần,
+trước khi bé học lâu dài). Khi có 4 secret dưới đây, GitHub dùng khoá này thay cho khoá
+trong bộ nhớ đệm, nên **lần chuyển sang khoá riêng cũng phải gỡ app một lần**:
 
 1. Cài Java 17 trên máy tính: <https://adoptium.net> (chọn **Temurin 17**, bấm Next đến hết).
 2. Mở **PowerShell** (Windows) và chạy, thay `MatKhauCuaBan` bằng mật khẩu bạn tự đặt:
@@ -204,7 +214,8 @@ mới đè lên bản cũ, Android sẽ từ chối và bạn phải gỡ app c�
 5. Chạy lại **Actions → Build APK → Run workflow**. Từ bản này trở đi, cài bản mới đè lên
    là giữ nguyên tiến độ.
 
-Nên làm việc này **trước khi bé bắt đầu học**.
+Trước khi gỡ app, có thể lưu tiến độ: **Khu phụ huynh → Sao lưu và khôi phục → Sao lưu ra thư mục Download**, rồi khôi
+phục sau khi cài lại.
 
 ## Phương án dự phòng: build trên máy tính Windows
 

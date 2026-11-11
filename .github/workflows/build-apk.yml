@@ -54,8 +54,19 @@ jobs:
           dart run tool/validate_curriculum.dart
           dart run tool/coverage_report.dart
 
-      # Release signing is optional. Without the four secrets the Gradle
-      # script falls back to the debug key, so an installable APK is still built.
+      # Every build must be signed with the same key, or Android refuses to
+      # install an update over the old app (and the child's progress is lost).
+      # Best: the four KEYSTORE_* secrets (README). Without them, the first
+      # build creates a key and keeps it in this repository's Actions cache,
+      # which only this repository's workflows can read; keep-signing-key.yml
+      # touches it weekly so it is not evicted.
+      - name: Restore CI signing key
+        id: cikey
+        uses: actions/cache/restore@v4
+        with:
+          path: ci-signing
+          key: ongbi-ci-signing-v1
+
       - name: Configure release signing
         env:
           KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
@@ -71,10 +82,38 @@ jobs:
               echo "keyAlias=$KEY_ALIAS"
               echo "keyPassword=$KEY_PASSWORD"
             } > android/key.properties
-            echo "Signing with the release keystore."
-          else
-            echo "No signing secrets found: the APK will be signed with the debug key."
+            echo "Signing with the keystore from the repository secrets."
+            exit 0
           fi
+          if [ ! -f ci-signing/release.jks ]; then
+            echo "No signing key yet: creating one and keeping it in the Actions cache."
+            mkdir -p ci-signing
+            openssl rand -hex 32 > ci-signing/password.txt
+            PASS=$(cat ci-signing/password.txt)
+            echo "::add-mask::$PASS"
+            keytool -genkeypair -keystore ci-signing/release.jks -storetype PKCS12 \
+              -storepass "$PASS" -keypass "$PASS" -alias ongbi -keyalg RSA -keysize 4096 \
+              -validity 36500 -dname "CN=Ong Bi English"
+            echo "created=true" >> "$GITHUB_OUTPUT"
+          fi
+          PASS=$(cat ci-signing/password.txt)
+          echo "::add-mask::$PASS"
+          {
+            echo "storeFile=../ci-signing/release.jks"
+            echo "storePassword=$PASS"
+            echo "keyAlias=ongbi"
+            echo "keyPassword=$PASS"
+          } > android/key.properties
+          echo "Signing with the CI key, certificate SHA-256:"
+          keytool -list -keystore ci-signing/release.jks -storepass "$PASS" -alias ongbi | grep -i "SHA-256" || true
+        id: signing
+
+      - name: Save CI signing key
+        if: steps.signing.outputs.created == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ci-signing
+          key: ongbi-ci-signing-v1
 
       # arm64 is the phone build; x86_64 is only for the emulator smoke test.
       - name: Build APK

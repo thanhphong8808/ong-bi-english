@@ -1,0 +1,33 @@
+# .github/workflows/keep-signing-key.yml
+# GitHub drops Actions cache entries that are not used for 7 days. The CI
+# signing key lives there (see build-apk.yml), so touch it once a week.
+name: Keep signing key
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  touch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Restore CI signing key
+        id: cikey
+        uses: actions/cache/restore@v4
+        with:
+          path: ci-signing
+          key: ongbi-ci-signing-v1
+          lookup-only: false
+
+      - name: Report
+        run: |
+          if [ "${{ steps.cikey.outputs.cache-hit }}" = "true" ]; then
+            echo "Signing key is present."
+          else
+            echo "::warning::No CI signing key in the cache. The next build creates a new one, so the app must be reinstalled once."
+          fi
