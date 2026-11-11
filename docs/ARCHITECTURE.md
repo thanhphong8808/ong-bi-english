@@ -42,6 +42,24 @@ UI (features/)  ──►  AppServices (core/providers.dart)
 | `ongbi/files` + `ongbi/files/progress` | `FilesBridge.kt` | Giải nén `.tar.bz2`, SHA-256, nhập model thủ công, lưu file vào Download (sao lưu, giấy khen), đọc file sao lưu |
 | `ongbi/llm` + `ongbi/llm/stream` | `LlmBridge.kt` | Nạp model, tạo hội thoại, trả lời dạng luồng, huỷ, giải phóng |
 | `ongbi/reminder` | `ReminderBridge.kt` + `ReminderReceiver.kt` | Thông báo nhắc giờ học (AlarmManager, đặt lại sau khi khởi động máy) |
+| `ongbi/crash` | `CrashReporter.kt` (+ `OngBiApplication.kt`) | Ghi lại lỗi Kotlin/Java, lỗi native, ANR, bị tắt vì hết RAM khi đang hiện (ApplicationExitInfo); hiện một lần ở lần mở sau và lưu vào Download/OngBiEnglish |
+| `ongbi/screen` | `MainActivity.kt` | Giữ màn hình sáng khi đang tải model |
+
+## Khi một engine native làm sập app
+
+Giọng đọc, nhận dạng giọng, nhận dạng chữ viết và Gemma chạy mã native. Một lỗi C++ ở đó
+(lệnh CPU không hỗ trợ, cấu hình sai) làm sập cả tiến trình, không bắt được bằng Dart.
+
+- `NativeGuard` (`lib/core/services/native_guard.dart`) ghi một file đánh dấu trước mỗi lần
+  gọi native và xoá khi xong. Nếu lần chạy trước kết thúc bằng `CRASH_NATIVE` mà file còn
+  đó, engine ấy bị tắt cho bản build này. App dùng phương án dự phòng: giọng của điện
+  thoại, tập nói không chấm điểm, chỉ tô chữ, Bi "ngủ trưa". Phụ huynh bật lại trong
+  **Kiểm tra hệ thống**; cài bản build mới thì danh sách được xoá.
+- Cấu hình sherpa-onnx của mọi giọng và của Whisper/VAD nằm ở một chỗ
+  (`speech_configs.dart`). CI chạy đúng cấu hình đó bằng sherpa-onnx cùng phiên bản trên
+  câu chữ thật của giáo trình trước khi phát hành (`tool/ci/tts_check.py`).
+- `sherpa_onnx_android` được ghim ở 1.12.29 (onnxruntime 1.17.1). onnxruntime 1.23 dùng
+  nhân SME2 trên CPU chỉ có SME (Snapdragon 8 Elite Gen 5) và chết vì SIGILL.
 
 ## Luồng một buổi học
 
@@ -59,7 +77,7 @@ UI (features/)  ──►  AppServices (core/providers.dart)
 5. `ProgressService.completeLesson` ghi kết quả từng bước vào Leitner, cộng sao, mở
    hình dán, chấm bài kiểm tra bằng `TestGrader` (không dùng LLM).
 
-## Giao thức SherpaWorker## Giao thức SherpaWorker
+## Giao thức SherpaWorker
 
 Thông điệp là `Map`. Lệnh có `id` sẽ nhận trả lời `{id, result}` hoặc `{id, error}`;
 sự kiện không có `id` đi vào `SherpaWorker.events`.

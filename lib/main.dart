@@ -67,6 +67,13 @@ Future<void> _start() async {
     return;
   }
 
+  // Study time counts only while the app is on screen. The listener
+  // registers itself with the binding and lives for the whole run.
+  AppLifecycleListener(
+    onPause: services.studyClock.pause,
+    onResume: services.studyClock.resume,
+  );
+
   // Privacy: purge the child's old recordings without delaying the first frame.
   unawaited(
     services.janitor.purge(retentionDays: settings.recordingRetentionDays).catchError((Object _) => 0),

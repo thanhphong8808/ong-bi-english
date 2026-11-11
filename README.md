@@ -274,4 +274,15 @@ của bé".
 - Kiểm tra giáo trình: `dart run tool/validate_curriculum.dart` (nội dung gốc nằm ở
   `tool/content_src/L0.txt`–`L5.txt`, dựng lại JSON bằng `python3 tool/build_curriculum.py`).
 - Chạy test: `flutter test` (có bộ test an toàn cho Bi, Leitner, chấm phát âm, chấm tô
-  chữ, LessonComposer chạy qua toàn bộ 80 unit, chấm bài thi, tài nguyên đóng gói).
+  chữ, LessonComposer chạy qua toàn bộ 80 unit, chấm bài thi, tài nguyên đóng gói, cấu hình
+  giọng đọc, bộ bảo vệ khi engine native bị lỗi).
+- Mỗi lần build, GitHub Actions còn tự kiểm tra:
+  - **Thư viện native:** onnxruntime không được chứa mã SME/KleidiAI (gây SIGILL trên
+    Snapdragon 8 Elite Gen 5), và mọi file `.so` phải căn trang 16 KB.
+  - **Giọng đọc và nhận dạng giọng:** chạy mọi giọng (Piper tiếng Việt, 4 giọng Kokoro Mỹ/Anh,
+    Piper dự phòng) và Whisper + VAD bằng đúng cấu hình và phiên bản sherpa-onnx của app,
+    trên câu chữ thật của giáo trình. Bản build chỉ được phát hành khi bước này đạt
+    (`tool/dump_speech_configs.dart` + `tool/ci/tts_check.py`).
+  - **Chạy thử trên máy ảo Android:** cài app, bấm "Tải tất cả", giải câu hỏi phụ huynh,
+    vào học, mở bài, Tập viết, Nói chuyện với Bi; kiểm tra app không sập và giọng đọc có
+    tạo ra âm thanh (`tool/ci/smoke_test.sh`).

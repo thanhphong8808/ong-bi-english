@@ -189,6 +189,12 @@ class S {
   static const sleepSpoken = 'Hôm nay mình học đủ rồi. Bi đi ngủ đây. Hẹn gặp cậu ngày mai nhé!';
   static const sleepTitle = 'Bi đi ngủ rồi';
   static const sleepBody = 'Hẹn gặp lại ngày mai nhé!';
+  static String sleepParentLimit(int studied, int limit) =>
+      'Dành cho bố mẹ: hôm nay bé đã học $studied phút, giới hạn là $limit phút mỗi ngày. '
+      'Đổi trong Khu phụ huynh (nút bánh răng ở màn hình chính) → Cài đặt học → Giới hạn mỗi ngày.';
+  static String sleepParentHours(int start, int end) =>
+      'Dành cho bố mẹ: khung giờ học đang là $start:00 – $end:00. '
+      'Đổi trong Khu phụ huynh (nút bánh răng ở màn hình chính) → Cài đặt học → Khung giờ được học.';
   static const outsideHoursSpoken = 'Bây giờ chưa đến giờ học. Lát nữa mình gặp nhau nhé!';
   static const writeMenuSpoken = 'Cậu muốn tô chữ nào? Chạm vào chữ đó nhé!';
   static const exitLesson = 'Nghỉ học';

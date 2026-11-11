@@ -55,7 +55,8 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
   /// Spoken once when the activity opens (and by the replay button).
   String get instructionVi;
 
-  AppServices get services => ref.read(appServicesProvider);
+  /// Read once in initState: Riverpod forbids `ref` in dispose().
+  late final AppServices services;
 
   Curriculum get curriculum => services.curriculum;
 
@@ -70,6 +71,7 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
   @override
   void initState() {
     super.initState();
+    services = ref.read(appServicesProvider);
     WidgetsBinding.instance.addPostFrameCallback((_) => _open());
   }
 

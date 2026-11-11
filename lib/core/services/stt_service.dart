@@ -1,13 +1,14 @@
 // lib/core/services/stt_service.dart
 import 'dart:async';
 
-import 'package:path/path.dart' as p;
 import 'package:record/record.dart';
 
 import '../config/app_config.dart';
 import 'device_profile.dart';
 import 'model_catalog.dart';
+import 'native_guard.dart';
 import 'sherpa_worker.dart';
+import 'speech_configs.dart';
 
 class SttResult {
   const SttResult({
@@ -60,20 +61,7 @@ class SttService {
       return;
     }
     final whisper = ModelCatalog.whisperFor(profile);
-    final dir = p.join(modelsRoot, whisper.id);
-    await worker.call('stt.init', {
-      'encoder': p.join(dir, whisper.requiredFiles[0]),
-      'decoder': p.join(dir, whisper.requiredFiles[1]),
-      'tokens': p.join(dir, whisper.requiredFiles[2]),
-      'threads': profile.sttThreads,
-      'vadModel': p.join(modelsRoot, ModelCatalog.vad.id, ModelCatalog.vad.fileName),
-      'vadThreshold': AppConfig.vadThreshold,
-      'vadMinSilence': AppConfig.vadMinSilenceSeconds,
-      'vadMinSpeech': AppConfig.vadMinSpeechSeconds,
-      'vadMaxSpeech': AppConfig.vadMaxSpeechSeconds,
-      'vadWindow': AppConfig.vadWindowSize,
-      'sampleRate': AppConfig.sttSampleRate,
-    });
+    await worker.call('stt.init', SttConfigs.init(modelsRoot, whisper, profile.sttThreads));
     _ready = true;
   }
 
@@ -96,6 +84,9 @@ class SttService {
       throw const SttException('mic_permission');
     }
     _listening = true;
+    // VAD and Whisper run inside the worker's audio messages, not only its
+    // calls, so the whole listening turn is marked busy for the crash guard.
+    worker.guard.begin(NativeGuard.stt);
 
     final done = Completer<SttResult>();
     DateTime? lastAudioAt;
@@ -165,6 +156,7 @@ class SttService {
       }
       await eventSub?.cancel();
       _listening = false;
+      worker.guard.end(NativeGuard.stt);
     }
   }
 

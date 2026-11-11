@@ -5,8 +5,8 @@ import 'dart:io';
 import 'package:path/path.dart' as p;
 
 import 'english_voice.dart';
-import 'model_catalog.dart';
 import 'native_guard.dart';
+import 'speech_configs.dart';
 import 'sherpa_worker.dart';
 
 class TtsUnavailableException implements Exception {
@@ -36,11 +36,9 @@ class TtsEnService {
   String? _loadedMode;
   Future<void> _queue = Future<void>.value();
 
-  String get _kokoroDir =>
-      p.join(modelsRoot, ModelCatalog.kokoro.id, 'kokoro-multi-lang-v1_0');
+  String get _kokoroDir => TtsConfigs.kokoroDir(modelsRoot);
 
-  String get _piperDir =>
-      p.join(modelsRoot, ModelCatalog.piperEn.id, 'vits-piper-en_US-amy-low');
+  String get _piperDir => TtsConfigs.piperEnDir(modelsRoot);
 
   // A voice engine switched off by the crash guard counts as not installed:
   // the phone's own English voice is used instead.
@@ -81,18 +79,9 @@ class TtsEnService {
       // happens rarely.
       final mode = voice.british ? 'kokoro-gb' : 'kokoro-us';
       if (_loadedMode != mode) {
-        final lexicon = voice.british ? 'lexicon-gb-en.txt' : 'lexicon-us-en.txt';
         await worker.call('tts.init', {
           'engine': _engineId,
-          'kind': 'kokoro',
-          'model': p.join(_kokoroDir, 'model.onnx'),
-          'voices': p.join(_kokoroDir, 'voices.bin'),
-          'tokens': p.join(_kokoroDir, 'tokens.txt'),
-          'dataDir': p.join(_kokoroDir, 'espeak-ng-data'),
-          'dictDir': p.join(_kokoroDir, 'dict'),
-          'lexicon': '${p.join(_kokoroDir, lexicon)},${p.join(_kokoroDir, 'lexicon-zh.txt')}',
-          'lang': voice.british ? 'en-gb' : 'en-us',
-          'threads': threads,
+          ...TtsConfigs.kokoro(modelsRoot, voice, threads),
         });
         _loadedMode = mode;
       }
@@ -102,11 +91,7 @@ class TtsEnService {
       if (_loadedMode != 'piper') {
         await worker.call('tts.init', {
           'engine': _engineId,
-          'kind': 'vits',
-          'model': p.join(_piperDir, 'en_US-amy-low.onnx'),
-          'tokens': p.join(_piperDir, 'tokens.txt'),
-          'dataDir': p.join(_piperDir, 'espeak-ng-data'),
-          'threads': threads,
+          ...TtsConfigs.piperEn(modelsRoot, threads),
         });
         _loadedMode = 'piper';
       }

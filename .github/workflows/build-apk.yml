@@ -172,15 +172,65 @@ jobs:
           retention-days: 3
           if-no-files-found: error
 
-      # A commit marked [no release] is built and tested but not published.
+  # Runs every built-in voice and the speech recogniser with the app's exact
+  # sherpa-onnx settings and version. In the app a sherpa-onnx C++ exception
+  # aborts the process (a British voice once did), so this gates the release.
+  speech:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Flutter (stable)
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Dump the app's speech settings
+        run: |
+          flutter pub get
+          dart run tool/dump_speech_configs.dart > speech.json
+          head -c 1500 speech.json
+
+      - name: Cache model packs
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ongbi-models
+          key: ongbi-speech-models-${{ hashFiles('lib/core/services/model_catalog.dart') }}
+
+      - name: Install sherpa-onnx (same version as the app)
+        run: |
+          V=$(grep -E '^\s+sherpa_onnx_android:' pubspec.yaml | awk '{print $2}')
+          echo "sherpa-onnx $V"
+          python3 -m pip install --quiet "sherpa-onnx==$V"
+
+      - name: Synthesise and recognise
+        run: python3 -u tool/ci/tts_check.py speech.json
+
+  # Publishes the APK only when it built, its tests passed and every voice
+  # works. A commit marked [no release] is built and tested only.
+  release:
+    needs: [build, speech]
+    if: ${{ !contains(github.event.head_commit.message, '[no release]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download APK
+        uses: actions/download-artifact@v4
+        with:
+          name: OngBiEnglish-arm64-v8a
+          path: out
+
       - name: Publish release
-        if: ${{ !contains(github.event.head_commit.message, '[no release]') }}
         uses: softprops/action-gh-release@v2
         with:
           tag_name: build-${{ github.run_number }}
           name: Ong Bi English - build ${{ github.run_number }}
           body: |
             Bản build tự động. Tải file `OngBiEnglish-arm64-v8a.apk` bên dưới về điện thoại để cài.
+            Cài đè lên bản cũ được (cùng khoá ký), tiến độ của bé được giữ nguyên.
           files: out/OngBiEnglish-arm64-v8a.apk
 
   # Installs the app on an Android emulator, downloads the required model

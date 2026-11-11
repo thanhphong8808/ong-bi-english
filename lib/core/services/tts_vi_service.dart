@@ -5,8 +5,8 @@ import 'dart:io';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:path/path.dart' as p;
 
-import 'model_catalog.dart';
 import 'native_guard.dart';
+import 'speech_configs.dart';
 import 'sherpa_worker.dart';
 
 /// Vietnamese speech: Piper vi_VN through sherpa-onnx, with the Android
@@ -29,8 +29,7 @@ class TtsViService {
   FlutterTts? _system;
   Future<void> _queue = Future<void>.value();
 
-  String get _dir =>
-      p.join(modelsRoot, ModelCatalog.piperVi.id, 'vits-piper-vi_VN-vais1000-medium');
+  String get _dir => TtsConfigs.piperViDir(modelsRoot);
 
   Future<bool> get piperAvailable async =>
       !worker.guard.isDisabled(NativeGuard.tts) &&
@@ -62,11 +61,7 @@ class TtsViService {
       if (!_loaded) {
         await worker.call('tts.init', {
           'engine': _engineId,
-          'kind': 'vits',
-          'model': p.join(_dir, 'vi_VN-vais1000-medium.onnx'),
-          'tokens': p.join(_dir, 'tokens.txt'),
-          'dataDir': p.join(_dir, 'espeak-ng-data'),
-          'threads': threads,
+          ...TtsConfigs.piperVi(modelsRoot, threads),
         });
         _loaded = true;
       }
