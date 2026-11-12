@@ -17,6 +17,7 @@ import '../../core/providers.dart';
 import '../../core/services/study_clock.dart';
 import '../../curriculum/lesson_composer.dart';
 import '../../curriculum/lesson_plan.dart';
+import '../../curriculum/lesson_stages.dart';
 import '../../curriculum/scorers/test_grader.dart';
 import '../../curriculum/test_builder.dart';
 import '../../l10n/strings_vi.dart';
@@ -59,6 +60,12 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
   int _index = -1;
   int _stars = 0;
   bool _finishing = false;
+
+  /// End index of each short stage; one entry when the lesson has no stages.
+  List<int> _ends = const [];
+
+  /// Index of the next step while the stage checkpoint is shown.
+  int? _checkpointNext;
   final List<QuestionOutcome> _outcomes = [];
   final List<String> _introduced = [];
 
@@ -111,6 +118,7 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
     setState(() {
       _profile = profile;
       _plan = plan;
+      _ends = widget.request.mode == LessonMode.daily ? stageEnds(plan) : [plan.steps.length];
     });
 
     final voice = settings.voice;
@@ -194,9 +202,61 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
     final stopEarly = !plan.isTest && widget.request.mode == LessonMode.daily && (overtime || locked);
     if (next >= plan.steps.length || stopEarly) {
       await _finish();
+    } else if (_ends.length > 1 && _ends.contains(next)) {
+      await _reachCheckpoint(next);
     } else if (mounted) {
       setState(() => _index = next);
     }
+  }
+
+  /// End of a stage: a small reward and the choice to go on or rest.
+  Future<void> _reachCheckpoint(int next) async {
+    if (!mounted) {
+      return;
+    }
+    _stars += AppConfig.starsPerStage;
+    final done = stageOf(_ends, next - 1) + 1;
+    setState(() => _checkpointNext = next);
+    await _services.speech.sayVi(S.stageDoneSpoken(done)).catchError((Object _) {});
+  }
+
+  void _continueAfterCheckpoint() {
+    final next = _checkpointNext;
+    if (next == null) {
+      return;
+    }
+    unawaited(_services.speech.stop());
+    setState(() {
+      _checkpointNext = null;
+      _index = next;
+    });
+  }
+
+  /// Keeps what the child did in an unfinished lesson: the new words seen
+  /// (so they are not taught again from zero) and the stars earned.
+  Future<void> _savePartial() async {
+    final plan = _plan;
+    final profile = _profile;
+    if (plan == null || profile == null || _finishing || plan.isTest) {
+      return;
+    }
+    _finishing = true;
+    final container = ProviderScope.containerOf(context, listen: false);
+    if (widget.request.mode == LessonMode.daily && _introduced.isNotEmpty) {
+      await _services.progress.markIntroduced(profile.id, _introduced).catchError((Object _) {});
+    }
+    if (_stars > 0) {
+      await _services.db.profileRepo.addStars(profile.id, _stars).catchError((Object _) {});
+    }
+    container.invalidate(activeProfileProvider);
+  }
+
+  Future<void> _restAfterCheckpoint() async {
+    final router = GoRouter.of(context);
+    await _services.speech.stop();
+    await _savePartial();
+    unawaited(_services.speech.sayVi(S.stageRestSpoken).catchError((Object _) {}));
+    router.go(AppRoutes.home);
   }
 
   Future<void> _finish() async {
@@ -307,10 +367,12 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
       ),
     );
     if (leave == true && mounted) {
+      final router = GoRouter.of(context);
       await services.speech.stop();
       if (mounted) {
-        context.go(AppRoutes.home);
+        await _savePartial();
       }
+      router.go(AppRoutes.home);
     }
   }
 
@@ -343,16 +405,9 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
                     ),
                     const SizedBox(width: 12),
                     Expanded(
-                      child: ClipRRect(
-                        borderRadius: BorderRadius.circular(12),
-                        child: LinearProgressIndicator(
-                          minHeight: 18,
-                          value: plan == null || plan.steps.isEmpty || _index < 0
-                              ? 0
-                              : (_index / plan.steps.length).clamp(0.0, 1.0).toDouble(),
-                          color: AppColors.honeyDeep,
-                          backgroundColor: AppColors.white,
-                        ),
+                      child: _StageBar(
+                        ends: plan == null || plan.steps.isEmpty ? const [1] : _ends,
+                        done: plan == null || _index < 0 ? 0 : (_checkpointNext ?? _index),
                       ),
                     ),
                     const SizedBox(width: 12),
@@ -401,7 +456,16 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
                             ],
                           ),
                         )
-                      : _index >= plan.steps.length
+                      : _checkpointNext != null
+                          ? _StageCheckpoint(
+                              done: stageOf(_ends, _checkpointNext! - 1) + 1,
+                              total: _ends.length,
+                              stars: _stars,
+                              level: level,
+                              onContinue: _continueAfterCheckpoint,
+                              onRest: _restAfterCheckpoint,
+                            )
+                          : _index >= plan.steps.length
                           ? const Center(child: BiMascot(mood: BiMood.cheering, size: 220))
                           : buildActivity(
                               plan.steps[_index],
@@ -413,6 +477,101 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
               ],
             ),
           ),
+        ),
+      ),
+    );
+  }
+}
+
+/// Progress bar cut into the lesson's stages ("chặng").
+class _StageBar extends StatelessWidget {
+  const _StageBar({required this.ends, required this.done});
+
+  final List<int> ends;
+
+  /// Steps finished so far.
+  final int done;
+
+  @override
+  Widget build(BuildContext context) {
+    final children = <Widget>[];
+    var start = 0;
+    for (var s = 0; s < ends.length; s++) {
+      final length = ends[s] - start;
+      final value = length <= 0 ? 0.0 : ((done - start) / length).clamp(0.0, 1.0).toDouble();
+      if (s > 0) {
+        children.add(const SizedBox(width: 6));
+      }
+      children.add(Expanded(
+        flex: length <= 0 ? 1 : length,
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(12),
+          child: LinearProgressIndicator(
+            minHeight: 18,
+            value: value,
+            color: AppColors.honeyDeep,
+            backgroundColor: AppColors.white,
+          ),
+        ),
+      ));
+      start = ends[s];
+    }
+    return Row(children: children);
+  }
+}
+
+/// Between two stages: Bi cheers, then "Học tiếp" or "Nghỉ đã".
+class _StageCheckpoint extends StatelessWidget {
+  const _StageCheckpoint({
+    required this.done,
+    required this.total,
+    required this.stars,
+    required this.level,
+    required this.onContinue,
+    required this.onRest,
+  });
+
+  final int done;
+  final int total;
+  final int stars;
+  final int level;
+  final VoidCallback onContinue;
+  final VoidCallback onRest;
+
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: SingleChildScrollView(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            BiMascot(mood: BiMood.cheering, size: 200, level: level),
+            const SizedBox(height: 12),
+            Text(
+              S.stageDoneTitle(done, total),
+              textAlign: TextAlign.center,
+              style: const TextStyle(fontSize: 30, fontWeight: FontWeight.w900),
+            ),
+            const SizedBox(height: 8),
+            Text(
+              '⭐ $stars',
+              style: const TextStyle(fontFamily: AppTheme.emojiFont, fontSize: 34),
+            ),
+            const SizedBox(height: 28),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                KidIconButton(icon: Icons.home_rounded, size: 96, label: S.stageRest, onPressed: onRest),
+                KidIconButton(
+                  icon: Icons.play_arrow_rounded,
+                  size: 112,
+                  color: AppColors.leaf,
+                  label: S.stageContinue,
+                  onPressed: onContinue,
+                ),
+              ],
+            ),
+          ],
         ),
       ),
     );

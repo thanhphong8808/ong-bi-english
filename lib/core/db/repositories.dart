@@ -359,6 +359,7 @@ class ProfileRepo extends _Repo {
     'recordings',
     'chat_logs',
     'rewards',
+    'speech_turns',
   ];
 
   Future<List<Profile>> all() async {
@@ -433,6 +434,24 @@ class ProfileRepo extends _Repo {
 }
 
 class ProgressRepo extends _Repo {
+  /// Distinct items the child has met.
+  Future<int> wordsSeen(int profileId) async {
+    final row = await db.customSelect(
+      'SELECT COUNT(DISTINCT item_id) AS n FROM item_progress WHERE profile_id = ?',
+      variables: [_i(profileId)],
+    ).getSingle();
+    return _int(row, 'n');
+  }
+
+  /// Spoken answers scored at least [minScore].
+  Future<int> goodSays(int profileId, double minScore) async {
+    final row = await db.customSelect(
+      "SELECT COUNT(*) AS n FROM attempts WHERE profile_id = ? AND skill = 'speak' AND score >= ?",
+      variables: [_i(profileId), _d(minScore)],
+    ).getSingle();
+    return _int(row, 'n');
+  }
+
   const ProgressRepo(super.db);
 
   Future<List<ItemProgressRow>> all(int profileId) async {
@@ -569,6 +588,24 @@ class StudyRepo extends _Repo implements StudyStore {
       'UPDATE study_days SET seconds = seconds + ? WHERE profile_id = ? AND day = ?',
       variables: [_i(seconds), _i(profileId), _s(dayKey(when))],
     );
+  }
+
+  /// Days that count for the honeycomb: a finished lesson, or at least
+  /// [AppConfig.studyDayMinSeconds] of study (a stage counts too).
+  Future<List<String>> activeDays(int profileId) async {
+    final rows = await db.customSelect(
+      'SELECT day FROM study_days WHERE profile_id = ? AND (lessons_done > 0 OR seconds >= ?) ORDER BY day',
+      variables: [_i(profileId), _i(AppConfig.studyDayMinSeconds)],
+    ).get();
+    return [for (final row in rows) _str(row, 'day')];
+  }
+
+  Future<int> totalLessons(int profileId) async {
+    final row = await db.customSelect(
+      'SELECT COALESCE(SUM(lessons_done), 0) AS n FROM study_days WHERE profile_id = ?',
+      variables: [_i(profileId)],
+    ).getSingle();
+    return _int(row, 'n');
   }
 
   @override
@@ -724,6 +761,15 @@ class MediaRepo extends _Repo {
 }
 
 class ChatLogRepo extends _Repo {
+  /// Conversations in which the child said something.
+  Future<int> childSessions(int profileId) async {
+    final row = await db.customSelect(
+      "SELECT COUNT(DISTINCT session_id) AS n FROM chat_logs WHERE profile_id = ? AND role = 'kid'",
+      variables: [_i(profileId)],
+    ).getSingle();
+    return _int(row, 'n');
+  }
+
   const ChatLogRepo(super.db);
 
   Future<int> add({
@@ -808,6 +854,126 @@ class ModelRepo extends _Repo {
 
   Future<void> remove(String packId) async {
     await db.customUpdate('DELETE FROM model_installs WHERE pack_id = ?', variables: [_s(packId)]);
+  }
+}
+
+/// A word a parent added (for example from the child's school book).
+class ParentWord {
+  const ParentWord({required this.id, required this.en, required this.vi, this.emoji = '', this.exampleEn = ''});
+
+  final int id;
+  final String en;
+  final String vi;
+  final String emoji;
+  final String exampleEn;
+
+  /// Item id used in lessons and progress.
+  String get itemId => 'P-$id';
+}
+
+class ParentWordRepo extends _Repo {
+  const ParentWordRepo(super.db);
+
+  Future<List<ParentWord>> all() async {
+    final rows = await db.customSelect(
+      'SELECT id, en, vi, emoji, example_en FROM custom_words ORDER BY id',
+    ).get();
+    return [
+      for (final row in rows)
+        ParentWord(
+          id: _int(row, 'id'),
+          en: _str(row, 'en'),
+          vi: _str(row, 'vi'),
+          emoji: _str(row, 'emoji'),
+          exampleEn: _str(row, 'example_en'),
+        ),
+    ];
+  }
+
+  Future<void> add({required String en, required String vi, String emoji = '', String exampleEn = ''}) async {
+    await db.customInsert(
+      'INSERT INTO custom_words (en, vi, emoji, example_en, created_at) VALUES (?, ?, ?, ?, ?)',
+      variables: [_s(en), _s(vi), _s(emoji), _s(exampleEn), _i(_ms(DateTime.now()))],
+    );
+  }
+
+  Future<void> delete(int id) async {
+    await db.customUpdate('DELETE FROM custom_words WHERE id = ?', variables: [_i(id)]);
+  }
+}
+
+/// One spoken answer, kept for the parent's skill map.
+///
+/// `lesson` turns carry the pronunciation [score] (0..1) of a word or
+/// sentence; `talk` turns carry how quickly the child answered Bi
+/// ([responseMs], from Bi falling silent to the child's first sound) and how
+/// many English [words] the answer had. -1 means "not measured".
+class SpeechTurn {
+  const SpeechTurn({
+    required this.source,
+    required this.at,
+    this.itemId = '',
+    this.score = -1,
+    this.responseMs = -1,
+    this.speechMs = 0,
+    this.words = 0,
+    this.latencyMs = -1,
+  });
+
+  static const String lesson = 'lesson';
+  static const String talk = 'talk';
+
+  final String source;
+  final DateTime at;
+  final String itemId;
+  final double score;
+  final int responseMs;
+  final int speechMs;
+  final int words;
+
+  /// From the child's last sound to the result (see SttResult.scoreLatencyMs).
+  final int latencyMs;
+}
+
+class SpeechTurnRepo extends _Repo {
+  const SpeechTurnRepo(super.db);
+
+  Future<void> add(int profileId, SpeechTurn turn) async {
+    await db.customInsert(
+      'INSERT INTO speech_turns (profile_id, source, item_id, score, response_ms, speech_ms, words, latency_ms, at) '
+      'VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
+      variables: [
+        _i(profileId),
+        _s(turn.source),
+        _s(turn.itemId),
+        _d(turn.score),
+        _i(turn.responseMs),
+        _i(turn.speechMs),
+        _i(turn.words),
+        _i(turn.latencyMs),
+        _i(_ms(turn.at)),
+      ],
+    );
+  }
+
+  Future<List<SpeechTurn>> since(int profileId, DateTime since) async {
+    final rows = await db.customSelect(
+      'SELECT * FROM speech_turns WHERE profile_id = ? AND at >= ? ORDER BY at',
+      variables: [_i(profileId), _i(_ms(since))],
+    ).get();
+    return [
+      for (final row in rows)
+        SpeechTurn(
+          source: _str(row, 'source'),
+          at: _time(_int(row, 'at')),
+          itemId: _str(row, 'item_id'),
+          score: _dbl(row, 'score'),
+          responseMs: _int(row, 'response_ms'),
+          speechMs: _int(row, 'speech_ms'),
+          words: _int(row, 'words'),
+          latencyMs: _int(row, 'latency_ms'),
+        ),
+    ];
   }
 }
 

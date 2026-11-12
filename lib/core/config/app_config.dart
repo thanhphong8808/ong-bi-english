@@ -76,6 +76,15 @@ class AppConfig {
   static const double vadMinSilenceSeconds = 0.8;
   static const double vadMinSpeechSeconds = 0.15;
   static const double vadMaxSpeechSeconds = 15.0;
+
+  /// From the child's last sound to the stars on screen (voice detector
+  /// silence + Whisper). Above this, children start talking again or think
+  /// the app did not hear them.
+  static const int scoreLatencyTargetMs = 1500;
+
+  /// Talk-with-Bi answers slower than this are left out of the reaction-time
+  /// statistic (the child was doing something else).
+  static const int maxResponseMs = 60000;
   static const int vadWindowSize = 512;
   static const int listenTimeoutSeconds = 8;
   static const int listenTimeoutSentenceSeconds = 14;
@@ -114,6 +123,26 @@ class AppConfig {
 
   // ---- Rewards ------------------------------------------------------------------
   static const int starsPerActivity = 1;
+
+  /// Daily lessons come in short stages (about 4 minutes each); after each
+  /// stage the child may stop without losing anything.
+  static const int lessonStages = 3;
+  static const int minStepsForStages = 6;
+  static const int minStepsPerStage = 2;
+  static const int lessonStageSnap = 2;
+
+  /// Stars for finishing a stage (on top of the stars per activity).
+  static const int starsPerStage = 1;
+
+  /// A day counts in the honeycomb after a finished lesson or this much study.
+  static const int studyDayMinSeconds = 180;
+
+  /// A spoken answer scored at least this counts for the "nói thật hay" badges.
+  static const double goodSayScore = 0.9;
+
+  /// New words from the parents' list taught per lesson, and the list size.
+  static const int parentWordsPerLesson = 2;
+  static const int parentWordsMax = 300;
   static const int starsLessonBonus = 3;
 
   // ---- Talk with Bi (LLM) ---------------------------------------------------------

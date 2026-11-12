@@ -81,7 +81,8 @@ Sticker nextSticker(Set<String> owned) {
       return sticker;
     }
   }
-  return stickers[owned.length % stickers.length];
+  final count = owned.where((id) => !id.startsWith('badge:')).length;
+  return stickers[count % stickers.length];
 }
 
 Sticker? stickerById(String id) {

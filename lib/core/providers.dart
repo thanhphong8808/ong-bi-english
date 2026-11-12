@@ -14,6 +14,7 @@ import 'db/app_database.dart';
 import 'db/repositories.dart';
 import 'services/audio_cache.dart';
 import 'services/backup_service.dart';
+import 'services/badge_service.dart';
 import 'services/content_filter.dart';
 import 'services/device_profile.dart';
 import 'services/ink_service.dart';
@@ -132,6 +133,9 @@ class AppServices {
   /// Native engines switched off after a crash (see NativeGuard).
   final NativeGuard guard;
 
+  /// Honeycomb streak and milestone badges.
+  late final BadgeService badges = BadgeService(db);
+
   /// Engines switched off at this start, for the parent notice.
   final Set<String> switchedOffNow;
 
@@ -200,8 +204,30 @@ class AppServices {
       switchedOffNow: switchedOff,
     );
     await services.refreshCapabilities();
+    await services.reloadParentWords();
     return services;
   }
+
+  /// Loads the parents' word list into the curriculum (after any change).
+  Future<void> reloadParentWords() async {
+    final words = await db.parentWordRepo.all();
+    curriculum.setParentItems([for (final w in words) parentItem(w)]);
+  }
+
+  /// A parent word as a curriculum item.
+  static Item parentItem(ParentWord w) => Item(
+        id: w.itemId,
+        unitId: Curriculum.parentUnitId,
+        level: 0,
+        type: w.en.trim().contains(' ') ? ItemType.phrase : ItemType.word,
+        en: w.en.trim(),
+        vi: w.vi.trim(),
+        image: ItemImage.fromEmoji(w.emoji),
+        exampleEn: w.exampleEn.trim(),
+        exampleVi: '',
+        skills: const ['listen', 'speak', 'read', 'write'],
+        picturable: w.emoji.trim().isNotEmpty,
+      );
 
   /// Re-checks installed models (after setup, downloads or deletions).
   Future<void> refreshCapabilities() async {

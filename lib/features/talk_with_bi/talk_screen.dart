@@ -15,6 +15,7 @@ import '../../core/providers.dart';
 import '../../core/services/stt_service.dart';
 import '../../curriculum/basic_words.dart';
 import '../../curriculum/lesson_composer.dart';
+import '../../curriculum/skill_map.dart';
 import '../../l10n/strings_vi.dart';
 import '../../widgets/bi_mascot.dart';
 import '../../widgets/item_picture.dart';
@@ -51,6 +52,9 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
   List<BiHint> _hints = const [];
   bool _busy = false;
   double _level = 0;
+
+  /// When Bi last fell silent, for the reaction-time statistic.
+  DateTime? _biDoneAt;
   Timer? _limit;
   final String _sessionId = DateTime.now().millisecondsSinceEpoch.toString();
   final ScrollController _scroll = ScrollController();
@@ -112,12 +116,22 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     for (final item in unitWords) {
       known.addAll(wordTokens(item.en));
     }
+    // Words parents added (school book) that the child has met: Bi knows
+    // them and likes to use them, so home and school practice meet.
+    final parentWords = [
+      for (final item in curriculum.parentItems)
+        if (snapshot.introduced(item.id)) item,
+    ];
+    for (final item in parentWords) {
+      known.addAll(wordTokens(item.en));
+      _itemIdByWord[item.en.toLowerCase()] = item.id;
+    }
     _vocabulary = {..._itemIdByWord.keys};
     final biContext = BiContext(
       level: profile.level,
       childName: profile.name,
       knownWords: known,
-      learningWords: [for (final i in unitWords) i.en],
+      learningWords: [for (final i in unitWords) i.en, for (final i in parentWords.reversed.take(6)) i.en],
       topicEn: unit?.topicEn ?? 'animals',
       topicWords: topicWords.isNotEmpty ? topicWords : [for (final i in unitWords.take(6)) i.en],
       mode: mode,
@@ -160,6 +174,7 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     final minutes = profile.level <= 1 ? AppConfig.biSessionMinutesLow : AppConfig.biSessionMinutesHigh;
     _limit = Timer(Duration(minutes: minutes), _timeUp);
     await _play(_brain!.opener());
+    _biDoneAt = DateTime.now();
   }
 
   Future<void> _play(Iterable<BiEvent> events) async {
@@ -240,6 +255,9 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     await _services.speech.stop();
     var text = '';
     var speechMs = 0;
+    var latencyMs = -1;
+    DateTime? speechAt;
+    final biDoneAt = _biDoneAt;
     try {
       await _services.stt.ensureReady(_services.profile);
       final result = await _services.stt.listenOnce(
@@ -249,9 +267,11 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
             setState(() => _level = level);
           }
         },
+        onSpeechStart: () => speechAt ??= DateTime.now(),
       );
       text = result.text;
       speechMs = result.speechMs;
+      latencyMs = result.timedOut ? -1 : result.scoreLatencyMs;
     } on SttException catch (e) {
       if (e.code == 'mic_permission') {
         await _services.speech.sayVi(S.insMicDenied).catchError((Object _) {});
@@ -272,6 +292,20 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
       unawaited(_services.db.chatLogRepo
           .add(profileId: profile.id, sessionId: _sessionId, role: 'kid', content: text)
           .catchError((Object _) => 0));
+      final reaction = speechAt != null && biDoneAt != null ? speechAt!.difference(biDoneAt).inMilliseconds : -1;
+      unawaited(_services.db.speechTurnRepo
+          .add(
+            profile.id,
+            SpeechTurn(
+              source: SpeechTurn.talk,
+              at: DateTime.now(),
+              responseMs: reaction >= 0 && reaction <= AppConfig.maxResponseMs ? reaction : -1,
+              speechMs: speechMs,
+              words: englishWordCount(text),
+              latencyMs: latencyMs,
+            ),
+          )
+          .catchError((Object _) {}));
       // Words used in conversation count as speaking practice.
       for (final word in BiBrain.usedWords(text, _vocabulary)) {
         final id = _itemIdByWord[word.toLowerCase()];
@@ -292,6 +326,7 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     } catch (_) {
       await _services.speech.sayVi(S.talkErrorSpoken).catchError((Object _) {});
     }
+    _biDoneAt = DateTime.now();
     if (mounted) {
       setState(() {
         _busy = false;

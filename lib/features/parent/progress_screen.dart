@@ -12,6 +12,7 @@ import '../../core/providers.dart';
 import '../../curriculum/lesson_composer.dart';
 import '../../curriculum/models.dart';
 import '../../curriculum/progress_snapshot.dart';
+import '../../curriculum/skill_map.dart';
 import '../../l10n/strings_vi.dart';
 import '../tests/certificate.dart';
 
@@ -27,6 +28,7 @@ class _ProgressData {
     required this.mistakes,
     required this.tests,
     required this.canDo,
+    required this.skillMap,
   });
 
   final Profile profile;
@@ -41,6 +43,7 @@ class _ProgressData {
   final List<ItemProgressRow> mistakes;
   final List<TestResult> tests;
   final List<String> canDo;
+  final SkillMap skillMap;
 }
 
 final _progressProvider = FutureProvider.autoDispose<_ProgressData>((ref) async {
@@ -81,6 +84,11 @@ final _progressProvider = FutureProvider.autoDispose<_ProgressData>((ref) async 
     mistakes: mistakes.take(12).toList(),
     tests: await services.db.testRepo.forProfile(profile.id),
     canDo: [for (final u in passedUnits.reversed.take(6)) ...u.canDoVi],
+    skillMap: SkillMap.build(
+      rows: snapshot.allRows,
+      turns: await services.db.speechTurnRepo.since(profile.id, now.subtract(const Duration(days: 28))),
+      now: now,
+    ),
   );
 });
 
@@ -140,6 +148,8 @@ class ProgressScreen extends ConsumerWidget {
                   ),
                 ),
                 const SizedBox(height: 12),
+                _SkillMapSection(map: d.skillMap, curriculum: curriculum),
+                const SizedBox(height: 16),
                 Text(S.skillsWeekly, style: title),
                 const SizedBox(height: 8),
                 SizedBox(height: 180, child: _SkillChart(weekly: d.weekly)),
@@ -330,6 +340,155 @@ class _MinutesChart extends StatelessWidget {
           ],
         );
       },
+    );
+  }
+}
+
+/// Memory strength per skill, pronunciation trend, conversation confidence.
+class _SkillMapSection extends StatelessWidget {
+  const _SkillMapSection({required this.map, required this.curriculum});
+
+  final SkillMap map;
+  final Curriculum curriculum;
+
+  @override
+  Widget build(BuildContext context) {
+    final title = Theme.of(context).textTheme.titleMedium;
+    final small = Theme.of(context).textTheme.bodySmall;
+    final latency = map.latencyMedianMs;
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(S.skillMapTitle, style: title),
+            const SizedBox(height: 4),
+            Text(S.skillMapHelp, style: small),
+            const SizedBox(height: 10),
+            for (final skill in SkillMap.skills) _StrengthBar(skill: skill, strength: map.strength[skill]!),
+            const Divider(height: 28),
+            Text(S.pronunciationTrend, style: title),
+            Text(S.pronunciationHelp, style: small),
+            const SizedBox(height: 8),
+            if (map.hasSpeech)
+              _WeekRow(values: [for (final v in map.pronunciationWeekly) v == null ? null : S.percent(v)])
+            else
+              const Text(S.noSpeechYet),
+            if (latency != null) ...[
+              const SizedBox(height: 6),
+              Text(S.latencyWeek(latency), style: small),
+            ],
+            if (map.practise.isNotEmpty) ...[
+              const SizedBox(height: 12),
+              Text(S.practiseTitle, style: Theme.of(context).textTheme.titleSmall),
+              for (final w in map.practise)
+                ListTile(
+                  dense: true,
+                  contentPadding: EdgeInsets.zero,
+                  leading: const Icon(Icons.record_voice_over_outlined),
+                  title: Text(curriculum.item(w.itemId)?.en ?? w.itemId),
+                  subtitle: Text(curriculum.item(w.itemId)?.vi ?? ''),
+                  trailing: Text(S.practiseLine((w.average * 100).round(), w.tries)),
+                ),
+            ],
+            const Divider(height: 28),
+            Text(S.talkTrend, style: title),
+            Text(S.talkHelp, style: small),
+            const SizedBox(height: 8),
+            if (!map.hasTalk)
+              const Text(S.noTalkYet)
+            else ...[
+              Text(S.talkReaction, style: Theme.of(context).textTheme.titleSmall),
+              _WeekRow(values: [for (final v in map.reactionWeekly) v == null ? null : S.seconds1(v)]),
+              const SizedBox(height: 8),
+              Text(S.talkWords, style: Theme.of(context).textTheme.titleSmall),
+              _WeekRow(values: [for (final v in map.wordsPerTurnWeekly) v == null ? null : S.wordsAvg(v)]),
+              const SizedBox(height: 6),
+              Text(S.talkTurnsWeek(map.talkTurnsWeek), style: small),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _StrengthBar extends StatelessWidget {
+  const _StrengthBar({required this.skill, required this.strength});
+
+  final String skill;
+  final SkillStrength strength;
+
+  @override
+  Widget build(BuildContext context) {
+    final total = strength.total;
+    Widget part(int n, Color color) => n == 0 ? const SizedBox.shrink() : Expanded(flex: n, child: Container(color: color));
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 5),
+      child: Row(
+        children: [
+          SizedBox(width: 44, child: Text(S.skillName(skill), style: const TextStyle(fontWeight: FontWeight.w700))),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(6),
+                  child: SizedBox(
+                    height: 14,
+                    child: total == 0
+                        ? Container(color: AppColors.ink.withValues(alpha: 0.08))
+                        : Row(
+                            children: [
+                              part(strength.strong, AppColors.leaf),
+                              part(strength.growing, AppColors.honey),
+                              part(strength.fresh, AppColors.sky.withValues(alpha: 0.55)),
+                            ],
+                          ),
+                  ),
+                ),
+                const SizedBox(height: 2),
+                Text(
+                  '${strength.strong} ${S.strengthStrong} · ${strength.growing} ${S.strengthGrowing} · '
+                  '${strength.fresh} ${S.strengthFresh}',
+                  style: const TextStyle(fontSize: 12),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// Four weekly values, oldest first, with "—" for weeks without data.
+class _WeekRow extends StatelessWidget {
+  const _WeekRow({required this.values});
+
+  final List<String?> values;
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        for (var i = 0; i < values.length; i++)
+          Expanded(
+            child: Column(
+              children: [
+                Text(
+                  values[i] ?? '—',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: i == values.length - 1 ? FontWeight.w900 : FontWeight.w600,
+                  ),
+                ),
+                Text(S.weekLabels[i], style: const TextStyle(fontSize: 11), textAlign: TextAlign.center),
+              ],
+            ),
+          ),
+      ],
     );
   }
 }

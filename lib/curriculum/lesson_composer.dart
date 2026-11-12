@@ -97,6 +97,58 @@ class LessonComposer {
     required ComposerOptions options,
     required Random random,
   }) {
+    final plan = _compose(level: level, snapshot: snapshot, options: options, random: random);
+    return plan.isTest ? plan : _withParentWords(plan, level, snapshot, options, random);
+  }
+
+  /// Up to [AppConfig.parentWordsPerLesson] words from the parents' list
+  /// that the child has not met yet, taught right after the warm-up and
+  /// review. Once met, Leitner review brings them back like any other word.
+  LessonPlan _withParentWords(
+    LessonPlan plan,
+    int level,
+    ProgressSnapshot snapshot,
+    ComposerOptions o,
+    Random random,
+  ) {
+    final fresh = curriculum.parentItems
+        .where((i) => !snapshot.introduced(i.id))
+        .take(AppConfig.parentWordsPerLesson)
+        .toList();
+    if (fresh.isEmpty) {
+      return plan;
+    }
+    final levelUnits = curriculum.unitsOf(level);
+    final unit = curriculum.unitById(plan.unitId) ?? (levelUnits.isNotEmpty ? levelUnits.first : null);
+    if (unit == null) {
+      return plan;
+    }
+    final ctx = _Ctx(this, unit, snapshot, o, random);
+    final block = <LessonStep>[];
+    for (final item in fresh) {
+      block.add(PresentItemStep(itemId: item.id));
+      final check = ctx.listenStep(item, LessonStage.learnNew);
+      if (check != null) {
+        block.add(check);
+      }
+    }
+    final at = plan.steps.indexWhere((s) => s.stage != LessonStage.warmUp && s.stage != LessonStage.review);
+    final steps = [...plan.steps]..insertAll(at < 0 ? plan.steps.length : at, block);
+    return LessonPlan(
+      kind: plan.kind,
+      unitId: plan.unitId,
+      level: plan.level,
+      steps: steps,
+      newItemIds: [...plan.newItemIds, for (final i in fresh) i.id],
+    );
+  }
+
+  LessonPlan _compose({
+    required int level,
+    required ProgressSnapshot snapshot,
+    required ComposerOptions options,
+    required Random random,
+  }) {
     final unit = currentUnit(level, snapshot);
     if (unit == null) {
       if (curriculum.unitsOf(level).isEmpty) {

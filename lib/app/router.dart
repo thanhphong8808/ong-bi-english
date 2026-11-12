@@ -15,6 +15,7 @@ import '../features/parent/profiles_screen.dart';
 import '../features/parent/progress_screen.dart';
 import '../features/rewards/reward_screen.dart';
 import '../features/rewards/sticker_album_screen.dart';
+import '../features/parent/parent_words_screen.dart';
 import '../features/setup/setup_screen.dart';
 import '../features/talk_with_bi/talk_screen.dart';
 import '../features/tests/level_up_screen.dart';
@@ -42,6 +43,7 @@ class AppRoutes {
   static const String parentProfiles = '/parent/profiles';
   static const String parentChats = '/parent/chats';
   static const String parentData = '/parent/data';
+  static const String parentWords = '/parent/words';
 }
 
 /// The parent routes are only ever pushed after the parent gate succeeds
@@ -101,6 +103,7 @@ GoRouter buildRouter({required String initialLocation}) {
           GoRoute(path: 'profiles', builder: (context, state) => const ProfilesScreen()),
           GoRoute(path: 'chats', builder: (context, state) => const ChatLogScreen()),
           GoRoute(path: 'data', builder: (context, state) => const DataScreen()),
+          GoRoute(path: 'words', builder: (context, state) => const ParentWordsScreen()),
         ],
       ),
     ],

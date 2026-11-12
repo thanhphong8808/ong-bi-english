@@ -11,13 +11,17 @@ import '../../app/theme.dart';
 import '../../core/config/app_config.dart';
 import '../../core/providers.dart';
 import '../../core/services/study_clock.dart';
+import '../../curriculum/streak.dart';
 import '../../l10n/strings_vi.dart';
 import '../../widgets/bi_mascot.dart';
 import '../../widgets/giant_button.dart';
 import '../../widgets/item_picture.dart';
+import '../daily_lesson/activities/activity_base.dart';
 import '../daily_lesson/lesson_audio.dart';
 import '../daily_lesson/lesson_screen.dart';
 import '../parent/parent_gate_dialog.dart';
+import '../rewards/badges.dart';
+import 'week_honey.dart';
 
 /// Kid home: Bi in the middle and three giant buttons. Nothing to read.
 class HomeScreen extends ConsumerStatefulWidget {
@@ -29,6 +33,9 @@ class HomeScreen extends ConsumerStatefulWidget {
 
 class _HomeScreenState extends ConsumerState<HomeScreen> {
   static bool _warmedUp = false;
+
+  StreakInfo _streak = StreakInfo.none;
+  bool _celebrating = false;
 
   @override
   void initState() {
@@ -42,6 +49,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     final settings = ref.read(parentSettingsProvider);
     final profile = await ref.read(activeProfileProvider.future);
     await services.studyClock.load(profile.id);
+    await _refreshHoney();
     if (_warmedUp) {
       return;
     }
@@ -55,6 +63,70 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       voice: settings.voice,
       speed: AppConfig.normalSpeechRate,
     ));
+  }
+
+  /// Updates the honeycomb and celebrates badges won since last time.
+  Future<void> _refreshHoney() async {
+    if (!mounted) {
+      return;
+    }
+    final services = ref.read(appServicesProvider);
+    try {
+      final profile = await ref.read(activeProfileProvider.future);
+      final streak = await services.badges.streak(profile.id);
+      final fresh = await services.badges.awardNew(profile);
+      if (!mounted) {
+        return;
+      }
+      setState(() => _streak = streak);
+      if (fresh.isNotEmpty && !_celebrating) {
+        _celebrating = true;
+        for (final badge in fresh) {
+          if (!mounted) {
+            break;
+          }
+          await _celebrate(badge);
+        }
+        _celebrating = false;
+      }
+    } catch (_) {
+      // The honeycomb is a bonus; never block the home screen.
+    }
+  }
+
+  Future<void> _celebrate(MilestoneBadge badge) async {
+    final services = ref.read(appServicesProvider);
+    unawaited(services.speech.sayVi(S.badgeSpoken(badge.title)).catchError((Object _) {}));
+    await showDialog<void>(
+      context: context,
+      builder: (context) => Dialog(
+        backgroundColor: AppColors.cream,
+        child: Padding(
+          padding: const EdgeInsets.all(24),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text(S.badgeNew, style: TextStyle(fontSize: 26, fontWeight: FontWeight.w900)),
+              const SizedBox(height: 12),
+              EmojiText(badge.emoji, size: 96),
+              const SizedBox(height: 12),
+              Text(
+                badge.title,
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w800),
+              ),
+              const SizedBox(height: 20),
+              KidIconButton(
+                icon: Icons.check_rounded,
+                size: 88,
+                color: AppColors.leaf,
+                onPressed: () => Navigator.of(context).pop(),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
   }
 
   bool _goToSleepIfLocked() {
@@ -75,13 +147,14 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     if (!mounted) {
       return;
     }
-    context.push(
+    await context.push(
       AppRoutes.lesson,
       extra: LessonRequest(mode: profile.placementDone ? LessonMode.daily : LessonMode.placement),
     );
+    await _refreshHoney();
   }
 
-  void _talk() {
+  Future<void> _talk() async {
     final services = ref.read(appServicesProvider);
     final settings = ref.read(parentSettingsProvider);
     if (!settings.talkWithBiEnabled) {
@@ -95,14 +168,16 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     if (_goToSleepIfLocked()) {
       return;
     }
-    context.push(AppRoutes.talk);
+    await context.push(AppRoutes.talk);
+    await _refreshHoney();
   }
 
-  void _write() {
+  Future<void> _write() async {
     if (_goToSleepIfLocked()) {
       return;
     }
-    context.push(AppRoutes.write);
+    await context.push(AppRoutes.write);
+    await _refreshHoney();
   }
 
   Future<void> _openParentArea() async {
@@ -160,6 +235,8 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               flex: 5,
               child: FittedBox(child: BiMascot(mood: BiMood.happy, size: 220, level: level)),
             ),
+            WeekHoney(streak: _streak),
+            const SizedBox(height: 14),
             GiantButton(emoji: '📖', label: S.homeLearn, color: AppColors.honey, onPressed: _learn),
             const SizedBox(height: 18),
             GiantButton(emoji: '💬', label: S.homeTalk, color: AppColors.sky, onPressed: _talk),

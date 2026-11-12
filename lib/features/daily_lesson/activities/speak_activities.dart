@@ -100,7 +100,8 @@ class _PresentItemState extends ActivityState<PresentItemActivity> with _MicJudg
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                ItemPicture(item: it, size: 170),
+                // Parent words may have no picture: a speech bubble, not "❓".
+                if (it.image.isEmpty) const EmojiText('💬', size: 140) else ItemPicture(item: it, size: 170),
                 const SizedBox(height: 10),
                 if (!hideText) BigWord(it.en, size: 52),
                 if (!hideText && it.ipa.isNotEmpty)

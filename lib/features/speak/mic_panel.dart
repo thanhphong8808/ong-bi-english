@@ -7,6 +7,7 @@ import 'package:material_ui/material_ui.dart';
 
 import '../../app/theme.dart';
 import '../../core/config/app_config.dart';
+import '../../core/db/repositories.dart';
 import '../../core/providers.dart';
 import '../../core/services/stt_service.dart';
 import '../../curriculum/scorers/pronunciation_scorer.dart';
@@ -132,6 +133,21 @@ class MicPanelState extends ConsumerState<MicPanel> {
           wordScores: const [],
           heard: result.text,
         );
+      }
+      if (result.speechMs > 0) {
+        unawaited(services.db.speechTurnRepo
+            .add(
+              profile.id,
+              SpeechTurn(
+                source: SpeechTurn.lesson,
+                at: DateTime.now(),
+                itemId: widget.itemId,
+                score: widget.anyAnswer ? -1 : score.similarity,
+                speechMs: result.speechMs,
+                latencyMs: result.timedOut ? -1 : result.scoreLatencyMs,
+              ),
+            )
+            .catchError((Object _) {}));
       }
       setState(() {
         _state = _MicState.scored;

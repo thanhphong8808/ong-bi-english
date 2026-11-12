@@ -3,9 +3,11 @@
 #
 # Installs the release APK on an emulator and uses it like a family would:
 # first-time setup ("Tải tất cả qua Wi-Fi" incl. Gemma, parent gate), the
-# placement choice, a daily lesson (scripted taps, then random taps), the
-# study clock while the app is in the background, writing, every parent
-# screen, the diagnostics tests and Talk with Bi.
+# placement choice, a daily lesson (scripted taps through the stage
+# checkpoints, then random taps), the study clock while the app is in the
+# background, writing, the sticker and badge album, every parent screen
+# (adding a school-book word), the diagnostics tests, Talk with Bi and a
+# second lesson that must teach the parent's word.
 #
 # The run FAILS when the app dies, Android records a crash or ANR, any Dart
 # error was logged, or the crash guard had to switch an engine off. Driver
@@ -150,13 +152,30 @@ fi
 
 restart 15
 if alive; then
+  step "Honeycomb and album"
+  $UI shot 09b-home-honeycomb
+  echo "study days: $(sql "SELECT day, seconds, lessons_done FROM study_days;" | tr '\n' ' ')"
+  echo "badges: $(sql "SELECT sticker_id FROM rewards WHERE sticker_id LIKE 'badge:%';" | tr '\n' ' ')"
+  if $UI tapx "🎁" 10; then
+    sleep 4
+    $UI shot 09c-album
+    $UI list | head -30
+    check "album"
+    adb shell input keyevent KEYCODE_BACK; sleep 3
+  else
+    echo "album button not found"
+  fi
+fi
+
+restart 15
+if alive; then
   step "Parent area"
   home_gear; sleep 3
   $UI gate || PROBLEMS+=("parent gate not solved")
   sleep 3
   $UI shot 10-parent
   $UI list
-  for entry in "Cài đặt học" "Quản lý model" "Kiểm tra hệ thống" "Sao lưu và khôi phục" "Bảng tiến độ" "Hồ sơ của bé" "Nhật ký"; do
+  for entry in "Cài đặt học" "Bộ từ của bố mẹ" "Quản lý model" "Kiểm tra hệ thống" "Sao lưu và khôi phục" "Bảng tiến độ" "Hồ sơ của bé" "Nhật ký"; do
     if $UI tap "$entry" 10; then
       sleep 4
       safe=$(echo "$entry" | tr ' ' '_')
@@ -164,6 +183,21 @@ if alive; then
         "Cài đặt học")
           $UI list | head -30
           $UI tap "Đặt lại" 5 && sleep 2 ;;
+        "Bộ từ của bố mẹ")
+          $UI tap "Thêm từ" 5 && sleep 3
+          $UI field 1 && sleep 1 && $UI type "pencil case" && sleep 1
+          $UI field 2 && sleep 1 && $UI type "hop but" && sleep 1
+          $UI shot 11-word-dialog
+          $UI tapx "Lưu" 5 && sleep 3
+          words=$(sql "SELECT en FROM custom_words;")
+          echo "parent words in the database: ${words:-(none)}"
+          [ -z "$words" ] && echo "WARNING: the parent word was not saved (driver or app)"
+          $UI list | head -20 ;;
+        "Bảng tiến độ")
+          $UI list | head -40
+          adb shell input swipe 540 1900 540 700 400; sleep 2
+          $UI shot "11-skill-map"
+          $UI list | head -40 ;;
         "Kiểm tra hệ thống")
           $UI tapright "Thử giọng tiếng Việt" 5 && sleep 10
           $UI tapright "Thử giọng tiếng Anh" 5 && sleep 12
@@ -198,6 +232,18 @@ if alive; then
   check "talk reply"
   $UI shot 14-talk-reply
   $UI list
+fi
+
+restart 15
+if alive; then
+  step "Second lesson: the parent's word is taught"
+  $UI tap "Học hôm nay" 15 540 1146 && sleep 20
+  check "lesson 2"
+  $UI explore 150 || true
+  check "lesson 2 (scripted)"
+  $UI shot 14b-lesson2
+  echo "parent word progress: $(sql "SELECT item_id, skill, box FROM item_progress WHERE item_id LIKE 'P-%';" | tr '\n' ' ')"
+  echo "speech turns: $(sql "SELECT source, COUNT(*) FROM speech_turns GROUP BY source;" | tr '\n' ' ')"
 fi
 
 step "Restart once more"

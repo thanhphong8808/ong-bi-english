@@ -6,7 +6,7 @@
 class DbSchema {
   const DbSchema._();
 
-  static const int version = 2;
+  static const int version = 3;
 
   /// Statements that create schema version 1.
   static const List<String> createV1 = [
@@ -136,6 +136,29 @@ class DbSchema {
       sticker_id TEXT NOT NULL,
       earned_at INTEGER NOT NULL
     )''',
+    '''
+    CREATE TABLE custom_words (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      en TEXT NOT NULL,
+      vi TEXT NOT NULL,
+      emoji TEXT NOT NULL DEFAULT '',
+      example_en TEXT NOT NULL DEFAULT '',
+      created_at INTEGER NOT NULL
+    )''',
+    '''
+    CREATE TABLE speech_turns (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      profile_id INTEGER NOT NULL,
+      source TEXT NOT NULL,
+      item_id TEXT NOT NULL DEFAULT '',
+      score REAL NOT NULL DEFAULT -1,
+      response_ms INTEGER NOT NULL DEFAULT -1,
+      speech_ms INTEGER NOT NULL DEFAULT 0,
+      words INTEGER NOT NULL DEFAULT 0,
+      latency_ms INTEGER NOT NULL DEFAULT -1,
+      at INTEGER NOT NULL
+    )''',
+    'CREATE INDEX idx_speech_turns_time ON speech_turns (profile_id, at)',
   ];
 
   /// Upgrade steps keyed by the version they upgrade FROM.
@@ -147,6 +170,33 @@ class DbSchema {
     1: [
       "UPDATE study_days SET seconds = 0 WHERE day = date('now', 'localtime')",
       'UPDATE study_days SET seconds = 3600 WHERE seconds > 3600',
+    ],
+    // v3 (build 15): words parents add from the child's school book, and
+    // one row per spoken answer for the parent's skill map.
+    2: [
+      '''
+    CREATE TABLE custom_words (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      en TEXT NOT NULL,
+      vi TEXT NOT NULL,
+      emoji TEXT NOT NULL DEFAULT '',
+      example_en TEXT NOT NULL DEFAULT '',
+      created_at INTEGER NOT NULL
+    )''',
+      '''
+    CREATE TABLE speech_turns (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      profile_id INTEGER NOT NULL,
+      source TEXT NOT NULL,
+      item_id TEXT NOT NULL DEFAULT '',
+      score REAL NOT NULL DEFAULT -1,
+      response_ms INTEGER NOT NULL DEFAULT -1,
+      speech_ms INTEGER NOT NULL DEFAULT 0,
+      words INTEGER NOT NULL DEFAULT 0,
+      latency_ms INTEGER NOT NULL DEFAULT -1,
+      at INTEGER NOT NULL
+    )''',
+      'CREATE INDEX idx_speech_turns_time ON speech_turns (profile_id, at)',
     ],
   };
 
@@ -162,5 +212,7 @@ class DbSchema {
     'test_results',
     'chat_logs',
     'rewards',
+    'custom_words',
+    'speech_turns',
   ];
 }

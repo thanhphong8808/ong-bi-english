@@ -13,6 +13,7 @@ import 'dart:io';
 import 'package:ong_bi_english/core/services/english_voice.dart';
 import 'package:ong_bi_english/core/services/model_catalog.dart';
 import 'package:ong_bi_english/core/services/speech_configs.dart';
+import 'package:ong_bi_english/features/rewards/badges.dart';
 import 'package:ong_bi_english/l10n/strings_vi.dart';
 
 const String root = 'MODELS';
@@ -52,7 +53,7 @@ void main() {
     'stt': [
       for (final whisper in whispers) {'name': whisper.id, 'config': SttConfigs.init(root, whisper, threads)},
     ],
-    'viSpoken': S.spokenInstructions,
+    'viSpoken': [...S.spokenInstructions, for (final badge in badges) S.badgeSpoken(badge.title)],
   };
   stdout.writeln(const JsonEncoder.withIndent('  ').convert(out));
 }

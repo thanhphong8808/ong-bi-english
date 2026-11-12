@@ -33,6 +33,17 @@ class ItemImage {
   }
 
   bool get isEmpty => emojiHex == null && svg == null;
+
+  /// From an emoji string, e.g. "🐶" -> "1F436" (parent word lists).
+  factory ItemImage.fromEmoji(String emoji) {
+    final trimmed = emoji.trim();
+    if (trimmed.isEmpty) {
+      return const ItemImage();
+    }
+    return ItemImage(
+      emojiHex: [for (final rune in trimmed.runes) rune.toRadixString(16).toUpperCase()].join('-'),
+    );
+  }
 }
 
 enum ItemType { word, phrase, letter, sound }
@@ -506,6 +517,28 @@ class Curriculum {
   }
 
   Item? item(String id) => _itemsById[id];
+
+  /// Unit id of the words parents add (they belong to no level).
+  static const String parentUnitId = 'PARENT';
+
+  final List<Item> _parentItems = [];
+
+  /// Words added by parents, in the order they were added.
+  List<Item> get parentItems => List.unmodifiable(_parentItems);
+
+  /// Replaces the parent word list; the words become resolvable by id so
+  /// lessons and Leitner review can use them like any other item.
+  void setParentItems(List<Item> items) {
+    for (final old in _parentItems) {
+      _itemsById.remove(old.id);
+    }
+    _parentItems
+      ..clear()
+      ..addAll(items);
+    for (final item in items) {
+      _itemsById.putIfAbsent(item.id, () => item);
+    }
+  }
 
   /// First item whose English text equals [word] (case-insensitive).
   Item? itemByWord(String word) => _itemsByWord[word.toLowerCase()];

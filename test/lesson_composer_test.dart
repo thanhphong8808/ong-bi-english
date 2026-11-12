@@ -209,6 +209,80 @@ void main() {
   final c = loadCurriculum();
   final composer = LessonComposer(curriculum: c);
 
+  group('parent word lists', () {
+    Item parentWord(int id, String en, String vi, String emoji) => Item(
+          id: 'P-$id',
+          unitId: Curriculum.parentUnitId,
+          level: 0,
+          type: en.contains(' ') ? ItemType.phrase : ItemType.word,
+          en: en,
+          vi: vi,
+          image: ItemImage.fromEmoji(emoji),
+          exampleEn: '',
+          exampleVi: '',
+          skills: const ['listen', 'speak', 'read', 'write'],
+          picturable: emoji.isNotEmpty,
+        );
+
+    tearDown(() => c.setParentItems(const []));
+
+    test('parent words resolve by id and can be replaced', () {
+      c.setParentItems([parentWord(1, 'pencil case', 'hộp bút', '✏️')]);
+      expect(c.item('P-1')?.en, 'pencil case');
+      expect(c.item('P-1')?.image.emoji, '✏️');
+      c.setParentItems([parentWord(2, 'ruler', 'thước kẻ', '')]);
+      expect(c.item('P-1'), isNull);
+      expect(c.item('P-2')?.picturable, isFalse);
+      c.setParentItems(const []);
+      expect(c.parentItems, isEmpty);
+    });
+
+    test('two new parent words join a daily lesson after the review, and the lesson stays valid', () {
+      c.setParentItems([
+        parentWord(1, 'pencil case', 'hộp bút', '✏️'),
+        parentWord(2, 'teacher', 'cô giáo', '🧑‍🏫'),
+        parentWord(3, 'ruler', 'thước kẻ', ''),
+      ]);
+      for (final level in [0, 2, 4]) {
+        final unit = c.unitsOf(level)[1];
+        final o = ComposerOptions(now: now);
+        final plan = composer.compose(level: level, snapshot: snapshotAt(c, unit), options: o, random: Random(3));
+        final presented = [for (final s in plan.steps) if (s is PresentItemStep && s.itemId.startsWith('P-')) s.itemId];
+        expect(presented, ['P-1', 'P-2'], reason: 'level $level');
+        expect(plan.newItemIds, containsAll(['P-1', 'P-2']));
+        expect(problems(c, plan, o), isEmpty, reason: 'level $level');
+      }
+    });
+
+    test('met parent words come back in review instead of being taught again', () {
+      c.setParentItems([parentWord(1, 'pencil case', 'hộp bút', '✏️')]);
+      final unit = c.unitsOf(1)[2];
+      final base = snapshotAt(c, unit);
+      final snapshot = ProgressSnapshot(
+        rows: [
+          ...base.allRows,
+          ItemProgressRow(
+            itemId: 'P-1',
+            unitId: Curriculum.parentUnitId,
+            skill: 'listen',
+            box: 1,
+            dueAt: now.subtract(const Duration(days: 1)),
+            correctCount: 0,
+            wrongCount: 0,
+            lastSeenAt: now.subtract(const Duration(days: 2)),
+          ),
+        ],
+        units: base.units.values.toList(),
+        dialogueStages: const {},
+        recentAttempts: const [],
+      );
+      final o = ComposerOptions(now: now);
+      final plan = composer.compose(level: 1, snapshot: snapshot, options: o, random: Random(5));
+      expect(plan.steps.whereType<PresentItemStep>().any((s) => s.itemId == 'P-1'), isFalse);
+      expect(problems(c, plan, o), isEmpty);
+    });
+  });
+
   test('the curriculum has six levels with the planned number of units', () {
     expect([for (var l = 0; l < 6; l++) c.unitsOf(l).length], [10, 15, 13, 14, 12, 16]);
   });

@@ -305,6 +305,7 @@ class _WorkerState {
     final speech = PcmUtils.concat(segments);
     segments.clear();
 
+    final work = Stopwatch()..start();
     var text = '';
     String? wav;
     if (speech.isNotEmpty) {
@@ -321,6 +322,7 @@ class _WorkerState {
       'speechMs': (speech.length / 16).round(),
       'wavPath': wav,
       'timedOut': timedOut,
+      'workMs': work.elapsedMilliseconds,
     });
   }
 

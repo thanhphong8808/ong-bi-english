@@ -43,6 +43,7 @@ class ParentHomeScreen extends ConsumerWidget {
               ),
             entry(Icons.insights_rounded, S.progressTitle, AppRoutes.parentProgress),
             entry(Icons.tune_rounded, S.parentSettings, AppRoutes.parentSettings),
+            entry(Icons.menu_book_rounded, S.parentWordsTitle, AppRoutes.parentWords),
             entry(Icons.people_alt_rounded, S.profilesTitle, AppRoutes.parentProfiles),
             entry(Icons.forum_rounded, S.chatLogsTitle, AppRoutes.parentChats),
             entry(Icons.save_alt_rounded, S.dataTitle, AppRoutes.parentData),

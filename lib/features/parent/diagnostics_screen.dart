@@ -118,9 +118,13 @@ class _DiagnosticsScreenState extends ConsumerState<DiagnosticsScreen> {
             onLevel: (level) => _show(() => _level = level),
           );
           final heard = result.text.isEmpty ? S.diagNothingHeard : result.text;
+          final latency = result.scoreLatencyMs;
           _show(() {
             _level = 0;
-            _sttResult = '${S.diagHeard}: $heard · ${S.milliseconds(result.decodeMs)}';
+            _sttResult = result.text.isEmpty
+                ? '${S.diagHeard}: $heard'
+                : '${S.diagHeard}: $heard\n'
+                    '${S.diagLatency(latency, result.decodeMs, latency < AppConfig.scoreLatencyTargetMs)}';
           });
         } on SttException catch (e) {
           _show(() {

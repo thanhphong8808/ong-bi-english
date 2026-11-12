@@ -11,6 +11,11 @@ Usage:
   ui.py explore SECONDS      tap through a lesson like a child (answers, mic, next)
   ui.py tapright TEXT [SEC]  tap the button at the right end of the row showing TEXT
   ui.py tapx  TEXT [SEC]     like tap, but the label must be exactly TEXT
+  ui.py type  TEXT           type ASCII text into the focused field
+  ui.py field N              tap the N-th text field on screen (1 = first)
+
+A "Huy hiệu mới!" (new badge) dialog is photographed once and closed
+whenever it shows up, so it never hides the screen being tested.
 """
 import base64
 import re
@@ -26,6 +31,9 @@ def adb(*args, timeout=60):
     return subprocess.run(['adb', *args], capture_output=True, timeout=timeout)
 
 
+BADGES_SEEN = []
+
+
 def dump():
     """UI tree of the screen. A system "isn't responding" dialog (the
     emulator's launcher is often slow right after boot) is answered with
@@ -34,7 +42,16 @@ def dump():
         root = _dump_once()
         if root is None:
             return None
-        texts = [(n.get('text') or '') for n in root.iter('node')]
+        texts = [(n.get('text') or '') + ' ' + (n.get('content-desc') or '') for n in root.iter('node')]
+        if any('Huy hiệu mới' in t for t in texts):
+            badge = [t.strip().replace('\n', ' / ') for t in texts if t.strip()][:6]
+            print('badge celebration:', badge)
+            if not BADGES_SEEN:
+                shot('badge')
+            BADGES_SEEN.append(1)
+            adb('shell', 'input', 'keyevent', 'KEYCODE_BACK')
+            time.sleep(2)
+            continue
         if not any("isn't responding" in t or 'không phản hồi' in t for t in texts):
             return root
         for node in root.iter('node'):
@@ -208,7 +225,7 @@ def setup(minutes):
     return 1
 
 
-AVOID = ('Phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học')
+AVOID = ('Phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học', 'Nghỉ đã')
 
 
 def explore(seconds):
@@ -229,6 +246,8 @@ def explore(seconds):
         if screen != last_screen:
             print('screen:', screen)
             last_screen = screen
+        if any('Xong chặng' in t for t in texts):
+            print('checkpoint reached:', [t for t in texts if 'chặng' in t][:2])
         # The "leave the lesson?" dialog: keep learning.
         keep = [n for label, n in found if label.strip() in ('Học tiếp', 'Tiếp tục')]
         if keep:
@@ -274,6 +293,20 @@ def main():
         return setup(float(sys.argv[2]) if len(sys.argv) > 2 else 25)
     if cmd == 'explore':
         return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120)
+    if cmd == 'field':
+        root = dump()
+        fields = [n for n in root.iter('node') if 'EditText' in (n.get('class') or '')] if root is not None else []
+        index = int(sys.argv[2]) - 1
+        if index >= len(fields):
+            print(f'NOT FOUND: text field {index + 1} ({len(fields)} on screen)')
+            return 1
+        tap_node(fields[index])
+        print(f'tapped text field {index + 1} at {center(fields[index])}')
+        return 0
+    if cmd == 'type':
+        adb('shell', 'input', 'text', sys.argv[2].replace(' ', '%s'))
+        print(f'typed {sys.argv[2]!r}')
+        return 0
     text = sys.argv[2]
     seconds = float(sys.argv[3]) if len(sys.argv) > 3 else 30
     node = find(text, seconds, exact_match=(cmd == 'tapx'))

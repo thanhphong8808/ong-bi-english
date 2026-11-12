@@ -80,6 +80,7 @@ class _DataScreenState extends ConsumerState<DataScreen> {
                       await _run(() async {
                         await services.backup.restoreFromPicker();
                         await ref.read(parentSettingsProvider.notifier).reload();
+                        await services.reloadParentWords();
                         ref.invalidate(activeProfileProvider);
                         return S.restoreDone;
                       });

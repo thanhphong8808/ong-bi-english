@@ -149,6 +149,9 @@ class S {
   static const diagRunning = 'Đang chạy…';
   static const diagHeard = 'Máy nghe được';
   static const diagNothingHeard = '(không nghe thấy gì)';
+  static String diagLatency(int totalMs, int workMs, bool fast) =>
+      'Thời gian chờ chấm điểm: $totalMs ms (chờ bé ngừng nói 800 ms + nhận dạng $workMs ms) — '
+      '${fast ? 'đạt mục tiêu dưới 1500 ms' : 'chậm hơn mục tiêu 1500 ms'}';
   static const diagFirstRun = 'lần đầu, chưa có trong bộ nhớ đệm';
   static const diagCached = 'đã có trong bộ nhớ đệm';
   static const diagSystemVoice = 'đang dùng giọng hệ thống của Android';
@@ -186,6 +189,15 @@ class S {
 
   // ---- Lesson flow ----
   static const lessonLoading = 'Bi đang chuẩn bị bài…';
+
+  // Lesson stages ("chặng").
+  static String stageDoneTitle(int done, int total) => 'Xong chặng $done/$total!';
+  static const stageDoneSpoken1 = 'Giỏi quá! Xong chặng một rồi. Cậu học tiếp hay nghỉ một chút?';
+  static const stageDoneSpoken2 = 'Tuyệt vời! Xong chặng hai rồi. Còn một chặng nữa thôi. Học tiếp nhé?';
+  static String stageDoneSpoken(int done) => done == 1 ? stageDoneSpoken1 : stageDoneSpoken2;
+  static const stageContinue = 'Học tiếp';
+  static const stageRest = 'Nghỉ đã';
+  static const stageRestSpoken = 'Bi giữ lại hết những gì cậu học rồi. Lần sau mình học tiếp nhé!';
   static const lessonEmpty = 'Hôm nay chưa có bài mới. Mai mình học tiếp nhé!';
   static const rewardTitle = 'Hoàn thành!';
   static const rewardSpoken = 'Cậu học xong rồi! Giỏi quá! Tặng cậu một hình dán nhé.';
@@ -302,6 +314,30 @@ class S {
 
   // ---- Parent: progress ----
   static const progressTitle = 'Bảng tiến độ';
+  static const skillMapTitle = 'Bản đồ kỹ năng';
+  static const skillMapHelp =
+      'Mỗi thanh là số từ/mẫu câu của một kỹ năng. Xanh lá: bé nhớ chắc (ôn cách nhau từ 1 tuần trở lên). '
+      'Vàng: đang nhớ. Xanh nhạt: mới học hoặc vừa quên.';
+  static const strengthStrong = 'chắc';
+  static const strengthGrowing = 'đang nhớ';
+  static const strengthFresh = 'mới';
+  static const pronunciationTrend = 'Phát âm theo tuần';
+  static const pronunciationHelp = 'Điểm trung bình khi bé nói từ và câu trong bài học.';
+  static const talkTrend = 'Trò chuyện với Bi';
+  static const talkReaction = 'Bé bắt đầu trả lời sau';
+  static const talkWords = 'Số từ tiếng Anh mỗi câu trả lời';
+  static String talkTurnsWeek(int n) => '$n câu trả lời Bi trong 7 ngày qua.';
+  static const talkHelp =
+      'Thời gian trả lời ngắn dần và câu dài dần nghĩa là bé tự tin hơn khi nói. Chỉ đo khi bé trò chuyện với Bi.';
+  static const noTalkYet = 'Bé chưa trò chuyện với Bi.';
+  static const noSpeechYet = 'Chưa có lượt nói nào được chấm.';
+  static const practiseTitle = 'Từ nên luyện nói thêm';
+  static String practiseLine(int percent, int tries) => '$percent% · $tries lần nói';
+  static String latencyWeek(int ms) => 'Thời gian chờ chấm điểm (trung vị 7 ngày): $ms ms';
+  static const weekLabels = ['3 tuần trước', '2 tuần trước', 'Tuần trước', 'Tuần này'];
+  static String seconds1(int ms) => '${(ms / 1000).toStringAsFixed(1).replaceAll('.', ',')} giây';
+  static String wordsAvg(double v) => '${v.toStringAsFixed(1).replaceAll('.', ',')} từ';
+  static String percent(double v) => '${(v * 100).round()}%';
   static const skillsWeekly = 'Điểm kỹ năng theo tuần';
   static const lastFourWeeks = '(4 tuần gần nhất, cũ → mới)';
   static const minutesDaily = 'Số phút học mỗi ngày (14 ngày)';
@@ -396,6 +432,7 @@ class S {
     insDialogueListen, insDialogueShadow, insDialogueRole, insDialogueVariation, insPickMeaning,
     insLetterSound, insTrueFalse, insFillBlank, insWriteLetter, insAnswer, insWriteSentences, insReading,
     saySayAfter, traceDirection, pickColorFirst, lessonLoading, rewardSpoken, sleepSpoken,
+    stageDoneSpoken1, stageDoneSpoken2, stageRestSpoken,
     outsideHoursSpoken, writeMenuSpoken, writeHomeSpoken, exitConfirmSpoken, stickerAlbumSpoken,
     placementSpoken, unitTestSpoken, levelTestSpoken, testPassedSpoken, testRetrySpoken,
     levelUpSpoken, levelTestRetrySpoken, placementDoneLevel0, placementDoneLevel1, reviewIntro,
@@ -489,4 +526,32 @@ class S {
   static const guardNone = 'Không có tính năng nào bị tắt.';
   static const guardEnableAll = 'Bật lại tất cả';
   static const guardEnabled = 'Đã bật lại. Nếu app lại thoát, tính năng đó sẽ tự tắt lần nữa.';
+
+  // Honeycomb streak and badges.
+  static const weekDays = ['T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'CN'];
+  static String streakDays(int days) => '$days ngày liền';
+  static const badgeNew = 'Huy hiệu mới!';
+  static String badgeSpoken(String title) => 'Hoan hô! Cậu được huy hiệu: $title!';
+  static const badgesTitle = 'Huy hiệu';
+  static const stickersTitle = 'Hình dán';
+
+  // Parent word lists.
+  static const parentWordsTitle = 'Bộ từ của bố mẹ';
+  static const parentWordsIntro =
+      'Thêm từ trong sách tiếng Anh ở trường của bé. App tự tạo giọng đọc, dạy 2 từ mới trong mỗi bài '
+      '"Học hôm nay", ôn lại theo lịch Leitner, và Bi sẽ dùng các từ này khi trò chuyện.';
+  static const parentWordsEmpty = 'Chưa có từ nào. Bấm "Thêm từ" để bắt đầu.';
+  static const parentWordsAdd = 'Thêm từ';
+  static const parentWordsEnglish = 'Từ tiếng Anh';
+  static const parentWordsMeaning = 'Nghĩa tiếng Việt';
+  static const parentWordsExample = 'Câu ví dụ (không bắt buộc)';
+  static const parentWordsPicture = 'Chọn hình (không bắt buộc)';
+  static const parentWordsListen = 'Nghe';
+  static const parentWordsDelete = 'Xoá';
+  static String parentWordsDeleteAsk(String word) => 'Xoá từ "$word"? Tiến độ ôn của từ này cũng không dùng nữa.';
+  static String parentWordsAdded(String word) => 'Đã thêm "$word". Bé sẽ học từ này trong bài sắp tới.';
+  static const parentWordsFull = 'Danh sách đã đủ 300 từ. Hãy xoá bớt từ bé đã thuộc.';
+  static const parentWordsBadWord = 'Từ tiếng Anh chỉ gồm chữ cái, dấu cách, dấu nháy hoặc gạch nối (tối đa 40 ký tự).';
+  static const parentWordsBadMeaning = 'Hãy nhập nghĩa tiếng Việt (tối đa 60 ký tự).';
+  static const parentWordsBadExample = 'Câu ví dụ chỉ dùng chữ tiếng Anh không dấu và dấu câu thường (tối đa 120 ký tự).';
 }

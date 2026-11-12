@@ -27,8 +27,14 @@ class SttResult {
   final String? wavPath;
   final bool timedOut;
 
-  /// Time from "child stopped speaking" to "transcript ready".
+  /// Whisper (and saving the recording) after the child stopped speaking,
+  /// measured inside the speech worker.
   final int decodeMs;
+
+  /// What the child waits for between the last sound and the stars: the
+  /// silence the voice detector needs to know the child has finished, plus
+  /// [decodeMs]. The target is under [AppConfig.scoreLatencyTargetMs].
+  int get scoreLatencyMs => (AppConfig.vadMinSilenceSeconds * 1000).round() + decodeMs;
 }
 
 class SttException implements Exception {
@@ -89,7 +95,6 @@ class SttService {
     worker.guard.begin(NativeGuard.stt);
 
     final done = Completer<SttResult>();
-    DateTime? lastAudioAt;
     StreamSubscription<Map<String, Object?>>? eventSub;
     StreamSubscription<List<int>>? audioSub;
     Timer? timer;
@@ -105,14 +110,13 @@ class SttService {
             onSpeechStart?.call();
           case 'final':
             if (!done.isCompleted) {
-              final stoppedAt = lastAudioAt ?? DateTime.now();
               done.complete(
                 SttResult(
                   text: (event['text'] as String?) ?? '',
                   speechMs: (event['speechMs'] as num?)?.toInt() ?? 0,
                   wavPath: event['wavPath'] as String?,
                   timedOut: (event['timedOut'] as bool?) ?? false,
-                  decodeMs: DateTime.now().difference(stoppedAt).inMilliseconds,
+                  decodeMs: (event['workMs'] as num?)?.toInt() ?? 0,
                 ),
               );
             }
@@ -136,7 +140,6 @@ class SttService {
         if (done.isCompleted) {
           return;
         }
-        lastAudioAt = DateTime.now();
         worker.post('stt.chunk', {'pcm': chunk});
       });
 

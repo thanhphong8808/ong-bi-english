@@ -55,6 +55,8 @@ class AppDatabase extends GeneratedDatabase {
   late final ChatLogRepo chatLogRepo = ChatLogRepo(this);
   late final ModelRepo modelRepo = ModelRepo(this);
   late final RewardRepo rewardRepo = RewardRepo(this);
+  late final ParentWordRepo parentWordRepo = ParentWordRepo(this);
+  late final SpeechTurnRepo speechTurnRepo = SpeechTurnRepo(this);
 
   /// Every row of a table as plain maps, for backups.
   Future<List<Map<String, Object?>>> dumpTable(String table) async {
