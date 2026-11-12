@@ -148,13 +148,11 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
 
   void _add(_Bubble bubble) {
     setState(() => _bubbles.add(bubble));
+    // The list is reversed (newest at the bottom, kept in view when the
+    // answer panel opens); bring the child back down to the new line.
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (_scroll.hasClients) {
-        _scroll.animateTo(
-          _scroll.position.maxScrollExtent,
-          duration: const Duration(milliseconds: 250),
-          curve: Curves.easeOut,
-        );
+      if (_scroll.hasClients && _scroll.offset > 0) {
+        _scroll.animateTo(0, duration: const Duration(milliseconds: 250), curve: Curves.easeOut);
       }
     });
     final profileId = _profileId;
@@ -440,11 +438,17 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
               ),
             ),
             Expanded(
+              // Reversed, like a messaging app: the newest line stays at the
+              // bottom, just above the answers, whatever their height.
               child: ListView.builder(
                 controller: _scroll,
+                reverse: true,
                 padding: const EdgeInsets.fromLTRB(10, 4, 10, 8),
                 itemCount: _bubbles.length + (_finished ? 1 : 0),
-                itemBuilder: (context, i) => i < _bubbles.length ? _bubble(_bubbles[i]) : _endCard(),
+                itemBuilder: (context, i) {
+                  final index = _bubbles.length + (_finished ? 1 : 0) - 1 - i;
+                  return index < _bubbles.length ? _bubble(_bubbles[index]) : _endCard();
+                },
               ),
             ),
             if (turn != null) _turnPanel(turn),
@@ -574,7 +578,13 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  SpokenText(turn.options[i].en, fontSize: 21, alignment: WrapAlignment.start),
+                                  // The whole card is the answer: a tap on its words chooses it too.
+                                  SpokenText(
+                                    turn.options[i].en,
+                                    fontSize: 21,
+                                    alignment: WrapAlignment.start,
+                                    wordTaps: false,
+                                  ),
                                   Text(turn.options[i].vi,
                                       style: const TextStyle(fontSize: 15, color: Color(0xFF6B5A44))),
                                 ],

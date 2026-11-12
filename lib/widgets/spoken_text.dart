@@ -29,6 +29,7 @@ class SpokenText extends ConsumerWidget {
     this.alignment = WrapAlignment.center,
     this.voice,
     this.showIpa,
+    this.wordTaps = true,
   });
 
   final String text;
@@ -45,6 +46,10 @@ class SpokenText extends ConsumerWidget {
   /// Overrides the parent setting (for example, off inside small cards).
   final bool? showIpa;
 
+  /// False inside a card the child taps as a whole (an answer to choose):
+  /// a tap anywhere on it, words included, goes to the card.
+  final bool wordTaps;
+
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final services = ref.watch(appServicesProvider);
@@ -57,6 +62,7 @@ class SpokenText extends ConsumerWidget {
       fontSize: fontSize,
       ipa: ipa,
       alignment: alignment,
+      wordTaps: wordTaps,
       onWord: (clean) =>
           services.speech.sayEn(clean, voice: voice ?? settings.voice, speed: settings.speechRate).catchError((Object _) {}),
     );
@@ -75,6 +81,7 @@ class KaraokeText extends StatelessWidget {
     this.fontSize = 32,
     this.ipa,
     this.alignment = WrapAlignment.center,
+    this.wordTaps = true,
   });
 
   final String text;
@@ -87,6 +94,9 @@ class KaraokeText extends StatelessWidget {
   final double fontSize;
   final String? ipa;
   final WrapAlignment alignment;
+
+  /// See [SpokenText.wordTaps].
+  final bool wordTaps;
 
   @override
   Widget build(BuildContext context) {
@@ -124,7 +134,7 @@ class KaraokeText extends StatelessWidget {
                       : (i < reached - 1
                           ? KaraokeState.said
                           : (i == reached - 1 ? KaraokeState.saying : KaraokeState.plain)),
-                  onTap: () => tapped(words[i]),
+                  onTap: wordTaps ? () => tapped(words[i]) : null,
                 ),
             ],
           );
@@ -164,7 +174,9 @@ class KaraokeWord extends StatelessWidget {
   final String? ipa;
   final double fontSize;
   final KaraokeState state;
-  final VoidCallback onTap;
+
+  /// Null: the word is not a tap target of its own.
+  final VoidCallback? onTap;
 
   @override
   Widget build(BuildContext context) {
@@ -173,41 +185,41 @@ class KaraokeWord extends StatelessWidget {
       KaraokeState.said => karaokeColor,
       KaraokeState.saying => AppColors.white,
     };
-    return GestureDetector(
-      onTap: onTap,
-      behavior: HitTestBehavior.opaque,
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          Container(
-            padding: EdgeInsets.symmetric(horizontal: fontSize * 0.14),
-            decoration: BoxDecoration(
-              color: state == KaraokeState.saying ? karaokeColor : Colors.transparent,
-              borderRadius: BorderRadius.circular(fontSize * 0.25),
-            ),
-            child: Text(
-              word,
-              style: TextStyle(
-                fontFamily: AppTheme.writingFont,
-                fontSize: fontSize,
-                fontWeight: FontWeight.w700,
-                color: color,
-                height: 1.15,
-              ),
+    final cell = Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Container(
+          padding: EdgeInsets.symmetric(horizontal: fontSize * 0.14),
+          decoration: BoxDecoration(
+            color: state == KaraokeState.saying ? karaokeColor : Colors.transparent,
+            borderRadius: BorderRadius.circular(fontSize * 0.25),
+          ),
+          child: Text(
+            word,
+            style: TextStyle(
+              fontFamily: AppTheme.writingFont,
+              fontSize: fontSize,
+              fontWeight: FontWeight.w700,
+              color: color,
+              height: 1.15,
             ),
           ),
-          if (ipa != null)
-            Text(
-              ipa!,
-              style: TextStyle(
-                fontFamily: AppTheme.writingFont,
-                fontSize: (fontSize * 0.5).clamp(13.0, 22.0).toDouble(),
-                color: _ipaColor,
-                height: 1.1,
-              ),
+        ),
+        if (ipa != null)
+          Text(
+            ipa!,
+            style: TextStyle(
+              fontFamily: AppTheme.writingFont,
+              fontSize: (fontSize * 0.5).clamp(13.0, 22.0).toDouble(),
+              color: _ipaColor,
+              height: 1.1,
             ),
-        ],
-      ),
+          ),
+      ],
     );
+    if (onTap == null) {
+      return cell;
+    }
+    return GestureDetector(onTap: onTap, behavior: HitTestBehavior.opaque, child: cell);
   }
 }

@@ -60,6 +60,32 @@ void main() {
     expect(tapped, ['apples']);
   });
 
+  testWidgets('inside an answer card a tap on the words chooses the card', (tester) async {
+    final words = <String>[];
+    var chosen = 0;
+    await tester.pumpWidget(
+      MaterialApp(
+        home: Scaffold(
+          body: GestureDetector(
+            onTap: () => chosen++,
+            child: KaraokeText(
+              'I want noodles.',
+              progress: ValueNotifier<SpeechProgress>(SpeechProgress.idle),
+              lexicon: ValueNotifier<PronLexicon>(PronLexicon.empty),
+              showIpa: false,
+              wordTaps: false,
+              onWord: words.add,
+            ),
+          ),
+        ),
+      ),
+    );
+    await tester.tap(find.text('noodles.'));
+    await tester.tap(find.text('I'));
+    expect(chosen, 2);
+    expect(words, isEmpty);
+  });
+
   testWidgets('a curriculum word shows its own IPA line', (tester) async {
     await tester.pumpWidget(
       MaterialApp(

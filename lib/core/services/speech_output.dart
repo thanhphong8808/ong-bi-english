@@ -126,7 +126,13 @@ class SpeechOutput {
       });
     }
     try {
-      await _player.play();
+      // play() returns when the sentence ends or is stopped. A watchdog
+      // makes sure a stuck player can never freeze a lesson or a talk.
+      final limit = ms > 0 ? Duration(milliseconds: ms * 2 + 5000) : const Duration(seconds: 60);
+      await _player.play().timeout(limit, onTimeout: () async {
+        debugPrint('speech: playback watchdog after ${limit.inMilliseconds} ms');
+        await _player.stop();
+      });
     } finally {
       await sub?.cancel();
       if (text != null && token == _token) {
