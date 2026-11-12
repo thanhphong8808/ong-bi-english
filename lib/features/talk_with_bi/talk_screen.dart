@@ -23,6 +23,7 @@ import '../../widgets/spoken_text.dart';
 import '../daily_lesson/activities/activity_base.dart';
 import 'bi_brain.dart';
 import 'bi_scenarios.dart';
+import '../../curriculum/talk_scripts.dart';
 import 'llm_chat_model.dart';
 
 enum _Phase { chooseMode, chooseScenario, chooseStory, loading, talking, ended }
@@ -35,7 +36,10 @@ class _Line {
 }
 
 class TalkScreen extends ConsumerStatefulWidget {
-  const TalkScreen({super.key});
+  const TalkScreen({super.key, this.topic});
+
+  /// Free chat about this topic (from "Nói tự do với Bi" in a topic).
+  final TalkTopic? topic;
 
   @override
   ConsumerState<TalkScreen> createState() => _TalkScreenState();
@@ -65,7 +69,11 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     super.initState();
     _services.studyClock.start();
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      _services.speech.sayVi(S.talkChooseSpoken).catchError((Object _) {});
+      if (widget.topic != null) {
+        _start(BiMode.chat);
+      } else {
+        _services.speech.sayVi(S.talkChooseSpoken).catchError((Object _) {});
+      }
     });
   }
 
@@ -133,8 +141,10 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
       childName: profile.name,
       knownWords: known,
       learningWords: [for (final i in unitWords) i.en, for (final i in parentWords.reversed.take(6)) i.en],
-      topicEn: unit?.topicEn ?? 'animals',
-      topicWords: topicWords.isNotEmpty ? topicWords : [for (final i in unitWords.take(6)) i.en],
+      topicEn: widget.topic?.en ?? unit?.topicEn ?? 'animals',
+      topicWords: widget.topic != null
+          ? widget.topic!.words
+          : (topicWords.isNotEmpty ? topicWords : [for (final i in unitWords.take(6)) i.en]),
       mode: mode,
       scenario: scenario,
       story: story,

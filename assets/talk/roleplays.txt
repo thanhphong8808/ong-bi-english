@@ -1,0 +1,622 @@
+# Ong Bi English - role-plays (self-authored). The child picks a role; Bi
+# plays the other one. Lines of the child's role are said after Bi; "? role"
+# options of the child's role are the child's choice, of Bi's role Bi's.
+
+# ---------------------------------------------------------------- school
+
+=== role teacher_student
+topic: school
+emoji: 👩‍🏫
+title: Teacher and student | Cô giáo và học sinh
+level: 0
+roles: teacher=Teacher|Cô giáo|👩‍🏫, student=Student|Học sinh|🧒
+
+[start]
+pic: 🏫
+teacher: Good morning, class! | Chào cả lớp!
+student: Good morning, teacher! | Chúng em chào cô ạ!
+teacher: How are you today? | Hôm nay các em thế nào?
+? student
+- 😀 I'm fine, thank you. | Em khoẻ ạ, em cảm ơn cô.
+- 😴 I'm a bit sleepy. | Em hơi buồn ngủ ạ.
+[lesson]
+teacher: Open your book, please. | Các em mở sách ra nhé.
+student: Yes, teacher. | Vâng ạ.
+teacher: What colour is this? | Đây là màu gì?
+? student
+- 🔴 It's red. | Màu đỏ ạ.
+- 🔵 It's blue. | Màu xanh dương ạ.
+- 🟡 It's yellow. | Màu vàng ạ.
+[praise]
+? teacher
+- ⭐ Very good! | Giỏi lắm!
+- 👏 Well done! | Làm tốt lắm!
+[question]
+student: Teacher, may I go to the toilet? | Thưa cô, em xin phép đi vệ sinh ạ?
+teacher: Yes, you may. | Ừ, em đi đi.
+student: Thank you, teacher. | Em cảm ơn cô ạ.
+[bye]
+teacher: Goodbye, class. See you tomorrow! | Tạm biệt cả lớp. Mai gặp lại nhé!
+student: Goodbye, teacher! | Chúng em chào cô ạ!
+-> end
+
+=== role library
+topic: school
+emoji: 📚
+title: At the library | Ở thư viện
+level: 1
+roles: librarian=Librarian|Cô thủ thư|👩, reader=Reader|Bạn đọc|🧒
+
+[start]
+pic: 📚
+librarian: Hello! Welcome to the library. | Xin chào! Chào mừng em đến thư viện.
+reader: Hello! Can I borrow a book? | Chào cô! Em mượn sách được không ạ?
+librarian: Of course! What do you like? | Tất nhiên rồi! Em thích sách gì?
+? reader
+- 🐶 A book about animals. | Sách về con vật ạ. -> animals
+- 🚀 A book about space. | Sách về vũ trụ ạ. -> space
+- 🧚 A fairy tale. | Truyện cổ tích ạ. -> fairy
+[animals]
+librarian: Here is a book about dogs and cats. | Đây là sách về chó và mèo.
+-> card
+[space]
+librarian: Here is a book about the moon and stars. | Đây là sách về mặt trăng và các vì sao.
+-> card
+[fairy]
+librarian: Here is a book of fairy tales. | Đây là quyển truyện cổ tích.
+[card]
+librarian: Do you have your library card? | Em có thẻ thư viện không?
+? reader
+- 💳 Yes, here it is. | Có ạ, của cô đây.
+- 😮 Oh no, I forgot it. | Ôi, em quên mất rồi.
+[rules]
+librarian: OK. Please be quiet in the library. | Được rồi. Trong thư viện em giữ yên lặng nhé.
+reader: Yes. I am quiet. | Vâng. Em sẽ giữ yên lặng.
+librarian: Bring it back in one week. | Một tuần sau em mang trả nhé.
+reader: Thank you! Bye-bye! | Em cảm ơn cô! Em chào cô ạ!
+-> end
+
+# ---------------------------------------------------------------- street
+
+=== role asking_the_way
+topic: street
+emoji: 👮
+title: Asking the way | Hỏi đường
+level: 1
+roles: officer=Police officer|Chú công an|👮, child=Child|Bạn nhỏ|🧒
+
+[start]
+pic: 🏙️
+child: Excuse me! | Chú ơi, cho cháu hỏi!
+officer: Hello! Can I help you? | Chào cháu! Chú giúp gì được cháu?
+? child
+- 🏞️ Where is the park? | Công viên ở đâu ạ? -> park
+- 🏫 Where is the school? | Trường học ở đâu ạ? -> school
+- 🏥 Where is the hospital? | Bệnh viện ở đâu ạ? -> hospital
+[park]
+officer: Go straight. The park is on the left. | Cháu đi thẳng. Công viên ở bên trái.
+-> repeat
+[school]
+officer: Turn right. The school is next to the bank. | Cháu rẽ phải. Trường học ở cạnh ngân hàng.
+-> repeat
+[hospital]
+officer: Turn left. The hospital is near the bus stop. | Cháu rẽ trái. Bệnh viện ở gần bến xe buýt.
+[repeat]
+child: Thank you very much! | Cháu cảm ơn chú nhiều ạ!
+officer: You're welcome. Where is your mum? | Không có gì. Mẹ cháu đâu?
+? child
+- 👩 She is here with me. | Mẹ cháu ở đây với cháu ạ.
+- 👨 I'm with my dad. | Cháu đi với bố ạ.
+[safe]
+officer: Good. Stay with your family. Be safe! | Tốt lắm. Cháu nhớ đi cùng gia đình nhé. Đi cẩn thận!
+child: Bye-bye! | Cháu chào chú ạ!
+-> end
+
+=== role on_the_bus
+topic: street
+emoji: 🚌
+title: On the bus | Trên xe buýt
+level: 1
+roles: driver=Bus driver|Bác tài xế|🧑‍✈️, passenger=Passenger|Hành khách|🧒
+
+[start]
+pic: 🚌
+driver: Hello! Where are you going? | Chào cháu! Cháu đi đâu?
+? passenger
+- 🏫 To the school, please. | Cho cháu đến trường học ạ. -> school
+- 🦁 To the zoo, please. | Cho cháu đến sở thú ạ. -> zoo
+- 🛒 To the market, please. | Cho cháu đến chợ ạ. -> market
+[school]
+driver: OK. Five stops. | Được. Năm bến nữa.
+-> ticket
+[zoo]
+driver: OK. Three stops. | Được. Ba bến nữa.
+-> ticket
+[market]
+driver: OK. Two stops. | Được. Hai bến nữa.
+[ticket]
+driver: A ticket is seven thousand dong. | Vé bảy nghìn đồng.
+passenger: Here you are. | Tiền của bác đây ạ.
+driver: Thank you. Please sit down. | Cảm ơn cháu. Cháu ngồi xuống nhé.
+[seat]
+pic: 👵
+passenger: Grandma, please take my seat. | Bà ơi, bà ngồi ghế của cháu đi ạ.
+? driver
+- 👏 What a kind child! | Cháu ngoan quá!
+- ⭐ Good job! | Giỏi lắm!
+[stop]
+driver: Here is your stop. | Đến bến của cháu rồi.
+passenger: Thank you! Goodbye! | Cháu cảm ơn bác! Cháu chào bác ạ!
+-> end
+
+# ---------------------------------------------------------------- play
+
+=== role phone_call
+topic: play
+emoji: 📞
+title: Calling a friend | Gọi điện cho bạn
+level: 1
+roles: caller=Caller|Người gọi|🧒, friend=Friend|Người bạn|👧
+
+[start]
+pic: 📞
+caller: Hello! It's me. | A lô! Tớ đây.
+friend: Hi! How are you? | Chào cậu! Cậu khoẻ không?
+caller: I'm fine, thanks. And you? | Tớ khoẻ, cảm ơn cậu. Còn cậu?
+? friend
+- 😀 I'm great! | Tớ rất khoẻ!
+- 🙂 I'm OK. | Tớ bình thường.
+[invite]
+caller: Do you want to play with me? | Cậu có muốn chơi với tớ không?
+? friend
+- 👍 Yes! What do we play? | Có! Mình chơi gì? -> what
+- 😔 Sorry, I'm busy now. | Xin lỗi, giờ tớ bận rồi. -> busy
+[busy]
+caller: That's OK. Maybe tomorrow? | Không sao. Mai nhé?
+friend: Yes, tomorrow! | Ừ, mai nhé!
+-> bye
+[what]
+? caller
+- ⚽ Let's play football. | Mình đá bóng đi.
+- 🚲 Let's ride our bikes. | Mình đạp xe đi.
+- 🧩 Let's do a puzzle. | Mình chơi ghép hình đi.
+[time]
+friend: Great idea! What time? | Ý hay đấy! Mấy giờ?
+? caller
+- 🕓 At four o'clock. | Lúc bốn giờ.
+- 🕔 At five o'clock. | Lúc năm giờ.
+[ok]
+friend: OK! See you then. | Được! Hẹn gặp cậu nhé.
+[bye]
+caller: Bye-bye! | Tạm biệt!
+friend: Bye! | Tạm biệt!
+-> end
+
+=== role zoo_visit
+topic: play
+emoji: 🦒
+title: A day at the zoo | Một ngày ở sở thú
+level: 0
+roles: keeper=Zookeeper|Cô trông thú|👩, visitor=Visitor|Khách tham quan|🧒
+
+[start]
+pic: 🦒
+keeper: Welcome to the zoo! | Chào mừng cháu đến sở thú!
+visitor: Hello! Wow, a giraffe! | Cháu chào cô! Ồ, con hươu cao cổ!
+keeper: Yes! It has a long neck. | Đúng rồi! Nó có cái cổ rất dài.
+[see]
+keeper: What animal do you want to see? | Cháu muốn xem con gì?
+? visitor
+- 🐘 The elephant! | Con voi! -> elephant
+- 🐒 The monkeys! | Mấy chú khỉ! -> monkey
+- 🦁 The lion! | Con sư tử! -> lion
+[elephant]
+pic: 🐘
+keeper: The elephant is very big. It has a long trunk. | Con voi rất to. Nó có cái vòi dài.
+visitor: It's so big! | To quá!
+-> rules
+[monkey]
+pic: 🐒
+keeper: The monkeys climb and jump. They love bananas. | Khỉ trèo và nhảy. Chúng thích chuối lắm.
+visitor: They are funny! | Chúng buồn cười quá!
+-> rules
+[lion]
+pic: 🦁
+keeper: The lion says "roar"! It is the king of animals. | Sư tử gầm "gừ gừ"! Nó là chúa sơn lâm.
+visitor: Roar! | Gừ gừ!
+[rules]
+keeper: Please don't feed the animals. | Cháu đừng cho thú ăn nhé.
+? visitor
+- 👌 OK, I won't. | Vâng, cháu không cho ăn đâu ạ.
+- 🤔 Why not? | Sao lại không ạ?
+[why]
+keeper: They have special food. | Chúng có thức ăn riêng.
+visitor: Thank you! Bye-bye! | Cháu cảm ơn cô! Cháu chào cô!
+-> end
+
+# ---------------------------------------------------------------- family
+
+=== role cooking_together
+topic: family
+emoji: 🍳
+title: Cooking with Mum | Nấu ăn cùng mẹ
+level: 1
+roles: mum=Mum|Mẹ|👩, child=Child|Con|🧒
+
+[start]
+pic: 🍳
+mum: Let's make dinner together! | Mẹ con mình cùng nấu bữa tối nhé!
+child: Yay! What do we make? | Hay quá! Mình nấu món gì ạ?
+? mum
+- 🍳 Fried eggs. | Trứng rán. -> eggs
+- 🥗 A salad. | Món rau trộn. -> salad
+[eggs]
+mum: Can you get two eggs, please? | Con lấy giúp mẹ hai quả trứng nhé?
+child: Here you are, Mum. | Của mẹ đây ạ.
+mum: Thank you. Careful, the pan is hot! | Cảm ơn con. Cẩn thận, chảo nóng đấy!
+-> taste
+[salad]
+mum: Can you wash the tomatoes, please? | Con rửa giúp mẹ cà chua nhé?
+child: OK! Splash, splash! | Vâng ạ! Ào ào!
+mum: Good. Now I cut them. Don't touch the knife! | Giỏi. Giờ mẹ thái nhé. Con đừng chạm vào dao!
+[taste]
+mum: Do you want to taste it? | Con có muốn nếm thử không?
+? child
+- 😋 Yes! It's yummy! | Có ạ! Ngon quá!
+- 🧂 It needs some salt. | Cần thêm chút muối ạ.
+[dinner]
+mum: Dinner is ready! Please call Dad. | Bữa tối xong rồi! Con gọi bố nhé.
+child: Dad! Dinner is ready! | Bố ơi! Ăn cơm thôi!
+-> end
+
+# ---------------------------------------------------------------- food
+
+=== role noodle_shop
+topic: food
+emoji: 🍜
+title: At the noodle shop | Ở quán phở
+level: 0
+roles: waiter=Waiter|Cô phục vụ|👩, customer=Customer|Khách|🧒
+
+[start]
+pic: 🍜
+waiter: Hello! Welcome! | Xin chào! Mời vào!
+customer: Hello! A table for two, please. | Chào cô! Cho cháu một bàn hai người ạ.
+waiter: This way, please. What would you like? | Mời đi lối này. Cháu muốn ăn gì?
+? customer
+- 🐄 Beef noodle soup, please. | Cho cháu phở bò ạ.
+- 🐔 Chicken noodle soup, please. | Cho cháu phở gà ạ.
+[drink]
+waiter: And to drink? | Còn đồ uống thì sao?
+? customer
+- 🍊 Orange juice, please. | Cho cháu nước cam ạ.
+- 💧 Water, please. | Cho cháu nước lọc ạ.
+[wait]
+waiter: Here you are. Enjoy! | Của cháu đây. Chúc ngon miệng!
+customer: Thank you! It's delicious. | Cháu cảm ơn! Ngon quá ạ.
+[bill]
+customer: Can I have the bill, please? | Cho cháu thanh toán ạ.
+? waiter
+- 💵 That's forty thousand dong. | Bốn mươi nghìn đồng.
+- 💵 That's fifty thousand dong. | Năm mươi nghìn đồng.
+[bye]
+customer: Here you are. Goodbye! | Tiền đây ạ. Cháu chào cô!
+waiter: Thank you. Come again! | Cảm ơn cháu. Lần sau lại đến nhé!
+-> end
+
+=== role bakery
+topic: food
+emoji: 🧁
+title: At the bakery | Ở tiệm bánh
+level: 0
+roles: baker=Baker|Bác thợ bánh|🧑‍🍳, customer=Customer|Khách|🧒
+
+[start]
+pic: 🧁
+baker: Good morning! What can I get for you? | Chào buổi sáng! Bác lấy gì cho cháu nhé?
+? customer
+- 🥖 A loaf of bread, please. | Cho cháu một ổ bánh mì ạ. -> bread
+- 🧁 A cupcake, please. | Cho cháu một cái bánh nướng nhỏ ạ. -> cupcake
+- 🍩 A donut, please. | Cho cháu một cái bánh vòng ạ. -> donut
+[bread]
+baker: Here is your bread. It's warm! | Bánh mì của cháu đây. Còn ấm đấy!
+-> more
+[cupcake]
+baker: Pink or chocolate? | Màu hồng hay sô-cô-la?
+? customer
+- 🩷 Pink, please. | Màu hồng ạ.
+- 🍫 Chocolate, please. | Sô-cô-la ạ.
+[cupcake_here]
+baker: Here you are. | Của cháu đây.
+-> more
+[donut]
+baker: This donut has sprinkles. | Bánh vòng này có rắc cốm màu.
+customer: It's so pretty! | Đẹp quá!
+[more]
+baker: Anything else? | Cháu còn lấy gì nữa không?
+? customer
+- 🙂 No, thank you. | Không ạ, cháu cảm ơn.
+- 🍪 One cookie, please. | Cho cháu một cái bánh quy ạ.
+[pay]
+baker: That's twenty thousand dong. | Hết hai mươi nghìn đồng.
+customer: Here you are. Thank you! | Tiền đây ạ. Cháu cảm ơn!
+baker: Have a nice day! | Chúc cháu một ngày vui vẻ!
+-> end
+
+# ---------------------------------------------------------------- shopping
+
+=== role fruit_shop
+topic: shopping
+emoji: 🍎
+title: At the fruit shop | Ở cửa hàng hoa quả
+level: 0
+roles: seller=Seller|Cô bán hàng|👩, customer=Customer|Khách|🧒
+
+[start]
+pic: 🍎
+seller: Hello! Fresh fruit here! | Xin chào! Hoa quả tươi đây!
+customer: Hello! Can I have some apples? | Chào cô! Cho cháu mấy quả táo ạ?
+seller: Sure! How many? | Được chứ! Cháu lấy mấy quả?
+? customer
+- 2️⃣ Two, please. | Hai quả ạ.
+- 4️⃣ Four, please. | Bốn quả ạ.
+[else]
+seller: Anything else? | Cháu lấy gì nữa không?
+? customer
+- 🍌 Some bananas, please. | Cho cháu mấy quả chuối ạ. -> bananas
+- 🙂 No, thank you. | Không ạ, cháu cảm ơn. -> pay
+[bananas]
+seller: Here are some bananas. They are sweet! | Chuối đây. Ngọt lắm đấy!
+[pay]
+customer: How much is it? | Bao nhiêu tiền ạ?
+? seller
+- 💵 Thirty thousand dong. | Ba mươi nghìn đồng.
+- 💵 Forty thousand dong. | Bốn mươi nghìn đồng.
+[bye]
+customer: Here you are. | Tiền đây ạ.
+seller: Thank you. Have a nice day! | Cảm ơn cháu. Chúc cháu một ngày vui!
+customer: Thank you. Bye! | Cháu cảm ơn. Cháu chào cô!
+-> end
+
+=== role toy_shop
+topic: shopping
+emoji: 🧸
+title: At the toy shop | Ở cửa hàng đồ chơi
+level: 1
+roles: seller=Seller|Chú bán hàng|👨, child=Child|Bạn nhỏ|🧒
+
+[start]
+pic: 🧸
+seller: Hi! Are you looking for a toy? | Chào cháu! Cháu tìm đồ chơi à?
+child: Yes! It's a present for my friend. | Vâng ạ! Cháu mua quà cho bạn.
+seller: How old is your friend? | Bạn cháu mấy tuổi?
+? child
+- 6️⃣ She is six. | Bạn ấy sáu tuổi ạ.
+- 7️⃣ He is seven. | Bạn ấy bảy tuổi ạ.
+[ideas]
+seller: How about a ball, a doll or a robot? | Một quả bóng, một con búp bê hay một con rô-bốt thì sao?
+? child
+- ⚽ The ball, please. | Cho cháu quả bóng ạ.
+- 🪆 The doll, please. | Cho cháu con búp bê ạ.
+- 🤖 The robot, please. | Cho cháu con rô-bốt ạ.
+[wrap]
+seller: Good choice! Do you want gift paper? | Chọn hay lắm! Cháu có muốn gói giấy quà không?
+? child
+- 🎁 Yes, please! | Có ạ!
+- 🙂 No, thanks. | Không cần đâu ạ.
+[thanks]
+seller: Here you are. Your friend will be happy! | Của cháu đây. Bạn cháu sẽ vui lắm!
+child: Thank you very much! | Cháu cảm ơn chú nhiều ạ!
+-> end
+
+# ---------------------------------------------------------------- health
+
+=== role doctor_visit
+topic: health
+emoji: 🩺
+title: At the doctor's | Đi khám bác sĩ
+level: 1
+roles: doctor=Doctor|Bác sĩ|👩‍⚕️, patient=Patient|Bệnh nhân|🤒
+
+[start]
+pic: 🩺
+doctor: Hello! Come in, please. Sit down. | Chào cháu! Cháu vào đi. Ngồi xuống nhé.
+patient: Hello, doctor. | Cháu chào bác sĩ ạ.
+doctor: What's the matter? | Cháu bị làm sao?
+? patient
+- 🤕 I have a headache. | Cháu bị đau đầu ạ.
+- 🤧 I have a cough. | Cháu bị ho ạ.
+- 🌡️ I have a fever. | Cháu bị sốt ạ.
+[check]
+doctor: Let me check. Open your mouth and say "Ah". | Để bác khám nhé. Cháu há miệng và nói "A".
+patient: Ahhh! | Aaa!
+doctor: Now take a deep breath. | Giờ cháu hít thở thật sâu.
+patient: In... and out. | Hít vào... thở ra.
+[advice]
+doctor: It's a cold. You need to rest and drink water. | Cháu bị cảm. Cháu cần nghỉ ngơi và uống nước.
+? doctor
+- 💊 Take this medicine after lunch. | Uống thuốc này sau bữa trưa nhé.
+- 🛏️ Stay in bed today. | Hôm nay cháu nằm nghỉ nhé.
+[thanks]
+patient: Thank you, doctor! | Cháu cảm ơn bác sĩ ạ!
+doctor: Get well soon! | Mau khoẻ nhé!
+-> end
+
+=== role dentist
+topic: health
+emoji: 🦷
+title: At the dentist's | Đi khám răng
+level: 1
+roles: dentist=Dentist|Nha sĩ|👨‍⚕️, patient=Patient|Bệnh nhân|🧒
+
+[start]
+pic: 🦷
+dentist: Hello! Let's look at your teeth. | Chào cháu! Mình xem răng của cháu nhé.
+patient: I'm a little scared. | Cháu hơi sợ ạ.
+dentist: Don't worry. It doesn't hurt. | Đừng lo. Không đau đâu.
+[open]
+dentist: Open wide, please. | Cháu há miệng thật to nhé.
+patient: Ahhh! | Aaa!
+dentist: Do you brush your teeth every day? | Cháu có đánh răng mỗi ngày không?
+? patient
+- ✅ Yes, two times a day. | Có ạ, mỗi ngày hai lần.
+- 🙈 Sometimes. | Thỉnh thoảng ạ.
+[sweets]
+dentist: Do you eat a lot of sweets? | Cháu có ăn nhiều kẹo không?
+? patient
+- 🍬 Yes, I love candy. | Có ạ, cháu thích kẹo lắm. -> candy
+- 🍎 No, I eat fruit. | Không ạ, cháu ăn hoa quả. -> fruit
+[candy]
+dentist: Eat less candy, and brush after you eat. | Cháu ăn ít kẹo thôi, và đánh răng sau khi ăn nhé.
+-> done
+[fruit]
+dentist: Good! Fruit is good for you. | Tốt lắm! Hoa quả rất tốt cho cháu.
+[done]
+dentist: Your teeth are strong. Here is a sticker! | Răng cháu khoẻ lắm. Tặng cháu một hình dán!
+patient: Thank you! | Cháu cảm ơn ạ!
+-> end
+
+# ---------------------------------------------------------------- animals
+
+=== role pet_shop
+topic: animals
+emoji: 🐱
+title: At the pet shop | Ở cửa hàng thú cưng
+level: 1
+roles: seller=Seller|Cô bán hàng|👩, child=Child|Bạn nhỏ|🧒
+
+[start]
+pic: 🐾
+seller: Hello! Do you want a pet? | Chào cháu! Cháu muốn nuôi thú cưng à?
+child: Yes! Can I see them? | Vâng ạ! Cháu xem được không ạ?
+seller: Of course. We have a puppy, a kitten and a rabbit. | Tất nhiên rồi. Ở đây có cún con, mèo con và thỏ.
+? child
+- 🐶 I like the puppy. | Cháu thích chú cún. -> puppy
+- 🐱 I like the kitten. | Cháu thích chú mèo con. -> kitten
+- 🐰 I like the rabbit. | Cháu thích chú thỏ. -> rabbit
+[puppy]
+seller: The puppy needs a walk every day. | Cún con cần được dắt đi dạo mỗi ngày.
+-> question
+[kitten]
+seller: The kitten likes to sleep and play. | Mèo con thích ngủ và chơi.
+-> question
+[rabbit]
+seller: The rabbit eats carrots and grass. | Thỏ ăn cà rốt và cỏ.
+[question]
+? child
+- 🍽️ What does it eat? | Nó ăn gì ạ? -> eat
+- 🛁 Can I wash it? | Cháu tắm cho nó được không ạ? -> wash
+[eat]
+seller: Pet food and clean water. | Thức ăn cho thú cưng và nước sạch.
+-> ask_mum
+[wash]
+seller: Yes, but ask your mum to help you. | Được, nhưng cháu nhờ mẹ giúp nhé.
+[ask_mum]
+child: I will ask my mum and dad. | Cháu sẽ hỏi bố mẹ ạ.
+seller: Good idea! A pet is a big job. | Ý hay đấy! Nuôi thú cưng là việc lớn đấy.
+child: Thank you! Bye-bye! | Cháu cảm ơn! Cháu chào cô!
+-> end
+
+# ---------------------------------------------------------------- weather
+
+=== role weather_report
+topic: weather
+emoji: 📺
+title: The weather report | Bản tin thời tiết
+level: 1
+roles: reporter=Reporter|Phát thanh viên|👩, viewer=Viewer|Người xem|🧒
+
+[start]
+pic: 📺
+reporter: Good evening! Here is the weather for tomorrow. | Chào buổi tối! Sau đây là thời tiết ngày mai.
+? reporter
+- ☀️ Tomorrow will be sunny and hot. | Ngày mai trời nắng và nóng. -> sunny
+- 🌧️ Tomorrow will be rainy. | Ngày mai trời mưa. -> rainy
+[sunny]
+viewer: Sunny! What should I wear? | Trời nắng! Cháu nên mặc gì?
+reporter: Wear a hat and drink water. | Đội mũ và uống nước nhé.
+-> plan
+[rainy]
+viewer: Rainy! What should I take? | Trời mưa! Cháu nên mang gì?
+reporter: Take an umbrella and a raincoat. | Mang ô và áo mưa nhé.
+[plan]
+reporter: What will you do tomorrow? | Ngày mai bạn sẽ làm gì?
+? viewer
+- 🏞️ I will go to the park. | Cháu sẽ đi công viên.
+- 🏠 I will stay at home and read. | Cháu sẽ ở nhà đọc sách.
+- 👵 I will visit my grandma. | Cháu sẽ đi thăm bà.
+[bye]
+reporter: Have a nice day tomorrow. Good night! | Chúc ngày mai vui vẻ. Chúc ngủ ngon!
+viewer: Good night! | Chúc ngủ ngon!
+-> end
+
+# ---------------------------------------------------------------- feelings
+
+=== role new_friend
+topic: feelings
+emoji: 🤝
+title: Making a new friend | Kết bạn mới
+level: 0
+roles: kid_a=Child A|Bạn A|🧒, kid_b=Child B|Bạn B|👧
+
+[start]
+pic: 🤝
+kid_a: Hi! I'm new here. | Chào cậu! Tớ mới đến.
+kid_b: Hello! What's your name? | Chào cậu! Cậu tên là gì?
+? kid_a
+- 🐝 My name is Bi. | Tớ tên là Bi.
+- 🙂 My name is An. | Tớ tên là An.
+[age]
+kid_b: Nice to meet you! How old are you? | Rất vui được gặp cậu! Cậu mấy tuổi?
+? kid_a
+- 6️⃣ I'm six. | Tớ sáu tuổi.
+- 7️⃣ I'm seven. | Tớ bảy tuổi.
+[like]
+kid_b: Me too! What do you like? | Tớ cũng thế! Cậu thích gì?
+? kid_a
+- 🎨 I like drawing. | Tớ thích vẽ.
+- ⚽ I like football. | Tớ thích đá bóng.
+- 🎶 I like singing. | Tớ thích hát.
+[together]
+? kid_b
+- 😃 Cool! Let's play together! | Hay quá! Mình chơi cùng nhau nhé!
+- 🤝 Do you want to be my friend? | Cậu có muốn làm bạn với tớ không?
+[friends]
+kid_a: Yes! We are friends now. | Có! Giờ mình là bạn rồi.
+kid_b: Yay! | Hoan hô!
+-> end
+
+# ---------------------------------------------------------------- holidays
+
+=== role birthday_party
+topic: holidays
+emoji: 🎈
+title: The birthday party | Tiệc sinh nhật
+level: 0
+roles: host=Birthday child|Bạn sinh nhật|🥳, guest=Guest|Khách mời|🧒
+
+[start]
+pic: 🎈
+guest: Happy birthday! | Chúc mừng sinh nhật cậu!
+host: Thank you! Come in, please. | Cảm ơn cậu! Cậu vào nhà đi.
+guest: This is for you. | Quà tặng cậu này.
+? host
+- 🎁 Wow! Thank you so much! | Ồ! Cảm ơn cậu nhiều lắm!
+- 😍 I love it! | Tớ thích lắm!
+[food]
+pic: 🎂
+host: Do you want some cake? | Cậu ăn bánh ngọt không?
+? guest
+- 🍰 Yes, please. | Có, cho tớ với.
+- 🧃 Can I have some juice? | Cho tớ ít nước quả được không?
+[game]
+host: Let's play a game! | Mình chơi trò chơi nào!
+? host
+- 🎵 Let's sing and dance. | Mình hát và nhảy đi.
+- 🎈 Let's pop the balloons. | Mình làm nổ bóng bay đi.
+[fun]
+guest: This is fun! | Vui quá!
+[song]
+guest: Happy birthday to you! | Chúc mừng sinh nhật cậu!
+host: Thank you for coming! | Cảm ơn cậu đã đến!
+-> end

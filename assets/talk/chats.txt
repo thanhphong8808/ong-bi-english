@@ -1,0 +1,907 @@
+# Ong Bi English - guided chats with Bi (self-authored).
+# Format: see lib/curriculum/talk_scripts.dart. Bi = bi, the child = kid.
+
+@topic daily | 🌞 | Daily life | Hằng ngày | morning, breakfast, wash, brush, teeth, school, bed, sleep
+@topic school | 🏫 | At school | Lớp học | teacher, pencil, book, bag, desk, friend, draw, read
+@topic street | 🚦 | On the street | Đường phố | car, bus, bike, road, light, red, green, walk
+@topic play | 🪁 | Play time | Vui chơi | ball, slide, swing, kite, park, run, jump, game
+@topic family | 🏠 | My family | Gia đình | mum, dad, sister, brother, grandma, grandpa, home, help
+@topic food | 🍜 | Food and drinks | Ăn uống | rice, noodles, milk, water, apple, banana, hungry, cake
+@topic shopping | 🛒 | Shopping | Mua sắm | shop, buy, money, apple, toy, bag, please, thank
+@topic health | 🩺 | Health | Sức khoẻ | doctor, sick, head, hand, wash, medicine, rest, water
+@topic animals | 🐶 | Animals | Con vật | dog, cat, bird, fish, cow, duck, pet, farm
+@topic weather | ☀️ | Weather | Thời tiết | sunny, rainy, hot, cold, umbrella, wind, cloud, rainbow
+@topic feelings | 💛 | Feelings and friends | Cảm xúc và tình bạn | happy, sad, angry, scared, friend, share, sorry, hug
+@topic holidays | 🎉 | Festivals and birthdays | Lễ hội và sinh nhật | birthday, cake, present, lantern, moon, party, family
+
+# ---------------------------------------------------------------- daily
+
+=== chat good_morning
+topic: daily
+emoji: 🌅
+title: Good morning! | Chào buổi sáng!
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🌅
+bi: Good morning! | Chào buổi sáng!
+bi: How are you today? | Hôm nay cậu thấy thế nào?
+? kid
+- 😀 I'm happy! | Tớ vui lắm! -> happy
+- 😴 I'm sleepy. | Tớ buồn ngủ. -> sleepy
+- 🙂 I'm fine, thank you. | Tớ khoẻ, cảm ơn cậu. -> happy
+[happy]
+bi: Yay! Me too! | Hay quá! Tớ cũng thế!
+-> teeth
+[sleepy]
+bi: Oh! Open your eyes. Stretch your arms! | Ồ! Mở mắt ra nào. Vươn vai thật cao!
+kid: Stretch, stretch! | Vươn vai, vươn vai!
+[teeth]
+pic: 🪥
+bi: Did you brush your teeth? | Cậu đánh răng chưa?
+? kid
+- ✅ Yes, I did. | Rồi, tớ đánh răng rồi. -> breakfast
+- ❌ Not yet. | Chưa. -> brush
+[brush]
+bi: Let's brush them now. Up and down! | Mình đánh răng ngay nào. Chải lên, chải xuống!
+kid: Up and down! | Chải lên, chải xuống!
+[breakfast]
+pic: 🍳
+bi: It's breakfast time. What do you want? | Đến giờ ăn sáng rồi. Cậu muốn ăn gì?
+? kid
+- 🍜 I want noodles. | Tớ muốn ăn mì.
+- 🥖 I want bread. | Tớ muốn ăn bánh mì.
+- 🍚 I want rice. | Tớ muốn ăn cơm.
+[end_of_morning]
+bi: Yummy! Have a nice day! | Ngon quá! Chúc cậu một ngày vui vẻ!
+kid: Thank you, Bi! | Cảm ơn Bi!
+-> end
+
+=== chat bedtime
+topic: daily
+emoji: 🌙
+title: Bedtime | Giờ đi ngủ
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🌙
+bi: Look! The moon is up. | Nhìn kìa! Mặt trăng lên rồi.
+bi: It's bedtime. Are you tired? | Đến giờ đi ngủ rồi. Cậu mệt chưa?
+? kid
+- 🥱 Yes, I'm tired. | Ừ, tớ mệt rồi. -> pyjamas
+- 🤸 No, I want to play! | Chưa, tớ muốn chơi! -> play
+[play]
+bi: Play tomorrow, OK? Now we rest. | Mai mình chơi tiếp nhé? Bây giờ mình nghỉ ngơi.
+kid: OK, Bi. | Được, Bi ạ.
+[pyjamas]
+pic: 🛏️
+bi: Put on your pyjamas. | Cậu mặc đồ ngủ vào nhé.
+bi: Do you want a story? | Cậu có muốn nghe kể chuyện không?
+? kid
+- 📖 Yes, please! | Có ạ! -> story
+- 🎶 I want a song. | Tớ muốn nghe hát. -> song
+[story]
+bi: Once upon a time, a little bee slept in a flower. | Ngày xửa ngày xưa, có một chú ong nhỏ ngủ trong một bông hoa.
+-> goodnight
+[song]
+bi: Twinkle, twinkle, little star. | Lấp lánh, lấp lánh, ngôi sao nhỏ.
+[goodnight]
+bi: Close your eyes. Good night! | Nhắm mắt lại nào. Chúc ngủ ngon!
+kid: Good night, Bi! | Chúc Bi ngủ ngon!
+-> end
+
+# ---------------------------------------------------------------- school
+
+=== chat in_class
+topic: school
+emoji: 🏫
+title: In class | Trong lớp học
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🏫
+bi: Hello! Let's go to class. | Xin chào! Mình vào lớp nào.
+bi: What is in your bag? | Trong cặp của cậu có gì?
+? kid
+- 📚 A book. | Một quyển sách.
+- ✏️ A pencil. | Một cái bút chì.
+- 🖍️ Crayons. | Bút sáp màu.
+[teacher]
+pic: 👩‍🏫
+bi: Here is our teacher. Say hello! | Cô giáo đến rồi. Chào cô đi nào!
+kid: Good morning, teacher! | Chúng em chào cô ạ!
+[draw]
+pic: 🎨
+bi: Now we draw. What do you want to draw? | Giờ mình vẽ tranh. Cậu muốn vẽ gì?
+? kid
+- 🌞 The sun. | Ông mặt trời.
+- 🐱 A cat. | Một con mèo.
+- 🏠 My house. | Ngôi nhà của tớ.
+[nice]
+bi: Wow, it's beautiful! | Ồ, đẹp quá!
+bi: Can I see it? | Cho tớ xem với được không?
+? kid
+- 👍 Yes, you can. | Được chứ.
+- 🎁 Here you are! | Của cậu đây!
+[bye]
+bi: Thank you! You are a good artist. | Cảm ơn cậu! Cậu vẽ giỏi thật đấy.
+-> end
+
+=== chat break_time
+topic: school
+emoji: 🔔
+title: Break time | Giờ ra chơi
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🔔
+bi: Ring, ring! It's break time! | Reng reng! Ra chơi rồi!
+bi: What do you want to do? | Cậu muốn làm gì?
+? kid
+- ⚽ Let's play football. | Mình chơi đá bóng đi. -> football
+- 🪢 Let's jump rope. | Mình nhảy dây đi. -> rope
+- 🍎 I want to eat a snack. | Tớ muốn ăn quà. -> snack
+[football]
+bi: OK! Kick the ball to me. | Được! Đá bóng cho tớ nào.
+kid: Here it comes! | Bóng tới đây!
+bi: Goal! Great kick! | Vào! Cú đá hay quá!
+-> friend
+[rope]
+bi: One, two, three, jump! | Một, hai, ba, nhảy!
+kid: Jump, jump, jump! | Nhảy, nhảy, nhảy!
+-> friend
+[snack]
+bi: I have an apple. Do you want half? | Tớ có một quả táo. Cậu ăn một nửa nhé?
+kid: Yes, please. Thank you! | Có ạ. Cảm ơn cậu!
+[friend]
+pic: 👦
+bi: Look, a new boy. He is alone. | Nhìn kìa, có một bạn trai mới. Bạn ấy chơi một mình.
+bi: What can we say? | Mình nói gì với bạn ấy nhỉ?
+? kid
+- 👋 Hi! Do you want to play? | Chào cậu! Cậu muốn chơi cùng không?
+- 😊 What's your name? | Cậu tên là gì?
+[kind]
+bi: That is very kind. Now he is happy! | Cậu tốt bụng quá. Giờ bạn ấy vui rồi!
+bi: Ring, ring! Back to class. | Reng reng! Vào lớp thôi.
+-> end
+
+# ---------------------------------------------------------------- street
+
+=== chat traffic_light
+topic: street
+emoji: 🚦
+title: The traffic light | Đèn giao thông
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🚦
+bi: We are on the street. Hold my hand! | Mình đang ở ngoài đường. Nắm tay tớ nhé!
+bi: Look at the light. It is red. | Nhìn đèn kìa. Đèn đang đỏ.
+bi: Red light. Do we go or stop? | Đèn đỏ. Mình đi hay dừng?
+? kid
+- ✋ We stop. | Mình dừng lại. -> right_red
+- 🚶 We go. | Mình đi. -> wrong_red
+[wrong_red]
+bi: Oh no! Red means stop. | Ồ không! Đèn đỏ là phải dừng lại.
+kid: Red means stop. | Đèn đỏ là dừng lại.
+-> green
+[right_red]
+bi: Yes! Red means stop. Well done! | Đúng rồi! Đèn đỏ là dừng lại. Giỏi quá!
+[green]
+pic: 🟢
+bi: Now the light is green. | Bây giờ đèn xanh rồi.
+bi: Green light. What do we do? | Đèn xanh. Mình làm gì?
+? kid
+- 🚶 We can go. | Mình được đi. -> walk
+- ✋ We stop. | Mình dừng lại. -> wrong_green
+[wrong_green]
+bi: Green means go. Let's go! | Đèn xanh là được đi. Đi thôi!
+-> walk
+[walk]
+bi: Look left, look right. Walk with me! | Nhìn trái, nhìn phải. Đi cùng tớ nào!
+kid: Look left, look right! | Nhìn trái, nhìn phải!
+bi: Great! We are safe. | Tuyệt! Mình an toàn rồi.
+-> end
+
+=== chat going_to_school
+topic: street
+emoji: 🚌
+title: Going to school | Đến trường
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🏫
+bi: How do you go to school? | Cậu đến trường bằng gì?
+? kid
+- 🛵 By motorbike. | Bằng xe máy. -> motorbike
+- 🚗 By car. | Bằng ô tô. -> car
+- 🚶 I walk. | Tớ đi bộ. -> walk
+- 🚌 By bus. | Bằng xe buýt. -> bus
+[motorbike]
+bi: Wear your helmet, OK? | Nhớ đội mũ bảo hiểm nhé?
+kid: Yes! I wear my helmet. | Vâng! Tớ đội mũ bảo hiểm.
+-> who
+[car]
+bi: Wear your seat belt, OK? | Nhớ thắt dây an toàn nhé?
+kid: Yes! Click! | Vâng! Cạch!
+-> who
+[walk]
+bi: Walk on the pavement. Be careful! | Đi trên vỉa hè nhé. Cẩn thận đấy!
+kid: I'm careful! | Tớ cẩn thận mà!
+-> who
+[bus]
+bi: Sit down and hold on! | Ngồi xuống và bám chắc nhé!
+kid: OK, I hold on. | Được, tớ bám chắc rồi.
+[who]
+bi: Who takes you to school? | Ai đưa cậu đến trường?
+? kid
+- 👩 My mum. | Mẹ tớ.
+- 👨 My dad. | Bố tớ.
+- 👵 My grandma. | Bà tớ.
+[bye]
+bi: Say thank you and have a good day! | Nói cảm ơn và chúc một ngày vui nhé!
+kid: Thank you! Bye-bye! | Con cảm ơn! Tạm biệt!
+-> end
+
+# ---------------------------------------------------------------- play
+
+=== chat playground
+topic: play
+emoji: 🛝
+title: At the playground | Ở sân chơi
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🛝
+bi: Wow, a big playground! | Ồ, sân chơi to quá!
+bi: What do you want to play on? | Cậu muốn chơi gì?
+? kid
+- 🛝 The slide! | Cầu trượt! -> slide
+- 🪁 Let's fly a kite. | Mình thả diều đi. -> kite
+- ⚽ The ball! | Quả bóng! -> ball
+[slide]
+bi: Go up the steps. One, two, three. Whee! | Leo lên bậc thang. Một, hai, ba. Vèo!
+kid: Whee! Again! | Vèo! Lần nữa nào!
+-> turn
+[kite]
+bi: Run, run! The kite goes up, up, up! | Chạy, chạy! Diều bay lên cao, cao, cao!
+kid: Up, up, up! | Lên, lên, lên!
+-> turn
+[ball]
+bi: Throw the ball to me! | Ném bóng cho tớ nào!
+kid: Catch! | Bắt này!
+[turn]
+pic: 👧
+bi: A girl wants to play too. | Có một bạn gái cũng muốn chơi.
+? kid
+- 🤝 Let's play together! | Mình chơi cùng nhau nhé!
+- ⏳ You can go next. | Lượt sau là của cậu nhé.
+[together]
+bi: Good job! Sharing is fun. | Giỏi lắm! Chơi cùng nhau thật vui.
+-> end
+
+=== chat hide_and_seek
+topic: play
+emoji: 🙈
+title: Hide and seek | Trốn tìm
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🙈
+bi: Let's play hide and seek! | Mình chơi trốn tìm nhé!
+bi: Do you want to hide or to seek? | Cậu muốn đi trốn hay đi tìm?
+? kid
+- 🫣 I want to hide. | Tớ muốn đi trốn. -> hide
+- 🔎 I want to seek. | Tớ muốn đi tìm. -> seek
+[hide]
+bi: OK! I close my eyes. One, two, three... ten! | Được! Tớ nhắm mắt nhé. Một, hai, ba... mười!
+bi: Where are you? | Cậu ở đâu thế?
+? kid
+- 🛋️ I'm behind the sofa. | Tớ ở sau ghế sô pha.
+- 🌳 I'm behind the tree. | Tớ ở sau cái cây.
+- 🛏️ I'm under the bed. | Tớ ở dưới gầm giường.
+[found]
+bi: I found you! | Tìm thấy cậu rồi!
+-> again
+[seek]
+bi: Close your eyes and count to ten. | Cậu nhắm mắt và đếm đến mười nhé.
+kid: One, two, three, four, five... ten! Ready or not, here I come! | Một, hai, ba, bốn, năm... mười! Tớ đi tìm đây!
+bi: Hee hee. Can you find me? | Hì hì. Cậu tìm thấy tớ không?
+? kid
+- 🚪 Are you behind the door? | Cậu ở sau cánh cửa à?
+- 📦 Are you in the box? | Cậu ở trong cái hộp à?
+[bi_found]
+bi: Yes! You found me! You are good at this. | Đúng rồi! Cậu tìm thấy tớ rồi! Cậu giỏi quá.
+[again]
+bi: That was fun! Play again tomorrow? | Vui quá! Mai chơi tiếp nhé?
+kid: Yes, let's play again! | Ừ, mình chơi tiếp nhé!
+-> end
+
+# ---------------------------------------------------------------- family
+
+=== chat my_family
+topic: family
+emoji: 🏠
+title: My family | Gia đình tớ
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🏠
+bi: This is my family. My mum is a big bee! | Đây là gia đình tớ. Mẹ tớ là một con ong to!
+bi: Who is in your family? | Nhà cậu có những ai?
+? kid
+- 👩 My mum and my dad. | Mẹ và bố tớ.
+- 👧 My sister. | Chị gái/em gái của tớ.
+- 👦 My brother. | Anh trai/em trai của tớ.
+[love]
+bi: Do you love your family? | Cậu có yêu gia đình mình không?
+? kid
+- ❤️ Yes, I love them! | Có, tớ yêu cả nhà lắm!
+- 🤗 Very much! | Rất nhiều!
+[grand]
+pic: 👵
+bi: Do you have a grandma and a grandpa? | Cậu có ông bà không?
+? kid
+- 👴 Yes, I do. | Có ạ. -> visit
+- 🏡 They live far away. | Ông bà ở xa. -> far
+[far]
+bi: You can call them! Say "I love you". | Cậu gọi điện cho ông bà nhé! Nói "Cháu yêu ông bà".
+kid: I love you, Grandma and Grandpa! | Cháu yêu ông bà ạ!
+-> end
+[visit]
+bi: Give them a big hug today! | Hôm nay cậu ôm ông bà thật chặt nhé!
+kid: A big hug! | Một cái ôm thật chặt!
+-> end
+
+=== chat helping_home
+topic: family
+emoji: 🧹
+title: Helping at home | Giúp việc nhà
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🏠
+bi: Mum is busy. Can you help her? | Mẹ đang bận. Cậu giúp mẹ được không?
+? kid
+- 💪 Yes, I can help! | Được, tớ giúp được! -> jobs
+- 🤔 What can I do? | Tớ làm được gì? -> jobs
+[jobs]
+bi: You can tidy your toys, or water the plants. | Cậu có thể dọn đồ chơi, hoặc tưới cây.
+? kid
+- 🧸 I tidy my toys. | Tớ dọn đồ chơi. -> toys
+- 🪴 I water the plants. | Tớ tưới cây. -> plants
+- 🥢 I set the table. | Tớ dọn bát đũa. -> table
+[toys]
+bi: The teddy goes in the box. The ball goes in the box. | Gấu bông cất vào hộp. Quả bóng cất vào hộp.
+kid: All in the box! | Cất hết vào hộp rồi!
+-> thanks
+[plants]
+bi: A little water for each plant. | Mỗi cây một chút nước nhé.
+kid: Drink, little plants! | Uống nước đi, các cây nhỏ!
+-> thanks
+[table]
+bi: One bowl, two bowls, three bowls. | Một cái bát, hai cái bát, ba cái bát.
+kid: And chopsticks, too! | Và cả đũa nữa!
+[thanks]
+pic: 👩
+bi: Mum says, "Thank you! You are a big helper!" | Mẹ nói: "Cảm ơn con! Con giúp mẹ giỏi quá!"
+kid: You're welcome, Mum! | Không có gì đâu mẹ ơi!
+-> end
+
+# ---------------------------------------------------------------- food
+
+=== chat lunch_time
+topic: food
+emoji: 🍚
+title: Lunch time | Giờ ăn trưa
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🍚
+bi: I'm hungry! Are you hungry? | Tớ đói rồi! Cậu có đói không?
+? kid
+- 😋 Yes, I'm hungry. | Có, tớ đói rồi.
+- 🙂 A little. | Hơi hơi.
+[wash]
+bi: First, wash your hands. | Trước tiên, cậu rửa tay nhé.
+kid: I wash my hands. | Tớ rửa tay.
+[menu]
+pic: 🍲
+bi: We have rice, fish and soup. What do you want? | Có cơm, cá và canh. Cậu muốn ăn gì?
+? kid
+- 🍚 Rice, please. | Cho tớ cơm.
+- 🐟 Fish, please. | Cho tớ cá.
+- 🥣 Soup, please. | Cho tớ canh.
+[drink]
+bi: Here you are. Do you want water or milk? | Của cậu đây. Cậu muốn uống nước hay sữa?
+? kid
+- 💧 Water, please. | Cho tớ nước.
+- 🥛 Milk, please. | Cho tớ sữa.
+[full]
+bi: Yummy! Are you full now? | Ngon quá! Cậu no chưa?
+kid: I'm full. Thank you! | Tớ no rồi. Cảm ơn cậu!
+-> end
+
+=== chat favourite_fruit
+topic: food
+emoji: 🍉
+title: My favourite fruit | Hoa quả tớ thích
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🍉
+bi: I love fruit! Do you like fruit? | Tớ thích hoa quả lắm! Cậu có thích hoa quả không?
+? kid
+- 👍 Yes, I do! | Có chứ!
+- 😋 I love fruit! | Tớ rất thích!
+[which]
+bi: What is your favourite fruit? | Cậu thích quả gì nhất?
+? kid
+- 🥭 Mango! | Xoài! -> mango
+- 🍉 Watermelon! | Dưa hấu! -> melon
+- 🍌 Banana! | Chuối! -> banana
+[mango]
+bi: Mangoes are yellow and sweet. | Xoài màu vàng và ngọt.
+-> colour
+[melon]
+bi: Watermelon is red inside. And green outside! | Dưa hấu bên trong màu đỏ. Bên ngoài màu xanh!
+-> colour
+[banana]
+bi: Bananas are long and yellow. Monkeys love them! | Chuối dài và màu vàng. Khỉ rất thích chuối!
+[colour]
+pic: 🍎
+bi: I like apples. What colour is an apple? | Tớ thích táo. Quả táo màu gì nhỉ?
+? kid
+- 🔴 Red! | Màu đỏ!
+- 🟢 Green! | Màu xanh lá!
+[yes]
+bi: Yes! Apples can be red or green. | Đúng rồi! Táo có thể màu đỏ hoặc xanh.
+kid: I like apples too! | Tớ cũng thích táo!
+-> end
+
+# ---------------------------------------------------------------- shopping
+
+=== chat shopping_list
+topic: shopping
+emoji: 📝
+title: The shopping list | Danh sách đi chợ
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🛒
+bi: Let's go shopping with Mum! | Mình đi chợ với mẹ nào!
+bi: What do we need? | Mình cần mua gì nhỉ?
+? kid
+- 🥛 We need milk. | Mình cần sữa.
+- 🥚 We need eggs. | Mình cần trứng.
+- 🍞 We need bread. | Mình cần bánh mì.
+[more]
+bi: Good. And some fruit. How many apples? | Được. Và một ít hoa quả. Mua mấy quả táo?
+? kid
+- 3️⃣ Three apples. | Ba quả táo.
+- 5️⃣ Five apples. | Năm quả táo.
+[pay]
+pic: 💵
+bi: Let's pay. Say "How much is it?" | Mình trả tiền nào. Cậu hỏi "Bao nhiêu tiền ạ?"
+kid: How much is it? | Bao nhiêu tiền ạ?
+bi: It's fifty thousand dong. Here you are! | Năm mươi nghìn đồng. Đây ạ!
+kid: Thank you! | Cảm ơn ạ!
+[carry]
+bi: The bag is heavy. Can you help carry it? | Túi nặng quá. Cậu xách giúp được không?
+? kid
+- 💪 Yes, I can! | Được chứ!
+- 🤝 Let's carry it together. | Mình cùng xách nhé.
+[home]
+bi: You are strong! Let's go home. | Cậu khoẻ quá! Mình về nhà thôi.
+-> end
+
+=== chat new_shoes
+topic: shopping
+emoji: 👟
+title: New shoes | Đôi giày mới
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 👟
+bi: My shoes are too small. I need new shoes! | Giày của tớ chật rồi. Tớ cần giày mới!
+bi: Can you help me choose? | Cậu chọn giúp tớ nhé?
+? kid
+- 👍 Sure! | Tất nhiên rồi!
+- 😊 Yes, let's go! | Ừ, đi thôi!
+[colour]
+bi: Red shoes or blue shoes? | Giày đỏ hay giày xanh?
+? kid
+- 🔴 The red shoes. | Đôi giày đỏ.
+- 🔵 The blue shoes. | Đôi giày xanh.
+[try]
+bi: Let me try them on. | Để tớ đi thử nhé.
+bi: Do they look good? | Trông có đẹp không?
+? kid
+- 😍 They look great! | Đẹp lắm!
+- 👌 Very nice! | Rất đẹp!
+[fit]
+bi: They fit! Now I can run fast. | Vừa chân rồi! Giờ tớ chạy nhanh được rồi.
+kid: Let's run! | Mình chạy nào!
+-> end
+
+# ---------------------------------------------------------------- health
+
+=== chat wash_hands
+topic: health
+emoji: 🧼
+title: Wash your hands | Rửa tay sạch
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🧼
+bi: Look at your hands. Are they clean or dirty? | Nhìn tay cậu xem. Sạch hay bẩn?
+? kid
+- 🤲 They are clean. | Tay tớ sạch. -> clean
+- 🟤 They are dirty. | Tay tớ bẩn. -> dirty
+[clean]
+bi: Good! But we wash them before we eat. | Tốt! Nhưng mình vẫn rửa tay trước khi ăn.
+-> steps
+[dirty]
+bi: Let's wash them now! | Mình rửa tay ngay nào!
+[steps]
+pic: 🫧
+bi: Water. Soap. Rub, rub, rub! | Nước. Xà phòng. Xoa, xoa, xoa!
+kid: Rub, rub, rub! | Xoa, xoa, xoa!
+bi: Now dry your hands with a towel. | Giờ lau khô tay bằng khăn nhé.
+kid: My hands are clean! | Tay tớ sạch rồi!
+[when]
+bi: When do we wash our hands? | Khi nào mình rửa tay?
+? kid
+- 🍽️ Before we eat. | Trước khi ăn.
+- 🚽 After the toilet. | Sau khi đi vệ sinh.
+- 🛝 After we play. | Sau khi chơi.
+[good]
+bi: Yes! Clean hands keep us healthy. | Đúng rồi! Tay sạch giúp mình khoẻ mạnh.
+-> end
+
+=== chat feeling_sick
+topic: health
+emoji: 🤒
+title: I don't feel well | Tớ thấy mệt
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🤒
+bi: Oh, you look tired. What's wrong? | Ồ, trông cậu mệt quá. Cậu sao thế?
+? kid
+- 🤕 I have a headache. | Tớ đau đầu. -> rest
+- 🤧 I have a cold. | Tớ bị cảm. -> cold
+- 😣 I have a stomachache. | Tớ đau bụng. -> rest
+[cold]
+bi: Here is a tissue. | Khăn giấy đây.
+kid: Thank you. Achoo! | Cảm ơn cậu. Hắt xì!
+[rest]
+pic: 🛏️
+bi: Tell Mum or Dad. You need to rest. | Cậu nói với bố mẹ nhé. Cậu cần nghỉ ngơi.
+kid: Mum, I don't feel well. | Mẹ ơi, con thấy mệt.
+bi: Drink some warm water, too. | Uống thêm nước ấm nữa nhé.
+? kid
+- 💧 OK, I drink some water. | Được, tớ uống nước.
+- 🛌 I go to bed. | Tớ đi nằm nghỉ.
+[better]
+bi: Get well soon! I hope you feel better. | Mau khoẻ nhé! Tớ mong cậu sẽ đỡ hơn.
+kid: Thank you, Bi! | Cảm ơn Bi!
+-> end
+
+# ---------------------------------------------------------------- animals
+
+=== chat my_pet
+topic: animals
+emoji: 🐶
+title: My pet | Thú cưng của tớ
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🐶
+bi: Do you like animals? | Cậu có thích con vật không?
+? kid
+- 👍 Yes, I do! | Có chứ!
+- ❤️ I love animals! | Tớ rất yêu con vật!
+[pet]
+bi: Which pet do you like? | Cậu thích con vật nuôi nào?
+? kid
+- 🐶 A dog. | Con chó. -> dog
+- 🐱 A cat. | Con mèo. -> cat
+- 🐟 A fish. | Con cá. -> fish
+[dog]
+bi: Dogs say "woof, woof"! | Chó kêu "gâu gâu"!
+kid: Woof, woof! | Gâu gâu!
+-> care
+[cat]
+bi: Cats say "meow"! | Mèo kêu "meo meo"!
+kid: Meow! | Meo meo!
+-> care
+[fish]
+bi: Fish swim in the water. Swish, swish! | Cá bơi trong nước. Vút, vút!
+kid: Swish, swish! | Vút, vút!
+[care]
+bi: Pets need food and water every day. | Thú cưng cần ăn và uống nước mỗi ngày.
+bi: What does your pet need? | Thú cưng của cậu cần gì?
+? kid
+- 🍖 Food. | Thức ăn.
+- 💧 Water. | Nước.
+- 🤗 Love! | Tình yêu thương!
+[love]
+bi: Yes! And lots of love. | Đúng rồi! Và thật nhiều yêu thương nữa.
+-> end
+
+=== chat at_the_farm
+topic: animals
+emoji: 🐄
+title: At the farm | Ở trang trại
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🐄
+bi: Welcome to the farm! | Chào mừng đến trang trại!
+bi: Listen! "Moo, moo!" Who is it? | Nghe này! "Ụm bò!" Ai đấy nhỉ?
+? kid
+- 🐄 It's a cow! | Con bò! -> cow_right
+- 🦆 It's a duck! | Con vịt! -> cow_wrong
+[cow_wrong]
+bi: Ducks say "quack". Cows say "moo"! | Vịt kêu "cạp cạp". Bò mới kêu "ụm bò"!
+-> next
+[cow_right]
+bi: Yes! The cow gives us milk. | Đúng rồi! Con bò cho mình sữa.
+[next]
+pic: 🐔
+bi: "Cluck, cluck!" Who is it? | "Cục ta cục tác!" Ai đây?
+? kid
+- 🐔 It's a hen! | Con gà mái! -> hen
+- 🐖 It's a pig! | Con lợn! -> hen_wrong
+[hen_wrong]
+bi: Pigs say "oink". The hen says "cluck"! | Lợn kêu "ụt ịt". Gà mái mới kêu "cục tác"!
+-> eggs
+[hen]
+bi: Yes! The hen gives us eggs. | Đúng rồi! Gà mái cho mình trứng.
+[eggs]
+bi: Let's count the eggs. One, two, three! | Mình đếm trứng nào. Một, hai, ba!
+kid: One, two, three eggs! | Một, hai, ba quả trứng!
+[bye]
+bi: Bye-bye, animals! | Tạm biệt các con vật!
+kid: Bye-bye! | Tạm biệt!
+-> end
+
+# ---------------------------------------------------------------- weather
+
+=== chat rainy_day
+topic: weather
+emoji: 🌧️
+title: A rainy day | Ngày mưa
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🌧️
+bi: Look outside. What's the weather like? | Nhìn ra ngoài xem. Thời tiết thế nào?
+? kid
+- 🌧️ It's rainy. | Trời mưa. -> rain
+- ☀️ It's sunny. | Trời nắng. -> sunny
+[sunny]
+bi: Hmm, I see rain! It's rainy today. | Hừm, tớ thấy mưa mà! Hôm nay trời mưa.
+kid: It's rainy. | Trời mưa.
+[rain]
+bi: We need an umbrella! | Mình cần một cái ô!
+? kid
+- ☂️ Here is my umbrella. | Ô của tớ đây.
+- 🧥 And my raincoat! | Và áo mưa nữa!
+[splash]
+pic: 💦
+bi: Splash! A big puddle! | Tõm! Một vũng nước to!
+bi: Do you want to jump in it? | Cậu có muốn nhảy vào không?
+? kid
+- 🥾 Yes! With my boots! | Có! Đi ủng vào đã! -> boots
+- 🙅 No, I stay dry. | Không, tớ giữ khô người. -> dry
+[boots]
+bi: Splish, splash! That's fun! | Lõm bõm! Vui quá!
+-> rainbow
+[dry]
+bi: Good idea. We stay dry and warm. | Ý hay đấy. Mình giữ khô và ấm.
+[rainbow]
+pic: 🌈
+bi: Look! The rain stops. A rainbow! | Nhìn kìa! Tạnh mưa rồi. Cầu vồng!
+kid: A beautiful rainbow! | Cầu vồng đẹp quá!
+-> end
+
+=== chat seasons
+topic: weather
+emoji: 🍂
+title: Hot and cold | Nóng và lạnh
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: ☀️
+bi: Phew! It's very hot today. | Phù! Hôm nay nóng quá.
+bi: What do we wear when it's hot? | Trời nóng mình mặc gì?
+? kid
+- 👕 A T-shirt. | Áo phông.
+- 🩳 Shorts. | Quần đùi.
+- 🧢 A cap. | Mũ lưỡi trai.
+[drink]
+bi: And we drink lots of water! | Và mình uống thật nhiều nước!
+kid: I drink water. | Tớ uống nước.
+[cold]
+pic: ❄️
+bi: Now it's cold. Brrr! What do we wear? | Giờ trời lạnh. Brừ! Mình mặc gì?
+? kid
+- 🧥 A coat. | Áo khoác.
+- 🧣 A scarf. | Khăn quàng cổ.
+- 🧤 Gloves. | Găng tay.
+[warm]
+bi: Now I'm warm. Thank you! | Giờ tớ ấm rồi. Cảm ơn cậu!
+bi: Do you like hot days or cold days? | Cậu thích ngày nóng hay ngày lạnh?
+? kid
+- ☀️ I like hot days. | Tớ thích ngày nóng.
+- ❄️ I like cold days. | Tớ thích ngày lạnh.
+[me]
+bi: I like sunny days. Flowers are open! | Tớ thích ngày nắng. Hoa nở hết!
+-> end
+
+# ---------------------------------------------------------------- feelings
+
+=== chat feeling_sad
+topic: feelings
+emoji: 😢
+title: When I feel sad | Khi tớ buồn
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 😢
+bi: I feel sad today. | Hôm nay tớ thấy buồn.
+? kid
+- 🤔 Why are you sad? | Sao cậu buồn thế? -> why
+- 🤗 Do you want a hug? | Cậu có muốn ôm một cái không? -> hug
+[why]
+bi: I lost my red ball. | Tớ làm mất quả bóng đỏ rồi.
+? kid
+- 🔎 Let's look for it! | Mình đi tìm nhé! -> look
+- 🤗 Don't be sad. | Đừng buồn nữa. -> hug
+[look]
+bi: Is it under the table? | Nó ở dưới gầm bàn à?
+kid: Here it is! | Nó đây rồi!
+bi: My ball! Thank you so much! | Bóng của tớ! Cảm ơn cậu nhiều lắm!
+-> better
+[hug]
+bi: Yes, please. A big hug! | Có. Một cái ôm thật chặt!
+kid: A big hug for you! | Ôm cậu thật chặt này!
+[better]
+pic: 😊
+bi: Now I feel better. You are a good friend. | Giờ tớ thấy vui hơn rồi. Cậu là một người bạn tốt.
+bi: When you feel sad, tell Mum or Dad. | Khi cậu buồn, hãy nói với bố mẹ nhé.
+kid: I tell Mum or Dad. | Tớ sẽ nói với bố mẹ.
+-> end
+
+=== chat sharing
+topic: feelings
+emoji: 🤝
+title: Sharing is caring | Biết chia sẻ
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🧸
+bi: Look, I have a new teddy bear! | Nhìn này, tớ có một chú gấu bông mới!
+? kid
+- 😍 It's so cute! | Đáng yêu quá!
+- 🙏 Can I hold it, please? | Cho tớ bế một chút được không?
+[share]
+bi: Sure! Let's share. | Được chứ! Mình cùng chơi nhé.
+bi: Do you have a toy to share? | Cậu có đồ chơi nào để chia sẻ không?
+? kid
+- 🚗 My toy car. | Ô tô đồ chơi của tớ.
+- 🧩 My puzzle. | Bộ ghép hình của tớ.
+- 🖍️ My crayons. | Bút sáp màu của tớ.
+[oops]
+pic: 💥
+bi: Oops! I broke your toy. I'm sorry. | Ối! Tớ làm hỏng đồ chơi của cậu rồi. Tớ xin lỗi.
+? kid
+- 🙂 That's OK. | Không sao đâu. -> ok
+- 🔧 Let's fix it together. | Mình cùng sửa nhé. -> fix
+[fix]
+bi: Click! It works again! | Cạch! Nó chạy lại rồi!
+[ok]
+bi: Thank you. You are kind. | Cảm ơn cậu. Cậu tốt bụng quá.
+bi: Friends say sorry, and friends forgive. | Bạn bè biết xin lỗi, và biết tha thứ.
+kid: Friends forever! | Mãi là bạn tốt!
+-> end
+
+# ---------------------------------------------------------------- holidays
+
+=== chat birthday
+topic: holidays
+emoji: 🎂
+title: Happy birthday! | Chúc mừng sinh nhật!
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🎂
+bi: Today is my birthday! I'm seven! | Hôm nay là sinh nhật tớ! Tớ bảy tuổi rồi!
+kid: Happy birthday, Bi! | Chúc mừng sinh nhật Bi!
+[cake]
+bi: Thank you! Look at my cake. | Cảm ơn cậu! Nhìn bánh của tớ này.
+bi: How many candles? | Có mấy cây nến?
+? kid
+- 7️⃣ Seven candles. | Bảy cây nến.
+- 5️⃣ Five candles. | Năm cây nến.
+[count]
+bi: Let's count. One, two, three, four, five, six, seven! | Mình đếm nhé. Một, hai, ba, bốn, năm, sáu, bảy!
+bi: Seven! Now I make a wish. Whoosh! | Bảy! Giờ tớ ước một điều. Phù!
+[gift]
+pic: 🎁
+bi: Is this present for me? | Món quà này cho tớ à?
+? kid
+- 🎁 Yes, it's for you! | Ừ, cho cậu đấy!
+- 🎈 Here you are! | Của cậu đây!
+[open]
+bi: A yellow balloon! I love it. Thank you! | Một quả bóng bay màu vàng! Tớ thích lắm. Cảm ơn cậu!
+kid: You're welcome! | Không có gì!
+bi: When is your birthday? | Sinh nhật cậu vào khi nào?
+? kid
+- 🗓️ It's in May. | Vào tháng Năm.
+- 🎉 It's soon! | Sắp đến rồi!
+- 🤔 I don't know. | Tớ không biết.
+[party]
+bi: Let's have a party then! | Đến lúc đó mình tổ chức tiệc nhé!
+-> end
+
+=== chat mid_autumn
+topic: holidays
+emoji: 🏮
+title: Mid-Autumn Festival | Tết Trung thu
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🌕
+bi: Look at the moon! It's big and round. | Nhìn trăng kìa! Trăng to và tròn quá.
+bi: It's the Mid-Autumn Festival! | Tết Trung thu đến rồi!
+? kid
+- 🏮 I have a lantern! | Tớ có đèn lồng! -> lantern
+- 🥮 I want a mooncake! | Tớ muốn ăn bánh trung thu! -> cake
+[lantern]
+bi: What colour is your lantern? | Đèn lồng của cậu màu gì?
+? kid
+- 🔴 It's red. | Màu đỏ.
+- 🟡 It's yellow. | Màu vàng.
+- ⭐ It's a star lantern! | Đèn ông sao!
+[cake]
+pic: 🥮
+bi: Let's share a mooncake. Yummy! | Mình chia nhau bánh trung thu nhé. Ngon quá!
+kid: Yummy! | Ngon quá!
+[parade]
+pic: 🐉
+bi: Listen! Drums! Boom, boom! The lion dance is here! | Nghe này! Tiếng trống! Tùng, tùng! Múa lân đến rồi!
+kid: Boom, boom! | Tùng, tùng!
+bi: Do you want to dance too? | Cậu có muốn nhảy múa không?
+? kid
+- 💃 Yes, let's dance! | Có, mình cùng nhảy!
+- 👏 I clap my hands. | Tớ vỗ tay.
+[end_party]
+bi: Happy Mid-Autumn Festival! | Chúc mừng Tết Trung thu!
+-> end

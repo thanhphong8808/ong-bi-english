@@ -3,6 +3,7 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:path/path.dart' as p;
 import 'package:path_provider/path_provider.dart';
@@ -10,6 +11,7 @@ import 'package:path_provider/path_provider.dart';
 import '../curriculum/curriculum_loader.dart';
 import '../curriculum/models.dart';
 import '../curriculum/progress_service.dart';
+import '../curriculum/talk_scripts.dart';
 import 'config/app_config.dart';
 import 'db/app_database.dart';
 import 'db/repositories.dart';
@@ -140,6 +142,17 @@ class AppServices {
 
   /// IPA under English words (loaded in the background after start-up).
   late final PronService pron = PronService(curriculum);
+
+  /// Guided chats, role-plays and stories (assets/talk), loaded on first use.
+  Future<TalkLibrary> talkLibrary() => _talkLibrary ??= _loadTalkLibrary();
+  Future<TalkLibrary>? _talkLibrary;
+
+  static const List<String> talkFiles = ['chats.txt', 'roleplays.txt', 'stories.txt'];
+
+  static Future<TalkLibrary> _loadTalkLibrary() async {
+    final texts = [for (final f in talkFiles) await rootBundle.loadString('assets/talk/$f')];
+    return const TalkParser().parse(texts);
+  }
 
   /// Engines switched off at this start, for the parent notice.
   final Set<String> switchedOffNow;

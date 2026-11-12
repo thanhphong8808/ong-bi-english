@@ -15,10 +15,22 @@ Tài liệu này viết cho bố mẹ **không biết lập trình**. Làm lần
   bài thi lên cấp (đạt 75%, mỗi phần nghe – nói – đọc – viết từ 60%) và giấy khen.
   Bài chia 3 chặng khoảng 4 phút; hết mỗi chặng bé được sao và chọn "Học tiếp" hoặc
   "Nghỉ đã" (phần đã học vẫn được lưu).
-- **Nói chuyện với Bi**: trò chuyện, nhập vai (đi chợ, đi khám bác sĩ, sinh nhật…),
-  cùng kể chuyện. Bi chỉ nói tối đa 2 câu ngắn, luôn kết thúc bằng một câu hỏi dễ, và
-  có nút gợi ý câu trả lời. Có lớp lọc an toàn ở cả lời bé nói và lời Bi nói.
-- **Tập viết**: tô chữ cái theo nét, và **viết từ theo cấp** từ dễ đến khó: mỗi bộ 3–5 từ có
+- **Nói chuyện với Bi** (song ngữ Anh – Việt, mọi câu có nghĩa tiếng Việt bên dưới, bật "VI"
+  để Bi đọc cả nghĩa):
+  - **Trò chuyện theo chủ đề**: 12 chủ đề (hằng ngày, lớp học, đường phố, vui chơi, gia đình,
+    ăn uống, mua sắm, sức khoẻ, con vật, thời tiết, cảm xúc và tình bạn, lễ hội và sinh nhật)
+    với 24 cuộc trò chuyện. Đến lượt bé, app hiện 2–4 câu trả lời có hình, Bi đọc mẫu, bé nói
+    vào micro; bé chọn câu nào thì câu chuyện rẽ theo hướng đó.
+  - **Đóng vai**: 16 tình huống theo chủ đề (quán phở, tiệm bánh, cửa hàng hoa quả, bác sĩ,
+    nha sĩ, hỏi đường, xe buýt, thư viện, sở thú, sinh nhật…). Bé chọn vai, Bi đóng vai còn lại.
+  - **Nghe kể chuyện**: 23 truyện ngụ ngôn và cổ tích kể lại bằng câu đơn giản (Rùa và Thỏ,
+    Sư tử và chuột, Cậu bé chăn cừu, Con quạ thông minh, Bó đũa, Vịt con xấu xí, Cây khế, Ếch
+    ngồi đáy giếng, Thầy bói xem voi…). Giữa truyện Bi hỏi bé, cuối truyện có bài học và một
+    câu hỏi để bé áp dụng vào cuộc sống.
+  - **Nói tự do với Bi** trong mỗi chủ đề (cần gói "Bộ não của Bi"): Bi chỉ nói tối đa 2 câu
+    ngắn, luôn kết thúc bằng một câu hỏi dễ, có gợi ý câu trả lời và lớp lọc an toàn ở cả lời
+    bé nói và lời Bi nói.
+- **Tập viết**: **viết từ theo cấp** từ dễ đến khó: mỗi bộ 3–5 từ có
   hình (cấp 0: 3 từ ngắn, cấp 1: 4 từ, từ cấp 2: 5 từ). Bé xem và nghe từng từ (kèm phiên âm),
   chép lại, rồi làm bài kiểm tra: nhìn hình, nghe Bi đọc và tự viết. App chấm từng chữ, cho sao
   và hiện từ bé đã viết; đạt 80% thì mở bộ tiếp theo. Cấp viết mở theo cấp học của bé, và từ
@@ -52,8 +64,8 @@ phút học, mục hay sai, lịch sử kiểm tra), nhật ký "Nói chuyện v
 toàn, tối đa 3 hồ sơ bé, sao lưu/khôi phục tiến độ, quản lý model, kiểm tra hệ thống.
 
 Toàn bộ chạy trên điện thoại. Sau khi tải model lần đầu, bật chế độ máy bay vẫn dùng
-được mọi tính năng. Chỉ "Nói chuyện với Bi" cần gói "Bộ não của Bi" (Gemma 4); mọi bài
-học, ôn tập và kiểm tra đều chạy không cần gói này.
+được mọi tính năng. Chỉ phần "Nói tự do với Bi" cần gói "Bộ não của Bi" (Gemma 4); mọi bài
+học, trò chuyện theo chủ đề, đóng vai, kể chuyện, ôn tập và kiểm tra đều chạy không cần gói này.
 
 ## Cần chuẩn bị
 
@@ -270,8 +282,8 @@ Mỗi câu chỉ tạo một lần rồi lưu lại, những lần sau phát nga
 giọng tiếng Việt có sẵn của Android (Cài đặt → Quản lý chung → Chuyển văn bản thành
 giọng nói).
 
-**Không tải được "Bộ não của Bi"?** Bỏ qua cũng được. Mọi bài học, ôn tập, kiểm tra đều
-chạy mà không cần gói này.
+**Không tải được "Bộ não của Bi"?** Bỏ qua cũng được. Mọi bài học, ôn tập, kiểm tra, trò
+chuyện theo chủ đề, đóng vai và kể chuyện đều chạy mà không cần gói này.
 
 **Bé chưa đọc được chữ tiếng Việt?** Có thể bật "Ẩn chữ tiếng Anh" trong Cài đặt học: app
 dùng hình và giọng nói thay cho chữ. Mặc định chữ luôn hiện (kèm phiên âm) và đổi màu theo
@@ -290,6 +302,8 @@ của bé".
 - Kiến trúc: `docs/ARCHITECTURE.md`. Phiên bản và các quyết định: `docs/STACK.md`.
 - Giấy phép: `LICENSES.md`.
 - Mọi ngưỡng và giới hạn: `lib/core/config/app_config.dart`.
+- Trò chuyện, đóng vai, kể chuyện: `assets/talk/*.txt` (cách viết ở đầu
+  `lib/curriculum/talk_scripts.dart`; `test/talk_scripts_test.dart` kiểm tra mọi nhánh).
 - Kiểm tra giáo trình: `dart run tool/validate_curriculum.dart` (nội dung gốc nằm ở
   `tool/content_src/L0.txt`–`L5.txt`, dựng lại JSON bằng `python3 tool/build_curriculum.py`).
 - Chạy test: `flutter test` (có bộ test an toàn cho Bi, Leitner, chấm phát âm, chấm tô

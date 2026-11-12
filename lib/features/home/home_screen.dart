@@ -161,10 +161,6 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       unawaited(services.speech.sayVi(S.talkDisabledSpoken).catchError((Object _) {}));
       return;
     }
-    if (!services.capabilities.value.llm) {
-      unawaited(services.speech.sayVi(S.talkUnavailableSpoken).catchError((Object _) {}));
-      return;
-    }
     if (_goToSleepIfLocked()) {
       return;
     }

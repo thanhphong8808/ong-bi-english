@@ -16,6 +16,9 @@ Usage:
   ui.py field N              tap the N-th text field on screen (1 = first)
   ui.py writeset SECONDS     do one writing set: copy and test (draws a stroke,
                              taps "Xong"; letter tiles when there is no ink)
+  ui.py guided SECONDS       play a guided talk with Bi to its end: the mic on
+                             the child's turn (the emulator is silent), then
+                             a tap on the first answer when Bi asks for a tap
 
 A "Huy hiệu mới!" (new badge) dialog is photographed once and closed
 whenever it shows up, so it never hides the screen being tested.
@@ -341,6 +344,46 @@ def writeset(seconds):
     return 1
 
 
+def guided(seconds):
+    """Returns 0 when the talk reaches "Xong rồi!"."""
+    deadline = time.time() + seconds
+    turns = 0
+    while time.time() < deadline:
+        root = dump()
+        if root is None:
+            time.sleep(3)
+            continue
+        found = list(labels(root))
+        texts = [label for label, _ in found]
+        if any(t.strip() == 'Xong rồi!' for t in texts):
+            print(f'guided: finished after {turns} turns')
+            return 0
+        header = [n for label, n in found if label.strip() == 'Chạm vào câu bé muốn nói']
+        if header:
+            top = bounds(header[0])[3]
+            cards = [n for n in root.iter('node')
+                     if bounds(n)[1] >= top and bounds(n)[3] - bounds(n)[1] > 90
+                     and (n.get('text') or n.get('content-desc'))]
+            if cards:
+                cards.sort(key=lambda n: bounds(n)[1])
+                turns += 1
+                print(f'guided: tap answer #{turns}:', (cards[0].get('content-desc') or cards[0].get('text') or '')[:60].replace('\n', ' / '))
+                tap_node(cards[0])
+                time.sleep(6)
+                continue
+        if any(t.strip() in ('Đến lượt bé!', 'Bé nói theo nhé:') for t in texts):
+            mic = [n for label, n in found if label.strip() == 'Micro']
+            if mic:
+                turns += 1
+                print(f'guided: microphone #{turns}')
+                tap_node(mic[0])
+                time.sleep(18)
+                continue
+        time.sleep(3)
+    print('guided: TIMEOUT')
+    return 1
+
+
 def main():
     cmd = sys.argv[1]
     if cmd == 'list':
@@ -359,6 +402,8 @@ def main():
     if cmd == 'explore':
         return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120,
                        sys.argv[3] if len(sys.argv) > 3 else None)
+    if cmd == 'guided':
+        return guided(float(sys.argv[2]) if len(sys.argv) > 2 else 300)
     if cmd == 'writeset':
         return writeset(float(sys.argv[2]) if len(sys.argv) > 2 else 240)
     if cmd == 'field':

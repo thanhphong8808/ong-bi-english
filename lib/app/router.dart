@@ -17,10 +17,12 @@ import '../features/rewards/reward_screen.dart';
 import '../features/rewards/sticker_album_screen.dart';
 import '../features/parent/parent_words_screen.dart';
 import '../features/setup/setup_screen.dart';
+import '../curriculum/talk_scripts.dart';
+import '../features/talk_with_bi/guided_talk_screen.dart';
+import '../features/talk_with_bi/talk_home_screen.dart';
 import '../features/talk_with_bi/talk_screen.dart';
 import '../features/tests/level_up_screen.dart';
 import '../features/tests/test_result_screen.dart';
-import '../features/write/write_home_screen.dart';
 import '../features/write/write_ladder_screen.dart';
 import '../features/write/write_set_screen.dart';
 
@@ -32,7 +34,8 @@ class AppRoutes {
   static const String lesson = '/lesson';
   static const String talk = '/talk';
   static const String write = '/write';
-  static const String writeWords = '/write/words';
+  static const String talkGuided = '/talk/guided';
+  static const String talkFree = '/talk/free';
   static const String writeSet = '/write/set';
   static const String stickers = '/stickers';
   static const String sleep = '/sleep';
@@ -65,9 +68,22 @@ GoRouter buildRouter({required String initialLocation}) {
           return LessonScreen(request: extra is LessonRequest ? extra : const LessonRequest());
         },
       ),
-      GoRoute(path: AppRoutes.talk, builder: (context, state) => const TalkScreen()),
-      GoRoute(path: AppRoutes.write, builder: (context, state) => const WriteHomeScreen()),
-      GoRoute(path: AppRoutes.writeWords, builder: (context, state) => const WriteLadderScreen()),
+      GoRoute(path: AppRoutes.talk, builder: (context, state) => const TalkHomeScreen()),
+      GoRoute(
+        path: AppRoutes.talkGuided,
+        builder: (context, state) {
+          final extra = state.extra;
+          return extra is GuidedTalkArgs ? GuidedTalkScreen(args: extra) : const TalkHomeScreen();
+        },
+      ),
+      GoRoute(
+        path: AppRoutes.talkFree,
+        builder: (context, state) {
+          final extra = state.extra;
+          return extra is TalkTopic ? TalkScreen(topic: extra) : const TalkHomeScreen();
+        },
+      ),
+      GoRoute(path: AppRoutes.write, builder: (context, state) => const WriteLadderScreen()),
       GoRoute(
         path: AppRoutes.writeSet,
         builder: (context, state) {

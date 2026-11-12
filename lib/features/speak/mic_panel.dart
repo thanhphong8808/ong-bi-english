@@ -41,6 +41,7 @@ class MicPanel extends ConsumerStatefulWidget {
     this.enabled = true,
     this.itemId = '',
     this.anyAnswer = false,
+    this.onStart,
   });
 
   /// What the child should say.
@@ -56,6 +57,9 @@ class MicPanel extends ConsumerStatefulWidget {
 
   /// Open answers: any clear speech gets full marks.
   final bool anyAnswer;
+
+  /// Called when the child taps the microphone (stop reading answers aloud).
+  final VoidCallback? onStart;
 
   @override
   ConsumerState<MicPanel> createState() => MicPanelState();
@@ -84,6 +88,7 @@ class MicPanelState extends ConsumerState<MicPanel> {
     if (_state == _MicState.listening || _state == _MicState.thinking || !widget.enabled) {
       return;
     }
+    widget.onStart?.call();
     final services = _services;
     final difficulty = ref.read(parentSettingsProvider).speechDifficulty;
     final profileFuture = ref.read(activeProfileProvider.future);

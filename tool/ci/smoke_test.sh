@@ -138,24 +138,8 @@ fi
 
 restart 15
 if alive; then
-  step "Writing"
-  $UI tap "Tập viết" 15 540 1900 && sleep 8
-  check "writing"
-  $UI shot 08-write
-  $UI tap "Tô chữ cái" 10 && sleep 4
-  $UI tapx "A" 10 && sleep 8
-  # Draw a stroke on the tracing canvas.
-  adb shell input swipe 400 900 540 1500 600; sleep 2
-  adb shell input swipe 680 900 540 1500 600; sleep 4
-  check "tracing"
-  $UI shot 09-trace
-fi
-
-restart 15
-if alive; then
   step "Writing level by level"
-  $UI tap "Tập viết" 15 540 1900 && sleep 6
-  $UI tap "Viết từ" 10 && sleep 6
+  $UI tap "Tập viết" 15 540 1900 && sleep 8
   check "writing ladder"
   $UI shot 09w-ladder
   $UI list | head -30
@@ -257,12 +241,67 @@ if alive; then
   adb shell input keyevent KEYCODE_BACK; sleep 3
 fi
 
+# Three guided talks, free chat and a second lesson take longer than the
+# default 20 minutes a day: give the test child an hour.
+adb shell am force-stop "$PKG"; sleep 2
+sql "INSERT OR REPLACE INTO settings (profile_id, setting_key, setting_value) VALUES (0, 'dailyLimitMinutes', '60');"
+launch 15
+check "restart with a longer daily limit"
+if alive; then
+  step "Talk with Bi: a guided chat (Hằng ngày)"
+  $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
+  $UI shot 12-talk-home
+  $UI tap "Trò chuyện" 10 && sleep 4
+  $UI shot 12-talk-topics
+  $UI tap "Hằng ngày" 10 && sleep 4
+  $UI shot 12-talk-chats
+  $UI list | head -20
+  $UI tap "Chào buổi sáng" 10 && sleep 20
+  $UI shot 13-guided-start
+  $UI guided 420 || PROBLEMS+=("the guided chat did not reach its end")
+  check "guided chat"
+  $UI shot 13-guided-end
+  $UI list | head -30
+fi
+
 restart 15
 if alive; then
-  step "Talk with Bi"
+  step "Talk with Bi: role-play, the child picks a role"
   $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
-  $UI shot 12-talk-choose
-  $UI tap "Trò chuyện" 15 540 1173
+  $UI tap "Đóng vai" 10 && sleep 4
+  $UI tap "Ăn uống" 10 && sleep 4
+  $UI tap "Ở quán phở" 10 && sleep 4
+  $UI shot 13-role-pick
+  $UI tapx "Khách" 10 && sleep 20
+  $UI shot 13-role-start
+  $UI guided 420 || PROBLEMS+=("the role-play did not reach its end")
+  check "role-play"
+  $UI shot 13-role-end
+fi
+
+restart 15
+if alive; then
+  step "Talk with Bi: a fable"
+  $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
+  $UI tap "Nghe kể chuyện" 10 && sleep 4
+  $UI shot 13-stories
+  $UI tap "Rùa và Thỏ" 10 && sleep 25
+  $UI shot 13-story-start
+  $UI guided 480 || PROBLEMS+=("the story did not reach its end")
+  check "story"
+  sleep 15
+  $UI shot 13-story-end
+  $UI list | head -30
+  echo "talks finished: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'talk_done';")"
+fi
+
+restart 15
+if alive; then
+  step "Talk with Bi: free chat with Bi's brain"
+  $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
+  $UI tap "Trò chuyện" 10 && sleep 4
+  $UI tap "Hằng ngày" 10 && sleep 4
+  $UI tap "Nói tự do với Bi" 10 || echo "WARNING: free chat not offered (brain not installed?)"
   for i in 1 2 3 4 5 6; do sleep 20; check "talk +$((i * 20)) s"; done
   $UI shot 13-talk
   $UI list

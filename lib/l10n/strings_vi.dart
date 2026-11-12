@@ -213,7 +213,6 @@ class S {
       'Dành cho bố mẹ: khung giờ học đang là $start:00 – $end:00. '
       'Đổi trong Khu phụ huynh (nút bánh răng ở màn hình chính) → Cài đặt học → Khung giờ được học.';
   static const outsideHoursSpoken = 'Bây giờ chưa đến giờ học. Lát nữa mình gặp nhau nhé!';
-  static const writeMenuSpoken = 'Cậu muốn tô chữ nào? Chạm vào chữ đó nhé!';
   static const exitLesson = 'Nghỉ học';
 
   // ---- Tests ----
@@ -281,9 +280,6 @@ class S {
   static String certificateDate(DateTime d) => 'Ngày ${d.day} tháng ${d.month} năm ${d.year}';
 
   // ---- Writing home ----
-  static const writeHomeSpoken = 'Cậu muốn tô chữ cái hay viết từ? Chạm vào một nút nhé!';
-  static const writeLetters = 'Tô chữ cái';
-  static const writeWords = 'Viết từ';
   static const writeLadderSpoken = 'Chọn một bộ từ để tập viết nhé! Viết đúng một bộ thì bộ tiếp theo sẽ mở.';
   static String writeGroupTitle(int level) => 'Cấp $level · ${levelName(level)}';
   static const writeGroupParent = 'Từ của bố mẹ';
@@ -301,13 +297,36 @@ class S {
   static const writeBack = 'Chọn bộ khác';
   static String writeYouWrote(String text) => 'Bé viết: $text';
   static const writeNothing = '(chưa viết)';
-  static const talkUnavailableSpoken = 'Bi đang ngủ trưa rồi. Mình học bài nhé!';
 
   // ---- Talk with Bi ----
   static const talkChooseSpoken = 'Cậu muốn trò chuyện, đóng vai hay nghe Bi kể chuyện? Chạm vào một hình nhé!';
   static const talkModeChat = 'Trò chuyện';
   static const talkModeRole = 'Đóng vai';
-  static const talkModeStory = 'Kể chuyện';
+  static const talkModeStory = 'Nghe kể chuyện';
+  static const talkPickTopicSpoken = 'Cậu muốn nói về chủ đề gì? Chạm vào một hình nhé!';
+  static const talkPickChatSpoken = 'Chọn một cuộc trò chuyện nhé!';
+  static const talkPickRolePlaySpoken = 'Chọn một tình huống để đóng vai nhé!';
+  static const talkPickRoleSpoken = 'Cậu muốn đóng vai ai? Bi sẽ đóng vai còn lại.';
+  static const talkPickStorySpoken = 'Cậu muốn nghe chuyện gì? Chạm vào một hình nhé!';
+  static const talkFree = 'Nói tự do với Bi';
+  static const talkFreeNote = 'Bi tự nghĩ câu trả lời';
+  static const talkYourTurn = 'Đến lượt bé!';
+  static const talkYourTurnSpoken = 'Đến lượt cậu! Chọn một câu rồi bấm micro để nói nhé.';
+  static const talkSayThis = 'Bé nói theo nhé:';
+  static const talkSayThisSpoken = 'Đến lượt cậu! Cậu nói theo nhé.';
+  static const talkTryAgainSpoken = 'Cậu nói lại nhé! Chạm vào câu để nghe mẫu.';
+  static const talkTapToChooseSpoken = 'Cậu chạm vào câu muốn nói nhé.';
+  static const talkTapToChoose = 'Chạm vào câu bé muốn nói';
+  static const talkHeardYou = 'Bi nghe được:';
+  static const talkMoral = 'Bài học';
+  static const talkDoneTitle = 'Xong rồi!';
+  static const talkDoneSpoken = 'Giỏi quá! Cậu nói chuyện tiếng Anh hay lắm!';
+  static const talkStoryDoneSpoken = 'Câu chuyện hết rồi. Mình cùng nhớ bài học nhé!';
+  static const talkAgain = 'Làm lại';
+  static const talkOther = 'Chọn bài khác';
+  static const talkVietnameseVoice = 'Nghe nghĩa tiếng Việt';
+  static String talkBiPlays(String role) => 'Bi đóng vai $role';
+  static String talkYouPlay(String role) => 'Bé đóng vai $role';
   static const talkChooseScenario = 'Cậu muốn chơi ở đâu?';
   static const talkChooseStory = 'Cậu muốn nghe chuyện nào?';
   static const talkWaking = 'Bi đang thức dậy…';
@@ -443,16 +462,19 @@ class S {
 
   /// Every fixed Vietnamese line spoken in kid mode, rendered once ahead of time.
   static const spokenInstructions = [
-    homeGreetingSpoken, talkDisabledSpoken, talkUnavailableSpoken, sayRetry, sayEffort,
+    homeGreetingSpoken, talkDisabledSpoken, sayRetry, sayEffort,
     insListenPick, insBubble, insMatch, insColor, insSeeSay, insNewItem, insNewSound, insNewSoundNoLetter,
     insShadow, insReadPick, insTrace, insCopy, insDictate, insTiles, insTilesListen, insDialogue,
     insDialogueListen, insDialogueShadow, insDialogueRole, insDialogueVariation, insPickMeaning,
     insLetterSound, insTrueFalse, insFillBlank, insWriteLetter, insAnswer, insWriteSentences, insReading,
+    talkPickTopicSpoken, talkPickChatSpoken, talkPickRolePlaySpoken, talkPickRoleSpoken, talkPickStorySpoken,
+    talkYourTurnSpoken, talkSayThisSpoken, talkTryAgainSpoken, talkTapToChooseSpoken, talkDoneSpoken,
+    talkStoryDoneSpoken,
     insWriteRecall, writeLadderSpoken, writeLookSpoken, writeCopySpoken, writeTestSpoken, writePassedSpoken,
     writeRetrySpoken,
     saySayAfter, traceDirection, pickColorFirst, lessonLoading, rewardSpoken, sleepSpoken,
     stageDoneSpoken1, stageDoneSpoken2, stageRestSpoken,
-    outsideHoursSpoken, writeMenuSpoken, writeHomeSpoken, exitConfirmSpoken, stickerAlbumSpoken,
+    outsideHoursSpoken, exitConfirmSpoken, stickerAlbumSpoken,
     placementSpoken, unitTestSpoken, levelTestSpoken, testPassedSpoken, testRetrySpoken,
     levelUpSpoken, levelTestRetrySpoken, placementDoneLevel0, placementDoneLevel1, reviewIntro,
     remedialIntro, practiceIntro, levelReviewIntro, talkChooseSpoken, talkChooseScenario,
