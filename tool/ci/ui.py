@@ -355,7 +355,9 @@ def guided(seconds):
             continue
         found = list(labels(root))
         texts = [label for label, _ in found]
-        if any(t.strip() == 'Xong rồi!' for t in texts):
+        # The end card is one accessibility node: its title, the stars and
+        # the moral arrive as one label, one line each.
+        if any('Xong rồi!' in [line.strip() for line in t.splitlines()] for t in texts):
             print(f'guided: finished after {turns} turns')
             return 0
         header = [n for label, n in found if label.strip() == 'Chạm vào câu bé muốn nói']
