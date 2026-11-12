@@ -53,6 +53,18 @@ adb shell cat /proc/meminfo | head -1
 # decorative loops and uiautomator can read every screen.
 adb shell settings get global animator_duration_scale
 
+step "Clock"
+# The emulator runs on UTC. Kid mode is only open 6:00-21:00 local time, so
+# pick a time zone where it is about 10:00 now (otherwise Bi sleeps and the
+# lesson, writing and Talk with Bi are never really tested).
+H=$(date -u +%H)
+OFF=$(( (10 - 10#$H + 36) % 24 - 12 ))
+if [ "$OFF" -ge 0 ]; then TZNAME="Etc/GMT-$OFF"; else TZNAME="Etc/GMT+$(( -OFF ))"; fi
+adb root >/dev/null 2>&1; sleep 3
+adb shell setprop persist.sys.timezone "$TZNAME"
+adb shell "cmd alarm set-timezone $TZNAME" >/dev/null 2>&1 || true
+echo "time zone $TZNAME, local time on the emulator: $(adb shell date | tr -d '\r')"
+
 step "Settle"
 sleep 45
 $UI list >/dev/null 2>&1 || true
@@ -91,6 +103,9 @@ if alive; then
   $UI tap "Học hôm nay" 15 540 1146 && sleep 20
   check "lesson"
   $UI shot 05-lesson
+  if $UI wait "Bi đi ngủ rồi" 3; then
+    PROBLEMS+=("kid mode was locked (Bi sleeping) when the lesson should open")
+  fi
   $UI list
   $UI explore 150 || true
   check "lesson (scripted)"
@@ -150,10 +165,10 @@ if alive; then
           $UI list | head -30
           $UI tap "Đặt lại" 5 && sleep 2 ;;
         "Kiểm tra hệ thống")
-          $UI tap "Thử giọng tiếng Việt" 5 && sleep 8
-          $UI tap "Thử giọng tiếng Anh" 5 && sleep 10
-          $UI tap "Thử nghe bé nói" 5 && sleep 20
-          $UI tap "Thử bộ não của Bi" 5 && sleep 90
+          $UI tapright "Thử giọng tiếng Việt" 5 && sleep 10
+          $UI tapright "Thử giọng tiếng Anh" 5 && sleep 12
+          $UI tapright "Thử nghe bé nói" 5 && sleep 25
+          $UI tapright "Thử bộ não của Bi" 5 && sleep 120
           $UI list | head -40 ;;
         "Sao lưu và khôi phục")
           $UI tap "Sao lưu ra thư mục Download" 5 && sleep 5 ;;

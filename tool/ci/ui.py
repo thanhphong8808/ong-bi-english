@@ -9,6 +9,7 @@ Usage:
   ui.py gate                 solve the parent gate (a x b) if it is open
   ui.py setup [MINUTES]      download every required pack on the setup screen
   ui.py explore SECONDS      tap through a lesson like a child (answers, mic, next)
+  ui.py tapright TEXT [SEC]  tap the button at the right end of the row showing TEXT
 """
 import base64
 import re
@@ -202,7 +203,7 @@ def setup(minutes):
     return 1
 
 
-AVOID = ('Khu phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học')
+AVOID = ('Phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học')
 
 
 def explore(seconds):
@@ -282,6 +283,12 @@ def main():
             return 0
         print(f'NOT FOUND: {text!r}')
         return 1
+    if cmd == 'tapright':
+        x1, y1, x2, y2 = bounds(node)
+        x, y = x2 - 110, (y1 + y2) // 2
+        adb('shell', 'input', 'tap', str(x), str(y))
+        print(f'tapped the right end of {text!r} at {x},{y}')
+        return 0
     if cmd == 'tap':
         x, y = center(node)
         adb('shell', 'input', 'tap', str(x), str(y))
