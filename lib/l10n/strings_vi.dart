@@ -149,8 +149,8 @@ class S {
   static const diagRunning = 'Đang chạy…';
   static const diagHeard = 'Máy nghe được';
   static const diagNothingHeard = '(không nghe thấy gì)';
-  static String diagLatency(int totalMs, int workMs, bool fast) =>
-      'Thời gian chờ chấm điểm: $totalMs ms (chờ bé ngừng nói 800 ms + nhận dạng $workMs ms) — '
+  static String diagLatency(int totalMs, int silenceMs, int workMs, bool fast) =>
+      'Thời gian chờ chấm điểm: $totalMs ms (chờ bé ngừng nói $silenceMs ms + nhận dạng $workMs ms) — '
       '${fast ? 'đạt mục tiêu dưới 1500 ms' : 'chậm hơn mục tiêu 1500 ms'}';
   static const diagFirstRun = 'lần đầu, chưa có trong bộ nhớ đệm';
   static const diagCached = 'đã có trong bộ nhớ đệm';

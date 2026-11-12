@@ -102,8 +102,10 @@ class LessonComposer {
   }
 
   /// Up to [AppConfig.parentWordsPerLesson] words from the parents' list
-  /// that the child has not met yet, taught right after the warm-up and
-  /// review. Once met, Leitner review brings them back like any other word.
+  /// that the child has not met yet, taught right after the warm-up, so they
+  /// land in the first stage even when the child rests after it (school
+  /// words are often needed soon). Once met, Leitner review brings them back
+  /// like any other word.
   LessonPlan _withParentWords(
     LessonPlan plan,
     int level,
@@ -132,7 +134,7 @@ class LessonComposer {
         block.add(check);
       }
     }
-    final at = plan.steps.indexWhere((s) => s.stage != LessonStage.warmUp && s.stage != LessonStage.review);
+    final at = plan.steps.indexWhere((s) => s.stage != LessonStage.warmUp);
     final steps = [...plan.steps]..insertAll(at < 0 ? plan.steps.length : at, block);
     return LessonPlan(
       kind: plan.kind,

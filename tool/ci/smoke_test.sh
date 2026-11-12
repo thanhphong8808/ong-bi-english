@@ -150,10 +150,19 @@ if alive; then
   $UI shot 09-trace
 fi
 
-restart 15
+# A finished lesson yesterday: the honeycomb shows a 2-day streak and the
+# home screen celebrates the "first lesson" badge.
+adb shell am force-stop "$PKG"; sleep 2
+sql "INSERT OR REPLACE INTO study_days (profile_id, day, seconds, lessons_done) VALUES ((SELECT MIN(id) FROM profiles), date('now','localtime','-1 day'), 600, 1);"
+launch 15
+check "restart with yesterday's lesson"
 if alive; then
-  step "Honeycomb and album"
+  step "Honeycomb, badge and album"
+  sleep 5
   $UI shot 09b-home-honeycomb
+  # Reading the screen closes a badge dialog and prints "badge celebration".
+  $UI list | head -20
+  $UI shot 09b2-home-after-badge
   echo "study days: $(sql "SELECT day, seconds, lessons_done FROM study_days;" | tr '\n' ' ')"
   echo "badges: $(sql "SELECT sticker_id FROM rewards WHERE sticker_id LIKE 'badge:%';" | tr '\n' ' ')"
   if $UI tapx "🎁" 10; then
@@ -195,13 +204,17 @@ if alive; then
           $UI list | head -20 ;;
         "Bảng tiến độ")
           $UI list | head -40
-          adb shell input swipe 540 1900 540 700 400; sleep 2
+          adb shell input swipe 540 1500 540 1000 400; sleep 2
           $UI shot "11-skill-map"
-          $UI list | head -40 ;;
+          $UI list | head -40
+          $UI wait "Bản đồ kỹ năng" 3 || echo "WARNING: skill map not shown"
+          adb shell input swipe 540 1900 540 700 400; sleep 2 ;;
         "Kiểm tra hệ thống")
-          $UI tapright "Thử giọng tiếng Việt" 5 && sleep 10
-          $UI tapright "Thử giọng tiếng Anh" 5 && sleep 12
-          $UI tapright "Thử nghe bé nói" 5 && sleep 25
+          # One test at a time: a tap while another test runs is ignored.
+          $UI tapright "Thử giọng tiếng Việt" 5 && sleep 15
+          $UI tapright "Thử giọng tiếng Anh" 5 && sleep 25
+          $UI tapright "Thử nghe bé nói" 5 && sleep 40
+          $UI wait "Máy nghe được" 5 || echo "WARNING: the listening test showed no result"
           $UI tapright "Thử bộ não của Bi" 5 && sleep 120
           $UI list | head -40 ;;
         "Sao lưu và khôi phục")
@@ -239,10 +252,12 @@ if alive; then
   step "Second lesson: the parent's word is taught"
   $UI tap "Học hôm nay" 15 540 1146 && sleep 20
   check "lesson 2"
-  $UI explore 150 || true
+  $UI explore 300 "pencil case" || true
   check "lesson 2 (scripted)"
   $UI shot 14b-lesson2
-  echo "parent word progress: $(sql "SELECT item_id, skill, box FROM item_progress WHERE item_id LIKE 'P-%';" | tr '\n' ' ')"
+  pw=$(sql "SELECT item_id, skill, box FROM item_progress WHERE item_id LIKE 'P-%';" | tr '\n' ' ')
+  echo "parent word progress: ${pw:-(none)}"
+  [ -z "$pw" ] && echo "WARNING: the parent's word was not practised in the second lesson"
   echo "speech turns: $(sql "SELECT source, COUNT(*) FROM speech_turns GROUP BY source;" | tr '\n' ' ')"
 fi
 

@@ -10,6 +10,7 @@ import 'package:ong_bi_english/core/config/app_config.dart';
 import 'package:ong_bi_english/core/db/repositories.dart';
 import 'package:ong_bi_english/curriculum/letter_strokes.dart';
 import 'package:ong_bi_english/curriculum/lesson_composer.dart';
+import 'package:ong_bi_english/curriculum/lesson_stages.dart';
 import 'package:ong_bi_english/curriculum/lesson_plan.dart';
 import 'package:ong_bi_english/curriculum/models.dart';
 import 'package:ong_bi_english/curriculum/progress_snapshot.dart';
@@ -237,7 +238,7 @@ void main() {
       expect(c.parentItems, isEmpty);
     });
 
-    test('two new parent words join a daily lesson after the review, and the lesson stays valid', () {
+    test('two new parent words join the first stage of a daily lesson, and the lesson stays valid', () {
       c.setParentItems([
         parentWord(1, 'pencil case', 'hộp bút', '✏️'),
         parentWord(2, 'teacher', 'cô giáo', '🧑‍🏫'),
@@ -249,6 +250,13 @@ void main() {
         final plan = composer.compose(level: level, snapshot: snapshotAt(c, unit), options: o, random: Random(3));
         final presented = [for (final s in plan.steps) if (s is PresentItemStep && s.itemId.startsWith('P-')) s.itemId];
         expect(presented, ['P-1', 'P-2'], reason: 'level $level');
+        final ends = stageEnds(plan);
+        for (var i = 0; i < plan.steps.length; i++) {
+          final step = plan.steps[i];
+          if (step is PresentItemStep && step.itemId.startsWith('P-')) {
+            expect(stageOf(ends, i), 0, reason: 'level $level: ${step.itemId} at $i, stages $ends');
+          }
+        }
         expect(plan.newItemIds, containsAll(['P-1', 'P-2']));
         expect(problems(c, plan, o), isEmpty, reason: 'level $level');
       }

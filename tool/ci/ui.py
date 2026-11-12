@@ -8,7 +8,8 @@ Usage:
   ui.py shot  NAME           save a screenshot and print it as base64
   ui.py gate                 solve the parent gate (a x b) if it is open
   ui.py setup [MINUTES]      download every required pack on the setup screen
-  ui.py explore SECONDS      tap through a lesson like a child (answers, mic, next)
+  ui.py explore SECONDS [TEXT]  tap through a lesson like a child (answers, mic,
+                             next); with TEXT, stop 75 s after TEXT first shows
   ui.py tapright TEXT [SEC]  tap the button at the right end of the row showing TEXT
   ui.py tapx  TEXT [SEC]     like tap, but the label must be exactly TEXT
   ui.py type  TEXT           type ASCII text into the focused field
@@ -228,10 +229,13 @@ def setup(minutes):
 AVOID = ('Phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học', 'Nghỉ đã')
 
 
-def explore(seconds):
+def explore(seconds, until=None):
     """Taps the clickable things of the current lesson screen in turn: answer
-    cards, the microphone, the speaker, "next". Avoids the top bar (close)."""
+    cards, the microphone, the speaker, "next". Avoids the top bar (close).
+    With [until], stops 75 s after that text first appears (time to finish
+    the activity showing it)."""
     deadline = time.time() + seconds
+    seen_until = False
     turn = 0
     last_screen = None
     while time.time() < deadline:
@@ -248,6 +252,11 @@ def explore(seconds):
             last_screen = screen
         if any('Xong chặng' in t for t in texts):
             print('checkpoint reached:', [t for t in texts if 'chặng' in t][:2])
+        if until and not seen_until and any(until.lower() in t.lower() for t in texts):
+            seen_until = True
+            print(f'seen {until!r}')
+            shot('explore-' + re.sub(r'\W+', '-', until))
+            deadline = min(deadline, time.time() + 75)
         # The "leave the lesson?" dialog: keep learning.
         keep = [n for label, n in found if label.strip() in ('Học tiếp', 'Tiếp tục')]
         if keep:
@@ -292,7 +301,8 @@ def main():
     if cmd == 'setup':
         return setup(float(sys.argv[2]) if len(sys.argv) > 2 else 25)
     if cmd == 'explore':
-        return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120)
+        return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120,
+                       sys.argv[3] if len(sys.argv) > 3 else None)
     if cmd == 'field':
         root = dump()
         fields = [n for n in root.iter('node') if 'EditText' in (n.get('class') or '')] if root is not None else []

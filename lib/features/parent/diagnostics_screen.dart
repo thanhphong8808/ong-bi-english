@@ -124,7 +124,7 @@ class _DiagnosticsScreenState extends ConsumerState<DiagnosticsScreen> {
             _sttResult = result.text.isEmpty
                 ? '${S.diagHeard}: $heard'
                 : '${S.diagHeard}: $heard\n'
-                    '${S.diagLatency(latency, result.decodeMs, latency < AppConfig.scoreLatencyTargetMs)}';
+                    '${S.diagLatency(latency, latency - result.decodeMs, result.decodeMs, latency < AppConfig.scoreLatencyTargetMs)}';
           });
         } on SttException catch (e) {
           _show(() {
