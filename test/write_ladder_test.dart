@@ -92,6 +92,10 @@ void main() {
     expect(lexicon.word('Hello,'), 'həˈloʊ');
     expect(lexicon.word("I'm"), 'aɪm');
     expect(lexicon.word('Bi!'), 'bi');
+    expect(lexicon.word('Bé!'), isNull);
+    expect(lexicon.word('Mum,'), 'mʌm');
+    expect(lexicon.word('"Yes!"'), lexicon.word('yes'));
+    expect(lexicon.word('(red)'), lexicon.word('red'));
     expect(lexicon.word('crayons'), isNotNull);
     expect(lexicon.word('zzzq'), isNull);
     expect(lexicon.word('123'), isNull);

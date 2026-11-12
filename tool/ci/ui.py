@@ -93,7 +93,8 @@ def find(text, seconds, exact_match=False):
         if root is not None:
             if exact_match:
                 matches = [n for label, n in labels(root)
-                           if text in (node_text.strip() for node_text in label.split(' | '))]
+                           if text in (part.strip() for node_text in label.split(' | ')
+                                       for part in node_text.split('\n'))]
             else:
                 matches = [n for label, n in labels(root) if text.lower() in label.lower()]
             if matches:
@@ -291,6 +292,7 @@ def writeset(seconds):
     """Look -> copy -> test -> result. Returns 0 when the result shows."""
     deadline = time.time() + seconds
     turn = 0
+    shots = set()
     while time.time() < deadline:
         root = dump()
         if root is None:
@@ -298,6 +300,10 @@ def writeset(seconds):
             continue
         found = list(labels(root))
         texts = [label for label, _ in found]
+        for emoji, name in (('✏️', '09w-copy'), ('📝', '09w-test')):
+            if name not in shots and any(t.strip() == emoji for t in texts):
+                shots.add(name)
+                shot(name)
         if any(t.strip() == 'Kết quả' for t in texts):
             print('writeset: result screen')
             return 0

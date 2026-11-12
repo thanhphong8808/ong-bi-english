@@ -29,15 +29,20 @@ class PronLexicon {
   static const Map<String, String> _ukUs = {
     'colour': 'color', 'colours': 'colors', 'colourful': 'colorful', 'favourite': 'favorite',
     'grey': 'gray', 'centre': 'center', 'theatre': 'theater', 'neighbour': 'neighbor',
-    'practise': 'practice', 'jewellery': 'jewelry', 'aeroplane': 'airplane', 'mum': 'mum',
+    'practise': 'practice', 'jewellery': 'jewelry', 'aeroplane': 'airplane',
     'pyjamas': 'pajamas', 'organise': 'organize', 'flavour': 'flavor', 'honour': 'honor',
   };
 
+  /// Names in the app the dictionary reads another way ("Bi" is not "by").
+  static const Map<String, String> _names = {'bi': 'bi', 'mum': 'mʌm'};
+
   static String _strip(String ipa) => ipa.replaceAll('/', '').trim();
 
+  static final RegExp _edgePunctuation = RegExp(r'''^[\s.,!?;:"“”()\[\]…\-–—']+|[\s.,!?;:"“”()\[\]…\-–—']+$''');
+
   /// Lower case word without surrounding punctuation ("Apples!" -> "apples").
-  static String clean(String word) =>
-      word.toLowerCase().replaceAll('’', "'").replaceAll(RegExp(r"^[^a-z']+|[^a-z']+$"), '').replaceAll(RegExp(r"^'+|'+$"), '');
+  /// Letters with accents stay, so Vietnamese names ("Bé") get no IPA.
+  static String clean(String word) => word.toLowerCase().replaceAll('’', "'").replaceAll(_edgePunctuation, '');
 
   bool get isEmpty => sortedLines.isEmpty && _extra.isEmpty;
 
@@ -47,7 +52,7 @@ class PronLexicon {
     if (w.isEmpty || !RegExp(r"^[a-z]+(?:'[a-z]+)?$").hasMatch(w)) {
       return null;
     }
-    return _extra[w] ?? _find(w) ?? _find(_ukUs[w] ?? '') ?? _plural(w);
+    return _names[w] ?? _extra[w] ?? _find(w) ?? _find(_ukUs[w] ?? '') ?? _plural(w);
   }
 
   /// Words the dictionary misses but whose singular it knows ("crayons").

@@ -52,7 +52,7 @@ class SpokenText extends ConsumerWidget {
 
     void say(String word) {
       final clean = PronLexicon.clean(word);
-      if (clean.isNotEmpty) {
+      if (RegExp(r"^[a-z]+(?:'[a-z]+)?$").hasMatch(clean)) {
         services.speech.sayEn(clean, voice: voice ?? settings.voice, speed: settings.speechRate).catchError((Object _) {});
       }
     }
@@ -147,7 +147,12 @@ class _WordCell extends StatelessWidget {
           if (ipa != null)
             Text(
               ipa!,
-              style: TextStyle(fontFamily: AppTheme.writingFont, fontSize: fontSize * 0.42, color: _ipaColor, height: 1.1),
+              style: TextStyle(
+                fontFamily: AppTheme.writingFont,
+                fontSize: (fontSize * 0.5).clamp(13.0, 22.0).toDouble(),
+                color: _ipaColor,
+                height: 1.1,
+              ),
             ),
         ],
       ),
