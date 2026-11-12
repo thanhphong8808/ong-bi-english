@@ -1,8 +1,9 @@
 // lib/widgets/spoken_text.dart
 //
 // English text the child reads while Bi speaks: each word changes colour as
-// Bi says it (the word being said sits on a honey background), with its
-// pronunciation (IPA) underneath. Tapping a word says it.
+// Bi says it (the word being said is white on purple, words already said turn
+// purple), with its pronunciation (IPA) underneath. Tapping a word says it.
+import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:material_ui/material_ui.dart';
 
@@ -15,6 +16,10 @@ import '../curriculum/pron_lexicon.dart';
 
 const Color _ipaColor = Color(0xFF7A6A55);
 
+/// Colour of words already said, and background of the word being said.
+const Color karaokeColor = AppColors.grape;
+
+/// [KaraokeText] wired to Bi's voice, the dictionary and the parent settings.
 class SpokenText extends ConsumerWidget {
   const SpokenText(
     this.text, {
@@ -44,44 +49,86 @@ class SpokenText extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final services = ref.watch(appServicesProvider);
     final settings = ref.watch(parentSettingsProvider);
-    final withIpa = showIpa ?? settings.showIpa;
+    return KaraokeText(
+      text,
+      progress: services.speech.progress,
+      lexicon: services.pron.lexicon,
+      showIpa: showIpa ?? settings.showIpa,
+      fontSize: fontSize,
+      ipa: ipa,
+      alignment: alignment,
+      onWord: (clean) =>
+          services.speech.sayEn(clean, voice: voice ?? settings.voice, speed: settings.speechRate).catchError((Object _) {}),
+    );
+  }
+}
+
+/// The text itself; no providers, so widget tests can drive [progress].
+class KaraokeText extends StatelessWidget {
+  const KaraokeText(
+    this.text, {
+    super.key,
+    required this.progress,
+    required this.lexicon,
+    required this.showIpa,
+    required this.onWord,
+    this.fontSize = 32,
+    this.ipa,
+    this.alignment = WrapAlignment.center,
+  });
+
+  final String text;
+  final ValueListenable<SpeechProgress> progress;
+  final ValueListenable<PronLexicon> lexicon;
+  final bool showIpa;
+
+  /// Called with a tapped English word, lower case, without punctuation.
+  final void Function(String word) onWord;
+  final double fontSize;
+  final String? ipa;
+  final WrapAlignment alignment;
+
+  @override
+  Widget build(BuildContext context) {
     final words = text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).toList();
     final starts = wordStarts(words);
     final key = karaokeKey(text);
     final wholeIpa = ipa?.replaceAll('/', '').trim();
 
-    void say(String word) {
+    void tapped(String word) {
       final clean = PronLexicon.clean(word);
       if (RegExp(r"^[a-z]+(?:'[a-z]+)?$").hasMatch(clean)) {
-        services.speech.sayEn(clean, voice: voice ?? settings.voice, speed: settings.speechRate).catchError((Object _) {});
+        onWord(clean);
       }
     }
 
     return ValueListenableBuilder<PronLexicon>(
-      valueListenable: services.pron.lexicon,
-      builder: (context, lexicon, _) => ValueListenableBuilder<SpeechProgress>(
-        valueListenable: services.speech.progress,
-        builder: (context, progress, _) {
-          final speaking = progress.active && karaokeKey(progress.text) == key;
-          final reached = speaking ? wordsReached(starts, progress.fraction) : 0;
+      valueListenable: lexicon,
+      builder: (context, lex, _) => ValueListenableBuilder<SpeechProgress>(
+        valueListenable: progress,
+        builder: (context, p, _) {
+          final speaking = p.active && karaokeKey(p.text) == key;
+          final reached = speaking ? wordsReached(starts, p.fraction) : 0;
           final wordCells = Wrap(
             alignment: alignment,
             spacing: fontSize * 0.28,
             runSpacing: fontSize * 0.18,
             children: [
               for (var i = 0; i < words.length; i++)
-                _WordCell(
+                KaraokeWord(
                   word: words[i],
-                  ipa: withIpa && wholeIpa == null ? lexicon.word(words[i]) : null,
+                  ipa: showIpa && wholeIpa == null ? lex.word(words[i]) : null,
                   fontSize: fontSize,
                   state: !speaking
-                      ? _WordState.plain
-                      : (i < reached - 1 ? _WordState.said : (i == reached - 1 ? _WordState.saying : _WordState.plain)),
-                  onTap: () => say(words[i]),
+                      ? KaraokeState.plain
+                      : (i < reached - 1
+                          ? KaraokeState.said
+                          : (i == reached - 1 ? KaraokeState.saying : KaraokeState.plain)),
+                  onTap: () => tapped(words[i]),
                 ),
             ],
           );
-          if (!withIpa || wholeIpa == null || wholeIpa.isEmpty) {
+          if (!showIpa || wholeIpa == null || wholeIpa.isEmpty) {
             return wordCells;
           }
           return Column(
@@ -101,10 +148,11 @@ class SpokenText extends ConsumerWidget {
   }
 }
 
-enum _WordState { plain, said, saying }
+enum KaraokeState { plain, said, saying }
 
-class _WordCell extends StatelessWidget {
-  const _WordCell({
+class KaraokeWord extends StatelessWidget {
+  const KaraokeWord({
+    super.key,
     required this.word,
     required this.ipa,
     required this.fontSize,
@@ -115,12 +163,16 @@ class _WordCell extends StatelessWidget {
   final String word;
   final String? ipa;
   final double fontSize;
-  final _WordState state;
+  final KaraokeState state;
   final VoidCallback onTap;
 
   @override
   Widget build(BuildContext context) {
-    final color = state == _WordState.said ? AppColors.grape : AppColors.ink;
+    final color = switch (state) {
+      KaraokeState.plain => AppColors.ink,
+      KaraokeState.said => karaokeColor,
+      KaraokeState.saying => AppColors.white,
+    };
     return GestureDetector(
       onTap: onTap,
       behavior: HitTestBehavior.opaque,
@@ -128,9 +180,9 @@ class _WordCell extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Container(
-            padding: EdgeInsets.symmetric(horizontal: fontSize * 0.12),
+            padding: EdgeInsets.symmetric(horizontal: fontSize * 0.14),
             decoration: BoxDecoration(
-              color: state == _WordState.saying ? AppColors.honey : Colors.transparent,
+              color: state == KaraokeState.saying ? karaokeColor : Colors.transparent,
               borderRadius: BorderRadius.circular(fontSize * 0.25),
             ),
             child: Text(
