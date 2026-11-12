@@ -252,6 +252,26 @@ void main() {
       expectWellFormed(events, level: 0);
     });
 
+    test('an over-long sentence is skipped and the model\'s short question still comes through', () async {
+      final model = FakeModel(
+        const ['I like a big red ball and a big blue ball and a small red ball too. Do you like cats?'],
+      );
+      final bi = BiBrain(model: model, context: ctx(level: 0));
+      final events = await turn(bi, 'I like balls');
+      expect(said(events), contains('Do you like cats?'));
+      expect(said(events).any((s) => s.startsWith('I like a big red ball and')), isFalse);
+      expectWellFormed(events, level: 0);
+    });
+
+    test('after an unsafe sentence nothing else from that reply is spoken', () async {
+      final model = FakeModel(const ['What is your address? Can you run in the park?']);
+      final bi = BiBrain(model: model, context: ctx());
+      final events = await turn(bi, 'I like cats');
+      expect(flags(events), contains('filtered_output'));
+      expect(said(events), isNot(contains('Can you run in the park?')));
+      expectWellFormed(events);
+    });
+
     test('a crashing model gives a friendly fallback turn', () async {
       final model = FakeModel(const ['I li'], failAfter: true);
       final bi = BiBrain(model: model, context: ctx());
@@ -343,6 +363,16 @@ void main() {
     test('cleans model text before it is spoken', () {
       expect(ContentFilter.cleanModelText('*jumps* Hello!! 🐝 [laughs]'), 'Hello!!');
       expect(ContentFilter.cleanModelText('I like **cats**.'), 'I like cats.');
+    });
+
+    test('speakable keeps short sentences, skips long ones and stops at unsafe ones', () {
+      const f = ContentFilter();
+      expect(
+        f.speakable('Hello there my friend, it is so very nice to meet you today. Do you like cats?', level: 1),
+        ['Do you like cats?'],
+      );
+      expect(f.speakable('What is your address? Do you like cats?', level: 1), isEmpty);
+      expect(f.speakable('Hi! I am Bi. Do you like dogs?', level: 1), ['Hi!', 'I am Bi.']);
     });
 
     test('checks one sentence without counting sentences', () {

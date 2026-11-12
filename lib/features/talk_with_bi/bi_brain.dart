@@ -411,29 +411,41 @@ class BiBrain {
       },
     );
 
+    var examined = 0;
     try {
       await for (final raw in sentences.stream) {
         final sentence = ContentFilter.cleanModelText(raw);
         if (sentence.isEmpty) {
           continue;
         }
+        examined++;
         final isLast = spoken.length == AppConfig.biMaxSentencesPerTurn - 1;
         final safety = filter.checkSentence(sentence, level: context.level);
-        if (safety.blocked) {
+        // Too long or too hard is not unsafe: skip that sentence and keep
+        // listening, so Bi's own short question can still come through.
+        // Gemma often opens with one long sentence.
+        final tooHard = safety.reason == FilterReason.tooLong ||
+            (!safety.blocked &&
+                unknownWords(sentence) > AppConfig.biUnknownWordsTolerance[context.level.clamp(0, 5)]);
+        if (safety.blocked && !tooHard) {
+          // Unsafe: nothing more from this reply is spoken.
           if (!flagged) {
             flagged = true;
-            yield BiFlag(safety.reason == FilterReason.tooLong ? 'too_hard' : 'filtered_output');
+            yield const BiFlag('filtered_output');
           }
           await stopModel();
           break;
         }
-        if (unknownWords(sentence) > AppConfig.biUnknownWordsTolerance[context.level.clamp(0, 5)]) {
+        if (tooHard) {
           if (!flagged) {
             flagged = true;
             yield const BiFlag('too_hard');
           }
-          await stopModel();
-          break;
+          if (examined >= AppConfig.biMaxSentencesExamined) {
+            await stopModel();
+            break;
+          }
+          continue;
         }
         final isQuestion = sentence.endsWith('?');
         if (isLast && !isQuestion) {

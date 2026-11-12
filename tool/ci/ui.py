@@ -10,6 +10,7 @@ Usage:
   ui.py setup [MINUTES]      download every required pack on the setup screen
   ui.py explore SECONDS      tap through a lesson like a child (answers, mic, next)
   ui.py tapright TEXT [SEC]  tap the button at the right end of the row showing TEXT
+  ui.py tapx  TEXT [SEC]     like tap, but the label must be exactly TEXT
 """
 import base64
 import re
@@ -65,12 +66,16 @@ def labels(root):
             yield text, node
 
 
-def find(text, seconds):
+def find(text, seconds, exact_match=False):
     deadline = time.time() + seconds
     while True:
         root = dump()
         if root is not None:
-            matches = [n for label, n in labels(root) if text.lower() in label.lower()]
+            if exact_match:
+                matches = [n for label, n in labels(root)
+                           if text in (node_text.strip() for node_text in label.split(' | '))]
+            else:
+                matches = [n for label, n in labels(root) if text.lower() in label.lower()]
             if matches:
                 clickable = [n for n in matches if n.get('clickable') == 'true']
                 return (clickable or matches)[0]
@@ -271,7 +276,9 @@ def main():
         return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120)
     text = sys.argv[2]
     seconds = float(sys.argv[3]) if len(sys.argv) > 3 else 30
-    node = find(text, seconds)
+    node = find(text, seconds, exact_match=(cmd == 'tapx'))
+    if cmd == 'tapx':
+        cmd = 'tap'  # exact label, otherwise the same as tap
     if node is None:
         # Screens with a looping animation never become "idle", so
         # uiautomator cannot read them; fall back to known coordinates

@@ -118,6 +118,10 @@ class AppConfig {
 
   // ---- Talk with Bi (LLM) ---------------------------------------------------------
   static const int biMaxSentencesPerTurn = 2;
+
+  /// Model sentences read per turn while skipping ones that are too long or
+  /// too hard for the child, before Bi gives up and asks its own question.
+  static const int biMaxSentencesExamined = 5;
   static const int biMaxWordsPerSentenceLow = 8; // levels 0-1
   static const int biMaxWordsPerSentenceHigh = 16;
   static const int biMaxNewWordsPerTurn = 1;

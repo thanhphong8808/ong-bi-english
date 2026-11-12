@@ -140,7 +140,7 @@ if alive; then
   $UI tap "Tập viết" 15 540 1900 && sleep 8
   check "writing"
   $UI shot 08-write
-  $UI tap "A" 10 && sleep 8
+  $UI tapx "A" 10 && sleep 8
   # Draw a stroke on the tracing canvas.
   adb shell input swipe 400 900 540 1500 600; sleep 2
   adb shell input swipe 680 900 540 1500 600; sleep 4

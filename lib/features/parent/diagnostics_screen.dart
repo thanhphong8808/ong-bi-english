@@ -10,6 +10,7 @@ import '../../core/services/llm_service.dart';
 import '../../core/services/model_catalog.dart';
 import '../../core/services/stt_service.dart';
 import '../../l10n/strings_vi.dart';
+import '../../core/services/content_filter.dart';
 
 /// Parent tool to try each on-device component after installation and to
 /// check the speed targets (speech scoring and Bi's first word within 2 s).
@@ -158,15 +159,17 @@ class _DiagnosticsScreenState extends ConsumerState<DiagnosticsScreen> {
             firstTokenMs ??= replyWatch.elapsedMilliseconds;
             buffer.write(chunk);
           }
-          // Even in diagnostics nothing is spoken before the safety filter.
-          final checked = services.contentFilter.checkOutput(buffer.toString(), level: 1);
-          final note = checked.blocked ? '\n${S.diagFiltered} (${checked.reason.name})' : '';
+          // Even in diagnostics nothing is spoken before the safety filter,
+          // with the same rules as a real conversation.
+          final kept = services.contentFilter.speakable(buffer.toString(), level: 1);
+          final spoken = kept.isEmpty ? ContentFilter.safeReplyEn : kept.join(' ');
+          final note = kept.isEmpty ? '\n${S.diagFiltered}' : '';
           _show(() {
             _llmResult = '${backend.toUpperCase()} · load ${S.milliseconds(loadMs)} · '
-                'first ${S.milliseconds(firstTokenMs ?? 0)}\n${checked.safeText}$note';
+                'first ${S.milliseconds(firstTokenMs ?? 0)}\n$spoken$note';
           });
           await services.speech.sayEn(
-            checked.safeText,
+            spoken,
             voice: settings.voice,
             speed: settings.speechRate,
           );

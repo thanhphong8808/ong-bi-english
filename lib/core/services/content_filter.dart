@@ -209,6 +209,33 @@ class ContentFilter {
   }
 
   /// Checks a model reply before it is spoken. [level] is the child's level.
+  /// What Bi would actually say from a whole [reply], with the same rules
+  /// as a live conversation: sentences that are too long are skipped,
+  /// anything unsafe ends the reply, at most two sentences. Empty when
+  /// nothing can be spoken (the caller then uses a fixed line).
+  List<String> speakable(String reply, {required int level}) {
+    final out = <String>[];
+    final pieces = RegExp(r'[^.!?…]+[.!?…]*').allMatches(reply).map((m) => m.group(0)!);
+    for (final piece in pieces) {
+      final sentence = cleanModelText(piece);
+      if (sentence.isEmpty) {
+        continue;
+      }
+      final check = checkSentence(sentence, level: level);
+      if (check.blocked && check.reason != FilterReason.tooLong) {
+        break;
+      }
+      if (check.blocked) {
+        continue;
+      }
+      out.add(sentence);
+      if (out.length >= AppConfig.biMaxSentencesPerTurn) {
+        break;
+      }
+    }
+    return out;
+  }
+
   FilterResult checkOutput(String text, {required int level}) {
     final trimmed = text.trim();
     if (trimmed.isEmpty) {
