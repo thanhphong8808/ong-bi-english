@@ -13,12 +13,17 @@ Tài liệu này viết cho bố mẹ **không biết lập trình**. Làm lần
   mẫu với Bi, tập đọc, tập viết, rồi ôn lại từ cũ theo lịch Leitner (từ nào hay sai sẽ
   gặp lại nhiều hơn). Học xong mỗi unit có bài kiểm tra (đạt 80%), học xong mỗi cấp có
   bài thi lên cấp (đạt 75%, mỗi phần nghe – nói – đọc – viết từ 60%) và giấy khen.
+  Bài chia 3 chặng khoảng 4 phút; hết mỗi chặng bé được sao và chọn "Học tiếp" hoặc
+  "Nghỉ đã" (phần đã học vẫn được lưu).
 - **Nói chuyện với Bi**: trò chuyện, nhập vai (đi chợ, đi khám bác sĩ, sinh nhật…),
   cùng kể chuyện. Bi chỉ nói tối đa 2 câu ngắn, luôn kết thúc bằng một câu hỏi dễ, và
   có nút gợi ý câu trả lời. Có lớp lọc an toàn ở cả lời bé nói và lời Bi nói.
 - **Tập viết**: tô chữ cái theo nét, viết chữ, chép từ, nghe – viết.
 - **Sao và album hình dán**: mỗi bài học được sao, đổi lấy hình dán. Bi đổi trang phục
   khi bé lên cấp.
+- **Tổ ong của tuần**: mỗi ngày học là một ô tổ ong vàng. Ngày nghỉ không bị phạt, chuỗi
+  ngày chỉ để khen. Có 20 huy hiệu cột mốc (bài đầu tiên, 3/7/30 ngày liền, biết 50/100/300/1000
+  từ, trò chuyện với Bi, nói thật hay, lên cấp).
 - Hết giờ học trong ngày, Bi "đi ngủ" và hẹn bé ngày mai.
 
 **Giáo trình** (tự soạn, có hình minh hoạ, câu mẫu, hội thoại, bài đọc và ngân hàng câu
@@ -159,8 +164,13 @@ Bấm bánh răng nhỏ ở góc dưới màn hình chính và trả lời phép
   khung giờ học, nhắc giờ học bằng thông báo, giọng đọc, đọc chậm 0,7x, độ khó chấm phát
   âm, bật/tắt "Nói chuyện với Bi", mức hỗ trợ tiếng Việt, hoãn đọc chữ tiếng Anh (tự tắt
   sau 90 ngày), số ngày giữ ghi âm của bé (mặc định 7), mã PIN 4 số.
-- **Bảng tiến độ**: unit đang học, số mục đã thuộc, điểm nghe – nói – đọc – viết theo
-  tuần, số phút học 14 ngày gần nhất, các mục bé hay sai, lịch sử kiểm tra và phần cần ôn.
+- **Bộ từ của bố mẹ**: thêm từ trong sách tiếng Anh ở trường của bé (từ, nghĩa, câu ví
+  dụ, hình). App tự tạo giọng đọc, dạy 2 từ mới ngay chặng đầu mỗi bài, ôn theo Leitner,
+  và Bi dùng các từ này khi trò chuyện.
+- **Bảng tiến độ**: unit đang học, số mục đã thuộc, **bản đồ kỹ năng** (số từ bé nhớ chắc
+  / đang nhớ / mới học cho từng kỹ năng nghe – nói – đọc – viết, điểm phát âm theo tuần,
+  từ nên luyện nói thêm, thời gian bé bắt đầu trả lời Bi và số từ mỗi câu trả lời), điểm
+  theo tuần, số phút học 14 ngày gần nhất, các mục bé hay sai, lịch sử kiểm tra.
 - **Hồ sơ của bé**: tối đa 3 bé, mỗi bé có tiến độ, sao và hình dán riêng; chọn cấp hoặc
   làm lại kiểm tra đầu vào.
 - **Nhật ký Nói chuyện với Bi**: xem lại bé và Bi đã nói gì. Lượt có biểu tượng lá cờ
@@ -170,7 +180,8 @@ Bấm bánh răng nhỏ ở góc dưới màn hình chính và trả lời phép
   máy mới. Ghi âm của bé không nằm trong file sao lưu.
 - **Quản lý model**: xem dung lượng, tải lại, nhập thủ công, xoá gói, xoá bộ nhớ đệm âm
   thanh. Xoá gói "Bộ não của Bi" không ảnh hưởng tới bài học.
-- **Kiểm tra hệ thống**: thử từng thành phần và xem tốc độ.
+- **Kiểm tra hệ thống**: thử từng thành phần và xem tốc độ, gồm thời gian chờ chấm phát âm
+  (từ lúc bé ngừng nói tới lúc có kết quả; mục tiêu dưới 1,5 giây).
 
 Nếu quên mã PIN: vào **Cài đặt Android → Ứng dụng → Ong Bi English → Lưu trữ → Xoá dữ
 liệu**. Việc này xoá cả tiến độ và model đã tải.
