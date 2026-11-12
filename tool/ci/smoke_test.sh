@@ -160,7 +160,11 @@ if alive; then
   $UI shot 09w-ladder
   $UI list | head -30
   if $UI tapx "1" 10; then
-    sleep 15
+    # Bi reads the words one by one: the word being read lights up.
+    sleep 4
+    for n in 1 2 3 4 5 6; do adb exec-out screencap -p > "$OUT/karaoke-$n.png"; sleep 0.4; done
+    for n in 1 2 3 4 5 6; do echo "BEGIN_PNG 09w-karaoke-$n $(stat -c %s "$OUT/karaoke-$n.png")"; base64 -w0 "$OUT/karaoke-$n.png"; echo; echo END_PNG; done
+    sleep 8
     $UI shot 09w-look
     $UI list | head -30
     $UI writeset 300 || echo "WARNING: the writing set did not reach its result"
