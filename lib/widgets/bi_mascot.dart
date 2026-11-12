@@ -3,6 +3,7 @@ import 'dart:math' as math;
 
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:material_ui/material_ui.dart';
+import 'motion.dart';
 
 /// Bi's five moods. Each maps to one SVG in assets/svg/.
 enum BiMood { happy, listening, thinking, cheering, sleeping }
@@ -35,7 +36,13 @@ class _BiMascotState extends State<BiMascot> with SingleTickerProviderStateMixin
   late final AnimationController _controller = AnimationController(
     vsync: this,
     duration: const Duration(milliseconds: 1800),
-  )..repeat();
+  );
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    loopUnlessReducedMotion(_controller, context);
+  }
 
   @override
   void dispose() {

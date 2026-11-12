@@ -76,6 +76,9 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
   }
 
   Future<void> _start(BiMode mode, {BiScenario? scenario, BiStory? story}) async {
+    if (_phase == _Phase.loading || _phase == _Phase.talking) {
+      return; // a second tap while Bi wakes up
+    }
     setState(() {
       _phase = _Phase.loading;
       _mood = BiMood.thinking;
@@ -128,10 +131,19 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
         throw StateError('no model');
       }
       await _services.llm.load(modelPath: path, preferGpu: _services.profile.preferGpu);
+      if (!mounted) {
+        // The child left while Gemma was loading: dispose() already asked to
+        // unload, but the load finished afterwards. Free the gigabytes now.
+        await _services.llm.unload();
+        return;
+      }
       final brain = BiBrain(model: LlmChatModel(_services.llm), context: biContext, filter: _services.contentFilter);
       await brain.start();
       _brain = brain;
     } catch (_) {
+      if (!mounted) {
+        return;
+      }
       await _services.speech.sayVi(S.talkErrorSpoken).catchError((Object _) {});
       if (mounted) {
         context.pop();
@@ -292,12 +304,13 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
     if (!mounted) {
       return;
     }
+    final voice = ref.read(parentSettingsProvider).voice;
     setState(() {
       _phase = _Phase.ended;
       _mood = BiMood.cheering;
     });
     await _services.llm.cancel();
-    await _services.speech.sayEn(S.talkTimeUpEn, voice: ref.read(parentSettingsProvider).voice).catchError((Object _) {});
+    await _services.speech.sayEn(S.talkTimeUpEn, voice: voice).catchError((Object _) {});
     await _services.speech.sayVi(S.talkTimeUpSpoken).catchError((Object _) {});
     await _services.llm.unload();
   }

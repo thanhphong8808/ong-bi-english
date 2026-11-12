@@ -9,6 +9,7 @@ import '../../core/services/parent_gate.dart';
 import '../../core/services/parent_settings.dart';
 import '../../core/services/english_voice.dart';
 import '../../l10n/strings_vi.dart';
+import '../../core/services/study_clock.dart';
 
 /// The only place where learning settings can be changed.
 class ParentSettingsScreen extends ConsumerWidget {
@@ -144,6 +145,7 @@ class ParentSettingsScreen extends ConsumerWidget {
               max: AppConfig.maxDailyLimitMinutes,
               onChanged: (v) => notifier.change((s) => s.copyWith(dailyLimitMinutes: v)),
             ),
+            _StudiedToday(clock: ref.read(appServicesProvider).studyClock),
             sliderRow(
               title: S.parentSession,
               value: settings.sessionMinutes,
@@ -280,6 +282,34 @@ class ParentSettingsScreen extends ConsumerWidget {
               },
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+/// Today's study minutes, with a button to start the count again.
+class _StudiedToday extends StatelessWidget {
+  const _StudiedToday({required this.clock});
+
+  final StudyClock clock;
+
+  @override
+  Widget build(BuildContext context) {
+    return ValueListenableBuilder<int>(
+      valueListenable: clock.todaySeconds,
+      builder: (context, seconds, _) => ListTile(
+        title: Text(S.parentStudiedToday(seconds ~/ 60)),
+        subtitle: const Text(S.parentResetTodayHint),
+        trailing: TextButton(
+          onPressed: seconds == 0
+              ? null
+              : () async {
+                  final messenger = ScaffoldMessenger.of(context);
+                  await clock.resetToday();
+                  messenger.showSnackBar(const SnackBar(content: Text(S.parentResetTodayDone)));
+                },
+          child: const Text(S.parentResetToday),
         ),
       ),
     );

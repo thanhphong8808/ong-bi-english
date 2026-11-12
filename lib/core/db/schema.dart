@@ -6,7 +6,7 @@
 class DbSchema {
   const DbSchema._();
 
-  static const int version = 1;
+  static const int version = 2;
 
   /// Statements that create schema version 1.
   static const List<String> createV1 = [
@@ -140,7 +140,15 @@ class DbSchema {
 
   /// Upgrade steps keyed by the version they upgrade FROM.
   /// Example for a future v2: `1: ['ALTER TABLE profiles ADD COLUMN avatar INTEGER NOT NULL DEFAULT 0']`.
-  static const Map<int, List<String>> upgrades = <int, List<String>>{};
+  static const Map<int, List<String>> upgrades = <int, List<String>>{
+    // v2 (build 12): builds before 10 counted time the phone slept on an
+    // open lesson as study time, so Bi wrongly "went to sleep". Today's
+    // count starts again; older days are capped at the largest daily limit.
+    1: [
+      "UPDATE study_days SET seconds = 0 WHERE day = date('now', 'localtime')",
+      'UPDATE study_days SET seconds = 3600 WHERE seconds > 3600',
+    ],
+  };
 
   /// Tables included in backups, in restore order.
   static const List<String> backupTables = [

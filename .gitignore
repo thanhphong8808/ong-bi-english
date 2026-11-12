@@ -22,3 +22,4 @@ android/app/.cxx/
 # CI voice check (tool/ci/tts_check.py)
 speech-models/
 speech.json
+__pycache__/

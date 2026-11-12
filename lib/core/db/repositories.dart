@@ -541,7 +541,17 @@ class ProgressRepo extends _Repo {
   }
 }
 
-class StudyRepo extends _Repo {
+/// Where study seconds are kept (the database in the app, a fake in tests).
+/// Used by StudyClock.
+abstract interface class StudyStore {
+  Future<StudyDay> day(int profileId, DateTime when);
+
+  Future<void> addSeconds(int profileId, DateTime when, int seconds);
+
+  Future<void> resetDay(int profileId, DateTime when);
+}
+
+class StudyRepo extends _Repo implements StudyStore {
   const StudyRepo(super.db);
 
   static String dayKey(DateTime time) {
@@ -549,6 +559,7 @@ class StudyRepo extends _Repo {
     return '${time.year}-${two(time.month)}-${two(time.day)}';
   }
 
+  @override
   Future<void> addSeconds(int profileId, DateTime when, int seconds) async {
     await db.customInsert(
       'INSERT OR IGNORE INTO study_days (profile_id, day) VALUES (?, ?)',
@@ -557,6 +568,14 @@ class StudyRepo extends _Repo {
     await db.customUpdate(
       'UPDATE study_days SET seconds = seconds + ? WHERE profile_id = ? AND day = ?',
       variables: [_i(seconds), _i(profileId), _s(dayKey(when))],
+    );
+  }
+
+  @override
+  Future<void> resetDay(int profileId, DateTime when) async {
+    await db.customUpdate(
+      'UPDATE study_days SET seconds = 0 WHERE profile_id = ? AND day = ?',
+      variables: [_i(profileId), _s(dayKey(when))],
     );
   }
 
@@ -571,6 +590,7 @@ class StudyRepo extends _Repo {
     );
   }
 
+  @override
   Future<StudyDay> day(int profileId, DateTime when) async {
     final row = await db.customSelect(
       'SELECT * FROM study_days WHERE profile_id = ? AND day = ?',

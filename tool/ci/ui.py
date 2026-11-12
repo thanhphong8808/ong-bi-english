@@ -8,6 +8,7 @@ Usage:
   ui.py shot  NAME           save a screenshot and print it as base64
   ui.py gate                 solve the parent gate (a x b) if it is open
   ui.py setup [MINUTES]      download every required pack on the setup screen
+  ui.py explore SECONDS      tap through a lesson like a child (answers, mic, next)
 """
 import base64
 import re
@@ -201,6 +202,55 @@ def setup(minutes):
     return 1
 
 
+AVOID = ('Khu phụ huynh', 'Thoát', 'Về nhà', 'Nghỉ học')
+
+
+def explore(seconds):
+    """Taps the clickable things of the current lesson screen in turn: answer
+    cards, the microphone, the speaker, "next". Avoids the top bar (close)."""
+    deadline = time.time() + seconds
+    turn = 0
+    last_screen = None
+    while time.time() < deadline:
+        root = dump()
+        if root is None:
+            adb('shell', 'input', 'tap', '540', '1700')
+            time.sleep(4)
+            continue
+        found = [(label, n) for label, n in labels(root)]
+        texts = [label for label, _ in found]
+        screen = ' | '.join(t.replace('\n', ' ')[:30] for t in texts[:6])
+        if screen != last_screen:
+            print('screen:', screen)
+            last_screen = screen
+        # The "leave the lesson?" dialog: keep learning.
+        keep = [n for label, n in found if label.strip() in ('Học tiếp', 'Tiếp tục')]
+        if keep:
+            tap_node(keep[0])
+            time.sleep(2)
+            continue
+        targets = []
+        for node in root.iter('node'):
+            if node.get('clickable') != 'true' or node.get('enabled') == 'false':
+                continue
+            x1, y1, x2, y2 = bounds(node)
+            label = (node.get('content-desc') or node.get('text') or '').strip()
+            if y1 < 330 or any(a in label for a in AVOID):
+                continue
+            targets.append(node)
+        if not targets:
+            adb('shell', 'input', 'tap', '540', '1700')
+            time.sleep(4)
+            continue
+        node = targets[turn % len(targets)]
+        turn += 1
+        label = (node.get('content-desc') or node.get('text') or '?').replace('\n', ' ')[:40]
+        print(f'tap {label!r} at {center(node)}')
+        tap_node(node)
+        time.sleep(5)
+    return 0
+
+
 def main():
     cmd = sys.argv[1]
     if cmd == 'list':
@@ -216,6 +266,8 @@ def main():
         return 0 if root is not None and solve_gate(root) else 1
     if cmd == 'setup':
         return setup(float(sys.argv[2]) if len(sys.argv) > 2 else 25)
+    if cmd == 'explore':
+        return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120)
     text = sys.argv[2]
     seconds = float(sys.argv[3]) if len(sys.argv) > 3 else 30
     node = find(text, seconds)

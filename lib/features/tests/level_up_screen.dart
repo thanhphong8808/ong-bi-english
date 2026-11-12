@@ -13,6 +13,7 @@ import '../../widgets/bi_mascot.dart';
 import '../daily_lesson/activities/activity_base.dart';
 import '../parent/parent_gate_dialog.dart';
 import 'certificate.dart';
+import '../../widgets/motion.dart';
 
 /// Passing a level test: confetti, Bi grows and changes outfit, and the
 /// parent can save a certificate image to the Download folder.
@@ -28,7 +29,13 @@ class LevelUpScreen extends ConsumerStatefulWidget {
 
 class _LevelUpScreenState extends ConsumerState<LevelUpScreen> with SingleTickerProviderStateMixin {
   late final AnimationController _confetti =
-      AnimationController(vsync: this, duration: const Duration(seconds: 4))..repeat();
+      AnimationController(vsync: this, duration: const Duration(seconds: 4));
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    loopUnlessReducedMotion(_confetti, context, stillValue: 0.5);
+  }
   bool _saving = false;
 
   @override

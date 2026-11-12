@@ -39,13 +39,13 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   /// Loads today's study time and renders audio in the background, once.
   Future<void> _prepare() async {
     final services = ref.read(appServicesProvider);
+    final settings = ref.read(parentSettingsProvider);
     final profile = await ref.read(activeProfileProvider.future);
     await services.studyClock.load(profile.id);
     if (_warmedUp) {
       return;
     }
     _warmedUp = true;
-    final settings = ref.read(parentSettingsProvider);
     services.audioCache.prewarm(LessonAudio.instructions());
     final snapshot = await services.progress.snapshot(profile.id);
     services.audioCache.prewarm(LessonAudio.upcoming(

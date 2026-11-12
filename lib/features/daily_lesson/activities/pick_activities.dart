@@ -13,6 +13,7 @@ import '../../../curriculum/models.dart';
 import '../../../l10n/strings_vi.dart';
 import '../../../widgets/item_picture.dart';
 import 'activity_base.dart';
+import '../../../widgets/motion.dart';
 
 /// Shared state for "tap one of several options" games.
 abstract class _PickState<T extends ActivityView> extends ActivityState<T> {
@@ -256,7 +257,13 @@ class BubbleActivity extends ActivityView<BubbleStep> {
 
 class _BubbleState extends _PickState<BubbleActivity> with SingleTickerProviderStateMixin {
   late final AnimationController _float =
-      AnimationController(vsync: this, duration: const Duration(seconds: 6))..repeat();
+      AnimationController(vsync: this, duration: const Duration(seconds: 6));
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    loopUnlessReducedMotion(_float, context);
+  }
 
   @override
   String get instructionVi => S.insBubble;

@@ -12,13 +12,22 @@ enum StudyLock { none, dailyLimit, outsideHours }
 
 /// Counts study time while a learning screen is open and decides when Bi
 /// "goes to sleep" (daily limit reached or outside the allowed hours).
+///
+/// Only time on screen counts: the clock pauses when the app goes to the
+/// background, one tick never adds more than [maxTickSeconds] (a phone that
+/// slept on an open lesson is not studying), and the count starts again
+/// when the date changes, even if the app stayed open overnight.
 class StudyClock {
-  StudyClock(this.studyRepo);
+  StudyClock(this.store, {DateTime Function()? clock}) : _now = clock ?? DateTime.now;
 
-  final StudyRepo studyRepo;
+  final StudyStore store;
+  final DateTime Function() _now;
 
   /// Seconds studied today by the active profile.
   final ValueNotifier<int> todaySeconds = ValueNotifier<int>(0);
+
+  /// Longest stretch one tick may add.
+  static const int maxTickSeconds = AppConfig.studyTickSeconds * 2;
 
   Timer? _timer;
   int _profileId = 0;
@@ -29,51 +38,19 @@ class StudyClock {
   /// The day [todaySeconds] belongs to (local date, yyyy-mm-dd).
   String _day = '';
 
-  /// Longest stretch one tick may add. Anything longer means the phone slept
-  /// or the app sat in the background, which is not study time.
-  static const int _maxTickSeconds = AppConfig.studyTickSeconds * 2;
-
   Future<void> load(int profileId) async {
     _profileId = profileId;
-    final now = DateTime.now();
-    final day = await studyRepo.day(profileId, now);
+    final now = _now();
+    final day = await store.day(profileId, now);
     todaySeconds.value = day.seconds;
     _day = StudyRepo.dayKey(now);
-  }
-
-  /// The app went to the background: stop counting until [resume].
-  void pause() {
-    _tick();
-    _paused = true;
-    _lastTick = null;
-  }
-
-  /// The app is visible again.
-  void resume() {
-    _paused = false;
-    if (_activeScreens > 0) {
-      _lastTick = DateTime.now();
-    }
-  }
-
-  /// Starts a new day's count when the date changed (the app may have stayed
-  /// open overnight, so yesterday's minutes must not lock today).
-  void _rollOver(DateTime now) {
-    final key = StudyRepo.dayKey(now);
-    if (key != _day) {
-      _day = key;
-      todaySeconds.value = 0;
-    }
   }
 
   /// A learning screen opened. Nested screens are counted once.
   void start() {
     _activeScreens++;
-    if (_timer != null) {
-      return;
-    }
-    _lastTick = _paused ? null : DateTime.now();
-    _timer = Timer.periodic(const Duration(seconds: AppConfig.studyTickSeconds), (_) => _tick());
+    _lastTick ??= _paused ? null : _now();
+    _timer ??= Timer.periodic(const Duration(seconds: AppConfig.studyTickSeconds), (_) => tick());
   }
 
   /// A learning screen closed.
@@ -82,28 +59,64 @@ class StudyClock {
       _activeScreens--;
     }
     if (_activeScreens == 0) {
-      _tick();
+      tick();
       _timer?.cancel();
       _timer = null;
       _lastTick = null;
     }
   }
 
-  void _tick() {
+  /// The app went to the background: stop counting until [resume].
+  void pause() {
+    tick();
+    _paused = true;
+    _lastTick = null;
+  }
+
+  /// The app is visible again.
+  void resume() {
+    _paused = false;
+    if (_activeScreens > 0) {
+      _lastTick = _now();
+    }
+  }
+
+  /// Parent action: today's count back to zero for the active profile.
+  Future<void> resetToday() async {
+    final now = _now();
+    _rollOver(now);
+    todaySeconds.value = 0;
+    if (_lastTick != null) {
+      _lastTick = now;
+    }
+    await store.resetDay(_profileId, now);
+  }
+
+  /// Adds the time since the last tick (called by the timer).
+  @visibleForTesting
+  void tick() {
     final last = _lastTick;
     if (last == null) {
       return;
     }
-    final now = DateTime.now();
+    final now = _now();
     final elapsed = now.difference(last).inSeconds;
     if (elapsed <= 0) {
       return;
     }
     _lastTick = now;
     _rollOver(now);
-    final seconds = elapsed > _maxTickSeconds ? _maxTickSeconds : elapsed;
+    final seconds = elapsed > maxTickSeconds ? maxTickSeconds : elapsed;
     todaySeconds.value += seconds;
-    unawaited(studyRepo.addSeconds(_profileId, now, seconds).catchError((Object _) {}));
+    unawaited(store.addSeconds(_profileId, now, seconds).catchError((Object _) {}));
+  }
+
+  void _rollOver(DateTime now) {
+    final key = StudyRepo.dayKey(now);
+    if (key != _day) {
+      _day = key;
+      todaySeconds.value = 0;
+    }
   }
 
   static StudyLock lockFor(ParentSettings settings, int secondsToday, DateTime now) {
@@ -121,7 +134,7 @@ class StudyClock {
   }
 
   StudyLock lock(ParentSettings settings) {
-    final now = DateTime.now();
+    final now = _now();
     _rollOver(now);
     return lockFor(settings, todaySeconds.value, now);
   }

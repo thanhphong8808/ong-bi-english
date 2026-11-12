@@ -215,10 +215,11 @@ jobs:
       - name: Synthesise and recognise
         run: python3 -u tool/ci/tts_check.py speech.json
 
-  # Publishes the APK only when it built, its tests passed and every voice
-  # works. A commit marked [no release] is built and tested only.
+  # Publishes the APK only when it built, its tests passed, every voice works
+  # and the emulator run found no crash, ANR or Dart error. A commit marked
+  # [no release] is built and tested only.
   release:
-    needs: [build, speech]
+    needs: [build, speech, smoke]
     if: ${{ !contains(github.event.head_commit.message, '[no release]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -245,7 +246,7 @@ jobs:
   smoke:
     needs: build
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 100
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -269,11 +270,11 @@ jobs:
           target: google_apis
           arch: x86_64
           profile: pixel_6
-          # 4 GB: the app skips Gemma, so the run stays short (about 500 MB of
-          # models). Talk with Bi is still opened and must rest gracefully.
-          ram-size: 4096M
+          # 6 GB: the app picks Gemma E2B (2.6 GB), so Talk with Bi and the
+          # LiteRT-LM bridge are exercised too.
+          ram-size: 6144M
           cores: 4
-          disk-size: 8G
+          disk-size: 14G
           emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -no-snapshot
           disable-animations: true
           script: bash tool/ci/smoke_test.sh smoke/app-x86_64-release.apk

@@ -77,8 +77,11 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
   }
 
   Future<void> _load() async {
-    final profile = await ref.read(activeProfileProvider.future);
     final settings = ref.read(parentSettingsProvider);
+    final profile = await ref.read(activeProfileProvider.future);
+    if (!mounted) {
+      return;
+    }
     final caps = _services.capabilities.value;
     final now = DateTime.now();
     final options = ComposerOptions(
@@ -209,6 +212,10 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
       return;
     }
     final router = GoRouter.of(context);
+    // Captured now: the child may close the screen while results are saved,
+    // and `ref` must not be used after that.
+    final container = ProviderScope.containerOf(context, listen: false);
+    final settings = ref.read(parentSettingsProvider);
 
     switch (plan.kind) {
       case LessonKind.placement:
@@ -220,20 +227,20 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
         final l1 = scoreOf('PLACE-L1');
         final level = grader.placeLevel(level0Score: l0, level1Score: l1);
         await services.progress.recordPlacement(profile.id, level, (l0 + l1) / 2);
-        ref.invalidate(activeProfileProvider);
+        container.invalidate(activeProfileProvider);
         router.go(AppRoutes.testResult, extra: TestResultArgs.placement(level));
       case LessonKind.unitTest:
         final unit = services.curriculum.unitById(plan.unitId)!;
         final report = grader.gradeUnit(_outcomes);
         await services.progress.recordUnitTest(profile.id, unit, report);
         await services.db.profileRepo.addStars(profile.id, _stars + (report.passed ? AppConfig.starsLessonBonus : 0));
-        ref.invalidate(activeProfileProvider);
+        container.invalidate(activeProfileProvider);
         router.go(AppRoutes.testResult, extra: TestResultArgs.unit(report, unit.topicVi));
       case LessonKind.levelTest:
         final report = grader.gradeLevel(_outcomes);
         final passed = await services.progress.recordLevelTest(profile.id, plan.level, report);
         await services.db.profileRepo.addStars(profile.id, _stars);
-        ref.invalidate(activeProfileProvider);
+        container.invalidate(activeProfileProvider);
         if (passed) {
           router.go(AppRoutes.levelUp, extra: plan.level + 1);
         } else {
@@ -255,10 +262,9 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
         }
         final total = _stars + AppConfig.starsLessonBonus;
         await services.db.profileRepo.addStars(profile.id, total);
-        ref.invalidate(activeProfileProvider);
+        container.invalidate(activeProfileProvider);
         // Prepare the next lessons' audio while the child celebrates.
         final snapshot = await services.progress.snapshot(profile.id);
-        final settings = ref.read(parentSettingsProvider);
         services.audioCache.prewarm(LessonAudio.upcoming(
           services.curriculum,
           profile.level,

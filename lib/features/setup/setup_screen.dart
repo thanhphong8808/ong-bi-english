@@ -67,7 +67,7 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
     setState(() => _downloadingAll = true);
     final services = ref.read(appServicesProvider);
     await services.downloader.downloadAll(_packs);
-    if (!_inkReady) {
+    if (mounted && !_inkReady) {
       await _downloadInk(askGate: false);
     }
     if (mounted) {
@@ -140,7 +140,7 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
         ],
       ),
     );
-    if (skip == true) {
+    if (skip == true && mounted) {
       final profile = await ref.read(activeProfileProvider.future);
       await services.db.profileRepo.setPlacementDone(profile.id, true);
       ref.invalidate(activeProfileProvider);

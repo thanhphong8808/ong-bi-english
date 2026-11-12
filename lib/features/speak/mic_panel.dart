@@ -84,14 +84,22 @@ class MicPanelState extends ConsumerState<MicPanel> {
       return;
     }
     final services = _services;
-    await services.speech.stop();
+    final difficulty = ref.read(parentSettingsProvider).speechDifficulty;
+    final profileFuture = ref.read(activeProfileProvider.future);
+    // Whisper loads on first use (a few seconds): show "thinking" until the
+    // microphone really listens, so the child does not speak too early.
     setState(() {
-      _state = _MicState.listening;
+      _state = _MicState.thinking;
       _level = 0;
     });
-    final profile = await ref.read(activeProfileProvider.future);
     try {
+      await services.speech.stop();
+      final profile = await profileFuture;
       await services.stt.ensureReady(services.profile);
+      if (!mounted) {
+        return;
+      }
+      setState(() => _state = _MicState.listening);
       final path = services.recordingPath(profile.id);
       final result = await services.stt.listenOnce(
         timeout: Duration(
@@ -114,7 +122,7 @@ class MicPanelState extends ConsumerState<MicPanel> {
             .addRecording(profileId: profile.id, filePath: result.wavPath!, itemId: widget.itemId)
             .catchError((Object _) => 0));
       }
-      final scorer = PronunciationScorer(difficulty: ref.read(parentSettingsProvider).speechDifficulty);
+      final scorer = PronunciationScorer(difficulty: difficulty);
       var score = scorer.score(widget.target, result.text, alternatives: widget.alternatives);
       if (widget.anyAnswer) {
         final clear = result.text.trim().isNotEmpty && result.speechMs >= AppConfig.minAnswerSpeechMs;

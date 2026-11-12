@@ -8,6 +8,7 @@ import 'package:material_ui/material_ui.dart';
 import '../../app/theme.dart';
 import '../../curriculum/letter_strokes.dart';
 import 'ink_painting.dart';
+import '../../widgets/motion.dart';
 
 /// Tracing surface for one letter: dotted model, numbered start dots with
 /// arrows, blinking start point, smoothed ink. Reports the child's strokes in
@@ -30,7 +31,13 @@ class TraceCanvasState extends State<TraceCanvas> with SingleTickerProviderState
   Timer? _pause;
   Size _size = Size.zero;
   late final AnimationController _blink =
-      AnimationController(vsync: this, duration: const Duration(milliseconds: 700))..repeat(reverse: true);
+      AnimationController(vsync: this, duration: const Duration(milliseconds: 700));
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    loopUnlessReducedMotion(_blink, context, reverse: true, stillValue: 1);
+  }
 
   @override
   void dispose() {

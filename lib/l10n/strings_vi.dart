@@ -95,6 +95,10 @@ class S {
   static const parentModels = 'Quản lý model';
   static const parentDiagnostics = 'Kiểm tra hệ thống';
   static const parentDailyLimit = 'Giới hạn mỗi ngày (phút)';
+  static String parentStudiedToday(int minutes) => 'Hôm nay bé đã học: $minutes phút';
+  static const parentResetTodayHint = 'Chỉ tính lúc app đang mở trên màn hình. Đặt lại để bé học tiếp hôm nay.';
+  static const parentResetToday = 'Đặt lại';
+  static const parentResetTodayDone = 'Đã đặt lại thời gian học hôm nay về 0 phút.';
   static const parentSession = 'Độ dài một buổi học (phút)';
   static const parentHours = 'Khung giờ được học';
   static const parentVoice = 'Giọng đọc tiếng Anh';
