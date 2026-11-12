@@ -1,5 +1,6 @@
 // lib/core/services/speech_output.dart
 import 'dart:async';
+import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:just_audio/just_audio.dart';
@@ -101,8 +102,13 @@ class SpeechOutput {
 
   Future<void> _play(String path, {String? text, int? token}) async {
     final duration = await _player.setFilePath(path);
-    final ms = duration?.inMilliseconds ?? 0;
+    var ms = duration?.inMilliseconds ?? 0;
+    if (ms <= 0 && text != null) {
+      ms = await wavMilliseconds(path);
+    }
     StreamSubscription<Duration>? sub;
+    var updates = 0;
+    var last = 0.0;
     if (text != null && ms > 0) {
       progress.value = SpeechProgress(text, 0);
       sub = _player
@@ -113,7 +119,9 @@ class SpeechOutput {
           )
           .listen((position) {
         if (token == _token) {
-          progress.value = SpeechProgress(text, (position.inMilliseconds / ms).clamp(0.0, 1.0).toDouble());
+          last = (position.inMilliseconds / ms).clamp(0.0, 1.0).toDouble();
+          updates++;
+          progress.value = SpeechProgress(text, last);
         }
       });
     }
@@ -123,8 +131,41 @@ class SpeechOutput {
       await sub?.cancel();
       if (text != null && token == _token) {
         progress.value = SpeechProgress.idle;
+        // Counts only (no lesson text): the CI smoke test checks the
+        // word highlight really follows the audio on a device.
+        debugPrint('speech progress: ms=$ms updates=$updates last=${last.toStringAsFixed(2)}');
       }
     }
+  }
+
+  /// Length of a PCM WAV file from its header, or 0.
+  static Future<int> wavMilliseconds(String path) async {
+    try {
+      final file = File(path);
+      final raf = await file.open();
+      final header = await raf.read(44);
+      final length = await raf.length();
+      await raf.close();
+      return wavMillisecondsOf(header, length);
+    } catch (_) {
+      return 0;
+    }
+  }
+
+  static int wavMillisecondsOf(List<int> header, int fileLength) {
+    if (header.length < 44 || String.fromCharCodes(header.sublist(0, 4)) != 'RIFF') {
+      return 0;
+    }
+    int u16(int o) => header[o] | (header[o + 1] << 8);
+    int u32(int o) => u16(o) | (u16(o + 2) << 16);
+    final channels = u16(22);
+    final rate = u32(24);
+    final bits = u16(34);
+    final bytesPerSecond = rate * channels * bits ~/ 8;
+    if (bytesPerSecond <= 0) {
+      return 0;
+    }
+    return ((fileLength - 44) * 1000 / bytesPerSecond).round();
   }
 
   Future<void> _stopCurrent() async {

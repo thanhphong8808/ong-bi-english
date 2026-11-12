@@ -238,9 +238,9 @@ if alive; then
           adb shell input swipe 540 1900 540 700 400; sleep 2 ;;
         "Kiểm tra hệ thống")
           # One test at a time: a tap while another test runs is ignored.
-          $UI tapright "Thử giọng tiếng Việt" 5 && sleep 15
-          $UI tapright "Thử giọng tiếng Anh" 5 && sleep 25
-          $UI tapright "Thử nghe bé nói" 5 && sleep 40
+          $UI tapright "Thử giọng tiếng Việt" 5 && sleep 20
+          $UI tapright "Thử giọng tiếng Anh" 5 && sleep 45
+          $UI tapright "Thử nghe bé nói" 5 && sleep 45
           $UI wait "Máy nghe được" 5 || echo "WARNING: the listening test showed no result"
           $UI tapright "Thử bộ não của Bi" 5 && sleep 120
           $UI list | head -40 ;;
@@ -323,6 +323,14 @@ step "App log"
 adb logcat -d -v threadtime > "$OUT/logcat.txt" 2>/dev/null || true
 grep -E " (E|F) (flutter|AndroidRuntime|DEBUG|libc|vn\.ongbi)" "$OUT/logcat.txt" | tail -80
 grep -E "flutter +:" "$OUT/logcat.txt" | tail -60
+
+step "Words light up with the voice"
+# SpeechOutput logs one line per English sentence it plays: how many audio
+# positions moved the highlight. All zero means the words never light up.
+grep -E "speech progress:" "$OUT/logcat.txt" | tail -12
+lit=$(grep -cE "speech progress: ms=[1-9][0-9]* updates=[1-9]" "$OUT/logcat.txt")
+echo "sentences with a moving highlight: $lit"
+[ "${lit:-0}" -ge 3 ] || PROBLEMS+=("the word highlight never followed the voice (speech progress)")
 
 step "Result"
 if [ ${#PROBLEMS[@]} -eq 0 ]; then
