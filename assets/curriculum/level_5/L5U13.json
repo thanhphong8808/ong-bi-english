@@ -46,7 +46,7 @@
    "type": "word",
    "en": "earthquake",
    "vi": "động đất",
-   "ipa": "/ˈʌrθkˌweɪk/",
+   "ipa": "/ˈʌrθˌkweɪk/",
    "syllables": [
     "earth",
     "quake"
@@ -101,7 +101,7 @@
    "type": "word",
    "en": "landslide",
    "vi": "sạt lở đất",
-   "ipa": "/ˈlænsˌlaɪd/",
+   "ipa": "/ˈlændˌslaɪd/",
    "syllables": [
     "land",
     "slide"
@@ -187,7 +187,7 @@
    "type": "word",
    "en": "hurricane",
    "vi": "bão lớn (cuồng phong)",
-   "ipa": "/ˈhʌrəˌkeɪnz/",
+   "ipa": "/ˈhʌrəˌkeɪn/",
    "syllables": [
     "hurricane"
    ],
@@ -358,7 +358,7 @@
    "type": "phrase",
    "en": "emergency kit",
    "vi": "bộ đồ dùng khẩn cấp",
-   "ipa": "/ˈimərdʒənsi kɪt/",
+   "ipa": "/ɪˈmʌrdʒənsi kɪt/",
    "syllables": [
     "emergency",
     "kit"
@@ -386,7 +386,7 @@
    "type": "word",
    "en": "survivor",
    "vi": "người sống sót",
-   "ipa": "/sərˈvaɪvər/",
+   "ipa": "/səˈrvaɪvər/",
    "syllables": [
     "survivor"
    ],
@@ -840,7 +840,7 @@
    "type": "word",
    "en": "courage",
    "vi": "lòng dũng cảm",
-   "ipa": "/kərɪdʒ/",
+   "ipa": "/ˈkʌrədʒ/",
    "syllables": [
     "courage"
    ],
@@ -896,7 +896,7 @@
    "type": "phrase",
    "en": "fire engine",
    "vi": "xe cứu hoả",
-   "ipa": "/faɪʌr ˈɪndʒən/",
+   "ipa": "/ˈfaɪər ˈɛndʒən/",
    "syllables": [
     "fire",
     "en",
@@ -1072,7 +1072,7 @@
    "type": "word",
    "en": "temporary",
    "vi": "tạm thời",
-   "ipa": "/ˈtɛmpərˌɛri/",
+   "ipa": "/ˈtɛmpəˌrɛri/",
    "syllables": [
     "temporary"
    ],
@@ -1097,7 +1097,7 @@
    "type": "word",
    "en": "government",
    "vi": "chính phủ",
-   "ipa": "/ˈɡʌvərnmənt/",
+   "ipa": "/ˈɡʌvərmənt/",
    "syllables": [
     "gov",
     "ern",

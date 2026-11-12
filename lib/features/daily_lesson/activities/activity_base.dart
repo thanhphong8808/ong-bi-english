@@ -14,10 +14,13 @@ import '../../../l10n/strings_vi.dart';
 
 /// Result of one activity.
 class StepResult {
-  const StepResult({required this.correct, required this.stars, this.score});
+  const StepResult({required this.correct, required this.stars, this.score, this.answer});
 
   final bool correct;
   final int stars;
+
+  /// What the child wrote, when a writing step recognised it.
+  final String? answer;
 
   /// 0..1; defaults to 1 for correct and 0 for wrong.
   final double? score;
@@ -125,7 +128,7 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
   }
 
   /// A right answer: praise, sparkle, then move on.
-  Future<void> succeed(int stars, {double? score}) async {
+  Future<void> succeed(int stars, {double? score, String? answer}) async {
     if (finished) {
       return;
     }
@@ -140,13 +143,13 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
     }
     await Future<void>.delayed(const Duration(milliseconds: 250));
     if (mounted) {
-      widget.onDone(StepResult(correct: true, stars: stars.clamp(1, 3).toInt(), score: score));
+      widget.onDone(StepResult(correct: true, stars: stars.clamp(1, 3).toInt(), score: score, answer: answer));
     }
   }
 
   /// A wrong answer. Returns true when the child gets another try.
   /// Never shows a red cross or plays an error sound.
-  Future<bool> miss({Future<void> Function()? showModel, double score = 0}) async {
+  Future<bool> miss({Future<void> Function()? showModel, double score = 0, String? answer}) async {
     if (finished) {
       return false;
     }
@@ -155,7 +158,7 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
       finished = true;
       await Future<void>.delayed(const Duration(milliseconds: 300));
       if (mounted) {
-        widget.onDone(StepResult(correct: false, stars: 0, score: score));
+        widget.onDone(StepResult(correct: false, stars: 0, score: score, answer: answer));
       }
       return false;
     }
@@ -169,7 +172,7 @@ abstract class ActivityState<T extends ActivityView> extends ConsumerState<T> {
     finished = true;
     await sayVi(S.sayEffort);
     if (mounted) {
-      widget.onDone(StepResult(correct: false, stars: 0, score: score));
+      widget.onDone(StepResult(correct: false, stars: 0, score: score, answer: answer));
     }
     return false;
   }
@@ -252,6 +255,26 @@ class BigWord extends StatelessWidget {
         fontWeight: FontWeight.w700,
         color: color,
         height: 1.15,
+      ),
+    );
+  }
+}
+
+/// Centres [children] vertically, scrolling instead of overflowing when the
+/// words, their IPA and an example sentence do not fit a small screen.
+class CenteredScroll extends StatelessWidget {
+  const CenteredScroll({super.key, required this.children});
+
+  final List<Widget> children;
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, box) => SingleChildScrollView(
+        child: ConstrainedBox(
+          constraints: BoxConstraints(minHeight: box.maxHeight.isFinite ? box.maxHeight : 0),
+          child: Column(mainAxisAlignment: MainAxisAlignment.center, children: children),
+        ),
       ),
     );
   }

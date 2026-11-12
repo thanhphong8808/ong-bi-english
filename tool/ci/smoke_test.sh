@@ -142,12 +142,35 @@ if alive; then
   $UI tap "Tập viết" 15 540 1900 && sleep 8
   check "writing"
   $UI shot 08-write
+  $UI tap "Tô chữ cái" 10 && sleep 4
   $UI tapx "A" 10 && sleep 8
   # Draw a stroke on the tracing canvas.
   adb shell input swipe 400 900 540 1500 600; sleep 2
   adb shell input swipe 680 900 540 1500 600; sleep 4
   check "tracing"
   $UI shot 09-trace
+fi
+
+restart 15
+if alive; then
+  step "Writing level by level"
+  $UI tap "Tập viết" 15 540 1900 && sleep 6
+  $UI tap "Viết từ" 10 && sleep 6
+  check "writing ladder"
+  $UI shot 09w-ladder
+  $UI list | head -30
+  if $UI tapx "1" 10; then
+    sleep 15
+    $UI shot 09w-look
+    $UI list | head -30
+    $UI writeset 300 || echo "WARNING: the writing set did not reach its result"
+    check "writing set"
+    $UI shot 09w-result
+    $UI list | head -30
+    echo "writing scores: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'write_best';")"
+  else
+    echo "WARNING: first writing set not found"
+  fi
 fi
 
 # A finished lesson yesterday: the honeycomb shows a 2-day streak and the

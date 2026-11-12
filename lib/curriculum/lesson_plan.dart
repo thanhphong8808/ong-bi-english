@@ -236,6 +236,14 @@ class CopyWordStep extends LessonStep {
   final String word;
 }
 
+/// Writing test: write a word from its picture and Bi's voice.
+class WriteRecallStep extends LessonStep {
+  const WriteRecallStep({required super.stage, required super.itemId, required this.word, super.questionId})
+      : super(skill: 'write');
+
+  final String word;
+}
+
 /// Listen and write a word or sentence.
 class DictationStep extends LessonStep {
   const DictationStep({

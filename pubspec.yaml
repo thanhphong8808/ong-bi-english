@@ -52,6 +52,7 @@ flutter:
     - assets/curriculum/level_3/
     - assets/curriculum/level_4/
     - assets/curriculum/level_5/
+    - assets/pron/
   fonts:
     - family: Nunito
       fonts:

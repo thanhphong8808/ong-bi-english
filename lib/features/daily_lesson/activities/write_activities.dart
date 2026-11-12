@@ -157,9 +157,9 @@ abstract class _InkState<T extends ActivityView> extends ActivityState<T> {
     final result = const SpellingScorer().bestOf(target, candidates.take(5).toList());
     final ok = sentence ? result.score >= 0.9 : result.correct;
     if (ok) {
-      await succeed(result.score >= 0.99 ? 3 : 2, score: result.score);
+      await succeed(result.score >= 0.99 ? 3 : 2, score: result.score, answer: result.written);
     } else {
-      final again = await miss(showModel: showModel, score: result.score);
+      final again = await miss(showModel: showModel, score: result.score, answer: result.written);
       if (again && mounted) {
         pad.currentState?.clear();
       }
@@ -390,6 +390,58 @@ class _DictationState extends _InkState<DictationActivity> {
 
 // ---------------------------------------------------------------------------
 
+/// Writing test: the picture and Bi's voice, the word stays hidden.
+class WriteRecallActivity extends ActivityView<WriteRecallStep> {
+  const WriteRecallActivity({super.key, required super.step, required super.onDone, super.testMode});
+
+  @override
+  ActivityState<WriteRecallActivity> createState() => _WriteRecallState();
+}
+
+class _WriteRecallState extends _InkState<WriteRecallActivity> {
+  @override
+  String get instructionVi => S.insWriteRecall;
+
+  @override
+  String get target => widget.step.word;
+
+  @override
+  bool get sentence => widget.step.word.contains(' ');
+
+  @override
+  Future<void> onOpened() => sayEn(widget.step.word);
+
+  @override
+  Future<void> showModel() => sayEn(widget.step.word, slow: true);
+
+  @override
+  Widget build(BuildContext context) {
+    final picture = item(widget.step.itemId);
+    return Column(
+      children: [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            if (picture != null) ItemPicture(item: picture, size: 110),
+            const SizedBox(width: 16),
+            KidIconButton(icon: Icons.volume_up_rounded, onPressed: () => sayEn(widget.step.word)),
+          ],
+        ),
+        const SizedBox(height: 8),
+        Expanded(
+          child: Sparkles(
+            active: celebrating,
+            child: InkPad(key: pad, lines: sentence ? 2 : 1, onPause: (_) {}, enabled: !finished),
+          ),
+        ),
+        _toolRow(onClear: () => pad.currentState?.clear(), onCheck: check),
+      ],
+    );
+  }
+}
+
+// ---------------------------------------------------------------------------
+
 class WordBuilderActivity extends ActivityView<WordBuilderStep> {
   const WordBuilderActivity({super.key, required super.step, required super.onDone, super.testMode});
 
@@ -435,9 +487,9 @@ class _WordBuilderState extends ActivityState<WordBuilderActivity> {
       if (_filled == _word.length) {
         await sayEn(widget.step.word);
         if (widget.testMode && _errors > 0) {
-          await miss(score: 0.5);
+          await miss(score: 0.5, answer: widget.step.word);
         } else {
-          await succeed(_errors == 0 ? 3 : (_errors <= 2 ? 2 : 1), score: _errors == 0 ? 1 : 0.7);
+          await succeed(_errors == 0 ? 3 : (_errors <= 2 ? 2 : 1), score: _errors == 0 ? 1 : 0.7, answer: widget.step.word);
         }
       }
     } else {

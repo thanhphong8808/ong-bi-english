@@ -164,6 +164,9 @@ List<String> problems(Curriculum c, LessonPlan plan, ComposerOptions o) {
         if (s.text.trim().isEmpty) {
           bad(s, 'empty dictation');
         }
+      case WriteRecallStep():
+        // Only the writing sets use it, never the composer.
+        bad(s, 'writing-set step inside a lesson');
       case WriteSentencesStep():
         if (!o.inkAvailable && !s.allowKeyboard) {
           bad(s, 'free writing without ink model or keyboard');

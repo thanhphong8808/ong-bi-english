@@ -43,7 +43,7 @@
    "type": "word",
    "en": "afternoon",
    "vi": "buổi chiều",
-   "ipa": "/ˌæftərˈnun/",
+   "ipa": "/ˌæftəˈrnun/",
    "syllables": [
     "af",
     "ter",
@@ -181,7 +181,7 @@
    "type": "phrase",
    "en": "get up",
    "vi": "ra khỏi giường",
-   "ipa": "/ɡɪt ʌp/",
+   "ipa": "/ɡɛt ʌp/",
    "syllables": [
     "get",
     "up"
@@ -209,7 +209,7 @@
    "type": "word",
    "en": "shower",
    "vi": "tắm vòi sen",
-   "ipa": "/ʃaʊʌr/",
+   "ipa": "/ˈʃaʊər/",
    "syllables": [
     "shower"
    ],
@@ -292,7 +292,7 @@
    "type": "word",
    "en": "towel",
    "vi": "khăn tắm",
-   "ipa": "/taʊʌl/",
+   "ipa": "/ˈtaʊəl/",
    "syllables": [
     "towel"
    ],
@@ -373,7 +373,7 @@
    "type": "word",
    "en": "homework",
    "vi": "bài tập về nhà",
-   "ipa": "/ˈhoʊmˌwərk/",
+   "ipa": "/ˈhoʊmˌwʌrk/",
    "syllables": [
     "home",
     "work"
@@ -402,7 +402,7 @@
    "type": "word",
    "en": "watch",
    "vi": "xem",
-   "ipa": "/wɔtʃ/",
+   "ipa": "/wɑtʃ/",
    "syllables": [
     "watch"
    ],
@@ -430,7 +430,7 @@
    "type": "phrase",
    "en": "go to bed",
    "vi": "đi ngủ",
-   "ipa": "/ɡoʊ tɪ bɛd/",
+   "ipa": "/ɡoʊ tu bɛd/",
    "syllables": [
     "go",
     "to",
@@ -596,7 +596,7 @@
    "type": "word",
    "en": "sometimes",
    "vi": "thỉnh thoảng",
-   "ipa": "/ˈsʌmˌtaɪmz/",
+   "ipa": "/səmˈtaɪmz/",
    "syllables": [
     "some",
     "times"
@@ -711,7 +711,7 @@
    "type": "word",
    "en": "before",
    "vi": "trước khi",
-   "ipa": "/ˌbiˈfɔr/",
+   "ipa": "/bɪˈfɔr/",
    "syllables": [
     "be",
     "fore"

@@ -3,6 +3,7 @@ import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../../app/theme.dart';
 import '../../core/config/app_config.dart';
 import '../../core/providers.dart';
 import '../../core/services/parent_gate.dart';
@@ -218,6 +219,12 @@ class ParentSettingsScreen extends ConsumerWidget {
               title: const Text(S.parentDelayReading),
               value: settings.delayEnglishReading,
               onChanged: (v) => notifier.change((s) => s.copyWith(delayEnglishReading: v, delayReadingTouched: true)),
+            ),
+            SwitchListTile(
+              title: const Text(S.parentShowIpa),
+              subtitle: const Text('ˈæpəl · həˈloʊ', style: TextStyle(fontFamily: AppTheme.writingFont)),
+              value: settings.showIpa,
+              onChanged: (v) => notifier.change((s) => s.copyWith(showIpa: v)),
             ),
             ListTile(
               title: const Text(S.parentVietnameseSupport),

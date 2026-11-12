@@ -105,7 +105,8 @@ class S {
   static const parentSlow = 'Đọc chậm (0,7x)';
   static const parentDifficulty = 'Độ khó chấm phát âm';
   static const parentTalk = 'Cho phép "Nói chuyện với Bi"';
-  static const parentDelayReading = 'Hoãn đọc chữ tiếng Anh (bé đang học vần lớp 1)';
+  static const parentDelayReading = 'Ẩn chữ tiếng Anh (chỉ nghe và nhìn hình)';
+  static const parentShowIpa = 'Hiện phiên âm dưới chữ tiếng Anh';
   static const parentRetention = 'Tự xoá ghi âm của bé sau (ngày)';
   static const parentPin = 'Mã PIN phụ huynh';
   static const parentPinSet = 'Đặt mã PIN 4 số';
@@ -283,7 +284,23 @@ class S {
   static const writeHomeSpoken = 'Cậu muốn tô chữ cái hay viết từ? Chạm vào một nút nhé!';
   static const writeLetters = 'Tô chữ cái';
   static const writeWords = 'Viết từ';
-  static const writeNoWordsYet = 'Mình học thêm vài từ trong Học hôm nay rồi quay lại viết nhé!';
+  static const writeLadderSpoken = 'Chọn một bộ từ để tập viết nhé! Viết đúng một bộ thì bộ tiếp theo sẽ mở.';
+  static String writeGroupTitle(int level) => 'Cấp $level · ${levelName(level)}';
+  static const writeGroupParent = 'Từ của bố mẹ';
+  static const writeGroupLocked = 'Mở khi bé lên cấp này';
+  static const writeLookSpoken = 'Cùng xem và nghe các từ này nhé! Chạm vào từ nào để nghe lại.';
+  static const writeCopyStart = 'Tập chép';
+  static const writeCopySpoken = 'Giờ mình chép từng từ nhé!';
+  static const writeTestSpoken = 'Kiểm tra nào! Nhìn hình, nghe Bi đọc rồi viết lại từ đó nhé.';
+  static const insWriteRecall = 'Nhìn hình, nghe Bi đọc rồi viết từ đó nhé!';
+  static const writeResultTitle = 'Kết quả';
+  static const writePassedSpoken = 'Giỏi quá! Cậu viết đúng rồi. Bộ tiếp theo đã mở!';
+  static const writeRetrySpoken = 'Cậu cố gắng lắm! Mình tập lại bộ này nhé.';
+  static const writeAgain = 'Làm lại';
+  static const writeNextSet = 'Bộ tiếp theo';
+  static const writeBack = 'Chọn bộ khác';
+  static String writeYouWrote(String text) => 'Bé viết: $text';
+  static const writeNothing = '(chưa viết)';
   static const talkUnavailableSpoken = 'Bi đang ngủ trưa rồi. Mình học bài nhé!';
 
   // ---- Talk with Bi ----
@@ -431,6 +448,8 @@ class S {
     insShadow, insReadPick, insTrace, insCopy, insDictate, insTiles, insTilesListen, insDialogue,
     insDialogueListen, insDialogueShadow, insDialogueRole, insDialogueVariation, insPickMeaning,
     insLetterSound, insTrueFalse, insFillBlank, insWriteLetter, insAnswer, insWriteSentences, insReading,
+    insWriteRecall, writeLadderSpoken, writeLookSpoken, writeCopySpoken, writeTestSpoken, writePassedSpoken,
+    writeRetrySpoken,
     saySayAfter, traceDirection, pickColorFirst, lessonLoading, rewardSpoken, sleepSpoken,
     stageDoneSpoken1, stageDoneSpoken2, stageRestSpoken,
     outsideHoursSpoken, writeMenuSpoken, writeHomeSpoken, exitConfirmSpoken, stickerAlbumSpoken,

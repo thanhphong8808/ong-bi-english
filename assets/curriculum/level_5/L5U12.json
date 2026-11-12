@@ -15,7 +15,7 @@
    "type": "word",
    "en": "community",
    "vi": "cộng đồng",
-   "ipa": "/kəmˈjunɪti/",
+   "ipa": "/kəˈmjunəti/",
    "syllables": [
     "com",
     "mu",
@@ -103,7 +103,7 @@
    "type": "word",
    "en": "organise",
    "vi": "tổ chức",
-   "ipa": "/orɡanise/",
+   "ipa": "/ˈɔrɡəˌnaɪz/",
    "syllables": [
     "organise"
    ],
@@ -115,7 +115,9 @@
    "cat": "L5U12",
    "example_en": "Our class organised a book fair.",
    "example_vi": "Lớp tớ tổ chức hội sách.",
-   "pron_focus": [],
+   "pron_focus": [
+    "final_consonant"
+   ],
    "skills": [
     "listen",
     "speak",
@@ -157,7 +159,7 @@
    "type": "word",
    "en": "wheelchair",
    "vi": "xe lăn",
-   "ipa": "/ˈwiˌltʃɛr/",
+   "ipa": "/ˈwilˌtʃɛr/",
    "syllables": [
     "wheel",
     "chair"
@@ -215,7 +217,7 @@
    "type": "phrase",
    "en": "care for",
    "vi": "chăm sóc",
-   "ipa": "/kɛr fʌr/",
+   "ipa": "/kɛr fɔr/",
    "syllables": [
     "care",
     "for"
@@ -443,7 +445,7 @@
    "type": "word",
    "en": "teamwork",
    "vi": "làm việc nhóm",
-   "ipa": "/ˈtimˌwərk/",
+   "ipa": "/ˈtimˌwʌrk/",
    "syllables": [
     "team",
     "work"
@@ -505,7 +507,7 @@
    "type": "word",
    "en": "citizen",
    "vi": "công dân",
-   "ipa": "/ˈsɪtɪzən/",
+   "ipa": "/ˈsɪtəzən/",
    "syllables": [
     "cit",
     "i",
@@ -819,7 +821,7 @@
    "type": "word",
    "en": "neighbourhood",
    "vi": "khu phố",
-   "ipa": "/ˈneɪbərˌhʊd/",
+   "ipa": "/ˈneɪbəˌrhʊd/",
    "syllables": [
     "neigh",
     "bour",
@@ -910,7 +912,7 @@
    "type": "word",
    "en": "target",
    "vi": "mục tiêu",
-   "ipa": "/ˈtʌrɡət/",
+   "ipa": "/ˈtɑrɡət/",
    "syllables": [
     "tar",
     "get"
@@ -1223,7 +1225,7 @@
    "type": "phrase",
    "en": "sign language",
    "vi": "ngôn ngữ ký hiệu",
-   "ipa": "/saɪn ˈlæŋɡwɪdʒ/",
+   "ipa": "/saɪn ˈlæŋɡwədʒ/",
    "syllables": [
     "sign",
     "lan",

@@ -29,6 +29,12 @@ rìu, con cáo và con quạ, chú vịt con xấu xí).
 | Apache Commons Compress | Giải nén `.tar.bz2` | Apache-2.0 |
 | kotlinx.coroutines | Xử lý bất đồng bộ Kotlin | Apache-2.0 |
 
+## Dữ liệu đóng gói trong APK
+
+| Dữ liệu | Dùng để | Giấy phép |
+|---|---|---|
+| CMU Pronouncing Dictionary (gói `cmudict` 1.1.3, `assets/pron/ipa_en_us.txt.gz`, chuyển sang IPA bằng `tool/pron/build_ipa_dict.py`) | Phiên âm dưới chữ tiếng Anh | BSD-2-Clause, Copyright (C) 1993-2015 Carnegie Mellon University (`assets/pron/CMUDICT-LICENSE.txt`) |
+
 ## Font đóng gói trong APK
 
 | Font | Dùng để | Giấy phép |

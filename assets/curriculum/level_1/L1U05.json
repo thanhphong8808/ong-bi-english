@@ -125,7 +125,7 @@
    "type": "word",
    "en": "bathroom",
    "vi": "phòng tắm",
-   "ipa": "/ˈbæθˌrum/",
+   "ipa": "/ˈbæˌθrum/",
    "syllables": [
     "bath",
     "room"
@@ -353,7 +353,7 @@
    "type": "word",
    "en": "TV",
    "vi": "ti vi",
-   "ipa": "/ˌtɛləˈvɪʒən/",
+   "ipa": "/ˌtiˈvi/",
    "syllables": [
     "TV"
    ],
@@ -365,9 +365,7 @@
    "cat": "L1U05",
    "example_en": "The TV is in the living room.",
    "example_vi": "Ti vi ở trong phòng khách.",
-   "pron_focus": [
-    "final_consonant"
-   ],
+   "pron_focus": [],
    "skills": [
     "listen",
     "speak",
@@ -488,7 +486,7 @@
    "type": "word",
    "en": "on",
    "vi": "ở trên",
-   "ipa": "/ɔn/",
+   "ipa": "/ɑn/",
    "syllables": [
     "on"
    ],
@@ -543,7 +541,7 @@
    "type": "phrase",
    "en": "next to",
    "vi": "bên cạnh",
-   "ipa": "/nɛkst tɪ/",
+   "ipa": "/nɛkst tu/",
    "syllables": [
     "next",
     "to"

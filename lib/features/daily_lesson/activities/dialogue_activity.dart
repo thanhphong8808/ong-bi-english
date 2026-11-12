@@ -12,6 +12,7 @@ import '../../../curriculum/models.dart';
 import '../../../l10n/strings_vi.dart';
 import '../../../widgets/bi_mascot.dart';
 import '../../../widgets/item_picture.dart';
+import '../../../widgets/spoken_text.dart';
 import '../../speak/mic_panel.dart';
 import 'activity_base.dart';
 
@@ -58,6 +59,19 @@ class _DialogueState extends ActivityState<DialogueActivity> {
   bool _listenDone = false;
   final List<int> _stars = [];
   int _variant = 0;
+  final Map<int, GlobalKey> _lineKeys = {};
+
+  GlobalKey _keyFor(int line) => _lineKeys.putIfAbsent(line, GlobalKey.new);
+
+  /// Keeps the line being read on screen (lines are taller with IPA).
+  void _showLine(int line) {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final ctx = _lineKeys[line]?.currentContext;
+      if (ctx != null && ctx.mounted) {
+        Scrollable.ensureVisible(ctx, alignment: 0.3, duration: const Duration(milliseconds: 250));
+      }
+    });
+  }
 
   int get _stage => widget.step.dialogueStage;
 
@@ -108,6 +122,7 @@ class _DialogueState extends ActivityState<DialogueActivity> {
         return;
       }
       setState(() => _line = i);
+      _showLine(i);
       await sayEn(d.lines[i].en, as: _voiceFor(d.lines[i].role));
     }
     if (mounted) {
@@ -129,6 +144,7 @@ class _DialogueState extends ActivityState<DialogueActivity> {
       _line = index;
       _waitingForKid = true;
     });
+    _showLine(index);
     _mic.currentState?.reset();
     await sayEn(d.lines[index].en, as: _voiceFor(d.lines[index].role));
   }
@@ -145,6 +161,7 @@ class _DialogueState extends ActivityState<DialogueActivity> {
     while (i < d.lines.length && mounted) {
       final line = d.lines[i];
       setState(() => _line = i);
+      _showLine(i);
       if (line.role == _kidRole) {
         setState(() => _waitingForKid = true);
         _mic.currentState?.reset();
@@ -229,6 +246,41 @@ class _DialogueState extends ActivityState<DialogueActivity> {
     return EmojiText(_roleEmoji[role.toLowerCase()] ?? '🙂', size: size);
   }
 
+  Widget _lineRow(Dialogue d, int i) {
+    final line = d.lines[i];
+    final left = d.roles.isNotEmpty && line.role == d.roles.first;
+    final active = i == _line;
+    final bubble = Flexible(
+      child: GestureDetector(
+        onTap: () => sayEn(line.en, as: _voiceFor(line.role)),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 200),
+          margin: const EdgeInsets.symmetric(vertical: 6, horizontal: 8),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+          decoration: BoxDecoration(
+            color: active ? AppColors.cream : AppColors.white,
+            borderRadius: BorderRadius.circular(20),
+            border: Border.all(color: active ? AppColors.honeyDeep : AppColors.ink, width: active ? 4 : 1.5),
+          ),
+          child: hideText
+              ? const Icon(Icons.volume_up_rounded, size: 36)
+              : SpokenText(
+                  line.en,
+                  fontSize: 24,
+                  alignment: WrapAlignment.start,
+                  voice: _voiceFor(line.role),
+                ),
+        ),
+      ),
+    );
+    return Row(
+      mainAxisAlignment: left ? MainAxisAlignment.start : MainAxisAlignment.end,
+      children: left
+          ? [_avatar(line.role, size: 44), bubble]
+          : [bubble, _avatar(line.role, size: 44)],
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final d = _dialogue;
@@ -282,7 +334,11 @@ class _DialogueState extends ActivityState<DialogueActivity> {
               children: [
                 if (picture != null) ItemPicture(item: picture, size: 150),
                 const SizedBox(height: 12),
-                if (!hideText && _variant < sentences.length) BigWord(sentences[_variant], size: 34),
+                if (!hideText && _variant < sentences.length)
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 12),
+                    child: SpokenText(sentences[_variant], fontSize: 34),
+                  ),
               ],
             ),
           ),
@@ -304,40 +360,12 @@ class _DialogueState extends ActivityState<DialogueActivity> {
         Text(d.titleVi, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w900)),
         const SizedBox(height: 8),
         Expanded(
-          child: ListView.builder(
-            itemCount: d.lines.length,
-            itemBuilder: (context, i) {
-              final line = d.lines[i];
-              final left = d.roles.isNotEmpty && line.role == d.roles.first;
-              final active = i == _line;
-              final bubble = Flexible(
-                child: GestureDetector(
-                  onTap: () => sayEn(line.en, as: _voiceFor(line.role)),
-                  child: AnimatedContainer(
-                    duration: const Duration(milliseconds: 200),
-                    margin: const EdgeInsets.symmetric(vertical: 6, horizontal: 8),
-                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                    decoration: BoxDecoration(
-                      color: active ? AppColors.honey : AppColors.white,
-                      borderRadius: BorderRadius.circular(20),
-                      border: Border.all(color: AppColors.ink, width: active ? 3 : 1.5),
-                    ),
-                    child: hideText
-                        ? const Icon(Icons.volume_up_rounded, size: 36)
-                        : Text(
-                            line.en,
-                            style: const TextStyle(fontFamily: AppTheme.writingFont, fontSize: 24),
-                          ),
-                  ),
-                ),
-              );
-              return Row(
-                mainAxisAlignment: left ? MainAxisAlignment.start : MainAxisAlignment.end,
-                children: left
-                    ? [_avatar(line.role, size: 44), bubble]
-                    : [bubble, _avatar(line.role, size: 44)],
-              );
-            },
+          child: SingleChildScrollView(
+            child: Column(
+              children: [
+                for (var i = 0; i < d.lines.length; i++) KeyedSubtree(key: _keyFor(i), child: _lineRow(d, i)),
+              ],
+            ),
           ),
         ),
         if (_stage == 1)

@@ -14,7 +14,7 @@
    "type": "word",
    "en": "Monday",
    "vi": "thứ Hai",
-   "ipa": "/ˈmʌnˌdeɪ/",
+   "ipa": "/ˈmʌndi/",
    "syllables": [
     "Mon",
     "day"
@@ -42,7 +42,7 @@
    "type": "word",
    "en": "Tuesday",
    "vi": "thứ Ba",
-   "ipa": "/ˈtuzˌdeɪ/",
+   "ipa": "/ˈtuzdi/",
    "syllables": [
     "Tues",
     "day"
@@ -70,7 +70,7 @@
    "type": "word",
    "en": "Wednesday",
    "vi": "thứ Tư",
-   "ipa": "/ˈwɛnzˌdeɪ/",
+   "ipa": "/ˈwɛnzdi/",
    "syllables": [
     "Wednes",
     "day"
@@ -127,7 +127,7 @@
    "type": "word",
    "en": "Friday",
    "vi": "thứ Sáu",
-   "ipa": "/ˈfraɪˌdeɪ/",
+   "ipa": "/ˈfraɪdi/",
    "syllables": [
     "Fri",
     "day"
@@ -157,7 +157,7 @@
    "type": "word",
    "en": "Saturday",
    "vi": "thứ Bảy",
-   "ipa": "/ˈsæˌtɪˌdeɪ/",
+   "ipa": "/ˈsætərdi/",
    "syllables": [
     "Sat",
     "ur",
@@ -186,7 +186,7 @@
    "type": "word",
    "en": "Sunday",
    "vi": "Chủ nhật",
-   "ipa": "/ˈsʌnˌdi/",
+   "ipa": "/ˈsʌnˌdeɪ/",
    "syllables": [
     "Sun",
     "day"
@@ -241,7 +241,7 @@
    "type": "word",
    "en": "weekend",
    "vi": "cuối tuần",
-   "ipa": "/ˈwiˌkɪnd/",
+   "ipa": "/ˈwiˌkɛnd/",
    "syllables": [
     "week",
     "end"
@@ -300,7 +300,7 @@
    "type": "word",
    "en": "yesterday",
    "vi": "hôm qua",
-   "ipa": "/ˈjɛstərˌdeɪ/",
+   "ipa": "/ˈjɛstəˌrdeɪ/",
    "syllables": [
     "yes",
     "ter",

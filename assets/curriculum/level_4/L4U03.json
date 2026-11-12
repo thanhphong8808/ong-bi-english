@@ -15,7 +15,7 @@
    "type": "phrase",
    "en": "excuse me",
    "vi": "xin lỗi (cho hỏi)",
-   "ipa": "/ɪkˈskjuz mi/",
+   "ipa": "/ɪksˈkjus mi/",
    "syllables": [
     "ex",
     "cuse",
@@ -42,7 +42,7 @@
    "type": "phrase",
    "en": "get to",
    "vi": "đến (nơi nào)",
-   "ipa": "/ɡɪt tɪ/",
+   "ipa": "/ɡɛt tu/",
    "syllables": [
     "get",
     "to"
@@ -375,7 +375,7 @@
    "type": "word",
    "en": "direction",
    "vi": "hướng",
-   "ipa": "/dɪˈrɛkʃɪn/",
+   "ipa": "/dəˈrɛkʃən/",
    "syllables": [
     "di",
     "rec",
@@ -406,7 +406,7 @@
    "type": "phrase",
    "en": "get lost",
    "vi": "bị lạc",
-   "ipa": "/ɡɪt lɔst/",
+   "ipa": "/ɡɛt lɔst/",
    "syllables": [
     "get",
     "lost"
@@ -634,7 +634,7 @@
    "type": "word",
    "en": "tourist",
    "vi": "khách du lịch",
-   "ipa": "/ˈtʊrɪst/",
+   "ipa": "/ˈtʊrəst/",
    "syllables": [
     "tourist"
    ],
@@ -769,7 +769,7 @@
    "type": "word",
    "en": "kilometre",
    "vi": "ki-lô-mét",
-   "ipa": "/ˌkɪˈlɔˌmətər/",
+   "ipa": "/ˌkɪˈlɔˌmʌtər/",
    "syllables": [
     "kilometre"
    ],
@@ -826,7 +826,7 @@
    "type": "word",
    "en": "exit",
    "vi": "lối ra",
-   "ipa": "/ˈɛksət/",
+   "ipa": "/ˈɛɡzɪt/",
    "syllables": [
     "ex",
     "it"
@@ -943,7 +943,7 @@
    "type": "phrase",
    "en": "straight on",
    "vi": "đi thẳng",
-   "ipa": "/streɪt ɔn/",
+   "ipa": "/streɪt ɑn/",
    "syllables": [
     "straight",
     "on"
@@ -1117,7 +1117,7 @@
    "type": "word",
    "en": "top",
    "vi": "đỉnh, trên cùng",
-   "ipa": "/tɔp/",
+   "ipa": "/tɑp/",
    "syllables": [
     "top"
    ],

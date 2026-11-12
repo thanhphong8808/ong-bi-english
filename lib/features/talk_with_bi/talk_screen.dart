@@ -19,6 +19,7 @@ import '../../curriculum/skill_map.dart';
 import '../../l10n/strings_vi.dart';
 import '../../widgets/bi_mascot.dart';
 import '../../widgets/item_picture.dart';
+import '../../widgets/spoken_text.dart';
 import '../daily_lesson/activities/activity_base.dart';
 import 'bi_brain.dart';
 import 'bi_scenarios.dart';
@@ -453,18 +454,17 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
                 itemCount: _lines.length,
                 itemBuilder: (context, i) {
                   final line = _lines[i];
+                  void replay() => _services.speech
+                      .sayEn(line.text, voice: ref.read(parentSettingsProvider).voice, speed: _speed)
+                      .catchError((Object _) {});
                   return Align(
                     alignment: line.fromBi ? Alignment.centerLeft : Alignment.centerRight,
                     child: GestureDetector(
-                      onTap: line.fromBi
-                          ? () => _services.speech
-                              .sayEn(line.text, voice: ref.read(parentSettingsProvider).voice, speed: _speed)
-                              .catchError((Object _) {})
-                          : null,
+                      onTap: line.fromBi ? replay : null,
                       child: Container(
                         margin: const EdgeInsets.symmetric(vertical: 5),
-                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                        constraints: const BoxConstraints(maxWidth: 320),
+                        padding: const EdgeInsets.fromLTRB(14, 10, 10, 10),
+                        constraints: const BoxConstraints(maxWidth: 340),
                         decoration: BoxDecoration(
                           color: line.fromBi ? AppColors.white : AppColors.honey,
                           borderRadius: BorderRadius.circular(18),
@@ -472,7 +472,28 @@ class _TalkScreenState extends ConsumerState<TalkScreen> {
                         ),
                         child: hideText
                             ? Icon(line.fromBi ? Icons.volume_up_rounded : Icons.child_care_rounded, size: 30)
-                            : Text(line.text, style: const TextStyle(fontSize: 20)),
+                            : Row(
+                                mainAxisSize: MainAxisSize.min,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Flexible(
+                                    child: SpokenText(
+                                      line.text,
+                                      fontSize: 22,
+                                      alignment: WrapAlignment.start,
+                                    ),
+                                  ),
+                                  if (line.fromBi)
+                                    Padding(
+                                      padding: const EdgeInsets.only(left: 6),
+                                      child: Icon(
+                                        Icons.volume_up_rounded,
+                                        size: 22,
+                                        color: AppColors.ink.withValues(alpha: 0.6),
+                                      ),
+                                    ),
+                                ],
+                              ),
                       ),
                     ),
                   );

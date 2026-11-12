@@ -73,7 +73,7 @@
    "type": "word",
    "en": "fog",
    "vi": "sương mù",
-   "ipa": "/fɔɡ/",
+   "ipa": "/fɑɡ/",
    "syllables": [
     "fog"
    ],
@@ -438,7 +438,7 @@
    "type": "word",
    "en": "humid",
    "vi": "nồm, ẩm ướt",
-   "ipa": "/ˈjumɪd/",
+   "ipa": "/ˈhjuməd/",
    "syllables": [
     "hu",
     "mid"
@@ -496,7 +496,7 @@
    "type": "word",
    "en": "damage",
    "vi": "làm hỏng, thiệt hại",
-   "ipa": "/ˈdæmɪdʒ/",
+   "ipa": "/ˈdæmədʒ/",
    "syllables": [
     "dam",
     "age"
@@ -525,7 +525,7 @@
    "type": "phrase",
    "en": "power cut",
    "vi": "mất điện",
-   "ipa": "/paʊʌr kʌt/",
+   "ipa": "/ˈpaʊər kʌt/",
    "syllables": [
     "power",
     "cut"
@@ -610,7 +610,7 @@
    "type": "word",
    "en": "thunderstorm",
    "vi": "dông",
-   "ipa": "/ˈθʌndərˌstɔrm/",
+   "ipa": "/ˈθʌndəˌrstɔrm/",
    "syllables": [
     "thun",
     "der",
@@ -698,7 +698,7 @@
    "type": "word",
    "en": "snowflake",
    "vi": "bông tuyết",
-   "ipa": "/sˈnoʊˌfleɪk/",
+   "ipa": "/ˈsnoʊˌfleɪk/",
    "syllables": [
     "snowflake"
    ],
@@ -726,7 +726,7 @@
    "type": "word",
    "en": "snowman",
    "vi": "người tuyết",
-   "ipa": "/sˈnoʊˌmæn/",
+   "ipa": "/ˈsnoʊˌmæn/",
    "syllables": [
     "snow",
     "man"

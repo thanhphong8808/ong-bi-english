@@ -6,6 +6,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:material_ui/material_ui.dart';
 
+import '../../app/theme.dart';
 import '../../core/config/app_config.dart';
 import '../../core/db/repositories.dart';
 import '../../core/providers.dart';
@@ -33,6 +34,8 @@ class ParentWordsScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final words = ref.watch(_wordsProvider);
+    final lexicon = ref.watch(appServicesProvider).pron.lexicon.value;
+    String? ipaOf(String en) => lexicon.phrase(en);
     return Scaffold(
       appBar: AppBar(title: const Text(S.parentWordsTitle)),
       floatingActionButton: FloatingActionButton.extended(
@@ -60,8 +63,15 @@ class ParentWordsScreen extends ConsumerWidget {
                       ? const SizedBox(width: 40, child: Icon(Icons.image_not_supported_outlined))
                       : SizedBox(width: 40, child: Center(child: EmojiText(word.emoji, size: 30))),
                   title: Text(word.en, style: const TextStyle(fontWeight: FontWeight.w700)),
-                  subtitle: Text([word.vi, if (word.exampleEn.isNotEmpty) word.exampleEn].join('\n')),
-                  isThreeLine: word.exampleEn.isNotEmpty,
+                  subtitle: Text(
+                    [
+                      if (ipaOf(word.en) != null) '/${ipaOf(word.en)}/',
+                      word.vi,
+                      if (word.exampleEn.isNotEmpty) word.exampleEn,
+                    ].join('\n'),
+                    style: const TextStyle(fontFamily: AppTheme.writingFont),
+                  ),
+                  isThreeLine: true,
                   trailing: Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [

@@ -65,7 +65,8 @@ void main() {
     expect(settings.sessionMinutes, 12);
     expect(settings.recordingRetentionDays, 7);
     expect(settings.speechDifficulty, SpeechDifficulty.easy);
-    expect(settings.delayEnglishReading, isTrue);
+    expect(settings.delayEnglishReading, isFalse);
+    expect(settings.showIpa, isTrue);
     expect(ParentSettings.fromMap(const {}).dailyLimitMinutes, 20);
   });
 }

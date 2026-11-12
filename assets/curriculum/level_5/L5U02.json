@@ -15,7 +15,7 @@
    "type": "word",
    "en": "climate",
    "vi": "khí hậu",
-   "ipa": "/ˈklaɪmɪt/",
+   "ipa": "/ˈklaɪmət/",
    "syllables": [
     "cli",
     "mate"
@@ -45,7 +45,7 @@
    "type": "phrase",
    "en": "climate change",
    "vi": "biến đổi khí hậu",
-   "ipa": "/ˈklaɪmɪt tʃeɪndʒ/",
+   "ipa": "/ˈklaɪmət tʃeɪndʒ/",
    "syllables": [
     "cli",
     "mate",
@@ -164,7 +164,7 @@
    "type": "word",
    "en": "fuel",
    "vi": "nhiên liệu",
-   "ipa": "/fjuʌl/",
+   "ipa": "/ˈfjuəl/",
    "syllables": [
     "fuel"
    ],
@@ -248,7 +248,7 @@
    "type": "phrase",
    "en": "wind turbine",
    "vi": "tua-bin gió",
-   "ipa": "/wɪnd ˈtʌrbaɪn/",
+   "ipa": "/waɪnd ˈtʌrbaɪn/",
    "syllables": [
     "wind",
     "tur",
@@ -308,7 +308,7 @@
    "type": "word",
    "en": "reduce",
    "vi": "giảm bớt",
-   "ipa": "/rɪˈdus/",
+   "ipa": "/rəˈdus/",
    "syllables": [
     "re",
     "duce"
@@ -456,7 +456,7 @@
    "type": "word",
    "en": "chemical",
    "vi": "hoá chất",
-   "ipa": "/ˈkɛmɪkəl/",
+   "ipa": "/ˈkɛməkəl/",
    "syllables": [
     "chem",
     "i",
@@ -715,7 +715,7 @@
    "type": "word",
    "en": "eco-friendly",
    "vi": "thân thiện với môi trường",
-   "ipa": "/ˈɛkoʊ ˈfrɛndli/",
+   "ipa": "/ˈikoʊ ˈfrɛndli/",
    "syllables": [
     "eco-friendly"
    ],
@@ -801,7 +801,7 @@
    "type": "word",
    "en": "generation",
    "vi": "thế hệ",
-   "ipa": "/ˌdʒɛnərˈeɪʃən/",
+   "ipa": "/ˌdʒɛnəˈreɪʃən/",
    "syllables": [
     "generation"
    ],
@@ -860,7 +860,7 @@
    "type": "word",
    "en": "cause",
    "vi": "nguyên nhân, gây ra",
-   "ipa": "/kɔz/",
+   "ipa": "/kɑz/",
    "syllables": [
     "cause"
    ],
@@ -887,7 +887,7 @@
    "type": "word",
    "en": "effect",
    "vi": "ảnh hưởng",
-   "ipa": "/ˈifɛkt/",
+   "ipa": "/ɪˈfɛkt/",
    "syllables": [
     "ef",
     "fect"
@@ -1006,7 +1006,7 @@
    "type": "phrase",
    "en": "public transport",
    "vi": "phương tiện công cộng",
-   "ipa": "/ˈpʌblɪk ˈtrænspɔrt/",
+   "ipa": "/ˈpʌblɪk trænˈspɔrt/",
    "syllables": [
     "pub",
     "lic",
@@ -1182,7 +1182,7 @@
    "type": "word",
    "en": "decrease",
    "vi": "giảm",
-   "ipa": "/ˈdiˌkris/",
+   "ipa": "/dɪˈkris/",
    "syllables": [
     "de",
     "crease"

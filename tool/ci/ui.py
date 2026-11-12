@@ -14,6 +14,8 @@ Usage:
   ui.py tapx  TEXT [SEC]     like tap, but the label must be exactly TEXT
   ui.py type  TEXT           type ASCII text into the focused field
   ui.py field N              tap the N-th text field on screen (1 = first)
+  ui.py writeset SECONDS     do one writing set: copy and test (draws a stroke,
+                             taps "Xong"; letter tiles when there is no ink)
 
 A "Huy hiệu mới!" (new badge) dialog is photographed once and closed
 whenever it shows up, so it never hides the screen being tested.
@@ -285,6 +287,54 @@ def explore(seconds, until=None):
     return 0
 
 
+def writeset(seconds):
+    """Look -> copy -> test -> result. Returns 0 when the result shows."""
+    deadline = time.time() + seconds
+    turn = 0
+    while time.time() < deadline:
+        root = dump()
+        if root is None:
+            time.sleep(3)
+            continue
+        found = list(labels(root))
+        texts = [label for label, _ in found]
+        if any(t.strip() == 'Kết quả' for t in texts):
+            print('writeset: result screen')
+            return 0
+        start = [n for label, n in found if label.strip() == 'Tập chép']
+        if start:
+            print('writeset: tap "Tập chép"')
+            tap_node(start[0])
+            time.sleep(6)
+            continue
+        done = [n for label, n in found if label.strip() == 'Xong']
+        if done:
+            # Write something on the pad (above the tool row), then check.
+            x1, y1, x2, y2 = bounds(done[0])
+            top = 700
+            bottom = max(top + 200, y1 - 120)
+            adb('shell', 'input', 'swipe', '300', str(top + 60), '450', str(bottom), '400')
+            adb('shell', 'input', 'swipe', '600', str(top + 60), '760', str(bottom), '400')
+            time.sleep(1)
+            turn += 1
+            print(f'writeset: stroke + "Xong" #{turn}')
+            tap_node(done[0])
+            time.sleep(7)
+            continue
+        # Letter tiles (no handwriting model): tap them in turn.
+        targets = [n for n in root.iter('node')
+                   if n.get('clickable') == 'true' and bounds(n)[1] > 900]
+        if targets:
+            node = targets[turn % len(targets)]
+            turn += 1
+            tap_node(node)
+            time.sleep(2)
+        else:
+            time.sleep(3)
+    print('writeset: TIMEOUT')
+    return 1
+
+
 def main():
     cmd = sys.argv[1]
     if cmd == 'list':
@@ -303,6 +353,8 @@ def main():
     if cmd == 'explore':
         return explore(float(sys.argv[2]) if len(sys.argv) > 2 else 120,
                        sys.argv[3] if len(sys.argv) > 3 else None)
+    if cmd == 'writeset':
+        return writeset(float(sys.argv[2]) if len(sys.argv) > 2 else 240)
     if cmd == 'field':
         root = dump()
         fields = [n for n in root.iter('node') if 'EditText' in (n.get('class') or '')] if root is not None else []

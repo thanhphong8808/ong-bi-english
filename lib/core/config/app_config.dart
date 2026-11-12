@@ -196,9 +196,6 @@ class AppConfig {
   static const int gateMaxAttempts = 3;
   static const int gateLockoutSeconds = 30;
 
-  // ---- English reading delay for grade-1 pupils -------------------------------------------------
-  static const int delayEnglishReadingDefaultDays = 90;
-
   // ---- Reminders ------------------------------------------------------------------------------------
   static const int defaultReminderHour = 18;
   static const int defaultReminderMinute = 30;

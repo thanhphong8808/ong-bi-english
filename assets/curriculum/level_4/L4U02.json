@@ -405,7 +405,7 @@
    "type": "word",
    "en": "fried",
    "vi": "rán, chiên",
-   "ipa": "/frid/",
+   "ipa": "/fraɪd/",
    "syllables": [
     "fried"
    ],
@@ -632,7 +632,7 @@
    "type": "word",
    "en": "chilli",
    "vi": "ớt",
-   "ipa": "/chilli/",
+   "ipa": "/ˈtʃɪli/",
    "syllables": [
     "chilli"
    ],
@@ -644,7 +644,9 @@
    "cat": "L4U02",
    "example_en": "Be careful! The chilli is very hot.",
    "example_vi": "Cẩn thận! Ớt cay lắm.",
-   "pron_focus": [],
+   "pron_focus": [
+    "sh_s"
+   ],
    "skills": [
     "listen",
     "speak",
@@ -686,7 +688,7 @@
    "type": "word",
    "en": "pho",
    "vi": "phở",
-   "ipa": "/pho/",
+   "ipa": "/fʌ/",
    "syllables": [
     "pho"
    ],
@@ -1131,7 +1133,7 @@
    "type": "word",
    "en": "takeaway",
    "vi": "đồ ăn mang về",
-   "ipa": "/takeaway/",
+   "ipa": "/ˈteɪkəˌweɪ/",
    "syllables": [
     "takeaway"
    ],

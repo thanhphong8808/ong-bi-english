@@ -218,7 +218,7 @@
    "type": "word",
    "en": "postcard",
    "vi": "bưu thiếp",
-   "ipa": "/ˈpoʊˌskɑrd/",
+   "ipa": "/ˈpoʊstˌkɑrd/",
    "syllables": [
     "post",
     "card"
@@ -247,7 +247,7 @@
    "type": "word",
    "en": "sunscreen",
    "vi": "kem chống nắng",
-   "ipa": "/ˈsʌnskrin/",
+   "ipa": "/sənˈskrin/",
    "syllables": [
     "sun",
     "screen"
@@ -670,7 +670,7 @@
    "type": "word",
    "en": "kayak",
    "vi": "thuyền kayak",
-   "ipa": "/kaɪæk/",
+   "ipa": "/ˈkaɪæk/",
    "syllables": [
     "kayak"
    ],
@@ -697,7 +697,7 @@
    "type": "word",
    "en": "sunburn",
    "vi": "cháy nắng",
-   "ipa": "/ˈsʌnˌbərn/",
+   "ipa": "/ˈsʌnˌbʌrn/",
    "syllables": [
     "sun",
     "burn"
@@ -925,7 +925,7 @@
    "type": "word",
    "en": "awful",
    "vi": "kinh khủng",
-   "ipa": "/ˈɔfəl/",
+   "ipa": "/ˈɑfəl/",
    "syllables": [
     "aw",
     "ful"
@@ -1130,7 +1130,7 @@
    "type": "word",
    "en": "lighthouse",
    "vi": "ngọn hải đăng",
-   "ipa": "/ˈlaɪˌthaʊs/",
+   "ipa": "/ˈlaɪtˌhaʊs/",
    "syllables": [
     "light",
     "house"

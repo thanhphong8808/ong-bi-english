@@ -157,7 +157,7 @@
    "type": "word",
    "en": "advert",
    "vi": "quảng cáo",
-   "ipa": "/advert/",
+   "ipa": "/ˈædvərt/",
    "syllables": [
     "advert"
    ],
@@ -244,7 +244,7 @@
    "type": "word",
    "en": "article",
    "vi": "bài báo",
-   "ipa": "/ˈɑrtɪkəl/",
+   "ipa": "/ˈɑrtəkəl/",
    "syllables": [
     "ar",
     "ti",
@@ -301,7 +301,7 @@
    "type": "word",
    "en": "interview",
    "vi": "phỏng vấn",
-   "ipa": "/ˈɪntərvˌju/",
+   "ipa": "/ˈɪntəˌrvju/",
    "syllables": [
     "in",
     "ter",
@@ -613,7 +613,7 @@
    "type": "word",
    "en": "username",
    "vi": "tên người dùng",
-   "ipa": "/username/",
+   "ipa": "/ˈjuzəˌrneɪm/",
    "syllables": [
     "username"
    ],
@@ -625,7 +625,9 @@
    "cat": "L5U03",
    "example_en": "Choose a username without your real name.",
    "example_vi": "Chọn tên người dùng không có tên thật của cậu.",
-   "pron_focus": [],
+   "pron_focus": [
+    "final_consonant"
+   ],
    "skills": [
     "listen",
     "speak",
@@ -923,7 +925,7 @@
    "type": "word",
    "en": "permission",
    "vi": "sự cho phép",
-   "ipa": "/pərˈmɪʃən/",
+   "ipa": "/pəˈrmɪʃən/",
    "syllables": [
     "per",
     "mis",
@@ -954,7 +956,7 @@
    "type": "word",
    "en": "notice",
    "vi": "để ý, nhận thấy",
-   "ipa": "/ˈnoʊtɪs/",
+   "ipa": "/ˈnoʊtəs/",
    "syllables": [
     "no",
     "tice"
@@ -1126,7 +1128,7 @@
    "type": "word",
    "en": "entertainment",
    "vi": "giải trí",
-   "ipa": "/ˌɛnərˈteɪnmənt/",
+   "ipa": "/ˌɛntəˈrteɪnmənt/",
    "syllables": [
     "en",
     "ter",
@@ -1157,7 +1159,7 @@
    "type": "word",
    "en": "documentary",
    "vi": "phim tài liệu",
-   "ipa": "/ˌdɑkjəˈmɛnəri/",
+   "ipa": "/ˌdɑkjəˈmɛntəri/",
    "syllables": [
     "documentary"
    ],
@@ -1182,7 +1184,7 @@
    "type": "word",
    "en": "episode",
    "vi": "tập (phim)",
-   "ipa": "/ˈɛpɪˌsoʊd/",
+   "ipa": "/ˈɛpəˌsoʊd/",
    "syllables": [
     "episode"
    ],
@@ -1239,7 +1241,7 @@
    "type": "word",
    "en": "headline",
    "vi": "tiêu đề",
-   "ipa": "/ˈhɛˌdlaɪn/",
+   "ipa": "/ˈhɛdˌlaɪn/",
    "syllables": [
     "head",
     "line"

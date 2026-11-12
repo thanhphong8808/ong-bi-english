@@ -14,7 +14,7 @@
    "type": "word",
    "en": "doctor",
    "vi": "bác sĩ",
-   "ipa": "/ˈdɔktər/",
+   "ipa": "/ˈdɑktər/",
    "syllables": [
     "doc",
     "tor"
@@ -70,7 +70,7 @@
    "type": "word",
    "en": "dentist",
    "vi": "nha sĩ",
-   "ipa": "/ˈdɛntɪst/",
+   "ipa": "/ˈdɛntəst/",
    "syllables": [
     "den",
     "tist"
@@ -263,7 +263,7 @@
    "type": "word",
    "en": "cough",
    "vi": "ho",
-   "ipa": "/kɔf/",
+   "ipa": "/kɑf/",
    "syllables": [
     "cough"
    ],
@@ -403,7 +403,7 @@
    "type": "word",
    "en": "temperature",
    "vi": "nhiệt độ",
-   "ipa": "/ˈtɛmpərətʃər/",
+   "ipa": "/ˈtɛmprətʃər/",
    "syllables": [
     "temperature"
    ],
@@ -430,7 +430,7 @@
    "type": "word",
    "en": "thermometer",
    "vi": "nhiệt kế",
-   "ipa": "/θərˈmɑmətər/",
+   "ipa": "/θəˈrmɑmətər/",
    "syllables": [
     "thermometer"
    ],
@@ -594,7 +594,7 @@
    "type": "word",
    "en": "exercise",
    "vi": "tập thể dục",
-   "ipa": "/ˈɛksərˌsaɪz/",
+   "ipa": "/ˈɛksəˌrsaɪz/",
    "syllables": [
     "ex",
     "er",
@@ -683,7 +683,7 @@
    "type": "word",
    "en": "tissue",
    "vi": "khăn giấy",
-   "ipa": "/ˈtɪʃu/",
+   "ipa": "/ˈtɪsˌju/",
    "syllables": [
     "tis",
     "sue"
@@ -697,7 +697,6 @@
    "example_en": "Here's a tissue for your nose.",
    "example_vi": "Khăn giấy lau mũi đây.",
    "pron_focus": [
-    "sh_s",
     "stress"
    ],
    "skills": [

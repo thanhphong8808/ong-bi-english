@@ -15,7 +15,7 @@
    "type": "word",
    "en": "subject",
    "vi": "môn học",
-   "ipa": "/ˈsʌbdʒɪkt/",
+   "ipa": "/səbˈdʒɛkt/",
    "syllables": [
     "sub",
     "ject"
@@ -72,7 +72,7 @@
    "type": "word",
    "en": "science",
    "vi": "môn khoa học",
-   "ipa": "/saɪʌns/",
+   "ipa": "/ˈsaɪəns/",
    "syllables": [
     "science"
    ],
@@ -268,7 +268,7 @@
    "type": "word",
    "en": "classmate",
    "vi": "bạn cùng lớp",
-   "ipa": "/ˈklæsˌmeɪt/",
+   "ipa": "/ˈklæˌsmeɪt/",
    "syllables": [
     "class",
     "mate"
@@ -408,7 +408,7 @@
    "type": "word",
    "en": "report",
    "vi": "báo cáo, sổ liên lạc",
-   "ipa": "/rɪˈpɔrt/",
+   "ipa": "/riˈpɔrt/",
    "syllables": [
     "re",
     "port"
@@ -923,7 +923,7 @@
    "type": "word",
    "en": "question",
    "vi": "câu hỏi",
-   "ipa": "/kˈwɛʃən/",
+   "ipa": "/ˈkwɛstʃən/",
    "syllables": [
     "ques",
     "tion"
@@ -953,7 +953,7 @@
    "type": "word",
    "en": "correct",
    "vi": "đúng",
-   "ipa": "/kərˈɛkt/",
+   "ipa": "/kəˈrɛkt/",
    "syllables": [
     "cor",
     "rect"

@@ -78,11 +78,12 @@ class _KidScaffoldState extends ConsumerState<KidScaffold> {
                       semanticLabel: S.back,
                       onPressed: widget.onBack ?? () => Navigator.of(context).maybePop(),
                     ),
-                  _RoundIconButton(
-                    icon: Icons.volume_up_rounded,
-                    semanticLabel: S.listenAgain,
-                    onPressed: _speak,
-                  ),
+                  if (widget.instructionVi.isNotEmpty)
+                    _RoundIconButton(
+                      icon: Icons.volume_up_rounded,
+                      semanticLabel: S.listenAgain,
+                      onPressed: _speak,
+                    ),
                   const Spacer(),
                   if (widget.topRight != null) widget.topRight!,
                 ],

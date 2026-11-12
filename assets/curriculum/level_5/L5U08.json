@@ -15,7 +15,7 @@
    "type": "word",
    "en": "painting",
    "vi": "bức tranh",
-   "ipa": "/ˈpeɪnɪŋ/",
+   "ipa": "/ˈpeɪntɪŋ/",
    "syllables": [
     "paint",
     "ing"
@@ -541,7 +541,7 @@
    "type": "word",
    "en": "choir",
    "vi": "dàn hợp xướng",
-   "ipa": "/kwaɪʌr/",
+   "ipa": "/ˈkwaɪər/",
    "syllables": [
     "choir"
    ],
@@ -705,7 +705,7 @@
    "type": "word",
    "en": "perform",
    "vi": "biểu diễn",
-   "ipa": "/pərˈfɔrm/",
+   "ipa": "/pəˈrfɔrm/",
    "syllables": [
     "per",
     "form"
@@ -734,7 +734,7 @@
    "type": "word",
    "en": "performance",
    "vi": "buổi biểu diễn",
-   "ipa": "/pərˈfɔrməns/",
+   "ipa": "/pəˈrfɔrməns/",
    "syllables": [
     "per",
     "for",
@@ -764,7 +764,7 @@
    "type": "word",
    "en": "audience",
    "vi": "khán giả",
-   "ipa": "/ˈɔdiəns/",
+   "ipa": "/ˈɑdiəns/",
    "syllables": [
     "au",
     "di",
@@ -910,7 +910,7 @@
    "type": "phrase",
    "en": "pop music",
    "vi": "nhạc pop",
-   "ipa": "/pɑp mˈjuzɪk/",
+   "ipa": "/pɑp ˈmjuzɪk/",
    "syllables": [
     "pop",
     "mu",
@@ -1025,7 +1025,7 @@
    "type": "word",
    "en": "poem",
    "vi": "bài thơ",
-   "ipa": "/poʊʌm/",
+   "ipa": "/ˈpoʊəm/",
    "syllables": [
     "poem"
    ],
@@ -1052,7 +1052,7 @@
    "type": "word",
    "en": "poet",
    "vi": "nhà thơ",
-   "ipa": "/poʊʌt/",
+   "ipa": "/ˈpoʊət/",
    "syllables": [
     "poet"
    ],
@@ -1108,7 +1108,7 @@
    "type": "word",
    "en": "puppet",
    "vi": "con rối",
-   "ipa": "/ˈpʌpɪt/",
+   "ipa": "/ˈpʌpət/",
    "syllables": [
     "pup",
     "pet"

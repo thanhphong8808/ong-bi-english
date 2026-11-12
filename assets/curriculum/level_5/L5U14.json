@@ -164,7 +164,7 @@
    "type": "phrase",
    "en": "flying car",
    "vi": "ô tô bay",
-   "ipa": "/flaɪɪŋ kɑr/",
+   "ipa": "/ˈflaɪɪŋ kɑr/",
    "syllables": [
     "flying",
     "car"
@@ -220,7 +220,7 @@
    "type": "word",
    "en": "hologram",
    "vi": "hình ảnh ba chiều",
-   "ipa": "/ˈhɔloʊˌɡræm/",
+   "ipa": "/ˈhɑləˌɡræm/",
    "syllables": [
     "hologram"
    ],
@@ -304,7 +304,7 @@
    "type": "word",
    "en": "smartphone",
    "vi": "điện thoại thông minh",
-   "ipa": "/smartphone/",
+   "ipa": "/ˈsmɑrtˌfoʊn/",
    "syllables": [
     "smartphone"
    ],
@@ -317,6 +317,7 @@
    "example_en": "My mum uses her smartphone for work.",
    "example_vi": "Mẹ dùng điện thoại thông minh để làm việc.",
    "pron_focus": [
+    "final_consonant",
     "cluster"
    ],
    "skills": [
@@ -386,7 +387,7 @@
    "type": "word",
    "en": "engine",
    "vi": "động cơ",
-   "ipa": "/ˈɪndʒən/",
+   "ipa": "/ˈɛndʒən/",
    "syllables": [
     "en",
     "gine"
@@ -415,7 +416,7 @@
    "type": "word",
    "en": "printing",
    "vi": "việc in ấn",
-   "ipa": "/ˈprɪnɪŋ/",
+   "ipa": "/ˈprɪntɪŋ/",
    "syllables": [
     "print",
     "ing"
@@ -595,7 +596,7 @@
    "type": "word",
    "en": "human",
    "vi": "con người",
-   "ipa": "/ˈjumən/",
+   "ipa": "/ˈhjumən/",
    "syllables": [
     "hu",
     "man"
@@ -768,7 +769,7 @@
    "type": "word",
    "en": "digital",
    "vi": "kỹ thuật số",
-   "ipa": "/ˈdɪdʒɪtəl/",
+   "ipa": "/ˈdɪdʒətəl/",
    "syllables": [
     "dig",
     "i",
@@ -972,7 +973,7 @@
    "type": "word",
    "en": "underwater",
    "vi": "dưới nước",
-   "ipa": "/ˈʌndərˌwɔtər/",
+   "ipa": "/ˈʌndəˌrwɔtər/",
    "syllables": [
     "un",
     "der",
@@ -1177,7 +1178,7 @@
    "type": "word",
    "en": "power",
    "vi": "năng lượng, sức mạnh",
-   "ipa": "/paʊʌr/",
+   "ipa": "/ˈpaʊər/",
    "syllables": [
     "power"
    ],

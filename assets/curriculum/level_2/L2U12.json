@@ -237,7 +237,7 @@
    "type": "phrase",
    "en": "police officer",
    "vi": "cảnh sát",
-   "ipa": "/pəˈlis ˈɔfɪsər/",
+   "ipa": "/pəˈlis ˈɔfəsər/",
    "syllables": [
     "po",
     "lice",
@@ -316,7 +316,7 @@
    "type": "word",
    "en": "artist",
    "vi": "hoạ sĩ",
-   "ipa": "/ˈɑrtɪst/",
+   "ipa": "/ˈɑrtəst/",
    "syllables": [
     "artist"
    ],
@@ -397,7 +397,7 @@
    "type": "word",
    "en": "mechanic",
    "vi": "thợ sửa xe",
-   "ipa": "/mɪˈkænɪk/",
+   "ipa": "/məˈkænɪk/",
    "syllables": [
     "me",
     "chan",
@@ -485,7 +485,7 @@
    "type": "word",
    "en": "fisherman",
    "vi": "ngư dân",
-   "ipa": "/ˈfɪʃərˌmæn/",
+   "ipa": "/ˈfɪʃəˌrmæn/",
    "syllables": [
     "fish",
     "er",
@@ -573,7 +573,7 @@
    "type": "word",
    "en": "office",
    "vi": "văn phòng",
-   "ipa": "/ˈɔfəs/",
+   "ipa": "/ˈɔfɪs/",
    "syllables": [
     "of",
     "fice"
@@ -713,7 +713,7 @@
    "type": "word",
    "en": "interesting",
    "vi": "thú vị",
-   "ipa": "/ˈɪntəˌrɛstɪŋ/",
+   "ipa": "/ˈɪntrəstɪŋ/",
    "syllables": [
     "in",
     "ter",
@@ -773,7 +773,7 @@
    "type": "phrase",
    "en": "want to be",
    "vi": "muốn trở thành",
-   "ipa": "/wɔnt tɪ bi/",
+   "ipa": "/wɑnt tu bi/",
    "syllables": [
     "want",
     "to",

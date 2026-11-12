@@ -43,7 +43,7 @@
    "type": "word",
    "en": "hour",
    "vi": "giờ đồng hồ",
-   "ipa": "/aʊʌr/",
+   "ipa": "/ˈaʊər/",
    "syllables": [
     "hour"
    ],
@@ -95,7 +95,7 @@
    "type": "word",
    "en": "quarter",
    "vi": "một phần tư, mười lăm phút",
-   "ipa": "/kˈwɔrtər/",
+   "ipa": "/ˈkwɔrtər/",
    "syllables": [
     "quar",
     "ter"
@@ -180,7 +180,7 @@
    "type": "word",
    "en": "arrive",
    "vi": "đến nơi",
-   "ipa": "/əraɪv/",
+   "ipa": "/əˈraɪv/",
    "syllables": [
     "arrive"
    ],
@@ -264,7 +264,7 @@
    "type": "phrase",
    "en": "on time",
    "vi": "đúng giờ",
-   "ipa": "/ɔn taɪm/",
+   "ipa": "/ɑn taɪm/",
    "syllables": [
     "on",
     "time"
@@ -292,7 +292,7 @@
    "type": "phrase",
    "en": "return ticket",
    "vi": "vé khứ hồi",
-   "ipa": "/rɪˈtʌrn ˈtɪkɪt/",
+   "ipa": "/rɪˈtʌrn ˈtɪkət/",
    "syllables": [
     "re",
     "turn",
@@ -323,7 +323,7 @@
    "type": "phrase",
    "en": "single ticket",
    "vi": "vé một chiều",
-   "ipa": "/ˈsɪŋɡəl ˈtɪkɪt/",
+   "ipa": "/ˈsɪŋɡəl ˈtɪkət/",
    "syllables": [
     "sin",
     "gle",
@@ -382,7 +382,7 @@
    "type": "word",
    "en": "luggage",
    "vi": "hành lý",
-   "ipa": "/ˈlʌɡɪdʒ/",
+   "ipa": "/ˈlʌɡədʒ/",
    "syllables": [
     "lug",
     "gage"
@@ -528,7 +528,7 @@
    "type": "word",
    "en": "underground",
    "vi": "tàu điện ngầm",
-   "ipa": "/ˈʌndərˌɡraʊnd/",
+   "ipa": "/ˈʌndəˌrɡraʊnd/",
    "syllables": [
     "un",
     "der",
@@ -756,7 +756,7 @@
    "type": "phrase",
    "en": "get on",
    "vi": "lên (xe)",
-   "ipa": "/ɡɪt ɔn/",
+   "ipa": "/ɡɛt ɑn/",
    "syllables": [
     "get",
     "on"
@@ -784,7 +784,7 @@
    "type": "phrase",
    "en": "get off",
    "vi": "xuống (xe)",
-   "ipa": "/ɡɪt ɔf/",
+   "ipa": "/ɡɛt ɔf/",
    "syllables": [
     "get",
     "off"
@@ -812,7 +812,7 @@
    "type": "phrase",
    "en": "ticket office",
    "vi": "phòng bán vé",
-   "ipa": "/ˈtɪkɪt ˈɔfəs/",
+   "ipa": "/ˈtɪkət ˈɔfɪs/",
    "syllables": [
     "tick",
     "et",
@@ -842,7 +842,7 @@
    "type": "word",
    "en": "crowded",
    "vi": "đông đúc",
-   "ipa": "/ˈkraʊdɪd/",
+   "ipa": "/ˈkraʊdəd/",
    "syllables": [
     "crowd",
     "ed"
@@ -903,7 +903,7 @@
    "type": "word",
    "en": "overnight",
    "vi": "qua đêm",
-   "ipa": "/ˈoʊvərˈnaɪt/",
+   "ipa": "/ˈoʊvəˈrnaɪt/",
    "syllables": [
     "overnight"
    ],
@@ -958,7 +958,7 @@
    "type": "word",
    "en": "carriage",
    "vi": "toa tàu",
-   "ipa": "/ˈkɛrədʒ/",
+   "ipa": "/ˈkærɪdʒ/",
    "syllables": [
     "car",
     "riage"
@@ -1017,7 +1017,7 @@
    "type": "word",
    "en": "announcement",
    "vi": "thông báo",
-   "ipa": "/əˈnaʊnsmɛnt/",
+   "ipa": "/əˈnaʊnsmənt/",
    "syllables": [
     "an",
     "nounce",

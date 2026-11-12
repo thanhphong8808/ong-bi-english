@@ -15,7 +15,7 @@
    "type": "word",
    "en": "festival",
    "vi": "lễ hội",
-   "ipa": "/ˈfɛstɪvəl/",
+   "ipa": "/ˈfɛstəvəl/",
    "syllables": [
     "fes",
     "ti",
@@ -102,7 +102,7 @@
    "type": "phrase",
    "en": "Mid-Autumn Festival",
    "vi": "Tết Trung thu",
-   "ipa": "/mɪd ˈɔtəm ˈfɛstɪvəl/",
+   "ipa": "/mɪd ˈɔtəm ˈfɛstəvəl/",
    "syllables": [
     "Mid-Autumn",
     "Fes",
@@ -185,7 +185,7 @@
    "type": "word",
    "en": "firework",
    "vi": "pháo hoa",
-   "ipa": "/ˈfaɪrˌwərk/",
+   "ipa": "/ˈfaɪrˌwʌrk/",
    "syllables": [
     "fire",
     "work"
@@ -245,7 +245,7 @@
    "type": "word",
    "en": "decorate",
    "vi": "trang trí",
-   "ipa": "/ˈdɛkərˌeɪt/",
+   "ipa": "/ˈdɛkəˌreɪt/",
    "syllables": [
     "decorate"
    ],
@@ -272,7 +272,7 @@
    "type": "word",
    "en": "decoration",
    "vi": "đồ trang trí",
-   "ipa": "/ˌdɛkərˈeɪʃən/",
+   "ipa": "/ˌdɛkəˈreɪʃən/",
    "syllables": [
     "decoration"
    ],
@@ -359,7 +359,7 @@
    "type": "phrase",
    "en": "lion dance",
    "vi": "múa lân",
-   "ipa": "/laɪʌn dæns/",
+   "ipa": "/ˈlaɪən dæns/",
    "syllables": [
     "lion",
     "dance"
@@ -388,7 +388,7 @@
    "type": "word",
    "en": "parade",
    "vi": "cuộc diễu hành",
-   "ipa": "/pəreɪd/",
+   "ipa": "/pəˈreɪd/",
    "syllables": [
     "parade"
    ],
@@ -415,7 +415,7 @@
    "type": "word",
    "en": "costume",
    "vi": "đồ hoá trang",
-   "ipa": "/ˈkɑstum/",
+   "ipa": "/kɑˈstum/",
    "syllables": [
     "cos",
     "tume"
@@ -689,7 +689,7 @@
    "type": "phrase",
    "en": "spring roll",
    "vi": "nem rán, chả giò",
-   "ipa": "/spərɪŋ roʊl/",
+   "ipa": "/sprɪŋ roʊl/",
    "syllables": [
     "spring",
     "roll"

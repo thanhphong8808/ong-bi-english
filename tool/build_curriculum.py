@@ -21,7 +21,7 @@
 #   > sentence one. sentence two.                           (continues the reading)
 #   ? question | right answer | wrong 1 | wrong 2
 #   S starter one | starter two | starter three             guided-writing starters (level 3+)
-import glob, json, os, random, re, sys, warnings
+import glob, gzip, json, os, random, re, sys, warnings
 warnings.filterwarnings('ignore')
 import eng_to_ipa
 import pyphen
@@ -31,8 +31,26 @@ SRC = os.path.join(ROOT, 'tool', 'content_src')
 OUT = os.path.join(ROOT, 'assets', 'curriculum')
 HYPH = pyphen.Pyphen(lang='en_US')
 IPA_FIX = {
-    'mum': 'mʌm', 'grandma': 'ˈɡrænmɑː', 'grandpa': 'ˈɡrænpɑː', 'yo-yo': 'ˈjoʊjoʊ', 'bi': 'biː',
-    'teddy': 'ˈtɛdi', 'rubber': 'ˈrʌbər', 'trousers': 'ˈtraʊzərz', 'pyjamas': 'pəˈdʒɑːməz',
+    'mum': 'mʌm', 'grandma': 'ˈɡrænmɑ', 'grandpa': 'ˈɡrænpɑ', 'yo-yo': 'ˈjoʊjoʊ', 'bi': 'bi',
+    'teddy': 'ˈtɛdi', 'rubber': 'ˈrʌbər', 'trousers': 'ˈtraʊzərz', 'pyjamas': 'pəˈdʒɑməz',
+    'pho': 'fʌ', 'tv': 'ˌtiˈvi',
+}
+
+# American IPA from the CMU Pronouncing Dictionary (tool/pron/build_ipa_dict.py);
+# the same file the app uses for sentences and the parents' own words.
+CMU_IPA = dict(
+    line.rstrip('\n').split('\t')
+    for line in gzip.open(os.path.join(os.path.dirname(__file__), '..', 'assets', 'pron', 'ipa_en_us.txt.gz'),
+                          'rt', encoding='utf-8')
+)
+# British spellings of the curriculum -> the American entry in CMU.
+UK_US = {
+    'colour': 'color', 'colours': 'colors', 'colourful': 'colorful', 'favourite': 'favorite', 'grey': 'gray',
+    'centre': 'center', 'theatre': 'theater', 'neighbour': 'neighbor', 'behaviour': 'behavior',
+    'practise': 'practice', 'jewellery': 'jewelry', 'aeroplane': 'airplane', 'chilli': 'chili',
+    'humour': 'humor', 'flavour': 'flavor', 'honour': 'honor', 'metre': 'meter', 'litre': 'liter',
+    'kilometre': 'kilometer', 'programme': 'program', 'travelling': 'traveling', 'cosy': 'cozy',
+    'organise': 'organize', 'recognise': 'recognize', 'realise': 'realize', 'harbour': 'harbor',
 }
 CLUSTERS = ('scr', 'spl', 'spr', 'str', 'thr', 'bl', 'br', 'cl', 'cr', 'dr', 'fl', 'fr', 'gl', 'gr',
             'pl', 'pr', 'sc', 'sk', 'sl', 'sm', 'sn', 'sp', 'st', 'sw', 'tr', 'tw')
@@ -54,6 +72,9 @@ def ipa_of(text):
     for word in re.findall(r"[a-z']+", key):
         if word in IPA_FIX:
             out.append(IPA_FIX[word]); continue
+        cmu = CMU_IPA.get(word) or CMU_IPA.get(UK_US.get(word, ''))
+        if cmu:
+            out.append(cmu); continue
         s = eng_to_ipa.convert(word)
         if '*' in s:
             s = s.replace('*', '')

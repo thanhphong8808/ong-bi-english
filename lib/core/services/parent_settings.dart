@@ -18,7 +18,7 @@ class ParentSettings {
     this.slowSpeech = false,
     this.speechDifficulty = AppConfig.defaultSpeechDifficulty,
     this.talkWithBiEnabled = true,
-    this.delayEnglishReading = true,
+    this.delayEnglishReading = false,
     this.recordingRetentionDays = AppConfig.defaultRecordingRetentionDays,
     this.pinHash = '',
     this.setupDone = false,
@@ -29,6 +29,7 @@ class ParentSettings {
     this.reminderHour = AppConfig.defaultReminderHour,
     this.reminderMinute = AppConfig.defaultReminderMinute,
     this.delayReadingTouched = false,
+    this.showIpa = true,
   });
 
   final int dailyLimitMinutes;
@@ -56,6 +57,9 @@ class ParentSettings {
   /// the app switches it off automatically after the first three months.
   final bool delayReadingTouched;
 
+  /// Pronunciation (IPA) under English words and sentences.
+  final bool showIpa;
+
   bool get hasPin => pinHash.isNotEmpty;
 
   double get speechRate => slowSpeech ? AppConfig.slowSpeechRate : AppConfig.normalSpeechRate;
@@ -82,6 +86,7 @@ class ParentSettings {
     int? reminderHour,
     int? reminderMinute,
     bool? delayReadingTouched,
+    bool? showIpa,
   }) {
     return ParentSettings(
       dailyLimitMinutes: dailyLimitMinutes ?? this.dailyLimitMinutes,
@@ -103,6 +108,7 @@ class ParentSettings {
       reminderHour: reminderHour ?? this.reminderHour,
       reminderMinute: reminderMinute ?? this.reminderMinute,
       delayReadingTouched: delayReadingTouched ?? this.delayReadingTouched,
+      showIpa: showIpa ?? this.showIpa,
     );
   }
 
@@ -127,6 +133,7 @@ class ParentSettings {
       'reminderHour': '$reminderHour',
       'reminderMinute': '$reminderMinute',
       'delayReadingTouched': '$delayReadingTouched',
+      'showIpa': '$showIpa',
     };
   }
 
@@ -172,6 +179,7 @@ class ParentSettings {
       reminderHour: readInt('reminderHour', d.reminderHour).clamp(0, 23).toInt(),
       reminderMinute: readInt('reminderMinute', d.reminderMinute).clamp(0, 59).toInt(),
       delayReadingTouched: readBool('delayReadingTouched', d.delayReadingTouched),
+      showIpa: readBool('showIpa', d.showIpa),
     );
   }
 }
@@ -191,10 +199,10 @@ class ParentSettingsStore {
       settings = settings.copyWith(installedAtMs: time.millisecondsSinceEpoch);
       changed = true;
     }
-    // "Delay English reading" is on for the first three months by default.
-    final installed = DateTime.fromMillisecondsSinceEpoch(settings.installedAtMs);
-    final expired = time.difference(installed).inDays >= AppConfig.delayEnglishReadingDefaultDays;
-    if (expired && settings.delayEnglishReading && !settings.delayReadingTouched) {
+    // English text is shown from the start, so the child sees the words Bi
+    // says. Builds before 17 hid it for three months: switch that off unless
+    // a parent turned it on by hand.
+    if (settings.delayEnglishReading && !settings.delayReadingTouched) {
       settings = settings.copyWith(delayEnglishReading: false);
       changed = true;
     }

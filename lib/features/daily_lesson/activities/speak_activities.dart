@@ -10,6 +10,7 @@ import '../../../curriculum/models.dart';
 import '../../../l10n/strings_vi.dart';
 import '../../../widgets/bi_mascot.dart';
 import '../../../widgets/item_picture.dart';
+import '../../../widgets/spoken_text.dart';
 import '../../speak/mic_panel.dart';
 import '../../speak/pron_drills.dart';
 import 'activity_base.dart';
@@ -97,17 +98,21 @@ class _PresentItemState extends ActivityState<PresentItemActivity> with _MicJudg
         Expanded(
           child: Sparkles(
             active: celebrating,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
+            child: CenteredScroll(
               children: [
                 // Parent words may have no picture: a speech bubble, not "❓".
                 if (it.image.isEmpty) const EmojiText('💬', size: 140) else ItemPicture(item: it, size: 170),
                 const SizedBox(height: 10),
-                if (!hideText) BigWord(it.en, size: 52),
-                if (!hideText && it.ipa.isNotEmpty)
-                  Text(it.ipa, style: const TextStyle(fontSize: 20, color: Color(0xFF7A6A55))),
+                if (!hideText) SpokenText(it.en, fontSize: 52, ipa: it.ipa.isEmpty ? null : it.ipa),
                 const SizedBox(height: 6),
                 Text(it.vi, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w700)),
+                if (!hideText && it.exampleEn.isNotEmpty) ...[
+                  const SizedBox(height: 10),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 12),
+                    child: SpokenText(it.exampleEn, fontSize: 24),
+                  ),
+                ],
               ],
             ),
           ),
@@ -236,11 +241,27 @@ class SayActivity extends ActivityView<SayStep> {
 class _SayState extends ActivityState<SayActivity> with _MicJudge<SayActivity> {
   bool get _sentence => widget.step.text.trim().contains(' ');
 
+  /// Recall tasks ("say the word for this picture") show the words once
+  /// Bi has said them.
+  bool _revealed = false;
+
   @override
   String get instructionVi => widget.step.modelFirst ? S.insShadow : S.insSeeSay;
 
   @override
-  Future<void> model() => sayEn(widget.step.text, slow: true);
+  Future<void> model() async {
+    if (mounted && !_revealed) {
+      setState(() => _revealed = true);
+    }
+    await sayEn(widget.step.text, slow: true);
+  }
+
+  Future<void> _playModel() async {
+    if (mounted && !_revealed) {
+      setState(() => _revealed = true);
+    }
+    await sayEn(widget.step.text);
+  }
 
   @override
   Future<void> onOpened() async {
@@ -252,15 +273,14 @@ class _SayState extends ActivityState<SayActivity> with _MicJudge<SayActivity> {
   @override
   Widget build(BuildContext context) {
     final picture = widget.step.showPicture ? item(widget.step.itemId) : null;
-    final showText = widget.step.modelFirst && !hideText;
+    final showText = (widget.step.modelFirst || _revealed) && !hideText;
     final allowModel = widget.step.modelFirst || !widget.testMode;
     return Column(
       children: [
         Expanded(
           child: Sparkles(
             active: celebrating,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
+            child: CenteredScroll(
               children: [
                 if (picture != null) ItemPicture(item: picture, size: 170),
                 if (picture == null) const BiMascot(mood: BiMood.happy, size: 140),
@@ -273,7 +293,7 @@ class _SayState extends ActivityState<SayActivity> with _MicJudge<SayActivity> {
                       borderRadius: BorderRadius.circular(22),
                       border: Border.all(color: AppColors.ink, width: 2),
                     ),
-                    child: BigWord(widget.step.text, size: _sentence ? 30 : 46),
+                    child: SpokenText(widget.step.text, fontSize: _sentence ? 30 : 46),
                   ),
               ],
             ),
@@ -286,7 +306,7 @@ class _SayState extends ActivityState<SayActivity> with _MicJudge<SayActivity> {
           sentence: _sentence,
           itemId: widget.step.itemId,
           enabled: !finished,
-          onPlayModel: allowModel ? () => sayEn(widget.step.text) : null,
+          onPlayModel: allowModel ? _playModel : null,
           onResult: judge,
         ),
         const SizedBox(height: 12),
@@ -321,11 +341,16 @@ class _AnswerState extends ActivityState<AnswerActivity> with _MicJudge<AnswerAc
     return Column(
       children: [
         Expanded(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+          child: CenteredScroll(
             children: [
               const BiMascot(mood: BiMood.listening, size: 130),
               if (picture != null) ItemPicture(item: picture, size: 150),
+              const SizedBox(height: 8),
+              if (!hideText)
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 16),
+                  child: SpokenText(widget.step.questionEn, fontSize: 28),
+                ),
               const SizedBox(height: 8),
               KidIconButton(icon: Icons.volume_up_rounded, onPressed: () => sayEn(widget.step.questionEn)),
             ],
@@ -410,7 +435,7 @@ class _PronDrillState extends ActivityState<PronDrillActivity> {
               const SizedBox(height: 8),
               Text(drill.titleVi, style: const TextStyle(fontSize: 26, fontWeight: FontWeight.w900)),
               const SizedBox(height: 14),
-              if (!hideText) BigWord(_target, size: 44),
+              if (!hideText) SpokenText(_target, fontSize: 44),
               const SizedBox(height: 8),
               Text('${_index + 1} / ${_targets.length}', style: const TextStyle(fontSize: 18)),
             ],

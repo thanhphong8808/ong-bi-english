@@ -59,6 +59,10 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
   LessonPlan? _plan;
   int _index = -1;
   int _stars = 0;
+
+  /// Stars already written to the profile at stage checkpoints, so closing
+  /// the app in the middle of a stage never loses a finished stage's stars.
+  int _savedStars = 0;
   bool _finishing = false;
 
   /// End index of each short stage; one entry when the lesson has no stages.
@@ -217,7 +221,26 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
     _stars += AppConfig.starsPerStage;
     final done = stageOf(_ends, next - 1) + 1;
     setState(() => _checkpointNext = next);
+    unawaited(_saveCheckpoint());
     await _services.speech.sayVi(S.stageDoneSpoken(done)).catchError((Object _) {});
+  }
+
+  /// Writes the stars and new words of the finished stages right away.
+  Future<void> _saveCheckpoint() async {
+    final profile = _profile;
+    if (profile == null || _finishing) {
+      return;
+    }
+    final container = ProviderScope.containerOf(context, listen: false);
+    final fresh = _stars - _savedStars;
+    _savedStars = _stars;
+    if (widget.request.mode == LessonMode.daily && _introduced.isNotEmpty) {
+      await _services.progress.markIntroduced(profile.id, _introduced).catchError((Object _) {});
+    }
+    if (fresh > 0) {
+      await _services.db.profileRepo.addStars(profile.id, fresh).catchError((Object _) {});
+    }
+    container.invalidate(activeProfileProvider);
   }
 
   void _continueAfterCheckpoint() {
@@ -245,8 +268,9 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
     if (widget.request.mode == LessonMode.daily && _introduced.isNotEmpty) {
       await _services.progress.markIntroduced(profile.id, _introduced).catchError((Object _) {});
     }
-    if (_stars > 0) {
-      await _services.db.profileRepo.addStars(profile.id, _stars).catchError((Object _) {});
+    if (_stars > _savedStars) {
+      await _services.db.profileRepo.addStars(profile.id, _stars - _savedStars).catchError((Object _) {});
+      _savedStars = _stars;
     }
     container.invalidate(activeProfileProvider);
   }
@@ -321,7 +345,7 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
           await services.db.rewardRepo.add(profile.id, sticker.id);
         }
         final total = _stars + AppConfig.starsLessonBonus;
-        await services.db.profileRepo.addStars(profile.id, total);
+        await services.db.profileRepo.addStars(profile.id, total - _savedStars);
         container.invalidate(activeProfileProvider);
         // Prepare the next lessons' audio while the child celebrates.
         final snapshot = await services.progress.snapshot(profile.id);

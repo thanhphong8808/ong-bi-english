@@ -83,6 +83,8 @@ class LessonAudio {
           out.add(AudioRequest.en(step.questionEn, voice: voice, speed: speed));
         case DictationStep():
           out.add(AudioRequest.en(step.text, voice: voice, speed: speed));
+        case WriteRecallStep():
+          out.add(AudioRequest.en(step.word, voice: voice, speed: speed));
         case WordBuilderStep():
           out.add(AudioRequest.en(step.word, voice: voice, speed: speed));
         case TrueFalseStep() || FillBlankStep() || TraceStep() || WriteLetterStep() || CopyWordStep():

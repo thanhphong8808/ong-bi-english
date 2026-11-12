@@ -18,7 +18,14 @@ Tài liệu này viết cho bố mẹ **không biết lập trình**. Làm lần
 - **Nói chuyện với Bi**: trò chuyện, nhập vai (đi chợ, đi khám bác sĩ, sinh nhật…),
   cùng kể chuyện. Bi chỉ nói tối đa 2 câu ngắn, luôn kết thúc bằng một câu hỏi dễ, và
   có nút gợi ý câu trả lời. Có lớp lọc an toàn ở cả lời bé nói và lời Bi nói.
-- **Tập viết**: tô chữ cái theo nét, viết chữ, chép từ, nghe – viết.
+- **Tập viết**: tô chữ cái theo nét, và **viết từ theo cấp** từ dễ đến khó: mỗi bộ 3–5 từ có
+  hình (cấp 0: 3 từ ngắn, cấp 1: 4 từ, từ cấp 2: 5 từ). Bé xem và nghe từng từ (kèm phiên âm),
+  chép lại, rồi làm bài kiểm tra: nhìn hình, nghe Bi đọc và tự viết. App chấm từng chữ, cho sao
+  và hiện từ bé đã viết; đạt 80% thì mở bộ tiếp theo. Cấp viết mở theo cấp học của bé, và từ
+  của bố mẹ có hàng riêng.
+- **Chữ đổi màu theo giọng Bi**: khi Bi đọc từ, câu, hội thoại hay trò chuyện, chữ tiếng Anh
+  hiện kèm phiên âm và đổi màu đến đâu theo giọng đọc đến đó. Chạm vào một từ để nghe riêng
+  từ đó.
 - **Sao và album hình dán**: mỗi bài học được sao, đổi lấy hình dán. Bi đổi trang phục
   khi bé lên cấp.
 - **Tổ ong của tuần**: mỗi ngày học là một ô tổ ong vàng. Ngày nghỉ không bị phạt, chuỗi
@@ -162,8 +169,8 @@ Bấm bánh răng nhỏ ở góc dưới màn hình chính và trả lời phép
 
 - **Cài đặt học**: giới hạn phút mỗi ngày (mặc định 20), độ dài buổi học (12 phút),
   khung giờ học, nhắc giờ học bằng thông báo, giọng đọc, đọc chậm 0,7x, độ khó chấm phát
-  âm, bật/tắt "Nói chuyện với Bi", mức hỗ trợ tiếng Việt, hoãn đọc chữ tiếng Anh (tự tắt
-  sau 90 ngày), số ngày giữ ghi âm của bé (mặc định 7), mã PIN 4 số.
+  âm, bật/tắt "Nói chuyện với Bi", mức hỗ trợ tiếng Việt, ẩn chữ tiếng Anh, hiện phiên âm,
+  số ngày giữ ghi âm của bé (mặc định 7), mã PIN 4 số.
 - **Bộ từ của bố mẹ**: thêm từ trong sách tiếng Anh ở trường của bé (từ, nghĩa, câu ví
   dụ, hình). App tự tạo giọng đọc, dạy 2 từ mới ngay chặng đầu mỗi bài, ôn theo Leitner,
   và Bi dùng các từ này khi trò chuyện.
@@ -266,8 +273,9 @@ giọng nói).
 **Không tải được "Bộ não của Bi"?** Bỏ qua cũng được. Mọi bài học, ôn tập, kiểm tra đều
 chạy mà không cần gói này.
 
-**Bé chưa đọc được chữ tiếng Việt?** Bật "Hoãn đọc chữ tiếng Anh" trong Cài đặt học. App
-sẽ dùng hình và giọng nói thay cho chữ, và tự tắt sau 90 ngày.
+**Bé chưa đọc được chữ tiếng Việt?** Có thể bật "Ẩn chữ tiếng Anh" trong Cài đặt học: app
+dùng hình và giọng nói thay cho chữ. Mặc định chữ luôn hiện (kèm phiên âm) và đổi màu theo
+giọng Bi đọc để bé nhận mặt chữ.
 
 **Bé đã học tiếng Anh rồi?** Lần đầu bấm "Học hôm nay", app cho bé làm kiểm tra đầu vào
 khoảng 5 phút để xếp vào Level 0 hoặc Level 1. Bố mẹ cũng có thể chọn cấp trong "Hồ sơ

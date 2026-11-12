@@ -21,6 +21,8 @@ import '../features/talk_with_bi/talk_screen.dart';
 import '../features/tests/level_up_screen.dart';
 import '../features/tests/test_result_screen.dart';
 import '../features/write/write_home_screen.dart';
+import '../features/write/write_ladder_screen.dart';
+import '../features/write/write_set_screen.dart';
 
 class AppRoutes {
   const AppRoutes._();
@@ -30,6 +32,8 @@ class AppRoutes {
   static const String lesson = '/lesson';
   static const String talk = '/talk';
   static const String write = '/write';
+  static const String writeWords = '/write/words';
+  static const String writeSet = '/write/set';
   static const String stickers = '/stickers';
   static const String sleep = '/sleep';
   static const String reward = '/reward';
@@ -63,6 +67,17 @@ GoRouter buildRouter({required String initialLocation}) {
       ),
       GoRoute(path: AppRoutes.talk, builder: (context, state) => const TalkScreen()),
       GoRoute(path: AppRoutes.write, builder: (context, state) => const WriteHomeScreen()),
+      GoRoute(path: AppRoutes.writeWords, builder: (context, state) => const WriteLadderScreen()),
+      GoRoute(
+        path: AppRoutes.writeSet,
+        builder: (context, state) {
+          final extra = state.extra;
+          if (extra is WriteSetArgs) {
+            return WriteSetScreen(args: extra);
+          }
+          return const WriteLadderScreen();
+        },
+      ),
       GoRoute(path: AppRoutes.stickers, builder: (context, state) => const StickerAlbumScreen()),
       GoRoute(
         path: AppRoutes.sleep,

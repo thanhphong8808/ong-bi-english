@@ -47,6 +47,8 @@ Widget buildActivity(LessonStep step, {required StepDone onDone, required bool t
       return CopyWordActivity(key: key, step: step, onDone: onDone, testMode: testMode);
     case DictationStep():
       return DictationActivity(key: key, step: step, onDone: onDone, testMode: testMode);
+    case WriteRecallStep():
+      return WriteRecallActivity(key: key, step: step, onDone: onDone, testMode: testMode);
     case WriteSentencesStep():
       return WriteSentencesActivity(key: key, step: step, onDone: onDone, testMode: testMode);
     case ReadingStep():
