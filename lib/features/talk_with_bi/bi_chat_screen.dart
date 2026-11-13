@@ -620,6 +620,11 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
       }
     }
 
+    // A conversation restarting in the background must finish first.
+    await _restarting?.catchError((Object _) {});
+    if (!mounted || run != _run) {
+      return;
+    }
     final hearsAudio = audioPath != null && _services.llm.hearsAudio;
     final prompt = teach
         ? BiChat.teachTurn(text, audio: hearsAudio)
@@ -780,6 +785,11 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
       _afterBi();
     } finally {
       unawaited(sub.cancel());
+      if (!turn.done.isCompleted) {
+        // Never two replies at once: stop what the model is still writing.
+        turn.finish();
+        unawaited(_services.llm.cancel());
+      }
     }
   }
 
@@ -907,9 +917,12 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
     }
     _turns++;
     if (_turns >= BiChat.turnsPerConversation) {
-      unawaited(_newConversation().catchError((Object _) {}));
+      _restarting = _newConversation().catchError((Object _) {}).whenComplete(() => _restarting = null);
     }
   }
+
+  /// A conversation restart in progress (the next turn waits for it).
+  Future<void>? _restarting;
 
   // ------------------------------------------------- "Bi ơi, nói thế nào?"
 
