@@ -93,7 +93,10 @@ class IconTile extends StatelessWidget {
       height: size,
       alignment: Alignment.center,
       decoration: BoxDecoration(color: color, borderRadius: BorderRadius.circular(radius ?? size * 0.3)),
-      child: Text(emoji, style: TextStyle(fontFamily: AppTheme.emojiFont, fontSize: size * 0.56, height: 1.1)),
+      child: Text(
+        emoji,
+        style: TextStyle(fontFamily: AppTheme.emojiFont, fontSize: size * 0.56, height: 1.1),
+      ),
     );
   }
 }
@@ -119,31 +122,37 @@ class PillButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Opacity(
-      opacity: onPressed == null ? 0.45 : 1,
-      child: Material(
-        color: color,
-        borderRadius: BorderRadius.circular(999),
-        elevation: 0,
-        child: InkWell(
+    // Its own accessibility node, so a button inside a card is not merged
+    // into the card's text (TalkBack and taps then find the button itself).
+    return Semantics(
+      container: true,
+      button: true,
+      enabled: onPressed != null,
+      child: Opacity(
+        opacity: onPressed == null ? 0.45 : 1,
+        child: Material(
+          color: color,
           borderRadius: BorderRadius.circular(999),
-          onTap: onPressed,
-          child: Container(
-            padding: EdgeInsets.symmetric(horizontal: big ? 26 : 18, vertical: big ? 14 : 10),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(999),
-              boxShadow: onPressed == null ? null : AppShadows.glow(color),
-            ),
-            child: Row(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                Text(label,
-                    style: TextStyle(fontSize: big ? 20 : 16, fontWeight: FontWeight.w900, color: textColor)),
-                if (icon != null) ...[
-                  const SizedBox(width: 6),
-                  Icon(icon, size: big ? 24 : 20, color: textColor),
+          elevation: 0,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(999),
+            onTap: onPressed,
+            child: Container(
+              padding: EdgeInsets.symmetric(horizontal: big ? 26 : 18, vertical: big ? 14 : 10),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(999),
+                boxShadow: onPressed == null ? null : AppShadows.glow(color),
+              ),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    label,
+                    style: TextStyle(fontSize: big ? 20 : 16, fontWeight: FontWeight.w900, color: textColor),
+                  ),
+                  if (icon != null) ...[const SizedBox(width: 6), Icon(icon, size: big ? 24 : 20, color: textColor)],
                 ],
-              ],
+              ),
             ),
           ),
         ),
@@ -195,7 +204,9 @@ class SectionTitle extends StatelessWidget {
       padding: const EdgeInsets.fromLTRB(4, 18, 4, 10),
       child: Row(
         children: [
-          Expanded(child: Text(text, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w900))),
+          Expanded(
+            child: Text(text, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w900)),
+          ),
           ?trailing,
         ],
       ),
@@ -215,11 +226,7 @@ class StatPill extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-      decoration: BoxDecoration(
-        color: color,
-        borderRadius: BorderRadius.circular(999),
-        boxShadow: AppShadows.soft,
-      ),
+      decoration: BoxDecoration(color: color, borderRadius: BorderRadius.circular(999), boxShadow: AppShadows.soft),
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: [
@@ -281,8 +288,10 @@ class KidBottomNav extends StatelessWidget {
                             color: i == current ? AppColors.honeySoft : Colors.transparent,
                             borderRadius: BorderRadius.circular(999),
                           ),
-                          child: Text(items[i].emoji,
-                              style: const TextStyle(fontFamily: AppTheme.emojiFont, fontSize: 26, height: 1.15)),
+                          child: Text(
+                            items[i].emoji,
+                            style: const TextStyle(fontFamily: AppTheme.emojiFont, fontSize: 26, height: 1.15),
+                          ),
                         ),
                         const SizedBox(height: 2),
                         ExcludeSemantics(

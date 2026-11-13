@@ -283,7 +283,11 @@ if alive; then
   else
     PROBLEMS+=("pocket practice button not found")
   fi
-  echo "pocket progress: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'pocket_v1';")"
+  pocket=$(sql "SELECT setting_value FROM settings WHERE setting_key = 'pocket_v1';")
+  echo "pocket progress: $pocket"
+  if [ "$(echo "$pocket" | grep -o '":\[' | wc -l)" -lt 2 ]; then
+    PROBLEMS+=("the pocket-phrase practice round saved no answers")
+  fi
   check "pocket"
 fi
 
