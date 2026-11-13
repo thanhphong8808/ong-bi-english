@@ -307,6 +307,23 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
     _vocabulary = words;
   }
 
+  /// The Vietnamese for an English word from the curriculum ("dogs" -> "con
+  /// chó"), or the word itself in quotes when the curriculum does not know it.
+  String _viWord(String word) {
+    final w = word.trim().toLowerCase();
+    for (final v in {w, ...wordVariants(w)}) {
+      // "mì, phở" -> "mì"; "con chó" -> "chó" ("cậu thích chó").
+      var vi = (_services.curriculum.itemByWord(v)?.vi ?? '').split(',').first.trim().toLowerCase();
+      if (vi.startsWith('con ') && vi.length > 4) {
+        vi = vi.substring(4);
+      }
+      if (vi.isNotEmpty) {
+        return vi;
+      }
+    }
+    return '"$word"';
+  }
+
   /// Bi's first line: no model call, so it starts at once.
   Future<void> _opener() async {
     final name = _profile?.name ?? '';
@@ -316,23 +333,25 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
     List<BiSuggestion> says;
     final animal = _notesOn ? _notes['animal'] : null;
     final topic = widget.topic;
-    if (topic != null) {
-      final word = topic.words.isNotEmpty ? topic.words[DateTime.now().minute % topic.words.length] : null;
-      en = word == null ? "$hi Let's talk about ${topic.en.toLowerCase()}!" : '$hi Do you like $word?';
-      vi = word == null
-          ? 'Chào cậu! Mình nói về chủ đề ${topic.vi.toLowerCase()} nhé!'
-          : 'Chào cậu! Cậu có thích $word không?';
+    final opener = topic == null ? null : BiChat.topicOpener(topic.id);
+    if (topic != null && opener != null) {
+      en = '$hi ${opener.$1}';
+      vi = 'Chào cậu! ${opener.$2}';
+      says = opener.$3;
+    } else if (topic != null) {
+      en = "$hi Let's talk about ${topic.en.toLowerCase()}! What do you like?";
+      vi = 'Chào cậu! Mình nói về chủ đề ${topic.vi.toLowerCase()} nhé! Cậu thích gì?';
       says = const [
-        BiSuggestion('👍', 'Yes, I do!', 'Có, tớ thích!'),
-        BiSuggestion('👎', "No, I don't.", 'Không, tớ không thích.'),
+        BiSuggestion('👍', 'I like it!', 'Tớ thích lắm!'),
         BiSuggestion('🤔', "I don't know.", 'Tớ không biết.'),
+        BiSuggestion('🐝', 'What do you like?', 'Cậu thích gì?'),
       ];
     } else if (animal != null) {
-      en = '$hi You like $animal. Do you still like $animal?';
-      vi = 'Chào cậu! Cậu thích $animal. Cậu vẫn thích chứ?';
+      en = '$hi I remember you like $animal! Do you still like them?';
+      vi = 'Chào cậu! Tớ nhớ cậu thích ${_viWord(animal)}. Cậu vẫn thích chứ?';
       says = const [
         BiSuggestion('👍', 'Yes, I do!', 'Có chứ!'),
-        BiSuggestion('🙂', 'I like dogs too.', 'Tớ cũng thích chó nữa.'),
+        BiSuggestion('👎', "No, I don't.", 'Không, tớ hết thích rồi.'),
         BiSuggestion('🐝', 'What do you like?', 'Cậu thích gì?'),
       ];
     } else {

@@ -59,6 +59,74 @@ class BiChat {
 
   static int maxWords(int level) => level <= 1 ? 8 : (level <= 3 ? 12 : 16);
 
+  /// Bi's first question for a topic chat (no model call, so it is instant),
+  /// with three answers the child can tap. Null for an unknown topic.
+  static (String en, String vi, List<BiSuggestion> says)? topicOpener(String topicId) =>
+      _topicOpeners[topicId];
+
+  static const Map<String, (String, String, List<BiSuggestion>)> _topicOpeners = {
+    'daily': ('What do you eat for breakfast?', 'Buổi sáng cậu ăn sáng món gì?', [
+      BiSuggestion('🍜', 'I eat noodles.', 'Tớ ăn mì.'),
+      BiSuggestion('🥖', 'I eat bread.', 'Tớ ăn bánh mì.'),
+      BiSuggestion('🍚', 'I eat rice.', 'Tớ ăn cơm.'),
+    ]),
+    'school': ('What do you like to do in class?', 'Ở lớp cậu thích làm gì?', [
+      BiSuggestion('🖍️', 'I like to draw.', 'Tớ thích vẽ.'),
+      BiSuggestion('📖', 'I like to read.', 'Tớ thích đọc sách.'),
+      BiSuggestion('🎵', 'I like to sing.', 'Tớ thích hát.'),
+    ]),
+    'street': ('Do you like cars or bikes?', 'Cậu thích ô tô hay xe đạp?', [
+      BiSuggestion('🚗', 'I like cars.', 'Tớ thích ô tô.'),
+      BiSuggestion('🚲', 'I like bikes.', 'Tớ thích xe đạp.'),
+      BiSuggestion('🚌', 'I like buses.', 'Tớ thích xe buýt.'),
+    ]),
+    'play': ('What do you like to play?', 'Cậu thích chơi gì?', [
+      BiSuggestion('⚽', 'I like to play ball.', 'Tớ thích chơi bóng.'),
+      BiSuggestion('🪁', 'I like to fly a kite.', 'Tớ thích thả diều.'),
+      BiSuggestion('🛝', 'I like the slide.', 'Tớ thích cầu trượt.'),
+    ]),
+    'family': ('Who is in your family?', 'Nhà cậu có những ai?', [
+      BiSuggestion('👨‍👩‍👧', 'Mum, Dad and me.', 'Mẹ, bố và tớ.'),
+      BiSuggestion('👵', 'My grandma.', 'Bà của tớ.'),
+      BiSuggestion('👦', 'My brother.', 'Anh trai tớ.'),
+    ]),
+    'food': ('What is your favourite food?', 'Món cậu thích nhất là gì?', [
+      BiSuggestion('🍜', 'I like noodles.', 'Tớ thích mì.'),
+      BiSuggestion('🍚', 'I like rice.', 'Tớ thích cơm.'),
+      BiSuggestion('🍰', 'I like cake.', 'Tớ thích bánh ngọt.'),
+    ]),
+    'shopping': ('What do you want to buy?', 'Cậu muốn mua gì nào?', [
+      BiSuggestion('🧸', 'A toy, please!', 'Một món đồ chơi ạ!'),
+      BiSuggestion('🍎', 'Some apples.', 'Mấy quả táo.'),
+      BiSuggestion('🍦', 'An ice cream!', 'Một cây kem!'),
+    ]),
+    'health': ('How do you feel today?', 'Hôm nay cậu thấy trong người thế nào?', [
+      BiSuggestion('💪', 'I feel good!', 'Tớ thấy khoẻ lắm!'),
+      BiSuggestion('😴', "I'm tired.", 'Tớ mệt.'),
+      BiSuggestion('🤧', 'I have a cold.', 'Tớ bị cảm.'),
+    ]),
+    'animals': ('What animal do you like?', 'Cậu thích con vật nào?', [
+      BiSuggestion('🐶', 'I like dogs.', 'Tớ thích chó.'),
+      BiSuggestion('🐱', 'I like cats.', 'Tớ thích mèo.'),
+      BiSuggestion('🐟', 'I like fish.', 'Tớ thích cá.'),
+    ]),
+    'weather': ('Is it sunny or rainy today?', 'Hôm nay trời nắng hay mưa?', [
+      BiSuggestion('☀️', "It's sunny.", 'Trời nắng.'),
+      BiSuggestion('🌧️', "It's rainy.", 'Trời mưa.'),
+      BiSuggestion('☁️', "It's cloudy.", 'Trời nhiều mây.'),
+    ]),
+    'feelings': ('Are you happy today?', 'Hôm nay cậu có vui không?', [
+      BiSuggestion('😄', "Yes, I'm happy!", 'Có, tớ vui lắm!'),
+      BiSuggestion('🙂', "I'm OK.", 'Tớ bình thường.'),
+      BiSuggestion('😢', "I'm a little sad.", 'Tớ hơi buồn.'),
+    ]),
+    'holidays': ('Do you like birthday parties?', 'Cậu có thích tiệc sinh nhật không?', [
+      BiSuggestion('🎂', 'Yes, I do!', 'Có, tớ thích!'),
+      BiSuggestion('🍰', 'I love cake!', 'Tớ mê bánh kem!'),
+      BiSuggestion('🏮', 'I like lanterns.', 'Tớ thích đèn lồng.'),
+    ]),
+  };
+
   /// Sampling: warm enough to sound alive, low enough to keep the format.
   static const double temperature = 0.7;
   static const int topK = 40;
@@ -84,7 +152,8 @@ class BiChat {
       );
     }
     if (!c.notes.isEmpty) {
-      out.writeln('Things $name told you before: ${c.notes.describeEn()}. Ask about them sometimes.');
+      out.writeln('Things $name told you before: ${c.notes.describeEn()}. Talk about them sometimes, '
+          'like a friend who remembers ("I remember you like ...!").');
     }
     out
       ..writeln("Today's garden news: ${c.news.en}")
@@ -107,7 +176,8 @@ class BiChat {
       ..writeln('HEARD: what the child said, in their own words and language')
       ..writeln('FIX: the correct short English sentence for the child to say, or -')
       ..writeln('BI: your reply in English')
-      ..writeln('VI: the same reply in natural Vietnamese for a child (Bi says "tớ", the child is "cậu")')
+      ..writeln('VI: the same reply in natural Vietnamese for a child (Bi says "tớ", the child is "cậu"), '
+          'with every English word translated (cats -> mèo)')
       ..writeln('EASY: a very easy yes/no or either/or question about the same thing')
       ..writeln('SAY: emoji | a short English answer the child could say | its Vietnamese')
       ..writeln('SAY: emoji | another answer | Vietnamese')

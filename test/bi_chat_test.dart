@@ -4,6 +4,8 @@
 // these tests feed replies (safe, unsafe, broken, streamed in pieces)
 // through the same parser and checks the chat screen uses, so whatever the
 // model writes, the child only sees and hears child-safe text.
+import 'dart:io';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:ong_bi_english/core/services/content_filter.dart';
 import 'package:ong_bi_english/curriculum/bi_notes.dart';
@@ -198,6 +200,27 @@ void main() {
           }
         }
       }
+    });
+
+    test('every topic has a safe first question with three easy answers', () {
+      final ids = RegExp(r'^@topic (\w+)', multiLine: true)
+          .allMatches(File('assets/talk/chats.txt').readAsStringSync())
+          .map((m) => m.group(1)!)
+          .toList();
+      expect(ids.length, greaterThanOrEqualTo(10));
+      for (final id in ids) {
+        final opener = BiChat.topicOpener(id);
+        expect(opener, isNotNull, reason: id);
+        final (en, vi, says) = opener!;
+        expect(BiChat.speakableEnglish('Hi, Mai! $en', filter, 0), isNotNull, reason: en);
+        expect(en.trim().endsWith('?'), isTrue, reason: en);
+        expect(filter.unsafeText(vi), isFalse, reason: vi);
+        expect(says.length, 3, reason: id);
+        for (final s in says) {
+          expect(BiChat.suggestion('${s.emoji} | ${s.en} | ${s.vi}', filter, 0), isNotNull, reason: s.en);
+        }
+      }
+      expect(BiChat.topicOpener('no_such_topic'), isNull);
     });
 
     test('child turns say whether Bi also hears the recording', () {

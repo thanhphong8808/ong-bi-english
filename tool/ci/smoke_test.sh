@@ -195,8 +195,9 @@ if alive; then
   sleep 3
   $UI shot 10-parent
   $UI list
-  for entry in "Cài đặt học" "Bộ từ của bố mẹ" "Quản lý model" "Kiểm tra hệ thống" "Sao lưu và khôi phục" "Bảng tiến độ" "Hồ sơ của bé" "Nhật ký"; do
-    if $UI tap "$entry" 10; then
+  # The menu sits below the week's dashboard: scroll to each entry.
+  for entry in "Cài đặt học" "Bộ từ của bố mẹ" "Sổ tay của Bi" "Quản lý model" "Kiểm tra hệ thống" "Sao lưu và khôi phục" "Bảng tiến độ" "Hồ sơ của bé" "Nhật ký"; do
+    if $UI seek "$entry"; then
       sleep 4
       safe=$(echo "$entry" | tr ' ' '_')
       case "$entry" in
@@ -235,7 +236,7 @@ if alive; then
       check "parent: $entry"
       adb shell input keyevent KEYCODE_BACK; sleep 3
     else
-      echo "parent entry not found: $entry"
+      echo "parent entry not found: $entry"; PROBLEMS+=("parent entry not found: $entry")
     fi
   done
   adb shell input keyevent KEYCODE_BACK; sleep 3
@@ -369,6 +370,7 @@ if alive; then
   $UI tap "Trò chuyện" 10 && sleep 4
   $UI tap "Hằng ngày" 10 && sleep 4
   $UI tap "Nói tự do với Bi" 10 || echo "WARNING: free chat not offered (brain not installed?)"
+  $UI wait "breakfast" 20 || echo "WARNING: the daily-life chat did not open with its breakfast question"
   for i in 1 2 3 4 5 6; do sleep 20; check "talk +$((i * 20)) s"; done
   $UI shot 13-talk
   $UI list | head -30

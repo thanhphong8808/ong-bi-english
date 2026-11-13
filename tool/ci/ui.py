@@ -12,6 +12,7 @@ Usage:
                              next); with TEXT, stop 75 s after TEXT first shows
   ui.py tapright TEXT [SEC]  tap the button at the right end of the row showing TEXT
   ui.py tapx  TEXT [SEC]     like tap, but the label must be exactly TEXT
+  ui.py seek  TEXT           scroll from the top until TEXT shows, then tap it
   ui.py type  TEXT           type ASCII text into the focused field
   ui.py field N              tap the N-th text field on screen (1 = first)
   ui.py writeset SECONDS     do one writing set: copy and test (draws a stroke,
@@ -25,9 +26,13 @@ whenever it shows up, so it never hides the screen being tested.
 """
 import base64
 import re
+import signal
 import subprocess
 import sys
 import time
+
+# "ui.py list | head" closes the pipe early; end quietly instead of a traceback.
+signal.signal(signal.SIGPIPE, signal.SIG_DFL)
 import xml.etree.ElementTree as ET
 
 OUT = 'smoke-out'
@@ -422,6 +427,20 @@ def main():
         adb('shell', 'input', 'text', sys.argv[2].replace(' ', '%s'))
         print(f'typed {sys.argv[2]!r}')
         return 0
+    if cmd == 'seek':
+        text = sys.argv[2]
+        to_edge(top=True)
+        for _ in range(10):
+            node = find(text, 2)
+            if node is not None and center(node)[1] < 2100:
+                x, y = center(node)
+                adb('shell', 'input', 'tap', str(x), str(y))
+                print(f'tapped {text!r} at {x},{y}')
+                return 0
+            adb('shell', 'input', 'swipe', '540', '1700', '540', '1000', '400')
+            time.sleep(1.2)
+        print(f'NOT FOUND: {text!r}')
+        return 1
     text = sys.argv[2]
     seconds = float(sys.argv[3]) if len(sys.argv) > 3 else 30
     node = find(text, seconds, exact_match=(cmd == 'tapx'))
