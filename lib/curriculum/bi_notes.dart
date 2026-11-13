@@ -7,6 +7,8 @@
 // number, a full name or anything with digits. Pure Dart.
 import 'dart:convert';
 
+import 'basic_words.dart';
+
 class BiNote {
   const BiNote(this.key, this.value, this.day);
 
@@ -124,11 +126,257 @@ class BiNotes {
 
   void remove(String key) => _notes.remove(key);
 
-  String encode() => jsonEncode({for (final n in _notes.values) n.key: {'v': n.value, 't': n.day}});
+  String encode() => jsonEncode({
+    for (final n in _notes.values) n.key: {'v': n.value, 't': n.day},
+  });
 
   /// One line for the model's instructions, e.g. "favourite animal: cats".
-  String describeEn() =>
-      [for (final n in all) '${_phrasesEn[n.key] ?? n.key}: ${n.value}'].join('; ');
+  String describeEn() => [for (final n in all) '${_phrasesEn[n.key] ?? n.key}: ${n.value}'].join('; ');
+
+  /// Words the child may name, by notebook key, for the "I like ..." reading
+  /// that works without the model. Checked in this order ("orange" is a
+  /// colour first).
+  static const Map<String, Set<String>> _known = {
+    'animal': {
+      'dog',
+      'cat',
+      'bird',
+      'fish',
+      'duck',
+      'cow',
+      'pig',
+      'horse',
+      'hen',
+      'chicken',
+      'sheep',
+      'goat',
+      'mouse',
+      'frog',
+      'monkey',
+      'tiger',
+      'bear',
+      'giraffe',
+      'hippo',
+      'lion',
+      'elephant',
+      'rabbit',
+      'bunny',
+      'panda',
+      'penguin',
+      'dolphin',
+      'whale',
+      'shark',
+      'owl',
+      'kangaroo',
+      'turtle',
+      'zebra',
+      'snake',
+      'camel',
+      'puppy',
+      'kitten',
+      'hamster',
+      'parrot',
+      'butterfly',
+      'bee',
+      'ant',
+      'fox',
+      'deer',
+      'crocodile',
+      'octopus',
+      'unicorn',
+      'dinosaur',
+      'dragon',
+    },
+    'colour': {'red', 'blue', 'yellow', 'green', 'orange', 'pink', 'purple', 'black', 'white', 'brown', 'grey', 'gray'},
+    'fruit': {
+      'apple',
+      'banana',
+      'grape',
+      'mango',
+      'pear',
+      'lemon',
+      'watermelon',
+      'pineapple',
+      'coconut',
+      'strawberry',
+      'cherry',
+      'peach',
+      'papaya',
+      'durian',
+      'lychee',
+    },
+    'food': {
+      'rice',
+      'bread',
+      'noodle',
+      'pho',
+      'cake',
+      'pizza',
+      'soup',
+      'egg',
+      'cheese',
+      'chips',
+      'burger',
+      'candy',
+      'sweet',
+      'cookie',
+      'biscuit',
+      'chocolate',
+      'ice cream',
+      'spaghetti',
+      'sushi',
+      'meat',
+      'mooncake',
+    },
+    'toy': {
+      'ball',
+      'doll',
+      'car',
+      'robot',
+      'teddy',
+      'teddy bear',
+      'kite',
+      'puzzle',
+      'block',
+      'lego',
+      'train',
+      'plane',
+      'boat',
+      'truck',
+      'drum',
+      'yo-yo',
+      'balloon',
+    },
+  };
+
+  static const Set<String> _sameInPlural = {
+    'fish',
+    'sheep',
+    'deer',
+    'rice',
+    'bread',
+    'pho',
+    'cheese',
+    'chips',
+    'meat',
+    'lego',
+    'soup',
+    'chocolate',
+    'spaghetti',
+    'sushi',
+    'candy',
+  };
+
+  static final RegExp _likeRe = RegExp(r"\bi (?:really )?(?:like|love)s? (?:a |an |the |my )?([a-z][a-z -]*)");
+  static final RegExp _favouriteRe = RegExp(
+    r"\bmy fav(?:ou?rite)? (colou?r|animal|food|fruit|toy) is (?:a |an |the )?([a-z][a-z -]*)",
+  );
+
+  /// "cat" -> "cats" so Bi can say "I remember you like cats!".
+  static String plural(String word) {
+    if (_sameInPlural.contains(word) || word.endsWith('s') || word.contains(' ')) {
+      return word;
+    }
+    if (word == 'mouse') {
+      return 'mice';
+    }
+    if (word.endsWith('y') && !RegExp('[aeiou]y\$').hasMatch(word)) {
+      return '${word.substring(0, word.length - 1)}ies';
+    }
+    if (word.endsWith('x') || word.endsWith('ch') || word.endsWith('sh') || word == 'mango') {
+      return '${word}es';
+    }
+    return '${word}s';
+  }
+
+  static Set<String> _singulars(String w) => {
+    w,
+    if (w.endsWith('s')) w.substring(0, w.length - 1),
+    if (w.endsWith('es')) w.substring(0, w.length - 2),
+    if (w.endsWith('ies')) '${w.substring(0, w.length - 3)}y',
+    if (w == 'mice') 'mouse',
+  };
+
+  static String? _keyFor(String phrase) {
+    final forms = _singulars(phrase);
+    for (final e in _known.entries) {
+      if (forms.any(e.value.contains)) {
+        return e.key;
+      }
+    }
+    return null;
+  }
+
+  /// A fact read straight from what the child said ("I like cats",
+  /// "My favourite colour is blue"), without the model. Null when nothing
+  /// fits.
+  static (String, String)? fromChild(String said) {
+    final t = said.toLowerCase().replaceAll(RegExp(r"[^a-z' -]"), ' ').replaceAll(RegExp(r'\s+'), ' ');
+    final fav = _favouriteRe.firstMatch(t);
+    if (fav != null) {
+      final key = fav.group(1)!.startsWith('col') ? 'colour' : fav.group(1)!;
+      final value = fav.group(2)!.trim().split(' ').take(2).join(' ');
+      if (_keyFor(value) == key || key == 'colour' && _known['colour']!.contains(value)) {
+        return (key, key == 'animal' ? plural(value) : value);
+      }
+      return null;
+    }
+    final like = _likeRe.firstMatch(t);
+    if (like == null) {
+      return null;
+    }
+    final words = like.group(1)!.trim().split(' ');
+    // "ice cream", "teddy bear" before "ice", "teddy".
+    for (final phrase in [if (words.length > 1) '${words[0]} ${words[1]}', words[0]]) {
+      final key = _keyFor(phrase);
+      if (key != null) {
+        return (key, key == 'animal' ? plural(phrase) : phrase);
+      }
+    }
+    return null;
+  }
+
+  /// True when the child really said [value]: each of its words (or a
+  /// plural/singular form) is in [said], which holds what the child said and
+  /// the corrected English sentence. Stops the model from writing down
+  /// things the child never told Bi. A "today" or "wish" line needs one
+  /// grounded word, since Bi retells it in its own words.
+  static bool grounded(String key, String value, String said) {
+    final heard = <String>{};
+    for (final w in RegExp("[a-z']+").allMatches(said.toLowerCase())) {
+      final word = w.group(0)!;
+      heard
+        ..add(word)
+        ..add(plural(word));
+      if (word.endsWith('s')) {
+        heard.add(word.substring(0, word.length - 1));
+      }
+      if (word.endsWith('ies')) {
+        heard.add('${word.substring(0, word.length - 3)}y');
+      }
+    }
+    const small = {'a', 'an', 'the', 'my', 'to', 'and', 'of', 'in', 'on', 'with', 'go', 'play', 'playing'};
+    final words = [
+      for (final w in RegExp("[a-z']+").allMatches(value.toLowerCase())) w.group(0)!,
+    ].where((w) => !small.contains(w)).toList();
+    if (words.isEmpty) {
+      return false;
+    }
+    final found = words.where((w) => wordVariants(w).any(heard.contains)).length;
+    return (key == 'today' || key == 'wish') ? found >= 1 : found == words.length;
+  }
+
+  /// The fact to keep after one turn: the model's NOTE when the child really
+  /// said it, else what "I like ..." in the child's words gives, else null.
+  static (String, String)? choose((String, String)? modelNote, String said) {
+    if (modelNote != null &&
+        validate(modelNote.$1, modelNote.$2) != null &&
+        grounded(modelNote.$1, modelNote.$2, said)) {
+      final (key, value) = modelNote;
+      return (key, key == 'animal' && !value.contains(' ') ? plural(value.toLowerCase()) : value);
+    }
+    return fromChild(said);
+  }
 
   /// Parses a model line "key=value" (or "key: value").
   static (String, String)? parseLine(String line) {

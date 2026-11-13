@@ -65,7 +65,7 @@ class BiChat {
       _topicOpeners[topicId];
 
   static const Map<String, (String, String, List<BiSuggestion>)> _topicOpeners = {
-    'daily': ('What do you eat for breakfast?', 'Buổi sáng cậu ăn sáng món gì?', [
+    'daily': ('What do you eat for breakfast?', 'Bữa sáng cậu hay ăn gì?', [
       BiSuggestion('🍜', 'I eat noodles.', 'Tớ ăn mì.'),
       BiSuggestion('🥖', 'I eat bread.', 'Tớ ăn bánh mì.'),
       BiSuggestion('🍚', 'I eat rice.', 'Tớ ăn cơm.'),
@@ -182,8 +182,8 @@ class BiChat {
       ..writeln('SAY: emoji | a short English answer the child could say | its Vietnamese')
       ..writeln('SAY: emoji | another answer | Vietnamese')
       ..writeln('SAY: emoji | another answer | Vietnamese')
-      ..writeln('NOTE: key=value for one new safe fact the child told you (keys: colour, animal, food, fruit, toy, '
-          'game, place, pet, pet_name, hobby, today, wish), or -')
+      ..writeln('NOTE: key=value for one new safe fact the child just said in this message (keys: colour, animal, '
+          'food, fruit, toy, game, place, pet, pet_name, hobby, today, wish), or - when the child told you nothing new')
       ..writeln()
       ..writeln('When the message starts with TEACH, the child asked in Vietnamese how to say something in English. '
           'Then answer in this format:')

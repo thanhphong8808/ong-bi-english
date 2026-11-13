@@ -358,7 +358,10 @@ if alive; then
     PROBLEMS+=("chat keyboard button not found")
   fi
   echo "chat lines: $(sql "SELECT role || ': ' || content FROM chat_logs WHERE session_id LIKE 'chat-%' ORDER BY id;" | tr '\n' ' / ')"
-  echo "bi notebook: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'bi_notes';")"
+  notebook=$(sql "SELECT setting_value FROM settings WHERE setting_key = 'bi_notes';")
+  echo "bi notebook: $notebook"
+  echo "$notebook" | grep -q 'cat' || PROBLEMS+=("Bi did not write down 'I like cats' in its notebook")
+  echo "$notebook" | grep -q 'toys' && PROBLEMS+=("Bi wrote down something the child never said")
   # Bi's own answers after "I like cats" (not the fixed fallback lines).
   replies=$(sql "SELECT COUNT(*) FROM chat_logs WHERE session_id LIKE 'chat-%' AND role = 'bi' AND id > (SELECT COALESCE(MAX(id), 0) FROM chat_logs WHERE session_id LIKE 'chat-%' AND role = 'kid' AND content LIKE '%cats%') AND content NOT LIKE 'Hmm!%' AND content NOT LIKE 'Let''s talk about something fun%';")
   echo "Bi's answers from its brain after the typed message: ${replies:-0}"
@@ -370,7 +373,7 @@ if alive; then
   $UI tap "Trò chuyện" 10 && sleep 4
   $UI tap "Hằng ngày" 10 && sleep 4
   $UI tap "Nói tự do với Bi" 10 || echo "WARNING: free chat not offered (brain not installed?)"
-  $UI wait "breakfast" 20 || echo "WARNING: the daily-life chat did not open with its breakfast question"
+  $UI wait "breakfast" 90 || echo "WARNING: the daily-life chat did not open with its breakfast question"
   for i in 1 2 3 4 5 6; do sleep 20; check "talk +$((i * 20)) s"; done
   $UI shot 13-talk
   $UI list | head -30

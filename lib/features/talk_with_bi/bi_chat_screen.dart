@@ -783,6 +783,9 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
       if (bi == null || turn.unsafe) {
         await sub.cancel();
         await _fallback(turn.unsafe);
+        if (!turn.unsafe) {
+          await _keepNote(BiNotes.fromChild(text));
+        }
         return;
       }
       await turn.viReady.future.timeout(const Duration(seconds: 4), onTimeout: () {});
@@ -799,7 +802,8 @@ class _BiChatScreenState extends ConsumerState<BiChatScreen> {
           _highlight = -1;
         });
       }
-      await _keepNote(turn.note);
+      // Only what the child really said goes into the notebook.
+      await _keepNote(BiNotes.choose(turn.note, '$text ${turn.heard} ${turn.fix ?? ''}'));
       _remember(turn);
       _afterBi();
     } finally {

@@ -166,6 +166,34 @@ void main() {
       expect(again['animal'], 'cats');
       expect(again.describeEn(), 'favourite animal: cats');
     });
+
+    test('only what the child really said is written down', () {
+      // The model wrote a hobby the child never mentioned: rejected, and
+      // "I like cats" is read straight from the child's words instead.
+      expect(BiNotes.choose(('hobby', 'toys'), 'I like cats  -'), ('animal', 'cats'));
+      expect(BiNotes.choose(('animal', 'cats'), 'con thích con mèo con thích con mèo I like cats.'), ('animal', 'cats'));
+      expect(BiNotes.choose(('animal', 'cat'), 'I like cat I like cats.'), ('animal', 'cats'));
+      expect(BiNotes.choose(('hobby', 'drawing'), 'I like to draw'), ('hobby', 'drawing'));
+      expect(BiNotes.choose(('pet_name', 'Mimi'), 'my cat is mimi'), ('pet_name', 'Mimi'));
+      expect(BiNotes.choose(('today', 'went to the zoo'), 'i go zoo I went to the zoo.'), ('today', 'went to the zoo'));
+      expect(BiNotes.choose(null, 'Yes, I do!'), isNull);
+      expect(BiNotes.choose(('food', 'pizza'), 'Yes, I do!'), isNull);
+    });
+
+    test('"I like ..." is understood without the model', () {
+      expect(BiNotes.fromChild('I like cats'), ('animal', 'cats'));
+      expect(BiNotes.fromChild('i love puppy'), ('animal', 'puppies'));
+      expect(BiNotes.fromChild('I like ice cream!'), ('food', 'ice cream'));
+      expect(BiNotes.fromChild('I like orange.'), ('colour', 'orange'));
+      expect(BiNotes.fromChild('My favourite colour is blue'), ('colour', 'blue'));
+      expect(BiNotes.fromChild('My favorite animal is a mouse'), ('animal', 'mice'));
+      expect(BiNotes.fromChild("I don't like cats"), isNull);
+      expect(BiNotes.fromChild('I like to draw'), isNull);
+      expect(BiNotes.fromChild('I like you'), isNull);
+      expect(BiNotes.plural('fish'), 'fish');
+      expect(BiNotes.plural('fox'), 'foxes');
+      expect(BiNotes.plural('monkey'), 'monkeys');
+    });
   });
 
   group('instructions for the model', () {
