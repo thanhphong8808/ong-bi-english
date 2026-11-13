@@ -52,7 +52,8 @@ class WeekHoney extends StatelessWidget {
               decoration: BoxDecoration(
                 color: AppColors.white,
                 borderRadius: BorderRadius.circular(20),
-                border: Border.all(color: AppColors.ink, width: 2),
+                border: Border.all(color: AppColors.line, width: 1.5),
+                boxShadow: AppShadows.soft,
               ),
               child: Row(
                 mainAxisSize: MainAxisSize.min,
@@ -91,11 +92,11 @@ class _HexPainter extends CustomPainter {
       }
     }
     path.close();
-    canvas.drawPath(path, Paint()..color = filled ? AppColors.honey : AppColors.white);
+    canvas.drawPath(path, Paint()..color = filled ? AppColors.honey : AppColors.honeySoft);
     canvas.drawPath(
       path,
       Paint()
-        ..color = AppColors.ink
+        ..color = today || filled ? AppColors.honeyDeep : AppColors.line
         ..style = PaintingStyle.stroke
         ..strokeWidth = today ? 3.5 : 2,
     );

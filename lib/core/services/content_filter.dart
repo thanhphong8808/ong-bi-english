@@ -208,6 +208,25 @@ class ContentFilter {
     return FilterResult(FilterVerdict.ok, FilterReason.none, trimmed);
   }
 
+  /// Safety rules without any length rule, for text that is shown or read
+  /// in Vietnamese (Bi's translations, suggested answers). True when the
+  /// text must not be shown.
+  bool unsafeText(String text) {
+    final trimmed = text.trim();
+    if (trimmed.isEmpty) {
+      return false;
+    }
+    if (_url.hasMatch(trimmed) || _phone.hasMatch(trimmed) || _address.hasMatch(trimmed)) {
+      return true;
+    }
+    final n = normalise(trimmed);
+    return _containsAny(n, _secrecy) ||
+        _containsAny(n, _personalQuestions) ||
+        _containsAny(n, _bannedEn) ||
+        _containsAny(n, _outputOnlyEn) ||
+        _containsAny(n, _bannedVi);
+  }
+
   /// Checks a model reply before it is spoken. [level] is the child's level.
   /// What Bi would actually say from a whole [reply], with the same rules
   /// as a live conversation: sentences that are too long are skipped,

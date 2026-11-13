@@ -103,7 +103,8 @@ class _TraceState extends ActivityState<TraceActivity> {
               decoration: BoxDecoration(
                 color: AppColors.white,
                 borderRadius: BorderRadius.circular(24),
-                border: Border.all(color: AppColors.ink, width: 3),
+                border: Border.all(color: AppColors.line, width: 1.5),
+                boxShadow: AppShadows.soft,
               ),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(22),
@@ -340,7 +341,8 @@ class _DictationState extends _InkState<DictationActivity> {
             decoration: BoxDecoration(
               color: AppColors.white,
               borderRadius: BorderRadius.circular(20),
-              border: Border.all(color: AppColors.ink, width: 3),
+              border: Border.all(color: AppColors.line, width: 1.5),
+              boxShadow: AppShadows.soft,
             ),
             child: Sparkles(active: celebrating, child: BigWord(_typed.isEmpty ? ' ' : _typed, size: 36)),
           ),
@@ -530,7 +532,8 @@ class _WordBuilderState extends ActivityState<WordBuilderActivity> {
                   decoration: BoxDecoration(
                     color: i < _filled ? AppColors.honey : AppColors.white,
                     borderRadius: BorderRadius.circular(12),
-                    border: Border.all(color: AppColors.ink, width: 2.5),
+                    border: Border.all(color: AppColors.line, width: 1.5),
+                    boxShadow: AppShadows.soft,
                   ),
                   child: BigWord(i < _filled ? _word[i] : '', size: 36),
                 ),
@@ -679,7 +682,8 @@ class _WriteSentencesState extends _InkState<WriteSentencesActivity> {
           decoration: BoxDecoration(
             color: AppColors.white,
             borderRadius: BorderRadius.circular(16),
-            border: Border.all(color: AppColors.ink, width: 2),
+            border: Border.all(color: AppColors.line, width: 1.5),
+            boxShadow: AppShadows.soft,
           ),
           child: SingleChildScrollView(
             child: Text(

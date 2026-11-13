@@ -45,7 +45,7 @@ restart() {
 }
 sql() { adb shell "sqlite3 $DB \"$1\"" 2>/dev/null | tr -d '\r'; }
 studied() { sql "SELECT COALESCE(SUM(seconds),0) FROM study_days WHERE day = date('now','localtime');"; }
-home_gear() { adb shell input tap 996 2264; }
+home_gear() { $UI tap "Phụ huynh" 10 || adb shell input tap 1000 150; }
 
 step "Device"
 adb shell getprop ro.product.cpu.abilist
@@ -176,7 +176,7 @@ if alive; then
   $UI shot 09b2-home-after-badge
   echo "study days: $(sql "SELECT day, seconds, lessons_done FROM study_days;" | tr '\n' ' ')"
   echo "badges: $(sql "SELECT sticker_id FROM rewards WHERE sticker_id LIKE 'badge:%';" | tr '\n' ' ')"
-  if $UI tapx "🎁" 10; then
+  if $UI tap "Quà" 10; then
     sleep 4
     $UI shot 09c-album
     $UI list | head -30
@@ -248,6 +248,46 @@ sql "INSERT OR REPLACE INTO settings (profile_id, setting_key, setting_value) VA
 launch 15
 check "restart with a longer daily limit"
 if alive; then
+  step "Chào Bi mỗi ngày (the morning hello)"
+  $UI list | head -20
+  $UI tap "Chào Bi mỗi ngày" 15 && sleep 15
+  $UI shot 12h-hello-start
+  $UI guided 360 || PROBLEMS+=("the morning hello did not reach its end")
+  check "hello"
+  sleep 8
+  $UI shot 12h-hello-end
+  echo "hello: last=$(sql "SELECT setting_value FROM settings WHERE setting_key = 'hello_last';") mission=$(sql "SELECT setting_value FROM settings WHERE setting_key = 'hello_mission';")"
+  echo "bi notebook: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'bi_notes';")"
+  [ -z "$(sql "SELECT setting_value FROM settings WHERE setting_key = 'hello_last';")" ] && PROBLEMS+=("the morning hello was not saved")
+  adb shell input keyevent KEYCODE_BACK; sleep 5
+  $UI list | head -20
+  $UI shot 12h-home-after-hello
+fi
+
+restart 15
+if alive; then
+  step "Câu bỏ túi (pocket phrases)"
+  $UI tap "Câu bỏ túi" 15 && sleep 8
+  $UI shot 12p-pocket
+  $UI list | head -24
+  if $UI tap "Luyện tập" 10; then
+    sleep 20
+    $UI shot 12p-practice
+    for i in 1 2 3 4 5; do
+      $UI tap "Micro" 10 || true
+      sleep 22
+    done
+    $UI shot 12p-practice-end
+    $UI list | head -20
+  else
+    PROBLEMS+=("pocket practice button not found")
+  fi
+  echo "pocket progress: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'pocket_v1';")"
+  check "pocket"
+fi
+
+restart 15
+if alive; then
   step "Talk with Bi: a guided chat (Hằng ngày)"
   $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
   $UI shot 12-talk-home
@@ -297,20 +337,43 @@ fi
 
 restart 15
 if alive; then
-  step "Talk with Bi: free chat with Bi's brain"
+  step "Chat với Bi: the brain hears, thinks and answers"
   $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
+  $UI shot 13c-talk-home
+  $UI tap "Chat với Bi" 10 && sleep 5
+  # Gemma loads on the emulator CPU; Bi greets, then helps a silent child
+  # (an easier question, then a sentence to copy), then waits for a tap.
+  for i in 1 2 3 4 5 6 7 8 9; do sleep 20; check "chat +$((i * 20)) s"; done
+  $UI shot 13c-chat-silence
+  $UI list | head -40
+  if $UI tap "Gõ chữ" 10; then
+    sleep 3
+    $UI field 1 && sleep 1 && $UI type "I like cats" && sleep 1
+    $UI tap "Gửi" 5 || adb shell input keyevent KEYCODE_ENTER
+    for i in 1 2 3 4 5 6 7 8 9; do sleep 20; check "chat reply +$((i * 20)) s"; done
+    $UI shot 13c-chat-reply
+    $UI list | head -50
+  else
+    PROBLEMS+=("chat keyboard button not found")
+  fi
+  echo "chat lines: $(sql "SELECT role || ': ' || content FROM chat_logs WHERE session_id LIKE 'chat-%' ORDER BY id;" | tr '\n' ' / ')"
+  echo "bi notebook: $(sql "SELECT setting_value FROM settings WHERE setting_key = 'bi_notes';")"
+  # Bi's own answers after "I like cats" (not the fixed fallback lines).
+  replies=$(sql "SELECT COUNT(*) FROM chat_logs WHERE session_id LIKE 'chat-%' AND role = 'bi' AND id > (SELECT COALESCE(MAX(id), 0) FROM chat_logs WHERE session_id LIKE 'chat-%' AND role = 'kid' AND content LIKE '%cats%') AND content NOT LIKE 'Hmm!%' AND content NOT LIKE 'Let''s talk about something fun%';")
+  echo "Bi's answers from its brain after the typed message: ${replies:-0}"
+  [ "${replies:-0}" -ge 1 ] || PROBLEMS+=("the chat with Bi produced no answer from the model")
+  adb logcat -d -s flutter 2>/dev/null | grep -iE "llm|gemma|speech:" | tail -20 || true
+  adb shell input keyevent KEYCODE_BACK; sleep 4
+
+  step "Talk with Bi: free chat inside a topic"
   $UI tap "Trò chuyện" 10 && sleep 4
   $UI tap "Hằng ngày" 10 && sleep 4
   $UI tap "Nói tự do với Bi" 10 || echo "WARNING: free chat not offered (brain not installed?)"
   for i in 1 2 3 4 5 6; do sleep 20; check "talk +$((i * 20)) s"; done
   $UI shot 13-talk
-  $UI list
-  # The child presses the microphone (the emulator hears silence).
-  adb shell input tap 540 2150
-  sleep 60
+  $UI list | head -30
   check "talk reply"
   $UI shot 14-talk-reply
-  $UI list
 fi
 
 restart 15

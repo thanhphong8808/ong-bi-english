@@ -304,6 +304,38 @@ customer: Here you are. Goodbye! | Tiền đây ạ. Cháu chào cô!
 waiter: Thank you. Come again! | Cảm ơn cháu. Lần sau lại đến nhé!
 -> end
 
+=== role banh_mi_cart
+topic: food
+emoji: 🥖
+title: At the banh mi cart | Ở xe bánh mì
+level: 0
+roles: seller=Seller|Cô bán hàng|👩‍🍳, customer=Customer|Khách|🧒
+
+[start]
+pic: 🥖
+seller: Good morning! Banh mi, hot banh mi! | Chào cháu! Bánh mì nóng đây!
+customer: Good morning! One banh mi, please. | Cháu chào cô! Cho cháu một ổ bánh mì ạ.
+seller: What would you like in it? | Cháu muốn kẹp gì nào?
+? customer
+- 🍳 Egg, please. | Cho cháu trứng ạ.
+- 🍖 Meat, please. | Cho cháu thịt ạ.
+- 🧀 Cheese, please. | Cho cháu phô mai ạ.
+[veg]
+seller: Do you want cucumber? | Cháu có ăn dưa chuột không?
+? customer
+- 👍 Yes, please. | Có ạ.
+- 🙅 No, thank you. | Thôi ạ, cháu cảm ơn.
+[pay]
+pic: 💵
+customer: How much is it? | Bao nhiêu tiền ạ?
+? seller
+- 💵 It's twenty thousand dong. | Hai mươi nghìn đồng.
+- 💵 It's twenty-five thousand dong. | Hai mươi lăm nghìn đồng.
+[bye]
+customer: Here you are. Thank you! | Tiền đây ạ. Cháu cảm ơn cô!
+seller: Thank you! Have a nice day! | Cảm ơn cháu! Chúc cháu một ngày vui nhé!
+-> end
+
 === role bakery
 topic: food
 emoji: 🧁

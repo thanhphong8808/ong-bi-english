@@ -291,7 +291,8 @@ class _SayState extends ActivityState<SayActivity> with _MicJudge<SayActivity> {
                     decoration: BoxDecoration(
                       color: AppColors.white,
                       borderRadius: BorderRadius.circular(22),
-                      border: Border.all(color: AppColors.ink, width: 2),
+                      border: Border.all(color: AppColors.line, width: 1.5),
+                      boxShadow: AppShadows.soft,
                     ),
                     child: SpokenText(widget.step.text, fontSize: _sentence ? 30 : 46),
                   ),

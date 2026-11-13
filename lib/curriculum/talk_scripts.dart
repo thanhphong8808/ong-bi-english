@@ -17,6 +17,7 @@
 //
 //   [start]
 //   pic: 🌅
+//   scene: 1                              (stories: illustration number)
 //   bi: Good morning! How are you? | Chào buổi sáng! Cậu thế nào?
 //   ? kid
 //   - 😀 I'm happy! | Tớ vui! -> happy
@@ -68,6 +69,14 @@ class TalkPicture extends TalkItem {
   const TalkPicture(this.emoji);
 
   final String emoji;
+}
+
+/// A story illustration, `assets/story_art/{script id}_{index}.webp` with a
+/// two-digit index, shown when that picture is in the app (00 is the cover).
+class TalkScene extends TalkItem {
+  const TalkScene(this.index);
+
+  final int index;
 }
 
 class TalkOption {
@@ -352,6 +361,14 @@ class _ScriptBuilder {
     }
     if (line.startsWith('pic:')) {
       _items[block]!.add(TalkPicture(line.substring(4).trim()));
+      return;
+    }
+    if (line.startsWith('scene:')) {
+      final index = int.tryParse(line.substring(6).trim());
+      if (index == null || index < 0 || index > 20) {
+        throw TalkFormatException('$where: "scene: <number 0-20>" in $id');
+      }
+      _items[block]!.add(TalkScene(index));
       return;
     }
     final colon = line.indexOf(':');

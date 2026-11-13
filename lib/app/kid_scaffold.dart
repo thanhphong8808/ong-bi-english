@@ -4,7 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../core/providers.dart';
 import '../l10n/strings_vi.dart';
-import 'theme.dart';
+import '../widgets/ui_kit.dart';
 
 /// Frame for every kid-mode screen.
 ///
@@ -73,16 +73,22 @@ class _KidScaffoldState extends ConsumerState<KidScaffold> {
               child: Row(
                 children: [
                   if (widget.showBack)
-                    _RoundIconButton(
-                      icon: Icons.arrow_back_rounded,
-                      semanticLabel: S.back,
-                      onPressed: widget.onBack ?? () => Navigator.of(context).maybePop(),
+                    Padding(
+                      padding: const EdgeInsets.only(right: 10),
+                      child: RoundIconButton(
+                        icon: Icons.arrow_back_rounded,
+                        semanticLabel: S.back,
+                        onPressed: widget.onBack ?? () => Navigator.of(context).maybePop(),
+                      ),
                     ),
                   if (widget.instructionVi.isNotEmpty)
-                    _RoundIconButton(
-                      icon: Icons.volume_up_rounded,
-                      semanticLabel: S.listenAgain,
-                      onPressed: _speak,
+                    Padding(
+                      padding: const EdgeInsets.only(right: 10),
+                      child: RoundIconButton(
+                        icon: Icons.volume_up_rounded,
+                        semanticLabel: S.listenAgain,
+                        onPressed: _speak,
+                      ),
                     ),
                   const Spacer(),
                   if (widget.topRight != null) widget.topRight!,
@@ -98,34 +104,3 @@ class _KidScaffoldState extends ConsumerState<KidScaffold> {
   }
 }
 
-class _RoundIconButton extends StatelessWidget {
-  const _RoundIconButton({
-    required this.icon,
-    required this.semanticLabel,
-    required this.onPressed,
-  });
-
-  final IconData icon;
-  final String semanticLabel;
-  final VoidCallback onPressed;
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.only(right: 10),
-      child: Material(
-        color: AppColors.white,
-        shape: const CircleBorder(side: BorderSide(color: AppColors.ink, width: 2.5)),
-        child: InkWell(
-          customBorder: const CircleBorder(),
-          onTap: onPressed,
-          child: SizedBox(
-            width: 64,
-            height: 64,
-            child: Icon(icon, size: 36, color: AppColors.ink, semanticLabel: semanticLabel),
-          ),
-        ),
-      ),
-    );
-  }
-}

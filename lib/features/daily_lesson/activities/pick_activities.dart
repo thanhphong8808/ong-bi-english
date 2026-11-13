@@ -493,7 +493,11 @@ class _ColorState extends ActivityState<ColorActivity> {
                   decoration: BoxDecoration(
                     color: entry.value,
                     shape: BoxShape.circle,
-                    border: Border.all(color: AppColors.ink, width: _brush == entry.key ? 5 : 3),
+                    border: Border.all(
+                      color: _brush == entry.key ? AppColors.ink : AppColors.line,
+                      width: _brush == entry.key ? 5 : 2,
+                    ),
+                    boxShadow: AppShadows.soft,
                   ),
                 ),
               ),
@@ -547,7 +551,8 @@ class _TrueFalseState extends _PickState<TrueFalseActivity> {
           decoration: BoxDecoration(
             color: AppColors.white,
             borderRadius: BorderRadius.circular(20),
-            border: Border.all(color: AppColors.ink, width: 2),
+            border: Border.all(color: AppColors.line, width: 1.5),
+            boxShadow: AppShadows.soft,
           ),
           child: BigWord(widget.step.text, size: 32),
         ),
@@ -613,7 +618,8 @@ class _FillBlankState extends _PickState<FillBlankActivity> {
           decoration: BoxDecoration(
             color: AppColors.white,
             borderRadius: BorderRadius.circular(20),
-            border: Border.all(color: AppColors.ink, width: 2),
+            border: Border.all(color: AppColors.line, width: 1.5),
+            boxShadow: AppShadows.soft,
           ),
           child: BigWord(shown, size: 32),
         ),
@@ -677,7 +683,8 @@ class _ReadingState extends _PickState<ReadingActivity> {
             decoration: BoxDecoration(
               color: AppColors.white,
               borderRadius: BorderRadius.circular(20),
-              border: Border.all(color: AppColors.ink, width: 2),
+              border: Border.all(color: AppColors.line, width: 1.5),
+              boxShadow: AppShadows.soft,
             ),
             child: SingleChildScrollView(
               child: Column(

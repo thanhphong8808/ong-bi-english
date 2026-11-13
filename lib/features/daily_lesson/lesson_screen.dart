@@ -444,7 +444,8 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
                         decoration: BoxDecoration(
                           color: slow ? AppColors.leaf : AppColors.white,
                           shape: BoxShape.circle,
-                          border: Border.all(color: AppColors.ink, width: 3),
+                          border: Border.all(color: AppColors.line, width: 1.5),
+                          boxShadow: AppShadows.soft,
                         ),
                         child: Text(
                           slow ? '🐢' : '🐇',

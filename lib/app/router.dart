@@ -20,7 +20,9 @@ import '../features/setup/setup_screen.dart';
 import '../curriculum/talk_scripts.dart';
 import '../features/talk_with_bi/guided_talk_screen.dart';
 import '../features/talk_with_bi/talk_home_screen.dart';
-import '../features/talk_with_bi/talk_screen.dart';
+import '../features/talk_with_bi/bi_chat_screen.dart';
+import '../features/pocket/pocket_screen.dart';
+import '../features/parent/notes_screen.dart';
 import '../features/tests/level_up_screen.dart';
 import '../features/tests/test_result_screen.dart';
 import '../features/write/write_ladder_screen.dart';
@@ -36,6 +38,8 @@ class AppRoutes {
   static const String write = '/write';
   static const String talkGuided = '/talk/guided';
   static const String talkFree = '/talk/free';
+  static const String chat = '/talk/chat';
+  static const String pocket = '/pocket';
   static const String writeSet = '/write/set';
   static const String stickers = '/stickers';
   static const String sleep = '/sleep';
@@ -51,6 +55,7 @@ class AppRoutes {
   static const String parentChats = '/parent/chats';
   static const String parentData = '/parent/data';
   static const String parentWords = '/parent/words';
+  static const String parentNotes = '/parent/notes';
 }
 
 /// The parent routes are only ever pushed after the parent gate succeeds
@@ -68,7 +73,12 @@ GoRouter buildRouter({required String initialLocation}) {
           return LessonScreen(request: extra is LessonRequest ? extra : const LessonRequest());
         },
       ),
-      GoRoute(path: AppRoutes.talk, builder: (context, state) => const TalkHomeScreen()),
+      GoRoute(
+        path: AppRoutes.talk,
+        builder: (context, state) => TalkHomeScreen(startWithStories: state.extra == 'stories'),
+      ),
+      GoRoute(path: AppRoutes.chat, builder: (context, state) => const BiChatScreen()),
+      GoRoute(path: AppRoutes.pocket, builder: (context, state) => const PocketScreen()),
       GoRoute(
         path: AppRoutes.talkGuided,
         builder: (context, state) {
@@ -80,7 +90,7 @@ GoRouter buildRouter({required String initialLocation}) {
         path: AppRoutes.talkFree,
         builder: (context, state) {
           final extra = state.extra;
-          return extra is TalkTopic ? TalkScreen(topic: extra) : const TalkHomeScreen();
+          return BiChatScreen(topic: extra is TalkTopic ? extra : null);
         },
       ),
       GoRoute(path: AppRoutes.write, builder: (context, state) => const WriteLadderScreen()),
@@ -135,6 +145,7 @@ GoRouter buildRouter({required String initialLocation}) {
           GoRoute(path: 'chats', builder: (context, state) => const ChatLogScreen()),
           GoRoute(path: 'data', builder: (context, state) => const DataScreen()),
           GoRoute(path: 'words', builder: (context, state) => const ParentWordsScreen()),
+          GoRoute(path: 'notes', builder: (context, state) => const NotesScreen()),
         ],
       ),
     ],

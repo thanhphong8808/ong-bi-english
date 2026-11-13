@@ -12,6 +12,7 @@ moral: Slow and steady wins the race. | Chậm mà chắc, kiên trì đến cù
 
 [start]
 pic: 🐇🐢
+scene: 1
 bi: This is Hare. Hare is very fast. | Đây là Thỏ. Thỏ chạy rất nhanh.
 bi: This is Tortoise. Tortoise is very slow. | Đây là Rùa. Rùa đi rất chậm.
 hare: Ha ha! You are so slow, Tortoise! | Ha ha! Cậu chậm quá, Rùa ơi!
@@ -22,9 +23,11 @@ bi: Who will win? What do you think? | Ai sẽ thắng? Bé nghĩ sao?
 - 🐢 Tortoise will win. | Rùa sẽ thắng.
 [race]
 pic: 🏁
+scene: 2
 bi: Ready, steady, go! Hare runs fast. | Chuẩn bị, sẵn sàng, chạy! Thỏ chạy thật nhanh.
 bi: Hare looks back. Tortoise is far away. | Thỏ ngoái lại. Rùa còn ở tận đằng xa.
 hare: I can sleep a little. | Mình ngủ một chút cũng được.
+scene: 3
 bi: Hare sleeps under a tree. | Thỏ ngủ dưới gốc cây.
 bi: Is that a good idea? | Làm thế có tốt không?
 ? kid
@@ -36,11 +39,13 @@ bi: Hmm, let's see what happens. | Hừm, mình xem chuyện gì xảy ra nhé.
 [right]
 bi: You are right. Let's see! | Bé nói đúng đấy. Mình xem tiếp nhé!
 [walk]
+scene: 4
 pic: 🐢
 bi: Tortoise walks and walks. He never stops. | Rùa đi mãi, đi mãi. Rùa không bao giờ dừng lại.
 tortoise: Slowly, slowly, step by step. | Chậm thôi, chậm thôi, từng bước một.
 bi: Tortoise passes the sleeping hare. | Rùa vượt qua Thỏ đang ngủ.
 [finish]
+scene: 5
 pic: 🏆
 bi: Hare wakes up. Oh no! Tortoise is at the finish line! | Thỏ thức dậy. Ôi không! Rùa đã về đích rồi!
 bi: Tortoise wins the race! | Rùa thắng cuộc!
@@ -61,8 +66,10 @@ moral: Be kind. Little friends can help too. | Hãy tốt bụng. Bạn nhỏ b�
 
 [start]
 pic: 🦁
+scene: 1
 bi: A big lion is sleeping. | Một con sư tử to đang ngủ.
 bi: A little mouse runs on his nose. | Một chú chuột nhắt chạy lên mũi sư tử.
+scene: 2
 lion: Grrr! I will eat you! | Gừ! Ta sẽ ăn thịt ngươi!
 mouse: Please let me go! One day, I can help you. | Xin hãy thả cháu! Một ngày nào đó, cháu có thể giúp ngài.
 lion: Ha ha! You are so small. Go! | Ha ha! Ngươi bé thế kia. Đi đi!
@@ -71,6 +78,7 @@ bi: Is the lion kind? | Sư tử có tốt bụng không?
 - 👍 Yes, he is kind. | Có, sư tử tốt bụng.
 - 🤔 A little. | Một chút.
 [net]
+scene: 3
 pic: 🕸️
 bi: One day, the lion is in a big net. He can't get out! | Một hôm, sư tử bị mắc vào một tấm lưới to. Nó không thoát ra được!
 lion: Help! Help! | Cứu với! Cứu với!
@@ -84,12 +92,14 @@ bi: Good idea. But look who is coming! | Ý hay đấy. Nhưng nhìn xem ai đ�
 [mouse_right]
 bi: Yes! The little mouse comes. | Đúng rồi! Chú chuột nhắt chạy đến.
 [help]
+scene: 4
 pic: 🐭
 mouse: I can help you! | Cháu giúp được ngài!
 bi: The mouse bites the net. Bite, bite, bite! | Chuột gặm tấm lưới. Gặm, gặm, gặm!
 bi: The lion is free! | Sư tử được tự do!
 lion: Thank you, little friend! | Cảm ơn bạn nhỏ!
 [life]
+scene: 5
 bi: Can a small friend help a big friend? | Một người bạn nhỏ có giúp được bạn lớn không?
 ? kid
 - ✅ Yes, they can! | Có chứ!
@@ -107,9 +117,11 @@ moral: Always tell the truth. | Hãy luôn nói thật.
 
 [start]
 pic: 🐑
+scene: 1
 bi: A boy looks after the sheep on a hill. | Một cậu bé chăn cừu trên đồi.
 bi: He is bored. He has an idea. | Cậu thấy buồn chán. Cậu nghĩ ra một trò.
 boy: Wolf! Wolf! Help! | Sói! Sói! Cứu với!
+scene: 2
 bi: The people run up the hill. But there is no wolf. | Dân làng chạy lên đồi. Nhưng chẳng có con sói nào.
 boy: Ha ha! It's a joke! | Ha ha! Tôi đùa đấy!
 bi: Is it a good joke? | Đó có phải trò đùa hay không?
@@ -122,11 +134,13 @@ bi: The people are not laughing. They are angry. | Dân làng không cười. H�
 [lie]
 bi: Yes. The people are angry. | Đúng vậy. Dân làng rất tức giận.
 [again]
+scene: 3
 bi: The next day, the boy does it again. | Hôm sau, cậu bé lại làm như thế.
 boy: Wolf! Wolf! | Sói! Sói!
 bi: The people run up the hill again. No wolf! | Dân làng lại chạy lên đồi. Không có sói!
 people: Stop telling lies! | Đừng nói dối nữa!
 [real]
+scene: 4
 pic: 🐺
 bi: Then a real wolf comes! | Rồi một con sói thật xuất hiện!
 boy: Wolf! Wolf! Please help! | Sói! Sói! Cứu với!
@@ -140,6 +154,7 @@ bi: No. They think it's another lie. | Không. Họ nghĩ cậu lại nói dối
 [right]
 bi: That's right. They think it's another lie. | Đúng rồi. Họ nghĩ cậu lại nói dối.
 [sad]
+scene: 5
 bi: The wolf chases the sheep away. The boy is very sad. | Sói đuổi đàn cừu chạy mất. Cậu bé rất buồn.
 boy: I'm sorry. I will tell the truth. | Tôi xin lỗi. Tôi sẽ nói thật.
 [life]
@@ -160,6 +175,7 @@ moral: Work first, then play. Get ready for tomorrow. | Làm trước, chơi sau
 
 [start]
 pic: ☀️
+scene: 1
 bi: It is summer. The sun is hot. | Đang là mùa hè. Trời nắng nóng.
 bi: Ant works all day. She carries food home. | Kiến làm việc cả ngày. Kiến tha thức ăn về nhà.
 grasshopper: Ant, come and play! Let's sing! | Kiến ơi, ra đây chơi! Mình hát đi!
@@ -169,9 +185,11 @@ bi: What does Grasshopper do? | Châu chấu làm gì?
 - 🎶 He sings and plays. | Châu chấu hát và chơi.
 - 🌾 He works. | Châu chấu làm việc.
 [sing]
+scene: 2
 bi: Grasshopper sings and plays all summer. | Châu chấu hát và chơi suốt mùa hè.
 grasshopper: La la la! I don't need food now! | La la la! Giờ tớ chưa cần thức ăn!
 [winter]
+scene: 3
 pic: ❄️
 bi: Now it is winter. It's cold. There is no food outside. | Giờ là mùa đông. Trời lạnh. Bên ngoài không còn thức ăn.
 bi: Who has food? | Ai có thức ăn?
@@ -184,6 +202,7 @@ bi: No. Grasshopper has no food. He is hungry. | Không. Châu chấu không có
 [right]
 bi: Yes! Ant has lots of food. | Đúng rồi! Kiến có rất nhiều thức ăn.
 [door]
+scene: 4
 grasshopper: Ant, I'm cold and hungry. | Kiến ơi, tớ lạnh và đói quá.
 ant: Come in. I can share a little. | Vào đây. Tớ chia cho cậu một ít.
 grasshopper: Thank you! Next summer, I will work too. | Cảm ơn cậu! Mùa hè tới, tớ cũng sẽ làm việc.
@@ -205,14 +224,17 @@ moral: Don't say "I don't want it" just because you can't get it. | Đừng chê
 
 [start]
 pic: 🍇
+scene: 1
 bi: A hungry fox sees some grapes. | Một con cáo đói nhìn thấy chùm nho.
 fox: Yummy grapes! I want them! | Nho ngon quá! Ta muốn ăn!
+scene: 2
 bi: The grapes are high up. The fox jumps. | Chùm nho ở trên cao. Cáo nhảy lên.
 bi: Can he reach them? | Cáo có với tới không?
 ? kid
 - ❌ No, he can't. | Không, cáo không với tới.
 - ✅ Yes, he can. | Có, cáo với tới.
 [jump]
+scene: 3
 bi: He jumps again and again. He can't reach them. | Cáo nhảy mãi, nhảy mãi. Cáo vẫn không với tới.
 bi: The fox is tired. | Cáo mệt rồi.
 fox: Those grapes are sour. I don't want them! | Nho đó chua lắm. Ta chẳng thèm!
@@ -226,6 +248,7 @@ bi: Hmm. He never tasted them! He just can't get them. | Hừm. Cáo đã nếm 
 [right]
 bi: Yes! He wants them, but he can't get them. | Đúng rồi! Cáo rất muốn, nhưng không lấy được.
 [life]
+scene: 4
 bi: When something is hard, what can you say? | Khi việc gì khó quá, bé có thể nói gì?
 ? kid
 - 🙋 Can you help me, please? | Bạn giúp tớ được không?
@@ -243,9 +266,11 @@ moral: Think, and don't give up. | Hãy suy nghĩ và đừng bỏ cuộc.
 
 [start]
 pic: ☀️
+scene: 1
 bi: It is a very hot day. A crow is thirsty. | Hôm đó trời rất nóng. Một con quạ khát nước.
 crow: Water! I need water! | Nước! Ta cần nước!
 pic: 🏺
+scene: 2
 bi: The crow finds a jar. There is a little water inside. | Quạ tìm thấy một cái bình. Bên trong có một ít nước.
 bi: But the water is low. His beak can't reach it. | Nhưng nước ở thấp quá. Mỏ quạ không chạm tới.
 bi: What can the crow do? | Quạ có thể làm gì?
@@ -257,9 +282,11 @@ bi: What can the crow do? | Quạ có thể làm gì?
 bi: Hmm. The crow does not give up. He thinks... | Hừm. Quạ không bỏ cuộc. Quạ suy nghĩ...
 [stones]
 pic: 🪨
+scene: 3
 bi: He picks up a stone. Plop! Into the jar. | Quạ nhặt một viên sỏi. Tõm! Thả vào bình.
 bi: One stone, two stones, three stones... | Một viên, hai viên, ba viên...
 kid: Plop, plop, plop! | Tõm, tõm, tõm!
+scene: 4
 bi: The water comes up, up, up! | Nước dâng lên, lên, lên!
 crow: Now I can drink! Ahh! | Giờ ta uống được rồi! A!
 [life]
@@ -280,7 +307,9 @@ moral: Don't be greedy. You can lose what you have. | Đừng tham lam, kẻo m�
 
 [start]
 pic: 🪿
+scene: 1
 bi: A farmer has a special goose. | Một bác nông dân có một con ngỗng đặc biệt.
+scene: 2
 bi: Every morning, the goose lays one golden egg! | Mỗi sáng, ngỗng đẻ một quả trứng vàng!
 goose: Honk! Here is your egg. | Quạc! Trứng của ông đây.
 farmer: Wow! I'm rich! | Ồ! Mình giàu rồi!
@@ -297,8 +326,10 @@ bi: No. He wants more and more. | Không. Bác ấy muốn nhiều hơn, nhiều
 [right]
 bi: Yes. He is greedy. | Đúng vậy. Bác ấy tham lam.
 [chase]
+scene: 3
 bi: He chases the goose. The goose is scared. | Bác đuổi theo con ngỗng. Ngỗng sợ hãi.
 goose: Honk, honk! Goodbye! | Quạc, quạc! Tạm biệt!
+scene: 4
 bi: The goose flies away. No more golden eggs! | Ngỗng bay mất. Không còn trứng vàng nữa!
 farmer: Oh no! I lost everything. | Ôi không! Ta mất hết rồi.
 [life]
@@ -319,9 +350,11 @@ moral: Greedy people can lose what they have. | Tham thì thâm: tham lam sẽ m
 
 [start]
 pic: 🦴
+scene: 1
 bi: A dog has a big bone. He is very happy. | Một chú chó có một khúc xương to. Nó vui lắm.
 dog: My bone! Yummy! | Xương của ta! Ngon quá!
 pic: 🌉
+scene: 2
 bi: He walks on a bridge over the river. | Chó đi qua cây cầu bắc qua sông.
 bi: He looks down. He sees a dog in the water! | Nó nhìn xuống. Nó thấy một con chó dưới nước!
 dog: That dog has a bone too. I want his bone! | Con chó kia cũng có xương. Ta muốn lấy xương của nó!
@@ -335,8 +368,10 @@ bi: Look again. It's his own face in the water! | Nhìn lại xem. Đó là bón
 [right]
 bi: Yes! It's his reflection, like a mirror. | Đúng rồi! Đó là cái bóng, giống như trong gương.
 [bark]
+scene: 3
 dog: Woof! Woof! | Gâu! Gâu!
 bi: He opens his mouth. Splash! His bone falls in the river. | Chó há miệng sủa. Tõm! Khúc xương rơi xuống sông.
+scene: 4
 dog: Oh no! My bone is gone. | Ôi không! Xương của ta mất rồi.
 [life]
 bi: What should the dog do next time? | Lần sau chú chó nên làm gì?
@@ -355,6 +390,7 @@ roles: bi=Bi|Bi|🐝, wind=Wind|Gió|🌬️, sun=Sun|Mặt Trời|☀️, kid=M
 moral: Kindness is stronger than force. | Sự dịu dàng mạnh hơn sức ép.
 
 [start]
+scene: 1
 pic: 🌬️☀️
 wind: I am stronger than you, Sun! | Ta mạnh hơn ngươi, Mặt Trời!
 sun: Let's see. Look at that man with a coat. | Để xem nhé. Nhìn người đàn ông mặc áo khoác kia kìa.
@@ -364,11 +400,13 @@ bi: Who will win? | Ai sẽ thắng?
 - 🌬️ The Wind. | Gió.
 - ☀️ The Sun. | Mặt Trời.
 [wind]
+scene: 2
 pic: 🌬️
 bi: The Wind blows and blows. Whoosh! | Gió thổi mạnh, thổi mạnh. Vù vù!
 bi: The man is cold. He holds his coat tight. | Người đàn ông thấy lạnh. Ông giữ chặt áo khoác.
 wind: I can't do it! | Ta không làm được!
 [sun_turn]
+scene: 3
 pic: ☀️
 bi: Now the Sun smiles. The Sun is warm. | Giờ Mặt Trời mỉm cười. Mặt Trời toả nắng ấm áp.
 bi: The man is hot. What does he do? | Người đàn ông thấy nóng. Ông làm gì?
@@ -381,6 +419,7 @@ bi: No, he is too hot! He takes off his coat. | Không đâu, ông nóng quá m�
 [right]
 bi: Yes! He takes off his coat. | Đúng rồi! Ông cởi áo khoác ra.
 [win]
+scene: 4
 sun: You see? Warm and kind wins. | Thấy chưa? Ấm áp và dịu dàng sẽ thắng.
 [life]
 bi: Your friend is sad. What do you do? | Bạn của bé đang buồn. Bé làm gì?
@@ -400,14 +439,17 @@ moral: A simple, safe home is better than a rich, scary one. | Cuộc sống gi�
 
 [start]
 pic: 🌾
+scene: 1
 bi: Country Mouse lives in a field. | Chuột đồng quê sống ở cánh đồng.
 country: Welcome, cousin! Here is some corn and bread. | Chào anh họ! Mời anh ăn ngô và bánh mì.
 town: Only corn and bread? Come to my town house. We have cake! | Chỉ có ngô và bánh mì thôi à? Đến nhà ta ở thành phố đi. Có bánh ngọt!
 [town]
 pic: 🏙️
+scene: 2
 bi: The town house is big. There is cake and cheese! | Nhà ở thành phố rất to. Có bánh ngọt và pho mát!
 country: Wow! So much food! | Ồ! Nhiều đồ ăn quá!
 pic: 🐱
+scene: 3
 bi: Suddenly, a big cat comes! Meow! | Bỗng nhiên, một con mèo to xuất hiện! Meo!
 bi: What do the mice do? | Hai chú chuột làm gì?
 ? kid
@@ -419,6 +461,7 @@ bi: No time to eat! They run and hide! | Không kịp ăn đâu! Chúng chạy �
 [right]
 bi: Yes! They run and hide in a hole. | Đúng rồi! Chúng chạy trốn vào một cái lỗ.
 [home]
+scene: 4
 country: I'm scared. I want to go home. | Em sợ quá. Em muốn về nhà.
 country: My home is small, but it is safe. | Nhà em nhỏ thôi, nhưng mà an toàn.
 bi: Which home do you like? | Bé thích ngôi nhà nào?
@@ -438,8 +481,10 @@ moral: Be careful when someone says nice words to get something. | Cẩn thận 
 
 [start]
 pic: 🧀
+scene: 1
 bi: A crow sits in a tree. She has a piece of cheese. | Một con quạ đậu trên cây. Quạ ngậm một miếng pho mát.
 bi: A fox sees the cheese. He wants it. | Một con cáo thấy miếng pho mát. Cáo thèm lắm.
+scene: 2
 fox: Hello, beautiful Crow! Your feathers are so shiny! | Chào chị Quạ xinh đẹp! Lông của chị óng ả quá!
 fox: Your voice must be beautiful too. Please sing! | Chắc giọng chị cũng hay lắm. Chị hát đi!
 bi: Why does the fox say nice words? | Vì sao cáo nói lời hay?
@@ -452,9 +497,11 @@ bi: Hmm, let's see. | Hừm, mình xem tiếp nhé.
 [right]
 bi: Yes! He is a clever fox. | Đúng rồi! Cáo rất ranh mãnh.
 [sing]
+scene: 3
 crow: Caw! Caw! | Quạ! Quạ!
 bi: The crow opens her mouth. The cheese falls down! | Quạ há miệng ra hát. Miếng pho mát rơi xuống!
 fox: Thank you for the cheese! | Cảm ơn chị vì miếng pho mát nhé!
+scene: 4
 crow: Oh no! He tricked me. | Ôi không! Nó lừa mình rồi.
 [life]
 bi: Someone says "You are great! Give me your toy." What do you do? | Có người nói "Cậu giỏi quá! Đưa đồ chơi cho tớ." Bé làm gì?
@@ -474,6 +521,7 @@ moral: Help others, and they will help you. | Giúp đỡ người khác, rồi 
 
 [start]
 pic: 🌊
+scene: 1
 bi: A little ant falls into the river. | Một chú kiến nhỏ rơi xuống sông.
 ant: Help! I can't swim! | Cứu với! Tớ không biết bơi!
 bi: A dove sees the ant. What can she do? | Bồ câu nhìn thấy kiến. Bồ câu có thể làm gì?
@@ -483,10 +531,12 @@ bi: A dove sees the ant. What can she do? | Bồ câu nhìn thấy kiến. Bồ 
 [watch]
 bi: The dove is kind. She wants to help. | Bồ câu tốt bụng lắm. Bồ câu muốn giúp kiến.
 [leaf]
+scene: 2
 pic: 🍃
 bi: The dove drops a leaf. The ant climbs on it. | Bồ câu thả một chiếc lá. Kiến bò lên lá.
 ant: Thank you, Dove! You saved me! | Cảm ơn bồ câu! Cậu đã cứu tớ!
 [hunter]
+scene: 3
 pic: 🏹
 bi: Later, a hunter wants to catch the dove. | Sau đó, một người thợ săn muốn bắt bồ câu.
 bi: What can the little ant do? | Kiến nhỏ có thể làm gì?
@@ -496,6 +546,7 @@ bi: What can the little ant do? | Kiến nhỏ có thể làm gì?
 [hide]
 bi: The ant remembers the kind dove. She is brave! | Kiến nhớ đến bồ câu tốt bụng. Kiến dũng cảm lắm!
 [bite]
+scene: 4
 bi: The ant bites his foot. Ouch! | Kiến cắn vào chân người thợ săn. Ái da!
 bi: The dove hears it and flies away. | Bồ câu nghe thấy và bay đi mất.
 dove: Thank you, Ant! | Cảm ơn kiến!
@@ -518,11 +569,14 @@ moral: Together we are strong. | Đoàn kết là sức mạnh.
 
 [start]
 pic: 👦👦👦
+scene: 1
 bi: An old father has three sons. They always fight. | Một người cha già có ba người con trai. Họ suốt ngày cãi nhau.
 father: Bring me some sticks. | Các con mang cho cha một bó que.
+scene: 2
 bi: He ties the sticks together. | Ông buộc các que lại với nhau.
 father: Can you break this bundle? | Các con bẻ gãy bó que này được không?
 [try]
+scene: 3
 pic: 🪵
 bi: The first son tries. He can't! The second son tries. He can't! | Người con thứ nhất thử. Không được! Người con thứ hai thử. Không được!
 bi: Can the third son break it? | Người con thứ ba có bẻ được không?
@@ -536,8 +590,10 @@ bi: No! The bundle is too strong. | Không đâu! Bó que chắc quá.
 bi: That's right. The bundle is too strong. | Đúng rồi. Bó que chắc quá.
 [one]
 father: Now break one stick. | Giờ các con bẻ từng que một.
+scene: 4
 bi: Snap! Snap! Snap! It's easy! | Rắc! Rắc! Rắc! Dễ quá!
 father: One stick is weak. Together, the sticks are strong. | Một que thì yếu. Bó lại với nhau thì mạnh.
+scene: 5
 sons: We will stay together! | Chúng con sẽ luôn đoàn kết!
 [life]
 bi: How can your family work together? | Gia đình bé có thể cùng nhau làm gì?
@@ -556,6 +612,7 @@ roles: bi=Bi|Bi|🐝, fox=Fox|Cáo|🦊, stork=Stork|Cò|🦩, kid=Me|Bé|🧒
 moral: Treat others the way you want them to treat you. | Hãy đối xử với người khác như cách mình muốn được đối xử.
 
 [start]
+scene: 1
 pic: 🍲
 fox: Stork, come to my house for dinner! | Cò ơi, đến nhà tớ ăn tối nhé!
 bi: The fox gives soup in a flat plate. | Cáo đựng súp trong một cái đĩa nông.
@@ -565,9 +622,11 @@ bi: Can the stork eat? | Cò có ăn được không?
 - ❌ No, she can't. | Không, cò không ăn được.
 - ✅ Yes, she can. | Có, cò ăn được.
 [hungry]
+scene: 2
 bi: The stork can't eat. She is hungry. | Cò không ăn được. Cò đói bụng.
 fox: Ha ha! You are slow! | Ha ha! Cậu chậm thế!
 [stork_turn]
+scene: 3
 pic: 🏺
 stork: Fox, come to my house tomorrow! | Cáo ơi, mai đến nhà tớ nhé!
 bi: The stork gives food in a tall jar. | Cò đựng thức ăn trong một cái bình cao cổ.
@@ -581,6 +640,7 @@ bi: No, the jar is too tall for him. | Không đâu, bình cao quá với cáo.
 [right]
 bi: That's right! Now the fox is hungry. | Đúng rồi! Giờ thì cáo đói bụng.
 [sorry]
+scene: 4
 fox: I'm sorry, Stork. That was not nice. | Tớ xin lỗi cò. Tớ đã không tử tế.
 stork: Let's be kind to each other. | Mình hãy tử tế với nhau nhé.
 [life]
@@ -601,9 +661,11 @@ moral: A true friend helps you when you are in trouble. | Bạn thật sự là 
 
 [start]
 pic: 🌳
+scene: 1
 bi: Tom and Sam walk in the forest. | Tom và Sam đi trong rừng.
 tom: We are best friends! | Chúng mình là bạn thân!
 pic: 🐻
+scene: 2
 bi: Suddenly, a big bear comes! | Bỗng nhiên, một con gấu to xuất hiện!
 bi: Tom climbs a tree fast. He doesn't help Sam. | Tom trèo lên cây thật nhanh. Tom không giúp Sam.
 bi: Is Tom a good friend? | Tom có phải là người bạn tốt không?
@@ -617,7 +679,9 @@ bi: Let's see what happens. | Mình xem tiếp nhé.
 bi: You're right. A good friend helps. | Bé nói đúng. Bạn tốt thì phải giúp nhau.
 [bear]
 bi: Sam lies down on the ground. He is very still. | Sam nằm xuống đất. Sam nằm im thin thít.
+scene: 3
 bi: The bear sniffs Sam. Then the bear goes away. | Con gấu ngửi ngửi Sam. Rồi gấu bỏ đi.
+scene: 4
 tom: What did the bear say to you? | Con gấu nói gì với cậu thế?
 sam: It said, "Find a better friend." | Nó bảo: "Hãy tìm một người bạn tốt hơn."
 [life]
@@ -638,8 +702,10 @@ moral: A plan is easy to say, but hard to do. | Nói thì dễ, làm mới khó.
 
 [start]
 pic: 🐱
+scene: 1
 bi: The mice are scared of a big cat. | Lũ chuột rất sợ một con mèo to.
 bi: The cat walks very quietly. The mice can't hear it. | Mèo đi rất nhẹ. Lũ chuột không nghe thấy.
+scene: 2
 mouse: I have an idea! Let's put a bell on the cat. | Tôi có ý này! Mình đeo một cái chuông vào cổ mèo.
 mouse: Ring, ring! Then we can hear it and run. | Leng keng! Thế là mình nghe thấy và chạy trốn.
 bi: Is it a good idea? | Đó có phải ý hay không?
@@ -647,6 +713,7 @@ bi: Is it a good idea? | Đó có phải ý hay không?
 - 👍 Yes, it's a good idea! | Có, ý hay đấy!
 - 🤔 Hmm, it's hard. | Hừm, khó lắm.
 [who]
+scene: 3
 pic: 🔔
 old: Good idea. But who will put the bell on the cat? | Ý hay đấy. Nhưng ai sẽ đeo chuông cho mèo?
 bi: The mice look at each other. Nobody says "me". | Lũ chuột nhìn nhau. Không ai dám nói "tôi".
@@ -660,6 +727,7 @@ bi: No, they are scared of the cat! | Không, chúng sợ mèo đấy!
 [right]
 bi: Yes! It is easy to say, but hard to do. | Đúng rồi! Nói thì dễ, nhưng làm thì khó.
 [life]
+scene: 4
 bi: When you have an idea, what can you do? | Khi bé có một ý tưởng, bé có thể làm gì?
 ? kid
 - 🛠️ Try to do it. | Thử làm luôn.
@@ -677,10 +745,13 @@ moral: Don't count your chickens before they hatch. | Đừng vội mừng khi v
 
 [start]
 pic: 🪣
+scene: 1
 bi: A girl carries a pail of milk on her head. | Một cô gái đội thùng sữa trên đầu.
 girl: I will sell this milk and buy some eggs. | Mình sẽ bán sữa này để mua trứng.
+scene: 2
 girl: The eggs will be chicks. The chicks will be hens! | Trứng sẽ nở ra gà con. Gà con sẽ lớn thành gà mái!
 girl: Then I will buy a pretty dress! | Rồi mình sẽ mua một chiếc váy thật đẹp!
+scene: 3
 bi: She is so happy. She dances and jumps! | Cô vui quá. Cô nhảy múa tung tăng!
 bi: What will happen to the milk? | Thùng sữa sẽ ra sao?
 ? kid
@@ -689,6 +760,7 @@ bi: What will happen to the milk? | Thùng sữa sẽ ra sao?
 [wrong]
 bi: Oh no, look! | Ôi, nhìn kìa!
 [right]
+scene: 4
 pic: 💦
 bi: Splash! The milk falls on the ground. | Bõm! Sữa đổ hết xuống đất.
 girl: Oh no! No milk, no eggs, no chicks, no dress! | Ôi không! Không sữa, không trứng, không gà, không váy!
@@ -709,13 +781,16 @@ roles: bi=Bi|Bi|🐝, hen=Hen|Gà mái|🐔, cat=Cat|Mèo|🐱, dog=Dog|Chó|�
 moral: If you help with the work, you can share the reward. | Ai cùng làm thì cùng được hưởng.
 
 [start]
+scene: 1
 pic: 🌾
 hen: I have some wheat seeds. Who will help me plant them? | Tôi có mấy hạt lúa mì. Ai giúp tôi gieo hạt nào?
 cat: Not me! | Không phải tôi!
 dog: Not me! | Không phải tôi!
 duck: Not me! | Không phải tôi!
+scene: 2
 hen: Then I will do it myself. | Vậy tôi tự làm vậy.
 [grow]
+scene: 3
 bi: The wheat grows tall. The hen cuts it. She makes flour. | Lúa mì lớn cao. Gà mái gặt lúa. Gà xay thành bột.
 hen: Who will help me make bread? | Ai giúp tôi làm bánh mì nào?
 bi: What do the animals say? | Các con vật nói gì?
@@ -728,12 +803,14 @@ bi: No, they say "Not me!" again. | Không, chúng lại nói "Không phải tô
 [right]
 bi: Yes. "Not me! Not me! Not me!" | Đúng vậy. "Không phải tôi! Không phải tôi! Không phải tôi!"
 [bake]
+scene: 4
 pic: 🍞
 bi: The hen bakes the bread. It smells so good! | Gà mái nướng bánh. Thơm quá!
 hen: Who will help me eat the bread? | Ai giúp tôi ăn bánh mì nào?
 cat: Me! | Tôi!
 dog: Me! | Tôi!
 duck: Me! | Tôi!
+scene: 5
 hen: No! You didn't help. My chicks and I will eat it. | Không! Các anh không giúp gì. Mẹ con tôi sẽ ăn.
 [life]
 bi: Mum is cooking. What can you say? | Mẹ đang nấu ăn. Bé có thể nói gì?
@@ -753,8 +830,10 @@ moral: Be kind to everyone. Everyone is special. | Hãy tốt với mọi ngư�
 
 [start]
 pic: 🥚
+scene: 1
 bi: Mother Duck has some eggs. Crack! Out come the ducklings. | Vịt mẹ có mấy quả trứng. Tách! Những chú vịt con chui ra.
 bi: But one duckling is big and grey. | Nhưng có một chú vịt con to và màu xám.
+scene: 2
 ducks: You are ugly! Go away! | Mày xấu quá! Đi đi!
 bi: Is it kind to say "You are ugly"? | Nói "Mày xấu quá" có tử tế không?
 ? kid
@@ -766,10 +845,12 @@ bi: Hmm. It makes the duckling very sad. | Hừm. Câu đó làm vịt con buồ
 [right]
 bi: You're right. It makes him very sad. | Bé nói đúng. Câu đó làm vịt con buồn lắm.
 [alone]
+scene: 3
 pic: ❄️
 bi: The duckling goes away. He is alone all winter. | Vịt con bỏ đi. Nó sống một mình suốt mùa đông.
 duckling: Nobody likes me. | Chẳng ai thương mình cả.
 [spring]
+scene: 4
 pic: 🦢
 bi: Spring comes. The duckling looks in the water. | Mùa xuân đến. Vịt con soi mình xuống nước.
 bi: What does he see? | Nó nhìn thấy gì?
@@ -782,6 +863,7 @@ bi: Look closer. He is a beautiful swan now! | Nhìn kỹ xem. Giờ nó là m�
 [swan]
 bi: Yes! He is a beautiful swan! | Đúng rồi! Nó là một con thiên nga xinh đẹp!
 [friends]
+scene: 5
 swans: Come and swim with us! | Đến bơi cùng chúng tớ đi!
 duckling: I'm so happy! | Mình vui quá!
 [life]
@@ -802,9 +884,11 @@ moral: Don't be greedy. Take only what you need. | Đừng tham lam, chỉ lấy
 
 [start]
 pic: 🌳
+scene: 1
 bi: Two brothers live in Viet Nam. The older brother is greedy. | Có hai anh em sống ở Việt Nam. Người anh tham lam.
 bi: He takes the house and the land. The younger brother gets only a star fruit tree. | Người anh lấy hết nhà cửa ruộng vườn. Người em chỉ được một cây khế.
 [bird]
+scene: 2
 pic: 🐦
 bi: A big bird comes and eats the star fruit. | Một con chim lớn bay đến ăn khế.
 younger: Please don't eat all my star fruit! | Chim ơi, đừng ăn hết khế của tôi!
@@ -819,11 +903,13 @@ bi: No. He makes a small bag. He is not greedy. | Không. Người em may túi n
 [small]
 bi: Yes! He is not greedy. | Đúng rồi! Người em không tham lam.
 [island]
+scene: 3
 pic: 🏝️
 bi: The bird flies him to an island of gold. | Chim chở người em bay đến một hòn đảo đầy vàng.
 bi: He takes a little gold and goes home. He is happy. | Người em lấy một ít vàng rồi về nhà. Người em sống vui vẻ.
 [older]
 older: Give me the tree! I want the gold too! | Đưa cây khế cho anh! Anh cũng muốn có vàng!
+scene: 4
 bi: The older brother makes a very big bag. | Người anh may một cái túi thật to.
 bi: He takes lots and lots of gold. The bag is too heavy! | Người anh lấy rất nhiều vàng. Túi nặng quá!
 bi: What happens? | Chuyện gì xảy ra?
@@ -836,6 +922,7 @@ bi: No. The bag is too heavy. He falls into the sea! | Không. Túi nặng quá.
 [right]
 bi: Yes. The bag is too heavy, and he falls into the sea. | Đúng vậy. Túi nặng quá, và người anh rơi xuống biển.
 [life]
+scene: 5
 bi: There are ten candies. You and your friend share. How many do you take? | Có mười cái kẹo. Bé và bạn chia nhau. Bé lấy mấy cái?
 ? kid
 - 5️⃣ Five. Half for me, half for my friend. | Năm cái. Một nửa cho tớ, một nửa cho bạn.
@@ -853,9 +940,11 @@ moral: The world is big. Keep learning new things. | Thế giới rất rộng l
 
 [start]
 pic: 🐸
+scene: 1
 bi: A frog lives at the bottom of a well. | Một con ếch sống dưới đáy giếng.
 bi: Every day, the frog looks up. He sees a little round sky. | Mỗi ngày, ếch ngước lên. Nó thấy một mảnh trời tròn nhỏ xíu.
 frog: The sky is small, like a lid! | Bầu trời bé tí, như cái vung!
+scene: 2
 frog: I am the king of the world! | Ta là chúa tể của thế giới!
 bi: Is the sky really small? | Bầu trời có thật bé không?
 ? kid
@@ -868,12 +957,15 @@ bi: The sky is very big. The frog only sees a little part. | Bầu trời rộng
 bi: Yes! He only sees a little part. | Đúng rồi! Ếch chỉ thấy một phần nhỏ thôi.
 [rain]
 pic: 🌧️
+scene: 3
 bi: One day, it rains a lot. The water lifts the frog out of the well. | Một hôm, trời mưa to. Nước dâng đưa ếch ra khỏi giếng.
+scene: 4
 frog: Wow! The sky is so big! | Ồ! Bầu trời rộng quá!
 frog: Croak! Croak! I am the king! | Ộp! Ộp! Ta là vua!
 pic: 🐃
 bi: The frog doesn't look around. A buffalo steps on him. Ouch! | Ếch không nhìn xung quanh. Một con trâu giẫm phải nó. Ái!
 [life]
+scene: 5
 bi: How can we learn about the big world? | Làm sao để mình biết thêm về thế giới rộng lớn?
 ? kid
 - 📚 We read books. | Mình đọc sách.
@@ -892,7 +984,9 @@ moral: Look at the whole thing before you decide. | Hãy nhìn cả sự việc 
 
 [start]
 pic: 🐘
+scene: 1
 bi: Some men can't see. They want to know an elephant. | Có mấy ông thầy bói không nhìn thấy. Các ông muốn biết con voi trông thế nào.
+scene: 2
 bi: Each man touches one part. | Mỗi ông sờ một bộ phận.
 man1: I touch the trunk. An elephant is like a snake! | Tôi sờ vòi. Con voi giống con rắn!
 man2: I touch the ear. No, it is like a big fan! | Tôi sờ tai. Không, nó giống cái quạt to!
@@ -908,7 +1002,9 @@ bi: Hmm, he is only a little right. He touches one part. | Hừm, ông ấy ch�
 [right]
 bi: Yes! Each man knows only one part. | Đúng rồi! Mỗi ông chỉ biết một phần.
 [fight]
+scene: 3
 bi: The men argue and argue. | Các ông cãi nhau mãi không thôi.
+scene: 4
 bi: A child says, "An elephant has a trunk, ears, legs and a tail!" | Một em bé nói: "Con voi có vòi, có tai, có chân và có đuôi!"
 [life]
 bi: Two friends say different things. What can you do? | Hai bạn nói hai điều khác nhau. Bé có thể làm gì?
@@ -927,6 +1023,7 @@ roles: bi=Bi|Bi|🐝, hands=Hands|Tay|🤲, feet=Feet|Chân|🦶, mouth=Mouth|Mi
 moral: Everyone in a team is important. | Mỗi thành viên đều quan trọng, phải cùng nhau làm việc.
 
 [start]
+scene: 1
 pic: 🧍
 bi: In a body, Hands, Feet, Eyes and Ears all work. | Trong một cơ thể, Tay, Chân, Mắt và Tai đều làm việc.
 hands: We work all day. But Mouth only eats! | Chúng tôi làm việc cả ngày. Còn Miệng chỉ ăn!
@@ -941,6 +1038,7 @@ bi: Let's see what happens. | Mình xem chuyện gì xảy ra nhé.
 [right]
 bi: Let's see why. | Mình xem vì sao nhé.
 [stop]
+scene: 2
 pic: 😴
 bi: Hands stop. Feet stop. They don't bring food to Mouth. | Tay nghỉ. Chân nghỉ. Không ai mang thức ăn cho Miệng.
 bi: One day, two days... Everyone is tired and weak. | Một ngày, hai ngày... Ai cũng mệt mỏi, yếu ớt.
@@ -953,8 +1051,10 @@ bi: What should they do? | Chúng nên làm gì?
 - 🤝 Work together again. | Cùng nhau làm việc trở lại.
 - 🍚 Give food to Mouth. | Mang thức ăn cho Miệng.
 [strong]
+scene: 3
 bi: They work together again. Now everyone is strong! | Chúng lại cùng nhau làm việc. Giờ ai cũng khoẻ mạnh!
 [life]
+scene: 4
 bi: In your class, who is important? | Trong lớp bé, ai là người quan trọng?
 ? kid
 - 🧑‍🤝‍🧑 Everyone! | Tất cả mọi người!

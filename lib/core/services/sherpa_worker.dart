@@ -175,6 +175,13 @@ class _WorkerState {
   Float32List carry = Float32List(0);
   final List<Float32List> segments = <Float32List>[];
 
+  /// Extra silence (in samples) to wait after a finished phrase before the
+  /// turn ends, so a child who pauses mid-sentence ("I like... cats") is not
+  /// cut off. 0 ends the turn at the first phrase.
+  int patienceSamples = 0;
+  int quietSamples = 0;
+  bool phraseSeen = false;
+
   // Speech synthesis, keyed by engine id ("en", "vi")
   final Map<String, sherpa.OfflineTts> ttsEngines = <String, sherpa.OfflineTts>{};
 
@@ -258,6 +265,9 @@ class _WorkerState {
     carry = Float32List(0);
     speechStarted = false;
     savePath = m['savePath'] as String?;
+    patienceSamples = (((m['patienceMs'] as int?) ?? 0) * 16).clamp(0, 16000 * 4).toInt();
+    quietSamples = 0;
+    phraseSeen = false;
     listening = true;
     return true;
   }
@@ -284,8 +294,27 @@ class _WorkerState {
 
     // A segment appears once the trailing silence is long enough:
     // the child has finished speaking.
-    if (!detector.isEmpty()) {
-      sttFinish(timedOut: false);
+    if (patienceSamples <= 0) {
+      if (!detector.isEmpty()) {
+        sttFinish(timedOut: false);
+      }
+      return;
+    }
+    // Patient mode: keep each finished phrase and wait a little longer in
+    // case the child goes on.
+    while (!detector.isEmpty()) {
+      segments.add(detector.front().samples);
+      detector.pop();
+      phraseSeen = true;
+      quietSamples = 0;
+    }
+    if (detector.isDetected()) {
+      quietSamples = 0;
+    } else if (phraseSeen) {
+      quietSamples += fresh.length;
+      if (quietSamples >= patienceSamples) {
+        sttFinish(timedOut: false);
+      }
     }
   }
 

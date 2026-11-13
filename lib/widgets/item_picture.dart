@@ -82,11 +82,13 @@ class PictureCard extends StatelessWidget {
           padding: const EdgeInsets.all(10),
           constraints: const BoxConstraints(minWidth: 96, minHeight: 96),
           decoration: BoxDecoration(
-            color: highlight ? AppColors.honey : color,
+            color: highlight ? AppColors.honeySoft : color,
             shape: round ? BoxShape.circle : BoxShape.rectangle,
-            borderRadius: round ? null : BorderRadius.circular(28),
-            border: Border.all(color: highlight ? AppColors.leaf : AppColors.ink, width: highlight ? 6 : 3),
-            boxShadow: const [BoxShadow(color: Color(0x33000000), offset: Offset(0, 4), blurRadius: 4)],
+            borderRadius: round ? null : BorderRadius.circular(24),
+            border: highlight
+                ? Border.all(color: AppColors.honeyDeep, width: 3.5)
+                : Border.all(color: AppColors.line, width: 1),
+            boxShadow: highlight ? AppShadows.glow(AppColors.honeyDeep) : AppShadows.card,
           ),
           child: Center(child: child),
         ),

@@ -16,8 +16,11 @@ import '../../app/theme.dart';
 import '../../core/providers.dart';
 import '../../curriculum/talk_scripts.dart';
 import '../../l10n/strings_vi.dart';
+import '../../widgets/bi_mascot.dart';
 import '../../widgets/giant_button.dart';
 import '../../widgets/item_picture.dart';
+import '../../widgets/story_art.dart';
+import '../../widgets/ui_kit.dart';
 
 /// Scripts the child finished, per profile (a star on their cards).
 class TalkDone {
@@ -47,23 +50,46 @@ class TalkDone {
 
 /// Route argument for /talk/guided.
 class GuidedTalkArgs {
-  const GuidedTalkArgs({required this.script, required this.kidRole});
+  const GuidedTalkArgs({
+    required this.script,
+    required this.kidRole,
+    this.onChoice,
+    this.onFinished,
+    this.record = true,
+    this.doneSpokenVi,
+  });
 
   final TalkScript script;
   final String kidRole;
+
+  /// Called with every answer the child picks (the morning hello notes
+  /// some of them in Bi's notebook).
+  final void Function(String blockId, TalkOption option)? onChoice;
+
+  /// Called once when the talk ends.
+  final Future<void> Function()? onFinished;
+
+  /// Marks the script as done (a star on its card).
+  final bool record;
+
+  /// What Bi says at the end instead of the usual praise.
+  final String? doneSpokenVi;
 }
 
 enum _View { modes, topics, scripts, roles, stories }
 
 class TalkHomeScreen extends ConsumerStatefulWidget {
-  const TalkHomeScreen({super.key});
+  const TalkHomeScreen({super.key, this.startWithStories = false});
+
+  /// Opened from "Nghe kể chuyện" on the home screen.
+  final bool startWithStories;
 
   @override
   ConsumerState<TalkHomeScreen> createState() => _TalkHomeScreenState();
 }
 
 class _TalkHomeScreenState extends ConsumerState<TalkHomeScreen> {
-  _View _view = _View.modes;
+  late _View _view = widget.startWithStories ? _View.stories : _View.modes;
   TalkKind _kind = TalkKind.chat;
   TalkTopic? _topic;
   TalkScript? _script;
@@ -100,7 +126,7 @@ class _TalkHomeScreenState extends ConsumerState<TalkHomeScreen> {
       };
 
   void _back() {
-    if (_view == _View.modes) {
+    if (_view == _View.modes || (widget.startWithStories && _view == _View.stories)) {
       context.pop();
       return;
     }
@@ -147,39 +173,66 @@ class _TalkHomeScreenState extends ConsumerState<TalkHomeScreen> {
   Widget _body(TalkLibrary library) {
     switch (_view) {
       case _View.modes:
-        return Padding(
-          padding: const EdgeInsets.all(20),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              GiantButton(
-                emoji: '💬',
-                label: S.talkModeChat,
-                color: AppColors.sky,
-                onPressed: () => setState(() {
-                  _kind = TalkKind.chat;
-                  _view = _View.topics;
-                }),
+        final level = _level;
+        return ListView(
+          padding: const EdgeInsets.fromLTRB(20, 12, 20, 24),
+          children: [
+            SoftCard(
+              gradient: AppGradients.honey,
+              padding: const EdgeInsets.fromLTRB(20, 16, 12, 16),
+              onTap: () => context.push(AppRoutes.chat),
+              semanticLabel: S.chatTitle,
+              child: Row(
+                children: [
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Text(S.chatTitle, style: TextStyle(fontSize: 26, fontWeight: FontWeight.w900)),
+                        const SizedBox(height: 4),
+                        const Text(S.chatSub, style: TextStyle(fontSize: 15, fontWeight: FontWeight.w700)),
+                        const SizedBox(height: 12),
+                        PillButton(
+                          label: S.homeHelloStart,
+                          icon: Icons.mic_rounded,
+                          color: AppColors.white,
+                          onPressed: () => context.push(AppRoutes.chat),
+                        ),
+                      ],
+                    ),
+                  ),
+                  BiMascot(mood: BiMood.happy, size: 120, level: level),
+                ],
               ),
-              const SizedBox(height: 18),
-              GiantButton(
-                emoji: '🎭',
-                label: S.talkModeRole,
-                color: AppColors.honey,
-                onPressed: () => setState(() {
-                  _kind = TalkKind.role;
-                  _view = _View.topics;
-                }),
-              ),
-              const SizedBox(height: 18),
-              GiantButton(
-                emoji: '📖',
-                label: S.talkModeStory,
-                color: AppColors.berry,
-                onPressed: () => setState(() => _view = _View.stories),
-              ),
-            ],
-          ),
+            ),
+            const SizedBox(height: 18),
+            GiantButton(
+              emoji: '💬',
+              label: S.talkModeChat,
+              color: AppColors.sky,
+              onPressed: () => setState(() {
+                _kind = TalkKind.chat;
+                _view = _View.topics;
+              }),
+            ),
+            const SizedBox(height: 16),
+            GiantButton(
+              emoji: '🎭',
+              label: S.talkModeRole,
+              color: AppColors.honeyDeep,
+              onPressed: () => setState(() {
+                _kind = TalkKind.role;
+                _view = _View.topics;
+              }),
+            ),
+            const SizedBox(height: 16),
+            GiantButton(
+              emoji: '📖',
+              label: S.talkModeStory,
+              color: AppColors.berry,
+              onPressed: () => setState(() => _view = _View.stories),
+            ),
+          ],
         );
       case _View.topics:
         final topics = [
@@ -298,22 +351,62 @@ class _TalkHomeScreenState extends ConsumerState<TalkHomeScreen> {
         final stories = _sorted(library.of(TalkKind.story));
         return GridView.count(
           crossAxisCount: 2,
-          padding: const EdgeInsets.all(12),
-          mainAxisSpacing: 12,
-          crossAxisSpacing: 12,
-          childAspectRatio: 0.95,
+          padding: const EdgeInsets.all(14),
+          mainAxisSpacing: 14,
+          crossAxisSpacing: 14,
+          childAspectRatio: 0.82,
           children: [
             for (final s in stories)
-              _Card(
-                emoji: s.emoji,
-                title: s.titleVi,
-                subtitle: s.titleEn,
+              _StoryCard(
+                script: s,
                 done: _done.contains(s.id),
                 onTap: () => _open(s, TalkScript.kidRole),
               ),
           ],
         );
     }
+  }
+}
+
+/// A fable with its cover picture (or its emoji until the art is in).
+class _StoryCard extends StatelessWidget {
+  const _StoryCard({required this.script, required this.done, required this.onTap});
+
+  final TalkScript script;
+  final bool done;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return SoftCard(
+      padding: const EdgeInsets.all(8),
+      onTap: onTap,
+      semanticLabel: script.titleVi,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          Expanded(
+            child: Stack(
+              fit: StackFit.expand,
+              children: [
+                StoryScene(storyId: script.id, scene: 0, fallbackEmoji: script.emoji, animate: false, radius: 18),
+                if (done) const Positioned(top: 6, right: 6, child: EmojiText('⭐', size: 22)),
+              ],
+            ),
+          ),
+          const SizedBox(height: 6),
+          Text(script.titleVi,
+              textAlign: TextAlign.center,
+              maxLines: 2,
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w900, height: 1.1)),
+          Text(script.titleEn,
+              textAlign: TextAlign.center,
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontSize: 12, fontFamily: AppTheme.writingFont, color: AppColors.inkSoft)),
+        ],
+      ),
+    );
   }
 }
 

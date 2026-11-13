@@ -24,6 +24,8 @@ import '../../l10n/strings_vi.dart';
 import '../../widgets/bi_mascot.dart';
 import '../../widgets/item_picture.dart';
 import '../../widgets/spoken_text.dart';
+import '../../widgets/story_art.dart';
+import '../../widgets/ui_kit.dart';
 import '../daily_lesson/activities/activity_base.dart';
 import '../speak/mic_panel.dart';
 import 'talk_home_screen.dart';
@@ -74,6 +76,9 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
   final String _sessionId = 'guided-${DateTime.now().millisecondsSinceEpoch}';
 
   late String _scene = widget.args.script.emoji;
+
+  /// Story illustration on screen (0 = cover).
+  int _sceneIndex = 0;
   _Turn? _turn;
   bool _vietnamese = true;
   bool _finished = false;
@@ -183,6 +188,8 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
         switch (item) {
           case TalkPicture():
             setState(() => _scene = item.emoji);
+          case TalkScene():
+            setState(() => _sceneIndex = item.index);
           case TalkLine():
             if (item.role == _kid) {
               final said = await _kidTurn([
@@ -211,6 +218,7 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
         if (option == null) {
           return;
         }
+        widget.args.onChoice?.call(block.id, option);
       } else {
         option = choice.options[_random.nextInt(choice.options.length)];
         _add(_Bubble(choice.role, option.en, option.vi));
@@ -375,10 +383,13 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
     }
     final profileId = _profileId;
     if (profileId != null) {
-      await TalkDone.add(_services, profileId, _script.id).catchError((Object _) {});
+      if (widget.args.record) {
+        await TalkDone.add(_services, profileId, _script.id).catchError((Object _) {});
+      }
       await _services.db.profileRepo.addStars(profileId, AppConfig.starsPerStage).catchError((Object _) {});
       ref.invalidate(activeProfileProvider);
     }
+    await widget.args.onFinished?.call().catchError((Object _) {});
     if (!mounted) {
       return;
     }
@@ -394,7 +405,7 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
       }
       await _services.speech.sayVi(_script.moralVi).catchError((Object _) {});
     } else {
-      await _services.speech.sayVi(S.talkDoneSpoken).catchError((Object _) {});
+      await _services.speech.sayVi(widget.args.doneSpokenVi ?? S.talkDoneSpoken).catchError((Object _) {});
     }
   }
 
@@ -409,6 +420,7 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
       _turn = null;
       _finished = false;
       _scene = _script.emoji;
+      _sceneIndex = 0;
     });
     unawaited(_services.speech.stop());
     WidgetsBinding.instance.addPostFrameCallback((_) => _runFrom(_script.startId));
@@ -426,17 +438,26 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
           children: [
             _topBar(),
             if (_script.kind == TalkKind.role) _rolesLine(),
-            SizedBox(
-              height: 76,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  BiMascot(mood: turn != null ? BiMood.listening : BiMood.happy, size: 64, level: level),
-                  const SizedBox(width: 16),
-                  EmojiText(_scene, size: 52),
-                ],
+            if (_script.kind == TalkKind.story)
+              _storyHeader(turn, level)
+            else
+              SizedBox(
+                height: 76,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    BiMascot(mood: turn != null ? BiMood.listening : BiMood.happy, size: 64, level: level),
+                    const SizedBox(width: 16),
+                    Container(
+                      width: 64,
+                      height: 64,
+                      alignment: Alignment.center,
+                      decoration: BoxDecoration(color: AppColors.honeySoft, borderRadius: BorderRadius.circular(20)),
+                      child: EmojiText(_scene, size: 42),
+                    ),
+                  ],
+                ),
               ),
-            ),
             Expanded(
               // Reversed, like a messaging app: the newest line stays at the
               // bottom, just above the answers, whatever their height.
@@ -458,12 +479,35 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
     );
   }
 
+  /// The illustration of the current scene, with Bi watching in the corner.
+  Widget _storyHeader(_Turn? turn, int level) {
+    // A smaller picture while the child answers, so the lines stay in view.
+    final height = turn != null ? 150.0 : 210.0;
+    return AnimatedContainer(
+      duration: const Duration(milliseconds: 300),
+      height: height,
+      margin: const EdgeInsets.fromLTRB(12, 6, 12, 2),
+      decoration: BoxDecoration(borderRadius: BorderRadius.circular(24), boxShadow: AppShadows.card),
+      child: Stack(
+        fit: StackFit.expand,
+        children: [
+          StoryScene(storyId: _script.id, scene: _sceneIndex, fallbackEmoji: _scene),
+          Positioned(
+            left: 6,
+            bottom: 0,
+            child: BiMascot(mood: turn != null ? BiMood.listening : BiMood.happy, size: 60, level: level),
+          ),
+        ],
+      ),
+    );
+  }
+
   Widget _topBar() {
     return Padding(
       padding: const EdgeInsets.fromLTRB(10, 6, 10, 0),
       child: Row(
         children: [
-          KidIconButton(icon: Icons.close_rounded, size: 52, onPressed: () => Navigator.of(context).maybePop()),
+          RoundIconButton(icon: Icons.close_rounded, semanticLabel: S.close, onPressed: () => Navigator.of(context).maybePop()),
           const SizedBox(width: 10),
           Expanded(
             child: Column(
@@ -512,20 +556,26 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
         onTap: () => _say(b.role, b.en, b.vi),
         child: Container(
           margin: const EdgeInsets.symmetric(vertical: 5),
-          padding: const EdgeInsets.fromLTRB(12, 8, 12, 8),
+          padding: const EdgeInsets.fromLTRB(14, 9, 14, 9),
           decoration: BoxDecoration(
             color: b.fromKid ? AppColors.honey : AppColors.white,
-            borderRadius: BorderRadius.circular(18),
-            border: Border.all(color: AppColors.ink, width: 1.5),
+            borderRadius: BorderRadius.only(
+              topLeft: const Radius.circular(22),
+              topRight: const Radius.circular(22),
+              bottomLeft: Radius.circular(b.fromKid ? 22 : 6),
+              bottomRight: Radius.circular(b.fromKid ? 6 : 22),
+            ),
+            boxShadow: AppShadows.soft,
           ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               if (role != null && _script.roles.length > 2)
-                Text(role.vi, style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w800)),
+                Text(role.vi,
+                    style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w900, color: AppColors.inkSoft)),
               SpokenText(b.en, fontSize: 22, alignment: WrapAlignment.start, voice: _voiceFor(b.role)),
               const SizedBox(height: 2),
-              Text(b.vi, style: const TextStyle(fontSize: 16, color: Color(0xFF6B5A44), fontStyle: FontStyle.italic)),
+              Text(b.vi, style: const TextStyle(fontSize: 16, color: AppColors.inkSoft, fontStyle: FontStyle.italic)),
             ],
           ),
         ),
@@ -547,10 +597,11 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
     final option = turn.options[turn.selected.clamp(0, turn.options.length - 1)];
     return Container(
       decoration: const BoxDecoration(
-        color: AppColors.cream,
-        border: Border(top: BorderSide(color: AppColors.ink, width: 2)),
+        color: AppColors.white,
+        borderRadius: BorderRadius.vertical(top: Radius.circular(28)),
+        boxShadow: AppShadows.sheet,
       ),
-      padding: const EdgeInsets.fromLTRB(10, 8, 10, 8),
+      padding: const EdgeInsets.fromLTRB(12, 12, 12, 8),
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
@@ -586,7 +637,7 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
                                     wordTaps: false,
                                   ),
                                   Text(turn.options[i].vi,
-                                      style: const TextStyle(fontSize: 15, color: Color(0xFF6B5A44))),
+                                      style: const TextStyle(fontSize: 15, color: AppColors.inkSoft)),
                                 ],
                               ),
                             ),
@@ -619,11 +670,12 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
     final story = _script.kind == TalkKind.story;
     return Container(
       margin: const EdgeInsets.only(top: 12),
-      padding: const EdgeInsets.all(14),
+      padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
         color: AppColors.white,
-        borderRadius: BorderRadius.circular(20),
-        border: Border.all(color: AppColors.leaf, width: 3),
+        borderRadius: BorderRadius.circular(26),
+        border: Border.all(color: AppColors.leafSoft, width: 3),
+        boxShadow: AppShadows.card,
       ),
       child: Column(
         children: [
@@ -635,7 +687,7 @@ class _GuidedTalkScreenState extends ConsumerState<GuidedTalkScreen> {
             SpokenText(_script.moralEn, fontSize: 22),
             Text(_script.moralVi,
                 textAlign: TextAlign.center,
-                style: const TextStyle(fontSize: 17, fontStyle: FontStyle.italic, color: Color(0xFF6B5A44))),
+                style: const TextStyle(fontSize: 17, fontStyle: FontStyle.italic, color: AppColors.inkSoft)),
           ],
           const SizedBox(height: 12),
           Row(

@@ -39,7 +39,8 @@ class BigKeyboard extends StatelessWidget {
               alignment: Alignment.center,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(12),
-                border: Border.all(color: AppColors.ink, width: 2),
+                border: Border.all(color: AppColors.line, width: 1.5),
+                boxShadow: AppShadows.soft,
               ),
               child: icon != null
                   ? Icon(icon, size: 30, color: AppColors.ink)

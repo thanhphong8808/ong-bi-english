@@ -79,6 +79,7 @@ class SttService {
     String? saveWavPath,
     void Function(double level)? onLevel,
     void Function()? onSpeechStart,
+    int patienceMs = 0,
   }) async {
     if (!_ready) {
       throw const SttException('not_ready');
@@ -100,7 +101,7 @@ class SttService {
     Timer? timer;
 
     try {
-      await worker.call('stt.begin', {'savePath': saveWavPath});
+      await worker.call('stt.begin', {'savePath': saveWavPath, 'patienceMs': patienceMs});
 
       eventSub = worker.events.listen((event) {
         switch (event['type']) {

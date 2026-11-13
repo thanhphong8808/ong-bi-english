@@ -94,7 +94,8 @@ class _StickerAlbumScreenState extends ConsumerState<StickerAlbumScreen> {
                             decoration: BoxDecoration(
                               color: owned.contains(sticker.id) ? AppColors.white : const Color(0xFFEDE6D2),
                               borderRadius: BorderRadius.circular(18),
-                              border: Border.all(color: AppColors.ink, width: 2),
+                              border: Border.all(color: AppColors.line, width: 1.5),
+                              boxShadow: AppShadows.soft,
                             ),
                             child: Center(
                               child: owned.contains(sticker.id)
@@ -129,7 +130,8 @@ class _BadgeTile extends StatelessWidget {
       decoration: BoxDecoration(
         color: earned ? AppColors.white : const Color(0xFFEDE6D2),
         borderRadius: BorderRadius.circular(18),
-        border: Border.all(color: AppColors.ink, width: 2),
+        border: Border.all(color: AppColors.line, width: 1.5),
+        boxShadow: AppShadows.soft,
       ),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,

@@ -479,6 +479,8 @@ class S {
     levelUpSpoken, levelTestRetrySpoken, placementDoneLevel0, placementDoneLevel1, reviewIntro,
     remedialIntro, practiceIntro, levelReviewIntro, talkChooseSpoken, talkChooseScenario,
     talkChooseStory, talkWaking, talkTimeUpSpoken, insMicDenied,
+    helloDoneSpoken, pocketSpoken, pocketSaySpoken, pocketRoundDoneSpoken, chatNeedBrainSpoken,
+    chatHowSaySpoken, chatReadyTapSpoken, chatEndSpoken,
   ];
 
   static const insReading = 'Đọc đoạn văn rồi chọn câu trả lời đúng nhé!';
@@ -595,4 +597,103 @@ class S {
   static const parentWordsBadWord = 'Từ tiếng Anh chỉ gồm chữ cái, dấu cách, dấu nháy hoặc gạch nối (tối đa 40 ký tự).';
   static const parentWordsBadMeaning = 'Hãy nhập nghĩa tiếng Việt (tối đa 60 ký tự).';
   static const parentWordsBadExample = 'Câu ví dụ chỉ dùng chữ tiếng Anh không dấu và dấu câu thường (tối đa 120 ký tự).';
+
+  // ---- Home (new look) ----
+  static String homeHello(String name) => name.isEmpty ? 'Chào bé! 👋' : 'Chào $name! 👋';
+  static const homeSubtitleMorning = 'Sáng nay mình học gì nào?';
+  static const homeSubtitleDay = 'Hôm nay mình học gì nào?';
+  static const homeSubtitleEvening = 'Tối nay mình ôn bài nhé!';
+  static const homeHelloTitle = 'Chào Bi mỗi ngày';
+  static const homeHelloSub = '3 phút trò chuyện cùng Bi';
+  static const homeHelloStart = 'Bắt đầu';
+  static const homeHelloDone = 'Nhiệm vụ hôm nay';
+  static const homeHelloAgain = 'Chào lại';
+  static const homeLessonSub = 'Bài học của hôm nay';
+  static const homeLessonSection = 'Bài của hôm nay';
+  static String homeUnit(int number, String topic) => 'Unit $number · $topic';
+  static const homeStories = 'Nghe kể chuyện';
+  static const homeStoriesSub = '23 truyện ngụ ngôn';
+  static const homeTalkSub = 'Trò chuyện, đóng vai';
+  static const homeWriteSub = 'Viết từ theo cấp';
+  static const homePocket = 'Câu bỏ túi';
+  static String homePocketSub(int n) => n == 0 ? 'Câu nói hằng ngày' : 'Đã có $n câu';
+  static const homeWeek = 'Tuần này của bé';
+  static const navHome = 'Trang chủ';
+  static const navLearn = 'Học';
+  static const navTalk = 'Bi';
+  static const navGifts = 'Quà';
+
+  // ---- Chào Bi mỗi ngày ----
+  static const helloSpoken = 'Chào cậu! Mình cùng trò chuyện buổi sáng nhé!';
+  static const helloDoneSpoken = 'Cậu nhớ làm nhiệm vụ hôm nay nhé! Ngày mai Bi sẽ hỏi đấy.';
+
+  // ---- Câu bỏ túi ----
+  static const pocketTitle = 'Câu bỏ túi';
+  static const pocketSpoken = 'Đây là túi câu của cậu. Chạm vào câu để nghe, hoặc bấm Luyện tập để nói cùng Bi nhé!';
+  static const pocketPractice = 'Luyện tập';
+  static String pocketCount(int have, int total) => 'Đã có $have/$total câu';
+  static const pocketMine = 'Câu bé hỏi Bi';
+  static const pocketMineEmpty = 'Hỏi Bi "Nói thế nào?" trong khi trò chuyện, câu mới sẽ vào đây.';
+  static const pocketSituation = 'Bi kể:';
+  static const pocketSayIt = 'Bé nói câu này nhé:';
+  static const pocketSaySpoken = 'Cậu nói câu này nhé!';
+  static const pocketRoundDoneSpoken = 'Giỏi quá! Túi câu của cậu đầy thêm rồi!';
+  static const pocketRoundDone = 'Xong lượt luyện tập!';
+  static const pocketNew = 'Mới';
+
+  // ---- Chat with Bi (smart chat) ----
+  static const chatTitle = 'Chat với Bi';
+  static const chatSub = 'Bi nghe, hiểu và trả lời cậu';
+  static const chatListening = 'Bi đang nghe…';
+  static const chatThinking = 'Bi đang nghĩ…';
+  static const chatSpeaking = 'Bi đang nói…';
+  static const chatTapMic = 'Bấm micro để nói';
+  static const chatWaking = 'Bi đang thức dậy…';
+  static const chatNeedBrain = 'Bi chưa có "bộ não"';
+  static const chatNeedBrainBody =
+      'Để trò chuyện tự do, bố mẹ vào Khu phụ huynh → Quản lý model và tải "Bộ não của Bi (Gemma 4)". '
+      'Trong lúc chờ, bé vẫn trò chuyện, đóng vai và nghe kể chuyện theo bài nhé!';
+  static const chatNeedBrainSpoken = 'Bi cần bố mẹ cài bộ não trước đã. Mình chơi trò chuyện theo bài nhé!';
+  static const chatAskBi = 'Hỏi Bi';
+  static const chatHowSay = 'Nói thế nào?';
+  static const chatHowSaySpoken = 'Cậu muốn nói gì? Cậu nói bằng tiếng Việt nhé, Bi sẽ dạy cậu nói bằng tiếng Anh!';
+  static const chatHowSayTyping = 'Gõ tiếng Việt điều bé muốn nói';
+  static const chatType = 'Gõ chữ';
+  static const chatTypeHint = 'Gõ câu trả lời…';
+  static const chatSend = 'Gửi';
+  static String chatSayThis(String en) => 'Nói câu này: $en';
+  static const chatSayFull = 'Bé nói cả câu nhé:';
+  static String chatSayFullSpoken(String vi) => vi.isEmpty ? 'Cậu nói cả câu nhé!' : 'Cậu nói cả câu nhé: $vi';
+  static String chatYouCanSayVi(String vi) => 'Cậu có thể nói: $vi';
+  static const chatReadyTapSpoken = 'Khi nào sẵn sàng, cậu bấm micro nhé!';
+  static const chatNoteSaved = '📒 Bi ghi vào sổ tay';
+  static const chatPhraseSaved = '🎒 Đã cất vào túi câu';
+  static const chatEndSpoken = 'Hôm nay mình nói chuyện vui quá! Hẹn gặp cậu lần sau nhé!';
+  static const chatAutoMic = 'Tự mở micro';
+  static const chatSuggest = 'Gợi ý cho bé:';
+
+  // ---- Sổ tay của Bi (parents) ----
+  static const notesTitle = 'Sổ tay của Bi';
+  static const notesIntro =
+      'Những điều an toàn bé kể với Bi (con vật, màu, món ăn yêu thích…), để hôm sau Bi hỏi lại như một người bạn. '
+      'Chỉ lưu trên máy này. Bi không bao giờ ghi địa chỉ, trường học, số điện thoại hay họ tên.';
+  static const notesEmpty = 'Sổ tay đang trống.';
+  static const notesOn = 'Cho Bi ghi nhớ';
+  static const notesClear = 'Xoá hết sổ tay';
+  static const notesClearAsk = 'Xoá mọi điều Bi đã ghi nhớ về bé?';
+
+  // ---- Parent dashboard ----
+  static const dashOverview = 'Tổng quan tuần này';
+  static const dashMinutes = 'Thời gian học';
+  static const dashLessons = 'Bài đã học';
+  static const dashDays = 'Ngày học';
+  static const dashTalks = 'Câu nói với Bi';
+  static String dashMinutesValue(int m) => '$m phút';
+  static String dashDaysValue(int d) => '$d/7 ngày';
+  static const dashWeekChart = 'Số phút học mỗi ngày';
+  static const dashTips = 'Gợi ý tuần này cho cả nhà';
+  static const dashTipsIntro = 'Dùng 3 câu này trong bữa tối hoặc lúc chơi với bé:';
+  static const dashWeak = 'Từ bé cần ôn thêm';
+  static const dashWeakNone = 'Chưa có từ nào cần ôn. Tuyệt vời!';
+  static const dashMenu = 'Quản lý';
 }

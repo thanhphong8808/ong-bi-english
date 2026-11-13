@@ -337,6 +337,13 @@ class SettingsRepo extends _Repo {
     );
   }
 
+  Future<void> delete(String key, {int profileId = 0}) async {
+    await db.customUpdate(
+      'DELETE FROM settings WHERE profile_id = ? AND setting_key = ?',
+      variables: [_i(profileId), _s(key)],
+    );
+  }
+
   Future<void> writeAll(Map<String, String> values, {int profileId = 0}) {
     return db.transaction(() async {
       for (final entry in values.entries) {

@@ -128,7 +128,7 @@ class _ParentGateDialogState extends ConsumerState<_ParentGateDialog> {
               decoration: BoxDecoration(
                 color: AppColors.white,
                 borderRadius: BorderRadius.circular(14),
-                border: Border.all(color: AppColors.ink, width: 2),
+                border: Border.all(color: AppColors.line, width: 1.5),
               ),
               child: Text(
                 shown,

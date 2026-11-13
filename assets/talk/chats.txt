@@ -905,3 +905,88 @@ bi: Do you want to dance too? | Cậu có muốn nhảy múa không?
 [end_party]
 bi: Happy Mid-Autumn Festival! | Chúc mừng Tết Trung thu!
 -> end
+
+=== chat tet
+topic: holidays
+emoji: 🧧
+title: Happy Tet! | Chúc mừng năm mới!
+level: 0
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🌸
+bi: Look! Yellow flowers and pink flowers! | Nhìn kìa! Hoa mai vàng và hoa đào hồng!
+bi: It's Tet! Happy New Year! | Tết đến rồi! Chúc mừng năm mới!
+kid: Happy New Year! | Chúc mừng năm mới!
+[food]
+pic: 🍙
+bi: What do you eat at Tet? | Ngày Tết cậu ăn gì?
+? kid
+- 🟩 I eat banh chung. | Tớ ăn bánh chưng. -> cake
+- 🍬 I eat sweets. | Tớ ăn mứt kẹo. -> sweets
+- 🍉 I eat watermelon. | Tớ ăn dưa hấu. -> melon
+[cake]
+bi: Banh chung is square and green. Yummy! | Bánh chưng vuông và xanh. Ngon quá!
+-> money
+[sweets]
+bi: Sweets for a sweet year! | Mứt ngọt cho một năm ngọt ngào!
+-> money
+[melon]
+bi: A big red watermelon! Lucky! | Một quả dưa hấu ruột đỏ to! May mắn quá!
+-> money
+[money]
+pic: 🧧
+bi: Grandma gives you a red envelope. | Bà cho cậu một bao lì xì đỏ.
+bi: What do you say? | Cậu nói gì nhỉ?
+? kid
+- 🙏 Thank you, Grandma! | Cháu cảm ơn bà ạ! -> wish
+- ❤️ I love you, Grandma! | Cháu yêu bà ạ! -> wish
+[wish]
+bi: Now let's say a Tet wish to Grandma. | Giờ mình chúc Tết bà nhé.
+kid: I wish you good health! | Cháu chúc bà mạnh khoẻ ạ!
+bi: Wonderful! Grandma is so happy! | Tuyệt vời! Bà vui lắm!
+bi: Happy New Year to you and your family! | Chúc mừng năm mới cậu và cả nhà!
+-> end
+
+=== chat visit_grandparents
+topic: family
+emoji: 👵
+title: Visiting Grandma and Grandpa | Về thăm ông bà
+level: 1
+roles: bi=Bi|Bi|🐝, kid=Me|Bé|🧒
+
+[start]
+pic: 🏡
+bi: Today we visit Grandma and Grandpa! | Hôm nay mình về thăm ông bà!
+bi: Knock, knock! Grandma opens the door. | Cốc, cốc! Bà ra mở cửa.
+? kid
+- 👋 Hello, Grandma! | Cháu chào bà ạ!
+- 🤗 I missed you, Grandma! | Cháu nhớ bà lắm ạ!
+[hug]
+bi: Grandma gives you a big hug. | Bà ôm cậu thật chặt.
+bi: Grandpa is in the garden. What does he have? | Ông đang ở ngoài vườn. Ông có gì thế?
+? kid
+- 🐔 He has chickens. | Ông có gà. -> chickens
+- 🍊 He has an orange tree. | Ông có cây cam. -> tree
+[chickens]
+pic: 🐔
+bi: Cluck, cluck! Let's feed the chickens. | Cục ta cục tác! Mình cho gà ăn nhé.
+kid: Here you are, chickens! | Gà ơi, ăn đi nào!
+-> help
+[tree]
+pic: 🍊
+bi: Let's pick some oranges with Grandpa. | Mình cùng ông hái cam nhé.
+kid: One, two, three oranges! | Một, hai, ba quả cam!
+-> help
+[help]
+pic: 🍲
+bi: Grandma is cooking. How can you help? | Bà đang nấu cơm. Cậu giúp bà thế nào?
+? kid
+- 🍽️ I can set the table. | Cháu dọn bát đũa ạ.
+- 🥢 I can wash the vegetables. | Cháu rửa rau ạ.
+[bye]
+pic: 👋
+bi: It's time to go home. What do you say? | Đến giờ về rồi. Cậu nói gì nhỉ?
+kid: Goodbye! I love you, Grandma and Grandpa! | Cháu chào ông bà! Cháu yêu ông bà ạ!
+bi: They love you too! | Ông bà cũng yêu cậu lắm!
+-> end

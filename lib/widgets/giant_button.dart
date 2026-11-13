@@ -26,6 +26,15 @@ class GiantButton extends StatefulWidget {
 class _GiantButtonState extends State<GiantButton> {
   bool _down = false;
 
+  /// The pastel tile behind the emoji for each accent colour.
+  static Color _tint(Color c) {
+    if (c == AppColors.sky) return AppColors.skySoft;
+    if (c == AppColors.leaf) return AppColors.leafSoft;
+    if (c == AppColors.berry) return AppColors.berrySoft;
+    if (c == AppColors.grape) return AppColors.grapeSoft;
+    return AppColors.honeySoft;
+  }
+
   void _setDown(bool value) {
     if (mounted) {
       setState(() => _down = value);
@@ -50,31 +59,43 @@ class _GiantButtonState extends State<GiantButton> {
               minHeight: AppConfig.giantButtonMinSize,
               minWidth: AppConfig.giantButtonMinSize,
             ),
-            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
             decoration: BoxDecoration(
-              color: widget.color,
-              borderRadius: BorderRadius.circular(32),
-              border: Border.all(color: AppColors.ink, width: 3),
-              boxShadow: const [
-                BoxShadow(color: AppColors.ink, offset: Offset(0, 6)),
-              ],
+              color: AppColors.white,
+              borderRadius: BorderRadius.circular(28),
+              boxShadow: AppShadows.card,
             ),
             child: Row(
               children: [
-                Text(
-                  widget.emoji,
-                  style: const TextStyle(fontFamily: AppTheme.emojiFont, fontSize: 64),
+                Container(
+                  width: 84,
+                  height: 84,
+                  alignment: Alignment.center,
+                  decoration: BoxDecoration(
+                    color: _tint(widget.color),
+                    borderRadius: BorderRadius.circular(24),
+                  ),
+                  child: Text(
+                    widget.emoji,
+                    style: const TextStyle(fontFamily: AppTheme.emojiFont, fontSize: 52, height: 1.1),
+                  ),
                 ),
-                const SizedBox(width: 20),
+                const SizedBox(width: 18),
                 Expanded(
                   child: Text(
                     widget.label,
                     style: const TextStyle(
-                      fontSize: 28,
+                      fontSize: 26,
                       fontWeight: FontWeight.w900,
                       color: AppColors.ink,
                     ),
                   ),
+                ),
+                Container(
+                  width: 40,
+                  height: 40,
+                  decoration: BoxDecoration(color: widget.color, shape: BoxShape.circle),
+                  child: const Icon(Icons.arrow_forward_rounded, color: AppColors.white, size: 24),
                 ),
               ],
             ),

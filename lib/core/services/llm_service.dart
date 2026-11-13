@@ -30,10 +30,18 @@ class LlmService {
   Stream<Map<String, Object?>>? _stream;
   int _nextId = 1;
   String? _backend;
+  bool _audio = false;
+  bool _mtp = false;
 
   /// "gpu" or "cpu" once a model is loaded.
   String? get backend => _backend;
   bool get isLoaded => _backend != null;
+
+  /// Bi can hear the child's recording directly (Gemma 4 audio input).
+  bool get hearsAudio => _audio;
+
+  /// Multi-token prediction is on (faster replies on the GPU).
+  bool get fastDecoding => _mtp;
 
   Stream<Map<String, Object?>> get _eventStream {
     return _stream ??= _events
@@ -44,7 +52,12 @@ class LlmService {
 
   /// Loads the model, trying the GPU first when [preferGpu] is set and
   /// falling back to the CPU when GPU initialisation fails.
-  Future<String> load({required String modelPath, required bool preferGpu}) async {
+  Future<String> load({
+    required String modelPath,
+    required bool preferGpu,
+    bool audio = false,
+    bool mtp = false,
+  }) async {
     if (guard.isDisabled(NativeGuard.llm)) {
       throw const LlmException('switched off after a crash on this phone');
     }
@@ -59,9 +72,13 @@ class LlmService {
           () => _channel.invokeMapMethod<String, Object?>('load', {
             'modelPath': modelPath,
             'useGpu': useGpu,
+            'audio': audio,
+            'mtp': mtp && useGpu,
           }),
         );
         _backend = (raw?['backend'] as String?) ?? (useGpu ? 'gpu' : 'cpu');
+        _audio = raw?['audio'] == true;
+        _mtp = raw?['mtp'] == true;
         return _backend!;
       } on PlatformException catch (e) {
         lastError = e.message ?? e.code;
@@ -74,17 +91,37 @@ class LlmService {
     throw LlmException('load failed: $lastError');
   }
 
-  /// Starts a fresh conversation with the given system prompt.
-  Future<void> startConversation(String systemPrompt) async {
+  /// Starts a fresh conversation with the given system prompt. [examples]
+  /// are earlier turns ({'user': ..., 'model': ...}) that show the model the
+  /// reply format; sampling settings are optional.
+  Future<void> startConversation(
+    String systemPrompt, {
+    List<Map<String, String>> examples = const [],
+    double? temperature,
+    int? topK,
+    double? topP,
+    int? maxOutputTokens,
+  }) async {
     try {
-      await _channel.invokeMethod<Object?>('startConversation', {'systemPrompt': systemPrompt});
+      await _channel.invokeMethod<Object?>('startConversation', {
+        'systemPrompt': systemPrompt,
+        'examples': examples,
+        if (temperature != null && topK != null && topP != null) ...{
+          'temperature': temperature,
+          'topK': topK,
+          'topP': topP,
+        },
+        'maxOutputTokens': ?maxOutputTokens,
+      });
     } on PlatformException catch (e) {
       throw LlmException(e.message ?? e.code);
     }
   }
 
-  /// Sends one user turn and streams the reply as text chunks.
-  Stream<String> send(String text) {
+  /// Sends one user turn and streams the reply as text chunks. With
+  /// [audioPath] (a 16 kHz WAV) the model also hears the recording, when the
+  /// loaded model accepts audio.
+  Stream<String> send(String text, {String? audioPath}) {
     final id = _nextId++;
     late final StreamController<String> controller;
     StreamSubscription<Map<String, Object?>>? sub;
@@ -113,7 +150,11 @@ class LlmService {
               controller.close();
           }
         });
-        _channel.invokeMethod<Object?>('send', {'id': id, 'text': text}).catchError((Object e) {
+        _channel.invokeMethod<Object?>('send', {
+          'id': id,
+          'text': text,
+          if (audioPath != null && _audio) 'audioPath': audioPath,
+        }).catchError((Object e) {
           idle();
           if (!controller.isClosed) {
             controller.addError(LlmException(e.toString()));
@@ -157,5 +198,7 @@ class LlmService {
       // Bridge unavailable (tests).
     }
     _backend = null;
+    _audio = false;
+    _mtp = false;
   }
 }

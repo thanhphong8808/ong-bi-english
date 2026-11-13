@@ -4,6 +4,7 @@ import 'dart:math' as math;
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:material_ui/material_ui.dart';
 import 'motion.dart';
+import 'story_art.dart';
 
 /// Bi's five moods. Each maps to one SVG in assets/svg/.
 enum BiMood { happy, listening, thinking, cheering, sleeping }
@@ -37,6 +38,21 @@ class _BiMascotState extends State<BiMascot> with SingleTickerProviderStateMixin
     vsync: this,
     duration: const Duration(milliseconds: 1800),
   );
+
+  /// The 3D Bi pictures in assets/bi3d/, when they are in the app.
+  Set<String>? _assets = StoryArt.loadedAssets;
+
+  @override
+  void initState() {
+    super.initState();
+    if (_assets == null) {
+      StoryArt.assets().then((a) {
+        if (mounted) {
+          setState(() => _assets = a);
+        }
+      });
+    }
+  }
 
   @override
   void didChangeDependencies() {
@@ -78,15 +94,23 @@ class _BiMascotState extends State<BiMascot> with SingleTickerProviderStateMixin
           scale: grow,
           child: AnimatedSwitcher(
             duration: const Duration(milliseconds: 250),
-            child: Stack(
-              key: ValueKey<String>('${widget.mood.name}-$level'),
-              children: [
-                SvgPicture.asset('assets/svg/bi_${widget.mood.name}.svg', width: size, height: size),
-                if (!sleeping)
-                  for (final layer in biOutfits[level])
-                    SvgPicture.asset('assets/svg/outfit_$layer.svg', width: size, height: size),
-              ],
-            ),
+            child: _assets?.contains('assets/bi3d/bi_${widget.mood.name}.webp') ?? false
+                ? Image.asset(
+                    'assets/bi3d/bi_${widget.mood.name}.webp',
+                    key: ValueKey<String>('3d-${widget.mood.name}'),
+                    width: size,
+                    height: size,
+                    fit: BoxFit.contain,
+                  )
+                : Stack(
+                    key: ValueKey<String>('${widget.mood.name}-$level'),
+                    children: [
+                      SvgPicture.asset('assets/svg/bi_${widget.mood.name}.svg', width: size, height: size),
+                      if (!sleeping)
+                        for (final layer in biOutfits[level])
+                          SvgPicture.asset('assets/svg/outfit_$layer.svg', width: size, height: size),
+                    ],
+                  ),
           ),
         ),
       ),

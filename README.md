@@ -7,8 +7,13 @@ Tài liệu này viết cho bố mẹ **không biết lập trình**. Làm lần
 
 ## App có gì
 
-**Cho bé** (màn hình chính có 3 nút to và chú ong Bi):
+**Cho bé** (màn hình chính kiểu thẻ mềm màu mật ong: thẻ "Chào Bi mỗi ngày", bài học hôm nay
+có thanh tiến độ, 4 ô Nói chuyện – Kể chuyện – Tập viết – Câu bỏ túi, tổ ong của tuần và thanh
+điều hướng dưới cùng):
 
+- **Chào Bi mỗi ngày** (3 phút): Bi hỏi bé hôm nay thấy thế nào, kể "tin mới" trong vườn hoa của
+  Bi (bạn Kiến Kiki, bạn Bọ Rùa Lulu), hỏi 2 câu về ngày của bé, dạy câu bỏ túi của ngày và giao
+  một nhiệm vụ nhỏ nói tiếng Anh với bố mẹ; sáng hôm sau Bi hỏi lại nhiệm vụ.
 - **Học hôm nay** (khoảng 12 phút): nghe – chọn hình, nhắc lại từ và câu, hội thoại
   mẫu với Bi, tập đọc, tập viết, rồi ôn lại từ cũ theo lịch Leitner (từ nào hay sai sẽ
   gặp lại nhiều hơn). Học xong mỗi unit có bài kiểm tra (đạt 80%), học xong mỗi cấp có
@@ -17,19 +22,29 @@ Tài liệu này viết cho bố mẹ **không biết lập trình**. Làm lần
   "Nghỉ đã" (phần đã học vẫn được lưu).
 - **Nói chuyện với Bi** (song ngữ Anh – Việt, mọi câu có nghĩa tiếng Việt bên dưới, bật "VI"
   để Bi đọc cả nghĩa):
+  - **Chat với Bi** (cần gói "Bộ não của Bi", Gemma 4 chạy trên máy): micro tự mở sau khi Bi nói
+    và chờ bé ngập ngừng giữa câu; Bi nhắc ngay một từ bé vừa nói trong lúc nghĩ, trả lời bằng câu
+    tiếng Anh ngắn kèm nghĩa tiếng Việt và 3 câu gợi ý. Bé im lặng thì Bi hỏi câu dễ hơn, rồi đọc
+    mẫu cho bé nói theo. Bé chỉ nói 1–2 từ thì Bi mời bé nói cả câu. Bé dùng được câu cứu nguy
+    ("Say it again, please", "Slowly, please", "I don't know"), thẻ "Hỏi Bi" và nút
+    **"Nói thế nào?"**: bé nói tiếng Việt, Bi dạy câu tiếng Anh rồi cất vào túi câu của bé.
+    **Sổ tay của Bi** ghi vài điều an toàn bé kể (con vật, màu, món ăn yêu thích…) để hôm sau hỏi
+    lại; bố mẹ xem, xoá hoặc tắt trong khu phụ huynh. Lời bé nói và mọi dòng Bi trả lời đều qua
+    lớp lọc an toàn trước khi hiện hay đọc.
   - **Trò chuyện theo chủ đề**: 12 chủ đề (hằng ngày, lớp học, đường phố, vui chơi, gia đình,
     ăn uống, mua sắm, sức khoẻ, con vật, thời tiết, cảm xúc và tình bạn, lễ hội và sinh nhật)
-    với 24 cuộc trò chuyện. Đến lượt bé, app hiện 2–4 câu trả lời có hình, Bi đọc mẫu, bé nói
-    vào micro; bé chọn câu nào thì câu chuyện rẽ theo hướng đó.
-  - **Đóng vai**: 16 tình huống theo chủ đề (quán phở, tiệm bánh, cửa hàng hoa quả, bác sĩ,
-    nha sĩ, hỏi đường, xe buýt, thư viện, sở thú, sinh nhật…). Bé chọn vai, Bi đóng vai còn lại.
+    với 26 cuộc trò chuyện (có Tết và về thăm ông bà). Đến lượt bé, app hiện 2–4 câu trả lời có
+    hình, Bi đọc mẫu, bé nói vào micro; bé chọn câu nào thì câu chuyện rẽ theo hướng đó.
+  - **Đóng vai**: 18 tình huống theo chủ đề (quán phở, xe bánh mì, tiệm bánh, cửa hàng hoa quả,
+    bác sĩ, nha sĩ, hỏi đường, xe buýt, thư viện, sở thú, sinh nhật…). Bé chọn vai, Bi đóng vai
+    còn lại.
   - **Nghe kể chuyện**: 23 truyện ngụ ngôn và cổ tích kể lại bằng câu đơn giản (Rùa và Thỏ,
     Sư tử và chuột, Cậu bé chăn cừu, Con quạ thông minh, Bó đũa, Vịt con xấu xí, Cây khế, Ếch
-    ngồi đáy giếng, Thầy bói xem voi…). Giữa truyện Bi hỏi bé, cuối truyện có bài học và một
-    câu hỏi để bé áp dụng vào cuộc sống.
-  - **Nói tự do với Bi** trong mỗi chủ đề (cần gói "Bộ não của Bi"): Bi chỉ nói tối đa 2 câu
-    ngắn, luôn kết thúc bằng một câu hỏi dễ, có gợi ý câu trả lời và lớp lọc an toàn ở cả lời
-    bé nói và lời Bi nói.
+    ngồi đáy giếng, Thầy bói xem voi…). Mỗi truyện có khung tranh minh hoạ đổi theo từng đoạn
+    (bìa + 4–6 cảnh, bộ prompt ở `docs/STORY_ART.md`); khi chưa có tranh, app hiện hình emoji.
+    Giữa truyện Bi hỏi bé, cuối truyện có bài học và một câu hỏi để bé áp dụng vào cuộc sống.
+- **Câu bỏ túi**: 80 câu dùng hằng ngày và câu cứu nguy theo 8 nhóm. Luyện tập: Bi dựng một tình
+  huống nhỏ ("Bụng cậu kêu ùng ục! Cậu nói gì nhỉ?"), bé nói câu đó; ôn lại theo lịch Leitner.
 - **Tập viết**: **viết từ theo cấp** từ dễ đến khó: mỗi bộ 3–5 từ có
   hình (cấp 0: 3 từ ngắn, cấp 1: 4 từ, từ cấp 2: 5 từ). Bé xem và nghe từng từ (kèm phiên âm),
   chép lại, rồi làm bài kiểm tra: nhìn hình, nghe Bi đọc và tự viết. App chấm từng chữ, cho sao
@@ -62,10 +77,14 @@ khung giờ học, nhắc giờ học, giọng đọc Mỹ/Anh nam/nữ, đọc 
 mức hỗ trợ tiếng Việt, hoãn đọc chữ tiếng Anh, bảng tiến độ (điểm kỹ năng theo tuần,
 phút học, mục hay sai, lịch sử kiểm tra), nhật ký "Nói chuyện với Bi" có đánh dấu an
 toàn, tối đa 3 hồ sơ bé, sao lưu/khôi phục tiến độ, quản lý model, kiểm tra hệ thống.
+Trang đầu khu phụ huynh là bảng tổng quan tuần (phút học, số bài, số ngày học, số câu bé nói với
+Bi, biểu đồ phút học mỗi ngày), **gợi ý tuần cho cả nhà** (3 câu dùng trong bữa tối, các từ bé
+cần ôn) và **Sổ tay của Bi**.
 
 Toàn bộ chạy trên điện thoại. Sau khi tải model lần đầu, bật chế độ máy bay vẫn dùng
-được mọi tính năng. Chỉ phần "Nói tự do với Bi" cần gói "Bộ não của Bi" (Gemma 4); mọi bài
-học, trò chuyện theo chủ đề, đóng vai, kể chuyện, ôn tập và kiểm tra đều chạy không cần gói này.
+được mọi tính năng. Chỉ phần "Chat với Bi" cần gói "Bộ não của Bi" (Gemma 4); mọi bài
+học, Chào Bi mỗi ngày, câu bỏ túi, trò chuyện theo chủ đề, đóng vai, kể chuyện, ôn tập và kiểm
+tra đều chạy không cần gói này.
 
 ## Cần chuẩn bị
 

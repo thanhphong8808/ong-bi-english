@@ -245,7 +245,6 @@ class MicPanelState extends ConsumerState<MicPanel> {
                 decoration: BoxDecoration(
                   color: listening ? AppColors.berry : AppColors.honey,
                   shape: BoxShape.circle,
-                  border: Border.all(color: AppColors.ink, width: 4),
                   boxShadow: [
                     BoxShadow(
                       color: listening ? AppColors.berry.withValues(alpha: 0.6) : const Color(0x33000000),

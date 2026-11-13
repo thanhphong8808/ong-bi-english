@@ -212,22 +212,30 @@ class KidIconButton extends StatelessWidget {
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Material(
-            color: color,
-            shape: const CircleBorder(side: BorderSide(color: AppColors.ink, width: 3)),
-            child: InkWell(
-              customBorder: const CircleBorder(),
-              onTap: onPressed,
-              child: SizedBox(
-                width: size,
-                height: size,
-                child: Icon(icon, size: size * 0.55, color: AppColors.ink, semanticLabel: label),
+          DecoratedBox(
+            decoration: BoxDecoration(
+              shape: BoxShape.circle,
+              boxShadow: enabled ? AppShadows.card : null,
+            ),
+            child: Material(
+              color: color,
+              shape: CircleBorder(
+                side: color == AppColors.white ? const BorderSide(color: AppColors.line) : BorderSide.none,
+              ),
+              child: InkWell(
+                customBorder: const CircleBorder(),
+                onTap: onPressed,
+                child: SizedBox(
+                  width: size,
+                  height: size,
+                  child: Icon(icon, size: size * 0.5, color: AppColors.ink, semanticLabel: label),
+                ),
               ),
             ),
           ),
           if (label != null)
             Padding(
-              padding: const EdgeInsets.only(top: 4),
+              padding: const EdgeInsets.only(top: 6),
               child: Text(label!, style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w800)),
             ),
         ],
