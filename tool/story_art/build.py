@@ -96,8 +96,10 @@ def main():
         '3. Đặt tên file đúng như cột "File", ví dụ `tortoise_hare_03.png`.',
         '4. Bỏ tất cả ảnh vào một thư mục rồi chạy:',
         '   `python3 tool/story_art/import_art.py <thư mục>` — tự cắt 16:10, nén WebP, chép vào `assets/story_art/`.',
-        '5. Ong Bi 3D: tạo 8 tư thế, tách nền (Remove Background), đặt tên `bi_<tư thế>.png`; lệnh trên cũng',
-        '   chép chúng vào `assets/bi3d/`. App tự dùng Bi 3D khi có ảnh.',
+        '5. Ong Bi 3D: ảnh vuông 1:1 trên nền xanh lá thuần #00FF00. Làm `bi_happy.png` trước rồi Remix từ nó cho',
+        '   các ảnh còn lại. `bi_<tâm trạng>_<cấp>.png` mặc bộ đồ của cấp đó (`biOutfits` trong',
+        '   `lib/widgets/bi_mascot.dart`). Nhập bằng `python3 tool/story_art/import_bi.py <thư mục>`: tự tách nền',
+        '   xanh, chép vào `assets/bi3d/`. Thiếu ảnh nào thì app dùng Bi SVG kèm đồ như cũ.',
         '',
         f'**Phong cách chung (đã có trong mỗi prompt):** {S.STYLE}',
         '',
@@ -109,9 +111,15 @@ def main():
         '|---|---|',
     ]
     for pose, action in S.BI_POSES:
-        p = f'{S.BI}, {action}. Full body, centred, plain very light cream background, soft studio light, no text.'
-        items.append({'file': f'bi_{pose}.png', 'prompt': p, 'negative': S.NEGATIVE, 'kind': 'mascot'})
-        md.append(f'| `bi_{pose}.png` | {p} |')
+        for level, outfit in enumerate(S.BI_OUTFITS):
+            if level and pose == 'sleeping':
+                continue
+            name = f'bi_{pose}_{level}' if level else f'bi_{pose}'
+            wear = f', {outfit}' if outfit else ', no clothes or accessories'
+            p = (f'{S.BI}{wear if pose != "sleeping" else ""}, {action}. Full body, centred, plain pure green '
+                 f'(#00FF00) background with nothing else on it, soft studio light, no shadow, no text.')
+            items.append({'file': f'{name}.png', 'prompt': p, 'negative': S.NEGATIVE, 'kind': 'mascot'})
+            md.append(f'| `{name}.png` | {p} |')
     for sid in ids:
         spec = S.STORIES[sid]
         md += ['', f'## {spec["title"]} (`{sid}`)', '']
@@ -130,7 +138,7 @@ def main():
     open(os.path.join(ROOT, 'docs', 'STORY_ART.md'), 'w', encoding='utf-8').write('\n'.join(md) + '\n')
     json.dump(items, open(os.path.join(HERE, 'prompts.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     scenes = sum(1 for i in items if i['kind'] == 'scene')
-    print(f'{len(ids)} stories, {scenes} scene pictures, {len(S.BI_POSES)} mascot poses')
+    print(f'{len(ids)} stories, {scenes} scene pictures, {sum(1 for i in items if i["kind"] == "mascot")} Bi pictures')
 
 
 if __name__ == '__main__':

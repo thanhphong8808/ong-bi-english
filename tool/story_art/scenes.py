@@ -35,9 +35,17 @@ BI_POSES = [
     ("thinking", "finger on chin, looking up, with a small sparkle above its head"),
     ("cheering", "jumping with both arms up, eyes closed with joy, a few golden confetti pieces"),
     ("sleeping", "curled up and floating, eyes closed, peaceful smile, a tiny star-patterned nightcap"),
-    ("reading", "holding an open picture book with both hands, smiling at the reader"),
-    ("talking", "mouth open mid-word, one hand raised as if explaining, cheerful"),
-    ("hello", "a big welcoming pose with both arms open, sunrise-coloured soft glow behind"),
+]
+
+# What Bi wears at each level (same order as biOutfits in lib/widgets/bi_mascot.dart).
+# Level 0 wears nothing; sleeping Bi always wears only the nightcap.
+BI_OUTFITS = [
+    "",
+    "wearing a small red baseball cap",
+    "wearing a small red baseball cap and a blue bow tie",
+    "wearing round brown glasses and a blue bow tie",
+    "wearing round brown glasses and a soft green knitted scarf",
+    "wearing a dark-blue graduation cap with a golden tassel, round brown glasses and a soft green knitted scarf",
 ]
 
 STORIES = {

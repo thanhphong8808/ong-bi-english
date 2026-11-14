@@ -73,6 +73,13 @@ class _BiMascotState extends State<BiMascot> with SingleTickerProviderStateMixin
     final level = widget.level.clamp(0, biOutfits.length - 1).toInt();
     final grow = 0.86 + level * 0.028;
     final size = widget.size;
+    // 3D Bi: bi_<mood>.webp has no outfit, bi_<mood>_<level>.webp wears that
+    // level's outfit. Without the right 3D picture, the SVG Bi with outfit
+    // layers is used, so a level's outfit never disappears.
+    final dressed = !sleeping && biOutfits[level].isNotEmpty;
+    final picture3d = dressed
+        ? 'assets/bi3d/bi_${widget.mood.name}_$level.webp'
+        : 'assets/bi3d/bi_${widget.mood.name}.webp';
     return SizedBox(
       width: size,
       height: size,
@@ -94,10 +101,10 @@ class _BiMascotState extends State<BiMascot> with SingleTickerProviderStateMixin
           scale: grow,
           child: AnimatedSwitcher(
             duration: const Duration(milliseconds: 250),
-            child: _assets?.contains('assets/bi3d/bi_${widget.mood.name}.webp') ?? false
+            child: _assets?.contains(picture3d) ?? false
                 ? Image.asset(
-                    'assets/bi3d/bi_${widget.mood.name}.webp',
-                    key: ValueKey<String>('3d-${widget.mood.name}'),
+                    picture3d,
+                    key: ValueKey<String>(picture3d),
                     width: size,
                     height: size,
                     fit: BoxFit.contain,

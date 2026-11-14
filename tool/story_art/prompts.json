@@ -1,49 +1,151 @@
 [
  {
   "file": "bi_happy.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, waving one hand and smiling, floating slightly. Full body, centred, plain very light cream background, soft studio light, no text.",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, no clothes or accessories, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_happy_1.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_happy_2.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap and a blue bow tie, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_happy_3.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a blue bow tie, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_happy_4.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a soft green knitted scarf, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_happy_5.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a dark-blue graduation cap with a golden tassel, round brown glasses and a soft green knitted scarf, waving one hand and smiling, floating slightly. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
   "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
   "kind": "mascot"
  },
  {
   "file": "bi_listening.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain very light cream background, soft studio light, no text.",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, no clothes or accessories, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_listening_1.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_listening_2.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap and a blue bow tie, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_listening_3.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a blue bow tie, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_listening_4.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a soft green knitted scarf, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_listening_5.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a dark-blue graduation cap with a golden tassel, round brown glasses and a soft green knitted scarf, holding one hand behind its ear, eyes wide and curious, leaning forward. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
   "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
   "kind": "mascot"
  },
  {
   "file": "bi_thinking.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain very light cream background, soft studio light, no text.",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, no clothes or accessories, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_thinking_1.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_thinking_2.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap and a blue bow tie, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_thinking_3.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a blue bow tie, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_thinking_4.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a soft green knitted scarf, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_thinking_5.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a dark-blue graduation cap with a golden tassel, round brown glasses and a soft green knitted scarf, finger on chin, looking up, with a small sparkle above its head. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
   "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
   "kind": "mascot"
  },
  {
   "file": "bi_cheering.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain very light cream background, soft studio light, no text.",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, no clothes or accessories, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_cheering_1.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_cheering_2.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a small red baseball cap and a blue bow tie, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_cheering_3.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a blue bow tie, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_cheering_4.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing round brown glasses and a soft green knitted scarf, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
+  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
+  "kind": "mascot"
+ },
+ {
+  "file": "bi_cheering_5.png",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, wearing a dark-blue graduation cap with a golden tassel, round brown glasses and a soft green knitted scarf, jumping with both arms up, eyes closed with joy, a few golden confetti pieces. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
   "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
   "kind": "mascot"
  },
  {
   "file": "bi_sleeping.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, curled up and floating, eyes closed, peaceful smile, a tiny star-patterned nightcap. Full body, centred, plain very light cream background, soft studio light, no text.",
-  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
-  "kind": "mascot"
- },
- {
-  "file": "bi_reading.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, holding an open picture book with both hands, smiling at the reader. Full body, centred, plain very light cream background, soft studio light, no text.",
-  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
-  "kind": "mascot"
- },
- {
-  "file": "bi_talking.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, mouth open mid-word, one hand raised as if explaining, cheerful. Full body, centred, plain very light cream background, soft studio light, no text.",
-  "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
-  "kind": "mascot"
- },
- {
-  "file": "bi_hello.png",
-  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, a big welcoming pose with both arms open, sunrise-coloured soft glow behind. Full body, centred, plain very light cream background, soft studio light, no text.",
+  "prompt": "Bi, a cute chubby little bee mascot: round honey-yellow head with rosy pink cheeks and big shiny dark eyes, two curly antennae tipped with small orange balls, round yellow body with two chocolate-brown stripes, tiny light-blue translucent wings, short little arms, soft 3D vinyl-toy look, curled up and floating, eyes closed, peaceful smile, a tiny star-patterned nightcap. Full body, centred, plain pure green (#00FF00) background with nothing else on it, soft studio light, no shadow, no text.",
   "negative": "text, letters, words, numbers, watermark, logo, signature, scary, horror, blood, injury, weapons, sharp fangs, angry monster, realistic photo, dark gloomy lighting, extra limbs, deformed hands, cluttered background",
   "kind": "mascot"
  },

@@ -55,8 +55,11 @@ không thì emoji như cũ).
 - `python3 tool/word_art/import_art.py <thư mục>` tự cắt mỗi bảng thành 9 ảnh WebP 448 px.
 - Các từ chỉ số (zero…twenty) cố ý giữ emoji vì AI hay vẽ sai số lượng.
 
-**Chưa làm:** 8 tư thế 3D của Bi (`bi_<pose>`). Lưu ý: khi có ảnh 3D, `lib/widgets/bi_mascot.dart` bỏ các món đồ
-(outfit) mà bé mở khoá theo cấp, vì chúng chỉ vẽ chồng lên Bi bản SVG. Cần chủ dự án quyết trước khi làm.
+**Ong Bi 3D: xong, 25 ảnh** trong `assets/bi3d/`: 5 tâm trạng (happy, listening, thinking, cheering, sleeping),
+mỗi tâm trạng trừ sleeping có thêm 5 bản mặc đồ theo cấp 1–5 (`bi_<tâm trạng>_<cấp>.webp`), nên đồ bé mở khoá vẫn còn.
+- Vẽ trên nền xanh lá #00FF00, `python3 tool/story_art/import_bi.py <thư mục>` tự tách nền.
+- `lib/widgets/bi_mascot.dart`: thiếu ảnh 3D đúng cấp thì dùng Bi SVG kèm đồ như cũ.
+- Bỏ 3 tư thế reading, talking, hello vì app không dùng.
 
 ## 5. Đã làm xong (build 27–30)
 
