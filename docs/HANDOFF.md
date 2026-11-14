@@ -37,7 +37,7 @@ trên máy tính, có trình duyệt) làm tiếp được ngay. Việc đang d�
 - "Kiểm tra hết lỗi trước khi đưa cho tôi": chỉ giao khi CI xanh và đã tự xem ảnh chụp từ smoke test.
 - Trả lời bằng tiếng Việt. Giao kết quả dùng được ngay: link release, ảnh xem trước.
 
-## 4. Tranh minh hoạ (cinai.tv): đã làm phần lớn
+## 4. Tranh minh hoạ (cinai.tv): đã xong
 
 Làm bằng **GPT Image 2.5** trên cinai.tv (đang miễn phí, không tốn credit), thao tác trong trình duyệt của
 ứng dụng Claude. Chủ dự án tự đăng nhập.
@@ -49,11 +49,12 @@ Làm bằng **GPT Image 2.5** trên cinai.tv (đang miễn phí, không tốn cr
 - Chạy tối đa khoảng 5 ảnh cùng lúc. Chạy nhiều hơn thì cinai.tv báo "Failed to fetch" hoặc **gắn nhầm ảnh của
   thẻ này sang thẻ khác**, nên phải xem lại từng ảnh trước khi nhập.
 
-**Ảnh từ vựng: xong, 795 ảnh cho 815 từ** (20 từ chỉ số cố ý dùng emoji) trong `assets/word_art/` (`lib/widgets/item_picture.dart`: có ảnh thì dùng ảnh,
+**Ảnh từ vựng: xong, 815 ảnh cho 836 từ** (21 từ chỉ số cố ý dùng emoji) trong `assets/word_art/` (`lib/widgets/item_picture.dart`: có ảnh thì dùng ảnh,
 không thì emoji như cũ).
 - Bộ prompt: `docs/WORD_ART.md`, `tool/word_art/prompts.json` (93 bảng lưới 3×3, ảnh vuông 1:1, 1K).
 - `python3 tool/word_art/import_art.py <thư mục>` tự cắt mỗi bảng thành 9 ảnh WebP 448 px.
 - Các từ chỉ số (zero…twenty) cố ý giữ emoji vì AI hay vẽ sai số lượng.
+
 **Chưa làm:** 8 tư thế 3D của Bi (`bi_<pose>`). Lưu ý: khi có ảnh 3D, `lib/widgets/bi_mascot.dart` bỏ các món đồ
 (outfit) mà bé mở khoá theo cấp, vì chúng chỉ vẽ chồng lên Bi bản SVG. Cần chủ dự án quyết trước khi làm.
 
