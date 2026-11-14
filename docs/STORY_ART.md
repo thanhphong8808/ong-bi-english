@@ -4,9 +4,13 @@ Mỗi truyện có 1 ảnh bìa (`_00`) và 4–6 cảnh. Ảnh đổi theo từ
 
 ## Cách tạo
 
-1. Tạo trước **bảng nhân vật** của từng truyện (prompt "Character sheet" bên dưới), chọn bản đẹp nhất,
-   rồi dùng nó làm ảnh tham chiếu (image-to-image / reference) cho các cảnh để nhân vật giống nhau.
-2. Kích thước ngang **16:10** (ví dụ 1536×960). Không chữ, không logo.
+1. Tạo trước **ảnh bìa** (`_00`) của từng truyện, rồi dùng nó làm ảnh tham chiếu (trên cinai.tv: nút
+   "Remix with this image") cho các cảnh, mở đầu prompt bằng "Same characters, colours and soft 3D
+   picture-book style as the reference image. New scene: …" để nhân vật giống nhau. Bộ tranh hiện tại
+   làm bằng GPT Image 2.5 trên cinai.tv. Model này từ chối prompt "Character sheet", nên bỏ qua bảng
+   nhân vật bên dưới (chỉ để tham khảo mô tả nhân vật). Cảnh nào nhân vật chưa xuất hiện thì thêm
+   "No <tên> in this picture" vì ảnh bìa có đủ mọi nhân vật.
+2. Kích thước ngang **16:9 hoặc 16:10**. Không chữ, không logo. Lệnh nhập ảnh tự cắt về 16:10.
 3. Đặt tên file đúng như cột "File", ví dụ `tortoise_hare_03.png`.
 4. Bỏ tất cả ảnh vào một thư mục rồi chạy:
    `python3 tool/story_art/import_art.py <thư mục>` — tự cắt 16:10, nén WebP, chép vào `assets/story_art/`.

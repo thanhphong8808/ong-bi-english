@@ -55,6 +55,7 @@ flutter:
     - assets/pron/
     - assets/talk/
     - assets/story_art/
+    - assets/word_art/
     - assets/bi3d/
   fonts:
     - family: Nunito

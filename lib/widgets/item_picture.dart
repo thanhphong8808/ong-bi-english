@@ -4,16 +4,71 @@ import 'package:material_ui/material_ui.dart';
 
 import '../app/theme.dart';
 import '../curriculum/models.dart';
+import 'story_art.dart';
 
-/// The picture of a vocabulary item: an emoji or one of our own SVGs.
-class ItemPicture extends StatelessWidget {
+/// Illustrated word pictures: assets/word_art/<slug of the English word>.webp
+/// (see docs/WORD_ART.md). A word shows its picture when the file is in the
+/// app, otherwise its emoji or SVG.
+class WordArt {
+  const WordArt._();
+
+  static String slug(String en) =>
+      en.toLowerCase().replaceAll(RegExp(r"[^a-z0-9]+"), '_').replaceAll(RegExp(r'^_+|_+$'), '');
+
+  static String path(String en) => 'assets/word_art/${slug(en)}.webp';
+}
+
+/// The picture of a vocabulary item: an illustration, an emoji or one of our
+/// own SVGs.
+class ItemPicture extends StatefulWidget {
   const ItemPicture({super.key, required this.item, this.size = 96});
 
   final Item item;
   final double size;
 
   @override
-  Widget build(BuildContext context) => EmojiOrSvg(image: item.image, size: size);
+  State<ItemPicture> createState() => _ItemPictureState();
+}
+
+class _ItemPictureState extends State<ItemPicture> {
+  Set<String>? _assets = StoryArt.loadedAssets;
+
+  @override
+  void initState() {
+    super.initState();
+    if (_assets == null) {
+      StoryArt.assets().then((a) {
+        if (mounted) {
+          setState(() => _assets = a);
+        }
+      });
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final item = widget.item;
+    final size = widget.size;
+    final path = WordArt.path(item.en);
+    if (!item.isLetter && (_assets?.contains(path) ?? false)) {
+      final dpr = MediaQuery.devicePixelRatioOf(context);
+      // Same footprint as an emoji (EmojiText is 1.2 x size).
+      final side = size * 1.2;
+      return ClipRRect(
+        borderRadius: BorderRadius.circular(side * 0.18),
+        child: Image.asset(
+          path,
+          width: side,
+          height: side,
+          fit: BoxFit.cover,
+          cacheWidth: (side * dpr).round().clamp(64, 512).toInt(),
+          semanticLabel: item.en,
+          errorBuilder: (context, _, _) => EmojiOrSvg(image: item.image, size: size),
+        ),
+      );
+    }
+    return EmojiOrSvg(image: item.image, size: size);
+  }
 }
 
 class EmojiOrSvg extends StatelessWidget {

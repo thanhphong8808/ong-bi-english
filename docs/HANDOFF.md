@@ -37,51 +37,28 @@ trên máy tính, có trình duyệt) làm tiếp được ngay. Việc đang d�
 - "Kiểm tra hết lỗi trước khi đưa cho tôi": chỉ giao khi CI xanh và đã tự xem ảnh chụp từ smoke test.
 - Trả lời bằng tiếng Việt. Giao kết quả dùng được ngay: link release, ảnh xem trước.
 
-## 4. Việc đang dở: tranh minh hoạ truyện trên cinai.tv
+## 4. Tranh minh hoạ (cinai.tv): đã làm phần lớn
 
-Chủ dự án đã quyết định:
-- Claude tự thao tác cinai.tv trong trình duyệt của ứng dụng Claude trên máy tính.
-- Chủ dự án tự đăng nhập. Claude không nhập mật khẩu hộ.
-- Mỗi truyện có 1 bìa và 4–6 cảnh.
+Làm bằng **GPT Image 2.5** trên cinai.tv (đang miễn phí, không tốn credit), thao tác trong trình duyệt của
+ứng dụng Claude. Chủ dự án tự đăng nhập.
 
-**Bộ prompt** (đã viết xong, có sẵn trong repo):
-- `docs/STORY_ART.md`: hướng dẫn tiếng Việt kèm toàn bộ prompt.
-- `tool/story_art/prompts.json`: các trường `file`, `prompt`, `negative`, `kind`.
+**Tranh truyện: xong đủ 123 ảnh** (23 bìa + 100 cảnh) trong `assets/story_art/`.
+- Model từ chối prompt "Character sheet", nên mỗi truyện tạo **ảnh bìa trước**, rồi bấm "Remix with this image"
+  trên ảnh bìa để làm ảnh tham chiếu cho từng cảnh ("Same characters … New scene: …").
+- Cảnh nào nhân vật chưa xuất hiện thì ghi "No wolf / No bear … in this picture" (ảnh bìa có đủ nhân vật).
+- Chạy tối đa khoảng 5 ảnh cùng lúc. Chạy nhiều hơn thì cinai.tv báo "Failed to fetch" hoặc **gắn nhầm ảnh của
+  thẻ này sang thẻ khác**, nên phải xem lại từng ảnh trước khi nhập.
 
-Tổng cộng 154 ảnh:
-- 23 bảng nhân vật, tên `<story>_cast`. Chỉ dùng làm ảnh tham chiếu, không đưa vào app.
-- 123 cảnh, tên `<story>_NN`, trong đó `00` là bìa.
-- 8 tư thế của Bi, tên `bi_<pose>`. App hiện chỉ dùng 5 tư thế: `happy, listening, thinking, cheering, sleeping`
-  (xem `enum BiMood` trong `lib/widgets/bi_mascot.dart`). Ba tư thế `reading, talking, hello` chưa dùng,
-  có thể làm sau.
+**Ảnh từ vựng: 574 / 815 từ** trong `assets/word_art/` (`lib/widgets/item_picture.dart`: có ảnh thì dùng ảnh,
+không thì emoji như cũ).
+- Bộ prompt: `docs/WORD_ART.md`, `tool/word_art/prompts.json` (93 bảng lưới 3×3, ảnh vuông 1:1, 1K).
+- `python3 tool/word_art/import_art.py <thư mục>` tự cắt mỗi bảng thành 9 ảnh WebP 448 px.
+- Các từ chỉ số (zero…twenty) cố ý giữ emoji vì AI hay vẽ sai số lượng.
+- **Còn thiếu 27 bảng:** 017, 023, 026, 035, 036, 044, 073–093. Lúc làm thì cinai.tv báo lỗi máy chủ
+  ("The generator is having trouble…") cho mọi model. Khi dịch vụ ổn lại: tạo các bảng đó, đặt tên
+  `word_sheet_NNN.png`, chạy lệnh nhập ở trên.
 
-**Phong cách:** minh hoạ sách tranh thiếu nhi, nhìn như hoạt hình 3D mềm mại, tông vàng mật ong và pastel,
-theo ảnh mẫu Learnly mà chủ dự án đã gửi. Câu mô tả phong cách và negative prompt đã có sẵn trong từng prompt.
-Ảnh ngang tỉ lệ 16:10 (ví dụ 1536×960), không có chữ, không logo.
-
-**Thứ tự làm:**
-1. Mở `https://cinai.tv` và chờ chủ dự án đăng nhập. Công cụ tạo ảnh từ chữ nằm ở `/image`. Trang này còn có
-   skill "character-refs" để giữ nhân vật đồng nhất.
-2. **Làm thử một truyện: `tortoise_hare` (Rùa và Thỏ).**
-   - Tạo `tortoise_hare_cast` trước và chọn bản đẹp nhất.
-   - Dùng bản đó làm ảnh tham chiếu để tạo `tortoise_hare_00` … `_05`.
-   - Gửi chủ dự án xem phong cách và báo mỗi ảnh tốn bao nhiêu credit. **Chờ chủ dự án đồng ý** rồi mới làm tiếp,
-     vì tạo ảnh tốn credit của chủ dự án.
-3. Làm 22 truyện còn lại theo cùng cách: tạo bảng nhân vật trước, rồi đến các cảnh.
-4. Làm các tư thế của Bi, dùng Remove Background để có PNG nền trong suốt.
-5. Tải ảnh về, đặt đúng tên file, rồi chạy:
-   `python3 tool/story_art/import_art.py <thư mục ảnh>`
-   Lệnh này tự cắt ảnh về 16:10, nén WebP 1280×800 vào `assets/story_art/`, và đưa ảnh Bi (WebP 768 px, giữ nền
-   trong suốt) vào `assets/bi3d/`. Bảng nhân vật tự được bỏ qua.
-   App tự hiện tranh khi có file (`lib/widgets/story_art.dart`: `StoryScene` có hiệu ứng Ken Burns và cảnh
-   chuyển mờ dần; thiếu tranh thì hiện emoji thay thế). Không cần sửa code.
-6. Commit rồi push lên `main` để CI build. Kiểm tra trong log smoke:
-   - Ảnh chụp `13-story-start` và `13-story-end` phải có tranh.
-   - Phải có dòng `SMOKE TEST: OK`.
-   - Kích thước APK hiện khoảng 105 MB; 123 ảnh WebP thêm chừng 10–20 MB.
-   Xong thì gửi chủ dự án link release `build-<n>` và một ảnh xem trước.
-
-Nếu không có trình duyệt: chủ dự án tự tạo ảnh theo `docs/STORY_ART.md`, nén thành zip gửi lên, rồi chạy bước 5.
+**Chưa làm:** 8 tư thế 3D của Bi (`bi_<pose>`, cần tách nền), xem `docs/STORY_ART.md`.
 
 ## 5. Đã làm xong (build 27–30)
 

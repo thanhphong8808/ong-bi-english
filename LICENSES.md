@@ -41,7 +41,13 @@ rìu, con cáo và con quạ, chú vịt con xấu xí).
 |---|---|---|
 | Nunito | Giao diện | SIL OFL 1.1 (`assets/fonts/Nunito-OFL.txt`) |
 | Andika | Chữ mẫu tập viết (a, g một tầng) | SIL OFL 1.1 (`assets/fonts/Andika-OFL.txt`) |
-| Noto Color Emoji | Hình minh hoạ từ vựng | SIL OFL 1.1 (`assets/fonts/NotoColorEmoji-OFL.txt`) |
+| Noto Color Emoji | Hình minh hoạ từ vựng (khi chưa có ảnh) | SIL OFL 1.1 (`assets/fonts/NotoColorEmoji-OFL.txt`) |
+
+## Tranh minh hoạ
+
+`assets/story_art/` (tranh truyện) và `assets/word_art/` (ảnh từ vựng) do dự án tự tạo bằng AI (GPT Image 2.5
+trên cinai.tv) từ prompt của dự án (`docs/STORY_ART.md`, `docs/WORD_ART.md`). Nhân vật và cảnh đều tự soạn,
+không dùng nhân vật hay tác phẩm có bản quyền.
 
 ## Model tải về ở lần cài đầu (không nằm trong APK)
 
