@@ -49,16 +49,13 @@ Làm bằng **GPT Image 2.5** trên cinai.tv (đang miễn phí, không tốn cr
 - Chạy tối đa khoảng 5 ảnh cùng lúc. Chạy nhiều hơn thì cinai.tv báo "Failed to fetch" hoặc **gắn nhầm ảnh của
   thẻ này sang thẻ khác**, nên phải xem lại từng ảnh trước khi nhập.
 
-**Ảnh từ vựng: 574 / 815 từ** trong `assets/word_art/` (`lib/widgets/item_picture.dart`: có ảnh thì dùng ảnh,
+**Ảnh từ vựng: xong, 795 ảnh cho 815 từ** (20 từ chỉ số cố ý dùng emoji) trong `assets/word_art/` (`lib/widgets/item_picture.dart`: có ảnh thì dùng ảnh,
 không thì emoji như cũ).
 - Bộ prompt: `docs/WORD_ART.md`, `tool/word_art/prompts.json` (93 bảng lưới 3×3, ảnh vuông 1:1, 1K).
 - `python3 tool/word_art/import_art.py <thư mục>` tự cắt mỗi bảng thành 9 ảnh WebP 448 px.
 - Các từ chỉ số (zero…twenty) cố ý giữ emoji vì AI hay vẽ sai số lượng.
-- **Còn thiếu 27 bảng:** 017, 023, 026, 035, 036, 044, 073–093. Lúc làm thì cinai.tv báo lỗi máy chủ
-  ("The generator is having trouble…") cho mọi model. Khi dịch vụ ổn lại: tạo các bảng đó, đặt tên
-  `word_sheet_NNN.png`, chạy lệnh nhập ở trên.
-
-**Chưa làm:** 8 tư thế 3D của Bi (`bi_<pose>`, cần tách nền), xem `docs/STORY_ART.md`.
+**Chưa làm:** 8 tư thế 3D của Bi (`bi_<pose>`). Lưu ý: khi có ảnh 3D, `lib/widgets/bi_mascot.dart` bỏ các món đồ
+(outfit) mà bé mở khoá theo cấp, vì chúng chỉ vẽ chồng lên Bi bản SVG. Cần chủ dự án quyết trước khi làm.
 
 ## 5. Đã làm xong (build 27–30)
 
