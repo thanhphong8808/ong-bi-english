@@ -125,6 +125,51 @@ class BiChat {
       BiSuggestion('🍰', 'I love cake!', 'Tớ mê bánh kem!'),
       BiSuggestion('🏮', 'I like lanterns.', 'Tớ thích đèn lồng.'),
     ]),
+    'meet': ('What is your name?', 'Cậu tên là gì?', [
+      BiSuggestion('🙋', 'My name is Mai.', 'Tớ tên là Mai.'),
+      BiSuggestion('🙋‍♂️', 'My name is Nam.', 'Tớ tên là Nam.'),
+      BiSuggestion('😊', 'I am An.', 'Tớ là An.'),
+    ]),
+    'time': ('What time do you get up?', 'Cậu ngủ dậy lúc mấy giờ?', [
+      BiSuggestion('🕕', 'At six o\'clock.', 'Lúc sáu giờ.'),
+      BiSuggestion('🕖', 'At seven o\'clock.', 'Lúc bảy giờ.'),
+      BiSuggestion('😴', 'I get up late.', 'Tớ dậy muộn.'),
+    ]),
+    'clothes': ('What are you wearing today?', 'Hôm nay cậu mặc gì?', [
+      BiSuggestion('👕', 'A blue T-shirt.', 'Một cái áo phông xanh.'),
+      BiSuggestion('👗', 'A pink dress.', 'Một cái váy hồng.'),
+      BiSuggestion('🧢', 'A red hat.', 'Một cái mũ đỏ.'),
+    ]),
+    'home': ('What is in your room?', 'Trong phòng cậu có gì?', [
+      BiSuggestion('🛏️', 'A bed.', 'Một cái giường.'),
+      BiSuggestion('🧸', 'Many toys.', 'Nhiều đồ chơi.'),
+      BiSuggestion('📚', 'Some books.', 'Mấy quyển sách.'),
+    ]),
+    'hobbies': ('What do you do at the weekend?', 'Cuối tuần cậu làm gì?', [
+      BiSuggestion('🏊', 'I go swimming.', 'Tớ đi bơi.'),
+      BiSuggestion('🎨', 'I draw pictures.', 'Tớ vẽ tranh.'),
+      BiSuggestion('👵', 'I visit my grandma.', 'Tớ thăm bà.'),
+    ]),
+    'transport': ('How do you go to school?', 'Cậu đi học bằng gì?', [
+      BiSuggestion('🛵', 'By motorbike.', 'Bằng xe máy.'),
+      BiSuggestion('🚌', 'By bus.', 'Bằng xe buýt.'),
+      BiSuggestion('🚶', 'I walk.', 'Tớ đi bộ.'),
+    ]),
+    'manners': ('What do you say when you get a gift?', 'Khi được tặng quà cậu nói gì?', [
+      BiSuggestion('🙏', 'Thank you!', 'Cảm ơn!'),
+      BiSuggestion('😊', 'Thank you very much!', 'Cảm ơn nhiều lắm!'),
+      BiSuggestion('❤️', 'I love it!', 'Tớ thích lắm!'),
+    ]),
+    'phone': ('Who do you call on the phone?', 'Cậu hay gọi điện cho ai?', [
+      BiSuggestion('👵', 'I call my grandma.', 'Tớ gọi cho bà.'),
+      BiSuggestion('👨', 'I call my dad.', 'Tớ gọi cho bố.'),
+      BiSuggestion('👫', 'I call my friend.', 'Tớ gọi cho bạn.'),
+    ]),
+    'nature': ('Do you like the beach or the park?', 'Cậu thích biển hay công viên?', [
+      BiSuggestion('🏖️', 'I like the beach.', 'Tớ thích biển.'),
+      BiSuggestion('🌳', 'I like the park.', 'Tớ thích công viên.'),
+      BiSuggestion('⛰️', 'I like the mountains.', 'Tớ thích núi.'),
+    ]),
   };
 
   /// Sampling: warm enough to sound alive, low enough to keep the format.

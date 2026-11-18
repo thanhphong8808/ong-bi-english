@@ -11,6 +11,7 @@ import 'package:path_provider/path_provider.dart';
 import '../curriculum/curriculum_loader.dart';
 import '../curriculum/models.dart';
 import '../curriculum/progress_service.dart';
+import '../curriculum/grammar.dart';
 import '../curriculum/talk_scripts.dart';
 import 'config/app_config.dart';
 import 'db/app_database.dart';
@@ -148,6 +149,13 @@ class AppServices {
   Future<TalkLibrary>? _talkLibrary;
 
   static const List<String> talkFiles = ['chats.txt', 'roleplays.txt', 'stories.txt'];
+
+  /// Grammar lessons, tenses and the verb table (assets/grammar), loaded on first use.
+  Future<GrammarBook> grammarBook() => _grammarBook ??= _loadGrammarBook();
+  Future<GrammarBook>? _grammarBook;
+
+  static Future<GrammarBook> _loadGrammarBook() async =>
+      GrammarBook.parse(await rootBundle.loadString('assets/grammar/grammar.json'));
 
   static Future<TalkLibrary> _loadTalkLibrary() async {
     final texts = [for (final f in talkFiles) await rootBundle.loadString('assets/talk/$f')];
@@ -309,12 +317,16 @@ class ParentSettingsNotifier extends Notifier<ParentSettings> {
   Future<void> change(ParentSettings Function(ParentSettings current) edit) async {
     final next = edit(state);
     state = next;
-    await ref.read(appServicesProvider).settingsStore.save(next);
+    final services = ref.read(appServicesProvider);
+    services.ttsVi.preference = next.viVoice;
+    await services.settingsStore.save(next);
   }
 
   /// Re-reads settings from the database (after restoring a backup).
   Future<void> reload() async {
-    state = await ref.read(appServicesProvider).settingsStore.load();
+    final services = ref.read(appServicesProvider);
+    state = await services.settingsStore.load();
+    services.ttsVi.preference = state.viVoice;
   }
 }
 

@@ -45,9 +45,22 @@ rìu, con cáo và con quạ, chú vịt con xấu xí).
 
 ## Tranh minh hoạ
 
-`assets/story_art/` (tranh truyện) và `assets/word_art/` (ảnh từ vựng) do dự án tự tạo bằng AI (GPT Image 2.5
-trên cinai.tv) từ prompt của dự án (`docs/STORY_ART.md`, `docs/WORD_ART.md`). Nhân vật và cảnh đều tự soạn,
-không dùng nhân vật hay tác phẩm có bản quyền.
+`assets/story_art/` (tranh truyện), `assets/word_art/` (ảnh từ vựng), `assets/bi3d/` (Bi 3D) và biểu tượng app
+(`tool/icon/`) do dự án tự tạo bằng AI (GPT Image 2.5 trên cinai.tv) từ prompt của dự án (`docs/STORY_ART.md`,
+`docs/WORD_ART.md`, `tool/icon/PROMPT.txt`). Nhân vật và cảnh đều tự soạn, không dùng nhân vật hay tác phẩm có
+bản quyền.
+
+## Ngữ pháp
+
+Bài ngữ pháp, bảng các thì và bảng chia động từ (`assets/grammar/`, `tool/grammar/build_grammar.py`) do dự án tự
+soạn. Thứ tự bài tham khảo danh sách ngữ pháp công khai của Cambridge Pre A1 Starters, A1 Movers và A2 Flyers;
+không chép câu hay bài tập nào của Cambridge.
+
+## Giọng tiếng Việt của máy
+
+Mặc định Bi nói tiếng Việt bằng giọng tiếng Việt có sẵn trong máy (thường là Google Chuyển văn bản thành giọng
+nói, chạy trên máy). App không đóng gói giọng này. Máy không có giọng đó thì dùng giọng Piper bên dưới. Phụ huynh
+đổi giọng trong Cài đặt học.
 
 ## Model tải về ở lần cài đầu (không nằm trong APK)
 

@@ -55,6 +55,7 @@ Future<void> _start() async {
       previousNativeCrash: lastCrash?.text.contains('CRASH_NATIVE') ?? false,
     );
     settings = await services.settingsStore.load();
+    services.ttsVi.preference = settings.viVoice;
     // The core lessons need every required pack. Gemma is optional by design:
     // deleting it must never block anything except "Talk with Bi".
     final required = ModelCatalog.packsFor(services.profile).where((pack) => !pack.optional);

@@ -190,6 +190,7 @@ class ParentSettingsScreen extends ConsumerWidget {
                 ],
               ),
             ),
+            const _ViVoicePicker(),
             SwitchListTile(
               title: const Text(S.parentSlow),
               value: settings.slowSpeech,
@@ -319,6 +320,81 @@ class _StudiedToday extends StatelessWidget {
           child: const Text(S.parentResetToday),
         ),
       ),
+    );
+  }
+}
+
+/// Vietnamese voice: automatic (the phone's Google voice when it has one),
+/// the Piper voice in the app, or one of the phone's voices; with a sample.
+class _ViVoicePicker extends ConsumerStatefulWidget {
+  const _ViVoicePicker();
+
+  @override
+  ConsumerState<_ViVoicePicker> createState() => _ViVoicePickerState();
+}
+
+class _ViVoicePickerState extends ConsumerState<_ViVoicePicker> {
+  List<String>? _voices;
+
+  @override
+  void initState() {
+    super.initState();
+    ref.read(appServicesProvider).ttsVi.systemVoices(refresh: true).then((v) {
+      if (mounted) {
+        setState(() => _voices = v);
+      }
+    });
+  }
+
+  Future<void> _choose(String value) async {
+    await ref.read(parentSettingsProvider.notifier).change((s) => s.copyWith(viVoice: value));
+    await _try();
+  }
+
+  Future<void> _try() async {
+    final services = ref.read(appServicesProvider);
+    final settings = ref.read(parentSettingsProvider);
+    await services.speech.stop();
+    await services.speech.sayVi(S.viVoiceSample, speed: settings.speechRate).catchError((Object _) {});
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final current = ref.watch(parentSettingsProvider).viVoice;
+    final voices = _voices;
+    Widget option(String value, String label, {String? sub}) => ListTile(
+          dense: true,
+          contentPadding: const EdgeInsets.only(left: 32, right: 16),
+          title: Text(label),
+          subtitle: sub == null ? null : Text(sub),
+          trailing: Icon(
+            current == value ? Icons.radio_button_checked_rounded : Icons.radio_button_off_rounded,
+            color: current == value ? AppColors.honeyDeep : AppColors.inkSoft,
+          ),
+          onTap: () => _choose(value),
+        );
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        ListTile(
+          title: const Text(S.parentViVoice),
+          subtitle: const Text(S.parentViVoiceSub),
+          trailing: TextButton.icon(
+            onPressed: _try,
+            icon: const Icon(Icons.volume_up_rounded),
+            label: const Text(S.viVoiceTry),
+          ),
+        ),
+        option('auto', S.viVoiceAuto),
+        option('piper', S.viVoicePiper),
+        if (voices != null)
+          for (var i = 0; i < voices.length; i++) option(voices[i], S.viVoiceSystem(i + 1), sub: voices[i]),
+        if (voices != null && voices.isEmpty)
+          const Padding(
+            padding: EdgeInsets.fromLTRB(32, 0, 16, 8),
+            child: Text(S.viVoiceNone, style: TextStyle(fontSize: 13, color: AppColors.inkSoft)),
+          ),
+      ],
     );
   }
 }

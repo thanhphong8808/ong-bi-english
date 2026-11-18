@@ -652,3 +652,164 @@ guest: This is fun! | Vui quá!
 guest: Happy birthday to you! | Chúc mừng sinh nhật cậu!
 host: Thank you for coming! | Cảm ơn cậu đã đến!
 -> end
+
+# ---------------------------------------------------------------- everyday life
+
+=== role clothes_shop
+topic: clothes
+emoji: 👗
+title: At the clothes shop | Ở cửa hàng quần áo
+level: 2
+roles: seller=Shop assistant|Người bán hàng|🧑‍💼, buyer=Customer|Khách hàng|🧒
+
+[start]
+pic: 🏬
+seller: Hello! Can I help you? | Xin chào! Tôi giúp gì được cho bạn?
+buyer: Yes, please. I'm looking for a T-shirt. | Vâng ạ. Cháu đang tìm một cái áo phông.
+[colour]
+seller: What colour do you like? | Bạn thích màu gì?
+? buyer
+- 🔵 Blue, please. | Màu xanh dương ạ.
+- 🟢 Green, please. | Màu xanh lá ạ.
+- 🟡 Yellow, please. | Màu vàng ạ.
+[size]
+seller: What size are you? | Bạn mặc cỡ nào?
+? buyer
+- 🤏 Small, please. | Cỡ nhỏ ạ.
+- 👌 Medium, please. | Cỡ vừa ạ.
+[try]
+seller: Here you are. Do you want to try it on? | Đây ạ. Bạn có muốn mặc thử không?
+buyer: Yes, please. | Vâng ạ.
+? seller
+- 😍 It looks great on you! | Bạn mặc đẹp lắm!
+- 👍 It fits you well! | Vừa với bạn lắm!
+[price]
+buyer: How much is it? | Cái này bao nhiêu tiền ạ?
+seller: It's one hundred thousand dong. | Một trăm nghìn đồng.
+buyer: I'll take it. Thank you! | Cháu lấy cái này. Cảm ơn ạ!
+seller: Thank you. Goodbye! | Cảm ơn bạn. Tạm biệt!
+-> end
+
+=== role lost_in_shop
+topic: manners
+emoji: 🆘
+title: I can't find my mum | Cháu không thấy mẹ đâu
+level: 1
+roles: helper=Shop assistant|Cô bán hàng|👩‍💼, child=Child|Bạn nhỏ|🧒
+
+[start]
+pic: 🏪
+child: Excuse me. I can't find my mum. | Cô ơi. Cháu không thấy mẹ đâu ạ.
+helper: Don't worry. I can help you. | Đừng lo. Cô giúp cháu nhé.
+helper: What's your name? | Cháu tên là gì?
+? child
+- 👧 My name is Lan. | Cháu tên là Lan ạ.
+- 👦 My name is Minh. | Cháu tên là Minh ạ.
+[mum]
+helper: What does your mum look like? | Mẹ cháu trông thế nào?
+? child
+- 👚 She has a red shirt. | Mẹ cháu mặc áo đỏ ạ.
+- 👓 She has glasses. | Mẹ cháu đeo kính ạ.
+- 👜 She has a big yellow bag. | Mẹ cháu đeo túi to màu vàng ạ.
+[last]
+helper: Where did you see Mum? | Cháu thấy mẹ lần cuối ở đâu?
+? child
+- 🧸 Near the toys. | Ở gần chỗ đồ chơi ạ.
+- 🍎 Near the fruit. | Ở gần chỗ hoa quả ạ.
+[found]
+pic: 🤗
+helper: Look! Is that your mum? | Nhìn kìa! Có phải mẹ cháu không?
+child: Yes! Mum! | Đúng rồi! Mẹ ơi!
+child: Thank you very much! | Cháu cảm ơn cô nhiều ạ!
+helper: You're welcome. Stay with Mum! | Không có gì. Nhớ đi cạnh mẹ nhé!
+-> end
+
+=== role hairdresser
+topic: daily
+emoji: 💇
+title: At the hairdresser's | Ở tiệm cắt tóc
+level: 2
+roles: barber=Hairdresser|Thợ cắt tóc|💇, client=Customer|Khách|🧒
+
+[start]
+pic: 💈
+barber: Good morning! Please sit down. | Chào buổi sáng! Mời ngồi.
+client: Good morning! Thank you. | Chào bác ạ! Cháu cảm ơn.
+[style]
+barber: How do you want your hair? | Cháu muốn cắt tóc thế nào?
+? client
+- ✂️ Short, please. | Ngắn ạ.
+- 💇 Just a little, please. | Cắt ít thôi ạ.
+[wash]
+pic: 🚿
+barber: Let's wash your hair first. Is the water okay? | Gội đầu trước nhé. Nước được không cháu?
+? client
+- 👍 Yes, it's fine. | Dạ, được ạ.
+- 🥶 It's a bit cold. | Hơi lạnh ạ.
+[mirror]
+pic: 🪞
+barber: All done! Look in the mirror. | Xong rồi! Cháu soi gương xem.
+? client
+- 😍 I love it! Thank you! | Cháu thích lắm! Cảm ơn bác!
+- 😊 It looks nice. | Trông đẹp ạ.
+[bye]
+barber: You look very smart! Goodbye! | Trông cháu bảnh lắm! Tạm biệt nhé!
+client: Goodbye! | Cháu chào bác ạ!
+-> end
+
+=== role invite_friend_phone
+topic: phone
+emoji: ☎️
+title: Inviting a friend | Mời bạn đi chơi
+level: 2
+roles: caller=Caller|Người gọi|📞, friend=Friend|Bạn|🧒
+
+[start]
+pic: ☎️
+friend: Hello? | A lô?
+caller: Hi! It's me. Are you free on Sunday? | Chào cậu! Tớ đây. Chủ nhật cậu rảnh không?
+friend: Yes, I am. Why? | Có, tớ rảnh. Sao thế?
+[invite]
+? caller
+- 🎂 Would you like to come to my party? | Cậu có muốn đến dự tiệc của tớ không?
+- 🏊 Would you like to go swimming with me? | Cậu có muốn đi bơi với tớ không?
+- 🎬 Would you like to see a film with me? | Cậu có muốn đi xem phim với tớ không?
+[answer]
+? friend
+- 😍 I'd love to! | Tớ rất thích!
+- 👍 Yes, that sounds great! | Có, nghe hay đấy!
+[when]
+friend: What time? | Mấy giờ thế?
+caller: At three o'clock. | Lúc ba giờ.
+friend: Great! See you on Sunday! | Tuyệt! Hẹn gặp cậu Chủ nhật nhé!
+caller: See you! Bye! | Hẹn gặp lại! Tạm biệt!
+-> end
+
+=== role taxi_ride
+topic: transport
+emoji: 🚕
+title: Taking a taxi | Đi taxi
+level: 3
+roles: driver=Taxi driver|Bác tài xế|🧑‍✈️, rider=Passenger|Hành khách|🧒
+
+[start]
+pic: 🚕
+driver: Hello! Where do you want to go? | Xin chào! Cháu muốn đi đâu?
+? rider
+- 🏛️ To the museum, please. | Đến bảo tàng ạ.
+- 🚉 To the train station, please. | Đến ga tàu ạ.
+- 🦁 To the zoo, please. | Đến sở thú ạ.
+[belt]
+driver: Okay. Please fasten your seat belt. | Được rồi. Cháu thắt dây an toàn nhé.
+rider: Okay. How long does it take? | Vâng ạ. Đi mất bao lâu ạ?
+? driver
+- ⏱️ About ten minutes. | Khoảng mười phút.
+- ⏳ About twenty minutes. | Khoảng hai mươi phút.
+[arrive]
+pic: 📍
+driver: Here we are! | Đến nơi rồi!
+rider: How much is it? | Hết bao nhiêu tiền ạ?
+driver: Fifty thousand dong, please. | Năm mươi nghìn đồng.
+rider: Here you are. Thank you! | Tiền đây ạ. Cháu cảm ơn bác!
+driver: Thank you. Have a nice day! | Cảm ơn cháu. Chúc một ngày vui vẻ!
+-> end

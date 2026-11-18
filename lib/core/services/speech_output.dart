@@ -42,6 +42,13 @@ class SpeechOutput {
     final token = ++_token;
     progress.value = SpeechProgress.idle;
     await _stopCurrent();
+    if (await ttsVi.usesSystemVoice) {
+      // The phone's own Vietnamese voice (friendlier than Piper when present).
+      if (token == _token) {
+        await ttsVi.speakWithSystemVoice(text, speed: speed);
+      }
+      return;
+    }
     final String? path;
     try {
       path = await cache.fileFor(AudioRequest.vi(text, speed: speed));

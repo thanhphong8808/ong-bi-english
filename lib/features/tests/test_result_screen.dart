@@ -10,9 +10,10 @@ import '../../curriculum/scorers/test_grader.dart';
 import '../../l10n/strings_vi.dart';
 import '../../widgets/bi_mascot.dart';
 import '../../widgets/item_picture.dart';
+import '../../widgets/ui_kit.dart';
 import '../daily_lesson/activities/activity_base.dart';
 
-enum TestResultKind { placement, unit, level }
+enum TestResultKind { placement, unit, level, checkup }
 
 class TestResultArgs {
   const TestResultArgs._({
@@ -28,6 +29,10 @@ class TestResultArgs {
 
   factory TestResultArgs.unit(GradeReport report, String topic) =>
       TestResultArgs._(kind: TestResultKind.unit, passed: report.passed, report: report, title: topic);
+
+  /// A test the child chose in the test centre: shows the score and skills.
+  factory TestResultArgs.checkup(GradeReport report, String title) =>
+      TestResultArgs._(kind: TestResultKind.checkup, passed: report.passed, report: report, title: title);
 
   factory TestResultArgs.level(GradeReport report, int level) =>
       TestResultArgs._(kind: TestResultKind.level, passed: report.passed, report: report, level: level);
@@ -60,6 +65,8 @@ class _TestResultScreenState extends ConsumerState<TestResultScreen> {
         return a.passed ? S.testPassedSpoken : S.testRetrySpoken;
       case TestResultKind.level:
         return S.levelTestRetrySpoken;
+      case TestResultKind.checkup:
+        return S.checkupDoneSpoken;
     }
   }
 
@@ -88,6 +95,36 @@ class _TestResultScreenState extends ConsumerState<TestResultScreen> {
                 Text(S.testDoneTitle, style: Theme.of(context).textTheme.headlineMedium),
                 const SizedBox(height: 12),
                 StarRow(stars: stars, size: 56),
+                if (widget.args.kind == TestResultKind.checkup && report != null) ...[
+                  const SizedBox(height: 8),
+                  Text(widget.args.title,
+                      textAlign: TextAlign.center, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800)),
+                  Text(S.percent(report.total),
+                      style: const TextStyle(fontSize: 40, fontWeight: FontWeight.w900, color: AppColors.honeyDeep)),
+                  for (final e in report.sections.entries)
+                    SizedBox(
+                      width: 280,
+                      child: Padding(
+                        padding: const EdgeInsets.only(top: 4),
+                        child: Row(
+                          children: [
+                            SizedBox(
+                              width: 80,
+                              child: Text(S.testSection(e.key.name),
+                                  style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w800)),
+                            ),
+                            Expanded(child: SoftProgress(value: e.value.clamp(0.0, 1.0).toDouble())),
+                            SizedBox(
+                              width: 48,
+                              child: Text(S.percent(e.value),
+                                  textAlign: TextAlign.right,
+                                  style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w900)),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                ],
                 if (widget.args.passed && widget.args.kind == TestResultKind.unit) ...[
                   const SizedBox(height: 12),
                   const EmojiText('🔓', size: 64),

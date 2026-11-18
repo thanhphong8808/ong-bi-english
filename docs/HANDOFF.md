@@ -61,7 +61,24 @@ mỗi tâm trạng trừ sleeping có thêm 5 bản mặc đồ theo cấp 1–5
 - `lib/widgets/bi_mascot.dart`: thiếu ảnh 3D đúng cấp thì dùng Bi SVG kèm đồ như cũ.
 - Bỏ 3 tư thế reading, talking, hello vì app không dùng.
 
-## 5. Đã làm xong (build 27–30)
+## 5. Nội dung mới (sau build-34)
+
+- **Trò chuyện đời sống**: thêm 9 chủ đề (Làm quen, Giờ giấc, Quần áo, Ở nhà, Sở thích và cuối tuần, Đi lại,
+  Lễ phép và nhờ giúp, Gọi điện thoại, Thiên nhiên), 18 bài chat và 5 bài đóng vai mới (cửa hàng quần áo, lạc mẹ
+  trong siêu thị, tiệm cắt tóc, gọi điện mời bạn, đi taxi). Tổng cộng 21 chủ đề, 44 bài chat, 23 bài đóng vai.
+  Mỗi chủ đề có câu mở đầu cho Chat với Bi (`BiChat._topicOpeners`).
+- **Ngữ pháp** (thẻ "Ngữ pháp" ở trang chủ): 26 bài theo 5 bước (theo thứ tự ngữ pháp Cambridge Starters,
+  Movers, Flyers), mỗi bài có Bi giảng tiếng Việt, bảng, ví dụ bấm nghe, rồi luyện tập (chọn từ điền chỗ trống,
+  xếp từ thành câu) có giải thích khi sai. Có Bảng các thì (7 thì) và Bảng chia động từ (94 động từ, 55 bất quy
+  tắc). Dữ liệu: `assets/grammar/grammar.json`, sinh bằng `python3 tool/grammar/build_grammar.py`.
+- **Kiểm tra** (thẻ "Kiểm tra" ở trang chủ): làm bài kiểm tra theo bài, cả cấp, hoặc kiểm tra ngữ pháp bất cứ
+  lúc nào. Bài tự chọn lưu kiểu `checkup`, không đổi lộ trình học. Có điểm trung bình, biểu đồ 10 bài gần nhất,
+  điểm từng kỹ năng, lịch sử.
+- **Giọng tiếng Việt**: mặc định dùng giọng Google tiếng Việt của máy (tự nhiên, ấm hơn, cao giọng nhẹ 1.08),
+  không có thì dùng Piper. Phụ huynh chọn và nghe thử trong Cài đặt học (`ParentSettings.viVoice`).
+- **Biểu tượng app 3D**: Bi 3D trên nền mật ong (`tool/icon/`, `python3 tool/icon/make_icon.py`).
+
+## 6. Đã làm xong (build 27–30)
 
 - **Chat với Bi**:
   - Gemma nghe giọng bé, trả lời theo ngữ cảnh, sửa câu nhẹ nhàng.
@@ -81,7 +98,7 @@ mỗi tâm trạng trừ sleeping có thêm 5 bản mặc đồ theo cấp 1–5
 - Smoke test cuộn để tìm từng mục trong Khu phụ huynh (lệnh `ui.py seek`). Smoke test kiểm tra Sổ tay
   (phải ghi "cat", không được ghi "toys") và kiểm tra lượt luyện Câu bỏ túi có lưu kết quả.
 
-## 6. Ghi chú
+## 7. Ghi chú
 
 - Muốn dùng Chat với Bi, phụ huynh phải tải bộ não Gemma trước, trong Khu phụ huynh → Quản lý model.
 - Ở cấp 0, bài học mỗi ngày vẫn có phần tập viết chữ cái.

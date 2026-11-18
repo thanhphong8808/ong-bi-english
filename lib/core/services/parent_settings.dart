@@ -30,6 +30,7 @@ class ParentSettings {
     this.reminderMinute = AppConfig.defaultReminderMinute,
     this.delayReadingTouched = false,
     this.showIpa = true,
+    this.viVoice = 'auto',
   });
 
   final int dailyLimitMinutes;
@@ -60,6 +61,10 @@ class ParentSettings {
   /// Pronunciation (IPA) under English words and sentences.
   final bool showIpa;
 
+  /// Vietnamese voice: 'auto' (the phone's voice when it has one), 'piper',
+  /// or the name of one of the phone's Vietnamese voices.
+  final String viVoice;
+
   bool get hasPin => pinHash.isNotEmpty;
 
   double get speechRate => slowSpeech ? AppConfig.slowSpeechRate : AppConfig.normalSpeechRate;
@@ -87,6 +92,7 @@ class ParentSettings {
     int? reminderMinute,
     bool? delayReadingTouched,
     bool? showIpa,
+    String? viVoice,
   }) {
     return ParentSettings(
       dailyLimitMinutes: dailyLimitMinutes ?? this.dailyLimitMinutes,
@@ -109,6 +115,7 @@ class ParentSettings {
       reminderMinute: reminderMinute ?? this.reminderMinute,
       delayReadingTouched: delayReadingTouched ?? this.delayReadingTouched,
       showIpa: showIpa ?? this.showIpa,
+      viVoice: viVoice ?? this.viVoice,
     );
   }
 
@@ -134,6 +141,7 @@ class ParentSettings {
       'reminderMinute': '$reminderMinute',
       'delayReadingTouched': '$delayReadingTouched',
       'showIpa': '$showIpa',
+      'viVoice': viVoice,
     };
   }
 
@@ -180,6 +188,7 @@ class ParentSettings {
       reminderMinute: readInt('reminderMinute', d.reminderMinute).clamp(0, 59).toInt(),
       delayReadingTouched: readBool('delayReadingTouched', d.delayReadingTouched),
       showIpa: readBool('showIpa', d.showIpa),
+      viVoice: (map['viVoice'] ?? '').isEmpty ? d.viVoice : map['viVoice']!,
     );
   }
 }

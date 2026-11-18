@@ -696,4 +696,95 @@ class S {
   static const dashWeak = 'Từ bé cần ôn thêm';
   static const dashWeakNone = 'Chưa có từ nào cần ôn. Tuyệt vời!';
   static const dashMenu = 'Quản lý';
+
+  // ---- Grammar ----
+  static const homeGrammar = 'Ngữ pháp';
+  static const homeGrammarSub = 'Các thì, chia động từ';
+  static const homeTests = 'Kiểm tra';
+  static const homeTestsSub = 'Xem mình học đến đâu';
+  static const grammarTitle = 'Ngữ pháp cùng Bi';
+  static const grammarHomeSpoken = 'Mình học ngữ pháp nhé! Cậu chọn một bài, Bi giảng rồi mình luyện tập cùng nhau.';
+  static const grammarTenses = 'Bảng các thì';
+  static const grammarTensesSub = '7 thì hay dùng nhất';
+  static const grammarVerbs = 'Bảng chia động từ';
+  static const grammarVerbsSub = 'Động từ thường và bất quy tắc';
+  static const grammarQuiz = 'Kiểm tra ngữ pháp';
+  static const grammarQuizSub = '12 câu trộn từ các bài';
+  static const grammarLearn = 'Bi giảng bài';
+  static const grammarExamples = 'Ví dụ';
+  static const grammarPractice = 'Luyện tập';
+  static const grammarStartPractice = 'Bắt đầu luyện tập';
+  static const grammarChooseSpoken = 'Cậu chọn từ đúng điền vào chỗ trống nhé.';
+  static const grammarOrderSpoken = 'Cậu bấm các từ theo đúng thứ tự để thành câu nhé.';
+  static const grammarRight = 'Đúng rồi!';
+  static const grammarWrong = 'Chưa đúng';
+  static const grammarAnswerIs = 'Đáp án:';
+  static const grammarNext = 'Câu tiếp';
+  static const grammarCheck = 'Kiểm tra';
+  static const grammarUndo = 'Xoá';
+  static const grammarAgain = 'Học lại';
+  static const grammarDone = 'Xong';
+  static const grammarBest = 'Điểm cao nhất';
+  static const grammarNotYet = 'Chưa làm';
+  static const grammarForLevel = 'Hợp với cấp';
+  static const verbsSpoken = 'Đây là bảng chia động từ. Cậu bấm vào một động từ để nghe các dạng của nó nhé.';
+  static const verbsBase = 'Nguyên mẫu';
+  static const verbsThird = 'He/She/It';
+  static const verbsIng = 'Đang (-ing)';
+  static const verbsPast = 'Quá khứ';
+  static const verbsPp = 'Dạng 3';
+  static const verbsAll = 'Tất cả';
+  static const verbsIrregular = 'Bất quy tắc';
+  static const verbsRegular = 'Có quy tắc';
+  static const tensesSpoken = 'Đây là bảng các thì. Cậu bấm vào một thì để nghe Bi giảng nhé.';
+  static const tenseUse = 'Dùng khi';
+  static const tenseYes = 'Khẳng định';
+  static const tenseNo = 'Phủ định';
+  static const tenseAsk = 'Câu hỏi';
+  static const tenseSignals = 'Dấu hiệu';
+  static const tenseOpenLesson = 'Học bài này';
+  static const praiseGrammar = ['Giỏi quá!', 'Chính xác!', 'Tuyệt vời!', 'Đúng rồi!'];
+  static String grammarWhySpoken(String why) => 'Chưa đúng rồi. $why';
+  static String grammarResultSpoken(int right, int total) => right == total
+      ? 'Tuyệt vời! Cậu làm đúng hết $total câu!'
+      : 'Cậu làm đúng $right trên $total câu. Giỏi lắm, mình cố thêm chút nữa nhé!';
+  static String grammarScore(int right, int total) => 'Đúng $right/$total câu';
+  static String grammarStage(int stage, String name) => 'Bước $stage · $name';
+  static String grammarQuestion(int n, int total) => 'Câu $n/$total';
+
+  // ---- Test centre ----
+  static const testsTitle = 'Kiểm tra';
+  static const testsSpoken = 'Đây là góc kiểm tra. Cậu làm bài để xem mình đã học đến đâu nhé!';
+  static const testsUnits = 'Kiểm tra theo bài';
+  static const testsLevel = 'Kiểm tra cả cấp';
+  static const testsGrammar = 'Kiểm tra ngữ pháp';
+  static const testsRecent = 'Kết quả gần đây';
+  static const testsNone = 'Chưa có bài kiểm tra nào. Làm thử một bài nhé!';
+  static const testsAverage = 'Điểm trung bình';
+  static const testsCount = 'Số bài đã làm';
+  static const testsPassed = 'Bài đạt';
+  static const testsTake = 'Làm bài';
+  static const testsTrend = 'Điểm 10 bài gần nhất';
+  static const testsSkills = 'Kỹ năng';
+  static const checkupDoneSpoken = 'Cậu làm xong bài kiểm tra rồi! Mình xem kết quả nhé.';
+  static String testsLevelName(int level) => 'Cấp $level';
+  static String testsUnitName(int unit, String topic) => 'Bài $unit · $topic';
+  static String testSection(String name) => switch (name) {
+        'listening' => 'Nghe',
+        'readingWriting' => 'Đọc, viết',
+        'speaking' => 'Nói',
+        'handwriting' => 'Viết tay',
+        'grammar' => 'Ngữ pháp',
+        _ => name,
+      };
+
+  // ---- Vietnamese voice ----
+  static const parentViVoice = 'Giọng đọc tiếng Việt';
+  static const parentViVoiceSub = 'Giọng Google của máy nghe tự nhiên, ấm áp hơn';
+  static const viVoiceAuto = 'Tự chọn giọng hay nhất';
+  static const viVoicePiper = 'Giọng có sẵn trong app';
+  static const viVoiceTry = 'Nghe thử';
+  static const viVoiceSample = 'Chào cậu! Tớ là Bi. Hôm nay mình cùng học tiếng Anh thật vui nhé!';
+  static const viVoiceNone = 'Máy chưa có giọng Google tiếng Việt. Vào Cài đặt > Hệ thống > Ngôn ngữ > Chuyển văn bản thành giọng nói để tải.';
+  static String viVoiceSystem(int n) => 'Giọng Google số $n';
 }

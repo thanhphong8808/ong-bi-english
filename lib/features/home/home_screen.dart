@@ -26,8 +26,8 @@ import '../rewards/badges.dart';
 import 'hello_store.dart';
 import 'week_honey.dart';
 
-/// Kid home: the morning hello with Bi, today's lesson, four tiles (talk,
-/// stories, writing, pocket phrases), this week's honeycomb and a bottom
+/// Kid home: the morning hello with Bi, today's lesson, six tiles (talk,
+/// stories, writing, pocket phrases, grammar, tests), this week's honeycomb and a bottom
 /// bar. Every card has a big picture, so a child who cannot read yet can
 /// still find their way; Bi reads the greeting aloud.
 class HomeScreen extends ConsumerStatefulWidget {
@@ -238,6 +238,22 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     await _refreshHoney();
   }
 
+  Future<void> _grammar() async {
+    if (_goToSleepIfLocked()) {
+      return;
+    }
+    await context.push(AppRoutes.grammar);
+    await _refreshHoney();
+  }
+
+  Future<void> _tests() async {
+    if (_goToSleepIfLocked()) {
+      return;
+    }
+    await context.push(AppRoutes.tests);
+    await _refreshHoney();
+  }
+
   String get _subtitle {
     final hour = DateTime.now().hour;
     if (hour < 11) {
@@ -382,6 +398,18 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                   tint: AppColors.leafSoft,
                   onTap: _pocket,
                 ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 14),
+          Row(
+            children: [
+              Expanded(
+                child: _Tile(emoji: '📐', title: S.homeGrammar, sub: S.homeGrammarSub, tint: AppColors.skySoft, onTap: _grammar),
+              ),
+              const SizedBox(width: 14),
+              Expanded(
+                child: _Tile(emoji: '📝', title: S.homeTests, sub: S.homeTestsSub, tint: AppColors.honeySoft, onTap: _tests),
               ),
             ],
           ),

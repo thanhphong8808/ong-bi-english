@@ -1,0 +1,6 @@
+Made on cinai.tv with GPT Image 2.5, 1:1, "Remix with this image" on assets/bi3d/bi_happy (Bi with no outfit):
+
+Same Bi bee character as the reference image: same face, eyes, cheeks, antennae, colours and soft 3D vinyl-toy look, no clothes. A mobile app icon, square 1:1: Bi's head and upper body, big happy smile, one little hand waving, centred and filling about 65 percent of the square, the head fully inside the frame. Background: a warm glossy honey-yellow to soft orange gradient with a few faint golden honeycomb hexagons and a gentle light glow behind Bi. Bright, rounded, friendly, high quality 3D render, soft studio lighting, crisp edges, readable at small size. No text, no letters, no numbers, no border, no frame.
+
+The result is tool/icon/bi_icon_3d.webp. Rebuild the launcher icon with:
+    python3 tool/icon/make_icon.py tool/icon/bi_icon_3d.webp

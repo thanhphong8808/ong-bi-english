@@ -293,6 +293,62 @@ fi
 
 restart 15
 if alive; then
+  step "Ngữ pháp (grammar): a lesson, practice, verbs and tenses"
+  if $UI seek "Ngữ pháp"; then
+    sleep 6
+    $UI shot 16-grammar-home
+    $UI list | head -30
+    if $UI tap "am, is, are" 10; then
+      sleep 12
+      $UI shot 16-grammar-learn
+      $UI seek "Bắt đầu luyện tập" || PROBLEMS+=("grammar: no practice button")
+      sleep 6
+      $UI shot 16-grammar-practice
+      $UI tapx "am" 10 || PROBLEMS+=("grammar: answer button not found")
+      sleep 6
+      $UI shot 16-grammar-answer
+      $UI list | head -24
+      adb shell input keyevent KEYCODE_BACK; sleep 3
+    else
+      PROBLEMS+=("grammar lesson G01 not found")
+    fi
+    if $UI tap "Bảng chia động từ" 10; then
+      sleep 6
+      $UI shot 16-grammar-verbs
+      adb shell input keyevent KEYCODE_BACK; sleep 3
+    fi
+    if $UI tap "Bảng các thì" 10; then
+      sleep 6
+      $UI shot 16-grammar-tenses
+      adb shell input keyevent KEYCODE_BACK; sleep 3
+    fi
+    check "grammar"
+  else
+    PROBLEMS+=("grammar tile not found")
+  fi
+fi
+
+restart 15
+if alive; then
+  step "Kiểm tra (test centre) and a check-up test"
+  if $UI seek "Kiểm tra"; then
+    sleep 6
+    $UI shot 17-tests
+    $UI list | head -30
+    if $UI tap "Kiểm tra cả cấp" 10; then
+      sleep 15
+      $UI shot 17-checkup
+      check "check-up test"
+    else
+      PROBLEMS+=("level check-up button not found")
+    fi
+  else
+    PROBLEMS+=("test centre tile not found")
+  fi
+fi
+
+restart 15
+if alive; then
   step "Talk with Bi: a guided chat (Hằng ngày)"
   $UI tap "Nói chuyện với Bi" 15 540 1530 && sleep 6
   $UI shot 12-talk-home

@@ -23,7 +23,12 @@ import '../features/talk_with_bi/talk_home_screen.dart';
 import '../features/talk_with_bi/bi_chat_screen.dart';
 import '../features/pocket/pocket_screen.dart';
 import '../features/parent/notes_screen.dart';
+import '../features/grammar/grammar_home_screen.dart';
+import '../features/grammar/grammar_practice_screen.dart';
+import '../features/grammar/tenses_screen.dart';
+import '../features/grammar/verb_table_screen.dart';
 import '../features/tests/level_up_screen.dart';
+import '../features/tests/test_center_screen.dart';
 import '../features/tests/test_result_screen.dart';
 import '../features/write/write_ladder_screen.dart';
 import '../features/write/write_set_screen.dart';
@@ -46,6 +51,11 @@ class AppRoutes {
   static const String reward = '/reward';
   static const String testResult = '/test-result';
   static const String levelUp = '/level-up';
+  static const String grammar = '/grammar';
+  static const String grammarLesson = '/grammar/lesson';
+  static const String grammarVerbs = '/grammar/verbs';
+  static const String grammarTenses = '/grammar/tenses';
+  static const String tests = '/tests';
   static const String parent = '/parent';
   static const String parentSettings = '/parent/settings';
   static const String parentModels = '/parent/models';
@@ -133,6 +143,17 @@ GoRouter buildRouter({required String initialLocation}) {
           return LevelUpScreen(level: extra is int ? extra : 1);
         },
       ),
+      GoRoute(path: AppRoutes.grammar, builder: (context, state) => const GrammarHomeScreen()),
+      GoRoute(
+        path: AppRoutes.grammarLesson,
+        builder: (context, state) {
+          final extra = state.extra;
+          return extra is GrammarPracticeArgs ? GrammarPracticeScreen(args: extra) : const GrammarHomeScreen();
+        },
+      ),
+      GoRoute(path: AppRoutes.grammarVerbs, builder: (context, state) => const VerbTableScreen()),
+      GoRoute(path: AppRoutes.grammarTenses, builder: (context, state) => const TensesScreen()),
+      GoRoute(path: AppRoutes.tests, builder: (context, state) => const TestCenterScreen()),
       GoRoute(
         path: AppRoutes.parent,
         builder: (context, state) => const ParentHomeScreen(),

@@ -3,6 +3,7 @@
 // "Học hôm nay": composes today's lesson (or a test), runs its steps one
 // screen at a time, records every answer, then hands out rewards.
 import 'dart:async';
+import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -29,7 +30,9 @@ import 'activities/activity_base.dart';
 import 'activities/activity_factory.dart';
 import 'lesson_audio.dart';
 
-enum LessonMode { daily, placement, practice }
+/// checkup: a test the child chose in the test centre. It is saved with the
+/// results but never changes the lesson path.
+enum LessonMode { daily, placement, practice, checkup }
 
 /// Route argument for /lesson.
 class LessonRequest {
@@ -313,6 +316,24 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
         await services.progress.recordPlacement(profile.id, level, (l0 + l1) / 2);
         container.invalidate(activeProfileProvider);
         router.go(AppRoutes.testResult, extra: TestResultArgs.placement(level));
+      case LessonKind.unitTest || LessonKind.levelTest when widget.request.mode == LessonMode.checkup:
+        final isUnit = plan.kind == LessonKind.unitTest;
+        final report = isUnit ? grader.gradeUnit(_outcomes) : grader.gradeLevel(_outcomes);
+        final unit = isUnit ? services.curriculum.unitById(plan.unitId) : null;
+        await services.db.testRepo.add(
+          profile.id,
+          kind: 'checkup',
+          targetId: unit?.id ?? 'L${plan.level}',
+          score: report.total,
+          passed: report.passed,
+          detailJson: jsonEncode(report.toJson()),
+        );
+        await services.db.profileRepo.addStars(profile.id, _stars);
+        container.invalidate(activeProfileProvider);
+        router.go(
+          AppRoutes.testResult,
+          extra: TestResultArgs.checkup(report, unit?.topicVi ?? S.testsLevelName(plan.level)),
+        );
       case LessonKind.unitTest:
         final unit = services.curriculum.unitById(plan.unitId)!;
         final report = grader.gradeUnit(_outcomes);

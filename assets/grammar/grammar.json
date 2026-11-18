@@ -1,0 +1,4720 @@
+{
+ "version": 1,
+ "stages": [
+  {
+   "stage": 1,
+   "name_vi": "Câu đơn giản",
+   "name_en": "Simple sentences",
+   "emoji": "🌱"
+  },
+  {
+   "stage": 2,
+   "name_vi": "Thì hiện tại",
+   "name_en": "Present",
+   "emoji": "☀️"
+  },
+  {
+   "stage": 3,
+   "name_vi": "Quá khứ và tương lai",
+   "name_en": "Past and future",
+   "emoji": "⏳"
+  },
+  {
+   "stage": 4,
+   "name_vi": "So sánh và lời khuyên",
+   "name_en": "Comparing and advice",
+   "emoji": "🏆"
+  },
+  {
+   "stage": 5,
+   "name_vi": "Nâng cao",
+   "name_en": "More grammar",
+   "emoji": "🚀"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "G01",
+   "stage": 1,
+   "emoji": "🙋",
+   "title_en": "am, is, are",
+   "title_vi": "Động từ \"là\": am, is, are",
+   "explain_vi": [
+    "Trong tiếng Anh, chữ \"là\" có ba dạng: am, is và are.",
+    "I đi với am. He, she, it đi với is.",
+    "You, we, they đi với are."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "là",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "I",
+      "am",
+      "I am happy."
+     ],
+     [
+      "He / She / It",
+      "is",
+      "She is my sister."
+     ],
+     [
+      "You / We / They",
+      "are",
+      "We are friends."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I am six.",
+     "vi": "Tớ sáu tuổi."
+    },
+    {
+     "en": "He is a doctor.",
+     "vi": "Chú ấy là bác sĩ."
+    },
+    {
+     "en": "They are cats.",
+     "vi": "Chúng là những con mèo."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ a student.",
+     "answer": "am",
+     "options": [
+      "am",
+      "is",
+      "are"
+     ],
+     "vi": "Tớ là học sinh.",
+     "why_vi": "I luôn đi với am."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ my mum.",
+     "answer": "is",
+     "options": [
+      "is",
+      "am",
+      "are"
+     ],
+     "vi": "Bà ấy là mẹ tớ.",
+     "why_vi": "She đi với is."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ happy.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Chúng tớ vui.",
+     "why_vi": "We đi với are."
+    },
+    {
+     "kind": "choose",
+     "q": "It ___ a dog.",
+     "answer": "is",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "vi": "Nó là một con chó.",
+     "why_vi": "It đi với is."
+    },
+    {
+     "kind": "choose",
+     "q": "You ___ my friend.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Cậu là bạn tớ.",
+     "why_vi": "You đi với are."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ in the park.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Họ ở trong công viên.",
+     "why_vi": "They đi với are."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "am",
+      "seven"
+     ],
+     "vi": "Tớ bảy tuổi."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "He",
+      "is",
+      "my",
+      "brother"
+     ],
+     "vi": "Anh ấy là anh trai tớ."
+    }
+   ]
+  },
+  {
+   "id": "G02",
+   "stage": 1,
+   "emoji": "🍎",
+   "title_en": "a, an and plurals",
+   "title_vi": "a, an và số nhiều",
+   "explain_vi": [
+    "Một đồ vật, mình nói a hoặc an.",
+    "Từ bắt đầu bằng a, e, i, o, u thì dùng an: an apple, an egg.",
+    "Từ hai cái trở lên thì thêm s: one cat, two cats.",
+    "Từ tận cùng là s, sh, ch, x thì thêm es: one box, two boxes."
+   ],
+   "table": {
+    "head": [
+     "Một",
+     "Nhiều"
+    ],
+    "rows": [
+     [
+      "a cat",
+      "two cats"
+     ],
+     [
+      "an apple",
+      "three apples"
+     ],
+     [
+      "a box",
+      "two boxes"
+     ],
+     [
+      "a child",
+      "two children"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I have a ball.",
+     "vi": "Tớ có một quả bóng."
+    },
+    {
+     "en": "She has an orange.",
+     "vi": "Bạn ấy có một quả cam."
+    },
+    {
+     "en": "I see three birds.",
+     "vi": "Tớ thấy ba con chim."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I have ___ egg.",
+     "answer": "an",
+     "options": [
+      "an",
+      "a",
+      "two"
+     ],
+     "vi": "Tớ có một quả trứng.",
+     "why_vi": "egg bắt đầu bằng e nên dùng an."
+    },
+    {
+     "kind": "choose",
+     "q": "This is ___ book.",
+     "answer": "a",
+     "options": [
+      "a",
+      "an",
+      "two"
+     ],
+     "vi": "Đây là một quyển sách.",
+     "why_vi": "book bắt đầu bằng b nên dùng a."
+    },
+    {
+     "kind": "choose",
+     "q": "I can see two ___.",
+     "answer": "dogs",
+     "options": [
+      "dogs",
+      "dog",
+      "doges"
+     ],
+     "vi": "Tớ thấy hai con chó.",
+     "why_vi": "Hai con thì thêm s: dogs."
+    },
+    {
+     "kind": "choose",
+     "q": "There are three ___.",
+     "answer": "boxes",
+     "options": [
+      "boxes",
+      "box",
+      "boxs"
+     ],
+     "vi": "Có ba cái hộp.",
+     "why_vi": "box tận cùng là x nên thêm es."
+    },
+    {
+     "kind": "choose",
+     "q": "She eats ___ apple.",
+     "answer": "an",
+     "options": [
+      "an",
+      "a",
+      "some"
+     ],
+     "vi": "Bạn ấy ăn một quả táo.",
+     "why_vi": "apple bắt đầu bằng a nên dùng an."
+    },
+    {
+     "kind": "choose",
+     "q": "I have five ___.",
+     "answer": "pencils",
+     "options": [
+      "pencils",
+      "pencil",
+      "penciles"
+     ],
+     "vi": "Tớ có năm cái bút chì.",
+     "why_vi": "Năm cái thì thêm s."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "have",
+      "an",
+      "umbrella"
+     ],
+     "vi": "Tớ có một cái ô."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "have",
+      "two",
+      "cats"
+     ],
+     "vi": "Chúng tớ có hai con mèo."
+    }
+   ]
+  },
+  {
+   "id": "G03",
+   "stage": 1,
+   "emoji": "👉",
+   "title_en": "this, that, these, those",
+   "title_vi": "Cái này, cái kia: this, that, these, those",
+   "explain_vi": [
+    "Đồ vật ở gần mình: một cái dùng this, nhiều cái dùng these.",
+    "Đồ vật ở xa: một cái dùng that, nhiều cái dùng those."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Gần",
+     "Xa"
+    ],
+    "rows": [
+     [
+      "Một",
+      "this",
+      "that"
+     ],
+     [
+      "Nhiều",
+      "these",
+      "those"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "This is my pen.",
+     "vi": "Đây là bút của tớ."
+    },
+    {
+     "en": "That is a bird.",
+     "vi": "Kia là một con chim."
+    },
+    {
+     "en": "These are my shoes.",
+     "vi": "Đây là giày của tớ."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "___ is my bag. (gần, một cái)",
+     "answer": "This",
+     "options": [
+      "This",
+      "These",
+      "Those"
+     ],
+     "vi": "Đây là cặp của tớ.",
+     "why_vi": "Gần và một cái: this."
+    },
+    {
+     "kind": "choose",
+     "q": "___ are my books. (gần, nhiều cái)",
+     "answer": "These",
+     "options": [
+      "These",
+      "This",
+      "That"
+     ],
+     "vi": "Đây là sách của tớ.",
+     "why_vi": "Gần và nhiều cái: these."
+    },
+    {
+     "kind": "choose",
+     "q": "___ is a plane. (xa, một cái)",
+     "answer": "That",
+     "options": [
+      "That",
+      "Those",
+      "These"
+     ],
+     "vi": "Kia là máy bay.",
+     "why_vi": "Xa và một cái: that."
+    },
+    {
+     "kind": "choose",
+     "q": "___ are stars. (xa, nhiều cái)",
+     "answer": "Those",
+     "options": [
+      "Those",
+      "That",
+      "This"
+     ],
+     "vi": "Kia là những ngôi sao.",
+     "why_vi": "Xa và nhiều cái: those."
+    },
+    {
+     "kind": "choose",
+     "q": "Is ___ your hat? (gần)",
+     "answer": "this",
+     "options": [
+      "this",
+      "these",
+      "those"
+     ],
+     "vi": "Đây có phải mũ của cậu không?",
+     "why_vi": "Một cái mũ ở gần: this."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "These",
+      "are",
+      "my",
+      "toys"
+     ],
+     "vi": "Đây là đồ chơi của tớ."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "That",
+      "is",
+      "my",
+      "house"
+     ],
+     "vi": "Kia là nhà của tớ."
+    }
+   ]
+  },
+  {
+   "id": "G04",
+   "stage": 1,
+   "emoji": "🎒",
+   "title_en": "have got, has got",
+   "title_vi": "Có: have got, has got",
+   "explain_vi": [
+    "Muốn nói \"có\", mình dùng have got hoặc has got.",
+    "I, you, we, they đi với have got.",
+    "He, she, it đi với has got.",
+    "Câu phủ định: haven't got, hasn't got."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "có",
+     "không có"
+    ],
+    "rows": [
+     [
+      "I / You / We / They",
+      "have got",
+      "haven't got"
+     ],
+     [
+      "He / She / It",
+      "has got",
+      "hasn't got"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I have got a kite.",
+     "vi": "Tớ có một con diều."
+    },
+    {
+     "en": "She has got long hair.",
+     "vi": "Bạn ấy có tóc dài."
+    },
+    {
+     "en": "He hasn't got a bike.",
+     "vi": "Bạn ấy không có xe đạp."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ got a red bike.",
+     "answer": "have",
+     "options": [
+      "have",
+      "has",
+      "am"
+     ],
+     "vi": "Tớ có một chiếc xe đạp đỏ.",
+     "why_vi": "I đi với have."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ got a cat.",
+     "answer": "has",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "vi": "Bạn ấy có một con mèo.",
+     "why_vi": "She đi với has."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ got two balls.",
+     "answer": "have",
+     "options": [
+      "have",
+      "has",
+      "are"
+     ],
+     "vi": "Chúng tớ có hai quả bóng.",
+     "why_vi": "We đi với have."
+    },
+    {
+     "kind": "choose",
+     "q": "The dog ___ got a long tail.",
+     "answer": "has",
+     "options": [
+      "has",
+      "have",
+      "are"
+     ],
+     "vi": "Con chó có cái đuôi dài.",
+     "why_vi": "The dog là it, đi với has."
+    },
+    {
+     "kind": "choose",
+     "q": "He ___ got a pencil.",
+     "answer": "hasn't",
+     "options": [
+      "hasn't",
+      "haven't",
+      "isn't"
+     ],
+     "vi": "Bạn ấy không có bút chì.",
+     "why_vi": "He đi với hasn't."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "have",
+      "got",
+      "a",
+      "big",
+      "family"
+     ],
+     "vi": "Tớ có một gia đình lớn."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "She",
+      "has",
+      "got",
+      "blue",
+      "eyes"
+     ],
+     "vi": "Bạn ấy có mắt xanh."
+    }
+   ]
+  },
+  {
+   "id": "G05",
+   "stage": 1,
+   "emoji": "💪",
+   "title_en": "can, can't",
+   "title_vi": "Biết, có thể: can, can't",
+   "explain_vi": [
+    "Muốn nói mình biết làm gì, dùng can và động từ.",
+    "Không biết thì dùng can't.",
+    "Can giống nhau với mọi người: I can, she can, they can.",
+    "Hỏi thì đưa can lên đầu: Can you swim?"
+   ],
+   "table": {
+    "head": [
+     "Câu",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "Biết",
+      "I can swim."
+     ],
+     [
+      "Không biết",
+      "I can't fly."
+     ],
+     [
+      "Hỏi",
+      "Can you jump?"
+     ],
+     [
+      "Trả lời",
+      "Yes, I can. / No, I can't."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Birds can fly.",
+     "vi": "Chim biết bay."
+    },
+    {
+     "en": "Fish can't walk.",
+     "vi": "Cá không biết đi."
+    },
+    {
+     "en": "Can you ride a bike?",
+     "vi": "Cậu có biết đi xe đạp không?"
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "A fish ___ swim.",
+     "answer": "can",
+     "options": [
+      "can",
+      "cans",
+      "is"
+     ],
+     "vi": "Cá biết bơi.",
+     "why_vi": "can không bao giờ thêm s."
+    },
+    {
+     "kind": "choose",
+     "q": "A cat ___ fly.",
+     "answer": "can't",
+     "options": [
+      "can't",
+      "can",
+      "isn't"
+     ],
+     "vi": "Mèo không biết bay.",
+     "why_vi": "Không biết thì dùng can't."
+    },
+    {
+     "kind": "choose",
+     "q": "___ you sing?",
+     "answer": "Can",
+     "options": [
+      "Can",
+      "Do",
+      "Are"
+     ],
+     "vi": "Cậu có biết hát không?",
+     "why_vi": "Hỏi thì đưa can lên đầu."
+    },
+    {
+     "kind": "choose",
+     "q": "She can ___ very fast.",
+     "answer": "run",
+     "options": [
+      "run",
+      "runs",
+      "running"
+     ],
+     "vi": "Bạn ấy chạy rất nhanh.",
+     "why_vi": "Sau can là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "Can you dance? Yes, I ___.",
+     "answer": "can",
+     "options": [
+      "can",
+      "can't",
+      "do"
+     ],
+     "vi": "Cậu biết nhảy không? Có, tớ biết.",
+     "why_vi": "Trả lời có: Yes, I can."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "can",
+      "ride",
+      "a",
+      "bike"
+     ],
+     "vi": "Tớ biết đi xe đạp."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "Can",
+      "you",
+      "play",
+      "football"
+     ],
+     "vi": "Cậu có biết đá bóng không?"
+    }
+   ]
+  },
+  {
+   "id": "G06",
+   "stage": 1,
+   "emoji": "📦",
+   "title_en": "there is, there are",
+   "title_vi": "Có cái gì ở đâu: there is, there are",
+   "explain_vi": [
+    "Muốn nói ở đâu đó có cái gì, dùng there is hoặc there are.",
+    "Một cái thì dùng there is. Nhiều cái thì dùng there are."
+   ],
+   "table": {
+    "head": [
+     "Một hay nhiều",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "Một",
+      "There is a cat."
+     ],
+     [
+      "Nhiều",
+      "There are two cats."
+     ],
+     [
+      "Hỏi",
+      "Is there a cat? / Are there any cats?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "There is a bed in my room.",
+     "vi": "Trong phòng tớ có một cái giường."
+    },
+    {
+     "en": "There are three apples.",
+     "vi": "Có ba quả táo."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "There ___ a ball.",
+     "answer": "is",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "vi": "Có một quả bóng.",
+     "why_vi": "Một quả: there is."
+    },
+    {
+     "kind": "choose",
+     "q": "There ___ four chairs.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Có bốn cái ghế.",
+     "why_vi": "Nhiều cái: there are."
+    },
+    {
+     "kind": "choose",
+     "q": "There ___ a bird in the tree.",
+     "answer": "is",
+     "options": [
+      "is",
+      "are",
+      "have"
+     ],
+     "vi": "Có một con chim trên cây.",
+     "why_vi": "Một con: there is."
+    },
+    {
+     "kind": "choose",
+     "q": "There ___ many fish in the sea.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "has"
+     ],
+     "vi": "Có nhiều cá ở biển.",
+     "why_vi": "Nhiều con: there are."
+    },
+    {
+     "kind": "choose",
+     "q": "___ there a park near your house?",
+     "answer": "Is",
+     "options": [
+      "Is",
+      "Are",
+      "Do"
+     ],
+     "vi": "Gần nhà cậu có công viên không?",
+     "why_vi": "Một công viên: Is there."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "There",
+      "is",
+      "a",
+      "cake",
+      "on",
+      "the",
+      "table"
+     ],
+     "vi": "Có một cái bánh trên bàn."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "There",
+      "are",
+      "two",
+      "birds"
+     ],
+     "vi": "Có hai con chim."
+    }
+   ]
+  },
+  {
+   "id": "G07",
+   "stage": 1,
+   "emoji": "📍",
+   "title_en": "in, on, under, next to",
+   "title_vi": "Ở đâu: in, on, under, next to",
+   "explain_vi": [
+    "In là ở trong. On là ở trên. Under là ở dưới.",
+    "Next to là ở bên cạnh. Behind là ở phía sau. In front of là ở phía trước."
+   ],
+   "table": {
+    "head": [
+     "Từ",
+     "Nghĩa",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "in",
+      "ở trong",
+      "The cat is in the box."
+     ],
+     [
+      "on",
+      "ở trên",
+      "The book is on the table."
+     ],
+     [
+      "under",
+      "ở dưới",
+      "The ball is under the chair."
+     ],
+     [
+      "next to",
+      "bên cạnh",
+      "The dog is next to the door."
+     ],
+     [
+      "behind",
+      "phía sau",
+      "The boy is behind the tree."
+     ],
+     [
+      "in front of",
+      "phía trước",
+      "The car is in front of the house."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "My bag is on the chair.",
+     "vi": "Cặp của tớ ở trên ghế."
+    },
+    {
+     "en": "The fish are in the water.",
+     "vi": "Cá ở trong nước."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "The cat is ___ the box. (ở trong)",
+     "answer": "in",
+     "options": [
+      "in",
+      "on",
+      "under"
+     ],
+     "vi": "Con mèo ở trong hộp.",
+     "why_vi": "Ở trong là in."
+    },
+    {
+     "kind": "choose",
+     "q": "The cup is ___ the table. (ở trên)",
+     "answer": "on",
+     "options": [
+      "on",
+      "in",
+      "under"
+     ],
+     "vi": "Cái cốc ở trên bàn.",
+     "why_vi": "Ở trên là on."
+    },
+    {
+     "kind": "choose",
+     "q": "The shoes are ___ the bed. (ở dưới)",
+     "answer": "under",
+     "options": [
+      "under",
+      "on",
+      "in"
+     ],
+     "vi": "Giày ở dưới giường.",
+     "why_vi": "Ở dưới là under."
+    },
+    {
+     "kind": "choose",
+     "q": "I sit ___ my friend. (bên cạnh)",
+     "answer": "next to",
+     "options": [
+      "next to",
+      "under",
+      "in"
+     ],
+     "vi": "Tớ ngồi cạnh bạn.",
+     "why_vi": "Bên cạnh là next to."
+    },
+    {
+     "kind": "choose",
+     "q": "The ball is ___ the tree. (phía sau)",
+     "answer": "behind",
+     "options": [
+      "behind",
+      "on",
+      "in"
+     ],
+     "vi": "Quả bóng ở sau cái cây.",
+     "why_vi": "Phía sau là behind."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "The",
+      "book",
+      "is",
+      "on",
+      "the",
+      "desk"
+     ],
+     "vi": "Quyển sách ở trên bàn học."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "The",
+      "dog",
+      "is",
+      "under",
+      "the",
+      "table"
+     ],
+     "vi": "Con chó ở dưới gầm bàn."
+    }
+   ]
+  },
+  {
+   "id": "G08",
+   "stage": 1,
+   "emoji": "🧸",
+   "title_en": "my, your, his, her and 's",
+   "title_vi": "Của ai: my, your, his, her và 's",
+   "explain_vi": [
+    "My là của tớ. Your là của cậu.",
+    "His là của bạn trai ấy. Her là của bạn gái ấy.",
+    "Our là của chúng tớ. Their là của họ.",
+    "Muốn nói của một người, thêm dấu phẩy trên và s: Mai's bag là cặp của Mai."
+   ],
+   "table": {
+    "head": [
+     "Người",
+     "Của người đó"
+    ],
+    "rows": [
+     [
+      "I",
+      "my"
+     ],
+     [
+      "you",
+      "your"
+     ],
+     [
+      "he",
+      "his"
+     ],
+     [
+      "she",
+      "her"
+     ],
+     [
+      "we",
+      "our"
+     ],
+     [
+      "they",
+      "their"
+     ],
+     [
+      "Mai",
+      "Mai's"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "This is my dog.",
+     "vi": "Đây là con chó của tớ."
+    },
+    {
+     "en": "Her name is Lan.",
+     "vi": "Tên bạn ấy là Lan."
+    },
+    {
+     "en": "That is Tom's bike.",
+     "vi": "Kia là xe đạp của Tom."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I have a cat. ___ cat is white.",
+     "answer": "My",
+     "options": [
+      "My",
+      "Your",
+      "Her"
+     ],
+     "vi": "Tớ có con mèo. Mèo của tớ màu trắng.",
+     "why_vi": "Của tớ là my."
+    },
+    {
+     "kind": "choose",
+     "q": "Lan has a doll. ___ doll is pretty.",
+     "answer": "Her",
+     "options": [
+      "Her",
+      "His",
+      "My"
+     ],
+     "vi": "Lan có búp bê. Búp bê của bạn ấy đẹp.",
+     "why_vi": "Lan là bạn gái: her."
+    },
+    {
+     "kind": "choose",
+     "q": "Nam has a kite. ___ kite is big.",
+     "answer": "His",
+     "options": [
+      "His",
+      "Her",
+      "Their"
+     ],
+     "vi": "Nam có diều. Diều của bạn ấy to.",
+     "why_vi": "Nam là bạn trai: his."
+    },
+    {
+     "kind": "choose",
+     "q": "We have a garden. ___ garden is green.",
+     "answer": "Our",
+     "options": [
+      "Our",
+      "Their",
+      "My"
+     ],
+     "vi": "Chúng tớ có vườn. Vườn của chúng tớ xanh.",
+     "why_vi": "Của chúng tớ là our."
+    },
+    {
+     "kind": "choose",
+     "q": "This is ___ bag. (cặp của Minh)",
+     "answer": "Minh's",
+     "options": [
+      "Minh's",
+      "Minh",
+      "Minhs"
+     ],
+     "vi": "Đây là cặp của Minh.",
+     "why_vi": "Thêm 's: Minh's."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "What",
+      "is",
+      "your",
+      "name"
+     ],
+     "vi": "Cậu tên là gì?"
+    },
+    {
+     "kind": "order",
+     "words": [
+      "This",
+      "is",
+      "my",
+      "brother"
+     ],
+     "vi": "Đây là anh trai tớ."
+    }
+   ]
+  },
+  {
+   "id": "G09",
+   "stage": 1,
+   "emoji": "❓",
+   "title_en": "what, where, who, how many",
+   "title_vi": "Từ để hỏi: what, where, who, how many",
+   "explain_vi": [
+    "What là cái gì. Where là ở đâu. Who là ai.",
+    "How many là bao nhiêu cái. How old là bao nhiêu tuổi.",
+    "When là khi nào. Why là tại sao."
+   ],
+   "table": {
+    "head": [
+     "Từ hỏi",
+     "Nghĩa",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "What",
+      "cái gì",
+      "What is this?"
+     ],
+     [
+      "Where",
+      "ở đâu",
+      "Where is my bag?"
+     ],
+     [
+      "Who",
+      "ai",
+      "Who is she?"
+     ],
+     [
+      "How many",
+      "bao nhiêu",
+      "How many cats are there?"
+     ],
+     [
+      "How old",
+      "mấy tuổi",
+      "How old are you?"
+     ],
+     [
+      "When",
+      "khi nào",
+      "When is your birthday?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "What colour is it?",
+     "vi": "Nó màu gì?"
+    },
+    {
+     "en": "Where is my teddy bear?",
+     "vi": "Gấu bông của tớ đâu rồi?"
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "___ is your name?",
+     "answer": "What",
+     "options": [
+      "What",
+      "Where",
+      "Who"
+     ],
+     "vi": "Cậu tên là gì?",
+     "why_vi": "Hỏi cái gì: what."
+    },
+    {
+     "kind": "choose",
+     "q": "___ is the cat? It is under the bed.",
+     "answer": "Where",
+     "options": [
+      "Where",
+      "What",
+      "Who"
+     ],
+     "vi": "Con mèo đâu? Nó ở dưới giường.",
+     "why_vi": "Hỏi ở đâu: where."
+    },
+    {
+     "kind": "choose",
+     "q": "___ is he? He is my dad.",
+     "answer": "Who",
+     "options": [
+      "Who",
+      "What",
+      "Where"
+     ],
+     "vi": "Chú ấy là ai? Đó là bố tớ.",
+     "why_vi": "Hỏi ai: who."
+    },
+    {
+     "kind": "choose",
+     "q": "How ___ are you? I am six.",
+     "answer": "old",
+     "options": [
+      "old",
+      "many",
+      "much"
+     ],
+     "vi": "Cậu mấy tuổi? Tớ sáu tuổi.",
+     "why_vi": "Hỏi tuổi: how old."
+    },
+    {
+     "kind": "choose",
+     "q": "How ___ birds are there?",
+     "answer": "many",
+     "options": [
+      "many",
+      "old",
+      "is"
+     ],
+     "vi": "Có bao nhiêu con chim?",
+     "why_vi": "Hỏi số lượng: how many."
+    },
+    {
+     "kind": "choose",
+     "q": "___ is your birthday? In May.",
+     "answer": "When",
+     "options": [
+      "When",
+      "Who",
+      "What"
+     ],
+     "vi": "Sinh nhật cậu khi nào? Tháng Năm.",
+     "why_vi": "Hỏi khi nào: when."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "Where",
+      "is",
+      "my",
+      "pencil"
+     ],
+     "vi": "Bút chì của tớ đâu nhỉ?"
+    },
+    {
+     "kind": "order",
+     "words": [
+      "How",
+      "old",
+      "is",
+      "your",
+      "sister"
+     ],
+     "vi": "Em gái cậu mấy tuổi?"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "stage": 2,
+   "emoji": "☀️",
+   "title_en": "Present simple: I play",
+   "title_vi": "Thì hiện tại đơn: I play",
+   "explain_vi": [
+    "Việc mình làm hằng ngày, làm thường xuyên, dùng thì hiện tại đơn.",
+    "Với I, you, we, they, động từ giữ nguyên: I play, they play.",
+    "Hay đi với các từ: every day, always, usually, sometimes."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "Động từ",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "I",
+      "play",
+      "I play football."
+     ],
+     [
+      "You",
+      "eat",
+      "You eat rice."
+     ],
+     [
+      "We",
+      "go",
+      "We go to school."
+     ],
+     [
+      "They",
+      "like",
+      "They like cats."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I get up at six every day.",
+     "vi": "Tớ dậy lúc sáu giờ mỗi ngày."
+    },
+    {
+     "en": "We walk to school.",
+     "vi": "Chúng tớ đi bộ đến trường."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ milk every morning.",
+     "answer": "drink",
+     "options": [
+      "drink",
+      "drinks",
+      "drinking"
+     ],
+     "vi": "Sáng nào tớ cũng uống sữa.",
+     "why_vi": "I đi với động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ to school by bus.",
+     "answer": "go",
+     "options": [
+      "go",
+      "goes",
+      "going"
+     ],
+     "vi": "Chúng tớ đi học bằng xe buýt.",
+     "why_vi": "We đi với động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ in the park.",
+     "answer": "play",
+     "options": [
+      "play",
+      "plays",
+      "playing"
+     ],
+     "vi": "Họ chơi ở công viên.",
+     "why_vi": "They đi với động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "You ___ very well.",
+     "answer": "sing",
+     "options": [
+      "sing",
+      "sings",
+      "singing"
+     ],
+     "vi": "Cậu hát rất hay.",
+     "why_vi": "You đi với động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "I ___ my teeth every day.",
+     "answer": "brush",
+     "options": [
+      "brush",
+      "brushes",
+      "brushing"
+     ],
+     "vi": "Tớ đánh răng mỗi ngày.",
+     "why_vi": "I đi với động từ nguyên mẫu."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "like",
+      "ice",
+      "cream"
+     ],
+     "vi": "Tớ thích kem."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "play",
+      "together",
+      "every",
+      "day"
+     ],
+     "vi": "Chúng tớ chơi cùng nhau mỗi ngày."
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "stage": 2,
+   "emoji": "👧",
+   "title_en": "Present simple: she plays",
+   "title_vi": "Hiện tại đơn với he, she, it: thêm s",
+   "explain_vi": [
+    "Khi nói về một người khác như he, she, it, động từ phải thêm s.",
+    "He plays. She likes. It runs.",
+    "Động từ tận cùng là o, s, sh, ch, x thì thêm es: go thành goes, watch thành watches.",
+    "Phụ âm và y thì đổi y thành ies: fly thành flies. Have thành has."
+   ],
+   "table": {
+    "head": [
+     "Động từ",
+     "He / She / It"
+    ],
+    "rows": [
+     [
+      "play",
+      "plays"
+     ],
+     [
+      "like",
+      "likes"
+     ],
+     [
+      "go",
+      "goes"
+     ],
+     [
+      "watch",
+      "watches"
+     ],
+     [
+      "wash",
+      "washes"
+     ],
+     [
+      "fly",
+      "flies"
+     ],
+     [
+      "have",
+      "has"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "She reads books.",
+     "vi": "Bạn ấy đọc sách."
+    },
+    {
+     "en": "He goes to school.",
+     "vi": "Bạn ấy đi học."
+    },
+    {
+     "en": "My cat sleeps a lot.",
+     "vi": "Con mèo của tớ ngủ nhiều."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "She ___ the piano.",
+     "answer": "plays",
+     "options": [
+      "plays",
+      "play",
+      "playing"
+     ],
+     "vi": "Cô ấy chơi đàn piano.",
+     "why_vi": "She thì thêm s: plays."
+    },
+    {
+     "kind": "choose",
+     "q": "He ___ to school at seven.",
+     "answer": "goes",
+     "options": [
+      "goes",
+      "go",
+      "gos"
+     ],
+     "vi": "Bạn ấy đi học lúc bảy giờ.",
+     "why_vi": "go tận cùng là o: goes."
+    },
+    {
+     "kind": "choose",
+     "q": "My mum ___ TV in the evening.",
+     "answer": "watches",
+     "options": [
+      "watches",
+      "watch",
+      "watchs"
+     ],
+     "vi": "Mẹ tớ xem TV buổi tối.",
+     "why_vi": "watch tận cùng là ch: watches."
+    },
+    {
+     "kind": "choose",
+     "q": "The bird ___ high.",
+     "answer": "flies",
+     "options": [
+      "flies",
+      "fly",
+      "flys"
+     ],
+     "vi": "Con chim bay cao.",
+     "why_vi": "fly đổi y thành ies: flies."
+    },
+    {
+     "kind": "choose",
+     "q": "Lan ___ a red bike.",
+     "answer": "has",
+     "options": [
+      "has",
+      "have",
+      "haves"
+     ],
+     "vi": "Lan có một xe đạp đỏ.",
+     "why_vi": "Have với she thành has."
+    },
+    {
+     "kind": "choose",
+     "q": "I ___ apples but my brother ___ bananas.",
+     "answer": "like, likes",
+     "options": [
+      "like, likes",
+      "likes, like",
+      "like, like"
+     ],
+     "vi": "Tớ thích táo còn anh tớ thích chuối.",
+     "why_vi": "I giữ nguyên, my brother là he nên thêm s."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "She",
+      "brushes",
+      "her",
+      "teeth"
+     ],
+     "vi": "Bạn ấy đánh răng."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "My",
+      "dad",
+      "drives",
+      "a",
+      "car"
+     ],
+     "vi": "Bố tớ lái ô tô."
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "stage": 2,
+   "emoji": "🙅",
+   "title_en": "don't, doesn't, do, does",
+   "title_vi": "Hiện tại đơn: phủ định và câu hỏi",
+   "explain_vi": [
+    "Câu phủ định: I, you, we, they dùng don't. He, she, it dùng doesn't.",
+    "Sau don't và doesn't, động từ trở về nguyên mẫu: She doesn't like, không phải doesn't likes.",
+    "Câu hỏi: Do you like? Does she like?"
+   ],
+   "table": {
+    "head": [
+     "",
+     "I / You / We / They",
+     "He / She / It"
+    ],
+    "rows": [
+     [
+      "Phủ định",
+      "I don't like fish.",
+      "She doesn't like fish."
+     ],
+     [
+      "Hỏi",
+      "Do you like fish?",
+      "Does she like fish?"
+     ],
+     [
+      "Trả lời",
+      "Yes, I do. / No, I don't.",
+      "Yes, she does. / No, she doesn't."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I don't like onions.",
+     "vi": "Tớ không thích hành."
+    },
+    {
+     "en": "Does he play football?",
+     "vi": "Bạn ấy có chơi bóng đá không?"
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ like spiders.",
+     "answer": "don't",
+     "options": [
+      "don't",
+      "doesn't",
+      "not"
+     ],
+     "vi": "Tớ không thích nhện.",
+     "why_vi": "I dùng don't."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ eat meat.",
+     "answer": "doesn't",
+     "options": [
+      "doesn't",
+      "don't",
+      "isn't"
+     ],
+     "vi": "Bạn ấy không ăn thịt.",
+     "why_vi": "She dùng doesn't."
+    },
+    {
+     "kind": "choose",
+     "q": "___ you like music?",
+     "answer": "Do",
+     "options": [
+      "Do",
+      "Does",
+      "Are"
+     ],
+     "vi": "Cậu có thích nhạc không?",
+     "why_vi": "You dùng do."
+    },
+    {
+     "kind": "choose",
+     "q": "___ your dad cook?",
+     "answer": "Does",
+     "options": [
+      "Does",
+      "Do",
+      "Is"
+     ],
+     "vi": "Bố cậu có nấu ăn không?",
+     "why_vi": "Your dad là he, dùng does."
+    },
+    {
+     "kind": "choose",
+     "q": "He doesn't ___ cats.",
+     "answer": "like",
+     "options": [
+      "like",
+      "likes",
+      "liking"
+     ],
+     "vi": "Bạn ấy không thích mèo.",
+     "why_vi": "Sau doesn't là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "Do you have a pet? No, I ___.",
+     "answer": "don't",
+     "options": [
+      "don't",
+      "doesn't",
+      "do"
+     ],
+     "vi": "Cậu có thú cưng không? Không.",
+     "why_vi": "Trả lời không với I: No, I don't."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "don't",
+      "like",
+      "rain"
+     ],
+     "vi": "Tớ không thích mưa."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "Does",
+      "she",
+      "like",
+      "dancing"
+     ],
+     "vi": "Bạn ấy có thích nhảy không?"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "stage": 2,
+   "emoji": "🏃",
+   "title_en": "Present continuous: I am playing",
+   "title_vi": "Thì hiện tại tiếp diễn: đang làm",
+   "explain_vi": [
+    "Việc đang xảy ra ngay lúc này, dùng am, is, are và động từ thêm ing.",
+    "I am playing. She is reading. They are running.",
+    "Động từ tận cùng là e thì bỏ e: dance thành dancing.",
+    "Một số từ ngắn thì gấp đôi chữ cuối: run thành running, swim thành swimming."
+   ],
+   "table": {
+    "head": [
+     "Động từ",
+     "Thêm ing"
+    ],
+    "rows": [
+     [
+      "play",
+      "playing"
+     ],
+     [
+      "read",
+      "reading"
+     ],
+     [
+      "dance",
+      "dancing"
+     ],
+     [
+      "write",
+      "writing"
+     ],
+     [
+      "run",
+      "running"
+     ],
+     [
+      "swim",
+      "swimming"
+     ],
+     [
+      "sit",
+      "sitting"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I am eating an apple now.",
+     "vi": "Bây giờ tớ đang ăn táo."
+    },
+    {
+     "en": "The baby is sleeping.",
+     "vi": "Em bé đang ngủ."
+    },
+    {
+     "en": "Look! They are dancing.",
+     "vi": "Nhìn kìa! Họ đang nhảy."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "Look! The dog ___ running.",
+     "answer": "is",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "vi": "Nhìn kìa! Con chó đang chạy.",
+     "why_vi": "The dog là it: is."
+    },
+    {
+     "kind": "choose",
+     "q": "I am ___ a picture now.",
+     "answer": "drawing",
+     "options": [
+      "drawing",
+      "draw",
+      "draws"
+     ],
+     "vi": "Bây giờ tớ đang vẽ tranh.",
+     "why_vi": "Đang làm: thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ playing football.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Họ đang đá bóng.",
+     "why_vi": "They đi với are."
+    },
+    {
+     "kind": "choose",
+     "q": "She is ___ in the pool.",
+     "answer": "swimming",
+     "options": [
+      "swimming",
+      "swiming",
+      "swims"
+     ],
+     "vi": "Bạn ấy đang bơi trong bể.",
+     "why_vi": "swim gấp đôi m: swimming."
+    },
+    {
+     "kind": "choose",
+     "q": "We are ___ a song.",
+     "answer": "singing",
+     "options": [
+      "singing",
+      "sing",
+      "sings"
+     ],
+     "vi": "Chúng tớ đang hát.",
+     "why_vi": "Đang làm: thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "What ___ you doing?",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "do"
+     ],
+     "vi": "Cậu đang làm gì thế?",
+     "why_vi": "You đi với are."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "The",
+      "cat",
+      "is",
+      "sleeping"
+     ],
+     "vi": "Con mèo đang ngủ."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "am",
+      "reading",
+      "a",
+      "book"
+     ],
+     "vi": "Tớ đang đọc sách."
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "stage": 2,
+   "emoji": "❤️",
+   "title_en": "like, love, want + to / -ing",
+   "title_vi": "Thích làm gì: like + ing, want to",
+   "explain_vi": [
+    "Thích làm gì: like hoặc love, rồi động từ thêm ing. I like swimming.",
+    "Muốn làm gì: want to và động từ nguyên mẫu. I want to play.",
+    "Lời mời lịch sự: Would you like to come?"
+   ],
+   "table": {
+    "head": [
+     "Mẫu câu",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "like + ing",
+      "I like reading."
+     ],
+     [
+      "love + ing",
+      "She loves dancing."
+     ],
+     [
+      "want to + động từ",
+      "I want to go home."
+     ],
+     [
+      "would like to + động từ",
+      "I'd like to drink water."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I love playing with my dog.",
+     "vi": "Tớ rất thích chơi với con chó."
+    },
+    {
+     "en": "Do you want to draw?",
+     "vi": "Cậu có muốn vẽ không?"
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I like ___ books.",
+     "answer": "reading",
+     "options": [
+      "reading",
+      "read",
+      "reads"
+     ],
+     "vi": "Tớ thích đọc sách.",
+     "why_vi": "Sau like thường thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "She wants ___ a cake.",
+     "answer": "to eat",
+     "options": [
+      "to eat",
+      "eating",
+      "eats"
+     ],
+     "vi": "Bạn ấy muốn ăn bánh.",
+     "why_vi": "Sau want là to và động từ."
+    },
+    {
+     "kind": "choose",
+     "q": "He loves ___ football.",
+     "answer": "playing",
+     "options": [
+      "playing",
+      "play",
+      "plays"
+     ],
+     "vi": "Bạn ấy rất thích đá bóng.",
+     "why_vi": "Sau love thường thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "Would you like ___ to my party?",
+     "answer": "to come",
+     "options": [
+      "to come",
+      "coming",
+      "come"
+     ],
+     "vi": "Cậu có muốn đến dự tiệc của tớ không?",
+     "why_vi": "Sau would like là to và động từ."
+    },
+    {
+     "kind": "choose",
+     "q": "We want ___ to the zoo.",
+     "answer": "to go",
+     "options": [
+      "to go",
+      "going",
+      "goes"
+     ],
+     "vi": "Chúng tớ muốn đi sở thú.",
+     "why_vi": "Sau want là to và động từ."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "like",
+      "singing",
+      "songs"
+     ],
+     "vi": "Tớ thích hát."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "want",
+      "to",
+      "be",
+      "a",
+      "doctor"
+     ],
+     "vi": "Tớ muốn làm bác sĩ."
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "stage": 3,
+   "emoji": "⏪",
+   "title_en": "was, were",
+   "title_vi": "Quá khứ của \"là\": was, were",
+   "explain_vi": [
+    "Muốn nói chuyện đã qua, am và is đổi thành was, are đổi thành were.",
+    "I, he, she, it đi với was. You, we, they đi với were.",
+    "Hay đi với: yesterday, last week, last year."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "Hiện tại",
+     "Quá khứ"
+    ],
+    "rows": [
+     [
+      "I",
+      "am",
+      "was"
+     ],
+     [
+      "He / She / It",
+      "is",
+      "was"
+     ],
+     [
+      "You / We / They",
+      "are",
+      "were"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I was at home yesterday.",
+     "vi": "Hôm qua tớ ở nhà."
+    },
+    {
+     "en": "They were very happy.",
+     "vi": "Họ đã rất vui."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ tired yesterday.",
+     "answer": "was",
+     "options": [
+      "was",
+      "were",
+      "am"
+     ],
+     "vi": "Hôm qua tớ mệt.",
+     "why_vi": "Quá khứ của I là was."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ at the beach last week.",
+     "answer": "were",
+     "options": [
+      "were",
+      "was",
+      "are"
+     ],
+     "vi": "Tuần trước chúng tớ ở biển.",
+     "why_vi": "We đi với were."
+    },
+    {
+     "kind": "choose",
+     "q": "The film ___ very funny.",
+     "answer": "was",
+     "options": [
+      "was",
+      "were",
+      "are"
+     ],
+     "vi": "Bộ phim rất buồn cười.",
+     "why_vi": "The film là it: was."
+    },
+    {
+     "kind": "choose",
+     "q": "___ you at school yesterday?",
+     "answer": "Were",
+     "options": [
+      "Were",
+      "Was",
+      "Are"
+     ],
+     "vi": "Hôm qua cậu có đi học không?",
+     "why_vi": "You đi với were."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ at home last night.",
+     "answer": "wasn't",
+     "options": [
+      "wasn't",
+      "weren't",
+      "isn't"
+     ],
+     "vi": "Tối qua bạn ấy không ở nhà.",
+     "why_vi": "She đi với wasn't."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "was",
+      "six",
+      "last",
+      "year"
+     ],
+     "vi": "Năm ngoái tớ sáu tuổi."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "They",
+      "were",
+      "in",
+      "the",
+      "garden"
+     ],
+     "vi": "Họ đã ở trong vườn."
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "stage": 3,
+   "emoji": "📼",
+   "title_en": "Past simple: played",
+   "title_vi": "Thì quá khứ đơn: thêm ed",
+   "explain_vi": [
+    "Việc đã xảy ra trong quá khứ, nhiều động từ chỉ cần thêm ed.",
+    "play thành played, watch thành watched.",
+    "Động từ tận cùng là e thì thêm d: dance thành danced.",
+    "Phụ âm và y thì đổi thành ied: cry thành cried. Một số từ ngắn gấp đôi chữ cuối: stop thành stopped."
+   ],
+   "table": {
+    "head": [
+     "Động từ",
+     "Quá khứ"
+    ],
+    "rows": [
+     [
+      "play",
+      "played"
+     ],
+     [
+      "watch",
+      "watched"
+     ],
+     [
+      "dance",
+      "danced"
+     ],
+     [
+      "like",
+      "liked"
+     ],
+     [
+      "cry",
+      "cried"
+     ],
+     [
+      "stop",
+      "stopped"
+     ],
+     [
+      "visit",
+      "visited"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I played football yesterday.",
+     "vi": "Hôm qua tớ đá bóng."
+    },
+    {
+     "en": "We visited Grandma last Sunday.",
+     "vi": "Chủ nhật tuần trước chúng tớ đi thăm bà."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "Yesterday I ___ with my friends.",
+     "answer": "played",
+     "options": [
+      "played",
+      "play",
+      "plays"
+     ],
+     "vi": "Hôm qua tớ chơi với các bạn.",
+     "why_vi": "Chuyện hôm qua: thêm ed."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ TV last night.",
+     "answer": "watched",
+     "options": [
+      "watched",
+      "watches",
+      "watch"
+     ],
+     "vi": "Tối qua bạn ấy xem TV.",
+     "why_vi": "Chuyện tối qua: watched."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ at the party.",
+     "answer": "danced",
+     "options": [
+      "danced",
+      "danceed",
+      "dances"
+     ],
+     "vi": "Chúng tớ đã nhảy ở bữa tiệc.",
+     "why_vi": "dance tận cùng là e: thêm d."
+    },
+    {
+     "kind": "choose",
+     "q": "The baby ___ a lot.",
+     "answer": "cried",
+     "options": [
+      "cried",
+      "cryed",
+      "cries"
+     ],
+     "vi": "Em bé đã khóc nhiều.",
+     "why_vi": "cry đổi thành cried."
+    },
+    {
+     "kind": "choose",
+     "q": "The bus ___ at the station.",
+     "answer": "stopped",
+     "options": [
+      "stopped",
+      "stoped",
+      "stops"
+     ],
+     "vi": "Xe buýt đã dừng ở bến.",
+     "why_vi": "stop gấp đôi p: stopped."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "cleaned",
+      "my",
+      "room",
+      "yesterday"
+     ],
+     "vi": "Hôm qua tớ đã dọn phòng."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "walked",
+      "to",
+      "the",
+      "park"
+     ],
+     "vi": "Chúng tớ đã đi bộ đến công viên."
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "stage": 3,
+   "emoji": "🔀",
+   "title_en": "Past simple: went, saw, ate",
+   "title_vi": "Quá khứ đơn: động từ bất quy tắc",
+   "explain_vi": [
+    "Một số động từ có dạng quá khứ riêng, không thêm ed.",
+    "go thành went. see thành saw. eat thành ate. have thành had.",
+    "Mình học thuộc dần trong bảng chia động từ nhé."
+   ],
+   "table": {
+    "head": [
+     "Động từ",
+     "Quá khứ",
+     "Nghĩa"
+    ],
+    "rows": [
+     [
+      "go",
+      "went",
+      "đi"
+     ],
+     [
+      "see",
+      "saw",
+      "nhìn thấy"
+     ],
+     [
+      "eat",
+      "ate",
+      "ăn"
+     ],
+     [
+      "have",
+      "had",
+      "có"
+     ],
+     [
+      "make",
+      "made",
+      "làm"
+     ],
+     [
+      "buy",
+      "bought",
+      "mua"
+     ],
+     [
+      "swim",
+      "swam",
+      "bơi"
+     ],
+     [
+      "take",
+      "took",
+      "cầm, mang"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "We went to the zoo.",
+     "vi": "Chúng tớ đã đi sở thú."
+    },
+    {
+     "en": "I saw a big elephant.",
+     "vi": "Tớ đã nhìn thấy một con voi to."
+    },
+    {
+     "en": "She ate an ice cream.",
+     "vi": "Bạn ấy đã ăn một cây kem."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "Last Sunday we ___ to the beach.",
+     "answer": "went",
+     "options": [
+      "went",
+      "goed",
+      "go"
+     ],
+     "vi": "Chủ nhật tuần trước chúng tớ đi biển.",
+     "why_vi": "Quá khứ của go là went."
+    },
+    {
+     "kind": "choose",
+     "q": "I ___ a rainbow yesterday.",
+     "answer": "saw",
+     "options": [
+      "saw",
+      "seed",
+      "see"
+     ],
+     "vi": "Hôm qua tớ nhìn thấy cầu vồng.",
+     "why_vi": "Quá khứ của see là saw."
+    },
+    {
+     "kind": "choose",
+     "q": "He ___ rice for lunch.",
+     "answer": "ate",
+     "options": [
+      "ate",
+      "eated",
+      "eats"
+     ],
+     "vi": "Bạn ấy ăn cơm trưa.",
+     "why_vi": "Quá khứ của eat là ate."
+    },
+    {
+     "kind": "choose",
+     "q": "We ___ a lot of fun.",
+     "answer": "had",
+     "options": [
+      "had",
+      "haved",
+      "has"
+     ],
+     "vi": "Chúng tớ đã rất vui.",
+     "why_vi": "Quá khứ của have là had."
+    },
+    {
+     "kind": "choose",
+     "q": "Mum ___ me a new book.",
+     "answer": "bought",
+     "options": [
+      "bought",
+      "buyed",
+      "buys"
+     ],
+     "vi": "Mẹ đã mua cho tớ quyển sách mới.",
+     "why_vi": "Quá khứ của buy là bought."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ a big cake.",
+     "answer": "made",
+     "options": [
+      "made",
+      "maked",
+      "make"
+     ],
+     "vi": "Họ đã làm một cái bánh to.",
+     "why_vi": "Quá khứ của make là made."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "went",
+      "to",
+      "the",
+      "zoo",
+      "yesterday"
+     ],
+     "vi": "Hôm qua chúng tớ đã đi sở thú."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "had",
+      "a",
+      "good",
+      "time"
+     ],
+     "vi": "Tớ đã chơi rất vui."
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "stage": 3,
+   "emoji": "🔍",
+   "title_en": "did, didn't",
+   "title_vi": "Quá khứ đơn: câu hỏi và phủ định",
+   "explain_vi": [
+    "Câu phủ định ở quá khứ dùng didn't, rồi động từ nguyên mẫu.",
+    "I didn't go, không nói I didn't went.",
+    "Câu hỏi dùng did: Did you see it? Yes, I did. No, I didn't."
+   ],
+   "table": {
+    "head": [
+     "Câu",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "Khẳng định",
+      "I went to school."
+     ],
+     [
+      "Phủ định",
+      "I didn't go to school."
+     ],
+     [
+      "Hỏi",
+      "Did you go to school?"
+     ],
+     [
+      "Trả lời",
+      "Yes, I did. / No, I didn't."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Did you have breakfast?",
+     "vi": "Cậu đã ăn sáng chưa?"
+    },
+    {
+     "en": "He didn't watch TV.",
+     "vi": "Bạn ấy đã không xem TV."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ go out yesterday.",
+     "answer": "didn't",
+     "options": [
+      "didn't",
+      "don't",
+      "wasn't"
+     ],
+     "vi": "Hôm qua tớ không ra ngoài.",
+     "why_vi": "Quá khứ phủ định: didn't."
+    },
+    {
+     "kind": "choose",
+     "q": "___ you see the moon last night?",
+     "answer": "Did",
+     "options": [
+      "Did",
+      "Do",
+      "Were"
+     ],
+     "vi": "Tối qua cậu có nhìn thấy trăng không?",
+     "why_vi": "Hỏi chuyện đã qua: did."
+    },
+    {
+     "kind": "choose",
+     "q": "She didn't ___ her homework.",
+     "answer": "do",
+     "options": [
+      "do",
+      "did",
+      "does"
+     ],
+     "vi": "Bạn ấy đã không làm bài tập.",
+     "why_vi": "Sau didn't là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "Did they ___ the bus?",
+     "answer": "take",
+     "options": [
+      "take",
+      "took",
+      "takes"
+     ],
+     "vi": "Họ có đi xe buýt không?",
+     "why_vi": "Sau did là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "Did you like the film? Yes, I ___.",
+     "answer": "did",
+     "options": [
+      "did",
+      "do",
+      "was"
+     ],
+     "vi": "Cậu có thích phim không? Có.",
+     "why_vi": "Trả lời có: Yes, I did."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "Did",
+      "you",
+      "go",
+      "to",
+      "the",
+      "park"
+     ],
+     "vi": "Cậu có đi công viên không?"
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "didn't",
+      "play",
+      "football"
+     ],
+     "vi": "Chúng tớ đã không đá bóng."
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "stage": 3,
+   "emoji": "🗓️",
+   "title_en": "going to",
+   "title_vi": "Dự định: be going to",
+   "explain_vi": [
+    "Việc mình đã định làm, dùng am, is, are và going to, rồi động từ nguyên mẫu.",
+    "I am going to visit Grandma: tớ định đi thăm bà.",
+    "Hay đi với: tomorrow, next week, this weekend."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "Mẫu câu"
+    ],
+    "rows": [
+     [
+      "I",
+      "am going to + động từ"
+     ],
+     [
+      "He / She / It",
+      "is going to + động từ"
+     ],
+     [
+      "You / We / They",
+      "are going to + động từ"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I'm going to swim this weekend.",
+     "vi": "Cuối tuần này tớ định đi bơi."
+    },
+    {
+     "en": "Look at the clouds! It is going to rain.",
+     "vi": "Nhìn mây kìa! Trời sắp mưa."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I am going ___ visit my uncle.",
+     "answer": "to",
+     "options": [
+      "to",
+      "for",
+      "at"
+     ],
+     "vi": "Tớ định đi thăm chú.",
+     "why_vi": "going to và động từ."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ going to buy a dress.",
+     "answer": "is",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "vi": "Bạn ấy định mua váy.",
+     "why_vi": "She đi với is."
+    },
+    {
+     "kind": "choose",
+     "q": "We are going to ___ a cake.",
+     "answer": "make",
+     "options": [
+      "make",
+      "made",
+      "making"
+     ],
+     "vi": "Chúng tớ định làm bánh.",
+     "why_vi": "Sau going to là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ going to play tennis.",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "vi": "Họ định chơi quần vợt.",
+     "why_vi": "They đi với are."
+    },
+    {
+     "kind": "choose",
+     "q": "What ___ you going to do tomorrow?",
+     "answer": "are",
+     "options": [
+      "are",
+      "is",
+      "do"
+     ],
+     "vi": "Ngày mai cậu định làm gì?",
+     "why_vi": "You đi với are."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "am",
+      "going",
+      "to",
+      "read",
+      "a",
+      "book"
+     ],
+     "vi": "Tớ định đọc một quyển sách."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "It",
+      "is",
+      "going",
+      "to",
+      "rain"
+     ],
+     "vi": "Trời sắp mưa."
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "stage": 3,
+   "emoji": "🔮",
+   "title_en": "will, won't",
+   "title_vi": "Tương lai: will, won't",
+   "explain_vi": [
+    "Will dùng để nói điều sẽ xảy ra, lời hứa hoặc quyết định ngay lúc nói.",
+    "Will đi với mọi người và động từ nguyên mẫu: I will help you.",
+    "Phủ định là won't: I won't be late."
+   ],
+   "table": {
+    "head": [
+     "Câu",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "Khẳng định",
+      "It will be sunny tomorrow."
+     ],
+     [
+      "Phủ định",
+      "I won't forget."
+     ],
+     [
+      "Hỏi",
+      "Will you come?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I will be a teacher.",
+     "vi": "Tớ sẽ làm cô giáo."
+    },
+    {
+     "en": "Don't worry. I will help you.",
+     "vi": "Đừng lo. Tớ sẽ giúp cậu."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "It ___ be hot tomorrow.",
+     "answer": "will",
+     "options": [
+      "will",
+      "is",
+      "does"
+     ],
+     "vi": "Ngày mai trời sẽ nóng.",
+     "why_vi": "Nói chuyện ngày mai: will."
+    },
+    {
+     "kind": "choose",
+     "q": "I will ___ you later.",
+     "answer": "call",
+     "options": [
+      "call",
+      "calls",
+      "calling"
+     ],
+     "vi": "Lát nữa tớ sẽ gọi cho cậu.",
+     "why_vi": "Sau will là động từ nguyên mẫu."
+    },
+    {
+     "kind": "choose",
+     "q": "I ___ be late again. I promise!",
+     "answer": "won't",
+     "options": [
+      "won't",
+      "don't",
+      "am not"
+     ],
+     "vi": "Tớ sẽ không muộn nữa. Tớ hứa!",
+     "why_vi": "Phủ định của will là won't."
+    },
+    {
+     "kind": "choose",
+     "q": "___ you help me, please?",
+     "answer": "Will",
+     "options": [
+      "Will",
+      "Do",
+      "Are"
+     ],
+     "vi": "Cậu giúp tớ được không?",
+     "why_vi": "Nhờ lịch sự: will you."
+    },
+    {
+     "kind": "choose",
+     "q": "She will ___ ten next year.",
+     "answer": "be",
+     "options": [
+      "be",
+      "is",
+      "being"
+     ],
+     "vi": "Năm sau bạn ấy sẽ mười tuổi.",
+     "why_vi": "Sau will dùng be."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "will",
+      "help",
+      "you"
+     ],
+     "vi": "Tớ sẽ giúp cậu."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "It",
+      "will",
+      "rain",
+      "tomorrow"
+     ],
+     "vi": "Ngày mai trời sẽ mưa."
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "stage": 4,
+   "emoji": "📏",
+   "title_en": "bigger, more beautiful",
+   "title_vi": "So sánh hơn: bigger, more beautiful",
+   "explain_vi": [
+    "So sánh hai thứ, từ ngắn thì thêm er và than: big thành bigger than.",
+    "Từ dài thì dùng more: more beautiful than.",
+    "Đặc biệt: good thành better, bad thành worse."
+   ],
+   "table": {
+    "head": [
+     "Từ",
+     "So sánh hơn"
+    ],
+    "rows": [
+     [
+      "tall",
+      "taller"
+     ],
+     [
+      "big",
+      "bigger"
+     ],
+     [
+      "happy",
+      "happier"
+     ],
+     [
+      "beautiful",
+      "more beautiful"
+     ],
+     [
+      "good",
+      "better"
+     ],
+     [
+      "bad",
+      "worse"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "An elephant is bigger than a dog.",
+     "vi": "Con voi to hơn con chó."
+    },
+    {
+     "en": "My sister is taller than me.",
+     "vi": "Chị tớ cao hơn tớ."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "A car is ___ than a bike.",
+     "answer": "faster",
+     "options": [
+      "faster",
+      "fast",
+      "fastest"
+     ],
+     "vi": "Ô tô nhanh hơn xe đạp.",
+     "why_vi": "So sánh hai thứ: thêm er."
+    },
+    {
+     "kind": "choose",
+     "q": "My dad is ___ than my mum.",
+     "answer": "taller",
+     "options": [
+      "taller",
+      "tall",
+      "more tall"
+     ],
+     "vi": "Bố tớ cao hơn mẹ tớ.",
+     "why_vi": "Từ ngắn: taller."
+    },
+    {
+     "kind": "choose",
+     "q": "A whale is ___ than a fish.",
+     "answer": "bigger",
+     "options": [
+      "bigger",
+      "biger",
+      "more big"
+     ],
+     "vi": "Cá voi to hơn con cá.",
+     "why_vi": "big gấp đôi g: bigger."
+    },
+    {
+     "kind": "choose",
+     "q": "This flower is ___ than that one.",
+     "answer": "more beautiful",
+     "options": [
+      "more beautiful",
+      "beautifuler",
+      "beautiful"
+     ],
+     "vi": "Bông hoa này đẹp hơn bông kia.",
+     "why_vi": "Từ dài dùng more."
+    },
+    {
+     "kind": "choose",
+     "q": "Your drawing is ___ than mine.",
+     "answer": "better",
+     "options": [
+      "better",
+      "gooder",
+      "more good"
+     ],
+     "vi": "Tranh của cậu đẹp hơn của tớ.",
+     "why_vi": "good thành better."
+    },
+    {
+     "kind": "choose",
+     "q": "A cat is smaller ___ a dog.",
+     "answer": "than",
+     "options": [
+      "than",
+      "that",
+      "then"
+     ],
+     "vi": "Con mèo nhỏ hơn con chó.",
+     "why_vi": "So sánh hơn dùng than."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "An",
+      "apple",
+      "is",
+      "bigger",
+      "than",
+      "a",
+      "grape"
+     ],
+     "vi": "Quả táo to hơn quả nho."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "My",
+      "bag",
+      "is",
+      "heavier",
+      "than",
+      "your",
+      "bag"
+     ],
+     "vi": "Cặp của tớ nặng hơn cặp của cậu."
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "stage": 4,
+   "emoji": "🏆",
+   "title_en": "the biggest, the most",
+   "title_vi": "So sánh nhất: the biggest, the most",
+   "explain_vi": [
+    "Nói cái gì nhất trong nhiều thứ, từ ngắn thêm est và có the đứng trước: the biggest.",
+    "Từ dài dùng the most: the most beautiful.",
+    "Đặc biệt: good thành the best, bad thành the worst."
+   ],
+   "table": {
+    "head": [
+     "Từ",
+     "Hơn",
+     "Nhất"
+    ],
+    "rows": [
+     [
+      "tall",
+      "taller",
+      "the tallest"
+     ],
+     [
+      "big",
+      "bigger",
+      "the biggest"
+     ],
+     [
+      "happy",
+      "happier",
+      "the happiest"
+     ],
+     [
+      "beautiful",
+      "more beautiful",
+      "the most beautiful"
+     ],
+     [
+      "good",
+      "better",
+      "the best"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "The blue whale is the biggest animal.",
+     "vi": "Cá voi xanh là con vật to nhất."
+    },
+    {
+     "en": "You are my best friend.",
+     "vi": "Cậu là bạn thân nhất của tớ."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "The cheetah is the ___ animal.",
+     "answer": "fastest",
+     "options": [
+      "fastest",
+      "faster",
+      "fast"
+     ],
+     "vi": "Báo săn là con vật chạy nhanh nhất.",
+     "why_vi": "Nhất: thêm est."
+    },
+    {
+     "kind": "choose",
+     "q": "Lan is the ___ girl in my class.",
+     "answer": "tallest",
+     "options": [
+      "tallest",
+      "taller",
+      "most tall"
+     ],
+     "vi": "Lan là bạn gái cao nhất lớp tớ.",
+     "why_vi": "Từ ngắn: the tallest."
+    },
+    {
+     "kind": "choose",
+     "q": "This is the ___ day of my life!",
+     "answer": "happiest",
+     "options": [
+      "happiest",
+      "happyest",
+      "most happy"
+     ],
+     "vi": "Đây là ngày vui nhất đời tớ!",
+     "why_vi": "happy đổi y: happiest."
+    },
+    {
+     "kind": "choose",
+     "q": "It is the ___ picture in the book.",
+     "answer": "most beautiful",
+     "options": [
+      "most beautiful",
+      "beautifulest",
+      "more beautiful"
+     ],
+     "vi": "Đó là bức tranh đẹp nhất trong sách.",
+     "why_vi": "Từ dài: the most."
+    },
+    {
+     "kind": "choose",
+     "q": "Mum makes the ___ cakes.",
+     "answer": "best",
+     "options": [
+      "best",
+      "goodest",
+      "better"
+     ],
+     "vi": "Mẹ làm bánh ngon nhất.",
+     "why_vi": "good thành the best."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "The",
+      "elephant",
+      "is",
+      "the",
+      "biggest"
+     ],
+     "vi": "Con voi là to nhất."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "This",
+      "is",
+      "the",
+      "best",
+      "day"
+     ],
+     "vi": "Đây là ngày tuyệt nhất."
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "stage": 4,
+   "emoji": "⚠️",
+   "title_en": "must, mustn't, should",
+   "title_vi": "Phải, không được, nên: must, mustn't, should",
+   "explain_vi": [
+    "Must là phải làm. Mustn't là không được làm.",
+    "Should là nên làm. Shouldn't là không nên làm.",
+    "Sau must và should là động từ nguyên mẫu."
+   ],
+   "table": {
+    "head": [
+     "Từ",
+     "Nghĩa",
+     "Ví dụ"
+    ],
+    "rows": [
+     [
+      "must",
+      "phải",
+      "You must wear a helmet."
+     ],
+     [
+      "mustn't",
+      "không được",
+      "You mustn't run in class."
+     ],
+     [
+      "should",
+      "nên",
+      "You should drink water."
+     ],
+     [
+      "shouldn't",
+      "không nên",
+      "You shouldn't eat too many sweets."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "We must stop at a red light.",
+     "vi": "Chúng ta phải dừng khi đèn đỏ."
+    },
+    {
+     "en": "You should go to bed early.",
+     "vi": "Cậu nên đi ngủ sớm."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "You ___ cross the road at a red light.",
+     "answer": "mustn't",
+     "options": [
+      "mustn't",
+      "must",
+      "should"
+     ],
+     "vi": "Không được qua đường khi đèn đỏ.",
+     "why_vi": "Không được: mustn't."
+    },
+    {
+     "kind": "choose",
+     "q": "You ___ wash your hands before eating.",
+     "answer": "must",
+     "options": [
+      "must",
+      "mustn't",
+      "can't"
+     ],
+     "vi": "Phải rửa tay trước khi ăn.",
+     "why_vi": "Phải làm: must."
+    },
+    {
+     "kind": "choose",
+     "q": "You have a cold. You ___ rest.",
+     "answer": "should",
+     "options": [
+      "should",
+      "shouldn't",
+      "mustn't"
+     ],
+     "vi": "Cậu bị cảm. Cậu nên nghỉ ngơi.",
+     "why_vi": "Lời khuyên: should."
+    },
+    {
+     "kind": "choose",
+     "q": "You ___ watch TV all day.",
+     "answer": "shouldn't",
+     "options": [
+      "shouldn't",
+      "should",
+      "must"
+     ],
+     "vi": "Không nên xem TV cả ngày.",
+     "why_vi": "Khuyên không nên: shouldn't."
+    },
+    {
+     "kind": "choose",
+     "q": "We must ___ quiet in the library.",
+     "answer": "be",
+     "options": [
+      "be",
+      "are",
+      "being"
+     ],
+     "vi": "Ở thư viện phải giữ trật tự.",
+     "why_vi": "Sau must là động từ nguyên mẫu."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "You",
+      "must",
+      "wear",
+      "a",
+      "seat",
+      "belt"
+     ],
+     "vi": "Cậu phải thắt dây an toàn."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "We",
+      "should",
+      "help",
+      "our",
+      "friends"
+     ],
+     "vi": "Chúng ta nên giúp đỡ bạn bè."
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "stage": 5,
+   "emoji": "🌍",
+   "title_en": "Present perfect: have you ever",
+   "title_vi": "Thì hiện tại hoàn thành: đã từng",
+   "explain_vi": [
+    "Kể trải nghiệm đã từng có, dùng have hoặc has và động từ dạng thứ ba.",
+    "I have been to Ha Long Bay: tớ đã từng đến vịnh Hạ Long.",
+    "Hỏi: Have you ever...? Trả lời: Yes, I have. No, I haven't.",
+    "Never là chưa bao giờ: I have never seen snow."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "Mẫu câu"
+    ],
+    "rows": [
+     [
+      "I / You / We / They",
+      "have + động từ dạng 3"
+     ],
+     [
+      "He / She / It",
+      "has + động từ dạng 3"
+     ],
+     [
+      "Hỏi",
+      "Have you ever + động từ dạng 3?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I have visited Hue.",
+     "vi": "Tớ đã từng đến Huế."
+    },
+    {
+     "en": "Have you ever seen a panda?",
+     "vi": "Cậu đã bao giờ nhìn thấy gấu trúc chưa?"
+    },
+    {
+     "en": "She has never flown in a plane.",
+     "vi": "Bạn ấy chưa bao giờ đi máy bay."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ been to the sea.",
+     "answer": "have",
+     "options": [
+      "have",
+      "has",
+      "am"
+     ],
+     "vi": "Tớ đã từng ra biển.",
+     "why_vi": "I đi với have."
+    },
+    {
+     "kind": "choose",
+     "q": "She ___ seen a dolphin.",
+     "answer": "has",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "vi": "Bạn ấy đã từng thấy cá heo.",
+     "why_vi": "She đi với has."
+    },
+    {
+     "kind": "choose",
+     "q": "Have you ever ___ sushi?",
+     "answer": "eaten",
+     "options": [
+      "eaten",
+      "ate",
+      "eat"
+     ],
+     "vi": "Cậu đã bao giờ ăn sushi chưa?",
+     "why_vi": "Dạng thứ ba của eat là eaten."
+    },
+    {
+     "kind": "choose",
+     "q": "We have ___ this film.",
+     "answer": "seen",
+     "options": [
+      "seen",
+      "saw",
+      "see"
+     ],
+     "vi": "Chúng tớ đã xem phim này rồi.",
+     "why_vi": "Dạng thứ ba của see là seen."
+    },
+    {
+     "kind": "choose",
+     "q": "Have you ever been to Da Lat? No, I ___.",
+     "answer": "haven't",
+     "options": [
+      "haven't",
+      "didn't",
+      "don't"
+     ],
+     "vi": "Cậu đã đến Đà Lạt chưa? Chưa.",
+     "why_vi": "Trả lời chưa: No, I haven't."
+    },
+    {
+     "kind": "choose",
+     "q": "I have ___ seen snow.",
+     "answer": "never",
+     "options": [
+      "never",
+      "ever",
+      "not"
+     ],
+     "vi": "Tớ chưa bao giờ thấy tuyết.",
+     "why_vi": "Chưa bao giờ: never."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "have",
+      "been",
+      "to",
+      "Ha",
+      "Noi"
+     ],
+     "vi": "Tớ đã từng đến Hà Nội."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "Have",
+      "you",
+      "ever",
+      "seen",
+      "a",
+      "tiger"
+     ],
+     "vi": "Cậu đã bao giờ thấy hổ chưa?"
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "stage": 5,
+   "emoji": "⏸️",
+   "title_en": "Past continuous: was playing",
+   "title_vi": "Thì quá khứ tiếp diễn: đang làm thì...",
+   "explain_vi": [
+    "Việc đang diễn ra ở một lúc trong quá khứ, dùng was hoặc were và động từ thêm ing.",
+    "Hay dùng với when: I was reading when Mum called.",
+    "Tớ đang đọc sách thì mẹ gọi."
+   ],
+   "table": {
+    "head": [
+     "Ai",
+     "Mẫu câu"
+    ],
+    "rows": [
+     [
+      "I / He / She / It",
+      "was + động từ ing"
+     ],
+     [
+      "You / We / They",
+      "were + động từ ing"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "At eight o'clock I was eating dinner.",
+     "vi": "Lúc tám giờ tớ đang ăn tối."
+    },
+    {
+     "en": "We were playing when it started to rain.",
+     "vi": "Chúng tớ đang chơi thì trời bắt đầu mưa."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "I ___ sleeping when the phone rang.",
+     "answer": "was",
+     "options": [
+      "was",
+      "were",
+      "am"
+     ],
+     "vi": "Tớ đang ngủ thì điện thoại reo.",
+     "why_vi": "I đi với was."
+    },
+    {
+     "kind": "choose",
+     "q": "They ___ watching TV at nine o'clock.",
+     "answer": "were",
+     "options": [
+      "were",
+      "was",
+      "are"
+     ],
+     "vi": "Lúc chín giờ họ đang xem TV.",
+     "why_vi": "They đi với were."
+    },
+    {
+     "kind": "choose",
+     "q": "She was ___ a song.",
+     "answer": "singing",
+     "options": [
+      "singing",
+      "sing",
+      "sang"
+     ],
+     "vi": "Bạn ấy đang hát.",
+     "why_vi": "Đang làm: thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "What were you ___ yesterday at five?",
+     "answer": "doing",
+     "options": [
+      "doing",
+      "do",
+      "did"
+     ],
+     "vi": "Lúc năm giờ hôm qua cậu đang làm gì?",
+     "why_vi": "Đang làm: thêm ing."
+    },
+    {
+     "kind": "choose",
+     "q": "We were walking ___ it started to rain.",
+     "answer": "when",
+     "options": [
+      "when",
+      "than",
+      "because"
+     ],
+     "vi": "Chúng tớ đang đi bộ thì trời mưa.",
+     "why_vi": "Việc chen vào: dùng when."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "I",
+      "was",
+      "reading",
+      "a",
+      "book"
+     ],
+     "vi": "Tớ đang đọc sách."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "They",
+      "were",
+      "playing",
+      "in",
+      "the",
+      "garden"
+     ],
+     "vi": "Họ đang chơi trong vườn."
+    }
+   ]
+  },
+  {
+   "id": "G26",
+   "stage": 5,
+   "emoji": "🔁",
+   "title_en": "If ..., ... will",
+   "title_vi": "Câu điều kiện: If ..., ... will",
+   "explain_vi": [
+    "Nói điều có thể xảy ra: If và thì hiện tại, rồi will và động từ.",
+    "If it rains, we will stay at home: nếu trời mưa, chúng mình sẽ ở nhà.",
+    "Vế có if không dùng will."
+   ],
+   "table": {
+    "head": [
+     "Vế if",
+     "Vế kết quả"
+    ],
+    "rows": [
+     [
+      "If it is sunny,",
+      "we will go to the beach."
+     ],
+     [
+      "If you study hard,",
+      "you will learn a lot."
+     ],
+     [
+      "If we don't hurry,",
+      "we will be late."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "If you are tired, you will sleep well.",
+     "vi": "Nếu cậu mệt, cậu sẽ ngủ ngon."
+    },
+    {
+     "en": "If we plant trees, the air will be cleaner.",
+     "vi": "Nếu mình trồng cây, không khí sẽ sạch hơn."
+    }
+   ],
+   "practice": [
+    {
+     "kind": "choose",
+     "q": "If it ___, we will stay home.",
+     "answer": "rains",
+     "options": [
+      "rains",
+      "will rain",
+      "rained"
+     ],
+     "vi": "Nếu trời mưa, chúng mình sẽ ở nhà.",
+     "why_vi": "Vế if dùng hiện tại: rains."
+    },
+    {
+     "kind": "choose",
+     "q": "If you eat too much, you ___ feel sick.",
+     "answer": "will",
+     "options": [
+      "will",
+      "are",
+      "did"
+     ],
+     "vi": "Nếu ăn quá nhiều, cậu sẽ bị mệt.",
+     "why_vi": "Vế kết quả dùng will."
+    },
+    {
+     "kind": "choose",
+     "q": "If she ___ hard, she will win.",
+     "answer": "tries",
+     "options": [
+      "tries",
+      "will try",
+      "try"
+     ],
+     "vi": "Nếu bạn ấy cố gắng, bạn ấy sẽ thắng.",
+     "why_vi": "She ở vế if: tries."
+    },
+    {
+     "kind": "choose",
+     "q": "If we ___ hurry, we will miss the bus.",
+     "answer": "don't",
+     "options": [
+      "don't",
+      "won't",
+      "didn't"
+     ],
+     "vi": "Nếu không nhanh lên, mình sẽ lỡ xe buýt.",
+     "why_vi": "Vế if dùng don't."
+    },
+    {
+     "kind": "choose",
+     "q": "If you water the plant, it will ___.",
+     "answer": "grow",
+     "options": [
+      "grow",
+      "grows",
+      "grew"
+     ],
+     "vi": "Nếu cậu tưới cây, cây sẽ lớn.",
+     "why_vi": "Sau will là động từ nguyên mẫu."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "If",
+      "it",
+      "is",
+      "sunny",
+      "we",
+      "will",
+      "swim"
+     ],
+     "vi": "Nếu trời nắng chúng mình sẽ đi bơi."
+    },
+    {
+     "kind": "order",
+     "words": [
+      "If",
+      "you",
+      "are",
+      "hungry",
+      "you",
+      "will",
+      "eat"
+     ],
+     "vi": "Nếu cậu đói cậu sẽ ăn."
+    }
+   ]
+  }
+ ],
+ "tenses": [
+  {
+   "id": "present_simple",
+   "emoji": "☀️",
+   "name_en": "Present simple",
+   "name_vi": "Hiện tại đơn",
+   "use_vi": "Việc làm hằng ngày, thói quen, sự thật.",
+   "yes": "I play. / She plays.",
+   "no": "I don't play. / She doesn't play.",
+   "ask": "Do you play? / Does she play?",
+   "signals": "every day, always, usually, often, sometimes, never",
+   "example": {
+    "en": "I go to school every day.",
+    "vi": "Ngày nào tớ cũng đi học."
+   },
+   "lesson": "G11"
+  },
+  {
+   "id": "present_continuous",
+   "emoji": "🏃",
+   "name_en": "Present continuous",
+   "name_vi": "Hiện tại tiếp diễn",
+   "use_vi": "Việc đang xảy ra ngay lúc này.",
+   "yes": "I am playing. / She is playing.",
+   "no": "I'm not playing. / She isn't playing.",
+   "ask": "Are you playing? / Is she playing?",
+   "signals": "now, right now, look, listen",
+   "example": {
+    "en": "Look! The baby is laughing.",
+    "vi": "Nhìn kìa! Em bé đang cười."
+   },
+   "lesson": "G13"
+  },
+  {
+   "id": "past_simple",
+   "emoji": "📼",
+   "name_en": "Past simple",
+   "name_vi": "Quá khứ đơn",
+   "use_vi": "Việc đã xảy ra và kết thúc trong quá khứ.",
+   "yes": "I played. / I went.",
+   "no": "I didn't play. / I didn't go.",
+   "ask": "Did you play? / Did you go?",
+   "signals": "yesterday, last week, last year, ago",
+   "example": {
+    "en": "We went to the zoo yesterday.",
+    "vi": "Hôm qua chúng tớ đi sở thú."
+   },
+   "lesson": "G17"
+  },
+  {
+   "id": "past_continuous",
+   "emoji": "⏸️",
+   "name_en": "Past continuous",
+   "name_vi": "Quá khứ tiếp diễn",
+   "use_vi": "Việc đang diễn ra ở một lúc trong quá khứ.",
+   "yes": "I was playing. / They were playing.",
+   "no": "I wasn't playing. / They weren't playing.",
+   "ask": "Were you playing?",
+   "signals": "at eight o'clock yesterday, when, while",
+   "example": {
+    "en": "I was eating when Dad came home.",
+    "vi": "Tớ đang ăn thì bố về."
+   },
+   "lesson": "G25"
+  },
+  {
+   "id": "going_to",
+   "emoji": "🗓️",
+   "name_en": "Be going to",
+   "name_vi": "Tương lai dự định",
+   "use_vi": "Việc đã có kế hoạch, hoặc sắp xảy ra.",
+   "yes": "I'm going to swim.",
+   "no": "I'm not going to swim.",
+   "ask": "Are you going to swim?",
+   "signals": "tomorrow, next week, this weekend",
+   "example": {
+    "en": "I'm going to visit Grandma.",
+    "vi": "Tớ định đi thăm bà."
+   },
+   "lesson": "G19"
+  },
+  {
+   "id": "future_will",
+   "emoji": "🔮",
+   "name_en": "Future with will",
+   "name_vi": "Tương lai đơn",
+   "use_vi": "Điều sẽ xảy ra, lời hứa, quyết định ngay lúc nói.",
+   "yes": "I will help.",
+   "no": "I won't help.",
+   "ask": "Will you help?",
+   "signals": "tomorrow, next year, I think, maybe",
+   "example": {
+    "en": "It will be sunny tomorrow.",
+    "vi": "Ngày mai trời sẽ nắng."
+   },
+   "lesson": "G20"
+  },
+  {
+   "id": "present_perfect",
+   "emoji": "🌍",
+   "name_en": "Present perfect",
+   "name_vi": "Hiện tại hoàn thành",
+   "use_vi": "Trải nghiệm đã từng có, việc vừa mới xong.",
+   "yes": "I have seen it. / She has seen it.",
+   "no": "I haven't seen it.",
+   "ask": "Have you ever seen it?",
+   "signals": "ever, never, already, just, yet",
+   "example": {
+    "en": "I have never seen snow.",
+    "vi": "Tớ chưa bao giờ thấy tuyết."
+   },
+   "lesson": "G24"
+  }
+ ],
+ "verbs": [
+  {
+   "base": "be",
+   "s": "is",
+   "ing": "being",
+   "past": "was / were",
+   "pp": "been",
+   "vi": "là, thì, ở",
+   "emoji": "🙋",
+   "irregular": true
+  },
+  {
+   "base": "have",
+   "s": "has",
+   "ing": "having",
+   "past": "had",
+   "pp": "had",
+   "vi": "có",
+   "emoji": "🎁",
+   "irregular": true
+  },
+  {
+   "base": "do",
+   "s": "does",
+   "ing": "doing",
+   "past": "did",
+   "pp": "done",
+   "vi": "làm",
+   "emoji": "🛠️",
+   "irregular": true
+  },
+  {
+   "base": "go",
+   "s": "goes",
+   "ing": "going",
+   "past": "went",
+   "pp": "gone",
+   "vi": "đi",
+   "emoji": "🚶",
+   "irregular": true
+  },
+  {
+   "base": "come",
+   "s": "comes",
+   "ing": "coming",
+   "past": "came",
+   "pp": "come",
+   "vi": "đến",
+   "emoji": "👋",
+   "irregular": true
+  },
+  {
+   "base": "see",
+   "s": "sees",
+   "ing": "seeing",
+   "past": "saw",
+   "pp": "seen",
+   "vi": "nhìn thấy",
+   "emoji": "👀",
+   "irregular": true
+  },
+  {
+   "base": "eat",
+   "s": "eats",
+   "ing": "eating",
+   "past": "ate",
+   "pp": "eaten",
+   "vi": "ăn",
+   "emoji": "🍚",
+   "irregular": true
+  },
+  {
+   "base": "drink",
+   "s": "drinks",
+   "ing": "drinking",
+   "past": "drank",
+   "pp": "drunk",
+   "vi": "uống",
+   "emoji": "🥛",
+   "irregular": true
+  },
+  {
+   "base": "make",
+   "s": "makes",
+   "ing": "making",
+   "past": "made",
+   "pp": "made",
+   "vi": "làm, tạo ra",
+   "emoji": "🧁",
+   "irregular": true
+  },
+  {
+   "base": "take",
+   "s": "takes",
+   "ing": "taking",
+   "past": "took",
+   "pp": "taken",
+   "vi": "cầm, mang đi",
+   "emoji": "🤲",
+   "irregular": true
+  },
+  {
+   "base": "give",
+   "s": "gives",
+   "ing": "giving",
+   "past": "gave",
+   "pp": "given",
+   "vi": "cho, tặng",
+   "emoji": "🎁",
+   "irregular": true
+  },
+  {
+   "base": "get",
+   "s": "gets",
+   "ing": "getting",
+   "past": "got",
+   "pp": "got",
+   "vi": "nhận được",
+   "emoji": "📬",
+   "irregular": true
+  },
+  {
+   "base": "run",
+   "s": "runs",
+   "ing": "running",
+   "past": "ran",
+   "pp": "run",
+   "vi": "chạy",
+   "emoji": "🏃",
+   "irregular": true
+  },
+  {
+   "base": "swim",
+   "s": "swims",
+   "ing": "swimming",
+   "past": "swam",
+   "pp": "swum",
+   "vi": "bơi",
+   "emoji": "🏊",
+   "irregular": true
+  },
+  {
+   "base": "sing",
+   "s": "sings",
+   "ing": "singing",
+   "past": "sang",
+   "pp": "sung",
+   "vi": "hát",
+   "emoji": "🎤",
+   "irregular": true
+  },
+  {
+   "base": "buy",
+   "s": "buys",
+   "ing": "buying",
+   "past": "bought",
+   "pp": "bought",
+   "vi": "mua",
+   "emoji": "🛒",
+   "irregular": true
+  },
+  {
+   "base": "bring",
+   "s": "brings",
+   "ing": "bringing",
+   "past": "brought",
+   "pp": "brought",
+   "vi": "mang đến",
+   "emoji": "🧺",
+   "irregular": true
+  },
+  {
+   "base": "think",
+   "s": "thinks",
+   "ing": "thinking",
+   "past": "thought",
+   "pp": "thought",
+   "vi": "nghĩ",
+   "emoji": "🤔",
+   "irregular": true
+  },
+  {
+   "base": "catch",
+   "s": "catches",
+   "ing": "catching",
+   "past": "caught",
+   "pp": "caught",
+   "vi": "bắt",
+   "emoji": "🥎",
+   "irregular": true
+  },
+  {
+   "base": "teach",
+   "s": "teaches",
+   "ing": "teaching",
+   "past": "taught",
+   "pp": "taught",
+   "vi": "dạy",
+   "emoji": "👩‍🏫",
+   "irregular": true
+  },
+  {
+   "base": "write",
+   "s": "writes",
+   "ing": "writing",
+   "past": "wrote",
+   "pp": "written",
+   "vi": "viết",
+   "emoji": "✍️",
+   "irregular": true
+  },
+  {
+   "base": "read",
+   "s": "reads",
+   "ing": "reading",
+   "past": "read",
+   "pp": "read",
+   "vi": "đọc",
+   "emoji": "📖",
+   "irregular": true
+  },
+  {
+   "base": "ride",
+   "s": "rides",
+   "ing": "riding",
+   "past": "rode",
+   "pp": "ridden",
+   "vi": "đi (xe), cưỡi",
+   "emoji": "🚲",
+   "irregular": true
+  },
+  {
+   "base": "drive",
+   "s": "drives",
+   "ing": "driving",
+   "past": "drove",
+   "pp": "driven",
+   "vi": "lái xe",
+   "emoji": "🚗",
+   "irregular": true
+  },
+  {
+   "base": "fly",
+   "s": "flies",
+   "ing": "flying",
+   "past": "flew",
+   "pp": "flown",
+   "vi": "bay",
+   "emoji": "🪁",
+   "irregular": true
+  },
+  {
+   "base": "draw",
+   "s": "draws",
+   "ing": "drawing",
+   "past": "drew",
+   "pp": "drawn",
+   "vi": "vẽ",
+   "emoji": "🖍️",
+   "irregular": true
+  },
+  {
+   "base": "sleep",
+   "s": "sleeps",
+   "ing": "sleeping",
+   "past": "slept",
+   "pp": "slept",
+   "vi": "ngủ",
+   "emoji": "😴",
+   "irregular": true
+  },
+  {
+   "base": "sit",
+   "s": "sits",
+   "ing": "sitting",
+   "past": "sat",
+   "pp": "sat",
+   "vi": "ngồi",
+   "emoji": "🪑",
+   "irregular": true
+  },
+  {
+   "base": "stand",
+   "s": "stands",
+   "ing": "standing",
+   "past": "stood",
+   "pp": "stood",
+   "vi": "đứng",
+   "emoji": "🧍",
+   "irregular": true
+  },
+  {
+   "base": "speak",
+   "s": "speaks",
+   "ing": "speaking",
+   "past": "spoke",
+   "pp": "spoken",
+   "vi": "nói",
+   "emoji": "🗣️",
+   "irregular": true
+  },
+  {
+   "base": "tell",
+   "s": "tells",
+   "ing": "telling",
+   "past": "told",
+   "pp": "told",
+   "vi": "kể, bảo",
+   "emoji": "💬",
+   "irregular": true
+  },
+  {
+   "base": "say",
+   "s": "says",
+   "ing": "saying",
+   "past": "said",
+   "pp": "said",
+   "vi": "nói",
+   "emoji": "💭",
+   "irregular": true
+  },
+  {
+   "base": "find",
+   "s": "finds",
+   "ing": "finding",
+   "past": "found",
+   "pp": "found",
+   "vi": "tìm thấy",
+   "emoji": "🔍",
+   "irregular": true
+  },
+  {
+   "base": "put",
+   "s": "puts",
+   "ing": "putting",
+   "past": "put",
+   "pp": "put",
+   "vi": "đặt, để",
+   "emoji": "📥",
+   "irregular": true
+  },
+  {
+   "base": "cut",
+   "s": "cuts",
+   "ing": "cutting",
+   "past": "cut",
+   "pp": "cut",
+   "vi": "cắt",
+   "emoji": "✂️",
+   "irregular": true
+  },
+  {
+   "base": "know",
+   "s": "knows",
+   "ing": "knowing",
+   "past": "knew",
+   "pp": "known",
+   "vi": "biết",
+   "emoji": "💡",
+   "irregular": true
+  },
+  {
+   "base": "grow",
+   "s": "grows",
+   "ing": "growing",
+   "past": "grew",
+   "pp": "grown",
+   "vi": "lớn lên, trồng",
+   "emoji": "🌱",
+   "irregular": true
+  },
+  {
+   "base": "throw",
+   "s": "throws",
+   "ing": "throwing",
+   "past": "threw",
+   "pp": "thrown",
+   "vi": "ném",
+   "emoji": "🤾",
+   "irregular": true
+  },
+  {
+   "base": "wear",
+   "s": "wears",
+   "ing": "wearing",
+   "past": "wore",
+   "pp": "worn",
+   "vi": "mặc, đội",
+   "emoji": "👕",
+   "irregular": true
+  },
+  {
+   "base": "win",
+   "s": "wins",
+   "ing": "winning",
+   "past": "won",
+   "pp": "won",
+   "vi": "thắng",
+   "emoji": "🏆",
+   "irregular": true
+  },
+  {
+   "base": "lose",
+   "s": "loses",
+   "ing": "losing",
+   "past": "lost",
+   "pp": "lost",
+   "vi": "thua, đánh mất",
+   "emoji": "😟",
+   "irregular": true
+  },
+  {
+   "base": "begin",
+   "s": "begins",
+   "ing": "beginning",
+   "past": "began",
+   "pp": "begun",
+   "vi": "bắt đầu",
+   "emoji": "🏁",
+   "irregular": true
+  },
+  {
+   "base": "break",
+   "s": "breaks",
+   "ing": "breaking",
+   "past": "broke",
+   "pp": "broken",
+   "vi": "làm vỡ",
+   "emoji": "💥",
+   "irregular": true
+  },
+  {
+   "base": "fall",
+   "s": "falls",
+   "ing": "falling",
+   "past": "fell",
+   "pp": "fallen",
+   "vi": "ngã, rơi",
+   "emoji": "🍂",
+   "irregular": true
+  },
+  {
+   "base": "feel",
+   "s": "feels",
+   "ing": "feeling",
+   "past": "felt",
+   "pp": "felt",
+   "vi": "cảm thấy",
+   "emoji": "💛",
+   "irregular": true
+  },
+  {
+   "base": "hear",
+   "s": "hears",
+   "ing": "hearing",
+   "past": "heard",
+   "pp": "heard",
+   "vi": "nghe thấy",
+   "emoji": "👂",
+   "irregular": true
+  },
+  {
+   "base": "leave",
+   "s": "leaves",
+   "ing": "leaving",
+   "past": "left",
+   "pp": "left",
+   "vi": "rời đi",
+   "emoji": "🚪",
+   "irregular": true
+  },
+  {
+   "base": "meet",
+   "s": "meets",
+   "ing": "meeting",
+   "past": "met",
+   "pp": "met",
+   "vi": "gặp",
+   "emoji": "🤝",
+   "irregular": true
+  },
+  {
+   "base": "send",
+   "s": "sends",
+   "ing": "sending",
+   "past": "sent",
+   "pp": "sent",
+   "vi": "gửi",
+   "emoji": "📨",
+   "irregular": true
+  },
+  {
+   "base": "spend",
+   "s": "spends",
+   "ing": "spending",
+   "past": "spent",
+   "pp": "spent",
+   "vi": "tiêu (tiền), dành (thời gian)",
+   "emoji": "💰",
+   "irregular": true
+  },
+  {
+   "base": "wake",
+   "s": "wakes",
+   "ing": "waking",
+   "past": "woke",
+   "pp": "woken",
+   "vi": "thức dậy",
+   "emoji": "⏰",
+   "irregular": true
+  },
+  {
+   "base": "hide",
+   "s": "hides",
+   "ing": "hiding",
+   "past": "hid",
+   "pp": "hidden",
+   "vi": "trốn, giấu",
+   "emoji": "🙈",
+   "irregular": true
+  },
+  {
+   "base": "build",
+   "s": "builds",
+   "ing": "building",
+   "past": "built",
+   "pp": "built",
+   "vi": "xây",
+   "emoji": "🧱",
+   "irregular": true
+  },
+  {
+   "base": "forget",
+   "s": "forgets",
+   "ing": "forgetting",
+   "past": "forgot",
+   "pp": "forgotten",
+   "vi": "quên",
+   "emoji": "❓",
+   "irregular": true
+  },
+  {
+   "base": "understand",
+   "s": "understands",
+   "ing": "understanding",
+   "past": "understood",
+   "pp": "understood",
+   "vi": "hiểu",
+   "emoji": "✅",
+   "irregular": true
+  },
+  {
+   "base": "play",
+   "s": "plays",
+   "ing": "playing",
+   "past": "played",
+   "pp": "played",
+   "vi": "chơi",
+   "emoji": "⚽",
+   "irregular": false
+  },
+  {
+   "base": "like",
+   "s": "likes",
+   "ing": "liking",
+   "past": "liked",
+   "pp": "liked",
+   "vi": "thích",
+   "emoji": "👍",
+   "irregular": false
+  },
+  {
+   "base": "love",
+   "s": "loves",
+   "ing": "loving",
+   "past": "loved",
+   "pp": "loved",
+   "vi": "yêu",
+   "emoji": "❤️",
+   "irregular": false
+  },
+  {
+   "base": "want",
+   "s": "wants",
+   "ing": "wanting",
+   "past": "wanted",
+   "pp": "wanted",
+   "vi": "muốn",
+   "emoji": "🙏",
+   "irregular": false
+  },
+  {
+   "base": "need",
+   "s": "needs",
+   "ing": "needing",
+   "past": "needed",
+   "pp": "needed",
+   "vi": "cần",
+   "emoji": "🆘",
+   "irregular": false
+  },
+  {
+   "base": "help",
+   "s": "helps",
+   "ing": "helping",
+   "past": "helped",
+   "pp": "helped",
+   "vi": "giúp",
+   "emoji": "🤝",
+   "irregular": false
+  },
+  {
+   "base": "watch",
+   "s": "watches",
+   "ing": "watching",
+   "past": "watched",
+   "pp": "watched",
+   "vi": "xem",
+   "emoji": "📺",
+   "irregular": false
+  },
+  {
+   "base": "listen",
+   "s": "listens",
+   "ing": "listening",
+   "past": "listened",
+   "pp": "listened",
+   "vi": "nghe",
+   "emoji": "🎧",
+   "irregular": false
+  },
+  {
+   "base": "look",
+   "s": "looks",
+   "ing": "looking",
+   "past": "looked",
+   "pp": "looked",
+   "vi": "nhìn",
+   "emoji": "👁️",
+   "irregular": false
+  },
+  {
+   "base": "walk",
+   "s": "walks",
+   "ing": "walking",
+   "past": "walked",
+   "pp": "walked",
+   "vi": "đi bộ",
+   "emoji": "🚶",
+   "irregular": false
+  },
+  {
+   "base": "jump",
+   "s": "jumps",
+   "ing": "jumping",
+   "past": "jumped",
+   "pp": "jumped",
+   "vi": "nhảy",
+   "emoji": "🦘",
+   "irregular": false
+  },
+  {
+   "base": "dance",
+   "s": "dances",
+   "ing": "dancing",
+   "past": "danced",
+   "pp": "danced",
+   "vi": "nhảy múa",
+   "emoji": "💃",
+   "irregular": false
+  },
+  {
+   "base": "cook",
+   "s": "cooks",
+   "ing": "cooking",
+   "past": "cooked",
+   "pp": "cooked",
+   "vi": "nấu ăn",
+   "emoji": "🍳",
+   "irregular": false
+  },
+  {
+   "base": "clean",
+   "s": "cleans",
+   "ing": "cleaning",
+   "past": "cleaned",
+   "pp": "cleaned",
+   "vi": "dọn dẹp",
+   "emoji": "🧹",
+   "irregular": false
+  },
+  {
+   "base": "wash",
+   "s": "washes",
+   "ing": "washing",
+   "past": "washed",
+   "pp": "washed",
+   "vi": "rửa",
+   "emoji": "🧼",
+   "irregular": false
+  },
+  {
+   "base": "brush",
+   "s": "brushes",
+   "ing": "brushing",
+   "past": "brushed",
+   "pp": "brushed",
+   "vi": "chải, đánh (răng)",
+   "emoji": "🪥",
+   "irregular": false
+  },
+  {
+   "base": "open",
+   "s": "opens",
+   "ing": "opening",
+   "past": "opened",
+   "pp": "opened",
+   "vi": "mở",
+   "emoji": "📂",
+   "irregular": false
+  },
+  {
+   "base": "close",
+   "s": "closes",
+   "ing": "closing",
+   "past": "closed",
+   "pp": "closed",
+   "vi": "đóng",
+   "emoji": "🚪",
+   "irregular": false
+  },
+  {
+   "base": "start",
+   "s": "starts",
+   "ing": "starting",
+   "past": "started",
+   "pp": "started",
+   "vi": "bắt đầu",
+   "emoji": "▶️",
+   "irregular": false
+  },
+  {
+   "base": "stop",
+   "s": "stops",
+   "ing": "stopping",
+   "past": "stopped",
+   "pp": "stopped",
+   "vi": "dừng lại",
+   "emoji": "🛑",
+   "irregular": false
+  },
+  {
+   "base": "carry",
+   "s": "carries",
+   "ing": "carrying",
+   "past": "carried",
+   "pp": "carried",
+   "vi": "xách, mang",
+   "emoji": "🎒",
+   "irregular": false
+  },
+  {
+   "base": "cry",
+   "s": "cries",
+   "ing": "crying",
+   "past": "cried",
+   "pp": "cried",
+   "vi": "khóc",
+   "emoji": "😢",
+   "irregular": false
+  },
+  {
+   "base": "study",
+   "s": "studies",
+   "ing": "studying",
+   "past": "studied",
+   "pp": "studied",
+   "vi": "học",
+   "emoji": "📚",
+   "irregular": false
+  },
+  {
+   "base": "try",
+   "s": "tries",
+   "ing": "trying",
+   "past": "tried",
+   "pp": "tried",
+   "vi": "thử, cố gắng",
+   "emoji": "💪",
+   "irregular": false
+  },
+  {
+   "base": "visit",
+   "s": "visits",
+   "ing": "visiting",
+   "past": "visited",
+   "pp": "visited",
+   "vi": "thăm",
+   "emoji": "🏡",
+   "irregular": false
+  },
+  {
+   "base": "live",
+   "s": "lives",
+   "ing": "living",
+   "past": "lived",
+   "pp": "lived",
+   "vi": "sống",
+   "emoji": "🏠",
+   "irregular": false
+  },
+  {
+   "base": "climb",
+   "s": "climbs",
+   "ing": "climbing",
+   "past": "climbed",
+   "pp": "climbed",
+   "vi": "leo",
+   "emoji": "🧗",
+   "irregular": false
+  },
+  {
+   "base": "smile",
+   "s": "smiles",
+   "ing": "smiling",
+   "past": "smiled",
+   "pp": "smiled",
+   "vi": "cười mỉm",
+   "emoji": "😊",
+   "irregular": false
+  },
+  {
+   "base": "laugh",
+   "s": "laughs",
+   "ing": "laughing",
+   "past": "laughed",
+   "pp": "laughed",
+   "vi": "cười to",
+   "emoji": "😂",
+   "irregular": false
+  },
+  {
+   "base": "kick",
+   "s": "kicks",
+   "ing": "kicking",
+   "past": "kicked",
+   "pp": "kicked",
+   "vi": "đá",
+   "emoji": "🦵",
+   "irregular": false
+  },
+  {
+   "base": "paint",
+   "s": "paints",
+   "ing": "painting",
+   "past": "painted",
+   "pp": "painted",
+   "vi": "tô màu, sơn",
+   "emoji": "🎨",
+   "irregular": false
+  },
+  {
+   "base": "plant",
+   "s": "plants",
+   "ing": "planting",
+   "past": "planted",
+   "pp": "planted",
+   "vi": "trồng cây",
+   "emoji": "🌳",
+   "irregular": false
+  },
+  {
+   "base": "rain",
+   "s": "rains",
+   "ing": "raining",
+   "past": "rained",
+   "pp": "rained",
+   "vi": "mưa",
+   "emoji": "🌧️",
+   "irregular": false
+  },
+  {
+   "base": "fix",
+   "s": "fixes",
+   "ing": "fixing",
+   "past": "fixed",
+   "pp": "fixed",
+   "vi": "sửa",
+   "emoji": "🔧",
+   "irregular": false
+  },
+  {
+   "base": "finish",
+   "s": "finishes",
+   "ing": "finishing",
+   "past": "finished",
+   "pp": "finished",
+   "vi": "làm xong",
+   "emoji": "🏁",
+   "irregular": false
+  },
+  {
+   "base": "ask",
+   "s": "asks",
+   "ing": "asking",
+   "past": "asked",
+   "pp": "asked",
+   "vi": "hỏi",
+   "emoji": "❔",
+   "irregular": false
+  },
+  {
+   "base": "answer",
+   "s": "answers",
+   "ing": "answering",
+   "past": "answered",
+   "pp": "answered",
+   "vi": "trả lời",
+   "emoji": "🙋",
+   "irregular": false
+  },
+  {
+   "base": "enjoy",
+   "s": "enjoys",
+   "ing": "enjoying",
+   "past": "enjoyed",
+   "pp": "enjoyed",
+   "vi": "tận hưởng, thích",
+   "emoji": "🥳",
+   "irregular": false
+  },
+  {
+   "base": "shop",
+   "s": "shops",
+   "ing": "shopping",
+   "past": "shopped",
+   "pp": "shopped",
+   "vi": "đi mua sắm",
+   "emoji": "🛍️",
+   "irregular": false
+  }
+ ]
+}

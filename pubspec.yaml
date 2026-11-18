@@ -54,6 +54,7 @@ flutter:
     - assets/curriculum/level_5/
     - assets/pron/
     - assets/talk/
+    - assets/grammar/
     - assets/story_art/
     - assets/word_art/
     - assets/bi3d/
