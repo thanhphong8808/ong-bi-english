@@ -288,90 +288,100 @@ class _GrammarPracticeScreenState extends ConsumerState<GrammarPracticeScreen> {
 
   Widget _learn(int level) {
     final lesson = widget.args.lesson!;
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
+    // The start button stays pinned under the lesson, so the child sees it
+    // without scrolling to the end.
+    return Column(
       children: [
-        Row(
-          children: [
-            BiMascot(mood: BiMood.thinking, size: 96, level: level),
-            const SizedBox(width: 8),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(lesson.titleVi, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w900, height: 1.2)),
-                  Text(lesson.titleEn,
-                      style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w700, color: AppColors.inkSoft)),
-                ],
-              ),
-            ),
-          ],
-        ),
-        SectionTitle(S.grammarLearn,
-            trailing: RoundIconButton(
-              icon: Icons.volume_up_rounded,
-              semanticLabel: S.listenAgain,
-              onPressed: () {
-                unawaited(_services.speech.stop().then((_) => _explain()));
-              },
-            )),
-        SoftCard(
-          color: AppColors.honeySoft,
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+        Expanded(
+          child: ListView(
+            padding: const EdgeInsets.fromLTRB(16, 8, 16, 12),
             children: [
-              for (final line in lesson.explainVi)
-                Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 4),
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      const Text('🐝 ', style: TextStyle(fontSize: 16)),
-                      Expanded(
-                        child: Text(line, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700, height: 1.3)),
-                      ),
-                    ],
-                  ),
-                ),
-            ],
-          ),
-        ),
-        if (lesson.tableRows.isNotEmpty) ...[
-          const SizedBox(height: 14),
-          _GrammarTable(head: lesson.tableHead, rows: lesson.tableRows, onTapRow: _sayRow),
-        ],
-        const SectionTitle(S.grammarExamples),
-        for (final e in lesson.examples)
-          Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: SoftCard(
-              semanticLabel: e.en,
-              onTap: () => unawaited(_sayEn(e.en)),
-              padding: const EdgeInsets.all(12),
-              child: Row(
+              Row(
                 children: [
-                  const Icon(Icons.volume_up_rounded, color: AppColors.honeyDeep),
-                  const SizedBox(width: 10),
+                  BiMascot(mood: BiMood.thinking, size: 96, level: level),
+                  const SizedBox(width: 8),
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(e.en, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w900)),
-                        Text(e.vi, style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w600, color: AppColors.inkSoft)),
+                        Text(lesson.titleVi, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w900, height: 1.2)),
+                        Text(lesson.titleEn,
+                            style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w700, color: AppColors.inkSoft)),
                       ],
                     ),
                   ),
                 ],
               ),
-            ),
+              SectionTitle(S.grammarLearn,
+                  trailing: RoundIconButton(
+                    icon: Icons.volume_up_rounded,
+                    semanticLabel: S.listenAgain,
+                    onPressed: () {
+                      unawaited(_services.speech.stop().then((_) => _explain()));
+                    },
+                  )),
+              SoftCard(
+                color: AppColors.honeySoft,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final line in lesson.explainVi)
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 4),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text('🐝 ', style: TextStyle(fontSize: 16)),
+                            Expanded(
+                              child: Text(line, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700, height: 1.3)),
+                            ),
+                          ],
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+              if (lesson.tableRows.isNotEmpty) ...[
+                const SizedBox(height: 14),
+                _GrammarTable(head: lesson.tableHead, rows: lesson.tableRows, onTapRow: _sayRow),
+              ],
+              const SectionTitle(S.grammarExamples),
+              for (final e in lesson.examples)
+                Padding(
+                  padding: const EdgeInsets.only(bottom: 8),
+                  child: SoftCard(
+                    semanticLabel: e.en,
+                    onTap: () => unawaited(_sayEn(e.en)),
+                    padding: const EdgeInsets.all(12),
+                    child: Row(
+                      children: [
+                        const Icon(Icons.volume_up_rounded, color: AppColors.honeyDeep),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(e.en, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w900)),
+                              Text(e.vi, style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w600, color: AppColors.inkSoft)),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+            ],
           ),
-        const SizedBox(height: 12),
-        Center(
-          child: PillButton(
-            label: S.grammarStartPractice,
-            icon: Icons.play_arrow_rounded,
-            big: true,
-            onPressed: _startPractice,
+        ),
+        Padding(
+          padding: const EdgeInsets.fromLTRB(16, 4, 16, 16),
+          child: Center(
+            child: PillButton(
+              label: S.grammarStartPractice,
+              icon: Icons.play_arrow_rounded,
+              big: true,
+              onPressed: _startPractice,
+            ),
           ),
         ),
       ],

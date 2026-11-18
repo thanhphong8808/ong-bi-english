@@ -301,7 +301,7 @@ if alive; then
     if $UI tap "am, is, are" 10; then
       sleep 12
       $UI shot 16-grammar-learn
-      $UI seek "Bắt đầu luyện tập" || PROBLEMS+=("grammar: no practice button")
+      $UI tap "Bắt đầu luyện tập" 10 || PROBLEMS+=("grammar: no practice button")
       sleep 6
       $UI shot 16-grammar-practice
       $UI tapx "am" 10 || PROBLEMS+=("grammar: answer button not found")
